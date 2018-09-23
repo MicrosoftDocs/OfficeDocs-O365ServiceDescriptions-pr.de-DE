@@ -1,0 +1,82 @@
+---
+title: Archivfunktionen in der Exchange Online-Archivierung
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 6/13/2018
+ms.audience: ITPro
+ms.topic: reference
+f1_keywords:
+- archive-features-in-exchange-online-archiving
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom:
+- Adm_ServiceDesc
+- Adm_ServiceDesc_top
+ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
+description: Die folgenden Abschnitte beschreiben die Archivfunktionen von Microsoft Exchange Online-Archivierung.
+ms.openlocfilehash: 2bffa9fccb2c040fde4edcf8a5c80f3bc109bba2
+ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24035830"
+---
+# <a name="archive-features-in-exchange-online-archiving"></a>Archivfunktionen in der Exchange Online-Archivierung
+
+Die folgenden Abschnitte beschreiben die Archivfunktionen von Microsoft Exchange Online-Archivierung.
+  
+## <a name="archive-mailbox"></a>Archivpostfach
+
+Exchange Online-Archivierung bietet Benutzern mit der Archivpostfachfunktion erweiterte Archivierungsfunktionen. Ein Archivpostfach ist ein spezielles Postfach, das in Outlook oder Outlook Web App neben den primären Postfachordnern eines Benutzers angezeigt wird. Benutzer können auf das Archiv auf die gleiche Weise zugreifen, wie sie auf ihre primären Postfachordner zugreifen. Darüber hinaus können sie ihre Archive und primären Postfächer durchsuchen.
+  
+Administratoren können die Archivfunktion mithilfe des Exchange Admin Center (EAC) oder der remote verwendeten Windows PowerShell für bestimmte Benutzer archivieren. Weitere Informationen finden Sie unter [Aktivieren und Deaktivieren von Archivpostfächern in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404425).
+  
+> [!IMPORTANT]
+>  Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung zu Exchange Online-Archivierung zu kopieren. >  Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung dann zu verweigern, wenn das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer verwendet wird. 
+  
+### <a name="move-messages-to-exchange-online-archiving"></a>Verschieben von Nachrichten zur Exchange Online-Archivierung
+
+Benutzer können ziehen und Ablegen von Nachrichten aus PST-Dateien in das Archiv, für den einfachen Zugriff online. Benutzer können auch e-Mail-Elemente aus dem Hauptpostfach in das Archivpostfach automatisch verschieben verringern Sie die Größe und Verbessern der Leistung von dem Hauptpostfach mithilfe Archiv-Richtlinien. Während dieses Verhalten von Exchange Hosted Archive, um eine sekundäre Kopie jeder Nachricht in das Archiv erstellen unterscheidet, können in beiden Fällen Aufbewahrungspflichten erzielt werden. Informationen zu weiteren Methoden zum Verschieben von Nachrichten in das Archiv finden Sie unter [archivieren Postfächer in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).
+  
+### <a name="import-data-to-the-archive"></a>Importieren von Daten in das Archiv
+
+Benutzer haben folgende Möglichkeiten, um Daten in das Archiv zu importieren:
+  
+- Importieren von Daten aus einer PST-Datei mithilfe des Import/Export-Assistenten von Outlook.
+    
+- Ziehen von E-Mail-Nachrichten aus PST-Dateien in das Archiv.
+    
+- Ziehen von E-Mails aus dem primären Postfach in das Archiv.
+    
+- Archivrichtlinien automatisch E-Mail-Nachrichten je nach Alter der Nachrichten vom primären Postfach verschieben lassen. Weitere Informationen finden Sie unter [Aufbewahrungstags und Aufbewahrungsrichtlinien](https://go.microsoft.com/fwlink/p/?LinkId=314153).
+    
+> [!NOTE]
+> Administratoren können auch den Office 365-Importdienst verwenden, um PST-Dateien in cloudbasierte Archivpostfächer der Benutzer zu importieren. Weitere Informationen finden Sie unter [Verwenden des Netzwerkuploads zum Importieren von PST-Dateien in Office 365](https://go.microsoft.com/fwlink/p/?linkid=823074). 
+  
+## <a name="deleted-item-recovery"></a>Wiederherstellung gelöschter Elemente
+
+Benutzer können Elemente wiederherstellen, die sie aus einem E-Mail-Ordner in ihrem Archiv gelöscht haben. Wenn ein Element gelöscht wird, wird es im Ordner "Gelöschte Elemente" des Archivs aufbewahrt. Es wird dort so lange gespeichert, bis es vom Benutzer automatisch verschoben oder durch Aufbewahrungsrichtlinien automatisch entfernt wird.
+  
+Nachdem ein Element aus dem Ordner "Gelöschte Elemente" des Archivs gelöscht wurde, wird das Element im Ordner "Wiederherstellbare Elemente" des Archivs weitere 14 Tage lang aufbewahrt, bevor es endgültig gelöscht wird. Benutzer können diese Elemente mithilfe der Funktion **Gelöschte Objekte wiederherstellen** in Microsoft Outlook oder Outlook Web App wiederherstellen. 
+  
+Wenn ein Benutzer ein Element manuell aus dem Ordner „Wiederherstellbare Elemente" gelöscht hat, kann ein Administrator das Element innerhalb des gleichen 14-Tage-Zeitfensters mithilfe des Features „Wiederherstellung einzelner Elemente" wiederherstellen. Dieses Feature erlaubt Administratoren, eine Suche in mehreren Postfächern durchzuführen, um gelöschte Elemente zu finden, und dann mithilfe des Windows PowerShell-Cmdlets  `Search-Mailbox` die Elemente aus dem Discoverypostfach in die Postfächer von Benutzern zu verschieben. Weitere Informationen finden Sie unter [Aktivieren oder Deaktivieren der Wiederherstellung einzelner Elemente für ein Postfach](https://go.microsoft.com/fwlink/p/?LinkId=314155).
+  
+> [!NOTE]
+>  Der Zeitraum für die Wiederherstellung einzelner Elemente beträgt standardmäßig 14 Tage, kann aber in einigen Fällen angepasst werden. >  Wenn ein Administrator das Postfach eines Benutzers in einem Compliance-Archiv platziert hat oder für ein Beweissicherungsverfahren aktiviert hat, werden gelöschte Elemente auf unbegrenzte Zeit gespeichert, und das 14-Tage-Zeitfenster gilt nicht. 
+  
+## <a name="deleted-mailbox-recovery"></a>Wiederherstellung gelöschter Postfächer
+
+Wenn Administratoren Benutzer auf dem lokalen Exchange Server löschen, werden auch die Archive der Benutzer gelöscht. Wenn die gelöschten Archivpostfächer wiederhergestellt werden müssen, kann das Office 365-Supportteam diese Wiederherstellung durchführen. Ein wiederhergestelltes Archiv enthält alle E-Mails, die darin gespeichert waren, als es gelöscht wurde.
+  
+> [!IMPORTANT]
+> Administratoren haben ab dem Zeitpunkt, an dem das Postfach eines Benutzers gelöscht wird, 30 Tage Zeit, um die Wiederherstellung eines Archivpostfachs anzufordern. Nach 30 Tagen kann das Archivpostfach nicht mehr wiederhergestellt werden. 
+  
+## <a name="mailbox-service-redundancy"></a>Redundanz von Postfachdiensten
+
+Archivpostfächer in Exchange Online-Archivierung werden auf mehreren Datenbankkopien in geografisch verteilten Microsoft-Rechenzentren, um Daten Wiederherstellung Funktionen im Fall eines messaging Infrastruktur-Ausfalls bereitzustellen repliziert. Business Continuity Management wird für umfangreiche Fehlern initiiert. 
+  
+## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
+
+Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Beschreibung des Exchange Online-Archivierungsdiensts](exchange-online-archiving-service-description.md).
+  
