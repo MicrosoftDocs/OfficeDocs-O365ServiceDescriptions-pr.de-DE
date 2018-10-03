@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035724"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359591"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Grenzwerte
 
@@ -41,7 +41,7 @@ Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne 
 ||||
 |:-----|:-----|:-----|
 |**Funktion** <br/> |**SharePoint Online-Plan 1** <br/> |**SharePoint Online-Plan 2** <br/> |
-|Speicher<sup>1, 2</sup> <br/> |1 TB pro Organisation plus 0,5 GB pro erworbene Lizenz<sup>3</sup> <br/> |1 TB pro Organisation plus 0,5 GB pro erworbene Lizenz<sup>3</sup> <br/> |
+|Speicher<sup>1, 2</sup> <br/> |1 TB pro Organisation plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB pro Organisation plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |
 |Nutzungsbedingungen für Store  <br/> |200,000  <br/> |200,000  <br/> |
 |Speicher für Websitesammlungen  <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |
 |Websitesammlungen pro Mandant  <br/> |500.000 pro Organisation<sup>5</sup> <br/> |500.000 pro Organisation<sup>5</sup> <br/> |
