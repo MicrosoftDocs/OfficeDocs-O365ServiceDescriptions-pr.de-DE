@@ -15,14 +15,20 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Möchten Sie wissen, welche Lizenzen Sie kaufen, um bestimmte Skype für Business-Features zu erhalten müssen? Finden Sie unter der Skype für Business Lizenzierung (Übersicht).
-ms.openlocfilehash: c1503762e792183a38b5f63e07c10889914f35df
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035783"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362930"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online-Dienstbeschreibung
+
+> [!NOTE]
+> Microsoft-Teams, ist nun die primären Client für messaging und Besprechungen und Aufrufen von in Office 365. Starten 1 Oktober 2018, neue Office 365-Kunden mit 500 Arbeitsplätzen oder weniger werden Onboarded, die Microsoft-Teams und haben keinen Zugriff auf Skype für Business Online. Mandanten, die bereits Skype für eine Business Online dadurch weiterhin verwenden, bis der Vorgang abgeschlossen ihre Übergang zu Microsoft-Teams, Ja (einschließlich Bereitstellung neuer Benutzer).
+
+> [!NOTE]
+> Skype für Business Online – Plan 1 wird aus Verkauf ab Oktober 10 zurückgezogen. Dies bedeutet, dass Sie nicht mehr um Skype für Instant Messaging, Anwesenheitsinformationen und Peer-zu-Peer-Sprach- und Videofunktionen für Business Online – Plan 1, erwerben können. Diese Features werden weiterhin unterstützt werden in allen Office 365 bietet, die Teams enthalten, einschließlich Office 365 F1. Ablauf des Plans am Ende der aktuellen Begriff, müssen Sie, um den Zugriff auf diese Funktionen weiterhin können in einen anderen Plan wechseln. Es wird empfohlen, dass Sie auswerten den Office 365 F1 Plan für Benutzer, die gegenwärtig Skype für Business Online Plan 1 zugewiesen haben. 
 
  **Möchten Sie wissen, welche Lizenzen Sie kaufen, um bestimmte Skype für Business-Features zu erhalten müssen? Finden Sie unter der [Skype für Business Lizenzierung (Übersicht)](https://go.microsoft.com/fwlink/?LinkID=799524).**
   

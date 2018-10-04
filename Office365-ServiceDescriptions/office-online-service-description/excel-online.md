@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (früher Excel Web App) erweitert Ihre Microsoft Excel-Erfahrung an den Webbrowser, können Sie mit Arbeitsmappen direkt auf der Website arbeiten, in die Arbeitsmappe gespeichert ist. Alle Office 365-Kunden können anzeigen und bearbeiten geringem Umfang Office-Dateien mit Office Online.
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035776"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362900"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ In Excel Online kann bedingte Formatierung angezeigt, aber nicht angewendet werd
 ## <a name="apply-data-validation-to-cells"></a>Anwenden der Datenüberprüfung auf Zellen
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Nicht verfügbar in Excel Online. Erweiterte Features wie die Datenüberprüfung sind nur in der Excel-Desktop-App verfügbar. Sie können jedoch mit der in Excel Online aktivierten Datenvalidierung arbeiten. Erfahren Sie mehr über das [Anwenden der Datenüberprüfung auf Zellen in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282328).
+Dieses Feature ist in Excel Online verfügbar. Andere erweiterte Features sind nur verfügbar in der Excel-desktop-app.
   
 ## <a name="apply-smartrecommended-formatting"></a>Anwenden der intelligenten/empfohlenen Formatierung
 <a name="bkmk_Applysmartformatting"> </a>

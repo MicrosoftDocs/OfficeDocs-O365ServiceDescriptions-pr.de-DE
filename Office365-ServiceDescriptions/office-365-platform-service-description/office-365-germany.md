@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierten Option aus der Office 365-Dienste bereits vermittelt in Europa. Es hilft Ihnen, die Bedürfnissen der am häufigsten regulierten Kunden in Deutschland, in der Europäischen Union (EU) und der Europäischen Zuordnung (EFTA) durch die Bereitstellung von unsere branchenführende Produktivität Services für digitale Arbeit aus Deutsch Daten zentriert mit Daten vor-Ort-Adresse in Deutschland und strict Datenzugriff und Steuerelement es gesteuert deutschen Rechtsvorschriften Measures über eine eindeutige vertrauensnehmerdomäne Datenmodell.
-ms.openlocfilehash: ee91b0d097693488895e022641e92705c9b82e43
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035863"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362960"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -24,7 +24,7 @@ Office 365 Deutschland ist eine differenzierten Option aus der Office 365-Dienst
   
 Der Vertrauensnehmer der Daten, T-Systems International, bei dem es sich um ein unabhängiges deutsches Unternehmen und eine Niederlassung der Deutschen Telekom handelt, steuert den physischen und logischen Zugriff auf Kundendaten. Auf Kundendaten kann nur mit Genehmigung oder unter Aufsicht des Vertrauensnehmers zugegriffen werden, der sich nach deutschen Recht richtet. 
   
-Office 365 ist ein einzigartiges Angebotsmodell. Daher gibt es einige Features, die noch nicht aktiviert wurden. Im Laufe der Zeit wird der Funktionsumfang dieser Dienste den globalen Diensten angeglichen werden. Eine Übersicht über die inbegriffenen Funktionen sowie Möglichkeiten, Support zu erhalten, finden Sie unter [Weitere Informationen zu Office 365 Deutschland](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
+Basierend auf dieser Entwicklung in den Bedürfnissen Kunden, unsere Cloud-Strategie für Deutschland Schwerpunkt auf der Bereitstellung der neuen Cloud Regionen in Deutschland, die konsistent mit unserem globalen Cloud sind anbietet. In diesem wird wir nicht mehr werden neue Kunden akzeptieren oder Bereitstellen neuer Dienste aus der derzeit Microsoft Cloud Deutschland. Bestehende Kunden können auch weiterhin mithilfe die aktuellen heute verfügbaren Clouddiensten die wir mit erforderlichen Sicherheitsupdates verwalten können. [Informieren Sie sich über Office 365 Deutschland](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 ## <a name="service-availability-for-each-plan"></a>Dienstverfügbarkeit nach Plan
 
@@ -85,7 +85,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Microsoft StaffHub<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Sway<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Teams  <br/> |Keine<sup>9</sup> <br/> |Nein  <br/> |Keine<sup>9</sup> <br/> |Nein  <br/> |Keine<sup>9</sup> <br/> |Keine<sup>9</sup> <br/> |Keine<sup>9</sup> <br/> |Nein  <br/> |
-|Office Delve<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Office Delve<sup></sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Office 365-Gruppen  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365 Video  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |**[Benutzerkontenverwaltung](user-account-management.md)** <br/> |**Office 365 Deutschland Business Essentials** <br/> |**Office 365 Deutschland Business** <br/> |**Office 365 Deutschland Business Premium** <br/> |**Office 365 Deutschland Education A1** <br/> |**Office 365 Deutschland Enterprise E1** <br/> |**Office 365 Deutschland Enterprise E3** <br/> |**Office 365 Deutschland Enterprise E4** <br/> |**Office 365 Deutschland Enterprise K1** <br/> |
@@ -265,7 +265,8 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 |[Office Mobile für Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Office Mobile für Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Outlook für Android<sup>11</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|**Unternehmenswert** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
+|**Unternehmenswert** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |
+  **Office 365 ProPlus** <br/> |
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Ja  <br/> |Ja,<sup>8</sup> <br/> |
 |Automatisiertes Bereitstellen von Benutzerkonten  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
 |Mehrsprachige Benutzeroberfläche  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |

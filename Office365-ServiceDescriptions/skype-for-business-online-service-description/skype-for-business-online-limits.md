@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategorien:'
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035769"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362880"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -127,11 +127,11 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |15 Tage  <br/> |15 Tage  <br/> |15 Tage  <br/> |15 Tage  <br/> |Nicht zutreffend  <br/> |
-|Besprechungsinhaltsaufbewahrung: Wiederkehrende Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |15 Tage  <br/> |15 Tage  <br/> |15 Tage  <br/> |15 Tage  <br/> |Nicht zutreffend  <br/> |
+|Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
+|Besprechungsinhaltsaufbewahrung: Wiederkehrende Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
 |Besprechungsinhaltsaufbewahrung: Sofortbesprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |8 Stunden  <br/> |8 Stunden  <br/> |8 Stunden  <br/> |8 Stunden  <br/> |Nicht zutreffend  <br/> |
 |Ablauf der Besprechung: Einmalige Besprechung  <br/> |Enddatum plus 365 Tage<sup>2</sup> <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
-|Ablauf der Besprechung: Wiederkehrende Besprechung  <br/> |Mit Enddatum: Enddatum plus 365 Tage<sup>2</sup> <br/> Ohne Enddatum: Letzte Konferenz plus 6 Monate<sup>3</sup> <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
+|Ablauf der Besprechung: Wiederkehrende Besprechung  <br/> |Mit Enddatum: Enddatum plus 365 Tage<sup>2</sup> <br/> Ohne Enddatum: immer zugänglich If 1/Jahr<sup>3</sup> aktualisiert <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
 |Ablauf der Besprechung: Sofortbesprechung  <br/> |8 Stunden  <br/> | 8 Stunden  <br/> |8 Stunden  <br/> |8 Stunden  <br/> |8 Stunden  <br/> |Nicht zutreffend  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
-|Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |Nicht zutreffend  <br/> |15 Tage  <br/> |
-|Besprechungsinhaltsaufbewahrung: Wiederkehrende Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |Nicht zutreffend  <br/> |15 Tage  <br/> |
+|Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
+|Besprechungsinhaltsaufbewahrung: Wiederkehrende Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
 |Besprechungsinhaltsaufbewahrung: Sofortbesprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |Nicht zutreffend  <br/> |8 Stunden  <br/> |
 |Ablauf der Besprechung: Einmalige Besprechung  <br/> |Enddatum plus 365 Tage<sup>2</sup> <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
-|Ablauf der Besprechung: Wiederkehrende Besprechung  <br/> |Mit Enddatum: Enddatum plus 365 Tage<sup>2</sup> <br/> Ohne Enddatum: Letzte Konferenz plus 6 Monate<sup>3</sup> <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
+|Ablauf der Besprechung: Wiederkehrende Besprechung  <br/> |Mit Enddatum: Enddatum plus 365 Tage<sup>2</sup> <br/> Ohne Enddatum: immer zugänglich If 1/Jahr<sup>3</sup> aktualisiert <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
 |Ablauf der Besprechung: Sofortbesprechung  <br/> |8 Stunden  <br/> |Nicht zutreffend  <br/> |8 Stunden  <br/> |
    
 > [!NOTE]

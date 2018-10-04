@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, da es Menschen und die in puncto Produktivität von Office 365 mit erweiterter Sicherheit und Gerät Management-Funktionen zum Schutz Ihres Unternehmens. . Diese Beschreibung wird Planoptionen und Funktionen beschrieben. Weitere Informationen zu Office 365 finden Sie unter der Office 365-Dienstbeschreibungen.
-ms.openlocfilehash: 31c558517247b51df4270035d682479ab3649f82
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 69dcfdf12f3398b5ff8be8f5b8d3a81701080a42
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035768"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362890"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -51,7 +51,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Microsoft Planner  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft PowerApps  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft StaffHub  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Stream  <br/> |Nein  <br/> |Ja  <br/> |
+|Microsoft Stream  <br/> |Ja,<sup>19</sup>  <br/> |Ja,<sup>19</sup>  <br/> |
 |Microsoft Sway  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Teams<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |Office Delve  <br/> |Ja  <br/> |Ja  <br/> |
@@ -96,7 +96,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Office 365 Advanced eDiscovery<sup>15</sup> <br/> |Nein  <br/> |Nein  <br/> |
 |Secure Score<sup>16</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |
-|[-Einhaltung [Dienstbeschr]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Compliance[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |
@@ -168,4 +168,5 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 <br/><sup>4</sup> Azure Information Protection (AIP) aktiviert die unterstützten Information Rights Management-Funktionen (IRM). In Microsoft 365 Business ist AIP Plan 1 enthalten. Office-Clientunterstützung für einige AIP-Features in Microsoft 365 Business wird im Sommer 2018 aktiviert.<br/><sup>5</sup>  Microsoft Teams steht in Microsoft 365 Business, Office 365 Business Essentials, Office 365 Business Premium und Office 365 Enterprise (E1, E3, E5, F1) zur Verfügung. Für Office 365 Education-Pläne steht es noch nicht zur Verfügung.<br/><sup>6</sup> Azure Information Protection (AIP) aktiviert die unterstützten Information Rights Management-Funktionen (IRM). In Microsoft 365 Business ist AIP Plan 1 enthalten. Office-Clientunterstützung für einige AIP-Features in Microsoft 365 Business wird im Sommer 2018 aktiviert.<br/><sup>7</sup> Azure AD-Connect-Tool zur Aktivierung der verzeichnissynchronisierung wird in Office 365 Business Premium unterstützt, eine Komponente von Microsoft 365 Business ist. Allerdings bei Windows Management-Komponenten für Microsoft 365 Business ein Azure aktiviert sind AD-Verknüpfung ist erforderlich. Wenn Sie über eine lokale Active Directory-Umgebung verfügen, und Sie die Domäne eingebundener Geräte Azure AD teilnehmen möchten, erreichen Sie dies durch [Konfigurieren der Hybriden Azure AD Geräte verbunden](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup).<br/><sup>8</sup> Wenn Sie die Verzeichnissynchronisierung mit einem lokalen Active Directory verwenden, müssen Sie mit dem lokalen Active Directory Konten löschen oder Kennwörter ändern, statt das Office 365-Portal oder das Azure Active Directory-Modul für  Windows PowerShell dazu zu nutzen. 
 <br/><sup>9</sup> cloudidentitäten nur. Finden Sie unter [Benutzer ihre eigenen Kennwörter in Office 365 zurücksetzen können](https://go.microsoft.com/fwlink/?linkid=852917).<br/><sup>10</sup> Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird.<br/><sup>11</sup> Microsoft 365 Business enthält Exchange Online-Archivierung-Abonnement. Jeder Exchange Online-Archivierung Abonnent empfängt zunächst 100 GB an Speicher in das Archivpostfach. Wenn die Archivierung erweiterbares aktiviert ist, ist zusätzlicher Speicher automatisch hinzugefügt, wenn die Speicherkapazität 100 GB erreicht wird. Weitere Informationen finden Sie unter [Übersicht über die uneingeschränkte Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=863320).<br/> <sup>12</sup> Features für die Verhinderung von Datenverlust sind ab Sommer 2018 in Microsoft 365 Business verfügbar. Office-Clientunterstützung für einige DLP-Features in Microsoft 365 Business wird im Sommer 2018 aktiviert.<br/><sup>13</sup> Office-Clientunterstützung für einige ATP-Features in Microsoft 365 Business wird im Sommer 2018 aktiviert. 
 <br/><sup>14</sup> Weitere Informationen finden Sie unter [Kontrolle über Ihre Daten in Office 365 mit Kunden-Taste](https://go.microsoft.com/fwlink/?linkid=863349). 
-<br/><sup>15</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.)<br/><sup>16</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in die Office 365 Secure Bewertung](https://go.microsoft.com/fwlink/?linkid=863490).<br/><sup>17</sup> Vereinfachte Windows 10-Geräteverwaltung, die in die Microsoft 365 Business-Konsole integriert ist. Vollständige Intune-Funktionen für iOS, Android, Mac OS und andere plattformübergreifende Geräteverwaltungsfunktionen, die in die Azure-Konsole integriert sind und auch für die Verwendung mit Microsoft 365 Business lizenziert sind. Drittanbieter-Apps und die Konfiguration von Dingen wie WiFi-Profilen, VPN-Zertifikaten usw. können in der vollständigen Intune-Konsole verwaltet werden.<br/><sup>18</sup> Diese Features werden im Microsoft 365 Business Admin Center schrittweise in den nächsten Monaten eingeführt. 
+<br/><sup>15</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.)<br/><sup>16</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in die Office 365 Secure Bewertung](https://go.microsoft.com/fwlink/?linkid=863490).<br/><sup>17</sup> Vereinfachte Windows 10-Geräteverwaltung, die in die Microsoft 365 Business-Konsole integriert ist. Vollständige Intune-Funktionen für iOS, Android, Mac OS und andere plattformübergreifende Geräteverwaltungsfunktionen, die in die Azure-Konsole integriert sind und auch für die Verwendung mit Microsoft 365 Business lizenziert sind. Drittanbieter-Apps und die Konfiguration von Dingen wie WiFi-Profilen, VPN-Zertifikaten usw. können in der vollständigen Intune-Konsole verwaltet werden.<br/><sup>18</sup> Diese Features werden im Microsoft 365 Business Admin Center schrittweise in den nächsten Monaten eingeführt. <br>
+<sup>19</sup> diesem Plan im Lieferumfang von Microsoft Stream Plan 2 die Portal Video, Sprache zu Text Lautschrift, Tiefe Such- und das Standardsymbol zurück Erkennung enthält.
