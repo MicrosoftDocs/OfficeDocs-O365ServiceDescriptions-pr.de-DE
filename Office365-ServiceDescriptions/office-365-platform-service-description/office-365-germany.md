@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierten Option aus der Office 365-Dienste bereits vermittelt in Europa. Es hilft Ihnen, die Bedürfnissen der am häufigsten regulierten Kunden in Deutschland, in der Europäischen Union (EU) und der Europäischen Zuordnung (EFTA) durch die Bereitstellung von unsere branchenführende Produktivität Services für digitale Arbeit aus Deutsch Daten zentriert mit Daten vor-Ort-Adresse in Deutschland und strict Datenzugriff und Steuerelement es gesteuert deutschen Rechtsvorschriften Measures über eine eindeutige vertrauensnehmerdomäne Datenmodell.
-ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 1b3de84245762fafed85ed1e37fc03207e51766d
+ms.sourcegitcommit: 88bc607a51846db46509c4453c3438406f3f2f54
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362960"
+ms.lasthandoff: 10/04/2018
+ms.locfileid: "25407688"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -79,12 +79,12 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Flow  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Forms  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft MyAnalytics<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft Planner<sup>9, 39</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Microsoft MyAnalytics <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Microsoft Planner <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft PowerApps  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft StaffHub<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft Sway<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft Teams  <br/> |Keine<sup>9</sup> <br/> |Nein  <br/> |Keine<sup>9</sup> <br/> |Nein  <br/> |Keine<sup>9</sup> <br/> |Keine<sup>9</sup> <br/> |Keine<sup>9</sup> <br/> |Nein  <br/> |
+|Microsoft StaffHub <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Microsoft Sway <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Microsoft Teams  <br/> |Nein <br/> |Nein  <br/> |Nein <br/> |Nein  <br/> |Nein<br/> |Nein <br/> |Nein <br/> |Nein  <br/> |
 |Office Delve<sup></sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Office 365-Gruppen  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365 Video  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -101,7 +101,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Mehrere Administratorrollen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Zulassen, dass ein Partner Office 365 für Sie verwaltet  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Azure Active Directory-Dienste  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Erstellen von App-Kennwörtern<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Erstellen von app-Kennwörtern<br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |**[Domänen](domains.md)** <br/> |**Office 365 Deutschland Business Essentials** <br/> |**Office 365 Deutschland Business** <br/> |**Office 365 Deutschland Business Premium** <br/> |**Office 365 Deutschland Education A1** <br/> |**Office 365 Deutschland Enterprise E1** <br/> |**Office 365 Deutschland Enterprise E3** <br/> |**Office 365 Deutschland Enterprise E4** <br/> |**Office 365 Deutschland Enterprise K1** <br/> |
 |Hinzufügen von benutzerdefinierten Domänen der zweiten Ebene, wie „fourthcoffee.de"  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Hinzufügen von benutzerdefinierten Domänen der dritten Ebene, wie „marketing.fourthcoffee.de"  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -160,7 +160,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Advanced Threat Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Kunden-Lockbox  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Office 365 Erweiterte eDiscovery  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Secure Score<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Sichere Score <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |**[Compliance[ServiceDesc]](compliance-servicedesc.md)**<sup>10</sup> <br/> |||||||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
