@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die eindeutige und weiterentwickelte gemäß der USA öffentlicher Sektor, Microsoft Office-365 US-Regierung Pläne erstellt hat (OrOffice 365 US-Regierung). Dieser Abschnitt enthält eine Übersicht über Features, die für Office-365 US-Regierung spezifisch sind. Es wird empfohlen, dass Sie diese zusätzlichen Abschnitt zusammen mit der Office 365-Dienstbeschreibungen lesen.
-ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
+ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435833"
+ms.lasthandoff: 10/22/2018
+ms.locfileid: "25696140"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -216,7 +216,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Microsoft Teams  <br/> |Ja<sup>16</sup> <br/> |Ja<sup>16</sup> <br/> |Ja<sup>16</sup> <br/> |Ja<sup>16</sup> <br/> |
 |Office Delve  <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Ja  <br/> |Ja,<sup>9, 15</sup> <br/> |
 |Office 365-Gruppen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Office 365 Video  <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Nein  <br/> |
+|Office 365-Video  <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Nein  <br/> |
 |**[Benutzerkontenverwaltung](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 US-Regierung G1** <br/> |**Office 365 US-Regierung G3** <br/> |**Office 365 US-Regierung G5** <br/> |**Office 365 US-Regierung F1** <br/> |
 |Cloudidentität  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Identitätsverbund (einmaliges Anmelden)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -249,14 +249,14 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Neue und gelöschte Postfächer  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |Neue und gelöschte Gruppen  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |Postfachnutzung  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
-|Typen der Postfachverbindungen  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
-|Gesendete und empfangene E-Mail  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
+|Arten von Postfachverbindungen  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
+|Gesendete und empfangene E-Mails  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |Häufigste Absender und Empfänger  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |Spamerkennungen  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
-|Schadsoftwareerkennungen  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
-|Häufigste Schadsoftware per E-Mail  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
-|Regelübereinstimmungen bei E-Mails  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
-|Häufigste Regelübereinstimmungen bei E-Mails  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
+|Erkennung von Schadsoftware  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
+|Häufig vorkommende Schadprogramme in E-Mails  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
+|Regelübereinstimmungen für E-Mail  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
+|Häufigste Regelübereinstimmungen für E-Mail  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |Häufigste Übereinstimmungen mit DLP-Richtlinien bei E-Mails  <br/> |Nein  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |Übereinstimmungen mit DLP-Richtlinien bei E-Mails nach Schweregrad  <br/> |Nein  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |DLP-Richtlinienübereinstimmungen, Außerkraftsetzungen und falsch positive Ergebnisse bei E-Mails  <br/> |Nein  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
@@ -343,7 +343,7 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |[Office Mobile für Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |[Office Mobile für Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |[Office Mobile für Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
-|Outlook für iOS und Android<sup>5</sup>  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
+|Outlook für iOS und Android<sup>5, 4</sup>  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
 |**Unternehmenswert** <br/> |**Office 365 US-Regierung G1** <br/> |**Office 365 US-Regierung G3** <br/> |**Office 365 US-Regierung G5** <br/> |**Office 365 US-Regierung F1** <br/> |
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Automatisiertes Bereitstellen von Benutzerkonten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
