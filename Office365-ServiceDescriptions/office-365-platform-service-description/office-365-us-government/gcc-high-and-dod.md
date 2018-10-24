@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
-ms.openlocfilehash: cb20461e3aa25b23d2fd5cd7ef8ad0761ccbdef7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
+ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035881"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25719069"
 ---
 # <a name="gcc-high-and-dod"></a>GCC High and DoD
 
@@ -76,7 +76,7 @@ Office 365-Abonnements in GCC High and DoD-Umgebungen beinhalten die zentralen E
     
 4. Bestimmte Personen
     
-Kunden, die SharePoint Online und OneDrive for Business in GCC High and DoD-Umgebungen verwenden, können Dokumente schützen (erste Option), mit jedem Benutzer innerhalb ihrer Organisation gemeinsam nutzen (zweite Option), mit jedem gemeinsam nutzen, der das Link zum Dokument hat (dritte Option) und mit bestimmten Personen in GCC High and DoD-Umgebungen (vierte Option) gemeinsam nutzen; natürlich können diese Optionen auch basierend auf Zugriffssteuerungen auf Mandantenebene eingeschränkt werden.
+Kunden mit SharePoint Online und OneDrive for Business in den Umgebungen GCC hoch oder DoD Dokumente vertraulich bleiben kann (zuerst option) für alle Benutzer in ihrer Organisation freigeben (zweite Option), Freigeben für jede Person mit der Verknüpfung mit dem Dokument (dritte Option), und Freigabe für bestimmte Personen innerhalb GCC hohe und DoD-Umgebungen (vierte option). Natürlich können dieser Optionen eingeschränkt werden basierend auf Mandantenebene zugreifen auf Steuerelemente sowie.
   
 Hohe GCC Mandanten können nur mit anderen GCC hohe Mandanten freigeben. Zum Beispiel:
   
