@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Die folgenden Abschnitte beschreiben die Archivfunktionen von Microsoft Exchange Online-Archivierung.
-ms.openlocfilehash: 2bffa9fccb2c040fde4edcf8a5c80f3bc109bba2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035830"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215350"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Archivfunktionen in der Exchange Online-Archivierung
 
@@ -37,7 +37,7 @@ Administratoren können die Archivfunktion mithilfe des Exchange Admin Center (E
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Verschieben von Nachrichten zur Exchange Online-Archivierung
 
-Benutzer können ziehen und Ablegen von Nachrichten aus PST-Dateien in das Archiv, für den einfachen Zugriff online. Benutzer können auch e-Mail-Elemente aus dem Hauptpostfach in das Archivpostfach automatisch verschieben verringern Sie die Größe und Verbessern der Leistung von dem Hauptpostfach mithilfe Archiv-Richtlinien. Während dieses Verhalten von Exchange Hosted Archive, um eine sekundäre Kopie jeder Nachricht in das Archiv erstellen unterscheidet, können in beiden Fällen Aufbewahrungspflichten erzielt werden. Informationen zu weiteren Methoden zum Verschieben von Nachrichten in das Archiv finden Sie unter [archivieren Postfächer in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).
+Benutzer können ziehen und Ablegen von Nachrichten aus PST-Dateien in das Archiv, für den einfachen Zugriff online. Benutzer können auch e-Mail-Elemente aus dem Hauptpostfach in das Archivpostfach automatisch verschieben verringern Sie die Größe und Verbessern der Leistung von dem Hauptpostfach mithilfe Archiv-Richtlinien. Während dieses Verhalten von Exchange Hosted Archive, um eine sekundäre Kopie jeder Nachricht in das Archiv erstellen unterscheidet, können in beiden Fällen Aufbewahrungspflichten erzielt werden. 
   
 ### <a name="import-data-to-the-archive"></a>Importieren von Daten in das Archiv
 

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategorien:'
-ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
+ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362880"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296865"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -119,41 +119,20 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 - **Besprechungsablaufzeitraum** Die Dauer nach dem Ende einer Besprechung, in der Benutzer auf die Besprechung zugreifen können. 
     
-### <a name="meeting-retention-limits-across-office-365-options"></a>Besprechungsaufbewahrungsgrenzwerte für Office 365-Optionen
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Besprechungsaufbewahrungsgrenzwerte für Office 365-Produkten und -Plänen
 
 > [!NOTE]
 > Jede Person kann in der Datenbank jederzeit über maximal 1000 Konferenzen verfügen. 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
-|Besprechungsinhaltsaufbewahrung: Wiederkehrende Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
-|Besprechungsinhaltsaufbewahrung: Sofortbesprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |8 Stunden  <br/> |8 Stunden  <br/> |8 Stunden  <br/> |8 Stunden  <br/> |Nicht zutreffend  <br/> |
-|Ablauf der Besprechung: Einmalige Besprechung  <br/> |Enddatum plus 365 Tage<sup>2</sup> <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
-|Ablauf der Besprechung: Wiederkehrende Besprechung  <br/> |Mit Enddatum: Enddatum plus 365 Tage<sup>2</sup> <br/> Ohne Enddatum: immer zugänglich If 1/Jahr<sup>3</sup> aktualisiert <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |Nicht zutreffend  <br/> |
-|Ablauf der Besprechung: Sofortbesprechung  <br/> |8 Stunden  <br/> | 8 Stunden  <br/> |8 Stunden  <br/> |8 Stunden  <br/> |8 Stunden  <br/> |Nicht zutreffend  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> Besprechung Content-Archivierung in einer lokalen Bereitstellung von Skype für Business Server 2015 kann über die Skype für Feature Business Server 2015 Archivierung konfiguriert werden. Business Server 2015 TechNet-Bibliothek finden Sie unter [Planen der Archivierung](https://go.microsoft.com/fwlink/p/?LinkId=398299) in der Skype.<br/> <sup>2</sup> Nachdem die Besprechung aktiviert wurde, wird dieses Ablaufdatum um weitere 365 Tage verlängert.<br/><sup>3</sup> Nachdem die Besprechung aktiviert wurde, wird dieses Ablaufdatum um weitere 6 Monate Tage verlängert. 
-  
-### <a name="meeting-retention-limits-across-standalone-options"></a>Besprechungsaufbewahrungsgrenzwerte bei Optionen für eigenständige Pläne
+|**Art Besprechung** <br/> |**Beschreibung** <br/> 
+|Einmalige Besprechung| 14 Tage nach Ende, letzten Besprechung Aktivierung oder letzten besprechungsaktualisierung - ist je neuesten.
+|Besprechungsserie mit Enddatum| Besprechung zugegriffen werden mindestens bis 14 Tage nach dem geplanten Ende der letzten Besprechungsinstanz der letzten Aktivierung meeting oder letzten meeting Update, je nachdem, welche neuesten.
+|Besprechungsserie ohne Enddatum| Besprechung wird immer zugegriffen werden, vorausgesetzt, es gibt neue Konferenz Joins (Aktivierungen) oder beim Planen von Updates mindestens einmal pro Jahr
+|     Besprechung beginnen|Besprechung kann für mindestens 8 Stunden zugegriffen werden.
 
-> [!NOTE]
-> Jede Person kann in der Datenbank jederzeit über maximal 1000 Konferenzen verfügen. 
-  
-|||||
-|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
-|Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
-|Besprechungsinhaltsaufbewahrung: Wiederkehrende Besprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
-|Besprechungsinhaltsaufbewahrung: Sofortbesprechung  <br/> |Konfigurierbare<sup>1</sup> <br/> |Nicht zutreffend  <br/> |8 Stunden  <br/> |
-|Ablauf der Besprechung: Einmalige Besprechung  <br/> |Enddatum plus 365 Tage<sup>2</sup> <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
-|Ablauf der Besprechung: Wiederkehrende Besprechung  <br/> |Mit Enddatum: Enddatum plus 365 Tage<sup>2</sup> <br/> Ohne Enddatum: immer zugänglich If 1/Jahr<sup>3</sup> aktualisiert <br/> |Nicht zutreffend  <br/> |14 Tage  <br/> |
-|Ablauf der Besprechung: Sofortbesprechung  <br/> |8 Stunden  <br/> |Nicht zutreffend  <br/> |8 Stunden  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> Besprechung Content-Archivierung in einer lokalen Bereitstellung von Skype für Business Server 2015 kann über die Skype für Feature Business Server 2015 Archivierung konfiguriert werden. Business Server 2015 TechNet-Bibliothek finden Sie unter [Planen der Archivierung](https://go.microsoft.com/fwlink/p/?LinkId=398299) in der Skype.<br/><sup>2</sup> Nachdem die Besprechung aktiviert wurde, wird dieses Ablaufdatum um weitere 365 Tage verlängert.<br/><sup>3</sup> Nachdem die Besprechung aktiviert wurde, wird dieses Ablaufdatum um weitere 6 Monate Tage verlängert. 
+
   
 ## <a name="minute-limits"></a>Minutenlimits
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>

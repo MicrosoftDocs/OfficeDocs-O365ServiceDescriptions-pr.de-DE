@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
-ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
-ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
+ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "25719069"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215370"
 ---
 # <a name="gcc-high-and-dod"></a>GCC High and DoD
 
@@ -104,6 +104,6 @@ Die mehrstufige Authentifizierung unter Verwendung eines Identitätsmodells erm�
   
 ### <a name="yammer"></a>Yammer
 
-Yammer steht nicht in GCC High and DoD-Umgebungen zur Verfügung.
+Yammer Enterprise ist nicht verfügbar in den GCC hohe und DoD-Umgebungen.
   
 

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online ist eine Auflistung von webbasierter Tools und -Technologien, mit die Hilfe Ihre Organisation speichern, freigeben und Verwalten von digitalen Informationen. Basiert auf Microsoft SharePoint Server 2013 und ist gehostete Dienst ideal für an Projekten arbeiten, Daten und Dokumente an einem zentralen Ort speichern und Freigeben von Informationen für andere Personen. Die folgenden Inhaltsfunktionen erleichtert die Enterprise Content Management (ECM) für jeden Benutzer. Es ist die Kombination von herkömmlichen Content Management, soziale Funktionen und leistungsstarke Search.
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035856"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215380"
 ---
 # <a name="content"></a>Inhalts
 
@@ -39,7 +39,7 @@ Objektbibliotheken werden vorab so konfiguriert, dass spezielle Funktionen verwe
 ## <a name="auditing"></a>Überwachung
 <a name="bkmk_Auditing"> </a>
 
-Administratoren von SharePoint Online-Websitesammlungen können die Überwachungsfunktion verwenden, um nachzuverfolgen, welche Benutzer welche Aktionen auf Websites, Inhaltstypen, Listen, Bibliotheken, Listenelemente und Bibliotheksdateien von Websitesammlungen angewendet haben. Erfahren Sie mehr über das [Konfigurieren von Überwachungseinstellungen für eine Websitesammlung](https://go.microsoft.com/fwlink/?LinkId=270950).
+SharePoint Online Websitesammlungs-Administratoren können das Audit Feature zum Nachverfolgen, welche Benutzer, welche Aktionen auf die Websites, Inhaltstypen, Listen, Bibliotheken, Listenelemente und Bibliotheksdateien von Websitesammlungen durchgeführt haben. Weitere Informationen zum [Konfigurieren von überwachungseinstellungen für eine Websitesammlung fest](https://go.microsoft.com/fwlink/?LinkId=270950).
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>Überwachung &amp; und Berichterstellung (z. B. Änderungen an Dokumenten und Richtlinien sowie Löschvorgänge)
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ Objektbibliotheken werden vorab so konfiguriert, dass spezielle Funktionen verwe
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM: Suchmaschinenoptimierungen (SEO)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-Die Suchmaschinenoptimierung einer öffentlichen Website ist sehr wichtig, sowohl für die Gewinnung neuer Kunden als auch für die Bindung von Bestandskunden. SharePoint Online umfasst integrierte SEO-Funktionen, z. B. eine anpassbare "robots.txt"-Datei und Metatags auf Seitenebene. Mit ihnen können Unternehmen ihre Websites mühelos optimieren und besser in den Suchergebnissen platzieren. Erfahren Sie mehr über das [Optimieren Ihrer Website für Suchmaschinen (SEO)](https://go.microsoft.com/fwlink/?LinkId=270932).
+Optimieren einer öffentlichen Websites für die Suche ist sehr wichtig, eine Verbindung mit neuen und Rückgabe-Kunden. SharePoint Online verfügt über integrierte SEO-Funktionen wie anpassbare robots.txt und Seitenebene Metatagging damit Organisationen problemlos Websites für bessere Suchergebnisse optimieren können.
   
 ## <a name="word-automation-services"></a>Word Automation Services
 <a name="bkmk_WordAutomationServices"> </a>

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen am besten die Anforderungen Ihrer Organisation entsprechen. Wenn die Unterschiede zwischen der Office 365-Pläne Education Sie suchen erfahren in diesem Artikel Sie in den einzelnen Elementen durch welche Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office-Desktopsuite mit Cloud-basierten Versionen der nächsten Generation Communications und Collaboration-Dienste von Microsoft – einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office Online und Microsoft Skype für Business Online – Benutzer werden über das Internet egal an welchem Ort produktiv arbeiten.
-ms.openlocfilehash: 90b530ae0188637d04b76396a9e1f46ca3478ccd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035843"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215400"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -32,7 +32,7 @@ Jeder Office 365 Schulungsplan umfasst eine Reihe von einzelnen Services wie Exc
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Dienst** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <sup>3</sup> <br/> |
+|**Service** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <sup>3</sup> <br/> |
 |Office 365-Plattform  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online  <br/> |Ja,<sup>5</sup> <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -62,7 +62,7 @@ Die folgende Tabelle enthält alle Plattformfeatures, die in Office 365 Educatio
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Office 365-Verwaltungsfeatures](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
 |Verwalten von Office 365 über das Office 365 Admin Center oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -157,7 +157,7 @@ Die folgende Tabelle enthält alle Plattformfeatures, die in Office 365 Educatio
 |Office 365 erweiterte eDiscovery<sup>7</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Secure Score<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|**[-Einhaltung [Dienstbeschr]](compliance-servicedesc.md)** <br/> ||||
+|**[Compliance[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -188,7 +188,7 @@ Das [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Zugriff auf das Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Advanced Security Management](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Bedrohungsverwaltung](https://go.microsoft.com/fwlink/?linkid=845550) wie z. B. E-Mail-Filterung und Antischadsoftware    <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -197,7 +197,7 @@ Das [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 |[Verhinderung von Datenverlust](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Datenkontrolle](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Erweiterte Datenkontrolle](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|[Suche und Untersuchung](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Suche und Untersuchung]<br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[eDiscovery-Suche](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[eDiscovery-Export](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Erweiterte eDiscovery](https://go.microsoft.com/fwlink/?linkid=715714)<sup>4</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
@@ -215,7 +215,7 @@ Verwenden Sie in der folgenden Tabelle, um die Verfügbarkeit von Features in Of
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**Office-Anwendungen** <br/> ||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Nein<sup>3, 4</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Nein<sup>3, 4</sup> <br/> |Ja  <br/> |Ja  <br/> |
@@ -291,7 +291,7 @@ Die folgende Tabelle enthält die Exchange Online-Features, die in Office 365 Ed
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Planung und Bereitstellung](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |Unterstützung für Hybridbereitstellung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unterstützung für IMAP-Migration  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -332,7 +332,7 @@ Die folgende Tabelle enthält die Exchange Online-Features, die in Office 365 Ed
 |**[Empfänger](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Kapazitätswarnungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unwichtige Elemente  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|E-Mail-Info  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|MailTips  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Stellvertretungszugriff  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Posteingangsregeln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verbundene Konten  <br/> |Ja,<sup>5</sup> <br/> |Ja,<sup>5</sup> <br/> |Ja,<sup>5</sup> <br/> |
@@ -464,7 +464,7 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Benutzerpostfächer  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |Websitepostfächer<sup>6, 7</sup> <br/> |Unbegrenzte<sup>1</sup> <br/> |Unbegrenzte<sup>1</sup> <br/> |Unbegrenzte<sup>1</sup> <br/> |
 |Freigegebene Postfächer  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
@@ -489,7 +489,7 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Warnung  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
 |Senden verbieten  <br/> |49,5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
 |Senden/Empfangen verbieten  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
@@ -523,7 +523,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Maximale Anzahl von Nachrichten pro Postfachordner  <br/> |1 Million  <br/> |1 Mio.  <br/> |1 Mio.  <br/> |
 |Warnung zur Anzahl der Nachrichten pro Postfachordner  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |
@@ -595,7 +595,7 @@ Empfangsgrenzen gelten für die Anzahl von Nachrichten, die ein Benutzer, eine G
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Empfangene Nachrichten  <br/> |3600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |
    
 #### <a name="sending-limits"></a>Sendegrenzen
@@ -619,7 +619,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Empfängerratengrenzwert  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
 |Empfängergrenzwert  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
 |Grenzwert für Empfängerproxyadresse  <br/> |400  <br/> |400  <br/> |400  <br/> |
@@ -664,11 +664,11 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |
 |Obergrenze für Nachrichten an große Verteilergruppen  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10    <br/> |10    <br/> |10    <br/> |
+|Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -697,7 +697,7 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Maximale Anzahl von Journalregeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |
 |Maximale Anzahl Transportregeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |
 |Maximale Größe einer einzelnen Transportregel  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
@@ -724,7 +724,7 @@ Diese Grenzwerte steuern die Moderationseinstellungen für die Nachrichtengenehm
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Maximale Größe des Vermittlungspostfachs  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
 |Maximale Anzahl Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |
 |Ablauf für Nachrichten, die auf Moderation warten  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |
@@ -1038,7 +1038,7 @@ Die folgende Tabelle enthält die Grenzwerte für SharePoint für jeden Office 3
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Speicher<sup>1, 2</sup> <br/> |1 TB pro Organisation plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB pro Organisation plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB pro Organisation plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |
 |Nutzungsbedingungen für Store  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
 |Speicher für Websitesammlungen  <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |
@@ -1059,7 +1059,7 @@ Die folgende Tabelle enthält die Skype für Business Online-Funktionen, die fü
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Clients für Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype for Business - vollständig  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Basic  <br/> |Ja,<sup>1</sup> <br/> |Nein  <br/> |Nein  <br/> |
