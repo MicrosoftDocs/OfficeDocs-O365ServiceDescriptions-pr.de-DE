@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive for Business ist ein persönlicher Onlinespeicherplatz in der Cloud, der Ihnen von Ihrem Unternehmen zur Verfügung gestellt wird. Verwenden Sie diesen, um Ihre Arbeitsdateien bequem und sicher geräteübergreifend zu speichern. Teilen Sie Ihre Dateien nach Bedarf mit Kollegen, und bearbeiten Sie Office-Dokumente gemeinsam in Echtzeit mit OneDrive for Business. Synchronisieren Sie Dateien mit Ihrem lokalen Computer mithilfe der Synchronisierungs-App OneDrive for Business.
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035749"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215360"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business – Dienstbeschreibung
 
@@ -101,7 +101,7 @@ Die folgenden Pläne bieten unbegrenzten persönlichen Cloudspeicher für Abonne
     
 Abonnements mit weniger als fünf Benutzern erhalten 1 TB persönlichen Cloudspeicher pro Benutzer. 
   
-Kunden erhalten zunächst 1 TB persönlichen Cloudspeicher pro Benutzer in OneDrive for Business. Sie können den [Standardspeicherplatz für OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=838024) mithilfe Ihres Office 365-Administrators auf bis zu 5 TB pro Benutzer erhöhen. 
+Kunden erhalten zunächst 1 TB persönlichen Cloudspeicher pro Benutzer in OneDrive for Business. Sie können den [Standardspeicherplatz für OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=838024) mithilfe Ihres Office 365-Administrators auf bis zu 5 TB pro Benutzer erhöhen, wenn das Kontingent von 1 TB zu 90 % voll ist. 
   
 > [!NOTE]
 > Sie müssen einem Benutzer mindestens eine Lizenz zuweisen, bevor Sie den Standardspeicherplatz für OneDrive erhöhen können. 
