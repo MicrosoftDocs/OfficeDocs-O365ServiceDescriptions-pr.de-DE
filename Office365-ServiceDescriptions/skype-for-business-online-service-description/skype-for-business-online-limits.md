@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategorien:'
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296865"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625890"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -127,7 +127,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Art Besprechung** <br/> |**Beschreibung** <br/> 
-|Einmalige Besprechung| 14 Tage nach Ende, letzten Besprechung Aktivierung oder letzten besprechungsaktualisierung - ist je neuesten.
+|Einmalige Besprechung| Besprechung zugegriffen werden mindestens bis 14 Tage nach dem geplanten Zeitpunkt der letzten Aktivierung meeting oder letzten meeting Update, je nachdem, welche neuesten.
 |Besprechungsserie mit Enddatum| Besprechung zugegriffen werden mindestens bis 14 Tage nach dem geplanten Ende der letzten Besprechungsinstanz der letzten Aktivierung meeting oder letzten meeting Update, je nachdem, welche neuesten.
 |Besprechungsserie ohne Enddatum| Besprechung wird immer zugegriffen werden, vorausgesetzt, es gibt neue Konferenz Joins (Aktivierungen) oder beim Planen von Updates mindestens einmal pro Jahr
 |     Besprechung beginnen|Besprechung kann für mindestens 8 Stunden zugegriffen werden.
