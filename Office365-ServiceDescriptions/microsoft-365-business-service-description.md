@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, da es Menschen und die in puncto Produktivität von Office 365 mit erweiterter Sicherheit und Gerät Management-Funktionen zum Schutz Ihres Unternehmens. . Diese Beschreibung wird Planoptionen und Funktionen beschrieben. Weitere Informationen zu Office 365 finden Sie unter der Office 365-Dienstbeschreibungen.
-ms.openlocfilehash: b4b2a625f96c53da3f7f3a735d2b28278dbe4e5b
-ms.sourcegitcommit: 11eb2c541fee341454950e998834992ef3b9f42c
+ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
+ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857313"
+ms.lasthandoff: 11/26/2018
+ms.locfileid: "26674222"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -117,8 +117,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |||||
 |:-----|:-----|:-----|:-----|
 |**Identitäts- und Zugriffsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility Suite** <br/> |
-|Single Sign-On (SSO) für \> 10 apps  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Mehrstufige Authentifizierung (MFA)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|Office 365 Multi-Factor Authentication (mehrstufiger Authentifizierung das)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Administrative Einheiten  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Cloud App Discovery  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Dynamische Gruppen  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
@@ -127,7 +126,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Bidirektionale Synchronisierung von Geräteobjekten zwischen lokalen Verzeichnissen und Azure AD (Zurückschreiben auf das Gerät)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Bedingter Zugriff (basierend auf Gruppe, Ort, Gerätestatus, Anmeldung oder Benutzerrisiko)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Unternehmensbranding (Anmeldeseiten, Anpassung von Zugriffspanel)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Anwendungsrichtlinie  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|Anwendungsproxy  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Nutzer-CAL für Microsoft Identity Manager (MIM)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Connect Health  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |SLA 99,9 %  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
