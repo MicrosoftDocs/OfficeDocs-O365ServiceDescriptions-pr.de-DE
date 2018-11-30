@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen am besten die Anforderungen Ihrer Organisation entsprechen. Wenn die Unterschiede zwischen der Office 365-Pläne Education Sie suchen erfahren in diesem Artikel Sie in den einzelnen Elementen durch welche Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office-Desktopsuite mit Cloud-basierten Versionen der nächsten Generation Communications und Collaboration-Dienste von Microsoft – einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office Online und Microsoft Skype für Business Online – Benutzer werden über das Internet egal an welchem Ort produktiv arbeiten.
-ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215400"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988576"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -32,7 +32,7 @@ Jeder Office 365 Schulungsplan umfasst eine Reihe von einzelnen Services wie Exc
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Service** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <sup>3</sup> <br/> |
+|**Dienst** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <sup>3</sup> <br/> |
 |Office 365-Plattform  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online  <br/> |Ja,<sup>5</sup> <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -195,7 +195,7 @@ Das [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
 |[Erweiterte Bedrohungsverwaltung](https://go.microsoft.com/fwlink/?linkid=846673) wie z. B. Kunden-Lockbox und Sicherheitsrisiken-Explorer für Phishing-Kampagnen <sup>5</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Verwaltung mobiler Geräte](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verhinderung von Datenverlust](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Datenkontrolle](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Datenkontrolle](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Erweiterte Datenkontrolle](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Suche und Untersuchung]<br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[eDiscovery-Suche](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
