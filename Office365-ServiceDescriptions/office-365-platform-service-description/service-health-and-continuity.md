@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und erfahren Sie, ob Wartung geplant ist. Dienst Integritätsinformationen ist jederzeit nach der Anmeldung an Office 365 verfügbar.
-ms.openlocfilehash: cc19a26f7bef070837b1dfa53df927373fd35d3e
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
+ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035899"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "27258737"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
@@ -29,7 +29,7 @@ Microsoft Office 365-Administratoren können den Status von Diensten anzeigen un
   
 ## <a name="view-status-of-services"></a>Anzeigen des Dienststatus
 
-Der Dienststatus-Abschnitt von Office 365 enthält den aktuellen Status des Diensts sowie Details zu Dienstunterbrechungen und -ausfällen. Informationen zu geplanten Wartungszeiten stehen im Nachrichtencenter zur Verfügung. Weitere Informationen finden Sie unter [Dienststatus anzeigen](https://go.microsoft.com/fwlink/p/?LinkID=270178). 
+Der Dienststatus-Abschnitt von Office 365 enthält den aktuellen Status des Diensts sowie Details zu Dienstunterbrechungen und -ausfällen. Informationen zu geplanten Wartungszeiten stehen im Nachrichtencenter zur Verfügung. Weitere Informationen finden Sie unter [Dienststatus anzeigen](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>Dienstincidents
 
@@ -49,7 +49,7 @@ Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielger
 
 ### <a name="office-365-admin-app"></a>Office 365 Admin-App
 
-Die Admin-App für Office 365-Mandantenadministratoren bietet die Möglichkeit zum Herstellen einer Verbindung mit dem Office 365-Dienststatus Ihrer Organisation auch unterwegs. Office 365-Mandantenadministratoren haben die Möglichkeit, Dienstintegritätsinformationen und Wartungsstatusupdates von ihren mobilen Geräten aus anzuzeigen. Weitere Informationen finden Sie in den [FAQ zur Admin-App](https://community.office365.com/en-us/w/manage/office-365-admin-app-faq.aspx).
+Die Admin-App für Office 365-Mandantenadministratoren bietet die Möglichkeit zum Herstellen einer Verbindung mit dem Office 365-Dienststatus Ihrer Organisation auch unterwegs. Office 365-Mandantenadministratoren haben die Möglichkeit, Dienstintegritätsinformationen und Wartungsstatusupdates von ihren mobilen Geräten aus anzuzeigen. Weitere Informationen finden Sie in den [FAQ zur Admin-App](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack für Microsoft System Center 2012 R2
 
