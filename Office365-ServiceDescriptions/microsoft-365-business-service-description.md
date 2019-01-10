@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, da es Menschen und die in puncto Produktivität von Office 365 mit erweiterter Sicherheit und Gerät Management-Funktionen zum Schutz Ihres Unternehmens. . Diese Beschreibung wird Planoptionen und Funktionen beschrieben. Weitere Informationen zu Office 365 finden Sie unter der Office 365-Dienstbeschreibungen.
-ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
-ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
+ms.openlocfilehash: 0aeaea88fa368aa8d133f5e2bfb24547a8f89452
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2018
-ms.locfileid: "26674222"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784887"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -122,7 +122,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Cloud App Discovery  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Dynamische Gruppen  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Self-Service-Kennwortzurücksetzung für Cloudidentitäten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Self-Service-Kennwortzurücksetzung mit lokalem Zurückschreiben in AD  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|Self-Service-Kennwortzurücksetzung mit lokalem Zurückschreiben in AD  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Bidirektionale Synchronisierung von Geräteobjekten zwischen lokalen Verzeichnissen und Azure AD (Zurückschreiben auf das Gerät)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Bedingter Zugriff (basierend auf Gruppe, Ort, Gerätestatus, Anmeldung oder Benutzerrisiko)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Unternehmensbranding (Anmeldeseiten, Anpassung von Zugriffspanel)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |

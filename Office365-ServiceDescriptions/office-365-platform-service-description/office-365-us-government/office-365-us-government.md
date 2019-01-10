@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die eindeutige und weiterentwickelte gemäß der USA öffentlicher Sektor, Microsoft Office-365 US-Regierung Pläne erstellt hat (OrOffice 365 US-Regierung). Dieser Abschnitt enthält eine Übersicht über Features, die für Office-365 US-Regierung spezifisch sind. Es wird empfohlen, dass Sie diese zusätzlichen Abschnitt zusammen mit der Office 365-Dienstbeschreibungen lesen.
-ms.openlocfilehash: 68e2d354c8b83b44f9d395fb4ab49db16a52ddb5
-ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
+ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/27/2018
-ms.locfileid: "27449919"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784907"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -339,10 +339,10 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Ja,<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja,<sup>3</sup> <br/> |
 |[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Office Mobile für iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
-|[Office Mobile für Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
+|[Office Mobile für iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
+|[Office Mobile für Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
 |[Office Mobile für Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
-|[Office Mobile für Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
+|Office Mobile für Windows 10-Tablets <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
 |Outlook für iOS und Android<sup>5, 4</sup>  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
 |**Unternehmenswert** <br/> |**Office 365 US-Regierung G1** <br/> |**Office 365 US-Regierung G3** <br/> |**Office 365 US-Regierung G5** <br/> |**Office 365 US-Regierung F1** <br/> |
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -358,7 +358,7 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |Excel Spreadsheet Inquire  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Archivierung und Vorschrifteneinhaltung mit Exchange Online und SharePoint Online  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Unterstützung der Gruppenrichtlinie  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Verwaltung von Informationsrechten (Information Rights Management, IRM) mithilfe von Azure Information Protection  <br/> |Keine<sup>1</sup> <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Keine<sup>1</sup> <br/> |
+|Verwaltung von Informationsrechten (Information Rights Management, IRM) mithilfe von Azure Information Protection  <br/> |Keine<sup>1</sup> <br/> |Ja,<sup>6</sup> <br/> |Ja,<sup>6</sup> <br/> |Keine<sup>1</sup> <br/> |
 |Information Rights Management mit Windows Server AD RMS  <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |
 |Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |OneNote-Clientzugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive for Business und Office 365  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -370,7 +370,7 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |PowerPivot für Excel  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |Power Query für Excel  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |Power View für Excel  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
-|Roaming-Einstellungen  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
+|Roaming-Einstellungen  <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
 |Aktivierung gemeinsam genutzter Computer  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |Unterstützung für das Blockieren von Cloud-basierten Dateispeichern  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Versionsupgrades  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
@@ -379,5 +379,5 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 > <sup>1</sup> Azure Information Protection ist nicht mit inbegriffen, aber als separates Add-on erworben werden können und die unterstützten Funktionen (Information Rights Management, IRM) zu aktivieren. Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 ProPlus, die nicht in Office 365 uns Government G1 oder Office 365 US-Regierung F1 enthalten ist.<br/><sup>2</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. 
 <br/><sup>3</sup> Skype für Business Basic ist für alle Kunden zur Verfügung. Die Skype für Business desktop Client ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Sofortnachrichten und Konferenzfeatures für Office 365-Pläne bereitstellt, die für Business Online Skype enthalten. Office 365 ProPlus und Office 365 Enterprise E3 enthalten die vollständige Skype-Anwendung, die enthält zusätzliche Funktionen wie erweiterte Telefoniefeatures Support, Archivierung und Compliance. Eine Skype für Business Online-Lizenz muss für jeden Benutzer zugewiesen werden. Weitere Informationen zu Lync Basic-Funktionen finden Sie unter [Skype für clientvergleichstabellen Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/><sup>4</sup> Noch nicht fürGCC hoch- oder DoD-Umgebungen verfügbar, aber in Kürze.
 <br/><sup>5</sup> Einzelheiten finden Sie unter [Verwenden von Outlook für iOS und Android in der Community-Cloud der US-Regierung](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) .
-  
-[Verwenden des Abschnitts zur Dienstbeschreibung](office-365-us-government.md#how-to-use-this-service-description-section)
+  <br/>, <sup>6</sup> noch nicht in Office 365 DoD-Umgebung, aber in Kürze verfügbar.
+<br/><br/>[Verwenden des Abschnitts zur Dienstbeschreibung](office-365-us-government.md#how-to-use-this-service-description-section)
