@@ -1,9 +1,9 @@
 ---
 title: Office 365 US Government
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 7/6/2018
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die eindeutige und weiterentwickelte gemäß der USA öffentlicher Sektor, Microsoft Office-365 US-Regierung Pläne erstellt hat (OrOffice 365 US-Regierung). Dieser Abschnitt enthält eine Übersicht über Features, die für Office-365 US-Regierung spezifisch sind. Es wird empfohlen, dass Sie diese zusätzlichen Abschnitt zusammen mit der Office 365-Dienstbeschreibungen lesen.
-ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+ms.openlocfilehash: 05da74a6efad6834f2108c83126aa1522ae62776
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784907"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694679"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -209,9 +209,9 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Microsoft MyAnalytics  <br/> |Keine<sup>9, 12, 15</sup> <br/> |Keine<sup>9, 12, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Keine<sup>9, 12, 15</sup> <br/> |
 |Microsoft Planner  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |Microsoft PowerApps  <br/> |Ja,<sup>11</sup> <br/> |Ja,<sup>11</sup> <br/> |Ja,<sup>11</sup> <br/> |Ja,<sup>11</sup> <br/> |
-|Microsoft StaffHub  <br/> |Ja,<sup>17</sup> <br/> |Ja,<sup>17</sup> <br/> |Ja,<sup>17</sup> <br/> |Ja,<sup>17</sup> <br/> |
+|Microsoft StaffHub  <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |
 |Microsoft Stream  <br/> |Ja,<sup>11</sup> <br/> |Ja,<sup>11</sup> <br/> |Ja,<sup>11</sup> <br/> |Nein  <br/> |
-|Microsoft Sway  <br/> |Ja,<sup>17</sup> <br/> |Ja,<sup>17</sup> <br/> |Ja,<sup>17</sup> <br/> |Ja,<sup>17</sup> <br/> |
+|Microsoft Sway  <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |
 |Microsoft Teams  <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |
 |Office Delve  <br/> |Ja,<sup>17</sup> <br/> |Ja,<sup>17</sup> <br/> |Ja  <br/> |Ja,<sup>17</sup> <br/> |
 |Office 365-Gruppen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -311,7 +311,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
    
 > <sup>1</sup> Azure Information Protection ist nicht mit inbegriffen, aber als separates Add-on erworben werden können und die unterstützten Funktionen (Information Rights Management, IRM) zu aktivieren. Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 ProPlus, die nicht in Office 365 uns Government G1 oder Office 365 US-Regierung F1 enthalten ist. ><br/><sup>2</sup> Bestehende BBCS- und BIS-Kunden können den Dienst weiterhin nutzen. Es werden keine neuen Kunden angenommen.<br/><sup>3</sup> Wenn verzeichnissynchronisierung verwenden, müssen Sie Konten löschen oder Ändern von Kennwörtern mithilfe von Active Directory, statt der Office 365-Portal oder mithilfe des Azure Active Directory-Moduls für Windows PowerShell. 
 <br/><sup>4</sup>   Falls Sie eine Kennwortsynchronisierung verwenden, müssen die Benutzer ihre Kennwörter im lokalen Active Directory ändern. 
-<br/><sup>5</sup> , um weitere Informationen zum Festlegen von Self-service Password Management Richtlinien für Benutzer finden Sie unter [Verwalten von Kennwörtern in Azure Active Directory](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). <br/><sup>6</sup> Sie können nur eine öffentliche Website mit Office 365 verwenden, es sei denn, Sie von einer früheren Version von Office 365 aktualisiert haben. In diesem Fall stehen Ihnen zwei öffentliche Websites, jedoch nur von einer mit einem benutzerdefinierten Domänennamen gehostet werden kann. Weitere Informationen über das Arbeiten mit den zwei Websites für die Business-Abonnements finden Sie unter [Arbeiten mit Ihren zwei öffentliche Office 365-Websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Wenn Sie ein anderes Abonnement haben, erfahren Sie mehr über öffentliche Websites [erfahren Sie mehr über Partner Website hosten und öffentlichen Websites in Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).<br/><sup>7</sup>   Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird.<br/><sup>8</sup> die folgenden Pläne unterstützen keine Lizenz Arbeitsplatz Änderungen aus dem Office 365 Admin Center: > Office 365 uns Government G1 > Office 365 US-Regierung G3 > Office 365 US-Regierung K1 <br/><sup>9</sup> noch nicht verfügbar in GCC hoch, aber in Kürze verfügbar.
+<br/><sup>5</sup> , um weitere Informationen zum Festlegen von Self-service Password Management Richtlinien für Benutzer finden Sie unter [Verwalten von Kennwörtern in Azure Active Directory](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). <br/><sup>6</sup> Sie können nur eine öffentliche Website mit Office 365 verwenden, es sei denn, Sie von einer früheren Version von Office 365 aktualisiert haben. In diesem Fall stehen Ihnen zwei öffentliche Websites, jedoch nur von einer mit einem benutzerdefinierten Domänennamen gehostet werden kann. Weitere Informationen über das Arbeiten mit den zwei Websites für die Business-Abonnements finden Sie unter [Arbeiten mit Ihren zwei öffentliche Office 365-Websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Wenn Sie ein anderes Abonnement haben, erfahren Sie mehr über öffentliche Websites [erfahren Sie mehr über Partner Website hosten und öffentlichen Websites in Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).<br/><sup>7</sup>   Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird.<br/><sup>8</sup> die folgenden Pläne unterstützen keine Lizenz Arbeitsplatz Änderungen aus dem Office 365 Admin Center: Office 365 uns Government G1 > > Office 365 US-Regierung G3 > Office 365 US-Regierung K1 <br/><sup>9</sup> noch nicht verfügbar in GCC hoch, aber in Kürze verfügbar.
 <br/><sup>10</sup> für Office 365 uns Government G1, G3 und F1, gezielte Version und die Office 365 für Unternehmensziele gelten. jedoch möglicherweise einige Unterschiede oder Verzögerungen für bestimmte dienstaktualisierungen aufgrund von [Compliance-Bestimmungen](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263).
 <br/><sup>11</sup> Noch nicht für Office 365 US Government-Angebote verfügbar, aber in Kürze erhältlich. ><br/><sup>12</sup>   Nicht enthalten, kann aber als separates Add-On für in GCC erworben werden. 
 <br/><sup>13</sup> für Office-365 US-Regierung Angebote nicht unterstützt. 

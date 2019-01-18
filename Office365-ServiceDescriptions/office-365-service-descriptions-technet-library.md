@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 ist ein Cloud-basierten Dienst, der zur Einhaltung von Anforderungen für Robuste Sicherheit, Zuverlässigkeit und Produktivität der Benutzer Ihrer Organisation entwickelt wurde.
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035719"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694659"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365-Dienstbeschreibungen 
 
@@ -33,7 +33,7 @@ Supportartikel und -informationen finden Sie unter [Support für Office](https:/
 > [!NOTE]
 > Falls Sie die Vergleichstabelle „Dienstbeschreibung" suchen, diese wurde eingestellt. Die Tabellen zur Verfügbarkeit von Produktfeatures wurden auf jeder Dienstbeschreibungsseite aktualisiert, um bessere Unterstützung bei der Wahl der Version von Office 365 zu bieten, die Ihren Bedürfnissen entspricht. 
   
-Microsoft stellt für berechtigte Dienste in berechtigten Plänen das Office 365 Onboarding-Angebot zur Verfügung. Das Onboarding-Angebot ermöglicht Ihnen, mit Microsoft-Spezialisten remote zusammenzuarbeiten, um Ihre Office 365-Umgebung betriebsbereit zu machen. Weitere Informationen finden Sie unter [Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx).
+Microsoft bietet den Vorteil der schnelle Center für Office 365 für Dienste in Anspruch Pläne. Die Vorteile können Sie das Remote entwickelt Microsoft-Spezialisten für die Verwendung der Office 365-Umgebung vorbereiten. Weitere Informationen finden Sie unter [Der schnelle Center Vorteil für Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen:
   
