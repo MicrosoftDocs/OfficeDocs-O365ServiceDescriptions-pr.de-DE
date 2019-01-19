@@ -8,15 +8,16 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
+ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dienstbeschreibungen vorgenommen wurden.
-ms.openlocfilehash: 54ac1db0668bc46188991784532c657ce9677ed5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4ed2c1c4f82729cc20be7a85eca4e1adb09662fd
+ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035764"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28728679"
 ---
 # <a name="recent-service-descriptions-changes"></a>Neueste Änderungen der Dienstbeschreibungen
 
