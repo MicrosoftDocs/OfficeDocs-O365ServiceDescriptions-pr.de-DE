@@ -1,8 +1,15 @@
+---
+ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
+ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28728669"
+---
 
   
 
 # [Office 365-Dienstbeschreibungen](office-365-service-descriptions-technet-library.md)
-## [Neueste Änderungen der Dienstbeschreibungen](recent-service-descriptions-changes.md)
 ## [Microsoft 365 Business – Dienstbeschreibung](microsoft-365-business-service-description.md)
 ## [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Optionen zum Office 365-Plan](office-365-platform-service-description/office-365-plan-options.md)
