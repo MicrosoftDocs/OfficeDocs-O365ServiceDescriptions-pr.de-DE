@@ -40,7 +40,8 @@
       "breadcrumb_path": "/Office365/ServiceDescriptions/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": ["Service Descriptions"],
-      "feedback_system": "GitHub",
+      "feedback_system": "None",
+      "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ServiceDescriptions",
       "feedback_product_url": "https://office365.uservoice.com/",
       "bilingual_type": "hover over"
