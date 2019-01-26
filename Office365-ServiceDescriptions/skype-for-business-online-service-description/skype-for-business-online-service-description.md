@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Möchten Sie wissen, welche Lizenzen Sie kaufen, um bestimmte Skype für Business-Features zu erhalten müssen? Finden Sie unter der Skype für Business Lizenzierung (Übersicht).
-ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 000095f2f0f6831bc796915905b507ff7f037c5b
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362930"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506659"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online-Dienstbeschreibung
 
@@ -123,7 +123,7 @@ Einen ausführlicheren Vergleich finden Sie in der folgenden Tabelle.
 |Anrufsteuerung  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Anruf annehmen/initiieren  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Anrufweiterleitung  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|Anrufweiterleitung und gleichzeitiges Klingeln  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Anrufweiterleitung und gleichzeitiges Klingeln  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Anrufliste  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Anruf anhalten/fortsetzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Anrufe parken  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
