@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Verwenden Sie OneNote Online (früher OneNote Web App) online in einem OneNote-Notizbuch Notizen, die Sie von einer beliebigen Stelle hinzugefügt und auf einfache Weise für andere Personen freigeben können. Alle Office 365-Kunden können anzeigen und bearbeiten geringem Umfang Office-Dateien mit Office Online.
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035828"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612748"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ Mit OneNote Online können Sie die browserähnlichen Schaltflächen zum Zurück-
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Notizbuchverwaltung: Abschnitt-/notizbuchübergreifende Seitenablage, Neuordnung von Abschnitten, Erstellen/Löschen von Abschnittsgruppen
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-In OneNote Online nicht verfügbar. Erweiterte Management-Funktionen, wie im Abschnitt Neuordnen, erstellen und Löschen von Abschnittsgruppen, und ziehen und Ablegen Seite ablegen, stehen nur in der OneNote-desktop-app. 
+Mit OneNote Online können Sie per Ziehen und Ablegen neu anordnen Seiten und Abschnitten.  
+Erweiterte Managementfunktionen, wie das Erstellen, stehen löschen und neu anordnen Abschnittsgruppen nur in der OneNote-desktop-app.
   
 ## <a name="offline-viewing-and-authoring"></a>Offlineansicht und -erstellung
 <a name="bkmk_Offlineviewing"> </a>

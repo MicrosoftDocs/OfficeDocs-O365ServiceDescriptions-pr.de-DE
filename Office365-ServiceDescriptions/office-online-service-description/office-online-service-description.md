@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (ehemals Office Web Apps) geöffnet, Word, Excel, PowerPoint und OneNote-Dokumente in Ihrem Webbrowser. Office Online vereinfacht die Arbeit und Freigeben von überall aus Office-Dateien mit dem Internet verbunden, von fast jedem Gerät. Microsoft Office 365-Kunden mit Word, Excel, PowerPoint oder OneNote können anzeigen, erstellen und Bearbeiten von Dateien unterwegs.
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435823"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612768"
 ---
 # <a name="office-online-service-description"></a>Office Online-Dienstbeschreibung
 
@@ -204,6 +204,9 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Gemeinsame Erstellung](onenote-online.md#co-authoring) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen und Verwalten von Seiten und Abschnitten](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Ja  <br/> |Ja  <br/> |
 |[Herunterladen einer Kopie eingebetteter Office-Dateien](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Ja  <br/> |Ja,<sup>4</sup> <br/> |
+|[Drag- and -Drop Seiten] <br/> |Ja  <br/> |Ja <br/> |
+|[Drag- and -Drop Abschnitten] <br/> |Ja  <br/> |Ja <br/> |
+|[Drag & Drop Abschnittsgruppen] <br/> |Nein  <br/> |Ja <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Ja  <br/> |Ja  <br/> |
 |[Bearbeiten eingebetteter Dateien](onenote-online.md#EmbeddedFileEdit) <br/> |Nein  <br/> |Ja  <br/> |
 |[Formeln](onenote-online.md#equations) <br/> |Ja  <br/> |Ja  <br/> |
