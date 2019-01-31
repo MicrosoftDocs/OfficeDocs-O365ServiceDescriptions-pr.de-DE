@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
-ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28728669"
----
 
   
 
@@ -19,6 +11,7 @@ ms.locfileid: "28728669"
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High and DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
+#### [Kaufempfehlungen für Microsoft 365 Government](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 ### [Office 365, betrieben von 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Deutschland](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 Education](office-365-platform-service-description/office-365-education.md)
