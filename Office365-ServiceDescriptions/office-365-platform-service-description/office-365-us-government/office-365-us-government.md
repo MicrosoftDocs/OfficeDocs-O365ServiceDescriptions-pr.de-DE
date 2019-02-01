@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die eindeutige und weiterentwickelte gemäß der USA öffentlicher Sektor, Microsoft Office-365 US-Regierung Pläne erstellt hat (OrOffice 365 US-Regierung). Dieser Abschnitt enthält eine Übersicht über Features, die für Office-365 US-Regierung spezifisch sind. Es wird empfohlen, dass Sie diese zusätzlichen Abschnitt zusammen mit der Office 365-Dienstbeschreibungen lesen.
-ms.openlocfilehash: 05da74a6efad6834f2108c83126aa1522ae62776
-ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
+ms.openlocfilehash: b3c4a6ff79be71a288752349b5b6c6c7c7587ab3
+ms.sourcegitcommit: ddfa315cedb1f3c5a5ff94cc33c9b591d396901d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "28694679"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690396"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -102,8 +102,10 @@ Der Zugriff auf Office 365 US Government-Kundeninhalte durch Microsoft-Administr
 |Liste des Office of Foreign Assets Control (OFAC, Amt für Kontrolle von Auslandsvermögen)  <br/> |Ja  <br/> |Ja  <br/> |
 |Liste des Bureau of Industry and Security (BIS, Amt für Industrie und Sicherheit)  <br/> |Ja  <br/> |Ja  <br/> |
 |Fingerabdruckbasierte Überprüfung von FBI-Datenbanken  <br/> |Ja  <br/> |Ja  <br/> |
-|CJIS-Überprüfung der kriminellen Vergangenheit  <br/> |Ja  <br/> |Nein  <br/> |
+|Lokaler Zustand CJIS strafrechtliche Hintergrund Kontrollkästchen  <br/> |Ja,<sup>1</sup>   <br/> |Nein  <br/> |
 |DOD IT-2 basierend auf OPM-Untersuchung Stufe 3  <br/> |Nein  <br/> |Nur DOD SRG L5-Mandanten  <br/> |
+
+<sup>1</sup> für die Bundesländer registriert, in der Anwendung MSFT Regierungsstellen Cloud CJIS
    
 [Verwenden des Abschnitts zur Dienstbeschreibung](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -173,13 +175,13 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365-Dienste** <br/> |**Office 365 US-Regierung G1** <br/> |**Office 365 US-Regierung G3** <br/> |**Office 365 US-Regierung G5** <br/> |**Office 365 US-Regierung F1** <br/> |
-|Office Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office Online  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
 |Office 365 ProPlus  <br/> |Nein <br/> |Ja <br/> |Ja <br/> |Nein  <br/> |
-|Exchange Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Exchange Online Protection  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|SharePoint Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Skype for Business (Instant Messaging &amp; Anwesenheit)  <br/> |Ja,<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja,<sup>1</sup> <br/> |
+|Exchange Online  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|Exchange Online Protection  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
+|SharePoint Online  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|OneDrive for Business  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|Skype for Business (Instant Messaging &amp; Anwesenheit)  <br/> |Ja,<sup>1</sup> <br/> |Ja  <br/> |Ja   <br/> |Ja,<sup>1</sup> <br/> |
 | VoIP - Telefonsystem, Audiokonferenzen  <br/> |Nein<sup>2, 3</sup> <br/> |Nein<sup>2, 3</sup> <br/> |Ja <sup>3, 5</sup> <br/> |Nein  <br/> |
 |Power BI Pro  <br/> |Keine<sup>2</sup> <br/> |Keine<sup>2</sup> <br/> |Ja  <br/> |Keine<sup>2</sup> <br/> |
 |Project Online  <br/> |Keine<sup>2</sup> <br/> |Keine<sup>2</sup> <br/> |Keine<sup>2</sup> <br/> |Keine<sup>2</sup> <br/> |
@@ -198,8 +200,8 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |**Feature** <br/> |**Office 365 US-Regierung G1** <br/> |**Office 365 US-Regierung G3** <br/> |**Office 365 US-Regierung G5** <br/> |**Office 365 US-Regierung F1** <br/> |
 |**Office 365-Verwaltung** <br/> |||||
 |Verwalten von Office 365 über das Office 365 Admin Center  <br/> |Ja<sup>16</sup> <br/> |Ja<sup>16</sup> <br/> |Ja  <br/> |Ja<sup>16</sup> <br/> |
-|Verwalten zentraler Diensteinstellungen über Office 365  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Verwenden von Windows PowerShell zum Verwalten von Office 365  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Verwalten zentraler Diensteinstellungen über Office 365  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
+|Verwenden von Windows PowerShell zum Verwalten von Office 365  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Keine<sup>1</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup>  <br/> |Keine<sup>1</sup> <br/> |
 |**[Office 365-Suitefeatures](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 US-Regierung G1** <br/> |**Office 365 US-Regierung G3** <br/> |**Office 365 US-Regierung G5** <br/> |**Office 365 US-Regierung F1** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
@@ -212,7 +214,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Microsoft StaffHub  <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |
 |Microsoft Stream  <br/> |Ja,<sup>11</sup> <br/> |Ja,<sup>11</sup> <br/> |Ja,<sup>11</sup> <br/> |Nein  <br/> |
 |Microsoft Sway  <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>13</sup> <br/> |
-|Microsoft Teams  <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |
+|Microsoft Teams  <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |Ja,<sup>15</sup> <br/> |
 |Office Delve  <br/> |Ja,<sup>17</sup> <br/> |Ja,<sup>17</sup> <br/> |Ja  <br/> |Ja,<sup>17</sup> <br/> |
 |Office 365-Gruppen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Stream  <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Ja,<sup>9, 15</sup> <br/> |Nein  <br/> |
@@ -291,23 +293,23 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Office-Nachrichtenverschlüsselung  <br/> |Nein  <br/> |Ja <br/> |Ja <br/> |Nein  <br/> |
 |Informationen zu Bedrohungen  <br/> |Keine<sup>12</sup> <br/> |Keine<sup>12</sup> <br/> |Ja <br/> |Keine<sup>12</sup> <br/> |
 |**[Compliance[ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
-|SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|EU Safe Harbor  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|HIPAA-Business Associate Agreement  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|FISMA Authority to Operate  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft-Datenverarbeitungsvertrag  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|PCI DSS, Stufe 1  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|EU Safe Harbor  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|HIPAA-Business Associate Agreement  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|FISMA Authority to Operate  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|Microsoft-Datenverarbeitungsvertrag  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
+|PCI DSS, Stufe 1  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
 |PCI-geregelte PAN-Daten  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|**[Dienstverfügbarkeit](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|**[Dienstverfügbarkeit](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
 |**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 US-Regierung G1** <br/> |**Office 365 US-Regierung G3** <br/> |**Office 365 US-Regierung G5** <br/> |**Office 365 US-Regierung F1** <br/> |
 |Verwenden von BlackBerry Internet Service (BIS)  <br/> |Keine<sup>2</sup> <br/> |Keine<sup>2</sup> <br/> |Keine<sup>2</sup> <br/> |Keine<sup>2</sup> <br/> |
 |**[Partner](../../office-365-platform-service-description/partners.md)** <br/> |||||
 |Erstellen von Einladungen und Bestellungen zu Testzwecken für einen Kunden, der den angegebenen Plan verwendet  <br/> |Keine<sup>11</sup> <br/> |Keine<sup>11</sup> <br/> |Keine<sup>11</sup> <br/> |Keine<sup>11</sup> <br/> |
 |Bereitstellen delegierter Administration  <br/> |Keine<sup>11</sup> <br/> |Keine<sup>11</sup> <br/> |Keine<sup>11</sup> <br/> |Keine<sup>11</sup> <br/> |
-|**[Vereinbarung zum Servicelevel](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Produktnutzungsrechte](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|**[Vereinbarung zum Servicelevel](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
+|**[Produktnutzungsrechte](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
    
 > <sup>1</sup> Azure Information Protection ist nicht mit inbegriffen, aber als separates Add-on erworben werden können und die unterstützten Funktionen (Information Rights Management, IRM) zu aktivieren. Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 ProPlus, die nicht in Office 365 uns Government G1 oder Office 365 US-Regierung F1 enthalten ist. ><br/><sup>2</sup> Bestehende BBCS- und BIS-Kunden können den Dienst weiterhin nutzen. Es werden keine neuen Kunden angenommen.<br/><sup>3</sup> Wenn verzeichnissynchronisierung verwenden, müssen Sie Konten löschen oder Ändern von Kennwörtern mithilfe von Active Directory, statt der Office 365-Portal oder mithilfe des Azure Active Directory-Moduls für Windows PowerShell. 
 <br/><sup>4</sup>   Falls Sie eine Kennwortsynchronisierung verwenden, müssen die Benutzer ihre Kennwörter im lokalen Active Directory ändern. 
@@ -337,16 +339,16 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Ja,<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja,<sup>3</sup> <br/> |
+|[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Ja,<sup>3</sup> <br/> |Ja  <br/> |Ja   <br/> |Ja,<sup>3</sup> <br/> |
 |[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Office Mobile für iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
 |[Office Mobile für Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
 |[Office Mobile für Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |Office Mobile für Windows 10-Tablets <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
-|Outlook für iOS und Android<sup>5, 4</sup>  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
+|Outlook für iOS und Android<sup>5, 4</sup>  <br/> |Ja <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**Unternehmenswert** <br/> |**Office 365 US-Regierung G1** <br/> |**Office 365 US-Regierung G3** <br/> |**Office 365 US-Regierung G5** <br/> |**Office 365 US-Regierung F1** <br/> |
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Automatisiertes Bereitstellen von Benutzerkonten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Automatisiertes Bereitstellen von Benutzerkonten  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
 |Mehrsprachige Benutzeroberfläche  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Client-Push-Bereitstellung  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |Client-Unterstützung für lokales Exchange  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -360,12 +362,12 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |Unterstützung der Gruppenrichtlinie  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Verwaltung von Informationsrechten (Information Rights Management, IRM) mithilfe von Azure Information Protection  <br/> |Keine<sup>1</sup> <br/> |Ja,<sup>6</sup> <br/> |Ja,<sup>6</sup> <br/> |Keine<sup>1</sup> <br/> |
 |Information Rights Management mit Windows Server AD RMS  <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |
-|Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.  <br/> |
 |OneNote-Clientzugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive for Business und Office 365  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Office Lens  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Office-Telemetrie  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
-|Offline-Unterstützung für Client-Anwendungen  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Optimierte parallele Client-Installation  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Offline-Unterstützung für Client-Anwendungen  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.  <br/> |
+|Optimierte parallele Client-Installation  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.  <br/> |
 |Power Map für Excel  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |PowerPivot für Excel  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
 |Power Query für Excel  <br/> |Nein  <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Nein  <br/> |
