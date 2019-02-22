@@ -3,7 +3,7 @@ title: Exchange Online-Begrenzungen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 02/19/2019
+ms.date: 02/21/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 5e52414fddae0fd1482fbad3bdffa44b081c3ed5
-ms.sourcegitcommit: de3d6f2aa5af01645705efe88bb41f9f3a5eef04
+ms.openlocfilehash: ce25d57281cd9a5260b34f2d33d7cf4a490ac866
+ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30103113"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30199920"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -246,6 +246,8 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
     > [!NOTE]
     > Bestimmte E-Mail-Clients haben niedrigere Nachrichtengrößengrenzwerte oder beschränken die Größe einer einzelnen Dateianlage auf einen Wert, der unter dem Nachrichtengrößengrenzwert von Exchange Online liegt. 
   
+- **Größenbeschränkung für Nachrichtenheader** Gibt die maximale Größe aller Nachrichtenkopffelder in einer Nachricht an. Die aktuelle Grenze ist 256 KB. Wenn die Gesamtgröße aller Nachrichtenkopfzeilen 256 KB überschreitet, wird die Nachricht von Exchange Online mit dem Fehler "552 5.3.4-Headergröße überschreitet die festgelegte maximale Größe" verworfen. Die Größe des Nachrichtentexts oder der Anlagen wird nicht berücksichtigt. Da es sich bei den Kopfzeilenfeldern um nur-Text handelt, wird die Größe der Kopfzeile durch die Anzahl der Zeichen in jedem Kopfzeilenfeld und durch die Gesamtzahl der Kopfzeilenfelder bestimmt. Jedes Textzeichen beansprucht 1 Byte.
+
 - **Grenzwert für die Länge des Betreffs** Die maximale Anzahl von in der Betreffzeile einer E-Mail zulässigen Textzeichen. 
     
 - **Grenzwert für Dateianlagen** Die maximale Anzahl der zulässigen Dateianlagen in einer E-Mail. Auch wenn die Gesamtgröße aller Dateianlagen nicht gegen das Nachrichtengrößenlimit verstößt, gibt es dennoch eine Grenze der Anzahl der zulässigen Anlagen in der Nachricht. Dieser Grenzwert wird vom Grenzwert für mehrteiligen Nachrichten gesteuert. 
