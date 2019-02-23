@@ -12,31 +12,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: Microsoft Exchange Online Protection (EOP) bietet zahlreiche verschiedene Berichte, die Ihnen helfen können des allgemeinen Status und die Integrität Ihrer Organisation bestimmen. Einige Berichte stehen im Microsoft Office 365 Administrationscenter, während andere in der Exchange-Verwaltungskonsole (EAC) verfügbar sind.
-ms.openlocfilehash: ead40ff8932d6f10ca91bd871e34ef9070c6b2db
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte, mit denen Sie den Gesamtstatus und die Integrität Ihrer Organisation ermitteln können. Einige Berichte sind im Microsoft 365 Admin Center verfügbar, andere sind in der Exchange-Verwaltungskonsole verfügbar.
+ms.openlocfilehash: b52e1e33a8eec0694143c3dc277481fff79bf918
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035883"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210208"
 ---
 # <a name="reporting-and-message-trace"></a>Berichterstellung und Nachrichtenablaufverfolgung
 
-Microsoft Exchange Online Protection (EOP) bietet zahlreiche verschiedene Berichte, die Ihnen helfen können des allgemeinen Status und die Integrität Ihrer Organisation bestimmen. Einige Berichte stehen im Microsoft Office 365 Administrationscenter, während andere in der Exchange-Verwaltungskonsole (EAC) verfügbar sind.
+Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte, mit denen Sie den Gesamtstatus und die Integrität Ihrer Organisation ermitteln können. Einige Berichte sind im Microsoft 365 Admin Center verfügbar, andere sind in der Exchange-Verwaltungskonsole verfügbar.
   
 Sie suchen nach Informationen zu allen EOP-Features? Entsprechendes finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
   
-## <a name="office-365-admin-center-reports"></a>Office 365 Admin Center-Berichte
+## <a name="microsoft-365-admin-center-reports"></a>Microsoft 365 Admin Center-Berichte
 <a name="BKMK_office365admincenterreports"> </a>
 
-Die Seite "Berichte" im Office 365 Admin Center stellt Informationen über den Nachrichtenverkehr, Spam- und Schadsoftwareerkennungen sowie über Nachrichten bereit, die durch die Exchange-Transportregel oder DLP-Richtlinien (Data Lost Prevention, Verhinderung von Datenverlust) betroffen sind. Die erweiterten Berichte zu Schutz, Regeln und DLP bieten eine interaktive Berichterstellungserfahrung für EOP-Administratoren. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
+Auf der Seite "Berichte" im Microsoft 365 Admin Center finden Sie Informationen zum Nachrichten Datenverkehr, zu Spam-und Schadsoftware-Ermittlungen sowie zu Nachrichten, die von Exchange-Transport Regeln oder DLP-Richtlinien (Data Loss Prevention) betroffen sind. Die erweiterten Berichte zu Schutz, Regeln und DLP bieten eine interaktive Berichterstellung für EOP-Administratoren. Diese Berichte bieten Zusammenfassungsdaten und die Möglichkeit, detaillierte Informationen zu einzelnen Nachrichten aufzuführen.
   
 Detailliertere Informationen über diese Berichte finden Sie unter [Verwenden von Berichten zum E-Mail-Schutz in Office 365, um Daten über Schadsoftware, Spam und Regelerkennung anzuzeigen](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ## <a name="excel-download-application-reports"></a>Berichte der Excel-Downloadanwendung
 <a name="BKMK_exceldownloadapplicationreports"> </a>
 
-E-Mail-Schutzberichte sind auch in der Excel 2013-Berichtsarbeitsmappe verfügbar, welche Zusammenfassungsberichte mit Drilldownfunktionen bereitstellt. Wir empfehlen jedoch, die erweiterten Office 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe wird voraussichtlich in naher Zukunft eingestellt. 
+E-Mail-Schutz Berichte sind auch in der Excel 2013-Berichtsarbeitsmappe verfügbar, die Zusammenfassungsberichte mit Drilldownfunktionen bereitstellt. Es wird jedoch empfohlen, stattdessen die erweiterten Microsoft 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe sollte in Zukunft veraltet sein. 
   
 Weitere Übersichtsinformationen sowie Links zum Herunterladen und Installieren der Arbeitsmappe finden Sie unter [Mail Protection Reports for Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271776). Informationen zur Verwendung der Arbeitsmappe finden Sie unter [E-Mail-Schutzberichte in der Excel-Berichtsarbeitsmappe](https://go.microsoft.com/fwlink/p/?LinkId=285211).
   

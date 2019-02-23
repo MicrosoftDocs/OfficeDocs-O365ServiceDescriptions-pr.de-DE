@@ -14,22 +14,22 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: Wenn Sie eine Domäne hinzufügen, Dank des Assistenten hinzufügen von Benutzern und konvertieren Ihre Office 365-e-Mail-Adressen und andere Dienste auf den Namen des Unternehmens. Beim Ausführen des Assistenten beginnt Ihre geschäftlichen e-Mail-Nachrichten zu Office 365 anstelle Ihrer aktuellen e-Mail-Anbieter stammen. Weitere Informationen finden Sie unter Hinzufügen von Ihren Benutzern und Domänen zu Office 365. Wenn Sie Office 365 handelt, das von 21Vianet verwenden, finden Sie unter Überprüfen Ihrer Domäne.
-ms.openlocfilehash: 47c378482b8a8d09e2f2516968af99af9472c641
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Schritt-für-Schritt-Assistent beim Hinzufügen von Benutzern und beim Konvertieren Ihrer Office 365-e-Mail-Adressen und anderer Dienste in den Namen Ihres Unternehmens. Wenn Sie den Assistenten abschließen, beginnt Ihr geschäftlicher e-Mail-Dienst zu Office 365, statt zu Ihrem aktuellen e-Mail-Anbieter zu wechseln. Weitere Informationen finden Sie unter Hinzufügen Ihrer Benutzer und Domänen zu Office 365. Wenn Sie Office 365, betrieben von 21Vianet, verwenden, finden Sie weitere Informationen unter Überprüfen Ihrer Domäne.
+ms.openlocfilehash: 15254355d2bb7aed01d7be8c8e56d455409a51a5
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035762"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210238"
 ---
 # <a name="domains"></a>Domänen
 
-Wenn Sie eine Domäne hinzufügen, Dank des Assistenten hinzufügen von Benutzern und konvertieren Ihre Office 365-e-Mail-Adressen und andere Dienste auf den Namen des Unternehmens. Beim Ausführen des Assistenten beginnt Ihre geschäftlichen e-Mail-Nachrichten zu Office 365 anstelle Ihrer aktuellen e-Mail-Anbieter stammen. Finden Sie weitere Informationen finden Sie unter [Ihren Benutzern und Domänen zu Office 365 hinzufügen](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Wenn Sie Office 365 handelt, das von 21Vianet verwenden, finden Sie unter [Überprüfen Ihrer Domäne](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409).
+Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Schritt-für-Schritt-Assistent beim Hinzufügen von Benutzern und beim Konvertieren Ihrer Office 365-e-Mail-Adressen und anderer Dienste in den Namen Ihres Unternehmens. Wenn Sie den Assistenten abschließen, beginnt Ihr geschäftlicher e-Mail-Dienst zu Office 365, statt zu Ihrem aktuellen e-Mail-Anbieter zu wechseln. Weitere Informationen finden Sie unter [Hinzufügen Ihrer Benutzer und Domänen zu Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Wenn Sie Office 365, betrieben von 21Vianet, verwenden, finden Sie weitere Informationen unter [Überprüfen Ihrer Domäne](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409).
   
 ## <a name="custom-domains"></a>Benutzerdefinierte Domänen
 <a name="BKMK_CustomDomains"> </a>
 
-Sie können bis zu 900 Domänen in Ihrer Office 365-Abonnement hinzufügen. Sie können nicht jedoch eine Domäne zu Office 365 hinzufügen, die Sie bereits in einer anderen Microsoft-Cloud-Dienst verwenden. Dies bedeutet, dass mehrere Office 365-Abonnements derselben Domäne hinzugefügt werden kann. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zu Domänen](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Sie können Ihrem Office 365-Abonnement bis zu 900 Domänen hinzufügen. Sie können jedoch keine Domäne zu Office 365 hinzufügen, die Sie bereits in einem anderen Microsoft-clouddienst verwenden. Dies führt dazu, dass Sie die gleiche Domäne nicht mehreren Office 365-Abonnements hinzufügen können. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu Domänen](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Domänen der zweiten und dritten Ebene
 <a name="BKMK_SecondAndThirdLevelDomains"> </a>
@@ -47,14 +47,14 @@ Wenn Ihre Domäne unter GoDaddy registriert ist, kann Office 365 bei GoDaddy die
   
 Unabhängig davon, wo Ihre DNS-Einträge gehostet werden, können Sie die Einträge so einrichten, dass Ihre Domäne für die URL einer auf Office 365 oder bei einem anderen Hostinganbieter gehostete öffentliche Website verwendet wird. 
   
-Office 365 überprüft Ihre DNS-Datensätze proaktiv, um DNS-Probleme zu finden und bei der Problembehebung zu helfen. Wenn Ihre DNS-Datensätze nicht mit dem übereinstimmen, was wir von ihnen erwarten, erhalten Sie im Office 365 Admin Center eine Benachrichtigung zusammen mit Informationen darüber, wie Sie die möglichen Probleme beheben können, die erkannt wurden.
+Office 365 überprüft Ihre DNS-Einträge proaktiv, um DNS-Probleme zu beheben. Wenn Ihre DNS-Einträge nicht mit den erwarteten übereinstimmen, erhalten Sie im Microsoft 365 Admin Center eine Benachrichtigung sowie Informationen, die Ihnen mitteilen, wie Sie die identifizierten Probleme beheben können.
   
 Weitere Informationen finden Sie unter [Wie Office 365 DNS-Einträge verwaltet](https://go.microsoft.com/fwlink/p/?LinkID=270144) oder für Office 365, betrieben von 21Vianet, unter [Erstellen von DNS-Einträgen für Office 365, wenn Sie diese verwalten](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409).
   
 ## <a name="sharing-a-domain"></a>Freigeben einer Domäne
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Sie können Office 365 mit einigen e-Mail-Adressen für eine Domäne in Office 365 und einige aus dem vorherigen e-Mail-Anbieter evaluieren. Dies ist nur für die Verwendung während einer Pilotphase für Office 365, empfohlen, da es zusätzliche Installationsschritte ausführen erfordert und verfügt über einige Einschränkungen für Office 365-Dienste. Weitere Informationen finden Sie unter:
+Sie können Pilot Office 365 mit einigen e-Mail-Adressen für eine Domäne in Office 365 und einige auf Ihrem vorherigen e-Mail-Anbieter. Dies wird nur für die Verwendung während eines Pilotprojekts von Office 365 empfohlen, da es zusätzliche Setupschritte erfordert und einige Einschränkungen für Office 365-Dienste aufweist. Weitere Informationen finden Sie unter:
   
 - [Testen von Office 365 für Kleinunternehmen](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

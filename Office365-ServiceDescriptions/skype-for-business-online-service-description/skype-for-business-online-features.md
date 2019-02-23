@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
-description: Wenn Sie ein Administrator sind, finden Sie detaillierte Informationen zum Einrichten von Skype für Business Onlinefeatures unter Set up Skype für Business Online.
-ms.openlocfilehash: eb0822385e6d2b07a356c069fabf3726ee27dc4b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online-Funktionen unter Einrichten von Skype for Business Online.
+ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035807"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210258"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
-Wenn Sie ein Administrator sind, finden Sie detaillierte Informationen zum Einrichten von Skype für Business Online-Features in [Skype für Business Online einrichten](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
+Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online-Funktionen unter [Einrichten von Skype for Business Online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
 ## <a name="clients-for-skype-for-business-online"></a>Clients für Skype for Business Online
 <a name="BKMK_Clients"> </a>
@@ -110,7 +110,7 @@ Skype for Business Online bietet daher den Kundenadministratoren die folgenden T
   
 - Microsoft Office 365-Portal
     
-- Microsoft Office 365 Admin Center
+- Microsoft 365 Admin Center
     
 - Skype for Business Admin Center
     

@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection (EOP) bietet mehrere bedeutet, dass der Verwaltung Ihrer Empfänger, Domäne und Firmeninformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben innerhalb der Exchange-Verwaltungskonsole (EAC) ausführen, und Überprüfen von anderen Verwaltungsaufgaben in der Microsoft Office 365-Verwaltungskonsole ausgeführt.
-ms.openlocfilehash: 17a87a85611dc286e3d19eaeefe04466a1ac62d0
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) bietet mehrere Möglichkeiten zum Verwalten von Empfänger-, Domänen-und Unternehmensinformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben innerhalb der Exchange-Verwaltungskonsole (EAC) ausführen und andere Verwaltungsaufgaben im Microsoft 365 Admin Center überprüfen.
+ms.openlocfilehash: fcae2c3ad93b977fb197089e2c8809b74ada7bd7
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035880"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210328"
 ---
 # <a name="recipient-domain-and-company-management"></a>Empfänger-, Domänen- und Unternehmensverwaltung
 
-Microsoft Exchange Online Protection (EOP) bietet mehrere bedeutet, dass der Verwaltung Ihrer Empfänger, Domäne und Firmeninformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben innerhalb der Exchange-Verwaltungskonsole (EAC) ausführen, und Überprüfen von anderen Verwaltungsaufgaben in der Microsoft Office 365-Verwaltungskonsole ausgeführt.
+Microsoft Exchange Online Protection (EOP) bietet mehrere Möglichkeiten zum Verwalten von Empfänger-, Domänen-und Unternehmensinformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben innerhalb der Exchange-Verwaltungskonsole (EAC) ausführen und andere Verwaltungsaufgaben im Microsoft 365 Admin Center überprüfen.
   
 Sie suchen nach Informationen zu allen EOP-Features? Entsprechendes finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
   
 ## <a name="mail-recipients"></a>E-Mail-Empfänger
 <a name="BKMK_mailrecipients"> </a>
 
-E-Mail-Empfänger werden als E-Mail-Benutzer oder -Gruppen kategorisiert und können durch die Verzeichnissynchronisierung direkt im EAC oder remote über die Windows PowerShell verwaltet werden. Wenn Sie Ihre Empfänger lokal verwalten, müssen Sie die Verzeichnissynchronisierung ausführen, damit Ihre E-Mail-Empfänger in der Exchange-Verwaltungskonsole wiedergegeben werden. Benutzer, die nur im Office 365 Admin Center verwaltet werden, sind in der Exchange-Verwaltungskonsole nicht sichtbar, können jedoch in der Administratorrollengruppe in der Exchange-Verwaltungskonsole hinzugefügt oder entfernt werden. Weitere Informationen zu Empfängern in EOP finden Sie unter [Empfänger in EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
+E-Mail-Empfänger werden als e-Mail-Benutzer oder-Gruppen kategorisiert und können über die Verzeichnissynchronisierung direkt in der Exchange-Verwaltungskonsole oder über die Remote-Windows PowerShell verwaltet werden. Wenn Sie Ihre Empfänger lokal verwalten, müssen Sie die Verzeichnissynchronisierung ausführen, damit Ihre e-Mail-Empfänger in der Exchange-Verwaltungskonsole wiedergegeben werden. Benutzer, die ausschließlich im Microsoft 365 Admin Center verwaltet werden, können nicht in der Exchange-verwaltungsKONSOLE angezeigt werden, Sie sind jedoch in einer Administratorrollengruppe in der Exchange-Verwaltungskonsole zur Mitgliedschaft hinzugefügt oder daraus entfernt. Weitere Informationen zu Empfängern in EOP finden Sie unter [Recipients in EoP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
   
 ## <a name="admin-role-group-permissions"></a>Berechtigungen für Administratorrollengruppen
 <a name="BKMK_adminrolegrouppermissions"> </a>
@@ -39,7 +39,7 @@ Sie können in EOP nur Administratorrollen konfigurieren. Benutzer können direk
 ## <a name="domain-management"></a>Domänenverwaltung
 <a name="BKMK_domainmanagement"> </a>
 
-Verwaltete Domänen sind Domänen, die mit EOP geschützt sind. In der Exchange-Verwaltungskonsole können verwaltete Domänen angezeigt und Domänentypen bearbeitet werden. Domänenbereitstellung und -verwaltung erfolgen im Office 365-Admin Center. Änderungen werden in der Exchange-Verwaltungskonsole wiedergegeben. Weitere Informationen finden Sie unter [Anzeigen oder Bearbeiten von verwalteten Domänen in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+Verwaltete Domänen sind Domänen, die von EOP geschützt werden. Verwaltete Domänen können angezeigt und Domänentypen in der Exchange-Verwaltungskonsole bearbeitet werden. Die Domänen Einrichtung und-Verwaltung erfolgt im Microsoft 365 Admin Center, und Änderungen werden in der Exchange-Verwaltungskonsole übernommen. Weitere Informationen finden Sie unter [anzeigen oder bearbeiten verwaltetEr Domänen in EoP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
   
 ## <a name="match-subdomains"></a>Untergeordnete Domänen abgleichen
 <a name="BKMK_EOP_Match_Subdomains"> </a>

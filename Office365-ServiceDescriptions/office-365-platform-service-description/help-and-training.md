@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 finden Sie die folgenden Hilfe und Schulungsressourcen.
-ms.openlocfilehash: fb923c0b2323011c9ae61d0ca748af017cd22a06
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
+ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035829"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210288"
 ---
 # <a name="help-and-training"></a>Hilfe und Schulungen
 
-Microsoft Office 365 finden Sie die folgenden Hilfe und Schulungsressourcen.
+Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
   
 ## <a name="online-help"></a>Onlinehilfe
 <a name="BKMK_Online_Help"> </a>
 
-Hilfeartikel und Videos stehen über jeden Inline-Hilfelink im Dienst zur Verfügung, unter anderem über das Hilfesymbol in der oberen Navigationsleiste im Office 365-Portal und im Office 365 Admin Center. Außerdem können Sie die gesamte Office 365-Hilfe unter [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) durchsuchen. 
+Hilfeartikel und-Videos sind über jeden Inline-Hilfe Link im Dienst verfügbar, einschließlich des Hilfe Symbols in der oberen Navigationsleiste des Office 365-Portals und des Microsoft 365 admin Centers. Sie können auch alle Office 365-Hilfe zu [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)durchsuchen. 
   
 ## <a name="training"></a>Schulung
 <a name="BKMK_Online_Help"> </a>
@@ -126,30 +126,30 @@ Hilfe- und Schulungsressourcen stehen in folgenden Sprachen zur Verfügung.
 |Vereinfachtes Chinesisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Traditionelles Chinesisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Tschechisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Dänisch  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Niederländisch  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Dänisch  <br/> |Ja  <br/> |Ja   <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Niederländisch  <br/> |Ja  <br/> |Ja   <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Estnisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Finnisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Französisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Deutsch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Französisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |
+|Deutsch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |
 |Griechisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Ungarisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Italienisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Japanisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Italienisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |
+|Japanisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |
 |Koreanisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Lettisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Litauisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Norwegisch  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Polnisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
+|Norwegisch  <br/> |Ja  <br/> |Ja   <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Polnisch  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |Nr.  <br/> |Ja  <br/> |
 |Portugiesisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Portugiesisch (Brasilien)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Portugiesisch (Brasilien)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |
 |Rumänisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Russisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Serbisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Slowakisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Slowenisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Spanisch  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Schwedisch  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Schwedisch  <br/> |Ja  <br/> |Ja   <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Thailändisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Türkisch  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Ukrainisch  <br/> |Ja  <br/> | Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
