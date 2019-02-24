@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: 7481b9e1910cd9ad64d37f095b71bde5a040ae27
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 27c8cc588720eac081856bedf979a7b004a0d1ec
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035846"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210278"
 ---
 # <a name="user-account-management"></a>Benutzerkontenverwaltung
 
@@ -49,7 +49,7 @@ Die Art der Identität hat Auswirkungen auf die Benutzerfreundlichkeit, Verwaltu
   
 ### <a name="custom-domains-and-identity-options"></a>Benutzerdefinierte Domänen und Identitätsoptionen
 
-Wenn Sie einen neuen Benutzer erstellen, werden der Anmeldename und die E-Mail-Adresse des Benutzers der Standarddomäne zugewiesen, die im Office 365 Admin Center festgelegt ist. Weitere Informationen finden Sie unter [Hinzufügen Ihrer Benutzer und Domänen zu Office 365](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
+Wenn Sie einen neuen Benutzer erstellen, werden der Anmeldename und die e-Mail-Adresse des Benutzers der Standarddomäne zugewiesen, die im Microsoft 365 Admin Center festgelegt ist. Weitere Informationen finden Sie unter [Hinzufügen von Benutzern und Domänen zu Office 365](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
 Standardmäßig wird für das Office 365-Abonnement die Domäne \< _company name_\> **.onmicrosoft.com** verwendet, die zusammen mit dem Konto erstellt wurde.\* Sie können Office 365 eine oder mehrere benutzerdefinierte Domänen hinzufügen, statt die Domäne „onmicrosoft.com" zu behalten, und Sie können Benutzer für die Anmeldung einer beliebigen der überprüften Domänen zuweisen. Die einem Benutzer zugewiesene Domäne ist die E-Mail-Adresse, die in gesendeten und empfangenen E-Mails angezeigt wird. 
   
@@ -77,7 +77,7 @@ Office 365 verwendet die formularbasierte Authentifizierung, und der Authentifiz
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Mehrstufige Authentifizierung für Office 365
 
-Bei der mehrstufigen Authentifizierung für Office 365\* müssen Benutzer auf ihrem Smartphone einen Telefonanruf, eine Textnachricht oder eine App-Benachrichtigung annehmen bzw. bestätigen, nachdem sie ihr Kennwort korrekt eingegeben haben. Der Benutzer kann sich erst nach der zweiten Authentifizierung anmelden. Office 365-Administratoren können Benutzer im Office 365 Admin Center für mehrstufige Authentifizierung registrieren. Erfahren Sie mehr über die [mehrstufige Authentifizierung für Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Bei der mehrstufigen Authentifizierung für Office\*365 müssen Benutzer nach der korrekten Eingabe des Kennworts einen Telefonanruf, eine Textnachricht oder eine APP-Benachrichtigung auf Ihrem Smartphone bestätigen. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Office 365-Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Weitere Informationen zur mehrstufigen [Authentifizierung für Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Rich-Client-Authentifizierung
 
@@ -115,7 +115,7 @@ Die Anmeldung hängt von der verwendeten Office 365-Identität ab:
   
 ## <a name="creating-user-accounts"></a>Erstellen von Benutzerkonten
 
-Es gibt mehrere Methoden zum Hinzufügen von Benutzern zu Office 365. Weitere Informationen finden Sie unter [Hinzufügen von einzelnen Benutzern oder Massenhinzufügen von Benutzern zu Office 365 - Administratorhilfe](https://go.microsoft.com/fwlink/p/?linkid=860006) und [Hinzufügen, Entfernen und Verwalten von Benutzern im Office 365 Admin Center - Vorschau](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409). Wenn Sie Office 365 im Betrieb durch 21Vianet in China verwenden, finden Sie Informationen unter [Erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet - Admininstratorhilfe](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409).
+Es gibt mehrere Möglichkeiten zum Hinzufügen von Benutzern zu Office 365. Weitere Informationen finden Sie unter [Hinzufügen von Benutzern einzeln oder in Massen zu Office 365-Administratorhilfe](https://go.microsoft.com/fwlink/p/?linkid=860006) und [hinzufügen, entfernen und Verwalten von benutzern in Microsoft 365 Admin Center Preview](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409). Wenn Sie Office 365, betrieben von 21Vianet, in China verwenden, finden Sie weitere Informationen unter [erstellen oder Bearbeiten von Benutzerkonten in office 365, betrieben von 21Vianet-Administratorhilfe](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409).
   
 ## <a name="deleting-accounts"></a>Löschen von Konten
 
@@ -145,7 +145,7 @@ Es gibt mehrere Tools zum Zurücksetzen von Kennwörtern für Benutzer mit Cloud
   
 - **Kennwort wird vom Administrator zurückgesetzt** Wenn Benutzer ihre Kennwörter verlieren oder vergessen, können Administratoren die Kennwörter von Benutzern im Office 365-Portal oder mit Windows PowerShell zurücksetzen. Benutzer können ihr eigenes Kennwort nur ändern, wenn sie ihr bestehendes Kennwort kennen. 
     
-    Bei Enterprise-Plänen kann, wenn Administratoren ihre Kennwörter verlieren oder vergessen, ein anderer Administrator mit der Rolle „Globaler Administrator" Kennwörter von Administratoren im Office 365 Admin Center oder mithilfe der Windows PowerShell zurücksetzen. Weitere Informationen finden Sie im Artikel zum Thema [Zurücksetzen von Administratorkennwörtern](https://go.microsoft.com/fwlink/p/?LinkID=270062). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
+    Bei Enterprise-Plänen können Administratoren, die ihre Kennwörter verlieren oder vergessen, ein anderer Administrator mit der globalen Administratorrolle die Kennwörter der Administratoren im Microsoft 365 Admin Center oder mithilfe von Windows PowerShell zurücksetzen. Weitere Informationen finden Sie unter [Zurücksetzen von Kennwörtern für Administratoren](https://go.microsoft.com/fwlink/p/?LinkID=270062). Wenn Sie in Office 365, betrieben von 21Vianet in China, arbeiten, finden Sie weitere Informationen unter [Change or reset passwords in office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
     
 - **Benutzer ändert Kennwörter mit Outlook Web App** Auf der Outlook Web App-Optionsseite finden Sie den Link „Kennwort ändern", der Benutzer auf die Seite **Kennwort ändern** weiterleitet. Der Benutzer muss das bisherige Kennwort kennen. Weitere Informationen finden Sie im Artikel zum Thema [Ändern des Kennworts](https://go.microsoft.com/fwlink/p/?LinkID=270063). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
     
@@ -167,7 +167,7 @@ Office 365-Rechnungsadministratoren können Änderungen an Abonnementdetails wie
   
 ## <a name="group-management"></a>Gruppenverwaltung
 
-Sicherheitsgruppen werden in SharePoint Online zum Steuern des Zugriffs auf Websites verwendet. Sicherheitsgruppen können im Office 365 Admin Center erstellt werden. Weitere Informationen zu Sicherheitsgruppen finden Sie unter [Erstellen, Bearbeiten oder Entfernen einer Sicherheitsgruppe](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409).
+Sicherheitsgruppen werden in SharePoint Online verwendet, um den Zugriff auf Websites zu steuern. Sicherheitsgruppen können im Microsoft 365 Admin Center erstellt werden. Weitere Informationen zu Sicherheitsgruppen finden Sie unter [erstellen, bearbeiten oder Löschen einer Sicherheitsgruppe](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409).
   
 ## <a name="administrator-roles"></a>Administratorrollen
 
