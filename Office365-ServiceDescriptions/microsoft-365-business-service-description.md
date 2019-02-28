@@ -3,7 +3,7 @@ title: Microsoft 365 Business - Dienstbeschreibung
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 02/27/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen kombiniert, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie in den Office 365-Dienstbeschreibungen.
-ms.openlocfilehash: a85f8c0a5186097e9a8b7d8fb7a9fbf0eb0f917c
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 498334db4672e186d7e02bfcec3a519178e71197
+ms.sourcegitcommit: 7020c5cb68748694d05e23265e23eef2be3bc076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210298"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "30312122"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -116,7 +116,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Identitäts- und Zugriffsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility Suite** <br/> |
+|**Identitäts- und Zugriffsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
 |Office 365 Multi-Factor Authentication (MFA)  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
 |Administrative Einheiten  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Cloud App Discovery  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
