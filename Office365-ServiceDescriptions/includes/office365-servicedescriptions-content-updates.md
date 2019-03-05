@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Week of January 21, 2019
-
-
-| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
-|------|------------|--------|
-| 1/24/2019 | [Skype for Business Online-Dienstbeschreibung](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | Geändert |
-| 1/24/2019 | [Office 365-Plattformdienstbeschreibung](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Geändert |
-
-
 ## <a name="week-of-january-28-2019"></a>Woche vom 28. Januar 2019
 
 
@@ -64,3 +55,11 @@
 | 2/22/2019 | [Benutzerkontenverwaltung](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | Geändert |
 | 2/22/2019 | [Skype for Business Online-Features](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-features) | Geändert |
 | 2/22/2019 | [Skype for Business Online-Dienstbeschreibung](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | Geändert |
+
+
+## <a name="week-of-february-25-2019"></a>Woche vom 2019
+
+
+| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
+|------|------------|--------|
+| 2/27/2019 | [Microsoft 365 Business – Dienstbeschreibung](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Geändert |
