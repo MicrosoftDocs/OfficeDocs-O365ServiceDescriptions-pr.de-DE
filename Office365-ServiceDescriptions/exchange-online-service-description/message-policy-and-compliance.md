@@ -1,7 +1,7 @@
 ---
 title: Messagingrichtlinie und -einhaltung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: fd5062df19298720417566d91667f3c3b237b164
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035947"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467252"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 
@@ -86,7 +86,7 @@ Neben Bitlocker verwenden wir eine Technologie, die Distributed Key Manager (DKM
 
 Mit Kundenschlüssel können Sie die Verschlüsselungsschlüssel Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in Microsoft-Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://go.microsoft.com/fwlink/?linkid=863349) und [Häufig gestellte Fragen zur Dienstverschlüsselung mit Kundenschlüssel für Office 365](https://go.microsoft.com/fwlink/?linkid=869438).
   
-## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
+## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 E-Mail-Benutzer können mit der Office 365-Nachrichtenverschlüsselung an jeden und ganz einfach verschlüsselte E-Mail-Nachrichten senden. Wir haben neue Funktionen bei der Office-Nachrichtenverschlüsselung angekündigt, die die Schutzfunktionen von Azure Information Encryption nutzen. Diese neuen Funktionen bieten eine verbesserte Endbenutzererfahrung, die eine einfache Freigabe und Zusammenarbeit an geschützten Nachrichten mit Personen innerhalb und außerhalb der Organisation ermöglichen. Für die neuen Funktionen der Office-Nachrichtenverschlüsselung müssen einige Setupanforderungen erfüllt sein. Informationen dazu finden Sie unter „Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen". Kunden mit älteren Versionen der Office 365-Nachrichtenverschlüsselung erhalten nur Zugriff auf die neuen Funktionen, wenn Sie der aufgeführte Anleitung folgen. Weitere Informationen zu den neuen und alten Funktionen der Office 365-Nachrichtenverschlüsselung finden Sie in den [häufig gestellten Fragen](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e). 
@@ -194,13 +194,13 @@ Sie können DLP-Richtlinien in der Verwaltungsschnittstelle der Exchange-Verwalt
     
 - Erkennen Sie vertrauliche Formulardaten mithilfe von Dokumentfingerabdrücken. Dokumentfingerabdrücke helfen Ihnen, problemlos benutzerdefinierte Typen vertraulicher Informationen auf Basis textbasierter Formulare zu erstellen, die Sie zum Definieren von Transportregeln und DLP-Richtlinien verwenden können.
     
-- Fügen Sie Richtlinientipps hinzu, die helfen können, Datenverluste zu vermeiden, indem Ihren Outlook 2016-, Outlook 2013-, Outlook Web App- und OWA for Devices-Benutzern ein Hinweis angezeigt wird, und die auch die Effektivität Ihrer Richtlinien verbessern können, indem falsch positive Ergebnisse gemeldet werden können.  
+- Fügen Sie Richtlinientipps hinzu, die helfen können, Datenverluste zu vermeiden, indem Ihren Outlook 2016-, Outlook 2013-, Outlook Web App- und OWA for Devices-Benutzern ein Hinweis angezeigt wird, und die auch die Effektivität Ihrer Richtlinien verbessern können, indem falsch positive Ergebnisse gemeldet werden können. 
     
 - Überprüfen Sie Vorfallsdaten in DLP-Berichten, oder fügen Sie Ihre eigene Berichterstellung mithilfe einer neuen Aktion zum Generieren eines Schadensberichts hinzu.
     
 Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust](https://go.microsoft.com/fwlink/p/?LinkId=271749).
   
-## <a name="journaling"></a>Journaling
+## <a name="journaling"></a>Journale
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Sie können Exchange Online so konfigurieren, dass Kopien von E-Mails in Journalen beliebiger externer Postfächer erfasst werden, die Nachrichten über SMTP erhalten können. Mithilfe der Aufzeichnung eingehender und ausgehender E-Mail-Kommunikation in Journalen kann Ihre Organisation rechtlichen, regulatorischen und organisatorischen Auflagen genügen. Bei der Planung von Nachrichtenaufbewahrung und Richtlinientreue ist es wichtig zu wissen, was Journaling ist und wie es in die Konformitätsrichtlinien Ihrer Organisation passt.

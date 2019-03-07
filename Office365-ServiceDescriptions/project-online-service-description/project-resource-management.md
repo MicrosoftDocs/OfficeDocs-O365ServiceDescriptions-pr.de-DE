@@ -1,7 +1,7 @@
 ---
 title: Projektressourcenverwaltung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Die folgenden ressourcenverwaltungsfeatures sind in Project Online verfügbar.
-ms.openlocfilehash: f6b5dbf1eb4958421b7a9b1e34e77ca950cf14e5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Die folgenden Ressourcen Verwaltungsfeatures sind in Project online verfügbar.
+ms.openlocfilehash: 5c1f60e5bf27ec245fe2a5ef21f6fce4500e97cc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035860"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467552"
 ---
 # <a name="project-resource-management"></a>Projektressourcenverwaltung
 
-Die folgenden ressourcenverwaltungsfeatures sind in Project Online verfügbar.
+Die folgenden Ressourcen Verwaltungsfeatures sind in Project online verfügbar.
   
 Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
   

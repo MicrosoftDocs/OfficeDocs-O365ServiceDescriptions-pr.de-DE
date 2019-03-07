@@ -1,7 +1,7 @@
 ---
 title: Berichterstellungsfeatures und Tools zur Problembehandlung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online bietet eine Vielzahl von Berichtsfunktionen sowohl innerhalb als auch außerhalb der Exchange-Verwaltungskonsole.
-ms.openlocfilehash: 16bcea7f90115ca3238e502e5b57d756d24025ba
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 1fb9a0fe62fb94c0ace7388613ca26f65fc4698f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210218"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466982"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Berichterstellungsfeatures und Tools zur Problembehandlung
 
@@ -30,15 +30,15 @@ Exchange Online-Kunden können auf Berichte im Microsoft 365 Admin Center zugrei
   
 ### <a name="reporting-in-the-microsoft-365-admin-center"></a>Berichterstellung im Microsoft 365 Admin Center
 
-Es gibt Berichte auf der Seite "Berichte" im Microsoft 365 Admin Center, die zusammenfassende Informationen zu Postfächern und Gruppen bereitstellen. In einem Bericht wird beispielsweise die Anzahl der Gruppen aufgelistet, die nach Tag, Woche, Monat oder Jahr erstellt und gelöscht wurden. Es gibt auch Zusammenfassungsberichte für neue und gelöschte Postfächer sowie aktive und inaktive Postfächer. 
+Es gibt Berichte auf der Seite "Berichte" im Microsoft 365 Admin Center, die zusammenfassende Informationen zu Postfächern und Gruppen bereitstellen. Beispielsweise wird in einem Bericht die Anzahl der Gruppen aufgeführt, die pro Tag, Woche, Monat oder Jahr erstellt und gelöscht wurden. Es gibt auch Zusammenfassungsberichte für neue und gelöschte sowie aktive und inaktive Postfächer. 
   
-Darüber hinaus enthält die Seite "Berichte" im Microsoft 365 Admin Center Nachrichtendaten Berichte, die Informationen zum Nachrichten Datenverkehr, zu Spam-und Schadsoftware-Ermittlungen sowie zu Nachrichten von Exchange-Transport Regeln oder zur verHinderung von Datenverlust (Data Loss Prevention, DLP) enthalten. Richtlinien. Die erweiterten Berichte zu Schutz, Regeln und DLP bieten eine interaktive Berichterstellung für Exchange Online-Administratoren. Diese Berichte bieten Zusammenfassungsdaten und die Möglichkeit, detaillierte Informationen zu einzelnen Nachrichten aufzuführen.
+Darüber hinaus enthält die Seite "Berichte" im Microsoft 365 Admin Center Nachrichtendaten Berichte, die Informationen zum Nachrichten Datenverkehr, zu Spam-und Schadsoftware-Ermittlungen sowie zu Nachrichten von Exchange-Transport Regeln oder zur verHinderung von Datenverlust (Data Loss Prevention, DLP) enthalten. Richtlinien. Die optimierten Berichte zu Schutz, Regeln und DLP (Data Loss Prevention, Verhinderung von Datenverlust) bieten Exchange Online-Administratoren eine interaktive Umgebung für die Berichterstellung. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
   
-Weitere Informationen darüber, welche Berichte für jedes Office 365-Abonnement zur Verfügung stehen, finden Sie unter [Berichte](../office-365-platform-service-description/reports.md). Ausführlichere Informationen zur Seite "Berichte" im Microsoft 365 Admin Center finden Sie unter [anzeigen und Herunterladen von Berichten zur Dienst Verwendung in office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) und [Verwenden von e-Mail-Schutz berichten in Office 365 zum Anzeigen von Daten über Schadsoftware, Spam und Regel Erfassungen ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Weitere Informationen darüber, welche Berichte im Rahmen der verschiedenen Office 365-Abonnements jeweils zur Verfügung stehen, finden Sie unter [Berichte](../office-365-platform-service-description/reports.md). Ausführlichere Informationen zur Seite "Berichte" im Microsoft 365 Admin Center finden Sie unter [anzeigen und Herunterladen von Berichten zur Dienst Verwendung in office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) und [Verwenden von e-Mail-Schutz berichten in Office 365 zum Anzeigen von Daten über Schadsoftware, Spam und Regel Erfassungen ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Berichte über die Excel-Arbeitsmappe mit Berichten
 
-Sie können auch die Excel 2013-Berichtsarbeitsmappe verwenden, um Zusammenfassungsberichte mit Drilldownfunktionen anzuzeigen. Es wird jedoch empfohlen, stattdessen die erweiterten Microsoft 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe sollte in Zukunft veraltet sein. Weitere Übersichtsinformationen und Links zum herunterladen und Installieren der Arbeitsmappe finden Sie auf der folgenden [Download Seite](https://go.microsoft.com/fwlink/p/?LinkId=271776). Informationen zur Verwendung der Arbeitsmappe finden Sie unter [e-Mail-Schutz Berichte mithilfe der Excel-Berichtsarbeitsmappe](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
+Sie können auch die Excel 2013-Berichtsarbeitsmappe verwenden, um Zusammenfassungsberichte mit Drilldownfunktionalitäten anzuzeigen. Es wird jedoch empfohlen, stattdessen die erweiterten Microsoft 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe wird voraussichtlich in naher Zukunft eingestellt. Einen detaillierteren Überblick und Links zum Herunterladen und Installieren der Arbeitsmappe finden Sie auf [dieser Downloadseite](https://go.microsoft.com/fwlink/p/?LinkId=271776). Informationen zur Verwendung der Arbeitsmappe finden Sie unter [E-Mail-Schutzberichte in der Excel-Berichtsarbeitsmappe](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
 ### <a name="reporting-using-web-services"></a>Berichterstattung mit Webservices
 

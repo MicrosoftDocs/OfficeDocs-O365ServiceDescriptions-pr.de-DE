@@ -1,7 +1,7 @@
 ---
 title: Messagingrichtlinie und -einhaltung[Dienstbeschr]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) bietet für Messagingrichtlinien und Kompatibilitätsfeatures, die Ihnen helfen können Ihre e-Mail-Daten verwalten.
-ms.openlocfilehash: f88cd016586384f4617cd4899708c811a32af980
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, die Ihnen bei der Verwaltung Ihrer e-Mail-Daten helfen.
+ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035748"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466972"
 ---
 # <a name="messaging-policy-and-complianceservicedesc"></a>Messagingrichtlinie und -einhaltung[Dienstbeschr]
 
-Microsoft Exchange Online Protection (EOP) bietet für Messagingrichtlinien und Kompatibilitätsfeatures, die Ihnen helfen können Ihre e-Mail-Daten verwalten.
+Microsoft Exchange Online Protection (EOP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, die Ihnen bei der Verwaltung Ihrer e-Mail-Daten helfen.
   
-Sie suchen nach Informationen zu allen EOP-Features? Entsprechendes finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu allen EOP-Funktionen? Entsprechendes finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
   
 ## <a name="transport-rules"></a>Transportregeln
 <a name="BKMK_transportrules"> </a>
@@ -64,7 +64,7 @@ Sie können DLP-Richtlinien in der Exchange-Verwaltungskonsole konfigurieren, wo
   
 Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust](https://go.microsoft.com/fwlink/p/?LinkId=320398).
   
-## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
+## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
 <a name="BKMK_OME_in_EOP"> </a>
 
 Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Protection, ist ein Onlinedienst, der es E-Mail-Benutzern erlaubt, an beliebige Personen verschlüsselte E-Mail-Nachrichten zu senden. Lokale Kunden können auf Office 365-Nachrichtenverschlüsselung zugreifen, indem sie Azure Information Protection erwerben und Exchange Online Protection zum Einrichten der Nachrichtenübermittlung über Exchange Online verwenden. Weitere Informationen zu Office 365-Nachrichtenverschlüsselung in Exchange Online finden Sie unter [Office 365-Nachrichtenverschlüsselung](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) in der Exchange Online-Dienstbeschreibung. 
@@ -74,10 +74,10 @@ Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Pr
 
 |**Feature**|**EOP als eigenständige Lösung**|**EOP-Funktionen in Exchange Online**|**Exchange Enterprise CAL mit Diensten**|
 |:-----|:-----|:-----|:-----|
-|Transportregeln  <br/> |Ja<sup>1</sup> <br/> |Ja,<sup>1</sup> <br/> |Ja  <br/> |
-|Überwachungsprotokollierung  <br/> |Ja,<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|Verhinderung von Datenverlust (Data Loss Prevention, DLP)  <br/> |Nein  <br/> |Ja  <br/> |Ja,<sup>3</sup> <br/> |
-|Office 365-Nachrichtenverschlüsselung  <br/> |Ja,<sup>4</sup> <br/> |Ja  <br/> |Ja,<sup>4</sup> <br/> |
+|Transportregeln  <br/> |Ja<sup>1</sup> <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |
+|Überwachungsprotokollierung  <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|Verhinderung von Datenverlust (Data Loss Prevention, DLP)  <br/> |Nein  <br/> |Ja  <br/> |Ja<sup>3</sup> <br/> |
+|Office 365-Nachrichtenverschlüsselung  <br/> |Ja<sup>4</sup> <br/> |Ja  <br/> |Ja<sup>4</sup> <br/> |
    
 > [!NOTE]
 > <sup>1</sup> In Exchange Online und EOP sind jeweils unterschiedliche Kriterien und Aktionen verfügbar. Eine Auflistung der in EOP verfügbaren Kriterien und Aktionen finden Sie unter [ Transportregelbedingungen ](https://go.microsoft.com/fwlink/p/?LinkId=320392) und [Transportregelaktionen](https://go.microsoft.com/fwlink/p/?LinkId=320393). Eine Auflistung der in Exchange Online verfügbaren Kriterien und Aktionen finden Sie unter [Nachrichtenflussregelbedingungen](https://go.microsoft.com/fwlink/p/?LinkId=320394) und [Aktionen für Nachrichtenflussregeln](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> Die EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern. > <sup>3</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar. > <sup>4</sup> Wird für lokale Kunden unterstützt, die das Add-On Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. Für die Desktopdarstellung muss zusätzlich zum Add-On Azure Information ProtectionOffice 365 ProPlus erworben werden. 

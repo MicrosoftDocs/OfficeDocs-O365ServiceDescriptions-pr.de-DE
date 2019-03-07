@@ -1,7 +1,7 @@
 ---
 title: Profilfunktionen in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Die nachfolgenden Profilfunktionen stehen in Yammer zur Verfügung.
-ms.openlocfilehash: c79b75a8540bf1c141d61d47cc966abc98e54865
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08c1a39a7f0e2aab5d16b2290cce7e5563ea4e37
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035727"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467642"
 ---
 # <a name="profile-features-in-yammer"></a>Profilfunktionen in Yammer
 

@@ -1,7 +1,7 @@
 ---
 title: Berechtigungen
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: In Microsoft Exchange Online wird ein Modell der rollenbasierten Zugriffssteuerung (Role Based Access Control, RBAC) verwendet, damit Organisationsadministratoren genau steuern können, welche Funktionen Benutzer und IT-Mitarbeiter in dem Dienst nutzen können. Wenn beispielsweise ein Compliance Officer für Postfachsuchanfragen zuständig ist, kann der Administrator dieses administrative Feature über RBAC an diesen Mitarbeiter delegieren. Exchange Online verwendet das gleiche RBAC-Framework wie Microsoft Exchange Server 2013.
-ms.openlocfilehash: 037a92123c67e313f4db93835be6355bbd829efc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035818"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468132"
 ---
 # <a name="permissions"></a>Berechtigungen
 

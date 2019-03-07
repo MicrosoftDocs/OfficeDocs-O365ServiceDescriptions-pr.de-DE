@@ -1,7 +1,7 @@
 ---
 title: Exchange Online Protection-Dienstbeschreibung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthält eine Liste von Plänen, die Exchange Online Protection sowie einen Vergleich der Features in diesen Plänen bereitstellt.
-ms.openlocfilehash: 749a4a8e1b9e8e93397f39a998e5bac6e1c0c745
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210268"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467672"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
@@ -61,7 +61,7 @@ EOP ist über die folgenden Abonnementpläne verfügbar:
 
 Microsoft Exchange Enterprise CAL mit Diensten liefert den E-Mail-Schutz des EOP-Diensts für Ihre lokale Messaging-Umgebung sowie die folgenden Funktionen:
   
-- [Verhinderung von Datenverlusten (Data Loss Prevention, DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
+- [Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
     
 - [Berichterstellung mit Webdiensten](reporting-and-message-trace.md#reporting-using-web-services)
     
@@ -91,31 +91,44 @@ Jedes Funktion ist unten aufgeführt. Detailliertere Informationen zu EOP-Funkti
 |[Berechtigungen für Administratorrollengruppen](recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Domänenverwaltung](recipient-domain-and-company-management.md#domain-management) <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |
 |[Untergeordnete Domänen abgleichen](recipient-domain-and-company-management.md#match-subdomains) <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Verzeichnisbasierte Edge-Blockierung (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
+|[Verzeichnisbasierte Edge-Blockierung (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Transportregeln](messaging-policy-and-compliance-servicedesc.md#transport-rules) <br/> |Ja<sup>3, 4, 14</sup> <br/> |Ja<sup>3, 4, 14</sup> <br/> |Ja  <br/> |
-|[Überwachungsprotokollierung](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |Ja   <br/> |
+|[Überwachungsprotokollierung](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Verhinderung von Datenverlusten (Data Loss Prevention, DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |Nein  <br/> |Ja  <br/> |Ja<sup>6</sup> <br/> |
 |[Office 365-Nachrichtenverschlüsselung](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |Ja<sup>12</sup> <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |
-|[Antispamschutz](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (integriert)  <br/> |Ja  <br/> |Ja   <br/> |Ja  <br/> |
-|[Anpassung von Antispamrichtlinien](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |Ja<sup>7</sup> <br/> |Ja  <br/> |Ja   <br/> |
-|[Schutz vor Schadsoftware](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (integriert)  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja   <br/> |
-|[Anpassung von Antischadsoftwarerichtlinien](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies) <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
-|[Quarantäne](anti-spam-and-anti-malware-protection-eop.md#quarantine): Verwaltung durch Administrator  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
-|[Quarantäne](anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
-|[Add-In "Junk-E-Mail-Berichtsprogramm" für Microsoft Office Outlook](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-add-in-for-microsoft-office-outlook) <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
+|[Antispamschutz](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (integriert)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Anpassung von Antispamrichtlinien](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |Ja<sup>7</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Schutz vor Schadsoftware](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (integriert)  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Anpassung von Antischadsoftwarerichtlinien](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Quarantäne](anti-spam-and-anti-malware-protection-eop.md#quarantine): Verwaltung durch Administrator  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Quarantäne](anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Add-In "Junk-E-Mail-Berichtsprogramm" für Microsoft Office Outlook](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-add-in-for-microsoft-office-outlook) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Junk-E-Mail-Meldeprogramm in Outlook Web App](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-web-app) <br/> |Ja<sup>8</sup> <br/> |Nr.<sup>8</sup> <br/> |Nr.<sup>8</sup> <br/> |
-|[Weiterleiten von E-Mails zwischen Office 365 und eigenen E-Mail-Servern](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers) <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
-|[Sichere Nachrichten mit einem vertrauenswürdigen Partner](mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |Ja  <br/> |Ja   <br/> |Ja  <br/> |
-|[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
-|[Bedingtes E-Mail-Routing](mail-flow-eop.md#conditional-mail-routing) <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
-|[Hybrides E-Mail-Routing](mail-flow-eop.md#hybrid-mail-routing) <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
+|[Weiterleiten von E-Mails zwischen Office 365 und eigenen E-Mail-Servern](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Sichere Nachrichten mit einem vertrauenswürdigen Partner](mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Bedingtes E-Mail-Routing](mail-flow-eop.md#conditional-mail-routing) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Hybrides E-Mail-Routing](mail-flow-eop.md#hybrid-mail-routing) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Microsoft 365 Admin Center-Berichte](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Ja<sup>9</sup> <br/> |Ja<sup>10</sup> <br/> |Ja <sup>9, 10</sup> <br/> |
 |[Berichte der Excel-Downloadanwendung](reporting-and-message-trace.md#excel-download-application-reports) <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |
-|[Berichterstellung mit Webdiensten](reporting-and-message-trace.md#reporting-using-web-services) <br/> |Nein  <br/> |Ja  <br/> |Ja   <br/> |
+|[Berichterstellung mit Webdiensten](reporting-and-message-trace.md#reporting-using-web-services) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Nachrichtenablaufverfolgung](reporting-and-message-trace.md#message-trace) <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja  <br/> |
-|[Zugriff auf das Microsoft 365 Admin Center](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
-|[Zugriff auf die Exchange-Verwaltungskonsole](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |
-|[Zugriff auf Remote Windows PowerShell](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja   <br/> |
+|[Zugriff auf das Microsoft 365 Admin Center](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Zugriff auf die Exchange-Verwaltungskonsole](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Zugriff auf Remote Windows PowerShell](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> e-Mail-Benutzer werden als "Postfächer" definiert und können zusammen mit externen e-Mail-Kontakten direkt in der Exchange-Verwaltungskonsole hinzugefügt, entfernt und anderweitig verwaltet werden. <br/><sup>2</sup> keine RBAC-Anpassung. Nur Administratorrollen. <br/> <sup>3</sup> verwaltete Domänen können angezeigt und Domänentypen in der Exchange-Verwaltungskonsole bearbeitet werden. Alle anderen Domänen Verwaltungen müssen im Microsoft 365 Admin Center durchgeführt werden. <br/><sup>4</sup> die verfügbaren flexiblen Kriterien und Aktionen unterscheiden sich zwischen EoP und Exchange Online. Eine Liste der in EOP verfügbaren Kriterien und Aktionen finden Sie unter [Transport Rule Criteria](https://go.microsoft.com/fwlink/p/?LinkId=320392) and [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320393). Eine Liste der verfügbaren Kriterien und Aktionen in Exchange Online finden Sie unter [Transport Rule Criteria](https://go.microsoft.com/fwlink/p/?LinkId=320394) und [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320395). <br/><sup>5</sup> EoP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte, die Informationen zu Postfächern ausschließen. <br/> <sup>6</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar.<br/><sup>7</sup> die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in den Junk-e-Mail-Ordner der Empfänger zu verschieben. Damit dies mit lokalen Postfächern funktioniert, müssen Sie auch zwei Exchange-Transport Regeln auf Ihren lokalen Servern konfigurieren, um von EOP hinzugefügte Spam Kopfzeilen zu finden. Weitere Informationen finden Sie unter [sicherstellen, dass Spam an die Junk-e-Mail-Ordner der einzelnen Benutzer weitergeleitet wird](https://go.microsoft.com/fwlink/p/?LinkId=320396). <br/><sup>8</sup> dieses Feature steht für Kunden von exchange Server 2013 Service Pack 1 (SP1) zur Verfügung, deren Postfächer von EoP gefiltert werden, und wird in Kürze für Exchange Online-Kunden verfügbar sein. <br/><sup>9</sup> EoP-Berichte sind eine Teilmenge der Exchange Online-Berichte, die Informationen zu Postfächern ausschließen. <br/><sup>10</sup> enthält DLP-Berichte. <br/><sup>11</sup> Exchange Enterprise CAL with Services-Kunden sollten die Arbeitsmappe durch Auswahl des **Exchange Online-** Diensts anstatt des **Exchange Online Protection-** Diensts installieren. <br/><sup>12</sup> wird für lokale Kunden unterstützt, die Azure Information Protection erwerben und Exchange Online Protection zum Weiterleiten von E-Mails über Exchange Online verwenden. <br/> <sup>13</sup> scannt eingehende und ausgehende Nachrichten, aber keine internen Nachrichten, die von einem Absender in Ihrer Organisation an einen Empfänger in Ihrer Organisation gesendet werden. <br/><sup>14</sup> die verfügbaren Prädikate und Aktionen unterscheiden sich zwischen EoP und Exchange Online. <br/> <sup>15</sup> Hybridsetup steht nicht über den Hybrid-Assistenten zur Verfügung, Sie können die Einrichtung jedoch manuell vornehmen, wenn Sie über Exchange SP1 verfügen. 
+> <sup>1</sup> E-Mail-Benutzer werden als „Postfächer" definiert und können zusammen mit externen E-Mail-Kontakten direkt in der Exchange-Verwaltungskonsole hinzugefügt, entfernt und anderweitig verwaltet werden. 
+ <br/><sup>2</sup> Keine RBAC-Anpassung. Nur Administratorrollen. 
+ <br/> <sup>3</sup> In der Exchange-Verwaltungskonsole können verwaltete Domänen angezeigt und Domänentypen bearbeitet werden. Alle anderen Domänen Verwaltungen müssen im Microsoft 365 Admin Center durchgeführt werden. 
+ <br/><sup>4</sup> In Exchange Online und EOP sind jeweils unterschiedliche flexible Kriterien und Aktionen verfügbar. Eine Auflistung der in EOP verfügbaren Kriterien und Aktionen finden Sie unter [ Transportregelbedingungen ](https://go.microsoft.com/fwlink/p/?LinkId=320392) und [Transportregelaktionen](https://go.microsoft.com/fwlink/p/?LinkId=320393). Eine Auflistung der in Exchange Online verfügbaren Kriterien und Aktionen finden Sie unter [Transportregelkriterien](https://go.microsoft.com/fwlink/p/?LinkId=320394) und [Transportregelaktionen](https://go.microsoft.com/fwlink/p/?LinkId=320395). 
+ <br/><sup>5</sup> EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern. 
+ <br/> <sup>6</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar.  <br/><sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit das in lokalen Postfächern funktioniert, müssen Sie auch zwei Exchange-Transportregeln auf Ihren lokalen Servern konfigurieren, um von EOP hinzugefügte Spamkopfzeilen zu erkennen. Weitere Informationen finden Sie unter [Sicherstellen, dass Spam an die Junk-E-Mail-Ordner der einzelnen Benutzer geleitet wird](https://go.microsoft.com/fwlink/p/?LinkId=320396). 
+ <br/><sup>8</sup> Diese Funktion steht derzeit den Exchange Server 2013 Service Pack 1 (SP1)-Kunden zur Verfügung, deren Posteingänge von EOP gefiltert werden, und wird in Kürze auch für Exchange Online-Kunden zugänglich sein. 
+ <br/><sup>9</sup> Die EOP-Berichte sind eine Teilmenge der Exchange Online-Berichte und enthalten keine Informationen zu Postfächern.
+ <br/><sup>10</sup> Enthält DLP-Berichte. 
+ <br/><sup>11</sup> Kunden von Exchange Enterprise CAL mit Diensten sollten die Arbeitsmappe durch Auswahl des **Exchange Online**-Diensts anstatt des **Exchange Online Protection**-Diensts installieren. 
+ <br/><sup>12</sup> Wird für lokale Kunden unterstützt, die Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. 
+ <br/> <sup>13</sup> Scannt ein- und ausgehende Nachrichten, aber keine internen Nachrichten, die ein Absender in Ihrer Organisation an einen Empfänger in Ihrer Organisation gesendet hat. 
+ <br/><sup>14</sup> Für Exchange Online und EOP sind unterschiedliche Prädikate und Aktionen verfügbar. 
+ <br/> <sup>15</sup> Hybridsetup steht nicht über den Hybrid-Assistenten zur Verfügung, Sie können die Einrichtung jedoch manuell vornehmen, wenn Sie über Exchange SP1 verfügen. 

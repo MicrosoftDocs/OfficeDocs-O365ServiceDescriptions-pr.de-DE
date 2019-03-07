@@ -1,7 +1,7 @@
 ---
 title: Dienstbeschreibung von Microsoft Dynamics 365 (Online)
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 'Seit dem Update vom Dezember 2016 für Dynamics 365 (online und lokal) ist die Dynamics CRM-Funktionalität nun als Teil von Dynamics 365, einer Suite intelligenter Geschäftsanwendungen, enthalten. Dynamics 365 kombiniert Customer-Relationship-Management (CRM) und Enterprise-Resource-Planning (ERP) in neuen Anwendungen, die speziell auf bestimmte Unternehmensfunktionen zugeschnitten sind. '
-ms.openlocfilehash: 8261b126140325fa8190437c5981ad49d17586a7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035824"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467212"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Dienstbeschreibung von Microsoft Dynamics 365 (Online)
 
@@ -78,14 +78,14 @@ Nachfolgend finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte für j
 |**Konten und Kontakte, Aktivitäten und Notizen** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
 |**Wissensverwaltung, interaktiver Dienst-Hub** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
 |**Aufzeichnen von Zeit und Kosten, Verwalten von persönlichen Informationen, Bewerben für Projekte** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
-|**Benutzerdefinierte Entitäten** <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Vollständige<sup>1</sup> <br/> |Vollständige<sup>1</sup> <br/> |
+|**Benutzerdefinierte Entitäten** <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |
 |**Duale Nutzungsrechte für entsprechende Dynamics 365-CAL (falls vorhanden)** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
-|**Ausführen von Workflows und bedarfsgesteuerten Prozessen** <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Vollständige<sup>2</sup> <br/> |Vollständige<sup>2</sup> <br/> |
+|**Ausführen von Workflows und bedarfsgesteuerten Prozessen** <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |
 |**Microsoft Project Online Essentials, Gamification-Fan und Zuschauerrechte** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
-|**Nur Portal: Selbständige Fallübermittlung und Chatinitiierung als Unterstützer (kein Agent)** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Vollständige<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |
-|**Nur Portal, nur Nicht-Mitarbeiter: Aktualisieren von Arbeitsaufträgen, Erstellen und Aktualisieren von Verkaufschancen** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Vollständige<sup>3</sup> <br/> |Vollständige<sup>3</sup> <br/> |Vollständige<sup>3</sup>`  <br/> |
+|**Nur Portal: Selbständige Fallübermittlung und Chatinitiierung als Unterstützer (kein Agent)** <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |
+|**Nur Portal, nur Nicht-Mitarbeiter: Aktualisieren von Arbeitsaufträgen, Erstellen und Aktualisieren von Verkaufschancen** <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup>`  <br/> |
 |**Benutzerberichte, Dashboards und Diagramme** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
-|**Konfigurieren von Systemberichten, Systemdiagrammen, Systemdashboards** <br/> |Keine  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |
+|**Konfigurieren von Systemberichten, Systemdiagrammen, Systemdashboards** <br/> |None  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |
 |**Leads, Geschäftschancen, Ziele, Verträge, Angebote, Aufträge, Rechnungen, Mitbewerber** <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |
 |**Vertriebskampagnen, Schnellkampagnen, Marketinglisten, Preislisten, Produktlisten** <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |
 |**Unified Service Desk** <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |Vollständig  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |
@@ -93,7 +93,7 @@ Nachfolgend finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte für j
 |**Arbeitsaufträge, Zeitplan und Versand mit Zeitplanübersicht, SServicevereinbarungen, Außendienstrechnungen und Bestellungen, Kundenanlagen, Posten, Bestand, Reparaturen und Rücksendungen** <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |
 |**Projektt, Projektausgaben und Schätzungen, Anzeige der Ressourcenverfügbarkeit und Zeitplanverwaltung, Projektpreislisten/Verträge/Rechnungen, Genehmigen von Projekttransaktionen, Microsoft Project Online Premium** <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Schreibgeschützt  <br/> |Vollständig  <br/> |Vollständig  <br/> |
 |**PowerApps** <br/> |Schreibgeschützt<sup>4</sup> <br/> |Schreibgeschützt<sup>4</sup> <br/> |Schreibgeschützt<sup>4</sup> <br/> |Schreibgeschützt<sup>4</sup> <br/> |Schreibgeschützt<sup>4</sup> <br/> |Vollständig  <br/> |
-|**Microsoft Social Engagement, Stimme des Kunden, Mobile Offline, Gamification Player und Admin** <br/> |Keine  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
+|**Microsoft Social Engagement, Stimme des Kunden, Mobile Offline, Gamification Player und Admin** <br/> |None  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
 |**Erstellen von Workflows, Massenimport von Daten und Anpassungen über in einer Anwendung enthaltene Entitäten hinweg** <br/> |Keine  <br/> |Schreibgeschützt<sup>4</sup> <br/> |Schreibgeschützt<sup>4</sup> <br/> |Schreibgeschützt<sup>4</sup> <br/> |Schreibgeschützt<sup>4</sup> <br/> |Vollständig  <br/> |
    
  **Vollständige** = volle Zugriffsrechte 
@@ -102,8 +102,9 @@ Nachfolgend finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte für j
   
  **Keine** = keine Zugriffsrechte 
   
-><sup>1</sup> benutzerdefinierte Entitäten (entweder basierend auf Entitäten CRM eingeschlossen oder von einem Kunden oder Partner erstellte) eine höhere CAL oder USL, je nach den erforderlichen Zugriff erfordern. Anpassungen können nur mit Entitäten in die Nutzungsrechte enthalten ausgeführt werden.<br/><sup>2</sup> erstellen, aktualisieren und Löschen mithilfe von Workflows können nur mit Entitäten in die Nutzungsrechte enthalten ausgeführt werden (d. h. Update Gelegenheit erfordert Sales oder Plan 1). 
-<br/><sup>3</sup> keinen Zugriff auf Dynamics 365-Benutzeroberfläche. Groß-/Kleinschreibung Management und Chat können nur für den Benutzer ausführen, als ein Supportee, nicht im Auftrag eines Kunden oder eine andere Person gesendet werden.<br/><sup>4</sup> Erstellung der PowerApps können nur einzelne Anwendung enthaltene Daten nutzen. 
+><sup>1</sup> benutzerdefinierte Entitäten (basierend auf Entitäten, die in CRM enthalten sind oder von einem Kunden oder Partner erstellt wurden) können je nach erforderlichem Zugriff eine höhere CAL oder USL erfordern. Anpassungen können nur für Entitäten ausgeführt werden, die in den Nutzungsrechten enthalten sind. 
+<br/><sup>2</sup> das Erstellen, aktualisieren und Löschen über Workflows kann nur für Entitäten ausgeführt werden, die in den Nutzungsrechten enthalten sind (d. h. Aktualisieren einer Verkaufschance erfordert Umsatz oder Plan 1). 
+<br/><sup>3</sup> kein Zugriff auf die Dynamics 365-Benutzeroberfläche. Fallverwaltung und Chat können nur im eigenen Namen des Benutzers, als Unterstützer, nicht im Namen eines Kunden oder einer anderen Person übermittelt werden. <br/><sup>4</sup> die Erstellung von PowerApps kann nur Daten nutzen, die in der einzelnen Anwendung enthalten sind. 
   
 ## <a name="dynamics-365-service-level-agreement"></a>Vereinbarung zum Servicelevel für Dynamics 365
 

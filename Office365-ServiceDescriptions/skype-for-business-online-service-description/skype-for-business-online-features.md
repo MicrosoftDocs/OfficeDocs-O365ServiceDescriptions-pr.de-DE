@@ -1,7 +1,7 @@
 ---
 title: Skype for Business Online-Features
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: supotter
 ms.date: 10/9/2017
 ms.audience: ITPro
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online-Funktionen unter Einrichten von Skype for Business Online.
-ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210258"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467432"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
@@ -70,7 +70,7 @@ Für die externe Skype for Business-Konnektivität müssen beide Seiten des Verb
 
 Mit nur wenigen Klicks können Benutzer im Skype for Business-Client oder in Office Ad-hoc-Besprechungen in Skype for Business starten bzw. an solchen teilnehmen. Skype for Business ermöglicht Benutzern die Eskalierung einfacher Chat- oder E-Mail-Unterhaltungen zu PC-basierten Audio-und Videobesprechungen zwischen mehreren Teilnehmern (drei oder mehr Benutzer) mit freigegebenen Desktops, Anwendungen und Dokumenten.
   
-Skype for Business-Audiofunktionen für mehrere Teilnehmer stellen den Benutzern einen anpassbaren Audiocodec für optimale Leistung unter unterschiedlichen Bandbreitenbedingungen, visuelle Steuerelemente für Anrufe und Listen, einen Indikator für die Netzwerkqualität und leistungsfähige Features für die Benutzerverwaltung (z. B. Hinzufügen von Teilnehmernamen zu einer Besprechung durch Drag &amp; Drop) zur Verfügung.
+Skype for Business multiparty audio provides users with an adaptive audio codec for optimal performance under varying bandwidth conditions, visual call and roster controls, network quality indicator, and powerful user management features (for example, drag and drop a participant name to add them to a meeting).
   
 Neben den Audiofunktionen bietet Skype for Business den Benutzern auch Verbindungen über Videositzungen in hoher Qualität. Sowohl persönliche Sitzungen als auch Sitzungen mit mehreren Teilnehmern (drei oder mehr Benutzer) werden unterstützt. Ein Video des aktiven Sprechers ist nur in Sitzungen mit mehreren Teilnehmern verfügbar. Mit Skype for Business können die Benutzer mühelos eine Onlinebesprechung mit Video planen oder eine Chatsitzung nahtlos in einen Videoanruf verwandeln.
   
@@ -129,7 +129,7 @@ In Office 365 können Sie Einwahlkonferenzen unter Verwendung von Office 365 als
   
 Audiokonferenzen sind nicht in allen Ländern und Regionen verfügbar. Eine Liste der Länder und Regionen, in denen Sie Audiokonferenzen erwerben können, finden Sie unter [Länder und Regionen, in denen Audiokonferenzen unterstützt werden](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
-## <a name="calling-plans-in-office-365"></a>Aufrufpläne in Office 365
+## <a name="calling-plans-in-office-365"></a>Anrufpläne in Office 365
 <a name="BKMK_CallingPlans"> </a>
 
 Skype for Business umfasst Anruffunktionen im Telefonfestnetz (Public Switched Telephone Network, PSTN). Anrufpläne sind ein Add-On für das [Telefonsystem in Office 365](https://technet.microsoft.com/en-us/library/mt631190.aspx), mit dem Sie Telefonnummern durchsuchen, abrufen und Benutzern in Ihrer Organisation zuweisen können, damit sie Anrufe innerhalb und außerhalb der Organisation tätigen und diese von Benutzern innerhalb und außerhalb der Organisation entgegennehmen können, direkt über Office 365. Benutzer, denen Telefonnummern zugewiesen sind, können alle Skype for Business-Geräte anrufen, einschließlich VoIP-Telefone, PCs und Mobilgeräte. Sie können ihre Anrufe auch mithilfe der Features zum Stummschalten/Aufheben der Stummschaltung, Anhalten/Fortsetzen, für die Anrufdurchstellung und Anrufweiterleitung steuern, und bei Bedarf einen Notruf tätigen. 

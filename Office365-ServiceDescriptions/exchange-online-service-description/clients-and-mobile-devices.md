@@ -1,7 +1,7 @@
 ---
 title: Clients und mobile Geräte
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,16 +12,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: ad19845f7a06cfb01a74507fdb794813091c1c2b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035867"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467612"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
-## <a name="microsoft-outlook"></a>Microsoft Outlook
+## <a name="microsoft-outlook"></a>Microsoft Outlook
 
 Microsoft Outlook ist ein E-Mail-Programm, das Unterstützung für Kalender, Kontakte, Aufgaben und die folgenden Hauptfunktionen bietet:
   
@@ -77,7 +77,7 @@ Möglichkeiten von Outlook:
     
 - Verbinden Sie sich mit den Apps und Diensten, die Sie benötigen, um produktiv zu sein, während Sie Ihre Arbeit und persönliche Informationen separat und sicher aufbewahren.
     
-Mit Outlook für iOS, Outlook für Android oder Outlook für Windows Phone können Benutzer: 
+Mit Outlook für iOS, Outlook für Android oder Outlook für Windows Phone können Benutzer:  
   
 - Profitieren Sie von einem Posteingang mit Fokus, der wichtige E-Mails priorisiert.
     

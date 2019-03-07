@@ -1,7 +1,7 @@
 ---
 title: Unterstützung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Mit jeder Microsoft Office 365 Enterprise, Business, Schulung und Government-Abonnement enthält Microsoft-Supportmitarbeiter globale technische, Presales, Abrechnung und Abonnement-Unterstützung. Unterstützung ist verfügbar, beide online über das Office 365-Portal und per Telefon für kostenpflichtige und Testversionen Abonnements. Weitere Informationen finden Sie unter Office 365-Support-Optionen.
-ms.openlocfilehash: bb93982e24065abbf558145afcff07f10181ceb7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support ist sowohl online über das Office 365-Portal als auch per Telefon sowohl für kostenpflichtige als auch für Testabonnements verfügbar. Weitere Informationen finden Sie unter Office 365 Support Options.
+ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035864"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467532"
 ---
 # <a name="support"></a>Unterstützung
 
 > [!NOTE]
-> Alle folgenden Support-Optionen sind für weltweit Versionen von Office 365. Alle Support für Office 365 von 21Vianet in China betrieben wird finden Sie unter [Kontakt Office 365 für Unternehmen für Office 365 handelt, das von 21Vianet unterstützt](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Office 365 Deutschland finden Sie unter [Kontakt Office 365 für Unternehmen für Office 365 Deutschland zu unterstützen](https://go.microsoft.com/fwlink/?linkid=846979). 
+> Alle auf dieser Seite beschriebenen Supportoptionen gelten für die weltweit verfügbaren Versionen von Office 365. Alle Unterstützung für Office 365, betrieben von 21Vianet in China, finden Sie unter [Contact office 365 for Business Support for office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Informationen zu Office 365 Deutschland finden Sie unter [Contact office 365 for Business Support for office 365 Germany](https://go.microsoft.com/fwlink/?linkid=846979). 
   
-Mit jeder Microsoft Office 365 Enterprise, Business, Schulung und Government-Abonnement enthält Microsoft-Supportmitarbeiter globale technische, Presales, Abrechnung und Abonnement-Unterstützung. Unterstützung ist verfügbar, beide online über das Office 365-Portal und per Telefon für kostenpflichtige und Testversionen Abonnements. Weitere Informationen finden Sie unter [Office 365-Support-Optionen](https://go.microsoft.com/fwlink/p/?LinkID=279810).
+Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support ist sowohl online über das Office 365-Portal als auch per Telefon sowohl für kostenpflichtige als auch für Testabonnements verfügbar. Weitere Informationen finden Sie unter [Office 365 Support Options](https://go.microsoft.com/fwlink/p/?LinkID=279810).
   
 Autorisierte Administratoren können das Office 365-Portal verwenden, um Serviceanfragen online zu übermitteln, Telefonnummern des Supports einzusehen sowie alle offenen und kürzlich geschlossenen Serviceanfragen anzuzeigen. Über das Office 365-Portal übermittelte Serviceanfragen können während einer Frist von bis zu 14 Tagen nach Abschluss erneut geöffnet werden. Weitere Informationen finden Sie unter [Kontaktieren des Office 365 Business-Supports - Administratorhilfe](https://go.microsoft.com/fwlink/p/?LinkID=279815).
   
@@ -90,7 +90,7 @@ In welchem Zeitraum eine erste Antwort seitens des Supports eingeht, basiert auf
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Schweregrad** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 Education<sup>1</sup>** <br/> |**Office 365 Enterprise E1-<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Government G2<sup>2</sup>** <br/> **Office 365 US-Regierung E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US-Regierung K1<sup>2</sup>** <br/> |**Erweiterte Supportoptionen<sup>3</sup>** <br/> |
+|**Schweregrad** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 Education<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Government G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Erweiterte Supportoptionen<sup>3</sup>** <br/> |
 | Schweregrad A (Kritisch)  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |
 |Schweregrad B (Hoch)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 2 Stunden  <br/> |
 |Schweregrad C (Mittel)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 4 Stunden  <br/> |
@@ -103,12 +103,12 @@ In welchem Zeitraum eine erste Antwort seitens des Supports eingeht, basiert auf
 
 Für Support für eigenständige Pläne gegen Gebühr gelten dieselben Supportebenen und Antwortzeiten wie für Office 365-Pläne der Enterprise-Dienstfamilie. Eine Liste der eigenständigen Pläne finden Sie unter [Eigenständige Dienste](office-365-plan-options.md#standalone-services).
   
-### <a name="technical-support-languages"></a>Technischer Support - Sprachen
+### <a name="technical-support-languages"></a>Technischer Support – Sprachen
 <a name="InitialResponse"> </a>
 
 Je nach Standort und Sprache stehen Supporttechniker während der meisten üblichen Geschäftszeiten und in manchen Fällen auch rund um die Uhr zur Verfügung. Weitere Informationen finden Sie im Artikel mit den [internationalen Telefonnummern](https://go.microsoft.com/fwlink/p/?LinkID=270873) sowie unter [Office 365 Support Options](https://go.microsoft.com/fwlink/p/?LinkID=279810). Sofern Verständigungsprobleme bestehen, kann der Supporttechniker in der Leitung bleiben und einen Dolmetscher hinzuziehen. 
   
-## <a name="shared-support-responsibilities"></a>Support - eine gemeinsame Aufgabe
+## <a name="shared-support-responsibilities"></a>Support – eine gemeinsame Aufgabe
 <a name="TechnicalSupport"> </a>
 
 Microsoft ist sich darüber im Klaren, dass ein zeitnaher technischer Support durch qualifizierte Techniker ein wichtiger Aspekt von Clouddiensten ist. Ebenso wichtig ist bei der Erbringung von Supportleistungen für seine Benutzer auch die Rolle der IT-Abteilung des Kunden.

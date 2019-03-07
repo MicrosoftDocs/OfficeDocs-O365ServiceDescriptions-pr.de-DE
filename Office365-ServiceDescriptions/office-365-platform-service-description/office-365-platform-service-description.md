@@ -1,7 +1,7 @@
 ---
 title: Office 365-Plattformdienstbeschreibung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 2/21/2019
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
-description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich Exchange Online-Plänen, suchen, erfahren Sie in diesem Artikel, welche Features in den einzelnen Angeboten enthalten sind.
-ms.openlocfilehash: 5346aa8a30ed89b31ed7b072914f146707068561
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
+ms.openlocfilehash: eb542d224f330581490265713675929df65693c8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210358"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467722"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365-Plattformdienstbeschreibung
 
-Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich Exchange Online-Plänen, suchen, erfahren Sie in diesem Artikel, welche Features in den einzelnen Angeboten enthalten sind.
+Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
   
 Microsoft Office 365 bietet Unternehmen jeglicher Größenordnung höchste Produktivität in der Cloud und hilft ihnen so, Zeit und Geld zu sparen und wertvolle Ressourcen freizusetzen. In Office 365 sind die vertraute Microsoft Office-Desktopsuite und die cloudbasierten Versionen der Dienste für Kommunikation und Zusammenarbeit der nächsten Generation von Microsoft, u. a. Microsoft Exchange Online, Microsoft SharePoint Online, Office Online und Microsoft Skype for Business Online, miteinander verbunden, damit Benutzer über das Internet nahezu standortunabhängig arbeiten können.
   
@@ -44,7 +44,7 @@ Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Org
   
 Informationen zur Volumenlizenzierung für Office 365 finden Sie unter [Lizenzierungsbedingungen und Dokumentation](https://go.microsoft.com/fwlink/?linkid=848696)
   
-## <a name="office-365-nonprofit-plans-and-pricing"></a>Office 365 Non-Profit - Pläne und Preise
+## <a name="office-365-nonprofit-plans-and-pricing"></a>Office 365 Non-Profit – Pläne und Preise
 
 Für Organisationen, die für Pläne für Office 365 Non-Profit qualifiziert sind: Diese Pläne umfassen exakt dieselben Features wie die entsprechenden Pläne für Unternehmen. (Beispiel: Office 365 Non-Profit Enterprise E5 enthält dieselben Features wie Office 365 Enterprise E5). Der einzige Unterschied zwischen den Planvarianten ist der Preis. Weitere Informationen zu Plänen für Office 365 Non-Profit finden Sie im Artikel zu [Plänen und Preisen für Office 365 Non-Profit](http://go.microsoft.com/fwlink/?LinkID=627221) sowie in diesen [häufig gestellten Fragen](http://go.microsoft.com/fwlink/?LinkID=786641).
   
@@ -92,39 +92,39 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |**[Office 365-Verwaltungsfeatures](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|Verwalten von Office 365 mithilfe des Microsoft 365 Admin Center oder Windows PowerShell  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Schutz von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja   <br/> |Nr.<sup>2</sup> <br/> |
+|Verwalten von Office 365 mithilfe des Microsoft 365 Admin Center oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Schutz von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |
 |**[Office 365-Suitefeatures](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein   <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft Flow  <br/> |Ja  <br/> |Nr.  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |Ja<sup>14</sup> <br/> |
-|Microsoft Forms  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Microsoft Graph-API  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Microsoft MyAnalytics  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nr.  <br/> |
-|Microsoft Planner  <br/> |Ja  <br/> |Nr.  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |Nein  <br/> |
-|Microsoft PowerApps  <br/> |Ja  <br/> |Nr.  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |Ja<sup>13</sup> <br/> |
-|Microsoft StaffHub  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Microsoft Stream  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |Ja<sup>18</sup> <br/> |
-|Microsoft Sway  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |
-|Microsoft Teams<sup>10</sup> <br/> |Ja  <br/> |Nr.  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja<sup>12</sup> <br/> |
-|Office Delve  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |Nr.  <br/> |
-|Office 365-Gruppen  <br/> |Ja  <br/> |Nr.  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Office 365-Video  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja<sup>11</sup> <br/> |
+|Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Microsoft Flow  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup> <br/> |
+|Microsoft Forms  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft Graph-API  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft MyAnalytics  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Microsoft Planner  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Microsoft PowerApps  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup> <br/> |
+|Microsoft StaffHub  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft Stream  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>18</sup> <br/> |
+|Microsoft Sway  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |
+|Microsoft Teams<sup>10</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |
+|Office Delve  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Office 365-Gruppen  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office 365-Video  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |
 |OneNote-Kursnotizbuch  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Nein  <br/> |
 |**[Benutzerkontenverwaltung](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Cloudidentität, Verbundidentität oder mehrstufige Authentifizierung  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Office 365-Desktopsetup  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Massenupload mit CSV-Dateien  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Directory-Synchronisierungstool  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Einfache Exchange-Migration (Übernahmemigration)  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Löschen von Konten und Zurücksetzen von Benutzerkennwörtern von Office 365 oder mithilfe von Windows PowerShell<sup>3</sup> <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Benutzer können ihr eigenes Kennwort ändern<sup>4</sup> <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|Cloudidentität, Verbundidentität oder mehrstufige Authentifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office 365-Desktopsetup  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Massenupload mit CSV-Dateien  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Directory-Synchronisierungstool  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Einfache Exchange-Migration (Übernahmemigration)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Löschen von Konten und Zurücksetzen von Benutzerkennwörtern von Office 365 oder mithilfe von Windows PowerShell<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Benutzer können ihr eigenes Kennwort ändern<sup>4</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verwalten von Lizenzen  <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |
-|Verwalten von Sicherheitsgruppen mit Office 365  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Mehrere Administratorrollen  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Zulassen, dass ein Partner Office 365 für Sie verwaltet  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Azure Active Directory-Dienste  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
+|Verwalten von Sicherheitsgruppen mit Office 365  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Mehrere Administratorrollen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Zulassen, dass ein Partner Office 365 für Sie verwaltet  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Azure Active Directory-Dienste  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Domänen](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Hinzufügen von benutzerdefinierten Domänen der zweiten Ebene, wie „fourthcoffee.com"  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Hinzufügen von benutzerdefinierten Domänen der dritten Ebene, wie „marketing.fourthcoffee.com"  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -151,19 +151,19 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Gesendete und empfangene E-Mail  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Häufigste Absender und Empfänger  <br/> |Ja  <br/> |--  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Spamerkennungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Schadsoftwareerkennungen  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Häufigste Schadsoftware per E-Mail  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Regelübereinstimmungen bei E-Mails  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Häufigste Regelübereinstimmungen bei E-Mails  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Häufigste Übereinstimmungen mit DLP-Richtlinien bei E-Mails  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.  <br/> |
-|Übereinstimmungen mit DLP-Richtlinien bei E-Mails nach Schweregrad  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.  <br/> |
-|DLP-Richtlinienübereinstimmungen, Außerkraftsetzungen und falsch positive Ergebnisse bei E-Mails  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.  <br/> |
+|Schadsoftwareerkennungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Häufigste Schadsoftware per E-Mail  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Regelübereinstimmungen bei E-Mails  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Häufigste Regelübereinstimmungen bei E-Mails  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Häufigste Übereinstimmungen mit DLP-Richtlinien bei E-Mails  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Übereinstimmungen mit DLP-Richtlinien bei E-Mails nach Schweregrad  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|DLP-Richtlinienübereinstimmungen, Außerkraftsetzungen und falsch positive Ergebnisse bei E-Mails  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Häufigste DLP-Regelübereinstimmungen bei E-Mails  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Sofortnachrichten und Audiositzungen  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Anwendungsfreigabe, Web und Einwahlkonferenzen  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
-|Video, Anwendungsfreigabe und Dateiübertragungssitzungen  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Sofortnachrichten und Audio-/Videokonferenzen  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
-|Herunterladbare Berichte zum E-Mail-Schutz  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Sofortnachrichten und Audiositzungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Anwendungsfreigabe, Web und Einwahlkonferenzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Video, Anwendungsfreigabe und Dateiübertragungssitzungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Sofortnachrichten und Audio-/Videokonferenzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Herunterladbare Berichte zum E-Mail-Schutz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verwendeter Browser  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verwendetes Betriebssystem  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Erstellen eigener Berichte mit Office 365-Webdiensten für Berichte  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -176,20 +176,20 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Onlinehilfe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Community  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Weitere Selbsthilferessourcen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Selbststudium  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|Selbststudium  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Netzwerk](networking.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|IPv4- und IPv6-Protokolle  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
+|IPv4- und IPv6-Protokolle  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**Vertrauenswürdigkeit** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|**[Datenschutz, Sicherheit und Transparenz](privacy-security-and-transparency.md)** <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |
+|**[Datenschutz, Sicherheit und Transparenz](privacy-security-and-transparency.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365 Cloud App Security  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|Advanced Threat Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nr.  <br/> |
-|Kunden-Lockbox  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nr.  <br/> |
-|Kundenschlüssel für Office 365<sup>16</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nr.  <br/> |
-|Office 365 Advanced eDiscovery<sup>17</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nr.  <br/> |
-|Secure Score<sup>7</sup> <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |
+|Advanced Threat Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Kunden-Lockbox  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Kundenschlüssel für Office 365<sup>16</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Office 365 Advanced eDiscovery<sup>17</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Secure Score<sup>7</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|**[Compliance[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
-|SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja   <br/> |Ja  <br/> |Ja  <br/> |
+|**[Compliance [Dienstbeschr]](compliance-servicedesc.md)** <br/> ||||||||
+|SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU Safe Harbor  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -207,12 +207,19 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |**[Produktnutzungsrechte](product-use-rights.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
    
 
-> <sup>1</sup>   Office 365 bietet keine Unterstützung für Betriebssysteme, die nicht von deren Hersteller unterstützt werden. 
-<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 proPlus, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist.<br/><sup>3</sup> Wenn Sie die Verzeichnissynchronisierung verwenden, müssen Sie mit Active Directory Konten löschen oder Kennwörter ändern, statt das Office 365-Portal oder das Azure Active Directory-Modul für Windows PowerShell dazu zu nutzen. 
-<br/><sup>4</sup> Weitere Informationen zum Festlegen von Self-Service-Kennwortverwaltungsrichtlinien für Benutzer finden Sie unter [Verwalten von Kennwörtern in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
-<br/><sup>6</sup>   Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird.<br/><sup>7</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in die Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=836894).<br/><sup>8</sup> Microsoft Sway ist derzeit für Kunden in bestimmten Regionen nicht verfügbar. Einige ältere Office 365-Pläne, die ab August 2015 nicht mehr auf dem Markt sind, haben möglicherweise auch keinen Zugriff auf Microsoft Sway.<br/><sup>9</sup> verringerte Erfahrung. Wenn Ihre Organisation von Internet Explorer 8 oder Internet Explorer 9 abhängig ist, um auf ältere Web-Apps und-Dienste zuzugreifen, können Sie ein Upgrade auf Internet Explorer 11 und den Enterprise-Modus für Internet Explorer 11 erwägen. Dieses Update ermöglicht eine bessere Abwärtskompatibilität für Legacy-Web-Apps.<br/><sup>10</sup> Microsoft Teams steht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise (E1, E3, E5, F1) und den Office 365 Education-Plänen zur Verfügung. 
+> <sup>1</sup> Office 365 bietet keine Unterstützung für Betriebssysteme, die nicht von deren Hersteller unterstützt werden. 
+<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. 
+<br/><sup>3</sup> Wenn Sie die Verzeichnissynchronisierung verwenden, müssen Sie mit Active Directory Konten löschen oder Kennwörter ändern, statt das Office 365-Portal oder das Azure Active Directory-Modul für Windows PowerShell dazu zu nutzen. 
+<br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>6</sup> Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird. 
+<br/><sup>7</sup> Verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=836894). 
+<br/><sup>8</sup> Microsoft Sway ist derzeit für Kunden in bestimmten Regionen nicht verfügbar. Einige ältere Office 365-Pläne, die ab August 2015 nicht mehr erhältlich sind, haben möglicherweise auch keinen Zugriff auf Microsoft Sway. 
+<br/><sup>9</sup> Eingeschränkte Browsererfahrung. Wenn Ihre Organisation Internet Explorer 8 oder Internet Explorer 9 für den Zugriff auf ältere Web-Apps und -Dienste verwendet, sollten Sie ein Upgrade auf Internet Explorer 11 erwägen und den Artikel „Enterprise-Modus für Internet Explorer 11" lesen. Dieses Update ermöglicht eine bessere Abwärtskompatibilität für ältere Web-Apps. 
+<br/><sup>10</sup> Microsoft Teams steht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise (E1, E3, E5, F1) und den Office 365 Education-Plänen zur Verfügung. 
 <br/><sup>11</sup> In Office 365 Enterprise F1 ist Office 365 Video auf die Anzeige beschränkt (keine Veröffentlichung oder Freigabe). 
-<br/><sup>12</sup> inoffice 365 Enterprise F1, eins-zu-eins-Audio/visuell-Aufrufe werden unterstützt. Besprechungs Rechte sind nur auf Join beschränkt (keine Erstellung oder Initiierung).<br/><sup>13</sup> In Office 365 Enterprise F1 ist PowerApps auf „Verwendung" beschränkt (keine Veröffentlichung oder Freigabe). 
+<br/><sup>12</sup> InOffice 365 Enterprise F1 werden 1: 1-Audio-/Videoanrufe unterstützt. Besprechungsrechte sind auf „Beitreten" beschränkt (kein Erstellen oder Initiieren). 
+<br/><sup>13</sup> In Office 365 Enterprise F1 ist PowerApps auf „Verwendung" beschränkt (keine Veröffentlichung oder Freigabe). 
 <br/><sup>14</sup> In Office 365 Enterprise F1 ist Flow auf „Verwendung" beschränkt, und es sind maximal 750 Ausführungen pro Benutzer und Monat zulässig. 
-<br/><sup>15</sup> nur verfügbar in Office 365 Education-Plänen, einschließlich Office 365 E5 Education. Sie ist in Office 365 Enterprise E5 nicht verfügbar.<br/><sup>16</sup> Weitere Informationen finden Sie unter [Steuern Ihrer Daten in Office 365 mithilfe des Kundenschlüssels](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und Asien-Pazifik werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa exportiert [Niederlande].) GT<br/><sup>18</sup> Verbrauch nur für Microsoft Stream: keine Veröffentlichungen oder Freigaben. 
+<br/><sup>15</sup> Steht nur in Office 365 Education-Plänen einschließlich Office 365 E5 Education zur Verfügung. In Office 365 Enterprise E5 ist die Anwendung nicht verfügbar. 
+<br/><sup>16</sup> Weitere Informationen finden Sie unter [Steuern Ihrer Daten in Office 365 mithilfe des Kundenschlüssels](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>17</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa exportiert [Niederlande].) GT <br/><sup>18</sup> Verbrauch nur für Microsoft Stream: keine Veröffentlichung oder Freigabe. 

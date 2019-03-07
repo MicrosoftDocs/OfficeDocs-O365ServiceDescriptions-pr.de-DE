@@ -1,7 +1,7 @@
 ---
 title: Hauptfunktionalitäten des Diensts
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 12/21/2016
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Die folgenden Core Services-Funktionen sind in Project Online verfügbar.
-ms.openlocfilehash: b244c29c0858b1334dee7cc6841c12a2e4b1a45c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Die folgenden Funktionen der Kerndienste sind in Project online verfügbar.
+ms.openlocfilehash: 0350da9aefb51341ea3c1e871840a72bbe96ab05
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035745"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468052"
 ---
 # <a name="core-services-functionality"></a>Hauptfunktionalitäten des Diensts
 
-Die folgenden Core Services-Funktionen sind in Project Online verfügbar.
+Die folgenden Funktionen der Kerndienste sind in Project online verfügbar.
   
 Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
   
@@ -59,7 +59,7 @@ Die PPM-Lösungen von Microsoft werden von Hunderten Microsoft-Partnern unterst�
 
 Wir stehen zu unserem Versprechen einer Betriebszeit von 99,9 % mit einer branchenführenden finanziellen Garantie für Office 365-Kunden. Siehe [Service continuity](https://go.microsoft.com/fwlink/?LinkId=402653) (Dienstkontinuität).
   
-## <a name="service-updates"></a>Dienstupdates
+## <a name="service-updates"></a>Service updates
 <a name="bkmk_Serviceupdates"> </a>
 
 Wir aktualisieren Office 365-Dienste regelmäßig mit neuen Features und Funktionen. Siehe [Dienstupdates](../office-365-platform-service-description/service-updates.md).

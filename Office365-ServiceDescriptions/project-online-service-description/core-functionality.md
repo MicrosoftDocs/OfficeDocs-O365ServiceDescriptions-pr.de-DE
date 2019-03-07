@@ -1,7 +1,7 @@
 ---
 title: Hauptfunktionalität
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Die folgenden Funktionen Kernfunktionen sind in Project Online verfügbar.
-ms.openlocfilehash: 12d754a9119afe3e8827cb33b1bcbba3ee8f4ebe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Die folgenden Hauptfunktionen sind in Project online verfügbar.
+ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035756"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467469"
 ---
 # <a name="core-functionality"></a>Hauptfunktionalität
 
-Die folgenden Funktionen Kernfunktionen sind in Project Online verfügbar.
+Die folgenden Hauptfunktionen sind in Project online verfügbar.
   
 Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
   
@@ -41,35 +41,35 @@ Klicken Sie auf **Datei**, um Features in Backstage zu verwenden, wo Sie Ihre Pr
 
 Installieren Sie Project Online im Handumdrehen über das Internet, interne Netzwerke, lokale Dateisysteme oder mithilfe von Offlinemedien, und stellen Sie so sicher, dass Sie über die neueste Version der Project-Desktopanwendung verfügen. Weitere Informationen finden Sie unter [Klick-und-Los](https://go.microsoft.com/fwlink/p/?LinkId=271596).
   
-## <a name="contextual-right-click-menus"></a>Kontextmenüs
+## <a name="contextual-right-click-menus"></a>Contextual right-click menus
 <a name="bkmk_contextual_rightclick_menus_PP"> </a>
 
 Klicken Sie mit der rechten Maustaste auf ein beliebiges Element in einer Projektansicht (beispielsweise auf einen Spaltentitel), und sofort erhalten Sie Zugriff auf alle Funktionen, die Sie mit diesem Element durchführen können.
   
-## <a name="custom-fields"></a>Benutzerdefinierte Felder
+## <a name="custom-fields"></a>Custom fields (benutzerdefinierte Felder)
 <a name="bkmk_Customfields"> </a>
 
 Zusätzlich zu den in Project inbegriffenen Feldern können Sie auch benutzerdefinierte Felder verwenden, um die Anforderungen Ihrer Organisation zu erfüllen. Weitere Informationen über Felder finden Sie unter [Referenz: Verfügbare Felder](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   
-## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Verbesserte Funktionen für Kopieren und Einfügen in Microsoft Office-Anwendungen
+## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 <a name="bkmk_Enhancedcopypaste"> </a>
 
 Erarbeiten Sie gemeinsam mit anderen Benutzern Zeitpläne, indem Sie Zeitplandetails aus Office-Anwendungen wie Word kopieren und einfügen. Weitere Informationen finden Sie unter [Kopieren und Einfügen aus Word in Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
   
-## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Ansichten von Gantt-Diagrammen, Kalendern und Vorgangsblättern
+## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 <a name="bkmk_Ganttchartcalendartasksheetview"> </a>
 
 Stellen Sie Projektinformationen mithilfe von Gantt-Diagrammen, Netzplandiagrammen, Graphen, Tabellen sowie Nutzungs- und Formularansichten grafisch dar. Weitere Informationen finden Sie unter [Auswählen der richtigen Ansicht für den Projektplan](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent-Benutzeroberfläche, Menüband
+## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
 <a name="bkmk_MSFTFluent_UI_PP"> </a>
 
 Steigern Sie die Produktivität mit dem Menüband, einer Oberfläche mit Registerkarten, über die Sie Project-Funktionen und -Steuerelemente schnell finden und verwenden können. [Hier erfahren Sie mehr über das Menüband](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
-## <a name="multiple-level-undo"></a>Funktion für das Rückgängigmachen über mehrere Ebenen
+## <a name="multiple-level-undo"></a>Multiple-level undo
 <a name="bkmk_Multiplelevelundo"> </a>
 
-Sie können mehrere Änderungen gleichzeitig rückgängig machen, mit dem Menü zum Rückgängigmachen. 
+Sie können mehrere Änderungen gleichzeitig rückgängig machen, indem Sie das Menü rückgängig verwenden. 
   
 ## <a name="network-diagram-view"></a>Ansicht "Netzplandiagramm"
 <a name="bkmk_Networkdiagramview"> </a>
@@ -86,37 +86,37 @@ Benötigen Sie eine Anwendung, die Ihnen bei Project hilft? Neue Anwendungen fü
 
 Die Project-Hilfe können Sie mit einem Klick aufrufen, über Office.com oder direkt über die in Project integrierten Erste-Schritte-Handbücher. (Klicken Sie auf **Datei** \> **Neu**.) [Sehen Sie sich diese Videos an, um auf Project 2013 umzusteigen](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
-## <a name="pdf-and-xps-output"></a>Ausgabe von PDF und XPS
+## <a name="pdf-and-xps-output"></a>PDF and XPS output
 <a name="bkmk_PDFXPSoutput"> </a>
 
 Speichern Sie eine Project-Datei als PDF- oder XPS-Datei. Weitere Informationen finden Sie unter [Speichern einer Projektdatei als PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
-## <a name="placeholder-text-in-project-fields"></a>Platzhaltertext in Project-Feldern
+## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 <a name="bkmk_PlaceholdertextinProjectFields"> </a>
 
 Wenn noch nicht alle Details eines Projekts feststehen, können Sie Platzhaltertext wie "TBD" für Ressourcen, Startdaten, Enddaten usw. verwenden. Weitere Informationen finden Sie unter [Projektplanung mit der Top-down-Methode](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
-## <a name="project-templates"></a>Projektvorlagen
+## <a name="project-templates"></a>Project templates
 <a name="bkmk_ProjectTemplates"> </a>
 
 Sie können bei der Projekterstellung viel Zeit sparen, wenn Sie ein altes Projekt als Vorlage verwenden. Weitere Informationen finden Sie unter [Erstellen eines neuen Projekts aus einem anderen Projekt oder einer Vorlage](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
-## <a name="start-experience"></a>Projektstart
+## <a name="start-experience"></a>Start experience
 <a name="bkmk_Startexperience"> </a>
 
 Statt Ihnen ein leeres Projekt zu präsentieren, bietet Project 2013 eine Oberfläche mit allen Funktionen für den Start des Projekts. Sie können Kundenvorlagen oder eine integrierte Anleitung verwenden, um in vier einfachen Schritten mit der Arbeit zu beginnen.
   
-## <a name="text-wrap"></a>Textumbruch
+## <a name="text-wrap"></a>Text wrap
 <a name="bkmk_Textwrap"> </a>
 
 Fügen Sie Textumbrüche in die Namen von Aufgaben oder Ressourcen ein, damit diese in einer zweiten Zeile fortgesetzt werden. Weitere Informationen finden Sie im Artikel zum Thema [Umbrechen von Text durch Ändern der Zeilenhöhe](https://go.microsoft.com/fwlink/p/?LinkId=271344).
   
-## <a name="timeline-view"></a>Zeitachsenansicht
+## <a name="timeline-view"></a>Timeline view
 <a name="bkmk_TimelineView"> </a>
 
 Erstellen Sie eine Zeitachsenansicht, und passen Sie sie an, um Zeitplandetails zu visualisieren und mit Projektbeteiligten zu kommunizieren. Weitere Informationen finden Sie unter [Video: Erstellen einer Projektzeitachse](https://go.microsoft.com/fwlink/?LinkId=402912).
   
-## <a name="zoom-controls"></a>Zoomsteuerelemente
+## <a name="zoom-controls"></a>Zoom controls
 <a name="bkmk_Zoomcontrols"> </a>
 
 Verwenden Sie die Zoomsteuerelemente auf der Statusleiste, um schnell die Perspektive der Zeitachse von Projektzeitplänen zu ändern. 

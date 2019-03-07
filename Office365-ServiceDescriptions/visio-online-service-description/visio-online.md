@@ -1,7 +1,7 @@
 ---
 title: Visio Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/28/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Mit Visio Online können Sie Ihre Arbeit in Microsoft Visio auf den Webbrowser ausweiten, wo Sie mit Diagrammen direkt auf der Website arbeiten können, auf der sie gespeichert sind. Microsoft Office 365-Kunden mit Office Online können unterwegs Diagramme anzeigen und freigeben sowie Kommentare einfügen.
-ms.openlocfilehash: 2b6c62b68b984479d2995ef91db17627653828fe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035732"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467562"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -70,7 +70,7 @@ In Visio Online können Sie nach jedem Vorkommen eines Worts, einer Zahl oder ei
 
 Sie können die Schriftart, Schriftgröße oder andere Schriftartenattribute (z. B. Fett, Kursiv, Hochgestellt oder Unterstrichen) in Visio Online nicht ändern.
   
-## <a name="hyperlinks"></a>Links
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="BM_10"> </a>
 
 In Visio Online können Sie direkt auf die Links zugreifen, indem Sie auf das Shape klicken.
@@ -148,6 +148,6 @@ Da Ihr Visio-Diagramm online gespeichert ist, können Sie einen Link zu Ihrem Di
 ## <a name="zoom"></a>Zoom
 <a name="BM_25"> </a>
 
-Visio Online umfasst einen Schieberegler, mit der Sie vergrößern oder verkleinern kann. Darüber hinaus können die Pan &amp; Zoom-Funktion, um einen Bereich des Diagramms vergrößern.
+Visio Online includes a slider that lets you zoom in and out. Also, you can use the Pan &amp; Zoom feature to zoom in on a region of the diagram.
   
 

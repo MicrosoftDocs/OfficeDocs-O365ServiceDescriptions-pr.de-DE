@@ -1,7 +1,7 @@
 ---
 title: Gruppenfunktionen in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Die nachfolgenden Gruppenfunktionen stehen in Yammer zur Verfügung.
-ms.openlocfilehash: 52415e7ce37aad1fd88e8078b34f0752c6e6b35c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 53d6e898717547fd238f70b4eb059b0facb4391a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035813"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467542"
 ---
 # <a name="group-features-in-yammer"></a>Gruppenfunktionen in Yammer
 
@@ -34,7 +34,7 @@ Von der abteilungsinternen Kommunikation über den Start der nächsten Kampagne 
 
 Sie können verwandte Gruppen zusätzlich zu den Gruppen erstellen, denen Sie bereits beigetreten sind, und diesen zusätzlichen Gruppen eine Priorität zuweisen. So sind Ihre Mitarbeiter in der Lage, weitere relevante Personen, Inhalte und Unterhaltungen aufzufinden.
   
-## <a name="announcements"></a>Ankündigungen
+## <a name="announcements"></a>Announcements
 <a name="bkmk_Announcements"> </a>
 
 Teilen Sie eine Ankündigung mit einer Gruppe, sodass die Mitglieder sofort über wichtige Aktualisierungen informiert werden. Zum leichteren Auffinden können die Administratoren die Ankündigungen an eine Gruppe anheften.

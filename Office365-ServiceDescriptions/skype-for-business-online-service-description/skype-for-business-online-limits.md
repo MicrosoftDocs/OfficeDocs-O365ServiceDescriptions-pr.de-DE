@@ -1,7 +1,7 @@
 ---
 title: Skype for Business Online-Beschränkungen
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategorien:'
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213892"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466962"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -49,24 +49,24 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Die Obergrenze für übertragene Datei  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Nicht zutreffend  <br/> |
-|Grenzwert für die Unterhaltung<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Nicht zutreffend  <br/> |
+|Konversations Limit<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Nicht zutreffend  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Clientidentität kann einen Chat mit bis zu 99 Benutzern starten, manuell hinzufügen oder Senden einer Sofortnachricht aus dem Kontextmenü für eine Gruppe oder Verteilerliste aus. Weitere Informationen zu instant messaging in Skype für Business Online finden Sie unter [Senden einer Sofortnachricht in Skype für Unternehmen](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> ein Client kann einen Chat mit bis zu 99 Benutzern starten, indem er diese manuell hinzufügt oder eine Sofortnachricht aus dem Kontextmenü einer Gruppe oder Verteilerliste sendet. Weitere Informationen zu Instant Messaging in Skype for Business Online finden Sie unter [Senden einer Sofortnachricht in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Peer-to-Peer-Grenzwerte für Standalone-Optionen
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
-|Die Obergrenze für übertragene Datei  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |
-|Grenzwert für die Unterhaltung<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |
+|Konversations Limit<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Clientidentität kann einen Chat mit bis zu 99 Benutzern starten, manuell hinzufügen oder Senden einer Sofortnachricht aus dem Kontextmenü für eine Gruppe oder Verteilerliste aus. Weitere Informationen zu instant messaging in Skype für Business Online finden Sie unter [Senden einer Sofortnachricht in Skype für Unternehmen](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> ein Client kann einen Chat mit bis zu 99 Benutzern starten, indem er diese manuell hinzufügt oder eine Sofortnachricht aus dem Kontextmenü einer Gruppe oder Verteilerliste sendet. Weitere Informationen zu Instant Messaging in Skype for Business Online finden Sie unter [Senden einer Sofortnachricht in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Meeting-Grenzwerte
 <a name="bkmk_Meeting_LyncOnlineLimits"> </a>
@@ -119,18 +119,18 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 - **Besprechungsablaufzeitraum** Die Dauer nach dem Ende einer Besprechung, in der Benutzer auf die Besprechung zugreifen können. 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Besprechungsaufbewahrungsgrenzwerte für Office 365-Produkten und -Plänen
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Besprechungs Aufbewahrungs Grenzwerte in Office 365-Optionen und eigenständigen Plänen
 
 > [!NOTE]
 > Jede Person kann in der Datenbank jederzeit über maximal 1000 Konferenzen verfügen. 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Art Besprechung** <br/> |**Beschreibung** <br/> 
-|Einmalige Besprechung| Besprechung zugegriffen werden mindestens bis 14 Tage nach dem geplanten Zeitpunkt der letzten Aktivierung meeting oder letzten meeting Update, je nachdem, welche neuesten.
-|Besprechungsserie mit Enddatum| Besprechung zugegriffen werden mindestens bis 14 Tage nach dem geplanten Ende der letzten Besprechungsinstanz der letzten Aktivierung meeting oder letzten meeting Update, je nachdem, welche neuesten.
-|Besprechungsserie ohne Enddatum| Besprechung wird immer zugegriffen werden, vorausgesetzt, es gibt neue Konferenz Joins (Aktivierungen) oder beim Planen von Updates mindestens einmal pro Jahr
-|     Besprechung beginnen|Besprechung kann für mindestens 8 Stunden zugegriffen werden.
+|**Besprechungstyp** <br/> |**Beschreibung** <br/> 
+|Einmalige Besprechung| Die Besprechung kann mindestens 14 Tage nach dem geplanten Zeitpunkt oder der letzten Aktivierung oder der letzten Aktualisierung der Besprechung, je nachdem, welche Uhrzeit aktuell ist, erreicht werden.
+|Besprechungsserie mit Enddatum| Auf die Besprechung kann mindestens bis 14 Tage nach der geplanten Endzeit des letzten Besprechungstermins oder der letzten Aktivierung oder der letzten Aktualisierung der Besprechung zugegriffen werden.
+|BesprechungsSerie ohne Enddatum| Die Besprechung kann immer verfügbar sein, vorausgesetzt, es gibt neue Konferenz Joins (Aktivierungen) oder Planungs Aktualisierungen mindestens einmal pro Jahr.
+|Jetzt treffen|Die Besprechung kann mindestens 8 Stunden lang zugänglich sein.
 
 
   

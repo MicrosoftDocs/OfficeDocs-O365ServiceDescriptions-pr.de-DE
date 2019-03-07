@@ -1,7 +1,7 @@
 ---
 title: Clientfunktionen in der Exchange Online-Archivierung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online-Archivierung ermöglicht Benutzern die Verbindung zu ihren archivpostfächern aus einer Vielzahl von Geräten und Plattformen. Alle Netzwerkkonnektivität zu dem benutzerarchiv tritt auf, über das Internet und virtuelles privates Netzwerk (VPN) Verbindungen sind nicht erforderlich. Organisationen können lokale-Clientzugriffsserver, um Benutzern Zugriff auf ihre primäre Postfach mit Outlook Anywhere, ohne dass eine VPN-Verbindung veröffentlichen. Wenn VPN-Zugriff auf primären Postfach des Benutzers befindet sich auf einem lokalen Server erforderlich ist, wird dadurch nicht geändert.
-ms.openlocfilehash: 90f384e990363294c8972a79e8b500d97ca4a839
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Mit der Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Alle Netzwerkverbindungen zum Archiv des Benutzers erfolgen über das Internet, und es sind keine VPN-Verbindungen (Virtual Private Network) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
+ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035720"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467182"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Clientfunktionen in der Exchange Online-Archivierung
 
-Microsoft Exchange Online-Archivierung ermöglicht Benutzern die Verbindung zu ihren archivpostfächern aus einer Vielzahl von Geräten und Plattformen. Alle Netzwerkkonnektivität zu dem benutzerarchiv tritt auf, über das Internet und virtuelles privates Netzwerk (VPN) Verbindungen sind nicht erforderlich. Organisationen können lokale-Clientzugriffsserver, um Benutzern Zugriff auf ihre primäre Postfach mit Outlook Anywhere, ohne dass eine VPN-Verbindung veröffentlichen. Wenn VPN-Zugriff auf primären Postfach des Benutzers befindet sich auf einem lokalen Server erforderlich ist, wird dadurch nicht geändert.
+Mit der Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Alle Netzwerkverbindungen zum Archiv des Benutzers erfolgen über das Internet, und es sind keine VPN-Verbindungen (Virtual Private Network) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
   
 > [!IMPORTANT]
 > Microsoft behält sich das Recht vor, Verbindungen von Clientsoftware, welche die Integrität des Exchange Online-Archivierung-Dienstes beeinträchtigt, zu blockieren oder zu drosseln. 
@@ -50,11 +50,11 @@ Die folgende Tabelle enthält die von der Exchange Online-Archivierung unterstü
 |:-----|:-----|
 |Outlook 2010 und höher  <br/> |Unterstützt die neuesten Funktionen in Exchange Online-Archivierung.<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Unterstützt Exchange Online-Archivierung.<sup>1, 2</sup> <br/> |
-|Outlook 2003  <br/> |Nicht unterstützt  <br/> |
-|Outlook für Mac 2011  <br/> |Nicht unterstützt  <br/> |
+|Outlook 2003  <br/> |exExchange2k7 und frühere Versionen  <br/> |
+|Outlook für Mac 2011  <br/> |exExchange2k7 und frühere Versionen  <br/> |
 |Outlook für Mac  <br/> |Unterstützt für die Verwendung mit Exchange Online-Archivierung.<sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008 Web Services Edition  <br/> |Nicht unterstützt  <br/> |
-|IMAP und POP  <br/> |Nicht unterstützt  <br/> |
+|Microsoft Office Entourage 2008 Web Services Edition  <br/> |exExchange2k7 und frühere Versionen  <br/> |
+|IMAP und POP  <br/> |exExchange2k7 und frühere Versionen  <br/> |
 |Exchange ActiveSync (mobile Geräte)  <br/> |Nicht unterstützt  <br/> |
    
 > [!NOTE]

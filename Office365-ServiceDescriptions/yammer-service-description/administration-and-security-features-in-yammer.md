@@ -1,7 +1,7 @@
 ---
 title: Verwaltungs- und Sicherheitsfunktionen in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,41 +12,41 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
-description: Die nachfolgenden Verwaltungs- und Sicherheitsfunktionen stehen in Yammer zur Verfügung.
-ms.openlocfilehash: 78aa673b4bb5da2bd5aca57bba6e532f9521a2bb
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Die folgenden Verwaltungs-und Sicherheitsfunktionen stehen in jammern zur Verfügung.
+ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035888"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466742"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Verwaltungs- und Sicherheitsfunktionen in Yammer
 
-Die nachfolgenden Verwaltungs- und Sicherheitsfunktionen stehen in Yammer zur Verfügung.
+Die folgenden Verwaltungs-und Sicherheitsfunktionen stehen in jammern zur Verfügung.
   
-Eine ausführliche Beschreibung und Verfahren finden Sie unter der [Yammer-Verwaltungskonsole](https://go.microsoft.com/fwlink/?LinkId=869688).
+Ausführliche Erläuterungen und Verfahren finden Sie im [Jammer Admin Center](https://go.microsoft.com/fwlink/?LinkId=869688).
   
-## <a name="custom-network-branding"></a>Benutzerdefiniertes Netzwerk-Branding
+## <a name="custom-network-branding"></a>Custom Network Branding
 <a name="bkmk_CustomNetworkBranding"> </a>
 
 Übernehmen Sie das Erscheinungsbild Ihres Unternehmens für Ihr Yammer-Netzwerk. Die Netzwerkadministratoren können das Unternehmenslogo oder ein Bild des Unternehmens hochladen und so eine individuelle Gestaltung erzielen.
   
-## <a name="user-management"></a>Benutzerverwaltung
+## <a name="user-management"></a>User Management
 <a name="bkmk_UserManagement"> </a>
 
 Verwalten Sie schnell und einfach den Zugriff auf Ihr Unternehmensnetzwerk. In Yammer können Sie die Synchronisierung mit bereits verwendeten Verzeichnissen vornehmen, Benutzer einzeln oder im Sammelverfahren hinzufügen oder entfernen, Gäste in Ihr Netzwerk einladen und weitere Administratoren ernennen.
   
-## <a name="admin-private-content-mode"></a>Administratormodus für private Inhalte
+## <a name="admin-private-content-mode"></a>Admin Private Content Mode
 <a name="bkmk_AdminPrivate"> </a>
 
 Ein bestätigter Administrator eines Yammer-Netzwerks kann private Nachrichten und Gruppen im gesamten Netzwerk anzeigen. Bestätigte Administratoren können private Inhalte nur anzeigen, wenn sie sich vorübergehend selbst zwecks Problemdiagnose Zugriff auf private Inhalte gewähren. Weitere Informationen finden Sie unter [Überwachen privater Inhalte in Yammer (bestätigte Administratoren)](https://go.microsoft.com/fwlink/?LinkId=627479).
   
-## <a name="single-identity"></a>Einzelne Identität
+## <a name="single-identity"></a>Single Identity
 <a name="bkmk_o365_user_mapping"> </a>
 
 Wenn Sie sich für Yammer als die standardmäßige soziale Plattform in Office 365 für Ihre Organisation entscheiden, werden Mitarbeiter ihren bestehenden Yammer-Konten zugeordnet. Das bedeutet, dass sie sich nicht erneut anmelden müssen, wenn sie zu Yammer in Office 365 navigieren. Wenn Mitarbeiter - ob in Office 365, über eine mobile Yammer-App oder durch den Aufruf von Yammer.com im Browser - auf Yammer zugreifen, sind sie auf Basis ihrer vorhandenen organisationsbezogenen Anmeldeinformationen bereits angemeldet.
   
-## <a name="directory-synchronization"></a>Verzeichnissynchronisierung
+## <a name="directory-synchronization"></a>Directory Synchronization
 <a name="bkmk_DirectorySynchronization"> </a>
 
 Standardisieren Sie die Benutzerprofildaten über mehrere Systeme hinweg. Hinzugefügte und gelöschte Benutzer und auch Profildaten können automatisch aus einem vorhandenen Unternehmensverzeichnis heraus synchronisiert werden.
@@ -64,20 +64,20 @@ Konsolidieren Sie mehrere Yammer-Netzwerke in einem einzigen Netzwerk. Weitere I
 
 Verwalten und exportieren Sie die Netzwerkdaten ganz einfach per Mausklick gemäß den Unternehmensrichtlinien. Außerdem können Sie tägliche oder wöchentliche Datenexportvorgänge planen und so rechtliche und regulatorische Compliance-Anforderungen erfüllen.
   
-## <a name="keyword-monitoring"></a>Überwachung auf Schlüsselwörter
+## <a name="keyword-monitoring"></a>Keyword Monitoring
 <a name="bkmk_KeywordMonitoring"> </a>
 
 Anhand der Überwachung auf Schlüsselwörter können vertrauliche Inhalte nachverfolgt werden. Sobald ein Benutzer eine Nachricht veröffentlicht, die ein überwachtes Schlüsselwort oder eine Schlüsselphrase enthält, werden alle bestätigten Administratoren benachrichtigt.
   
-## <a name="analytics"></a>Analysen
+## <a name="analytics"></a>Analyse
 <a name="bkmk_Analytics"> </a>
 
 Ermitteln Sie anhand der Netzwerkanalyse, wie die Mitarbeiter mit Yammer arbeiten. Von Nutzungskennzahlen bis hin zu Mitgliederstatistiken finden Sie Möglichkeiten, das Netzwerkwachstum zu fördern und den Nutzen Ihres Netzwerks zu erhöhen.
   
-## <a name="company-resources"></a>Unternehmensressourcen
+## <a name="company-resources"></a>Company Resources
 <a name="bkmk_CompanyResources"> </a>
 
-Fügen Sie wichtige Dateien und Links zu Mitarbeiter schnellen Zugriff auf Unternehmensressourcen beispielsweise Personalrichtlinien, Informationen oder auch Urlaubskalender Vorteile.
+Fügen Sie wichtige Dateien und Links hinzu, um Mitarbeitern schnellen Zugriff auf Unternehmensressourcen wie Personalrichtlinien, Leistungsinformationen oder Feiertagskalender zu ermöglichen.
   
 ## <a name="password-policies"></a>Kennwortrichtlinien
 <a name="bkmk_PasswordPolicies"> </a>
@@ -89,12 +89,12 @@ Legen Sie fest, wie lang und komplex die Kennwörter der Mitarbeiter sein müsse
 
 Stellen Sie fest, auf welchen Geräten die Benutzer angemeldet sind, und melden Sie sie bei Bedarf wieder ab.
   
-## <a name="logical-firewall"></a>Logische Firewall
+## <a name="logical-firewall"></a>Logical Firewall
 <a name="bkmk_LogicalFirewall"> </a>
 
 Begrenzen Sie Ihr Yammer-Netzwerk auf einen bestimmten IP-Bereich, sodass Yammer nur an bestimmten physischen Standorten zugänglich ist.
   
-## <a name="usage-policy"></a>Nutzungsrichtlinie
+## <a name="usage-policy"></a>Usage Policy
 <a name="bkmk_UsagePolicy"> </a>
 
 Stellen Sie eine benutzerdefinierte Nutzungsrichtlinie für das Netzwerk Ihres Unternehmens auf, und geben Sie an, dass die Benutzer diese Richtlinie akzeptieren müssen.

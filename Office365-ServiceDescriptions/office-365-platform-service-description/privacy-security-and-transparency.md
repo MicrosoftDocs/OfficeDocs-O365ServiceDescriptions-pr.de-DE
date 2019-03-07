@@ -1,7 +1,7 @@
 ---
 title: Datenschutz, Sicherheit und Transparenz
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 01/02/2019
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Wir bei Microsoft schätzen die Partnerschaft mit unseren Kunden und messen dem Schutz und der Sicherheit ihrer Daten höchste Bedeutung bei. Weitere Informationen finden Sie im Microsoft Trust Center.
-ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784857"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467582"
 ---
 # <a name="privacy-security-and-transparency"></a>Datenschutz, Sicherheit und Transparenz
 
@@ -39,11 +39,11 @@ Informationen zu Sicherheit und Datenschutz für andere Microsoft-Dienste einsch
 
 Informationen zur sicheren und zuverlässigen Bereitstellung von Office 365-Diensten durch Microsoft finden Sie unter [Sicherheit](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).
   
-## <a name="transparency"></a>Transparenz
+## <a name="transparency"></a>Transparency
 
 Als Office 365-Kunde können Sie herausfinden, wo sich Ihre Daten befinden, wer bei Microsoft darauf zugreifen kann und wie Ihre Daten bei uns verwendet werden. Weitere Informationen finden Sie unter [Transparenz](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
   
-## <a name="office-365-advanced-ediscovery"></a>Erweiterte eDiscovery in Office 365
+## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
 
 Als eDiscovery (electronic discovery) wird das Identifizieren und Übermitteln elektronischer Informationen bezeichnet, die als Indizien in einem Rechtsstreit verwendet werden können. Erweiterte eDiscovery in Office 365 baut auf den vorhandenen eDiscovery-Funktionen in Office 365 auf und ermöglicht die Analyse von großen, unstrukturierten Datenmengen und die Reduzierung der Datenmenge, die für einen Rechtsstreit relevant sind. Sie können die Suchfunktion im Office 365 Compliance Center zum Durchführen einer ersten Suche über alle Inhaltsquellen in Ihrer Organisation verwenden, um die Daten zu ermitteln und zu sammeln, die für einen bestimmten Rechtsfall relevant sein könnten. Anschließend können Sie die Daten mithilfe der Textanalyse, von maschinellem Lernen und Relevanz-/Vorhersagencodierungsschemen der erweiterten eDiscovery analysieren. Weitere Informationen finden Sie unter [Erweiterte eDisvocery in Office 365](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409).
   
@@ -55,7 +55,7 @@ Kunden-Lockbox ist im Office 365 Enterprise 5-Plan enthalten. Sie können aber a
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 
-Office 365 erweiterte Threat Protection schützt Ihre Organisation vor Malware und Viren. ATP enthält [Sichere Links](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Sichere Anlagen](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Anti-Phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)und [Spoofing Intelligence](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) Features. Sichere Links schützt proaktiv Ihre Benutzer vor böswilligen Hyperlinks in einer Nachricht Schutz jedes Mal, wenn auf der Link geklickt wird. Sichere Anlagen schützt vor unbekannten Malware und Viren sowie vom routing aller Nachrichten und Anlagen, die eine bekannte Virus/Schadsoftware Signatur zu einer speziellen Umgebung verfügen, in dem ATP böswilligen Absicht erkennen kann. Weitere Informationen zu ATP finden Sie unter [Office 365 erweiterte Threat Protection Service Description](../office-365-advanced-threat-protection-service-description.md).
+Office 365 Advanced Threat Protection schützt Ihre Organisation vor Schadsoftware und Viren. ATP enthält [sichere Links](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [sichere Anlagen](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Phishing-](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)und [Spoof-Intelligence](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) -Funktionen. Das Feature „Sichere Links" schützt Ihre Benutzer proaktiv vor böswilligen Links in Nachrichten und bietet bei jedem Klick auf den Link Schutz. Das Feature „Sichere Anlagen" schützt vor unbekannter Malware und Viren, leitet alle Nachrichten und Anlagen, die über keine bekannten Virus-/Malwaresignaturen verfügen, an eine bestimmte Umgebung weiter, in der ATP böswillige Absichten erkennen kann. Weitere Informationen zu ATP finden Sie unter [Office 365 Advanced Threat Protection Service Description](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

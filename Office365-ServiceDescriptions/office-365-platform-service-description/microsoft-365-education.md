@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Education
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: article
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365 steht in einer Vielzahl von Plänen am besten die Anforderungen Ihrer Organisation entsprechen. Wenn die Unterschiede zwischen Microsoft 365 und Schulung für Office 365-Pläne Sie suchen erfahren in diesem Artikel Sie in den einzelnen Elementen durch welche Features enthalten sind.
-ms.openlocfilehash: 6a341e00fff5bde4b0727fccb091e44a43ec628d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel.
+ms.openlocfilehash: 1303484ca25d737b1cc5217b6b3dc8a129585dc6
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035859"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468172"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
-Microsoft 365 steht in einer Vielzahl von Plänen am besten die Anforderungen Ihrer Organisation entsprechen. Wenn die Unterschiede zwischen Microsoft 365 und Schulung für Office 365-Pläne Sie suchen erfahren in diesem Artikel Sie in den einzelnen Elementen durch welche Features enthalten sind. 
+Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel. 
   
 Microsoft 365 bietet ein vollständiges System, einschließlich Office 365, Windows 10 und Enterprise Mobility and Security. Die folgende Tabelle enthält die Features in Office 365 Education A1, A3 und A5 sowie die entsprechenden Features in Microsoft 365 Education A3 und A5. Einen Vergleich der Office 365-Features über Business- und Enterprise-Pläne hinweg finden Sie unter [Vergleich der Office 365 for Business-Pläne](https://go.microsoft.com/fwlink/?linkid=799177). Eine detailliertere Liste der Features finden Sie in der relevanten Dienstbeschreibung unter [Office 799177-Dienstbeschreibungen](https://go.microsoft.com/fwlink/?linkid=839510). Supportartikel und -informationen finden Sie unter [Office-Hilfe und Schulungen](https://support.office.com/).
   
@@ -33,12 +33,12 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |Office 365-Plattform  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365 ProPlus  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Exchange Online  <br/> |Ja,<sup>1</sup> <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |Ja,<sup>2</sup> <br/> |
-|SharePoint Online  <br/> |Ja,<sup>3</sup> <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |Ja,<sup>4</sup> <br/> |
+|Exchange Online  <br/> |Ja<sup>1</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |
+|SharePoint Online  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Teams  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Project Online  <br/> |Keine<sup>5</sup> <br/> |Keine<sup>5</sup> <br/> |Keine<sup>5</sup> <br/> |Keine<sup>5</sup> <br/> |Keine<sup>5</sup> <br/> |
+|Project Online  <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |
 |Yammer-Academic  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**Kursraumtools** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Classroom-Benutzeroberflächen in Microsoft Teams  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -73,7 +73,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |eDiscovery-Export  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Erweiterte eDiscovery  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |Verhinderung von Datenverlust  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Office 365-Nachrichtenverschlüsselung  <br/> |Ja,<sup>12</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office 365-Nachrichtenverschlüsselung  <br/> |Ja<sup>12</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Kunden-Lockbox  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |Erweiterte Datenkontrolle  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |**Verwaltung und Sicherheit** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
@@ -89,9 +89,9 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |Cloud-App-Sicherheit  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Windows Defender Advanced Threat Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |**Server- und CAL-Vorteile** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
-|Exchange-<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja,<sup>10</sup> <br/> |Ja  <br/> |
-|SharePoint-<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja,<sup>10</sup> <br/> |Ja  <br/> |
-|Skype for Business<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja,<sup>10</sup> <br/> |Ja  <br/> |
+|Exchange<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |
+|SharePoint<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |
+|Skype for Business<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |
 |Windows Server-CAL  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |System Center Configuration Manager  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |System Center Endpoint Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |

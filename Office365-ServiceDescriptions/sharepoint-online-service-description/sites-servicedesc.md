@@ -1,7 +1,7 @@
 ---
-title: Websites[ServiceBeschr]
-ms.author: pebaum
-author: pebaum
+title: Websites [Dienstbeschr]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,24 +14,24 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
-description: Microsoft SharePoint Online ist eine Auflistung von webbasierter Tools und -Technologien, mit die Hilfe Ihre Organisation speichern, freigeben und Verwalten von digitalen Informationen. Basiert auf Microsoft SharePoint Server 2013 und ist gehostete Dienst ideal für an Projekten arbeiten, Daten und Dokumente an einem zentralen Ort speichern und Freigeben von Informationen für andere Personen. Die folgenden Websitefeatures bieten eine umfassende Auswahl an Tools, mit denen Ihre Organisation zum Erstellen von beliebigen Website plus einer Infrastruktur, die Site-Verwaltung vereinfacht verwenden kann. Ausführliche Informationen finden Sie unter Suchen von Inhalten zu SharePoint Online.
-ms.openlocfilehash: c154bbd75accb312e3415b820b5ed1439f28e7b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Websitefunktionen bieten einen umfassenden Toolsatz, mit dem Ihre Organisation jede Website sowie eine einzelne Infrastruktur erstellen kann, was die Websiteverwaltung vereinfacht. Ausführlichere Informationen finden Sie unter Suchen von Inhalten zu SharePoint Online.
+ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035811"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467882"
 ---
 # <a name="sitesservicedesc"></a>Websites [Dienstbeschr]
 
-Microsoft SharePoint Online ist eine Auflistung von webbasierter Tools und -Technologien, mit die Hilfe Ihre Organisation speichern, freigeben und Verwalten von digitalen Informationen. Basiert auf Microsoft SharePoint Server 2013 und ist gehostete Dienst ideal für an Projekten arbeiten, Daten und Dokumente an einem zentralen Ort speichern und Freigeben von Informationen für andere Personen. Die folgenden Websitefeatures bieten eine umfassende Auswahl an Tools, mit denen Ihre Organisation zum Erstellen von beliebigen Website plus einer Infrastruktur, die Site-Verwaltung vereinfacht verwenden kann. Ausführlichere Informationen finden Sie unter [Inhalte zu SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).
+Microsoft SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Websitefunktionen bieten einen umfassenden Toolsatz, mit dem Ihre Organisation jede Website sowie eine einzelne Infrastruktur erstellen kann, was die Websiteverwaltung vereinfacht. Ausführlichere Informationen finden Sie unter [Suchen von Inhalten zu SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).
   
-## <a name="cross-browser-support"></a>Browserübergreifende Unterstützung
+## <a name="cross-browser-support"></a>Cross Browser Support
 <a name="bkmk_CrossBrowserSupport"> </a>
 
 SharePoint Online unterstützt verschiedene häufig verwendete Webbrowser, darunter die neuesten drei Versionen von Internet Explorer sowie die aktuellen Versionen von Google Chrome, Mozilla Firefox und Apple Safari. Erfahren Sie mehr über das [Planen der Browserunterstützung](https://go.microsoft.com/fwlink/?LinkId=271048).
   
-## <a name="custom-managed-paths"></a>Benutzerdefinierte verwaltete Pfade
+## <a name="custom-managed-paths"></a>Custom Managed Paths
 <a name="bkmk_CustomManagedPaths"> </a>
 
 Durch das Definieren von verwalteten Pfaden können Sie festlegen, welche Pfade im ULR-Namespace einer Webanwendung für Websitesammlungen verwendet werden. Sie können angeben, dass eine oder mehrere Websitesammlungen unter einem festgelegten Pfad vorhanden sind. Dies ist eine geeignete Methode, um den Zugriff auf mehrere Websites für Benutzer in verschiedenen Abteilungen zu konsolidieren. Erfahren Sie mehr über [verwaltete Pfade](https://go.microsoft.com/fwlink/?LinkId=271049).
@@ -41,17 +41,17 @@ Durch das Definieren von verwalteten Pfaden können Sie festlegen, welche Pfade 
 
 Mithilfe von Websiteordnern können Sie einfach zu den gewünschten Inhalten navigieren. Mit der Websiteordneransicht in OneDrive for Business werden Sie direkt zu den Dokumentbibliotheken der SharePoint-Websites weitergeleitet, denen Sie folgen. 
   
-## <a name="governance"></a>Steuerung
+## <a name="governance"></a>Governance
 <a name="bkmk_Governance"> </a>
 
 Ein wichtiger, jedoch häufig nicht sichtbarer Teil jeder Website ist das zugrunde liegende Steuerungsmodell, d. h. der Satz von Richtlinien, Rollen, Verantwortlichkeiten und Prozessen, den Sie einrichten, um zu bestimmen, wie die Personen in Ihrer Gruppe SharePoint verwenden. Erfahren Sie mehr über die [bewährten Methoden zum Erstellen und Verwalten von Teamwebsites](https://go.microsoft.com/fwlink/?LinkId=271050).
   
-## <a name="large-list-scalability-and-management"></a>Skalierbarkeit und Verwaltung umfangreicher Listen
+## <a name="large-list-scalability-and-management"></a>Large List Scalability and Management
 <a name="bkmk_LargeListScalabilityManagement"> </a>
 
 Indem Sie die Schlüsselfunktionen für Listen und Bibliotheken planen und verwenden, können Sie sicherstellen, dass Sie und andere Benutzer schnell Informationen finden, ohne die Leistung der restlichen Website zu beeinträchtigen. Erfahren Sie mehr über das [Verwalten von Listen und Bibliotheken](https://go.microsoft.com/fwlink/?LinkId=271051).
   
-## <a name="mobile-connectivity"></a>Mobile Konnektivität
+## <a name="mobile-connectivity"></a>Mobile Connectivity
 <a name="bkmk_MobileConnectivity"> </a>
 
 Sie können von unterwegs aus über ein mit dem Internet verbundenes Mobiltelefon oder Tablet auf SharePoint-Websites zugreifen. Sie können Dokumente, Listen und andere Websiteinhalte anzeigen und aktualisieren und mit Kollegen zusammenarbeiten - und das alles von Ihrem Mobilgerät aus. Erfahren Sie mehr über das [Verwenden eines mobilen Geräts für die Arbeit mit SharePoint Online-Websites](https://go.microsoft.com/fwlink/?LinkId=271052).
@@ -61,7 +61,7 @@ Sie können von unterwegs aus über ein mit dem Internet verbundenes Mobiltelefo
 
 Verwenden Sie das Feature für eine mehrsprachige Benutzeroberfläche (Multi-Lingual User Interface, MUI), um Websites in anderen Sprachen als der Standardsprache der SharePoint-Installation zu erstellen. Erfahren Sie mehr über [mehrsprachige Features](https://go.microsoft.com/fwlink/?LinkId=271053).
   
-## <a name="ootb-web-parts"></a>OOTB-Webparts
+## <a name="ootb-web-parts"></a>OOTB Web Parts
 <a name="bkmk_OOTBWebParts"> </a>
 
 Ein Webpart ist eine modulare Informationseinheit, die den grundlegenden Baustein einer Webpart-Seite bildet.
@@ -71,7 +71,7 @@ Ein Webpart ist eine modulare Informationseinheit, die den grundlegenden Baustei
 
 SharePoint-Berechtigungen sind so flexibel und umfassend konfigurierbar, dass eine Organisation Berechtigungen mit jeder gewünschten Granularität implementieren kann. Bei der Steuerung des Benutzerzugriffs auf Websites und Websiteinhalte greifen drei wichtige Sicherheitselemente ineinander: Vererbung von Berechtigungen, Berechtigungsstufen (auch als SharePoint-Rollen bekannt) und SharePoint-Gruppen (oder SharePoint-Sicherheitsgruppen). Erfahren Sie mehr über das [Steuern des Benutzerzugriffs mit Berechtigungen](https://go.microsoft.com/fwlink/?LinkId=271054).
   
-## <a name="project-site-template"></a>Vorlage für eine Projektwebsite
+## <a name="project-site-template"></a>Project site template
 <a name="bkmk_Projectsitetemplate"> </a>
 
 Verwenden Sie die Vorlage für eine Projektwebsite, um eine Website zu erstellen, auf der Sie Aufgaben erfassen und Personen in Ihrer Organisation zuweisen können, projektbezogene Dokumentation speichern und verwalten können und Termine ihres Projektteams in einem gemeinsamen Kalender verfolgen können. Erfahren Sie mehr über [Projektwebsites](https://go.microsoft.com/fwlink/?LinkId=271228).
@@ -81,17 +81,17 @@ Verwenden Sie die Vorlage für eine Projektwebsite, um eine Website zu erstellen
 
 Eine Liste ist eine Datensammlung, die Sie für andere Teammitglieder und andere Websitebenutzer freigeben können. Mit einer Liste können Sie beispielsweise eine Anmeldung für eine Veranstaltung erstellen oder Teamtermine in einem Kalender verfolgen. Sie können mehrere einsatzbereite Listen und Listenvorlagen verwenden, die einen guten Ausgangspunkt zum Organisieren von Listenelementen bilden. Erfahren Sie mehr über [SharePoint-Listen](https://go.microsoft.com/fwlink/?LinkId=271056).
   
-## <a name="site-designs"></a>Websitedesigns
+## <a name="site-designs"></a>Website Designs
 <a name="bkmk_Templates"> </a>
 
 Wenn Sie eine neue Website in SharePoint erstellen, wählen Sie zunächst eine Websitevorlage aus, auf der die Website basieren soll. Websitevorlagen enthalten Listen, Bibliotheken, Seiten und andere Elemente oder Funktionen, die die Bedürfnisse einer Organisation unterstützen. Erfahren Sie mehr über das [Anpassen von Teamwebsites](https://go.microsoft.com/fwlink/?LinkId=271058).
   
-## <a name="site-themes-change-the-look"></a>Von Designs (Ändern der Darstellung)
+## <a name="site-themes-change-the-look"></a>Website Designs (Ändern des Aussehens)
 <a name="bkmk_Themes"> </a>
 
 Sie können Ihre Teamwebsite mühelos anpassen, damit sie einfacher zu verwenden ist und ihren Geschäftsstil und ihre Marke widerspiegelt. Designs sind eine einfache Möglichkeit, um Farben und Schriftarten auf Websites anzuwenden.
   
-## <a name="site-usage-page"></a>Verwendung der Websiteseite
+## <a name="site-usage-page"></a>Seite „Websiteverwendung“
 <a name="bkmk_UsageAnalytics"> </a>
 
 Web Analytics-Berichte sind vorab erstellte Berichte in SharePoint, die Nutzungsdaten verwenden, um verschiedene Aspekte der Websites und Websitesammlungen zu analysieren. 

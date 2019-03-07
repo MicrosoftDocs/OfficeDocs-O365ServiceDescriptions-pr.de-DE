@@ -1,7 +1,7 @@
 ---
 title: Add-Ons
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint ist eine Auflistung von webbasierter Tools und -Technologien, mit die Hilfe Ihre Organisation speichern, freigeben und Verwalten von digitalen Informationen. Basiert auf Microsoft SharePoint Server 2013 und ist gehostete Dienst ideal für an Projekten arbeiten, Daten und Dokumente an einem zentralen Ort speichern und Freigeben von Informationen für andere Personen. Office 365-Kunden können auch zusätzliche Add-ons Zusammenhang mit SharePoint Online erwerben.
-ms.openlocfilehash: a3fc73f53fd0f6dd8e68392430412e2ed0f135b7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint ist eine Sammlung webbasierter Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Aufbauend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einer zentralen Stelle und die Freigabe von Informationen für andere. Office 365-Kunden können auch zusätzliche Add-Ons erwerben, die mit SharePoint Online verbunden sind.
+ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035812"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466402"
 ---
 # <a name="add-ons"></a>Add-Ons
 
-Microsoft SharePoint ist eine Auflistung von webbasierter Tools und -Technologien, mit die Hilfe Ihre Organisation speichern, freigeben und Verwalten von digitalen Informationen. Basiert auf Microsoft SharePoint Server 2013 und ist gehostete Dienst ideal für an Projekten arbeiten, Daten und Dokumente an einem zentralen Ort speichern und Freigeben von Informationen für andere Personen. Office 365-Kunden können auch zusätzliche Add-ons Zusammenhang mit SharePoint Online erwerben.
+Microsoft SharePoint ist eine Sammlung webbasierter Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Aufbauend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einer zentralen Stelle und die Freigabe von Informationen für andere. Office 365-Kunden können auch zusätzliche Add-Ons erwerben, die mit SharePoint Online verbunden sind.
   
-## <a name="additional-storage"></a>Zusätzlicher Speicher
+## <a name="additional-storage"></a>Additional Storage
 <a name="bkmk_AdditionalStorage"> </a>
 
 Sollten Sie mehr Speicher benötigen, steht er zu Kosten pro Gigabyte (GB) und Monat zur Verfügung.

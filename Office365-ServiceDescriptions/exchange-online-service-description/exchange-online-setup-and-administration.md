@@ -1,7 +1,7 @@
 ---
 title: Einrichtung und Verwaltung in Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zur Anpassung der Exchange Online-Einstellungen und der aktuellen Exchange Online-Umgebung einer Organisation verfügbar sind. Sie enthält Informationen zu Self-Service-Verwaltungstools und-Funktionen, die Organisationen zur Verfügung stehen. Microsoft-Administrations Verantwortlichkeiten und Leistungszusagen; und Dienst-und Produktupgrades.
-ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zur Anpassung der Exchange Online-Einstellungen und der aktuellen Exchange Online-Umgebung einer Organisation verfügbar sind. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
+ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210198"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467802"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Einrichtung und Verwaltung in Exchange Online
 
-In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zur Anpassung der Exchange Online-Einstellungen und der aktuellen Exchange Online-Umgebung einer Organisation verfügbar sind. Sie enthält Informationen zu Self-Service-Verwaltungstools und-Funktionen, die Organisationen zur Verfügung stehen. Microsoft-Administrations Verantwortlichkeiten und Leistungszusagen; und Dienst-und Produktupgrades.
+In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zur Anpassung der Exchange Online-Einstellungen und der aktuellen Exchange Online-Umgebung einer Organisation verfügbar sind. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
   
 ## <a name="self-service-administration-tools"></a>Self-Service-Verwaltungstools
 

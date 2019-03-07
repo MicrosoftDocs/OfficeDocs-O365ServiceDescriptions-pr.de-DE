@@ -1,7 +1,7 @@
 ---
 title: Optionen zum Office 365-Plan
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -16,17 +16,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
-description: Microsoft Office 365 steht in einer Vielzahl von Plänen am besten die Anforderungen Ihrer Organisation entsprechen.
-ms.openlocfilehash: d775e3bef016989bd43708272ec45fe5a2df6b3a
-ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
+description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
+ms.openlocfilehash: 03c04b0b5967247a1ea8b058e74abca98d10bb38
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "26984798"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467132"
 ---
 # <a name="office-365-plan-options"></a>Optionen zum Office 365-Plan
 
-Microsoft Office 365 steht in einer Vielzahl von Plänen am besten die Anforderungen Ihrer Organisation entsprechen.
+Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
   
 ## <a name="office-365-service-families-and-plans"></a>Office 365-Dienstfamilien und -Pläne
 <a name="bkmk_O365Service_Families_and_Plans"> </a>
@@ -52,26 +52,30 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Dienst** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
-|Office 365-Plattform  <br/> |Ja  <br/> |Nr.  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Exchange Online  <br/> |Ja,<sup>6</sup> <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Ja,<sup>6</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja,<sup>9</sup> <br/> |
-|SharePoint Online  <br/> |Ja  <br/> |Nr.  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |
-|OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja,<sup>5</sup> <br/> |
-|Skype für Business Online <sup>15</sup> <br/> |Ja,<sup>10</sup> <br/> |Nein  <br/> |Ja<sup>10</sup> <br/> |Ja,<sup>10</sup> <br/> |Ja,<sup>11</sup> <br/> |Ja,<sup>13</sup> <br/> |Ja,<sup>14</sup> <br/> |
+|Office 365-Plattform  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Exchange Online  <br/> |Ja<sup>6</sup> <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>9</sup> <br/> |
+|SharePoint Online  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>5</sup> <br/> |
+|Skype for Business Online <sup>15</sup> <br/> |Ja<sup>10</sup> <br/> |Nein  <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>11</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>14</sup> <br/> |
 |Office Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Office-Anwendungen  <br/> |Nein  <br/> |Ja  <br/> |Ja   <br/> |Nr.  <br/> |Ja  <br/> |Ja   <br/> |Nein  <br/> |
-|Project Online  <br/> |Keine<sup>1</sup> <br/> |Nein  <br/> |Nein<sup>1</sup> <br/> |Nein<sup>1</sup> <br/> |Nein<sup>1</sup> <br/> |Nein<sup>1</sup> <br/> |Keine<sup>1</sup> <br/> |
+|Office-Anwendungen  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Project Online  <br/> |Nr.<sup>1</sup> <br/> |Nein  <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |
 |Power BI  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|Yammer Enterprise  <br/> |Ja  <br/> |Nr.  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja   <br/> |
-|Azure Informationen Protection<sup>3</sup> <br/> |Keine<sup>2</sup> <br/> |Nein  <br/> |Nein<sup>2</sup> <br/> |Keine<sup>2</sup> <br/> |Ja  <br/> |Ja   <br/> |Keine<sup>2</sup> <br/> |
+|Yammer Enterprise  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Azure Information Protection<sup>3</sup> <br/> |Nr.<sup>2</sup> <br/> |Nein  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |
    
 > <sup>1</sup> Project Online ist nicht enthalten, kann jedoch als separater Add-On-Dienst erworben oder kostenlos dem Office 365 Education-Plan hinzugefügt werden. > 
-<br/><sup>2</sup> Azure Information Protection ist nicht mit inbegriffen, aber als separates Add-on erworben werden können und die unterstützten Funktionen (Information Rights Management, IRM) zu aktivieren. Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 ProPlus, die nicht mit Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. ><br/><sup>3</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> Office 365 Enterprise E5 enthält Funktionen Telefonsystem, Audiokonferenzen und Planen von aufrufen. Zum Implementieren eines Plans aufrufen erfordert den Kauf eines zusätzlichen Plan (National oder International). ><br/><sup>5</sup> enthält 2 GB Speicher. Desktop-Synchronisierung Funktionalität ist nicht enthalten. ><br/><sup>6</sup> Umfasst Exchange Online-Plan 1. > 
+<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. > 
+<br/><sup>3</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> Office 365 Enterprise E5 enthält Telefon System-, Audiokonferenz-und Anruf Plan Funktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). > 
+<br/><sup>5</sup> Umfasst 2 GB Speicher. Umfasst keine Desktopsynchronisierungsfunktionalität. > 
+<br/><sup>6</sup> Umfasst Exchange Online-Plan 1. > 
 <br/><sup>7</sup> Umfasst Exchange Online-Plan 2. > 
 <br/><sup>8</sup> Umfasst Exchange Online-Plan 1 sowie zusätzliche Features. > 
 <br/><sup>9</sup> Umfasst Exchange Online Kiosk. > 
 <br/><sup>10</sup> Enthält Skype for Business Online-Plan 2 mit Einschränkungen für Basisclients. > <br/><sup>11</sup> Enthält Skype for Business Online-Plan 2 ohne Clienteinschränkungen. > <br/><sup>12</sup> Umfasst Skype for Business Online Plan 1 sowie zusätzliche Features. > <br/><sup>13</sup> Enthält Skype for Business Online-Plan 2 mit Sprachunterstützung und ohne Clienteinschränkungen. > 
 <br/><sup>14</sup> Umfasst Skype for Business Online Plan 1. 
-<br><sup>15</sup> Microsoft-Teams, ist nun die primären Client für messaging und Besprechungen und Aufrufen von in Office 365. Starten 1 Oktober 2018, neue Office 365-Kunden mit 500 Arbeitsplätzen oder weniger werden Onboarded, die Microsoft-Teams und haben keinen Zugriff auf Skype für Business Online. Mandanten, die bereits Skype für eine Business Online dadurch weiterhin verwenden, bis der Vorgang abgeschlossen ihre Übergang zu Microsoft-Teams, Ja (einschließlich Bereitstellung neuer Benutzer).<br><sup>16</sup> enthält erweiterte Compliance, die die Advanced Data Governance, erweiterte eDiscovery, Kunden Lockbox, Kundenschlüssel, privilegierten Access Management und langfristig Audit Log Archivierungsfunktionen bereitstellt.
+<br><sup>15</sup> Microsoft Teams ist jetzt der primäre Client für Messaging, Besprechungen und Anrufe in Office 365. Ab dem 1. Okt. 2018 werden neue Office 365-Kunden mit 500 sitzen oder weniger in Microsoft Teams integriert und haben keinen Zugriff auf Skype for Business Online. Mandanten, die Skype for Business Online bereits verwenden, können so lange fortfahren (einschließlich der Bereitstellungneuer Benutzer), bis Sie den Übergang zu Microsoft Teams abgeschlossen haben.
+<br><sup>16</sup> umfasst erweiterte Compliance, die erweiterte Datensteuerung, erweiterte EDiscovery, Kunden-Lockbox, Kundenschlüssel, privilegierte Zugriffsverwaltung und langfristige Überwachungsprotokoll-Aufbewahrungsfunktionen bietet.
   
 #### <a name="basic-client-limitations"></a>Einschränkungen für Basisclients
 

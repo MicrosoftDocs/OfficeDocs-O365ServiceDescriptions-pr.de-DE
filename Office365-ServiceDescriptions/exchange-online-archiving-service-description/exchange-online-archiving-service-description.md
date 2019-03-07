@@ -1,7 +1,7 @@
 ---
 title: Beschreibung des Exchange Online-Archivierungsdiensts
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 02/14/2019
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online-Archivierung ist eine Cloud-basierte Microsoft Office 365-Archivierungslösung auf Unternehmensniveau für Organisationen, die Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 und höher) bereitgestellt haben. ) oder abonnieren bestimmter Exchange Online-oder Office 365-Pläne. Die Exchange Online-Archivierung unterstützt diese Organisationen bei Archivierungs-, Compliance-, regulatorischen und eDiscovery-Herausforderungen bei gleichzeitiger Vereinfachung der lokalen Infrastruktur, wodurch Kosten gesenkt und IT-Belastungen reduziert werden.
-ms.openlocfilehash: baf73ca4819f2970b3709cbce2f137483064e01a
-ms.sourcegitcommit: e71991e4ababa6e0aa6d9df0979105e45646da2e
+ms.openlocfilehash: 20c22a644e43377c6a8b28011412ff78f802f742
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30056645"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467092"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Beschreibung des Exchange Online-Archivierungsdiensts
 
@@ -43,11 +43,12 @@ Exchange Online-Archivierung steht über die folgenden Pläne zur Verfügung.
 |**Planen**|**Beschreibung**|
 |:-----|:-----|
 |**Exchange Online-Archivierung für Exchange Server** <br/> |Cloud-basiertes Archiv für Benutzer mit primären Postfächern in Exchange Server 2016, Exchange Server 2013 oder Exchange 2010 (SP2 oder höher).  <br/> Wenn Sie ein cloudbasiertes Archiv zu einem primären Postfach hinzufügen möchten, das sich auf einem lokalen Exchange-Server befindet, müssen Sie eine Hybridbereitstellung konfigurieren. Weitere Informationen zu Hybridbereitstellungen finden Sie unter [Hybridbereitstellungen in Exchange Server](https://technet.microsoft.com/library/jj200581%28v=exchg.150%29.aspx).  <br/> |
-|**Exchange Online-Archivierung für Exchange Server (über die Enterprise CAL-Suite)** <br/> |Cloud-basiertes Archiv für Benutzer mit primären Postfächern in Exchange Server 2016, Exchange Server 2013 oder Exchange 2010 (SP2 oder höher). Weitere Informationen finden Sie unter [Licensing Brief-Licensing The Core CAL Suite and the Enterprise CAL Suite](https://go.microsoft.com/fwlink/p/?LinkId=314160).<br/> |
+|**Exchange Online-Archivierung für Exchange Server (über die Enterprise CAL-Suite)** <br/> |Cloud-basiertes Archiv für Benutzer mit primären Postfächern in Exchange Server 2016, Exchange Server 2013 oder Exchange 2010 (SP2 oder höher). Details finden Sie unter [Licensing Brief - Licensing the Core CAL Suite and the Enterprise CAL Suite](https://go.microsoft.com/fwlink/p/?LinkId=314160).  <br/> |
 |**Exchange Online-Archivierung für Exchange Online** <br/> | Cloudbasiertes Archiv und In-Situ-Speicher als Zusatz für die folgenden Pläne: <sup>1, 2</sup>  <br/>  Exchange Online Plan 1  <br/>  Exchange Online-Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/>  <b>Hinweis:</b> Die folgenden Pläne schließen bereits die Archivierung ein und erfordern nicht die Exchange Online-Archivierung als Add-on: > Office 365 Education a1 > Office 365 Education a3 > Office 365 Education A5 > Office 365 Enterprise E3 > Office 365 Enterprise E5 > Exchange on Leitungs Plan 2 > Informationen zu den Archivierungsfunktionen von Exchange Online-Postfächern finden Sie unter Archivieren von [Postfächern in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).           |
    
 > [!NOTE]
-> <sup>1</sup> eine hybridbereitstellung ist für reine Cloud-Organisationen, in denen sich keine Postfächer auf einem lokalen Exchange-Server befinden, nicht erforderlich. Wenn jedoch lokale Postfächer vorhanden sind, ist eine hybridbereitstellung erforderlich.<br/> <sup>2</sup> Exchange Online-Plan 1 und Office 365 Business-Pläne weisen ein [Größenlimit für das Postfach und das Archiv auf](https://go.microsoft.com/fwlink/?LinkId=330039). Die Exchange Online-Archivierung für Exchange Online-Add-on ermöglicht unbegrenzte Cloud-basierte Archive und den [in-situ-Speicher und die Beweis](compliance-and-security-features.md#in-place-hold-and-litigation-hold)Sicherung.
+> <sup>1</sup> Organisationen, die lediglich über eine Cloud verfügen und bei denen keine Postfächer auf einem lokalen Exchange-Server vorhanden sind, benötigen keine Hybridbereitstellung. Wenn lokale Postfächer vorhanden sind, ist eine Hybridbereitstellung erforderlich.
+<br/> <sup>2</sup> Exchange Online Plan 1 und Office 365 Business-Pläne weisen eine [Größenbeschränkung für Postfächer und Archive auf](https://go.microsoft.com/fwlink/?LinkId=330039). Durch die Exchange Online-Archivierung wird Exchange Online um ein cloudbasiertes Archiv und [Compliance-Archiv und Aufbewahrung für eventuelle Rechtsstreitigkeiten](compliance-and-security-features.md#in-place-hold-and-litigation-hold) ergänzt, beides ohne Begrenzung.
   
 Sie benötigen Informationen zu allen Office 365-Plänen? Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Weitere Informationen über diese Pläne (einschließlich eigenständiger Pläne) sowie über den Wechsel von Plänen erhalten Sie unter [Optionen zum Office 365-Plan](../office-365-platform-service-description/office-365-plan-options.md).
   
@@ -58,7 +59,7 @@ Um die Exchange Online-Archivierung für Exchange Server verwenden zu können, m
   
 ### <a name="federated-identity-and-single-sign-on"></a>Identitätsverbund und einmaliges Anmelden
 
-Administratoren können sich bei lokalem Active Directory durch einmaliges Anmelden bei Office 365 authentifizieren. Zu diesem Zweck können Administratoren lokale Active Directory-Verbunddienste – einen Microsoft Windows Server® 2008-Dienst – konfigurieren, um einen Verbund mit dem Microsoft Federation Gateway herzustellen. Nachdem die Active Directory-Verbunddienste konfiguriert wurden, können sich alle Benutzer von Office 365, deren Identitäten auf der Verbunddomäne basieren, mit ihren vorhandenen Unternehmensanmeldeinformationen automatisch bei Office 365 authentifizieren.
+Administratoren können sich bei lokalem Active Directory durch einmaliges Anmelden bei Office 365 authentifizieren. Zu diesem Zweck können Administratoren lokale Active Directory-Verbunddienste - einen Microsoft Windows Server® 2008-Dienst - konfigurieren, um einen Verbund mit dem Microsoft Federation Gateway herzustellen. Nachdem die Active Directory-Verbunddienste konfiguriert wurden, können sich alle Benutzer von Office 365, deren Identitäten auf der Verbunddomäne basieren, mit ihren vorhandenen Unternehmensanmeldeinformationen automatisch bei Office 365 authentifizieren.
   
 ### <a name="user-subscriptions"></a>Benutzerabonnements
 
@@ -67,7 +68,7 @@ Jeder Benutzer, der auf den Exchange Online-Archivierung-Dienst zugreift, muss �
 ## <a name="unlimited-archive-storage-quota"></a>Unbegrenztes Archivspeicherkontingent
 <a name="bkmk_EOA_Plans"> </a>
 
- Die unbegrenzte Archivierungsfunktion in Office 365 (sogenannte automatische Archivierung) bietet eine unbegrenzte Menge an Speicherplatz in archivpostfächern. Die automatische Erweiterung der Archivierung wird nur in der Hybrid Konfiguration unterstützt, wenn sich das Postfach des Benutzers auf Exchange Server 2016 oder Exchange Server 2013 (SP1 oder höher) befindet. Jeder Exchange Online-Archivierungs Abonnent erhält zunächst 100 GB Speicherplatz im Archivpostfach. Wenn die automatische Erweiterung der Archivierung aktiviert ist, wird beim Erreichen der 100 GB-Speicherkapazität automatisch zusätzlicher Speicher hinzugefügt. Weitere Informationen finden Sie unter [Übersicht über unbegrenzte Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Details zur Verfügbarkeit finden Sie in der [Office 365-Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914) . 
+ Die unbegrenzte Archivierung in Office 365 (als automatisch erweiterte Archivierung bezeichnet) bietet unbegrenzten Speicherplatz in Archivpostfächern. Die automatische Erweiterung der Archivierung wird nur in der Hybrid Konfiguration unterstützt, wenn sich das Postfach des Benutzers auf Exchange Server 2016 oder Exchange Server 2013 (SP1 oder höher) befindet. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). 
   
 > [!IMPORTANT]
 > Administratoren können das Speicherkontingent nicht anpassen.
@@ -75,7 +76,7 @@ Jeder Benutzer, der auf den Exchange Online-Archivierung-Dienst zugreift, muss �
 > Die automatische Erweiterung der Archivierung wird für Postfächer, die sich auf Exchange Server 2010 befinden, nicht unterstützt.
   
 > [!IMPORTANT]
-> Das automatische Erweitern des Archivs wird nur für Postfächer unterstützt, die für einzelne Benutzer oder freigegebene Postfächer mit einer Wachstumsrate verwendet werden *, die 1&nbsp;GB pro Tag nicht überschreitet*. Das Verwenden von Journaling, Transportregeln oder Regeln für die automatische Weiterleitung zum Kopieren von Nachrichten in die Exchange Online-Archivierung zum Zwecke der Archivierung ist nicht zulässig. Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung in Fällen zu verweigern, in denen das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer verwendet wird. 
+> Das automatische Erweitern des Archivs wird nur für Postfächer unterstützt, die für einzelne Benutzer oder freigegebene Postfächer mit einer Wachstumsrate verwendet werden *, die 1&nbsp;GB pro Tag nicht überschreitet*. Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung zu Exchange Online-Archivierung zu kopieren. Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung dann zu verweigern, wenn das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer verwendet wird. 
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Verfügbarkeit von Features in Exchange Online-Archivierungsplänen
 <a name="bkmk_EOA_Plans"> </a>
@@ -106,6 +107,8 @@ Jeder Benutzer, der auf den Exchange Online-Archivierung-Dienst zugreift, muss �
    
 
 > <sup>1</sup> Benutzerpostfächer müssen sich auf Exchange 2010 SP2 oder höher befinden.
- <br/><sup>2</sup> ein in-Place-Archiv kann nur zum Archivieren von e-Mails für einen einzelnen Benutzer oder eine Entität verwendet werden, für die eine Lizenz angewendet wurde. Das Verwenden eines in-Place-Archivs als Möglichkeit zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist unzulässig. Beispielsweise können IT-Administratoren keine freigegebenen Postfächer erstellen und Benutzer (über das Feld "CC" oder "Bcc" oder über eine Transportregel) ein freigegebenes Postfach zum expliziten Zwecke der Archivierung kopieren lassen. <br/> <sup>3</sup> eine Liste unterstützter Microsoft Outlook-Versionen finden Sie unter [Client Features in Exchange Online Archiving](client-features.md). 
- <br/><sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 proPlus, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. <br/><sup>5</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterSTÜTZTen IRM-Funktionen zu aktivieren. 
+ <br/><sup>2</sup> ein in-Place-Archiv kann nur zum Archivieren von e-Mails für einen einzelnen Benutzer oder eine Entität verwendet werden, für die eine Lizenz angewendet wurde. Das Verwenden eines in-Place-Archivs als Möglichkeit zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist unzulässig. Beispielsweise können IT-Administratoren keine freigegebenen Postfächer erstellen und Benutzer (über das Feld "CC" oder "Bcc" oder über eine Transportregel) ein freigegebenes Postfach zum expliziten Zwecke der Archivierung kopieren lassen. 
+ <br/> <sup>3</sup> eine Liste unterstützter Microsoft Outlook-Versionen finden Sie unter [Client Features in Exchange Online Archiving](client-features.md). 
+ <br/><sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. 
+ <br/><sup>5</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterSTÜTZTen IRM-Funktionen zu aktivieren. 
  <br/><sup>6</sup> Wenn Sie ein Postfach in einem in-situ-Aufbewahrungs-oder Gerichtsverfahren halten, wird der Haltebereich sowohl auf das primäre als auch auf das Archivpostfach gesetzt. 

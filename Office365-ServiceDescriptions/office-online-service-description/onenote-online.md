@@ -1,7 +1,7 @@
 ---
 title: OneNote Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,24 +14,24 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Verwenden Sie OneNote Online (früher OneNote Web App) online in einem OneNote-Notizbuch Notizen, die Sie von einer beliebigen Stelle hinzugefügt und auf einfache Weise für andere Personen freigeben können. Alle Office 365-Kunden können anzeigen und bearbeiten geringem Umfang Office-Dateien mit Office Online.
-ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
-ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
+description: Verwenden Sie OneNote Online (früher OneNote Web App), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von einem beliebigen Ort aus hinzufügen und problemlos für andere freigeben können. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten.
+ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "29612748"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467022"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
-Verwenden Sie OneNote Online (früher OneNote Web App) online in einem OneNote-Notizbuch Notizen, die Sie von einer beliebigen Stelle hinzugefügt und auf einfache Weise für andere Personen freigeben können. Alle Office 365-Kunden können anzeigen und bearbeiten geringem Umfang Office-Dateien mit Office Online. 
+Verwenden Sie OneNote Online (früher OneNote Web App), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von einem beliebigen Ort aus hinzufügen und problemlos für andere freigeben können. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten. 
   
-## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Erweiterte Zusammenarbeit: Neuer Inhalt wird als ungelesen angezeigt, Anwesenheit
+## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 <a name="bkmk_AdvancedCollaboration"> </a>
 
 Nicht verfügbar in OneNote Online. Mit der OneNote-Desktop-App können Sie andere Autoren mithilfe der integrierten Profile in OneNote einfacher identifizieren und authentifizieren. Sie können Notizbuchänderungen nach dem Namen von Autoren suchen und alle aktuellen Bearbeitungen anzeigen, wenn Sie zu einem freigegebenen Notizbuch zurückkehren.
   
-## <a name="apply-tags"></a>Anwenden von Tags
+## <a name="apply-tags"></a>Apply tags
 <a name="bkmk_Tags"> </a>
 
 Mit OneNote Online können Sie unterschiedliche Tags auf Notizen anwenden, um sie unkompliziert zu organisieren und nachzuverfolgen. So können Sie beispielsweise Notizen als Fragen, Aufgaben oder Kontaktinformationen kennzeichnen. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
@@ -41,12 +41,12 @@ Mit OneNote Online können Sie unterschiedliche Tags auf Notizen anwenden, um si
 
 OneNote Online unterstützt nur Inhalts-Add-Ins für Office. Inhalts-Add-Ins integrieren webbasierte Features als Inhalt, der eingebettet in ein Dokument angezeigt werden kann. Weitere Informationen zu den verschiedenen Typen von Add-Ins für Office finden Sie in dieser [Übersicht](https://go.microsoft.com/fwlink/p/?LinkId=282310).
   
-## <a name="audio-notes-recording"></a>Aufzeichnen von Audionotizen
+## <a name="audio-notes-recording"></a>Audio notes recording
 <a name="bkmk_AudioVideoLinked"> </a>
 
 Nicht verfügbar in OneNote Online. Mit der OneNote-Desktop-App können Sie direkt mit während der Aufzeichnung verfassten Textnotizen verknüpfte Audio- und Videonotizen aufzeichnen. OneNote Online gibt keinen Audio- und Videoinhalt wieder, aber das Medium bleibt im Notizbuch erhalten, und Sie haben die Möglichkeit, Audio- und Videodateien zur Wiedergabe auf Ihren Computer herunterzuladen. 
   
-## <a name="bullets-and-numbering"></a>Aufzählungszeichen und Nummerierung
+## <a name="bullets-and-numbering"></a>Aufzählung und Nummerierung
 <a name="bkmk_BulletsNumbering"> </a>
 
 In OneNote Online haben Sie die Wahl zwischen drei Formatvorlagen für Aufzählungszeichen und fünf Formatvorlagen für Nummerierungen. Verwenden Sie die Schaltflächen „Einzug vergrößern" und „Einzug verkleinern", um die Listenebene für bereits vorhandene Aufzählungen und nummerierte Listen in einem Notizbuch sowie für in OneNote Online erstellte Aufzählungen und Nummerierungen zu ändern. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
@@ -56,22 +56,22 @@ In OneNote Online haben Sie die Wahl zwischen drei Formatvorlagen für Aufzählu
 
 Mit OneNote Online können Sie Notizbuchinhalte ausschneiden, kopieren und einfügen. Sie können Text aus OneNote Online kopieren und in der OneNote-Desktop-App einfügen und umgekehrt. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="clipping-experiences"></a>Funktionen zum Erstellen von Ausschnitten
+## <a name="clipping-experiences"></a>Clipping experiences
 <a name="bkmk_ClippingExperiences"> </a>
 
 Nicht verfügbar in OneNote Online. Mit der OneNote-Desktop-App können Sie alles ausschneiden, was Sie auf Ihrem Bildschirm sehen, eine Webseite oder ein ganzes Dokument an einen Notizbuchabschnitt senden oder schnelle Notizen erstellen, die automatisch gespeichert und als Teil Ihres Notizbuchs abgelegt werden.
   
-## <a name="co-authoring"></a>Gemeinsame Erstellung
+## <a name="co-authoring"></a>Gemeinsame Dokumenterstellung
 <a name="bkmk_Coauthoring"> </a>
 
 Mit OneNote Online können Sie Notizbücher gleichzeitig mit Benutzern an anderen Orten bearbeiten, die OneNote Online oder die OneNote-Desktop-App verwenden. Erfahren Sie mehr über die [Zusammenarbeit an einem OneNote-Notizbuch](https://go.microsoft.com/fwlink/p/?LinkId=272945).
   
-## <a name="create-and-manage-pages-and-sections"></a>Erstellen und Verwalten von Seiten und Abschnitten
+## <a name="create-and-manage-pages-and-sections"></a>Create and manage pages and sections
 <a name="bkmk_CreateManagePagesSections"> </a>
 
 Mit OneNote Online können Sie einem neuen oder vorhandenen Notizbuch ganz einfach Inhalte hinzufügen, indem Sie in Abschnitten neue Seiten oder in Notizbüchern neue Abschnitte erstellen. Seiten und Abschnitte können angepasst, formatiert und in andere Notizbücher verschoben oder kopiert werden. Erfahren Sie mehr über die [Verwendung eines OneNote Online-Notizbuchs](https://go.microsoft.com/fwlink/p/?LinkId=272945).
   
-## <a name="download-copy-of-embedded-office-files"></a>Herunterladen einer Kopie eingebetteter Office-Dateien
+## <a name="download-copy-of-embedded-office-files"></a>Download copy of embedded Office files
 <a name="bkmk_DownloadCopyEmbeddedOfficeFiles"> </a>
 
 Mit OneNote Online können Sie Office-Dateien als Anlagen oder Ausdrucke einfügen, um sie als Bestandteil des Notizbuchs zu speichern. Die OneNote 2013-Desktop-App ermöglicht das Einbetten von Excel-Tabellen und Visio-Zeichnungen in Ihre Notizen. Erfahren Sie mehr über das [Einbetten von Microsoft Office-Dateien in OneNote](https://go.microsoft.com/fwlink/p/?LinkId=271843).
@@ -91,22 +91,22 @@ Mit OneNote Online können Sie eingebettete Dateien zum Öffnen auf Ihren Comput
 
 Nicht verfügbar in OneNote Online. Mit der OneNote-Desktop-App können Sie während einer Besprechung, einer Konferenz oder eines Kurses mathematische Formeln notieren, woraufhin OneNote sofort das Ergebnis für Sie berechnen kann.
   
-## <a name="hyperlinks"></a>Links
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_hyperlinks"> </a>
 
 Mit OneNote Online können Sie einen Link zu einer Webadresse einfügen oder markierten Text als Link kennzeichnen. Sie können auch mit der rechten Maustaste auf ein Seitenregister klicken, um einen direkten Link zu dieser Seite zu kopieren. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="image-optical-character-recognition-ocr"></a>Optische Zeichenerkennung
+## <a name="image-optical-character-recognition-ocr"></a>Image optical character recognition (OCR)
 <a name="bkmk_ImageOCR"> </a>
 
 Nicht verfügbar in OneNote Online. Die optische Zeichenerkennung (OCR) überträgt Bilder von Text, z. B. gescannte Dokumente, in Textzeichen. Diese Funktion ist nur in der OneNote-Desktop-App verfügbar. 
   
-## <a name="ink-viewing"></a>Anzeigen von Freihandobjekten
+## <a name="ink-viewing"></a>Ink viewing
 <a name="bkmk_InkViewing"> </a>
 
 In OneDrive zeigt OneNote Online Freihandobjekte an, Formeln werden jedoch als Platzhalter angezeigt. In SharePoint werden Freihandobjekte angezeigt, Formeln werden als Platzhalter angezeigt, und Formen werden ausgeblendet. Diese können nicht in OneNote Online eingefügt oder bearbeitet werden. In OneDrive können Sie Formen, Freihandobjekte und Formelplatzhalter auswählen und löschen. In SharePoint können Sie Platzhalter für diese Objekte auswählen und löschen.
   
-## <a name="inking-ink-to-text-and-math-customizable-pens-drawing-tools"></a>Freihand: Freihand-in-Text und Mathe, anpassbare Stifte, Zeichentools
+## <a name="inking-ink-to-text-and-math-customizable-pens-drawing-tools"></a>Inking: ink-to-text and math, customizable pens, drawing tools
 <a name="bkmk_Inking"> </a>
 
 Nicht verfügbar in OneNote Online. Mit der OneNote-Desktop-App können Sie mit dem Finger, dem Eingabestift oder mit der Maus zeichnen, löschen und bearbeiten. Wenn Sie das Schreiben dem Eingeben vorziehen, kann OneNote Ihre Handschrift konvertieren. Wenn Sie ein Notizbuch in einer SharePoint-Dokumentbibliothek öffnen, werden die Formeln und Freihandobjekte im Notizbuch als Platzhalter angezeigt. 
@@ -121,18 +121,18 @@ Die Möglichkeit, Notizen mit Dateien zu verknüpfen, ist in OneNote Online nich
 
 Mit OneNote Online können Sie die browserähnlichen Schaltflächen zum Zurück- und Weiterblättern auf der Symbolleiste für den Schnellzugriff verwenden, um schnell zwischen Seiten zu wechseln.
   
-## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Notizbuchverwaltung: Abschnitt-/notizbuchübergreifende Seitenablage, Neuordnung von Abschnitten, Erstellen/Löschen von Abschnittsgruppen
+## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Notebook management: Cross section/notebook page filing, section re-order, create/delete section groups
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-Mit OneNote Online können Sie per Ziehen und Ablegen neu anordnen Seiten und Abschnitten.  
-Erweiterte Managementfunktionen, wie das Erstellen, stehen löschen und neu anordnen Abschnittsgruppen nur in der OneNote-desktop-app.
+Mit OneNote Online können Sie Seiten und Abschnitte per Drag & Drop neu anordnen.  
+Erweiterte Verwaltungsfunktionen wie das Erstellen, löschen und erneute Sortieren von Abschnittsgruppen sind nur in der OneNote-Desktop-App verfügbar.
   
 ## <a name="offline-viewing-and-authoring"></a>Offlineansicht und -erstellung
 <a name="bkmk_Offlineviewing"> </a>
 
 Nicht verfügbar in OneNote Online. Für Office Online sind eine Internetverbindung und ein Webbrowser erforderlich. Sie müssen auf Ihrem Computer die OneNote-Desktop-App installiert haben, um ein Dokument anzeigen und bearbeiten zu können, während keine Verbindung mit Office Web Apps Server oder dem Internet besteht.
   
-## <a name="outlook-integration-tasks"></a>Outlook-Integration (Aufgaben)
+## <a name="outlook-integration-tasks"></a>Outlook integration (tasks)
 <a name="bkmk_OutlookIntegration"> </a>
 
 OneNote Online unterstützt keine Befehle, die in Microsoft Outlook funktionieren, z. B. für die E-Mail-Seite, Outlook-Aufgaben oder Besprechungsdetails.
@@ -162,12 +162,12 @@ OneNote Online überprüft während der Benutzereingabe automatisch die Rechtsch
 
 OneNote Online zeigt Notizbücher an, die mit der Verwaltung von Informationsrechten geschützt sind (Information Rights Management, IRM). Diese Notizbücher können allerdings nicht im Browser bearbeitet werden, und Sie können IRM-geschützte Notizbücher nicht in OneNote Online erstellen. OneNote Online kann Dokumente nicht öffnen, die mit einem Kennwort verschlüsselt sind. Erweitere Funktionen für den Dokumentschutz, z. B. das Erstellen IRM-geschützter Notizbücher und das Anwenden von Kennwortschutz, sind nur in der OneNote-Desktop-App verfügbar.
   
-## <a name="search-on-page-within-sections"></a>Suchen (auf Seite, innerhalb von Abschnitten)
+## <a name="search-on-page-within-sections"></a>Search (on page, within sections)
 <a name="bkmk_SectionsOnpage"> </a>
 
 Mit OneNote Online können Sie mithilfe der Sofortsuche alles finden, was Sie jemals in OneNote erstellt oder gespeichert haben. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="search-by-tag-title-authordate-audio-notes"></a>Suche nach: Tag, Titel, Autor/Datum, Audionotizen
+## <a name="search-by-tag-title-authordate-audio-notes"></a>Search by: tag, title, author/date, audio notes
 <a name="bkmk_SearchTags"> </a>
 
 Nicht verfügbar in OneNote Online. Erweiterte Suchfunktionen, z. B. zum Suchen nach Tag, Titel, Autor/Datum und Audiodatei, sind nur in der OneNote-Desktop-App verfügbar.
@@ -177,7 +177,7 @@ Nicht verfügbar in OneNote Online. Erweiterte Suchfunktionen, z. B. zum Suchen 
 
 Wenn Sie Ihr OneNote-Notizbuch in einer SharePoint-Dokumentbibliothek gespeichert haben, ist Ihr OneNote-Notizbuch online. Dies bedeutet, dass Sie es für andere freigeben können, indem Sie den betreffenden Personen statt einer E-Mail-Anlage einen Link zu dem Notizbuch senden. Durch Klicken auf den Link können diese dann Ihre Notizen im Webbrowser anzeigen. Erfahren Sie mehr über die [gemeinsame Onlinenutzung von OneNote-Notizen](https://go.microsoft.com/fwlink/p/?LinkID=272945).
   
-## <a name="show-or-hide-authors"></a>Ein- oder Ausblenden von Autoren
+## <a name="show-or-hide-authors"></a>Show or hide authors
 <a name="bkmk_ShowHideAuthors"> </a>
 
 Mit OneNote Online können Sie die Autorentags deaktivieren, die angezeigt werden, wenn ein Notizbuch bearbeitet wird. Dadurch werden die Initialen entfernt, die neben neuen Notizen auf einer Seite angezeigt werden. Autorentags sind standardmäßig aktiviert.
@@ -192,7 +192,7 @@ Mit OneNote Online können Sie zur Schnellformatierung ganz einfach Textformatvo
 
 Mit OneNote Online können Sie eine Tabelle einfügen, Tabellentext bearbeiten und die grundlegende Tabellenstruktur einfach bearbeiten, beispielsweise durch Hinzufügen oder Löschen von Zeilen und Spalten. Für erweiterte Tabellenfunktionen wie die Konvertierung von Tabellen in Excel-Tabellen, die Schattierung von Zellen, Kopfzeilen oder die Sortierung von Daten in Tabellenzellen müssen Sie die OneNote-Desktop-App verwenden. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="template-support"></a>Vorlagenunterstützung
+## <a name="template-support"></a>Template support
 <a name="bkmk_TemplateSupport"> </a>
 
 Nicht verfügbar in OneNote Online. Mit der OneNote-Desktop-App können Sie eine Vorlage als Seitenentwurf verwenden, der auf neue Seiten in Ihrem Notizbuch angewendet werden kann, um ihnen einen ansprechenden Hintergrund oder ein einheitlicheres Aussehen oder Layout zu verleihen.
@@ -202,12 +202,12 @@ Nicht verfügbar in OneNote Online. Mit der OneNote-Desktop-App können Sie eine
 
 Mithilfe Ihrer Tastatur können Sie für jede Seite, die im aktiven Notizbuch in OneNote Online bearbeitet wird, aktuelle Aktionen rückgängig machen (STRG+Z) oder wiederholen (ALT+F7). OneNote Online stellt Ihnen für jede bearbeitete Seite im aktiven Notizbuch einen separaten Verlauf rückgängig gemachter Vorgänge zur Verfügung. Sie können eine unbegrenzte Anzahl von Aktionen pro Seite in der jeweils aktuellen Bearbeitungssitzung rückgängig machen, und zwar bis ein Bild eingefügt oder eine Bearbeitung durch einen anderen Autor empfangen wird. Das Verschieben und Löschen von Seiten kann nicht rückgängig gemacht werden. Erfahren Sie mehr über [Tastenkombinationen in OneNote Online](https://go.microsoft.com/fwlink/p/?LinkId=272944).
   
-## <a name="video-playback"></a>Videowiedergabe
+## <a name="video-playback"></a>Video playback
 <a name="bkmk_Videoplayback"> </a>
 
 Videonotizen bleiben in Notizen erhalten, können in OneNote Online aber nicht aufgezeichnet werden. Sie können Videodateien auf Ihren Computer herunterladen und dort wiedergeben. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="view-previous-page-versions"></a>Anzeigen früherer Seitenversionen
+## <a name="view-previous-page-versions"></a>View previous page versions
 <a name="bkmk_Viewpreviouspage"> </a>
 
 Mit OneNote Online können Sie frühere Versionen einer Seite einschließlich Autor und Erstellungsdatum anzeigen und wiederherstellen. Änderungen gegenüber früheren Versionen einer Seite werden automatisch hervorgehoben. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).

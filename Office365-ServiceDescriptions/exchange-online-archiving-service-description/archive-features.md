@@ -1,7 +1,7 @@
 ---
 title: Archivfunktionen in der Exchange Online-Archivierung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: Die folgenden Abschnitte beschreiben die Archivfunktionen von Microsoft Exchange Online-Archivierung.
-ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: In den folgenden Abschnitten werden die Archivfunktionen von Microsoft Exchange Online-Archivierung beschrieben.
+ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215350"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467202"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Archivfunktionen in der Exchange Online-Archivierung
 
-Die folgenden Abschnitte beschreiben die Archivfunktionen von Microsoft Exchange Online-Archivierung.
+In den folgenden Abschnitten werden die Archivfunktionen von Microsoft Exchange Online-Archivierung beschrieben.
   
 ## <a name="archive-mailbox"></a>Archivpostfach
 
@@ -37,7 +37,7 @@ Administratoren können die Archivfunktion mithilfe des Exchange Admin Center (E
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Verschieben von Nachrichten zur Exchange Online-Archivierung
 
-Benutzer können ziehen und Ablegen von Nachrichten aus PST-Dateien in das Archiv, für den einfachen Zugriff online. Benutzer können auch e-Mail-Elemente aus dem Hauptpostfach in das Archivpostfach automatisch verschieben verringern Sie die Größe und Verbessern der Leistung von dem Hauptpostfach mithilfe Archiv-Richtlinien. Während dieses Verhalten von Exchange Hosted Archive, um eine sekundäre Kopie jeder Nachricht in das Archiv erstellen unterscheidet, können in beiden Fällen Aufbewahrungspflichten erzielt werden. 
+Benutzer können Nachrichten für einfachen Onlinezugriff aus PST-Dateien per Drag & Drop in das Archiv verschieben. Users can also move email items from the primary mailbox to the archive mailbox automatically, using Archive Polices, to reduce the size and improve the performance of the primary mailbox. While this behavior is different than Exchange Hosted Archive, which will create a secondary copy of each message in the archive, retention requirements can be achieved in either scenario. 
   
 ### <a name="import-data-to-the-archive"></a>Importieren von Daten in das Archiv
 
@@ -74,7 +74,7 @@ Wenn Administratoren Benutzer auf dem lokalen Exchange Server löschen, werden a
   
 ## <a name="mailbox-service-redundancy"></a>Redundanz von Postfachdiensten
 
-Archivpostfächer in Exchange Online-Archivierung werden auf mehreren Datenbankkopien in geografisch verteilten Microsoft-Rechenzentren, um Daten Wiederherstellung Funktionen im Fall eines messaging Infrastruktur-Ausfalls bereitzustellen repliziert. Business Continuity Management wird für umfangreiche Fehlern initiiert. 
+Archivpostfächer in Exchange Online-Archivierung werden in mehreren Datenbankkopien in geografisch verteilten Microsoft-Datencentern repliziert, um eine Datenwiederherstellung zu ermöglichen, falls eine Nachrichteninfrastruktur ausfällt. Bei umfangreicheren Ausfällen wird Geschäftskontinuitätsmanagement initiiert. 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

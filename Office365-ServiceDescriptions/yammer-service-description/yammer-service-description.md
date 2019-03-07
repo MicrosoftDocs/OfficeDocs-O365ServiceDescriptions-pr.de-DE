@@ -1,7 +1,7 @@
 ---
 title: Beschreibung des Yammer-Dienstes
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer ist eine-beste, sicheren und privaten Unternehmensnetzwerk für soziale Netzwerke. Yammer kann Mitarbeiter die werden mehr produktiv und erfolgreich durch ermöglicht es ihnen, die zusammenarbeiten und schneller Entscheidungen treffen Self in Teams organisieren, die auf eine beliebige Herausforderung angewendet werden. Es ist eine neue Art zu arbeiten, natürlich Laufwerke Business Ausrichtung und Flexibilität, die Zyklen und Mitarbeiter beauftragt, und verbessert die Beziehungen mit Kunden und Partnern.
-ms.openlocfilehash: 7feac0f0b107a159dd7d0545632815ec24679040
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: 'Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.'
+ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035761"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467152"
 ---
 # <a name="yammer-service-description"></a>Beschreibung des Yammer-Dienstes
 
-Yammer ist eine-beste, sicheren und privaten Unternehmensnetzwerk für soziale Netzwerke. Yammer kann Mitarbeiter die werden mehr produktiv und erfolgreich durch ermöglicht es ihnen, die zusammenarbeiten und schneller Entscheidungen treffen Self in Teams organisieren, die auf eine beliebige Herausforderung angewendet werden. Es ist eine neue Art zu arbeiten, natürlich Laufwerke Business Ausrichtung und Flexibilität, die Zyklen und Mitarbeiter beauftragt, und verbessert die Beziehungen mit Kunden und Partnern.
+Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.
   
 Eine Liste der Office 365-Pläne, die Yammer einschließen, finden Sie unter [Office 365-Dienstfamilien und -Pläne](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
@@ -50,7 +50,7 @@ Yammer ist in den folgenden Plänen verfügbar:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Kommunikationsrichtlinien für den Yammer Enterprise-Dienst
 <a name="YammerCommsPolicy"> </a>
 
-Yammer ist ein Teil von Office 365 und entspricht den die [Richtlinie zur Verwaltung von Office 365 ändern](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), aber gezielte Version wird nicht zum Rollout Updates verwendet. 
+Jammern ist ein Teil von Office 365 und hält sich an die [office 365 Change Management Policy](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), verwendet jedoch nicht die Zielfreigabe für die Einführung von Updates. 
   
 Mit allen Yammer-Benutzern werden A/B-Featuretests durchgeführt. Dies ermöglicht es Microsoft, Features in vielen Umgebungen und auf unterschiedlichen Geräten auf Stabilität, Leistung und verbesserte Benutzerfreundlichkeit zu testen. Aufgrund der Tests haben unter Umständen Benutzer im gleichen Netzwerk unterschiedliche Benutzererfahrungen. Kunden haben nicht die Möglichkeit, A/B-Tests abzuwählen.
   

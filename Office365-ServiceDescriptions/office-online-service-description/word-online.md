@@ -1,7 +1,7 @@
 ---
 title: Word Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word Online (vormals Word Web App) erweitert Ihre Erfahrung Microsoft Word an den Webbrowser, in dem können Sie Dokumente direkt auf der Website entwickelt, auf dem das Dokument gespeichert ist.
-ms.openlocfilehash: fabe2049a8b35666a6bb608c3198ac68473ffca2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Word Online (ehemals Word Web App) erweitert Ihre Microsoft Word-Benutzeroberfläche in den Webbrowser, in dem Sie Dokumente direkt auf der Website bearbeiten können, auf der das Dokument gespeichert ist.
+ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035775"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467302"
 ---
 # <a name="word-online"></a>Word Online
 
-Word Online (vormals Word Web App) erweitert Ihre Erfahrung Microsoft Word an den Webbrowser, in dem können Sie Dokumente direkt auf der Website entwickelt, auf dem das Dokument gespeichert ist. 
+Word Online (ehemals Word Web App) erweitert Ihre Microsoft Word-Benutzeroberfläche in den Webbrowser, in dem Sie Dokumente direkt auf der Website bearbeiten können, auf der das Dokument gespeichert ist. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Hilfslinien und Echtzeitlayout
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -41,7 +41,7 @@ Die Absatz- und Zeichenformatvorlagen, die in einem Dokument gespeichert sind, k
 
 Sie können im Office Store Add-Ins für Word erwerben. Office-Add-Ins können nur in der Word-Desktop-App verwendet werden und sind in Word Online nicht verfügbar. Informationen zum Abrufen eines Add-Ins für Word finden Sie [hier](https://go.microsoft.com/fwlink/?LinkId=391443).
   
-## <a name="autosave"></a>Automatisches Speichern
+## <a name="autosave"></a>Autosave
 <a name="bkmk_Save"> </a>
 
 Word Online speichert Ihr Dokument automatisch, wenn Sie Änderungen vornehmen.
@@ -56,7 +56,7 @@ Mithilfe von AutoText können Sie aus dem AutoText-Katalog Bausteine aus vorform
 
 Nicht verfügbar in Word Online. Erweiterte Designfeatures, z. B. zum Erstellen von Dokumenten auf Grundlage einer der zahlreichen professionell gestalteten Vorlagen von Office.com, sind nur in der Word-Desktop-App verfügbar. Office 365-Kunden können eine Dokumentbibliothek allerdings so konfigurieren, dass eine benutzerdefinierte Vorlage gestartet wird, wenn ein Benutzer ein neues Dokument erstellt. Weitere Informationen finden Sie unter [Hinzufügen eines Inhaltstyps zu einer Liste oder Bibliothek](https://go.microsoft.com/fwlink/p/?LinkId=391446).
   
-## <a name="bullets-and-numbering"></a>Aufzählungszeichen und Nummerierung
+## <a name="bullets-and-numbering"></a>Aufzählung und Nummerierung
 <a name="bkmk_BulletsNumbering"> </a>
 
 In Word Online haben Sie die Wahl zwischen drei Formatvorlagen für Aufzählungszeichen und fünf Formatvorlagen für Nummerierungen. Klicken Sie auf die Schaltflächen "Einzug vergrößern" und "Einzug verkleinern", um die Listenebene für vorhandene Aufzählungen und nummerierte Listen im Dokument sowie für in der Word-Desktop-App erstellte Aufzählungen und Nummerierungen zu ändern. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Dokuments im Browser und in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
@@ -146,12 +146,12 @@ Sie können Voreinstellungen verwenden, um Spezialeffekte, wie z. B. Drehung, Sc
 
 Sie können sowohl in Word Online als auch in der Word-Desktop-App eine Kopfzeile und eine Fußzeile in Dokumente einfügen. Sie haben auch die Möglichkeit, Kopf- und Fußzeilen auf alle Seiten außer die erste Seite eines Dokuments anzuwenden. Weitere Informationen zur Verwendung von Kopf- und Fußzeilen in Word Online finden Sie unter [Neuerungen in Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
   
-## <a name="hyperlinks"></a>Links
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 Mit Word Online können Sie ganz einfach Links zu Lesezeichen in einem Dokument erstellen und eine QuickInfo festlegen, die angezeigt wird, wenn der Cursor auf den Link zeigt. Erfahren Sie mehr über [Links in Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271863).
   
-## <a name="index"></a>Index
+## <a name="index"></a>Index 
 <a name="bkmk_index"> </a>
 
 Ein Index enthält die Begriffe und Themen, die in einem Dokument erläutert werden, zusammen mit den Seiten, auf denen diese angezeigt werden. Um einen Index zu erstellen, markieren Sie die Indexeinträge, indem Sie den Namen des Haupteintrags und den Querverweis in Ihrem Dokument bereitstellen und dann den Index erstellen.
@@ -159,7 +159,7 @@ Ein Index enthält die Begriffe und Themen, die in einem Dokument erläutert wer
 ## <a name="ink-editor"></a>Freihand-Editor
 <a name="BKMK_InkEditor"> </a>
 
-Ink-Editor können Sie zum Bearbeiten und Formatieren von Dokumenten mithilfe von Text auswählen und zum Löschen von Text Durchstreichen natürliche Gesten wie sein.
+Mit dem frei Hand Editor können Sie Dokumente mit natürlichen Gesten wie Kreisen bearbeiten und formatieren, um Text auszuwählen und um Text zu löschen.
   
 ## <a name="insert-online-pictures"></a>Einfügen von Onlinebildern
 <a name="bkmk_InsertPicturessClipArt"> </a>
@@ -174,7 +174,7 @@ Word Online zeigt Dokumente an, die mit der Verwaltung von Informationsrechten g
 ## <a name="learning-tools"></a>Lerntools
 <a name="BKMK_LearningTools"> </a>
 
-Lerntools wurden entwickelt, mit denen Sie Ihre Kenntnisse Lesebereich verbessern, indem Sie steigert die Kontrolle über Wörter richtig ausgesprochen, schnell und einfach zu lesen und verstehen, was Sie gelesen. 
+Lern Tools sollen Ihnen dabei helfen, ihre Lesekompetenz zu verbessern, indem Sie Ihre Fähigkeit erhöhen, Wörter richtig auszusprechen, schnell und genau zu lesen und zu verstehen, was Sie lesen. 
   
 ## <a name="lists"></a>Listen
 <a name="BKMK_Lists_WordOnline"> </a>
@@ -256,7 +256,7 @@ Nicht verfügbar in Word Online. Erweitere Korrekturhilfen, z. B. zum Hinzufüge
 ## <a name="real-time-co-authoring"></a>Gemeinsame Dokumenterstellung in Echtzeit
 <a name="bkmk_Coauthoring"> </a>
 
-Mehr als einer Person kann gleichzeitig in einem Dokument arbeiten. In Word Online und Word 2016 kann in Echtzeit Anwesenheit Sie sehen, in denen die Mitautoren im Dokument arbeiten werden, damit Sie Konflikte erstellen nicht, wie Sie bearbeiten, und Sie können Änderungen sehen, wie sind vorgenommen wird. Word 2013 unterstützt Gleichzeitiges bearbeiten, aber es sind keine Präsenzinformationen vorhanden, und Änderungen können von mehreren Autoren erst Speichern des Dokuments angezeigt werden. Weitere Informationen zur gemeinsamen dokumenterstellung in Echtzeit finden Sie unter [Was ist neu in Word Online](https://go.microsoft.com/fwlink/?LinkId=389520) und [Zusammenarbeit in Word-Dokumenten mit gemeinsame dokumenterstellung in Echtzeit](https://go.microsoft.com/fwlink/?linkid=798760).
+Mehrere Personen können gleichzeitig in einem Dokument arbeiten. In Word Online und Word 2016 hilft Ihnen die Echt Zeit Präsenz dabei, zu sehen, wo Ihre Mitverfasser im Dokument arbeiten, damit Sie beim Bearbeiten keine Konflikte erstellen, und Sie können Änderungen sehen, während Sie vorgenommen werden. Word 2013 unterstützt Gleichzeitiges Bearbeiten, aber es gibt keine Anwesenheitsanzeige, und Änderungen können von mehreren Autoren erst angezeigt werden, wenn das Dokument gespeichert ist. Weitere Informationen zur gemeinsamen Erstellung in Echtzeit finden Sie unter [What es New in Word Online](https://go.microsoft.com/fwlink/?LinkId=389520) und Zusammenarbeit [an Word-Dokumenten mit der gemeinsamen Dokumenterstellung in Echtzeit](https://go.microsoft.com/fwlink/?linkid=798760).
   
 ## <a name="reference-tools"></a>Referenztools
 <a name="bkmk_ReferenceTools"> </a>
@@ -271,7 +271,7 @@ Sie können Textfelder und Formen einfügen und dann schnell die Farbe des Texts
 ## <a name="researcher"></a>Recherche
 <a name="BKMK_Researcher"> </a>
 
-Interviewer hilft Ihnen suchen und integrieren Sie zuverlässigen Quellen und Inhalte für das Dokument. Interviewer verwendet Bing in die entsprechenden Inhalte aus dem Internet abrufen. Weitere Informationen finden Sie unter [Research für Ihre Papier auf einfache Weise in Word](https://go.microsoft.com/fwlink/?linkid=839490).
+Forscher helfen Ihnen dabei, zuverlässige Quellen und Inhalte für Ihr Dokument zu finden und zu integrieren. Der Forscher verwendet Bing, um die entsprechenden Inhalte aus dem Web zu ziehen. Weitere Informationen finden Sie unter [Recherchieren Ihres Papiers innerhalb von Word](https://go.microsoft.com/fwlink/?linkid=839490).
   
 ## <a name="rich-media"></a>Rich-Media
 <a name="bkmk_RichMedia"> </a>

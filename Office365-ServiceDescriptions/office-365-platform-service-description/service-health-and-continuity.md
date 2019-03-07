@@ -1,7 +1,7 @@
 ---
 title: Dienststatus und Verfügbarkeit
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und erfahren Sie, ob Wartung geplant ist. Dienst Integritätsinformationen ist jederzeit nach der Anmeldung an Office 365 verfügbar.
-ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
-ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
+description: Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und herausfinden, wann Wartungsarbeiten geplant sind. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
+ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/13/2018
-ms.locfileid: "27258737"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466952"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
-Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und erfahren Sie, ob Wartung geplant ist. Dienst Integritätsinformationen ist jederzeit nach der Anmeldung an Office 365 verfügbar.
+Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und herausfinden, wann Wartungsarbeiten geplant sind. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
   
 > [!NOTE]
 > Bei Verwendung von Office 365, betrieben von 21Vianet, treffen einige unten aufgeführten Informationen möglicherweise nicht zu. Lesen Sie stattdessen die [Vereinbarung zum Servicelevel von 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
@@ -67,13 +67,13 @@ Mit der Office 365-Dienstkommunikations-API können Sie nach Bedarf auf die Offi
     
 Weitere Informationen finden Sie im Blogbeitrag [Neue Office 365-Verwaltungstools](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/). 
   
-## <a name="post-incident-reviews"></a>Incident-Nachsorgeüberprüfung
+## <a name="post-incident-reviews"></a>Bewertungen nach Vorfällen
 
 Zur Verpflichtung von Microsoft für eine kontinuierliche Verbesserung gehört die Analyse ungeplanter Dienstvorfälle mit Auswirkungen auf die Kunden, um deren Auftreten in der Zukunft zu minimieren. 
   
 Ungeplante Dienstincidents sind als Dienstunterbrechungen mehrerer Mandanten definiert, die sich auf die Dienstverwendung, wie durch unsere Dienst-SLAs definiert, auswirken und vom Service Health Dashboard als solche deklariert wurden.
   
-  Bei ungeplanten Dienstincidents, die sich auf Kunden auswirken und zu einer merkbaren Beeinträchtigung über eine große Anzahl von Organisationen hinweg führten, wird eine vorläufige Vorfallnachsorgeüberprüfung (PIR, Post-Incident Review) innerhalb von 48 Stunden nach Lösung des Incidents über Ihr Dienststatus-Dashboard bereitgestellt, gefolgt von einer endgültigen PIR innerhalb von fünf Geschäftstagen. Der ausführliche PIR-Bericht enthält Folgendes: 
+ Bei ungeplanten Dienstincidents, die sich auf Kunden auswirken und zu einer merkbaren Beeinträchtigung über eine große Anzahl von Organisationen hinweg führten, wird eine vorläufige Vorfallnachsorgeüberprüfung (PIR, Post-Incident Review) innerhalb von 48 Stunden nach Lösung des Incidents über Ihr Dienststatus-Dashboard bereitgestellt, gefolgt von einer endgültigen PIR innerhalb von fünf Geschäftstagen. Der ausführliche PIR-Bericht enthält Folgendes: 
   
 - Benutzererfahrung und Kundenauswirkungen
     

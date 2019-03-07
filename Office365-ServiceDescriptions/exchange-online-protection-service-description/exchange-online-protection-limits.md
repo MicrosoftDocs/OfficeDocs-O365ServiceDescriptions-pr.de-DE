@@ -1,7 +1,7 @@
 ---
 title: Beschränkungen von Exchange Online Protection
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Die folgenden Grenzwerte, die derzeit für Exchange Online Protection vorhanden sein. Diese Grenzwerte sind nicht konfigurierbar, sofern nicht anders angegeben.
-ms.openlocfilehash: 2e2efe4693cb7e5cdf52b4d035512657c39f03c2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Die folgenden Grenzwertegelten derzeit für Exchange Online Protection. Diese Beschränkungen sind nicht konfigurierbar, sofern nicht anders angegeben.
+ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035895"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468142"
 ---
 # <a name="exchange-online-protection-limits"></a>Beschränkungen von Exchange Online Protection
 
-Die folgenden Grenzwerte, die derzeit für Exchange Online Protection vorhanden sein. Diese Grenzwerte sind nicht konfigurierbar, sofern nicht anders angegeben. 
+Die folgenden Grenzwertegelten derzeit für Exchange Online Protection. Diese Beschränkungen sind nicht konfigurierbar, sofern nicht anders angegeben. 
   
 > [!TIP]
 > Weitere Informationen zu Beschränkungen in Exchange Online finden Sie unter [Exchange Online-Begrenzungen](../exchange-online-service-description/exchange-online-limits.md). Die Grenzwerte für Transportregeln gelten auch für Kunden der eigenständigen Lösung von EOP. Die Grenzwerte für Empfängerrate und Nachrichtenrate für Exchange Online gelten nicht für Kunden der eigenständigen Lösung von EOP. 
@@ -50,7 +50,7 @@ Die folgenden Grenzwerte, die derzeit für Exchange Online Protection vorhanden 
 |**Funktion**|****EOP als eigenständige Lösung****|****EOP-Funktionen in Exchange Online****|****Exchange Enterprise CAL mit Diensten****|
 |:-----|:-----|:-----|:-----|
 |Domänenbegrenzung  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Größenbeschränkung für Nachrichten (einschließlich Anlagen)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Größenbeschränkung für Nachrichten (einschließlich Anlagen)  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
 |Empfängergrenzwert  <br/> |Siehe „Empfängergrenzwert" weiter oben  <br/> |500 Empfänger beim Senden von einem gehosteten Postfach; Informationen finden Sie unter "Empfängergrenzwert" weiter oben bei anderen Szenarien  <br/> |Siehe „Empfängergrenzwert" weiter oben  <br/> |
 |Grenzwert sicherer Absender  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||
 |Grenzwert blockierter Absender  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||

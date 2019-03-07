@@ -1,7 +1,7 @@
 ---
 title: Freigabe und Zusammenarbeit
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 13ab2163b76b5ccc4732659a64be5fcead01dc9d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ca55a389f5ed117b09b6c10ca1b2caf42bf01be0
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035772"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466922"
 ---
 # <a name="sharing-and-collaboration"></a>Freigabe und Zusammenarbeit
 
@@ -43,7 +43,7 @@ Weitere Informationen zu Websitepostfächern finden Sie unter [Websitepostfäche
   
 ## <a name="public-folders"></a>Öffentliche Ordner
 
-Öffentliche Ordner in Exchange Online haben modernisiert wurden, um die vorhandenen hohen Verfügbarkeit und Speicherung Technologien der Postfachdatenbank nutzen. Die Architektur für Öffentliche Ordner verwendet speziell für Postfächer, um die Hierarchie und die Inhalte Öffentlicher Ordner speichern. Dies bedeutet, dass eine separate öffentliche Ordner-Datenbank nicht mehr vorhanden ist. Öffentliche Ordner-Replikation jetzt verwendet das fortlaufende Replikation-Modell. Hoher Verfügbarkeit für die Postfächer Hierarchie und Inhalt wird von einer Database Availability Group (DAG) im Rechenzentrum bereitgestellt. In Exchange Online können Sie nur 1000 Postfächer für Öffentliche Ordner. Jedes Postfach für Öffentliche Ordner wurde auch eine maximale Speichergröße. Weitere Informationen finden Sie im Abschnitt "Begrenzungen für Postfachordner" in [Exchange Online-Begrenzungen](exchange-online-limits.md). Postfächer für Öffentliche Ordner haben die gleiche Nachricht, Empfänger und alert Kapazitätsgrenzen als normale Postfächer. Weitere Informationen finden Sie unter [Recipients](recipients.md). 
+Öffentliche Ordner in Exchange Online wurden modernisiert, um die vorhandenen Technologien für hohe Verfügbarkeit und Speicherung der Postfachdatenbank zu nutzen. Die Architektur für öffentliche Ordner verwendet speziell entworfene Postfächer, um sowohl die Hierarchie als auch die Inhalte öffentlicher Ordner zu speichern. Dies bedeutet, dass keine gesonderte Datenbank für öffentliche Ordner mehr vorhanden ist. Für die Replikation öffentlicher Ordner wird jetzt das Modell der fortlaufenden Replikation eingesetzt. Die hohe Verfügbarkeit der Hierarchie und der Inhaltspostfächer wird durch eine Database Availability Group (DAG) im Datencenter bereitgestellt. In Exchange Online sind Sie auf 1000 Postfächer für Öffentliche Ordner beschränkt. Für jedes Postfach für öffentliche Ordner gilt außerdem eine maximale Speichergröße. Weitere Informationen finden Sie im Abschnitt "Begrenzungen für Postfachordner" unter [Exchange Online-Begrenzungen](exchange-online-limits.md). Postfächer mit öffentlichen Ordnern haben dieselben Warngrenzen bei Nachrichten-/Empfängeranzahl und Kapazität wie normale Postfächer. Weitere Informationen finden Sie unter [Empfänger](recipients.md). 
   
 Weitere Informationen zu öffentlichen Ordnern finden Sie im Artikel zum Thema [Öffentliche Ordner](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

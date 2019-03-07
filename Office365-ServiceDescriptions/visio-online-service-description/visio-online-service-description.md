@@ -1,7 +1,7 @@
 ---
 title: Visio Online-Dienstbeschreibung
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Mit Visio Online können Sie anzeigen, bearbeiten und Freigeben von Visio-Diagrammen im Web. Beginnen Sie mit einem Standarddiagramm für allgemeine Ideen, wie darstellen eines Plans, tätigen einen Vorschlag oder zur Beschreibung einer Sequenz von Schritte in einem Prozess express. Es ist einfach und erstklassige Diagramme mit Diagramm für häufig verwendete Typen und Rich Shape-Datensätze zu erstellen. Visio-Online-Benutzer können anzeigen und Zusammenarbeit durch Freigabe Diagramme und Einfügen von Kommentaren in Dateien zu SharePoint Online oder OneDrive for Business Online hochgeladen.
-ms.openlocfilehash: 40b212d4c3fcafe918d23db6c2e718117d0044b3
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Mit Visio Online können Sie Visio-Diagramme im Web anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise einen Plan darzustellen, einen Vorschlag zu erstellen oder eine Abfolge von Schritten in einem Prozess zu beschreiben. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und Rich-Shape-Sätzen zu erstellen. Visio Online-Benutzer können Diagramme anzeigen und zusammenarbeiten und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive for Business Online hochgeladen werden.
+ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035833"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466502"
 ---
 # <a name="visio-online-service-description"></a>Visio Online-Dienstbeschreibung
 
-Mit Visio Online können Sie anzeigen, bearbeiten und Freigeben von Visio-Diagrammen im Web. Beginnen Sie mit einem Standarddiagramm für allgemeine Ideen, wie darstellen eines Plans, tätigen einen Vorschlag oder zur Beschreibung einer Sequenz von Schritte in einem Prozess express. Es ist einfach und erstklassige Diagramme mit Diagramm für häufig verwendete Typen und Rich Shape-Datensätze zu erstellen. Visio-Online-Benutzer können anzeigen und Zusammenarbeit durch Freigabe Diagramme und Einfügen von Kommentaren in Dateien zu SharePoint Online oder OneDrive for Business Online hochgeladen.
+Mit Visio Online können Sie Visio-Diagramme im Web anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise einen Plan darzustellen, einen Vorschlag zu erstellen oder eine Abfolge von Schritten in einem Prozess zu beschreiben. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und Rich-Shape-Sätzen zu erstellen. Visio Online-Benutzer können Diagramme anzeigen und zusammenarbeiten und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive for Business Online hochgeladen werden.
   
 Weitere Informationen und Anweisungen für die ersten Schritte finden Sie unter [Visio Online](https://products.office.com/en-US/visio/visio-online).
   
@@ -42,11 +42,11 @@ In der folgenden Tabelle werden die Features von Visio Online den funktionsreich
 |[Einbetten von Diagrammen in eine SharePoint-, Web- oder Blogseite](visio-online.md#BM_7) <br/> |Ja  <br/> |Nein  <br/> |
 |[Suchen](visio-online.md#BM_8) <br/> |Ja  <br/> |Ja  <br/> |
 |[Schriftartformatierung](visio-online.md#BM_9) <br/> |Ja  <br/> |Ja  <br/> |
-|[Links](visio-online.md#BM_10)<sup>1</sup> <br/> |Ja,<sup>3</sup> <br/> |Ja  <br/> |
+|[Links](visio-online.md#BM_10)<sup>1</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |
 |[Navigation](visio-online.md#BM_11) <br/> |Ja  <br/> |Ja  <br/> |
 |[Office-Add-Ins](visio-online.md#BM_12) <br/> |Nein  <br/> |Ja  <br/> |
 |[Offlineansichten](visio-online.md#BM_13) <br/> |Nein  <br/> |Ja  <br/> |
-|[Als PDF drucken](visio-online.md#BM_14) <br/> |Ja,<sup>4</sup> <br/> |Ja  <br/> |
+|[Als PDF drucken](visio-online.md#BM_14) <br/> |Ja<sup>4</sup> <br/> |Ja  <br/> |
 |[Korrekturhilfen](visio-online.md#BM_15) <br/> |Nein  <br/> |Ja  <br/> |
 |[Gemeinsame Dokumenterstellung in Echtzeit](visio-online.md#BM_16) <br/> |Nein  <br/> |Ja  <br/> |
 |["Speichern unter" oder "Kopie herunterladen"](visio-online.md#BM_17) <br/> |Ja  <br/> |Ja  <br/> |
@@ -54,17 +54,17 @@ In der folgenden Tabelle werden die Features von Visio Online den funktionsreich
 |[SmartArt](visio-online.md#BM_19) <br/> |Nein  <br/> |Ja  <br/> |
 |[Funktion "Was möchten Sie tun?"](visio-online.md#BM_20) <br/> |Nein  <br/> |Ja  <br/> |
 |["Rückgängig" und "Wiederholen"](visio-online.md#BM_21) <br/> |Nein  <br/> |Ja  <br/> |
-|[Anzeigen und Hinzufügen von Kommentaren](visio-online.md#BM_22) <br/> |Ja,<sup>5</sup> <br/> |Ja  <br/> |
-|[Anzeigen von Shapedaten](visio-online.md#BM_23) <br/> |Ja,<sup>3</sup> <br/> |Ja  <br/> |
+|[Anzeigen und Hinzufügen von Kommentaren](visio-online.md#BM_22) <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |
+|[Anzeigen von Shapedaten](visio-online.md#BM_23) <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |
 |[Anzeigen von Visio-Dateien im Browser](visio-online.md#BM_24) <br/> |Ja  <br/> |Ja  <br/> |
-|[Zoom](visio-online.md#BM_25) <br/> |Ja,<sup>6</sup> <br/> |Ja  <br/> |
+|[Zoom](visio-online.md#BM_25) <br/> |Ja<sup>6</sup> <br/> |Ja  <br/> |
    
 > <sup>1</sup> Hyperlinks folgen (Einfügen oder Bearbeiten nicht möglich). 
 <br/><sup>2</sup> Freigeben über SharePoint oder One Drive for Business und Freigeben für Benutzer, die nicht über SharePoint oder OneDrive verfügen. 
-<br/> Sie nicht verfügbar in Visio Online-Editor die aus <sup>3</sup> .
-<br/>Sie nicht verfügbar in Visio Online Viewer die aus <sup>4</sup> . 
-<br/><sup>5</sup> nicht verfügbar in Visio Online-Editor, aber Sie können zum Anzeigen-Modus und Anzeigen von Kommentaren wechseln. 
-<br/><sup>6</sup> im Visio-Online-Editor verfügbar. 
+<br/> <sup>3</sup> nicht verfügbar in Visio Online Editor.
+<br/><sup>4</sup> nicht verfügbar in Visio Online Viewer. 
+<br/><sup>5</sup> nicht verfügbar in Visio Online Editor, aber Sie können in den Ansichtsmodus wechseln und Kommentare anzeigen. 
+<br/><sup>6</sup> verfügbar in Visio Online Editor. 
   
 ## <a name="supported-file-types-in-visio-online"></a>In Visio Online unterstützte Dateitypen
 

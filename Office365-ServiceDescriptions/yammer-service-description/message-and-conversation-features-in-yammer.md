@@ -1,7 +1,7 @@
 ---
 title: Nachrichten- und Unterhaltungsfeatures in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
-ms.openlocfilehash: 3578b282cd25d45963b645552aa3fcf473e01aff
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035758"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468162"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Nachrichten- und Unterhaltungsfeatures in Yammer
 
@@ -29,7 +29,7 @@ Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
 
 Mithilfe des Herausgebers können Sie ein Update freigeben, ein Dokument hinzufügen, eine Umfrage veröffentlichen, jemanden loben oder ein Ereignis posten.
   
-## <a name="mention"></a>Erwähnungen
+## <a name="mention"></a>@Mention
 <a name="bkmk_AtMention"> </a>
 
 Benachrichtigen Sie andere Kollegen, und beziehen Sie sie durch die Erwähnung ihres Namens in eine Unterhaltung ein.
@@ -39,7 +39,7 @@ Benachrichtigen Sie andere Kollegen, und beziehen Sie sie durch die Erwähnung i
 
 Sie können sehen, wer online ist, und sofort eine private Diskussion mit einem oder mehreren Kollegen beginnen. Die Kontaktliste wird automatisch nach den Personen sortiert, mit denen Sie am meisten zu tun haben.
   
-## <a name="private-messages"></a>Private Nachrichten
+## <a name="private-messages"></a>Private Messages
 <a name="bkmk_PrivateMessages"> </a>
 
 Beginnen Sie mit einem oder mehreren Kollegen einen privaten Dialog. Sie können jederzeit weitere Teilnehmer hinzufügen.
@@ -49,12 +49,12 @@ Beginnen Sie mit einem oder mehreren Kollegen einen privaten Dialog. Sie können
 
 Geben Sie Unterhaltungen für den Feed einer anderen Gruppe oder über eine private Nachricht frei, um Informationen und wichtige Nachrichten weiterzugeben.
   
-## <a name="office-online-support"></a>Office Online-Unterstützung
+## <a name="office-online-support"></a>Office Online support
 <a name="bkmk_ShareConversations"> </a>
 
 Mithilfe der Office Online-Unterstützung in Yammer können zu Yammer hochgeladene Dokumente mit Office Online direkt in Yammer angezeigt und bearbeitet werden. Dadurch können Dokumente ansprechend mit Office Online gerendert werden. Außerdem sind dadurch die gemeinsame und gleichzeitige Bearbeitung von unterschiedlichen Benutzern sowie die Anzeige relevanter Yammer-Unterhaltungen direkt in Ihrem Browser möglich.
   
-## <a name="events"></a>Ereignisse
+## <a name="events"></a>Events
 <a name="bkmk_Events"> </a>
 
 Organisieren Sie Besprechungen und Veranstaltungen, geben Sie sie für Kollegen frei, und verfolgen Sie die Teilnahme. Ereignisse können Outlook-, Google-, Yahoo!- und iCal-Kalendern hinzugefügt werden.

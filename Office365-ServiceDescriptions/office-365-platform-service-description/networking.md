@@ -1,7 +1,7 @@
 ---
 title: Netzwerk
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
-description: Microsoft Office 365 unterstützt die folgenden Netzwerkfeatures.
-ms.openlocfilehash: 8a9a8d8b5276f4f4578fec625849410268f855ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 unterstützt die folgenden Netzwerkfunktionen.
+ms.openlocfilehash: 2245e2e60333d0f1eb85e1243c49c0a04a4f62ec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035738"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467902"
 ---
 # <a name="networking"></a>Netzwerk
 
-Microsoft Office 365 unterstützt die folgenden Netzwerkfeatures.
+Microsoft Office 365 unterstützt die folgenden Netzwerkfunktionen.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Ports, Protokolle und IP-Adressen
 
@@ -33,7 +33,7 @@ Office 365 enthält eine Liste zulässiger IP-Adressen in der Office 365-Hilfe. 
 > [!IMPORTANT]
 > Es wird dringend empfohlen, statt dem Routing zu bestimmten IP-Adress-Subnetzen das Routing an die Stammdomänennamen zu aktivieren, die in den oben aufgeführten Artikeln aufgelistet sind (z. B. \*.Outlook.com, \*.MicrosoftOnline.com und \*.SharePoint.com). Das Arbeiten mit IP-Adress-Subnetzen birgt das Risiko von Systemausfällen für Ihre Benutzer, sobald Änderungen erfolgen. 
   
-## <a name="bandwidth-requirements"></a>Bandbreitenanforderungen
+## <a name="bandwidth-requirements"></a>Erforderliche Bandbreite
 
 Informationen zu Bandbreitenanforderungen finden Sie im Artikel zum Thema [Planen der Internetbandbreite](https://go.microsoft.com/fwlink/p/?LinkID=282467).
   
@@ -43,7 +43,7 @@ Alle Verbindungen mit Office 365 erfolgen über das öffentliche Internet oder �
   
 Weitere Informationen zu Azure ExpressRoute finden Sie unter [Azure ExpressRoute für Office 365](https://aka.ms/expressrouteoffice365).
   
-### <a name="wan-accelerators"></a>WAN-Beschleuniger
+### <a name="wan-accelerators"></a>WAN-Optimierung
 
 Microsoft bietet keinen Support für kundeneigene Lösungen für WAN-Beschleunigung oder Geräte zur Zwischenspeicherung, die zusammen mit Office 365 eingesetzt werden. Wenn Sie zur Verbesserung der Leistung bei hoher Latenz oder geringer Bandbreite einen Controller zur WAN-Optimierung verwenden, müssen Sie diesen Controller während der Problembehandlung im Rahmen von Serviceanfragen an Microsoft deaktivieren. Bei Supportbedarf für das Gerät müssen Sie sich an den Gerätehersteller selbst wenden. Weitere Informationen finden Sie in diesem Artikel zum Thema [Einsatz von WAN-Beschleunigung und Geräten für die Zwischenspeicherung mit Office 365](https://go.microsoft.com/fwlink/p/?LinkID=282468).
   
