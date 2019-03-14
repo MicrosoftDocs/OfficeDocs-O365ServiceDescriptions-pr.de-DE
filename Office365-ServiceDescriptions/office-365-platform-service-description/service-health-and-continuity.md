@@ -3,7 +3,7 @@ title: Dienststatus und Verfügbarkeit
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und herausfinden, wann Wartungsarbeiten geplant sind. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
-ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
+ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466952"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574139"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
@@ -40,7 +40,25 @@ Es gibt zwei Arten von Benachrichtigungen über Zeiten, zu denen Dienste möglic
 - **Geplante Wartungsereignisse:** Die geplante Wartung umfasst regelmäßige von Microsoft gestartete Dienstupdates an der Infrastruktur und den Softwareanwendungen. Mit Benachrichtigungen über geplante Wartungsmaßnahmen werden Kunden über Wartungsarbeiten informiert, die sich auf die Funktion eines Office 365-Diensts auswirken könnten. Die Kunden werden spätestens fünf Tage vor der geplanten Wartung über das Nachrichtencenter im Office 365-Verwaltungsportal informiert. Microsoft plant die Wartung normalerweise für Zeiten ein, zu denen die Dienstnutzung üblicherweise am geringsten ist, basierend auf regionalen Zeitzonen. 
     
 - **Ungeplante Ausfallzeit:** Ungeplante Dienstincidents treten auf, wenn einer der Dienste in der Office 365-Suite nicht verfügbar ist oder nicht mehr reagiert. 
-    
+
+### <a name="recent-worldwide-uptimes"></a>Aktuelle weltweite UpTimes
+
+Wenn Sie zu einem clouddienst wechseln, sollten Sie nicht wissen, was passiert. Mit Office 365 ist dies nicht der Fall. Wir wollen transparent sein, damit Sie den Status Ihres Diensts überwachen, Probleme nachverfolgen und einen historischen Überblick über die Verfügbarkeit haben. Die folgenden Tabellen zeigen die neuesten Daten zur weltweiten Verfügbarkeit.
+
+<br/>
+
+|**2018** <br/>||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99,99 % <br/> | 99,98% <br/> | 99,97% <br/> | 99,98% <br/> |
+
+<br/>
+
+|**2017** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99,99 % <br/> | 99,97% <br/> | 99,98% <br/> | 99,99 % <br/> |
+
 ## <a name="notification-policy"></a>Benachrichtigungsrichtlinie
 
 Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Office 365-Administratoren durch Aktualisierung des mandantenspezifischen Service Health Dashboard (SHD) im Office 365-Verwaltungsportal. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. 
