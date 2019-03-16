@@ -3,7 +3,7 @@ title: 'Beschreibung der Office 365-Dienste '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 ist ein Cloud-basierter Dienst, der dazu dient, die Anforderungen Ihrer Organisation an robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen.
-ms.openlocfilehash: abf2ca2eb13bc5830bb5520836aebc66aa55bc1f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
+ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466692"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "30641440"
 ---
 # <a name="office-365-service-descriptions"></a>Beschreibung der Office 365-Dienste 
 
@@ -58,6 +58,8 @@ Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen
 - [Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
 - [Beschreibung zu Workplace Analytics](workplace-analytics-service-description.md)
+
+- [MyAnalytics-Dienstbeschreibung](mya-service-description.md)
     
 - [Power BI - Dienstbeschreibung](power-bi-service-description.md)
     
