@@ -3,7 +3,7 @@ title: Produktnutzungsrechte
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,18 +12,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: db1bb3de9f577b896f916b1055d3de24bc009b25
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 43bc5e30b318bf78d38ebebd0f8435c322fac2d2
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467482"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30668970"
 ---
 # <a name="product-use-rights"></a>Produktnutzungsrechte
 
 ## <a name="microsoft-online-services-use-rights"></a>Nutzungsrechte für Microsoft-Onlinedienste
 
-Sofern Sie Ihren Microsoft Online-Abonnementvertrag einhalten, können Sie die Onlinedienste und dazugehörige Software gemäß der ausdrücklichen Erlaubnis unter [Nutzungsrechte für Microsoft-Onlinedienste](https://www.microsoft.com/licensing/products/products.aspx) nutzen.
+Sofern Sie Ihren Microsoft Online-Abonnementvertrag einhalten, können Sie die Onlinedienste und dazugehörige Software gemäß der ausdrücklichen Erlaubnis unter [Nutzungsrechte für Microsoft-Onlinedienste](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true) nutzen.
   
 ## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365, betrieben von 21Vianet – Nutzungsrechte
 
