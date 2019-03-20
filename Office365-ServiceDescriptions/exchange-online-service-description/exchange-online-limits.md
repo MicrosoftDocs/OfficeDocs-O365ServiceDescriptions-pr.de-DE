@@ -3,7 +3,7 @@ title: Exchange Online-Begrenzungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/21/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 0291609bedf605177719847f36438d2a19020a60
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467682"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641470"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -103,7 +103,7 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Benutzerpostfächer  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
+|Benutzerpostfächer  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
 |Archivipostfächer<sup>7, 8</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |UnBegrenzt<sup>1</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |Nicht verfügbar<sup>4</sup> <br/> |
 |Freigegebene Postfächer  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2, 9</sup> <br/> |50 GB<sup>2, 9</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |Ressourcenpostfächer  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3, 9</sup> <br/> |50 GB<sup>3, 9</sup> <br/> |50 GB<sup>3</sup> <br/> |
@@ -158,7 +158,7 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
 |**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
 |Warnung  <br/> |1,9 GB<sup>1</sup> <br/> |49 GB  <br/> |98 GB  <br/> |1,96 GB  <br/> |
 |Senden verbieten  <br/> |2 GB<sup>1</sup> <br/> |49,5 GB  <br/> |99 GB  <br/> |1.98 GB  <br/> |
-|Senden/Empfangen verbieten  <br/> |2,3 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
+|Senden/Empfangen verbieten  <br/> |2,3 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Dies ist die standardmäßige Größe für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. 
@@ -269,14 +269,14 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 |Grenzwert für Nachrichtengröße - Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |Grenzwert für Nachrichtengröße - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
 |Grenzwert für Nachrichtengröße - Outlook für Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
-|Nachrichtengrößenbeschränkung - Migration  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
-|Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)<sup>5</sup> <br/> |150 MB   <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Nachrichtengrößenbeschränkung - Migration  <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |
+|Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)<sup>5</sup> <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die ältere Version der Office 365-Nachrichtenverschlüsselung verwenden)<sup>5</sup> <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
 |Grenzwert für Länge des Betreffs  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |
-|Grenzwert für Dateianlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
+|Grenzwert für Dateianlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
 |Größenlimit für Dateianlagen - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |Größenlimit für Dateianlagen - OWA <sup>6</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|Größenlimit für Dateianlagen - Outlook für Mac  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|Größenlimit für Dateianlagen - Outlook für Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
 |Grenzwert für mehrteilige Nachrichten  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |
 |Grenzwert für die Tiefe der Nachrichteneinbettung  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |
    
@@ -352,7 +352,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
-|Empfängerratengrenzwert  <br/> |Keine Beschränkung<sup>1</sup> <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
+|Empfängerratengrenzwert  <br/> |Keine Beschränkung<sup>1</sup> <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
 |Empfängergrenzwert  <br/> |500 Empfänger<sup>1</sup> <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
 |Grenzwert für Empfängerproxyadresse  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
    
@@ -416,8 +416,8 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |
-|Maximale Nachrichtengröße für Verteilergruppen mit 5.000 bis 100.000 Mitgliedern  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
-|Maximale Nachrichtengröße für Verteilergruppen mit 100.000 oder mehr Mitgliedern  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
+|Maximale Nachrichtengröße für Verteilergruppen mit 5.000 bis 99.999 Mitgliedern  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
+|Maximale Nachrichtengröße für Verteilergruppen mit 100.000 Mitgliedern  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
 |Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    

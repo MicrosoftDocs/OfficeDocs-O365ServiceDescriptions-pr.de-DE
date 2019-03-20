@@ -3,7 +3,7 @@ title: Microsoft 365 Business - Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/27/2019
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen kombiniert, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie in den Office 365-Dienstbeschreibungen.
-ms.openlocfilehash: f9b6983eb299eef24935f2e784a23b6b7863e8e1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467942"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641480"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -132,11 +132,11 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |SLA 99,9 %  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Advanced Threat Analytics  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |**Geräte- und Anwendungsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Verwaltung mobiler Geräte (MDM)<sup>15</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|Verwaltung mobiler Geräte (MDM)<sup>15</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Automatische Registrierung bei mobiler Geräteverwaltung (MDM)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Mobile Application Management (MAM) für Office-Apps und LOB-apps<sup>15</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|Mobile Anwendungsverwaltung (MAM) für Office-Apps und LOB-Apps<sup>17</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows Update-Verwaltung, Defender, Firewall-Richtlinien<sup>15</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Datenschutz - Selektives Zurücksetzen  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|Datenschutz - Selektives Zurücksetzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Sicherheitsgruppenadressierung für Richtlinien  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Installieren von Office-Apps auf registrierten Windows 10-Geräten  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows Defender-Konfiguration  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
@@ -173,6 +173,8 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 <br/><sup>10</sup> bei der Reduzierung der Sitze, die mit einem Preisnachlass erworben wurden, kann eine vorzeitige Kündigungsgebühr berechnet werden. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird. 
 <br/><sup>11</sup> Microsoft 365 Business umfasst Exchange Online-Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
 <br/><sup>12</sup> Weitere Informationen finden Sie unter [Steuern ihrer daten in Office 365 mit Kundenschlüssel](https://go.microsoft.com/fwlink/?linkid=863349). 
-<br/><sup>13</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.) <br/><sup>14</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=863490).
-<br/><sup>15</sup> vereinfachte Windows 10-Geräteverwaltung, integriert in Microsoft 365 Business Console. Vollständige InTune-Funktionen für iOS, Android, MacOS und andere plattformübergreifende Geräteverwaltung, die in Azure Console integriert ist und auch für Microsoft 365 Business lizenziert ist. Apps von Drittanbietern und die Konfiguration von WiFi-Profilen, VPN-Zertifikaten usw. können in der vollständigen InTune-Konsole verwaltet werden. <br/>
-<sup>16</sup> dieser Plan ist in Microsoft Stream Plan 2 enthalten, der Video Portal, die Transkription von Sprachtexten, die Tiefensuche und die Gesichtserkennung umfasst.
+<br/><sup>13</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.)
+<br/><sup>14</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=863490).
+<br/><sup>15</sup> vereinfachte Windows 10-Geräteverwaltung, integriert in das Microsoft 365 Admin Center. InTune-Verwaltungsfunktionen von iOS, Android, macOS und anderen plattformübergreifenden Geräte Verwaltungen, die in das Admin Center für die Geräteverwaltung integriert sind und für die Verwendung mit Microsoft 365 Business lizenziert sind. Drittanbieter-apps und die Konfiguration von WiFi-Profilen und VPN-Zertifikaten können auch im Device Management Admin Center verwaltet werden. 
+<br/><sup>16</sup> dieser Plan ist in Microsoft Stream Plan 2 enthalten, der Video Portal, die Transkription von Sprachtexten, die Tiefensuche und die Gesichtserkennung umfasst.
+<br/><sup>17</sup> vereinfachte Windows 10 Device Management-und InTune-App-Schutzrichtlinien, die in Microsoft 365 Admin Center integriert sind.
