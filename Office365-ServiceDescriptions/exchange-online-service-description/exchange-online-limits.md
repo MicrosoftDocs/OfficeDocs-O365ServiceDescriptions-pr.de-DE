@@ -17,7 +17,7 @@ ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
 ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
 ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 03/19/2019
 ms.locfileid: "30641470"
@@ -27,9 +27,9 @@ ms.locfileid: "30641470"
 Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
   
 > [!NOTE]
->  Wenn Sie Unterstützung bei einer Aufgabe benötigen oder ein Problem lösen müssen, könnten die folgenden Artikel hilfreich sein:  <br/> • [E-Mail](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) (für Hilfe beim Erstellen und Senden von e-Mails)  <br/> • [E-Mail in Office 365 for Business-Administratorhilfe](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   • [Beheben von Outlook-und office 365-Problemen mit Microsoft-Support und Wiederherstellungs-Assistent für office 365](https://diagnostics.office.com/) <br/>  • [E-Mail-Unzustellbarkeitsberichte in Office 365](https://go.microsoft.com/fwlink/?linkid=526653) <br/> • [Exchange Online-Hilfe](https://go.microsoft.com/fwlink/?linkid=825607) <br/>
+>  Wenn Sie Unterstützung bei einer Aufgabe benötigen oder ein Problem lösen müssen, könnten die folgenden Artikel hilfreich sein:  <br/> • [E-Mail](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) (Hilfe zum Erstellen und Senden von E-Mails)  <br/> • [E-Mails in Office 365 Business – Hilfe für Administratoren](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   • [Beheben von Outlook- und Office 365-Problemen mit dem Support- und Wiederherstellungs-Assistenten von Microsoft für Office 365](https://diagnostics.office.com/) <br/>  • [Unzustellbarkeitsberichte für E-Mails in Office 365](https://go.microsoft.com/fwlink/?linkid=526653) <br/> • [Hilfe zu Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607) <br/>
   
-Die Grenzwerte in Microsoft Exchange Online gelten für eine der folgenden Kategorien:
+Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Kategorien:
   
 - [Adressbuchbeschränkungen](#address-book-limits)
     
@@ -37,13 +37,13 @@ Die Grenzwerte in Microsoft Exchange Online gelten für eine der folgenden Kateg
     
 - [Kapazitätswarnungen](#capacity-alerts)
     
-- [Begrenzungen für Postfachordner](#mailbox-folder-limits)
+- [Mailbox folder limits](#mailbox-folder-limits)
     
 - [Nachrichtengrenzwerte](#message-limits)
 
 - [Empfangs- und Sendegrenzen](#receiving-and-sending-limits)
     
-- [Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung](#reporting-and-message-trace-limits)
+- [Reporting and message trace limits](#reporting-and-message-trace-limits)
     
 - [Aufbewahrungsgrenzwerte](#retention-limits)
     
@@ -53,10 +53,10 @@ Die Grenzwerte in Microsoft Exchange Online gelten für eine der folgenden Kateg
     
 - [Moderationsgrenzwerte](#moderation-limits)
     
-- [Exchange ActiveSync-Grenzwerte](#exchange-activesync-limits)
+- [Grenzwerte für Exchange ActiveSync](#exchange-activesync-limits)
     
 > [!IMPORTANT]
->  • Die auf eine Microsoft Office 365-Organisation angewendeten Grenzwerte können je nach Dauer der Registrierung im Dienst unterschiedlich sein. <br/> • Wenn ein Grenzwert in Microsoft-Rechenzentren geändert wird, kann es einige Zeit dauern, bis die Änderung auf alle vorhandenen Kunden angewendet wird. <br/> • Es ist nicht möglich, die meisten dieser Grenzwerte zu ändern, aber Sie und Ihre Benutzer sollten Sie berücksichtigen. <br/> • Diese Grenzwertegelten sowohl für interne als auch für externe Empfänger. <br/> • Exchange Online Protection (EOP) schützt Exchange Online-Postfächer standardmäßig. Grenzwerte für EOP-Features in Exchange Online finden Sie unter [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md). <br/> • Informationen zu den Grenzwerten für Office 365-Gruppen finden Sie unter "wie kann ich meine Gruppen verwalten?". in [erfahren Sie mehr über Office 365-Gruppen](https://go.microsoft.com/fwlink/?linkid=846714). 
+>  • Die für eine Microsoft Office 365-Organisation geltenden Grenzwerte können anders lauten, abhängig davon, wie lange Ihre Organisation bei dem Dienst registriert ist. <br/> • Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. <br/> • Die meisten dieser Grenzwerte können zwar nicht geändert werden, sie sollten Ihnen und den Benutzern jedoch bekannt sein. <br/> • Diese Grenzwerte gelten sowohl für interne als auch für externe Empfänger. <br/> • Standardmäßig schützt Exchange Online Protection (EOP) Exchange Online-Postfächer. Informationen zu Grenzwerten für EOP-Funktionen in Exchange Online finden Sie unter [Exchange Online Protection-Grenzwerte](../exchange-online-protection-service-description/exchange-online-protection-limits.md). <br/> • Informationen zu Grenzwerten für Office 365-Gruppen finden Sie unter "Wie verwalte ich meine Gruppen?" in [Weitere Informationen zu Office 365-Gruppen](https://go.microsoft.com/fwlink/?linkid=846714). 
   
 ## <a name="address-book-limits"></a>Adressbuchbeschränkungen
 
@@ -85,7 +85,7 @@ Die Grenzwerte in Microsoft Exchange Online gelten für eine der folgenden Kateg
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
 |Adresslistenbeschränkung  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
 |Beschränkung für Offlineadressbuch (OAB)  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Beschränkung für Adressbuchrichtlinien (ABP)  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -103,34 +103,34 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Benutzerpostfächer  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
-|Archivipostfächer<sup>7, 8</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |UnBegrenzt<sup>1</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |Nicht verfügbar<sup>4</sup> <br/> |
-|Freigegebene Postfächer  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2, 9</sup> <br/> |50 GB<sup>2, 9</sup> <br/> |50 GB<sup>2</sup> <br/> |
-|Ressourcenpostfächer  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3, 9</sup> <br/> |50 GB<sup>3, 9</sup> <br/> |50 GB<sup>3</sup> <br/> |
+|Benutzerpostfächer  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
+|Archivipostfächer<sup>7, 8</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |Unbegrenzt<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Nicht verfügbar<sup>4</sup> <br/> |
+|Freigegebene Postfächer  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2,9</sup> <br/> |50 GB<sup>2,9</sup> <br/> |50 GB<sup>2</sup> <br/> |
+|Ressourcenpostfächer  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3,9</sup> <br/> |50 GB<sup>3,9</sup> <br/> |50 GB<sup>3</sup> <br/> |
 |Websitepostfächer<sup>5</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |Nicht verfügbar  <br/> |
-|Postfächer für öffentliche Ordner  <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |Nicht verfügbar  <br/> |
+|Postfächer für öffentliche Ordner  <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |50 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |100 GB<sup>6</sup> <br/> |Nicht verfügbar  <br/> |
 |Gruppenpostfächer  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> jeder Benutzer erhält ANFÄNGLICH 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). <br/>  <sup>2</sup> für den Zugriff auf ein freigegebenes Postfach muss ein Benutzer über eine Exchange Online-Lizenz verfügen. FreigeGebene Postfächer erfordern keine separate Lizenz. Ohne Lizenz sind freigegebene Postfächer auf 50 GB beschränkt. Um die Postfachgröße zu verlängern, muss eine E3-oder E5-Lizenz zugewiesen sein. Dadurch wird das Postfach auf 100 GB erhöht. Wenn Sie das Archivpostfach aktivieren oder für ein freigegebenes Postfach eine Beweissicherung durchführen möchten, ist eine Lizenz für Exchange Online-Plan 2 oder eine Exchange Online-Plan 1 mit Exchange Online-Archivierung erforderlich. Wenn Sie das Archivpostfach aktivieren und die Archivierung für ein freigegebenes Postfach automatisch erweitern, wird ein zusätzlicher Speicherplatz hinzugefügt, wenn die Speicherkapazität von 100 GB für das Archivpostfach erreicht wird. <br/>  <sup>3</sup> für Ressourcenpostfächer ist keine Lizenz erforderlich. Ohne Lizenz sind freigegebene Postfächer auf 50 GB beschränkt. Um die Postfachgröße zu verlängern, muss eine E3-oder E5-Lizenz zugewiesen sein. Dadurch wird das Postfach auf 100 GB erhöht. <br/>  <sup>4</sup> Archivpostfächer sind nicht in Exchange Online Kiosk enthalten. Sie können jedoch als Add-on über die Exchange Online-Archivierung erworben werden. Weitere Informationen finden Sie in der [Exchange Online Archiving Service Description](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/>  <sup>5</sup> Website Postfächer werden in SharePoint Online erstellt und verwaltet. Weitere Informationen finden Sie unter [Vorbereiten der Verwendung von Website Postfächern in Office 365](http://go.microsoft.com/fwlink/p/?LinkId=299131). <br/>  <sup>6</sup> Sie sind auf 1.000 Postfächer für Öffentliche Ordner beschränkt, und die Gesamtgröße aller Postfächer für öffentliche ordner ist 50 TB. Die Hierarchie für Postfächer ist auf 100 Postfächer für Öffentliche Ordner beschränkt. <br/>  <sup>7</sup> Archivpostfächer können nur zum Archivieren von e-Mails für einen einzelnen Benutzer oder eine einzelne Entität (beispielsweise ein freigegebenes Postfach) verwendet werden, für das eine Lizenz angewendet wurde. Das Verwenden von archivpostfächern zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist unzulässig. Ein IT-Administrator kann beispielsweise kein freigegebenes Postfach erstellen, und die Benutzer müssen es (über das Feld Cc oder Bcc oder über eine Transportregel) zum expliziten Zweck der Archivierung kopieren. Beachten Sie, dass ein freigegebenes Postfach, das von mehreren Personen verwendet wird, nicht tatsächlich e-Mails für diese einzelnen Benutzer speichert. Mehrere Benutzer haben Zugriff, und Sie senden e-Mails als freigegebenes Postfach. Daher sind die einzigen e-Mails, die im freigegebenen Postfach gespeichert werden, an oder von diesem *als* freigegebenes Postfach. <br/>  <sup>8</sup> Wenn Sie in Exchange Online eine Aufbewahrungsrichtlinie erstellt haben, werden Nachrichten nur dann automatisch in das Archivpostfach eines Benutzers verschoben, wenn das primäre Postfach des Benutzers größer als 10 MB ist. Die Aufbewahrungsrichtlinie für Postfächer kleiner 10 MB nicht automatisch ausgeführt. <br/>  <sup>9</sup> für freigegebene und Ressourcenpostfächer ist keine Lizenz erforderlich. Ohne Lizenz sind freigegebene Postfächer auf 50 GB beschränkt. Um die Postfachgröße zu verlängern, muss eine E3-oder E5-Lizenz zugewiesen sein. Dadurch wird das Postfach auf 100 GB erhöht. 
+> <sup>1</sup> Jeder Benutzer erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). <br/>  <sup>2</sup> Ein Benutzer benötigt eine Exchange Online-Lizenz, um auf ein freigegebenes Postfach zuzugreifen. Freigegebene Postfächer erfordern keine separate Lizenz. Ohne eine Lizenz sind freigegebene Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu erhöhen, muss eine E3- oder E5-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. Wenn Sie das Archivpostfach aktivieren oder einen Aufbewahrung für juristische Zwecke für ein freigegebenes Postfach einrichten möchten, benötigen Sie eine Exchange Online Plan 2-Lizenz oder einen Exchange Online Plan 1 mit Exchange Online-Archivierungslizenz. Wenn Sie das Archivpostfach und die automatisch erweiterte Archivierung für ein freigegebenes Postfach aktivieren, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB für das Archivpostfach erreicht ist. <br/>  <sup>3</sup> Für Ressourcenpostfächer ist keine Lizenz erforderlich. Ohne eine Lizenz sind freigegebene Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu erhöhen, muss eine E3- oder E5-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. <br/>  <sup>4</sup> Archivpostfächer sind im Exchange Online-Kiosk nicht enthalten. Sie können jedoch als Add-On über Exchange Online-Archivierung erworben werden. Weitere Informationen finden Sie in der [Beschreibung des Exchange Online-Archivierungsdiensts](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/>  <sup>5</sup> Websitepostfächer werden SharePoint Online erstellt und verwaltet. Weitere Informationen finden Sie unter [Vorbereiten der Verwendung von Websitepostfächern in Office 365](http://go.microsoft.com/fwlink/p/?LinkId=299131). <br/>  <sup>6</sup> Sie können maximal 1.000 Postfächer für öffentliche Ordner nutzen, und die Gesamtgröße aller Postfächer für öffentliche Ordner ist auf 50 TB begrenzt. Postfächer, die die Hierarchie versorgen, sind auf 100 Postfächer für öffentliche Ordner beschränkt. <br/>  <sup>7</sup> In Archivpostfächern können lediglich Mails für einen einzelnen Benutzer oder eine einzelne Entität (z. B. ein freigegebenes Postfach) archiviert werden, für die eine Lizenz angewendet wurde. Archivpostfächer dürfen nicht zum Speichern von Mails von mehreren Benutzern oder Entitäten verwendet werden. Ein IT-Administrator ist beispielsweise nicht berechtigt, ein freigegebenes Postfach zu erstellen und die Benutzer anzuweisen, dieses freigegebene Postfach zum expliziten Zweck der Archivierung in E-Mails zu adressieren (auf CC oder BCC bzw. über eine Transportregel). Ein freigegebenes Postfach, das von mehreren Benutzern verwendet wird, speichert keine E-Mails für die einzelnen Benutzer. Mehrere Benutzer können darauf zugreifen und E-Mails als das freigegebene Postfach senden. Aus diesem Grund werden im freigegebenen Postfach nur die E-Mails gespeichert, die an das freigegebene Postfach und von diesem Postfach gesendet werden. <br/>  <sup>8</sup> Wenn Sie in Exchange Online eine Aufbewahrungsrichtlinie festgelegt haben, werden Nachrichten automatisch in das Archivpostfach des Benutzers verschoben, sofern sein primäres Postfach größer als 10 MB ist. Die Aufbewahrungsrichtlinie für Postfächer kleiner 10 MB nicht automatisch ausgeführt. <br/>  <sup>9</sup> Für freigegebene und Ressourcenpostfächer ist keine Lizenz erforderlich. Ohne eine Lizenz sind freigegebene Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu erhöhen, muss eine E3- oder E5-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. 
   
 ### <a name="storage-limits-across-standalone-plans"></a>Speicherbegrenzungen in eigenständigen Plänen
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
-|Benutzerpostfächer  <br/> |2 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
-|Archivieren von Postfächern<sup>8, 9</sup> <br/> |100 GB<sup>1</sup> <br/> |50 GB  <br/> |UnLimited<sup>2</sup> <br/> |Nicht verfügbar<sup>5</sup> <br/> |
-|Freigegebene Postfächer  <br/> |2 GB<sup>1</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3, 10</sup> <br/> |50 GB<sup>3</sup> <br/> |
-|Ressourcenpostfächer  <br/> |2 GB<sup>1</sup> <br/> |50 GB<sup>4</sup> <br/> |50 GB<sup>4, 10</sup> <br/> |50 GB<sup>4</sup> <br/> |
-|Postfächer für öffentliche Ordner  <br/> |2 GB<sup>6</sup> <br/> |50 GB<sup>7</sup> <br/> |100 GB<sup>7</sup> <br/> |Nicht verfügbar  <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|Benutzerpostfächer  <br/> |2 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
+|Archivieren von Postfächern<sup>8, 9</sup> <br/> |100 GB<sup>1</sup> <br/> |50 GB  <br/> |Unbegrenzt<sup>2</sup> <br/> |Nicht verfügbar<sup>5</sup> <br/> |
+|Freigegebene Postfächer  <br/> |2 GB<sup>1</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3,10</sup> <br/> |50 GB<sup>3</sup> <br/> |
+|Ressourcenpostfächer  <br/> |2 GB<sup>1</sup> <br/> |50 GB<sup>4</sup> <br/> |50 GB<sup>4,10</sup> <br/> |50 GB<sup>4</sup> <br/> |
+|Postfächer für öffentliche Ordner  <br/> |2 GB<sup>6</sup> <br/> |50 GB<sup>7</sup> <br/> |100 GB<sup>7</sup> <br/> |Nicht verfügbar  <br/> |
 |Gruppenpostfächer  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Dies ist die standardmäßige Postfachgröße für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. Es gibt keinen maximalen Speichergrenzwert für lokale Postfächer. <br/>  <sup>2</sup> jeder Benutzer erhält ANFÄNGLICH 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit für die automatische Erweiterung der Archivierung finden Sie in der [Office 365-Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914) . <br/> <sup>3</sup> für den Zugriff auf ein freigegebenes Postfach muss ein Benutzer über eine Exchange Online-Lizenz verfügen. FreigeGebene Postfächer erfordern keine separate Lizenz. Ohne Lizenz sind freigegebene Postfächer auf 50 GB beschränkt. Um die Postfachgröße zu verlängern, muss eine Exchange Online-Plan 2-Lizenz zugewiesen werden. Dadurch wird das Postfach auf 100 GB erhöht. Wenn Sie das Archivpostfach aktivieren oder für ein freigegebenes Postfach eine Beweissicherung durchführen möchten, ist eine Lizenz für Exchange Online-Plan 2 oder eine Exchange Online-Plan 1 mit Exchange Online-Archivierung erforderlich. Wenn Sie das Archivpostfach aktivieren und die Archivierung für ein freigegebenes Postfach automatisch erweitern, wird ein zusätzlicher Speicherplatz hinzugefügt, wenn die Speicherkapazität von 100 GB für das Archivpostfach erreicht wird. <br/> <sup>4</sup> für Ressourcenpostfächer ist keine Lizenz erforderlich. Ohne Lizenz sind freigegebene Postfächer auf 50 GB beschränkt. Um die Postfachgröße zu verlängern, muss eine Exchange Online-Plan 2-Lizenz zugewiesen werden. Dadurch wird das Postfach auf 100 GB erhöht.  <br/>  <sup>5</sup> Archivpostfächer sind nicht in Exchange Online Kiosk enthalten. Sie können jedoch als Add-on über die Exchange Online-Archivierung erworben werden. Weitere Informationen finden Sie in der [Exchange Online Archiving Service Description](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md).  <br/>  <sup>6</sup> Dies ist die standardmäßige Postfachgröße für Microsoft Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. In Exchange Server 2013 sind Sie auf 100 Postfächer für Öffentliche Ordner beschränkt, und die Gesamtgröße aller Postfächer für Öffentliche Ordner ist 50 TB.  <br/>  <sup>7</sup> in Exchange Online sind sie auf 1.000 Postfächer für Öffentliche Ordner beschränkt, und die Gesamtgröße aller Postfächer für öffentliche ordner ist 50 TB.  <br/>  <sup>8</sup> Archivpostfächer können nur zum Archivieren von e-Mails für einen einzelnen Benutzer oder eine Entität verwendet werden, für die eine Lizenz angewendet wurde. Das Verwenden eines Archivpostfachs als Mittel zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist unzulässig. Beispielsweise können IT-Administratoren keine freigegebenen Postfächer erstellen und Benutzer (über das Feld "CC" oder "Bcc" oder über eine Transportregel) ein freigegebenes Postfach zum expliziten Zwecke der Archivierung kopieren lassen.  <br/>  <sup>9</sup> Wenn Sie in Exchange Online eine Aufbewahrungsrichtlinie erstellt haben, werden Nachrichten nur dann automatisch in das Archivpostfach eines Benutzers verschoben, wenn das primäre Postfach des Benutzers größer als 10 MB ist. Die Aufbewahrungsrichtlinie für Postfächer kleiner 10 MB nicht automatisch ausgeführt.  <br/>  <sup>10</sup> für freigegebene und Ressourcenpostfächer ist keine Lizenz erforderlich. Ohne eine Lizenz sind diese Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu verlängern, muss eine Exchange Online-Plan 2-Lizenz zugewiesen werden. Dadurch wird das Postfach auf 100 GB erhöht. 
+> <sup>1</sup> Dies ist die standardmäßige Postfachgröße für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. Es gibt keine obere Speicherbegrenzung für lokale Postfächer. <br/>  <sup>2</sup> Jeder Benutzer erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit der automatisch erweiterten Archivierung finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). <br/> <sup>3</sup> Ein Benutzer benötigt eine Exchange Online-Lizenz, um auf ein freigegebenes Postfach zuzugreifen. Freigegebene Postfächer erfordern keine separate Lizenz. Ohne eine Lizenz sind freigegebene Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu erhöhen, muss eine Exchange Online Plan 2-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. Wenn Sie das Archivpostfach aktivieren oder einen Aufbewahrung für juristische Zwecke für ein freigegebenes Postfach einrichten möchten, benötigen Sie eine Exchange Online Plan 2-Lizenz oder einen Exchange Online Plan 1 mit Exchange Online-Archivierungslizenz. Wenn Sie das Archivpostfach und die automatisch erweiterte Archivierung für ein freigegebenes Postfach aktivieren, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB für das Archivpostfach erreicht ist. <br/> <sup>4</sup> Für Ressourcenpostfächer ist keine Lizenz erforderlich. Ohne eine Lizenz sind freigegebene Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu erhöhen, muss eine Exchange Online Plan 2-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht.  <br/>  <sup>5</sup> Archivpostfächer sind im Exchange Online-Kiosk nicht enthalten. Sie können jedoch als Add-On über Exchange Online-Archivierung erworben werden. Weitere Informationen finden Sie in der [Beschreibung des Exchange Online-Archivierungsdiensts](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md).  <br/>  <sup>6</sup> Dies ist die standardmäßige Postfachgröße für Microsoft Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. In Exchange Server 2013 können Sie maximal 100 Postfächer für öffentliche Ordner nutzen, und die Gesamtgröße aller Postfächer für öffentliche Ordner ist auf 50 TB begrenzt.  <br/>  <sup>7</sup> In Exchange Online können Sie maximal 1.000 Postfächer für öffentliche Ordner nutzen, und die Gesamtgröße aller Postfächer für öffentliche Ordner ist auf 50 TB begrenzt.  <br/>  <sup>8</sup> In Archivpostfächern können lediglich Mails für einen einzelnen Benutzer oder eine einzelne Entität archiviert werden, für die eine Lizenz angewendet wurde. Ein Archivpostfach darf nicht zum Speichern von Mails von mehreren Benutzern oder Entitäten verwendet werden. IT-Administratoren ist beispielsweise nicht berechtigt, ein freigegebenes Postfach zu erstellen und die Benutzer anzuweisen, dieses freigegebene Postfach zum expliziten Zweck der Archivierung in E-Mails zu adressieren (auf CC oder BCC bzw. über eine Transportregel).  <br/>  <sup>9</sup> Wenn Sie in Exchange Online eine Aufbewahrungsrichtlinie festgelegt haben, werden Nachrichten automatisch in das Archivpostfach des Benutzers verschoben, sofern sein primäres Postfach größer als 10 MB ist. Die Aufbewahrungsrichtlinie für Postfächer kleiner 10 MB nicht automatisch ausgeführt.  <br/>  <sup>10</sup> Für freigegebene und Ressourcenpostfächer braucht keine Lizenz zugewiesen zu werden. Ohne eine Lizenz sind diese Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu erhöhen, muss eine Exchange Online Plan 2-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. 
   
 > [!NOTE]
-> Ein freigegebenes Postfach ist nicht für die direkte Anmeldung vorgesehen. Das Benutzerkonto für das freigegebene Postfach sollte sich **** in einem deaktivierten (oder getrennten) Status befinden. 
+> Ein freigegebenes Postfach ist nicht für direktes Anmelden ausgelegt. Das Benutzerkonto für das freigegebene Postfach selbst sollte im Status **Deaktiviert** (oder "getrennt") verbleiben. 
   
 ## <a name="capacity-alerts"></a>Kapazitätswarnungen
 
@@ -149,16 +149,16 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Warnung  <br/> |49 GB  <br/> |49 GB  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |1,96 GB  <br/> |
 |Senden verbieten  <br/> |49,5 GB  <br/> |49.5 GB  <br/> |49.5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |1.98 GB  <br/> |
-|Senden/Empfangen verbieten  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
+|Senden/Empfangen verbieten  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
    
 ### <a name="capacity-alerts-across-standalone-plans"></a>Kapazitätswarnungen in eigenständigen Plänen
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
 |Warnung  <br/> |1,9 GB<sup>1</sup> <br/> |49 GB  <br/> |98 GB  <br/> |1,96 GB  <br/> |
-|Senden verbieten  <br/> |2 GB<sup>1</sup> <br/> |49,5 GB  <br/> |99 GB  <br/> |1.98 GB  <br/> |
-|Senden/Empfangen verbieten  <br/> |2,3 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
+|Senden verbieten  <br/> |2 GB<sup>1</sup> <br/> |49.5 GB  <br/> |99 GB  <br/> |1.98 GB  <br/> |
+|Senden/Empfangen verbieten  <br/> |2,3 GB<sup>1</sup> <br/> |50 GB  <br/> |100 GB  <br/> |2 GB  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Dies ist die standardmäßige Größe für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. 
@@ -196,46 +196,46 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Maximale Anzahl von Nachrichten pro Postfachordner  <br/> |1 Million  <br/> |1 Million  <br/> |1 Million  <br/> |1 Million  <br/> |1 Million  <br/> |1 Million  <br/> |
 |Warnung zur Anzahl der Nachrichten pro Postfachordner  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
-|Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im primären Postfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im primären Postfach (Aufbewahrung aktiviert)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im Archivpostfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |UnLimited<sup>2</sup> <br/> |UnLimited<sup>2</sup> <br/> |30 GB  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im Archivpostfach (Aufbewahrung aktiviert)  <br/> |100 GB<sup>1</sup> <br/> |100 GB<sup>1</sup> <br/> |100 GB<sup>1</sup> <br/> |UnLimited<sup>2</sup> <br/> |UnLimited<sup>2</sup> <br/> |100 GB<sup>1</sup> <br/> |
-|Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |2,75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |
+|Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (Aufbewahrung aktiviert)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |Unlimited<sup>2</sup> <br/> |Unlimited<sup>2</sup> <br/> |30 GB  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (Aufbewahrung aktiviert)  <br/> |100 GB<sup>1</sup> <br/> |100 GB<sup>1</sup> <br/> |100 GB<sup>1</sup> <br/> |Unlimited<sup>2</sup> <br/> |Unlimited<sup>2</sup> <br/> |100 GB<sup>1</sup> <br/> |
+|Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |
 |Maximale Anzahl von Unterordnern pro Postfachordner  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |
 |Warnung zur Anzahl der Unterordner pro Postfachordner  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
 |Maximale Ordnerhierarchie-Tiefe  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |Warnung zur Ordnerhierarchie-Tiefe  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
-|Maximale Anzahl öffentlicher Ordner  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |500,000  <br/> |Nicht verfügbar  <br/> |
+|Maximale Anzahl öffentlicher Ordner  <br/> |500.000  <br/> |500.000  <br/> |500.000  <br/> |500.000  <br/> |500.000  <br/> |Nicht verfügbar  <br/> |
 |Maximale Anzahl von Unterordnern pro öffentlichem Ordner  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |Nicht verfügbar  <br/> |
 |Warnung zur Anzahl der Unterordner pro öffentlichem Ordner  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |Nicht verfügbar  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Dies ist das Speicherkontingent für den Ordner „Wiederherstellbare Elemente", nicht das Kontingent für das gesamte Archivpostfach. Das Speicherkontingent für das Archivpostfach ist für Benutzer mit einer Exchange Online-Plan 2-Lizenz oder für Benutzer, die über einen Exchange Online-Plan 1 und eine Exchange Online-Archivierungslizenz verfügen, unbegrenzt. Informationen zum Erhöhen des Kontingents für den Ordner „Wiederherstellbare Elemente" finden Sie unter [Increase the Recoverable Items quota for mailboxes on hold](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx). <br/> <sup>2</sup> Das anfängliche Speicherkontingent für den Ordner „Wiederherstellbare Elemente" in einem Archivpostfach beträgt 100 GB. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität für den Ordner „Wiederherstellbare Elemente" erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit der automatisch erweiterten Archivierung finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). 
+> <sup>1</sup> Dies ist das Speicherkontingent für den Ordner „Wiederherstellbare Elemente", nicht das Kontingent für das gesamte Archivpostfach. Das Speicherkontingent für das Archivpostfach ist für Benutzer mit einer Exchange Online Plan 2-Lizenz oder mit einer Exchange Online Plan 1- und einer Exchange Online-Archivierungslizenz unbegrenzt. Informationen zum Erhöhen des Kontingents für wiederherstellbare Elemente finden Sie unter [Erhöhen des Kontingents für wiederherstellbare Elemente für der In-Situ-Aufbewahrung zugewiesene Postfächer](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx). <br/> <sup>2</sup> Das anfängliche Speicherkontingent für den Ordner "Wiederherstellbare Elemente" in einem Archivpostfach beträgt 100 GB. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität für den Ordner „Wiederherstellbare Elemente“ erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit der automatisch erweiterten Archivierung finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). 
   
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Begrenzungen für Postfachordner in eigenständigen Plänen
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
-|Maximale Anzahl von Nachrichten pro Postfachordner  <br/> |Keine Beschränkung<sup>1</sup> <br/> |1 Million  <br/> |1 Mio.  <br/> |1 Mio.  <br/> |
-|Warnung zur Anzahl der Nachrichten pro Postfachordner  <br/> |Keine Begrenzung  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
-|Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |Keine Begrenzung  <br/> |3 Million  <br/> |3 Millionen  <br/> |3 Millionen  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im primären Postfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im primären Postfach (Aufbewahrung aktiviert)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im Archivpostfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im Archivpostfach (Aufbewahrung aktiviert)  <br/> |100 GB<sup>2</sup> <br/> |100 GB<sup>2</sup> <br/> |UnLimited<sup>3</sup> <br/> |UnLimited<sup>3</sup> <br/> |
-|Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |Keine Begrenzung  <br/> |2.75 Million  <br/> |2,75 Millionen  <br/> |2,75 Millionen  <br/> |
-|Maximale Anzahl von Unterordnern pro Postfachordner  <br/> |Keine Begrenzung  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
-|Warnung zur Anzahl der Unterordner pro Postfachordner  <br/> |Keine Begrenzung  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Maximale Ordnerhierarchie-Tiefe  <br/> |Keine Begrenzung  <br/> |300  <br/> |300  <br/> |300  <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|Maximale Anzahl von Nachrichten pro Postfachordner  <br/> |Keine Beschränkung<sup>1</sup> <br/> |1 Million  <br/> |1 Million  <br/> |1 Million  <br/> |
+|Warnung zur Anzahl der Nachrichten pro Postfachordner  <br/> |Unbegrenzt  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
+|Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |Keine Begrenzung  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (Aufbewahrung aktiviert)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (Aufbewahrung aktiviert)  <br/> |100 GB<sup>2</sup> <br/> |100 GB<sup>2</sup> <br/> |Unlimited<sup>3</sup> <br/> |Unlimited<sup>3</sup> <br/> |
+|Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |Keine Begrenzung  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |
+|Maximale Anzahl von Unterordnern pro Postfachordner  <br/> |Unbegrenzt  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
+|Warnung zur Anzahl der Unterordner pro Postfachordner  <br/> |Unbegrenzt  <br/> |900  <br/> |900  <br/> |900  <br/> |
+|Maximale Ordnerhierarchie-Tiefe  <br/> |Unbegrenzt  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |Warnung zur Ordnerhierarchie-Tiefe  <br/> |Unbegrenzt  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Maximale Anzahl öffentlicher Ordner  <br/> |1,000,000  <br/> |100,000  <br/> |100,000  <br/> |Nicht verfügbar  <br/> |
 |Maximale Anzahl von Unterordnern pro öffentlichem Ordner  <br/> |Nicht zutreffend  <br/> |1,000  <br/> |1,000  <br/> |Nicht verfügbar  <br/> |
 |Warnung zur Anzahl der Unterordner pro öffentlichem Ordner  <br/> |Nicht zutreffend  <br/> |900  <br/> |900  <br/> |Nicht verfügbar  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Microsoft empfiehlt, dass nicht mehr als 1.000.000 Nachrichten pro Postfachordner vorhanden sind. > <br/> <sup>2</sup> Dies ist das Speicherkontingent für den Ordner „Wiederherstellbare Elemente", nicht das Kontingent für das gesamte Archivpostfach. Das Speicherkontingent für das Archivpostfach ist für Benutzer mit einer Exchange Online-Plan 2-Lizenz oder für Benutzer, die über einen Exchange Online-Plan 1 und eine Exchange Online-Archivierungslizenz verfügen, unbegrenzt. Informationen zum Erhöhen des Kontingents für den Ordner „Wiederherstellbare Elemente" finden Sie unter [Increase the Recoverable Items quota for mailboxes on hold](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx). <br/> <sup>3</sup> Das anfängliche Speicherkontingent für den Ordner „Wiederherstellbare Elemente" in einem Archivpostfach beträgt 100 GB. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität für den Ordner „Wiederherstellbare Elemente" erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit der automatisch erweiterten Archivierung finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). 
+> <sup>1</sup> Microsoft empfiehlt, dass nicht mehr als 1.000.000 Nachrichten pro Postfachordner vorhanden sind. > <br/> <sup>2</sup> Dies ist das Speicherkontingent für den Ordner "Wiederherstellbare Elemente", nicht das Kontingent für das gesamte Archivpostfach. Das Speicherkontingent für das Archivpostfach ist für Benutzer mit einer Exchange Online Plan 2-Lizenz oder mit einer Exchange Online Plan 1- und einer Exchange Online-Archivierungslizenz unbegrenzt. Informationen zum Erhöhen des Kontingents für wiederherstellbare Elemente finden Sie unter [Erhöhen des Kontingents für wiederherstellbare Elemente für der In-Situ-Aufbewahrung zugewiesene Postfächer](http://technet.microsoft.com/library/a8bdcbdd-9298-462f-b889-df26037a990c.aspx). <br/> <sup>3</sup> Das anfängliche Speicherkontingent für den Ordner "Wiederherstellbare Elemente" in einem Archivpostfach beträgt 100 GB. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität für den Ordner „Wiederherstellbare Elemente“ erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit der automatisch erweiterten Archivierung finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). 
   
 ## <a name="message-limits"></a>Nachrichtengrenzwerte
 
@@ -246,7 +246,7 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
     > [!NOTE]
     > Bestimmte E-Mail-Clients haben niedrigere Nachrichtengrößengrenzwerte oder beschränken die Größe einer einzelnen Dateianlage auf einen Wert, der unter dem Nachrichtengrößengrenzwert von Exchange Online liegt. 
   
-- **Größenbeschränkung für Nachrichtenheader** Gibt die maximale Größe aller Nachrichtenkopffelder in einer Nachricht an. Die aktuelle Grenze ist 256 KB. Wenn die Gesamtgröße aller Nachrichtenkopfzeilen 256 KB überschreitet, wird die Nachricht von Exchange Online mit dem Fehler "552 5.3.4-Headergröße überschreitet die festgelegte maximale Größe" verworfen. Die Größe des Nachrichtentexts oder der Anlagen wird nicht berücksichtigt. Da die Kopffelder unformatierten Text enthalten, wird die Größe des Kopfes durch die Anzahl der Zeichen in jedem Kopffeld sowie durch die Gesamtanzahl der Kopffelder bestimmt. Jedes Textzeichen belegt 1 Byte.
+- **Größenbeschränkung für Nachrichtenkopf** Gibt die maximale Größe aller Nachrichtenkopffelder in einer Nachricht an. Der aktuelle Grenzwert beträgt 256 KB. Wenn die Gesamtgröße aller Nachrichtenköpfe 256 KB überschreitet, lehnt Exchange Online die Nachricht mit dem Fehler "552 5.3.4 Kopfgröße überschreitet feste Maximalgröße" ab. Die Größe des Nachrichtentexts oder der Anlagen wird nicht berücksichtigt. Da die Kopffelder unformatierten Text enthalten, wird die Größe des Kopfes durch die Anzahl der Zeichen in jedem Kopffeld sowie durch die Gesamtanzahl der Kopffelder bestimmt. Jedes Textzeichen belegt 1 Byte.
 
 - **Grenzwert für die Länge des Betreffs** Die maximale Anzahl von in der Betreffzeile einer E-Mail zulässigen Textzeichen. 
     
@@ -255,7 +255,7 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 - **Dateianlagengrößenlimit** Die maximale Dateigröße einer einzelnen Anlage. 
     
     > [!NOTE]
-    > Dies ist die maximale Dateigröße einer einzelnen Anlage. Einzelne Clientprogramme, u. a. Outlook Web App, schränken die Größe von Anlagen ggf. noch weiter ein. Exchange ActiveSync implementiert keine Anlagengrößenlimits für einzelne Anlagen. Die Gesamtgröße aller Anlagen einer Exchange ActiveSync-Nachricht muss kleiner sein als die Nachrichtengrößeneinschränkung. 
+    > Dies ist die maximale Dateigröße einer einzelnen Anlage. Einzelne Clientprogramme, u. a. Outlook Web App, schränken die Größe von Anlagen ggf. noch weiter ein. Exchange ActiveSync implementiert keine Anlagengrößenlimits für einzelne Anlagen. Die Gesamtgröße aller Anlagen einer Exchange ActiveSync-Nachricht muss kleiner sein als die Nachrichtengrößeneinschränkung. 
   
 - **Grenze für mehrteilige Nachrichten** Die maximale Anzahl der Nachrichtentextteile, die in einer mehrteiligen MIME-Nachricht zugelassen sind. Dieser Grenzwert steuert außerdem die maximale Anzahl Dateianlagen, die in einer Nachricht zulässig sind. 
     
@@ -266,44 +266,46 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Grenzwert für Nachrichtengröße - Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
-|Grenzwert für Nachrichtengröße - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
-|Grenzwert für Nachrichtengröße - Outlook für Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
+|Grenzwert für Nachrichtengröße – Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
+|Grenzwert für Nachrichtengröße – OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
+|Grenzwert für Nachrichtengröße – Outlook für Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |Nachrichtengrößenbeschränkung - Migration  <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |150 MB <sup>1, 4</sup> <br/> |
-|Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)<sup>5</sup> <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)<sup>5</sup> <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die ältere Version der Office 365-Nachrichtenverschlüsselung verwenden)<sup>5</sup> <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
 |Grenzwert für Länge des Betreffs  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |
-|Grenzwert für Dateianlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
-|Größenlimit für Dateianlagen - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
-|Größenlimit für Dateianlagen - OWA <sup>6</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|Größenlimit für Dateianlagen - Outlook für Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
-|Grenzwert für mehrteilige Nachrichten  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |
+|Grenzwert für Dateianlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
+|Größenlimit für Dateianlagen – Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Größenlimit für Dateianlagen – OWA <sup>6</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
+|Größenlimit für Dateianlagen – Outlook für Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Grenzwert für mehrteilige Nachrichten  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |
 |Grenzwert für die Tiefe der Nachrichteneinbettung  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> die standardmäßige maximale Nachrichtengröße für Office 365-Postfächer beträgt 25 MB. Office 365 Administratoren können eine benutzerdefinierte Grenze zwischen 1 MB und 150 MB angeben. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Office 365 jetzt unterstützt größere e-Mail-Nachrichten](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Office 365-Benutzern senden und empfangen (wobei die Nachricht nie die Office 365-Datencenter verlässt). Nachrichten, die außerhalb der Office 365-Rechenzentren weitergeleitet werden, unterliegeneiner zusätzlichen 33%-Konvertierungs Codierungs Erweiterung, in diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> <sup>3</sup> OWA-Konten für die Möglichkeit, dass Ihre Nachricht möglicherweise der 33%-Codierungs Erweiterung unterliegt, und schränkt die Größe der Nachricht ein, die Sie an 25% weniger als die konfigurierte Einstellung senden können. Wenn Sie beispielsweise Ihre Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten, die nicht größer als 75 MB sind, senden. <br/> <sup>4</sup> die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, werden von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. Dieser Grenzwert gilt für auf Verschiebungen basierende Migrationen mit einem beliebigen unterstützten Exchange-Postfachreplikationsdienst. Andere Migrationsmethoden (einstufig, mehrstufig, IMAP, PST-Datei) und andere Tools von Drittanbietern werden durch allgemeine Nachrichtengröße begrenzt. <br/> <sup>5</sup> Weitere Informationen zu OM mit neuen Funktionen finden Sie unter [Einrichten von neuen Office 365-Nachrichten Verschlüsselungsfunktionen, die auf Azure Information Protection basieren](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>6</sup> Sie können keine einzelne Datei anfügen, die größer als 35 MB ist. Darüber hinaus können Sie keine Dateien anfügen, die insgesamt 35 MB überschreiten. Wenn Sie beispielsweise eine Datei mit 34 MB anfügen, können Sie nur noch eine weitere Datei mit 1 MB anfügen. 
+> <sup>1</sup> Die standardmäßige maximale Nachrichtengröße für Office 365-Postfächer beträgt 25 MB. Office 365-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB festlegen. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen von der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Office 365 unterstützt jetzt größere E-Mail-Nachrichten](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Sie können Nachrichten mit bis zu 150 MB zwischen Office 365-Benutzern senden und empfangen (die Nachricht verlässt dabei nie die Office 365-Datencenter). Nachrichten, die außerhalb der Office 365-Datencenter weitergeleitet werden, werden aufgrund der Übersetzungscodierung noch einmal um 33 % größer. In diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> <sup>3</sup> OWA berücksichtigt die Möglichkeit, dass Ihre Nachricht aufgrund der Codierung um 33 % größer wird, und beschränkt die Größe der Nachricht, die Sie senden können, auf einen um 25 % niedrigeren Wert als die konfigurierte Einstellung. Wenn Sie beispielsweise die Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten mit bis zu 75 MB senden. <br/> <sup>4</sup> Die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, wird von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. Dieser Grenzwert gilt für auf Verschiebungen basierende Migrationen mit einem beliebigen unterstützten Exchange-Postfachreplikationsdienst. Andere Migrationsmethoden (einstufig, mehrstufig, IMAP, PST-Datei) und andere Tools von Drittanbietern werden durch allgemeine Nachrichtengröße begrenzt. <br/> 
+  <sup>5</sup> Informationen zu OME mit neuen Funktionen finden Sie unter [Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US).. <br/> <sup>6</sup> Sie können keine einzelne Datei anfügen, die mehr als 35 MB groß ist. Darüber hinaus können Sie keine Dateien anfügen, die insgesamt 35 MB überschreiten. Wenn Sie beispielsweise eine Datei mit 34 MB anfügen, können Sie nur noch eine weitere Datei mit 1 MB anfügen. 
   
 ### <a name="message-limits-across-standalone-options"></a>Nachrichtengrenzwert in eigenständigen Produkten
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
-|Grenzwert für Nachrichtengröße - Outlook  <br/> |10 MB<sup>4</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>2</sup> <br/> |
-|Grenzwert für Nachrichtengröße - OWA  <br/> |10 MB<sup>4</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
-|Grenzwert für Nachrichtengröße - Outlook für Mac  <br/> |10 MB<sup>4</sup> <br/> |150 MB   <br/> |150 MB  <br/> ||
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|Grenzwert für Nachrichtengröße – Outlook  <br/> |10 MB<sup>4</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>2</sup> <br/> |
+|Grenzwert für Nachrichtengröße – OWA  <br/> |10 MB<sup>4</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
+|Grenzwert für Nachrichtengröße – Outlook für Mac  <br/> |10 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB  <br/> ||
 |Nachrichtengrößenbeschränkung - Migration  <br/> |Nicht zutreffend  <br/> |150 MB <sup>5</sup> <br/> |150 MB <sup>5</sup> <br/> |150 MB <sup>5</sup> <br/> |
-|Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)<sup>6</sup> <br/> |150 MB   <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
+|Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)<sup>6</sup> <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die eine ältere Version der Office 365-Nachrichtenverschlüsselung verwenden)<sup>6</sup> <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
 |Grenzwert für Länge des Betreffs  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |
-|Grenzwert für Dateianlagen  <br/> |1024 Anhänge<sup>4</sup> <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
-|Größenlimit für Dateianlagen - Outlook  <br/> |35 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
-|Größenlimit für Dateianlagen - OWA  <br/> |35 MB<sup>4</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|Größenlimit für Dateianlagen - Outlook für Mac  <br/> |35 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB  <br/> |35 MB  <br/> |
-|Grenzwert für mehrteilige Nachrichten  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |
+|Grenzwert für Dateianlagen  <br/> |1024 attachments<sup>4</sup> <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
+|Größenlimit für Dateianlagen – Outlook  <br/> |35 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Größenlimit für Dateianlagen – OWA  <br/> |35 MB<sup>4</sup> <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
+|Größenlimit für Dateianlagen – Outlook für Mac  <br/> |35 MB<sup>4</sup> <br/> |150 MB  <br/> |150 MB  <br/> |35 MB  <br/> |
+|Grenzwert für mehrteilige Nachrichten  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |
 |Grenzwert für die Tiefe der Nachrichteneinbettung  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 Administratoren können eine benutzerdefinierte Grenze zwischen 1 mb und 150 MB angeben. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Office 365 jetzt unterstützt größere e-Mail-Nachrichten](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Office 365-Benutzern senden und empfangen (wobei die Nachricht nie die Office 365-Datencenter verlässt). Nachrichten, die außerhalb der Office 365-Rechenzentren weitergeleitet werden, unterliegeneiner zusätzlichen 33%-Konvertierungs Codierungs Erweiterung, in diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> <sup>3</sup> OWA-Konten für die Möglichkeit, dass Ihre Nachricht möglicherweise der 33%-Codierungs Erweiterung unterliegt, und schränkt die Größe der Nachricht ein, die Sie an 25% weniger als die konfigurierte Einstellung senden können. Wenn Sie beispielsweise Ihre Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten, die nicht größer als 75 MB sind, senden. <br/> <sup>4</sup> Dies ist der Standardgrenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. <br/> <sup>5</sup> die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, werden von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. <br/> <sup>6</sup> Weitere Informationen zu OM mit neuen Funktionen finden Sie unter [Einrichten von neuen Office 365-Nachrichten Verschlüsselungsfunktionen, die auf Azure Information Protection basieren](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
+> <sup>1</sup> Office 365-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB festlegen.. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen von der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Office 365 unterstützt jetzt größere E-Mail-Nachrichten](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Sie können Nachrichten mit bis zu 150 MB zwischen Office 365-Benutzern senden und empfangen (die Nachricht verlässt dabei nie die Office 365-Datencenter). Nachrichten, die außerhalb der Office 365-Datencenter weitergeleitet werden, werden aufgrund der Übersetzungscodierung noch einmal um 33 % größer. In diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> <sup>3</sup> OWA berücksichtigt die Möglichkeit, dass Ihre Nachricht aufgrund der Codierung um 33 % größer wird, und beschränkt die Größe der Nachricht, die Sie senden können, auf einen um 25 % niedrigeren Wert als die konfigurierte Einstellung. Wenn Sie beispielsweise die Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten mit bis zu 75 MB senden. <br/> <sup>4</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. <br/> <sup>5</sup> Die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, wird von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. <br/> 
+  <sup>6</sup> Informationen zu OME mit neuen Funktionen finden Sie unter [Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US).. 
   
 ## <a name="receiving-and-sending-limits"></a>Empfangs- und Sendegrenzen
 
@@ -316,7 +318,7 @@ Empfangsgrenzen gelten für die Anzahl von Nachrichten, die ein Benutzer, eine G
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium Office** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Empfangene Nachrichten  <br/> |3.600 Nachrichten pro Stunde  <br/> |3.600 Nachrichten pro Stunde  <br/> |3.600 Nachrichten pro Stunde  <br/> |3.600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |
+|Empfangene Nachrichten  <br/> |3.600 Nachrichten pro Stunde  <br/> |3.600 Nachrichten pro Stunde  <br/> |3.600 Nachrichten pro Stunde  <br/> |3.600 Nachrichten pro Stunde  <br/> |3.600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |
    
 ### <a name="sending-limits"></a>Sendegrenzen
 
@@ -328,7 +330,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 - **Empfängerratengrenzwert** Um die massenhafte Zustellung von Junk-E-Mails zu unterbinden, verfügtExchange Online über Empfängerbeschränkungen, mit denen Benutzer und Anwendungen daran gehindert werden, große Mengen E-Mails zu versenden. Diese Grenzwerte gelten pro Benutzer für alle ausgehenden und internen Nachrichten. 
     
     > [!NOTE]
-    > Exchange Online-Kunden, die seriöse kommerzielle E-Mails versenden müssen (z. B. Kunden-Newsletter), sollten einen Drittanbieter in Anspruch nehmen, der sich auf diese Dienste spezialisiert. 
+    > Exchange Online-Kunden, die seriöse kommerzielle E-Mails versenden müssen (z. B. Kunden-Newsletter), sollten einen Drittanbieter in Anspruch nehmen, der sich auf diese Dienste spezialisiert. 
   
 - **Empfängergrenzwert** Dies ist die maximale Anzahl von Empfängern, die in den Feldern "An:", "Cc:" und "Bcc:" für eine einzelne E-Mail zulässig ist. 
     
@@ -342,8 +344,8 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Empfängerratengrenzwert  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
-|Empfängergrenzwert  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
+|Empfängerratengrenzwert  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
+|Empfängergrenzwert  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
 |Grenzwert für Empfängerproxyadresse  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
 |Nachrichtenratengrenzwert  <br/> |30 Nachrichten pro Minute  <br/> |30 Nachrichten pro Minute  <br/> |30 Nachrichten pro Minute  <br/> |30 Nachrichten pro Minute  <br/> |30 Nachrichten pro Minute  <br/> |30 Nachrichten pro Minute  <br/> |
    
@@ -351,9 +353,9 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
-|Empfängerratengrenzwert  <br/> |Keine Beschränkung<sup>1</sup> <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
-|Empfängergrenzwert  <br/> |500 Empfänger<sup>1</sup> <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|Empfängerratengrenzwert  <br/> |Keine Beschränkung<sup>1</sup> <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
+|Empfängergrenzwert  <br/> |500 Empfänger<sup>1</sup> <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
 |Grenzwert für Empfängerproxyadresse  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
    
 > [!NOTE]
@@ -382,22 +384,22 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Aufbewahrungszeitraum des Ordners "Gelöschte Elemente"  <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |
 |Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden  <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |
-|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |
+|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Dies ist die Standardeinstellung. Administratoren können diesen Wert für ihre Organisation ändern. 
+> <sup>1</sup>   Dies ist die Standardeinstellung. Administratoren können diesen Wert für ihre Organisation ändern. 
   
 ### <a name="retention-limits-across-standalone-options"></a>Aufbewahrungszeitraum in eigenständigen Produkten
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
 |Aufbewahrungszeitraum des Ordners "Gelöschte Elemente"  <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |
-|Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden  <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>2</sup> <br/> |14 Tage<sup>2</sup> <br/> |14 Tage<sup>2</sup> <br/> |
-|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"  <br/> |2 Jahre<sup>1</sup> <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |
+|Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden  <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>2</sup> <br/> |14 Tage<sup>2</sup> <br/> |14 Tage<sup>2</sup> <br/> |
+|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"  <br/> |2 Jahre<sup>1</sup> <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Dies ist die Standardeinstellung. Administratoren können diesen Wert für ihre Organisation ändern.<br/> <sup>2</sup> Dies ist der standardmäßige Wert für Exchange Online-Organisationen. Ein Administrator kann diesen Grenzwert für Postfächer in seiner Organisation auf maximal 30 Tage ändern. 
+> <sup>1</sup>   Dies ist die Standardeinstellung. Administratoren können diesen Wert für ihre Organisation ändern. <br/> <sup>2</sup> Dies ist der standardmäßige Wert für Exchange Online-Organisationen. Ein Administrator kann diesen Grenzwert für Postfächer in seiner Organisation auf maximal 30 Tage ändern. 
   
 ## <a name="distribution-group-limits"></a>Verteilergruppen-Grenzwerte
 
@@ -414,10 +416,10 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
+|Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |
-|Maximale Nachrichtengröße für Verteilergruppen mit 5.000 bis 99.999 Mitgliedern  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
-|Maximale Nachrichtengröße für Verteilergruppen mit 100.000 Mitgliedern  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
+|Obergrenze für Nachrichten an Verteilergruppen mit 5.000 bis 99.999 Mitgliedern  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
+|Obergrenze für Nachrichten an Verteilergruppen mit 100.000 Mitgliedern  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |5 MB  <br/> |
 |Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
@@ -428,8 +430,8 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
-|Maximale Anzahl Mitglieder einer Verteilergruppe  <br/> |100.000 Mitglieder<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|Maximale Anzahl Mitglieder einer Verteilergruppe  <br/> |100.000 Mitglieder<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe  <br/> |5.000 oder mehr Mitglieder<sup>1</sup> <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |
 |Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann  <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |250<sup>2</sup> <br/> |
@@ -437,7 +439,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 > [!NOTE]
 > <sup>1</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. <br/> <sup>2</sup> Dieser Grenzwert gilt auch für Administratoren. 
   
-## <a name="journal-transport-and-inbox-rule-limits"></a>Journal-, Transport- und Posteingangsregelgrenzen
+## <a name="journal-transport-and-inbox-rule-limits"></a>Journal-, Transport- und Postfachregelgrenzen
 
 Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln (auch als organisationsweite Regeln bezeichnet) sowie für Grenzwerte gelten, die für Posteingangsregeln gelten. Posteingangsregeln werden von einzelnen Benutzern festgelegt und auf Nachrichten angewendet, die vom Postfach des entsprechenden Benutzers gesendet und empfangen werden.
   
@@ -462,9 +464,15 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Maximale Anzahl von Journalregeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |
-|Maximale Anzahl Transportregeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |
-|Maximale Größe einer einzelnen Transportregel  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
+|Maximale Anzahl von Journalregeln  <br/> |10 Regeln
+  <br/> |10 Regeln
+  <br/> |10 Regeln
+  <br/> |10 Regeln
+  <br/> |10 Regeln
+  <br/> |10 Regeln
+  <br/> |
+|Maximale Anzahl Transportregeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |
+|Maximale Größe einer einzelnen Transportregel  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
 |Überprüfungsgrenzwerte für Anlageninhalt  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
 |Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |
@@ -475,13 +483,16 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
-|Maximale Anzahl von Journalregeln  <br/> |Keine Begrenzung  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |
-|Maximale Anzahl Transportregeln  <br/> |Keine Begrenzung  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |
-|Maximale Größe einer einzelnen Transportregel  <br/> |40 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|Maximale Anzahl von Journalregeln  <br/> |Unbegrenzt  <br/> |10 Regeln
+  <br/> |10 Regeln
+  <br/> |10 Regeln
+  <br/> |
+|Maximale Anzahl Transportregeln  <br/> |Keine Begrenzung  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |
+|Maximale Größe einer einzelnen Transportregel  <br/> |40 KB  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln  <br/> |Keine Begrenzung  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
 |Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger  <br/> |Keine Begrenzung  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |
-|Weiterleitungsgrenzwert  <br/> |Unbegrenzt  <br/> |10 Empfänger  <br/> |10 Empfänger  <br/> |10 Empfänger  <br/> |
+|Weiterleitungsgrenzwert  <br/> |Keine Begrenzung  <br/> |10 Empfänger  <br/> |10 Empfänger  <br/> |10 Empfänger  <br/> |
 |Anzahl der Umleitungen einer Nachricht  <br/> |3 Umleitungen  <br/> |1 Umleitung  <br/> |1 Umleitung  <br/> |1 Umleitung  <br/> |
   
 ## <a name="moderation-limits"></a>Moderationsgrenzwerte
@@ -505,19 +516,19 @@ Diese Grenzwerte steuern die Moderationseinstellungen für die Nachrichtengenehm
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Maximale Größe des Vermittlungspostfachs  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
-|Maximale Anzahl Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |
-|Ablauf für Nachrichten, die auf Moderation warten  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |
-|Maximale Rate für abgelaufene Moderationsbenachrichtigungen  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |
+|Maximale Anzahl Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |
+|Ablauf für Nachrichten, die auf Moderation warten  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |
+|Maximale Rate für abgelaufene Moderationsbenachrichtigungen  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |
    
 ### <a name="moderation-limits-across-standalone-options"></a>Moderationsgrenzwerte in eigenständigen Produkten
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
 |Maximale Größe des Vermittlungspostfachs  <br/> |Keine Beschränkung<sup>1</sup> <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
-|Maximale Anzahl Moderatoren  <br/> |Unbegrenzt  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |
-|Ablauf für Nachrichten, die auf Moderation warten  <br/> |5 Tage<sup>1</sup> <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |
-|Maximale Rate für abgelaufene Moderationsbenachrichtigungen  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |
+|Maximale Anzahl Moderatoren  <br/> |Keine Begrenzung  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |
+|Ablauf für Nachrichten, die auf Moderation warten  <br/> |5 Tage<sup>1</sup> <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |
+|Maximale Rate für abgelaufene Moderationsbenachrichtigungen  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. 
@@ -542,11 +553,11 @@ Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei hand
 |Exchange ActiveSync-Gerätelöschbegrenzung  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Exchange ActiveSync-Dateianlagebegrenzung  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
    
-### <a name="exchange-activesync-limits-across-standalone-options"></a>Exchange ActiveSync-Grenzwerte über eigenständige Optionen hinweg 
+### <a name="exchange-activesync-limits-across-standalone-options"></a>Exchange ActiveSync-Grenzwerte über eigenständige Optionen hinweg
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
+|**Feature** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |
 |Exchange ActiveSync-Gerätebegrenzung  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Exchange ActiveSync-Gerätelöschbegrenzung  <br/> |20  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Exchange ActiveSync-Dateianlagebegrenzung  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
