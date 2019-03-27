@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering Direct ist eine Unterstützung für Enterprise-Level-Support für einen Microsoft Premier Support-Vertrag. Die Office 365 Engineering Direct Service Description enthält zusätzliche Informationen zu den angebotenen Features und den Implementierungsanforderungen.
-ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
+ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467892"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30867921"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct-Dienstbeschreibung
 
-Office 365 Engineering Direct ist eine Unterstützung für Enterprise-Level-Support für einen Microsoft Premier Support-Vertrag. Die [Office 365 Engineering Direct Service Description](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) enthält zusätzliche Informationen zu den angebotenen Features und den Implementierungsanforderungen.
+Office 365 Engineering Direct ist eine Unterstützung für Enterprise-Level-Support für einen Microsoft Premier Support-Vertrag. Die [Office 365 Engineering Direct Service Description](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) enthält zusätzliche Informationen zu den angebotenen Features und den Implementierungsanforderungen.
 
 Um das Office 365 Engineering Direct-Angebot als neuen Kunden zu erhalten, muss Ihre Organisation ein Microsoft Premier-Support-Angebot abonnieren, die große Enterprise-klassifizierungsstufe für Office 365-Dienste erfüllen und einen Nachtrag zum Supportvertrag ausführen. Es gelten zusätzliche Kosten für die Suite für zusätzliche Dienste. Wenden Sie sich an Ihren Microsoft Account-Team Vertreter, um den Status Ihres Supportvertrags zu bestätigen und vertragliche Änderungen zur Sicherung des Support Angebots zu initiieren. 
 
