@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365, betrieben von 21Vianet, wurde entwickelt, um die Anforderungen für sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: a34a4f4a2a96254a65f04e934b3c1c7c178d9088
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468082"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955804"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -178,7 +178,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, betrieben 
 |Office 365 Erweiterte eDiscovery  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Sicheres Ergebnis<sup>4</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|**[Compliance [Dienstbeschr]](compliance-servicedesc.md)** <br/> ||||||||
+|**[Compliance[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
@@ -356,7 +356,7 @@ In der folgenden Tabelle sind die Exchange Online-Dienste aufgeführt, die in Of
 |**[Empfänger](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
 |Kapazitätswarnungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unwichtige Elemente  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|E-Mail-Info  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |
+|MailTips  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |
 |Stellvertretungszugriff  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Posteingangsregeln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Verbundene Konten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |
@@ -440,13 +440,13 @@ Informationen zu Exchange Online-Grenzwerten finden Sie in den folgenden Themen:
     
 - [Kapazitätswarnungen](../exchange-online-service-description/exchange-online-limits.md#capacity-alerts)
     
-- [Begrenzungen für Postfachordner](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
+- [Mailbox folder limits](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
     
 - [Nachrichtengrenzwerte](../exchange-online-service-description/exchange-online-limits.md#message-limits)
     
 - [Empfangs- und Sendegrenzen](../exchange-online-service-description/exchange-online-limits.md#receiving-and-sending-limits)
     
-- [Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung](../exchange-online-service-description/exchange-online-limits.md#reporting-and-message-trace-limits)
+- [Reporting and message trace limits](../exchange-online-service-description/exchange-online-limits.md#reporting-and-message-trace-limits)
     
 - [Aufbewahrungsgrenzwerte](../exchange-online-service-description/exchange-online-limits.md#retention-limits)
     
@@ -462,7 +462,7 @@ Informationen zu Exchange Online-Grenzwerten finden Sie in den folgenden Themen:
 > - Die Grenzwerte für eine Microsoft Office 365-Organisation können unterschiedlich sein, je nachdem, wie lange die Organisation im Dienst registriert wurde. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
 > - Die meisten dieser Grenzwerte können zwar nicht geändert werden, sie sollten Ihnen und den Benutzern jedoch bekannt sein. 
 > - Diese Grenzwerte gelten sowohl für interne als auch für externe Empfänger. 
-> - Standardmäßig schützt Exchange Online Protection (EOP) Exchange Online-Postfächer. Grenzwerte für EOP-Features in Exchange Online finden Sie unter [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - Standardmäßig schützt Exchange Online Protection (EOP) Exchange Online-Postfächer. Informationen zu Grenzwerten für EOP-Funktionen in Exchange Online finden Sie unter [Exchange Online Protection-Grenzwerte](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
   
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection-Features
 <a name="BM6_EOP"> </a>
@@ -497,11 +497,11 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 |[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Ja  <br/> |Ja  <br/> |
 |[Bedingtes E-Mail-Routing](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Ja  <br/> |Ja  <br/> |
 |[Hybrides E-Mail-Routing](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Nein  <br/> |Ja  <br/> |
-|[Microsoft 365 Admin Center-Berichte](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Nr.<sup>8</sup> <br/> |Ja<sup>8, 9</sup> <br/> |
+|[Microsoft 365 Admin Center-Berichte](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Nr.<sup>8</sup> <br/> |Ja<sup>8, 9</sup> <br/> |
 |[Berichte der Excel-Downloadanwendung](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |Nein  <br/> |Ja  <br/> |
 |[Berichterstellung mit Webdiensten](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |Nein  <br/> |Ja  <br/> |
 |[Nachrichtenablaufverfolgung](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |
-|[Zugriff auf das Microsoft 365 Admin Center](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Ja  <br/> |Ja  <br/> |
+|[Zugriff auf das Microsoft 365 Admin Center](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Ja  <br/> |Ja  <br/> |
 |[Zugriff auf die Exchange-Verwaltungskonsole](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Ja  <br/> |Ja  <br/> |
 |[Zugriff auf Remote Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |
    
@@ -557,7 +557,7 @@ In der folgenden Tabelle sind die Exchange Online-Archivierungs Features in Offi
 |Überwachung  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Benutzerpostfächer müssen sich auf Exchange 2010 SP2 oder höher befinden. > <sup>2</sup> in-Place Archive kann nur verwendet werden, um e-Mails für einen einzelnen Benutzer oder eine Entität zu archivieren, für die eine Lizenz angewendet wurde. Das Verwenden eines in-Place-Archivs als Möglichkeit zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist unzulässig. Beispielsweise können IT-Administratoren keine freigegebenen Postfächer erstellen und Benutzer (über das Feld "CC" oder "Bcc" oder über eine Transportregel) ein freigegebenes Postfach zum expliziten Zwecke der Archivierung kopieren lassen. > <sup>3</sup> eine Liste unterstützter Microsoft Outlook-Versionen finden Sie unter [Client Features in Exchange Online Archiving](../exchange-online-archiving-service-description/client-features.md). > <sup>4</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterSTÜTZTen IRM-Funktionen zu aktivieren. > <sup>5</sup> Wenn Sie für ein Postfach ein in-situ-Aufbewahrungs-oder Gerichtsverfahren halten, wird der Haltebereich sowohl auf das primäre als auch auf das Archivpostfach gesetzt. 
+> <sup>1</sup> Benutzerpostfächer müssen sich auf Exchange 2010 SP2 oder höher befinden. > <sup>2</sup> in-Place Archive kann nur verwendet werden, um e-Mails für einen einzelnen Benutzer oder eine Entität zu archivieren, für die eine Lizenz angewendet wurde. Das Verwenden eines in-Place-Archivs als Möglichkeit zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist unzulässig. IT-Administratoren ist beispielsweise nicht berechtigt, ein freigegebenes Postfach zu erstellen und die Benutzer anzuweisen, dieses freigegebene Postfach zum expliziten Zweck der Archivierung in E-Mails zu adressieren (auf CC oder BCC bzw. über eine Transportregel). > <sup>3</sup> eine Liste unterstützter Microsoft Outlook-Versionen finden Sie unter [Client Features in Exchange Online Archiving](../exchange-online-archiving-service-description/client-features.md). > <sup>4</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterSTÜTZTen IRM-Funktionen zu aktivieren. > <sup>5</sup> Wenn Sie für ein Postfach ein in-situ-Aufbewahrungs-oder Gerichtsverfahren halten, wird der Haltebereich sowohl auf das primäre als auch auf das Archivpostfach gesetzt. 
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online-Features
 <a name="BM8_SPOnline"> </a>
