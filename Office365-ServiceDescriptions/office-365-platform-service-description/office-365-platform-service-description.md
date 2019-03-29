@@ -3,7 +3,7 @@ title: Office 365-Plattformdienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 2/21/2019
+ms.date: 03/28/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
-ms.openlocfilehash: eb542d224f330581490265713675929df65693c8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 0ad78d2b5fbdecd7fcec3e9177254f7e0b2a99b2
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467722"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955784"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365-Plattformdienstbeschreibung
 
@@ -188,7 +188,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Office 365 Advanced eDiscovery<sup>17</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Secure Score<sup>7</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|**[Compliance [Dienstbeschr]](compliance-servicedesc.md)** <br/> ||||||||
+|**[Compliance[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -208,8 +208,8 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
    
 
 > <sup>1</sup> Office 365 bietet keine Unterstützung für Betriebssysteme, die nicht von deren Hersteller unterstützt werden. 
-<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. 
-<br/><sup>3</sup> Wenn Sie die Verzeichnissynchronisierung verwenden, müssen Sie mit Active Directory Konten löschen oder Kennwörter ändern, statt das Office 365-Portal oder das Azure Active Directory-Modul für Windows PowerShell dazu zu nutzen. 
+<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. Die Office-Client-apps, die mit Microsoft 365 Business geliefert werden, unterstützen auch die vollständige Azure Information Protection (Plan 1)-Features.
+<br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
 <br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup> Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird. 
 <br/><sup>7</sup> Verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=836894). 

@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthält eine Liste von Plänen, die Exchange Online Protection sowie einen Vergleich der Features in diesen Plänen bereitstellt.
-ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467672"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955764"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
@@ -63,7 +63,7 @@ Microsoft Exchange Enterprise CAL mit Diensten liefert den E-Mail-Schutz des EOP
   
 - [Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
     
-- [Berichterstellung mit Webdiensten](reporting-and-message-trace.md#reporting-using-web-services)
+- [Reporting using web services](reporting-and-message-trace.md#reporting-using-web-services)
     
 Weitere Informationen zur Lizenzierung von Exchange Enterprise CAL mit Diensten finden Sie im Artikel zum Thema [Exchange Server 2013-Lizenzierung](https://go.microsoft.com/fwlink/p/?LinkId=293699).
   
@@ -109,11 +109,11 @@ Jedes Funktion ist unten aufgeführt. Detailliertere Informationen zu EOP-Funkti
 |[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Bedingtes E-Mail-Routing](mail-flow-eop.md#conditional-mail-routing) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Hybrides E-Mail-Routing](mail-flow-eop.md#hybrid-mail-routing) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Microsoft 365 Admin Center-Berichte](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Ja<sup>9</sup> <br/> |Ja<sup>10</sup> <br/> |Ja <sup>9, 10</sup> <br/> |
+|[Microsoft 365 Admin Center-Berichte](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Ja<sup>9</sup> <br/> |Ja<sup>10</sup> <br/> |Ja <sup>9, 10</sup> <br/> |
 |[Berichte der Excel-Downloadanwendung](reporting-and-message-trace.md#excel-download-application-reports) <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |
 |[Berichterstellung mit Webdiensten](reporting-and-message-trace.md#reporting-using-web-services) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Nachrichtenablaufverfolgung](reporting-and-message-trace.md#message-trace) <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja  <br/> |
-|[Zugriff auf das Microsoft 365 Admin Center](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Zugriff auf das Microsoft 365 Admin Center](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Zugriff auf die Exchange-Verwaltungskonsole](administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Zugriff auf Remote Windows PowerShell](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
    

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zur Anpassung der Exchange Online-Einstellungen und der aktuellen Exchange Online-Umgebung einer Organisation verfügbar sind. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
-ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467802"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955744"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Einrichtung und Verwaltung in Exchange Online
 
@@ -34,7 +34,7 @@ Exchange Online bietet daher den Kundenadministratoren die im Folgenden beschrie
   
 - [Microsoft Office 365-Portal](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Microsoft 365 Admin Center](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Microsoft 365 Admin Center](#microsoft-365-admin-center)
     
 - [Exchange-Verwaltungskonsole](exchange-online-setup-and-administration.md#exchange-admin-center)
     

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option von den in Europa bereits verfügbaren Office 365-Diensten. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: 52f98f816ae0cdb0d919dd485fd0ba4b3767ef22
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468092"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955824"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -364,7 +364,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |**[Empfänger](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Deutschland Business Essentials** <br/> |**Office 365 Deutschland Business** <br/> |**Office 365 Deutschland Business Premium** <br/> |**Office 365 Deutschland Education A1** <br/> |**Office 365 Deutschland Enterprise E1** <br/> |**Office 365 Deutschland Enterprise E3** <br/> |**Office 365 Deutschland Enterprise E4** <br/> |**Office 365 Deutschland Enterprise K1** <br/> |
 |Kapazitätswarnungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |UnÜbersichtlichkeit<sup>3</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|E-Mail-Info  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|MailTips  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Stellvertretungszugriff  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Posteingangsregeln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Verbundene Konten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |
@@ -437,7 +437,7 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**EOP als eigenständige Lösung** <br/> |**EOP-Funktionen in Exchange Online** <br/> |**Exchange Enterprise CAL mit Diensten** <br/> |
+|**Funktion** <br/> |**EOP als eigenständige Lösung** <br/> |**EOP-Funktionen in Exchange Online** <br/> |**Exchange Enterprise CAL mit Diensten** <br/> |
 |[E-Mail-Empfänger](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients) <br/> |Ja<sup>1</sup> <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |
 |[Berechtigungen für Administratorrollengruppen](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Domänenverwaltung](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management) <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja<sup>3</sup> <br/> |
@@ -462,11 +462,11 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 |[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Bedingtes E-Mail-Routing](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Hybrides E-Mail-Routing](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Microsoft 365 Admin Center-Berichte](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Ja<sup>9</sup> <br/> |Ja<sup>10</sup> <br/> |Ja <sup>9, 10</sup> <br/> |
+|[Microsoft 365 Admin Center-Berichte](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Ja<sup>9</sup> <br/> |Ja<sup>10</sup> <br/> |Ja <sup>9, 10</sup> <br/> |
 |[Berichte der Excel-Downloadanwendung](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |
 |[Berichterstellung mit Webdiensten](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Nachrichtenablaufverfolgung](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja  <br/> |
-|[Zugriff auf das Microsoft 365 Admin Center](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Zugriff auf das Microsoft 365 Admin Center](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Zugriff auf die Exchange-Verwaltungskonsole](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Zugriff auf Remote Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
    
