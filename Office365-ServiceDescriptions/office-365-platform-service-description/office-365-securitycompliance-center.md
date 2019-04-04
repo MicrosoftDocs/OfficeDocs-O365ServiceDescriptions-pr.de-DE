@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Office 365 Security &amp; Compliance Center wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 01d739ae1fb363265716021c15b11e51d5daac3e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
+ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467982"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31411864"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -81,10 +81,10 @@ Das [Office 365 Security &amp; Compliance Center](https://go.microsoft.com/fwlin
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Verfügbarkeit des Security &amp; Compliance Center in Office 365, betrieben von 21Vianet
 
-Informationen zur Verfügbarkeit des Office 365 Security &amp; Compliance Center in Office 365, betrieben von 21Vianet, finden Sie unter [](office-365-operated-by-21vianet.md#security--compliance-center-availability-in-office-365-operated-by-21vianet).
+Das Security & Compliance Center ist in keinem der Pläne für Office 365, betrieben von 21Vianet, verfügbar.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center: Verfügbarkeit in Office 365 Deutschland
 
-Informationen zur Verfügbarkeit des Office 365 Security &amp; Compliance Center in Office 365 Deutschland Enterprise E3 finden Sie unter [](office-365-germany.md#security--compliance-center-availability-in-office-365-germany).
+Das Security & Compliance Center ist für Office 365 Deutschland verfügbar. Informationen zu Office 365 Deutschland finden Sie unter [office 365 Deutsch](office-365-germany.md)Land.
   
 
