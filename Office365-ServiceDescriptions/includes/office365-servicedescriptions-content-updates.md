@@ -138,7 +138,7 @@
 | 3/18/2019 | [Produktnutzungsrechte](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | Geändert |
 
 
-## <a name="week-of-march-25-2019"></a>Woche vom 2019
+## <a name="week-of-march-25-2019"></a>Woche vom 25. März 2019
 
 
 | Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
@@ -152,9 +152,10 @@
 | 3/28/2019 | [Office 365-Plattformdienstbeschreibung](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Geändert |
 
 
-## <a name="week-of-february-25-2019"></a>Woche vom 2019
+## <a name="week-of-april-01-2019"></a>Woche vom 01. April 2019
 
 
 | Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
 |------|------------|--------|
-| 2/27/2019 | [Microsoft 365 Business - Dienstbeschreibung](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Geändert |
+| 4/3/2019 | [Office 365 Security & Compliance Center](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Geändert |
+| 4/4/2019 | [Office 365 Advanced Threat Protection-Dienstbeschreibung](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | Geändert |

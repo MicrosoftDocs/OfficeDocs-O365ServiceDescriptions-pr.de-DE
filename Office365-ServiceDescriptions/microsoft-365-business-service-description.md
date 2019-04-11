@@ -3,7 +3,7 @@ title: Microsoft 365 Business - Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/14/2019
+ms.date: 04/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen kombiniert, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie in den Office 365-Dienstbeschreibungen.
-ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
+ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641480"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764823"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
-Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen kombiniert, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie in den [office 365-Dienstbeschreibungen ](office-365-service-descriptions-technet-library.md).
+Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen kombiniert, um Ihr Unternehmen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie in den [office 365-Dienstbeschreibungen ](office-365-service-descriptions-technet-library.md).
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Featureverfügbarkeit in Office 365 Business Premium- und Microsoft 365 Business-Plänen
 
@@ -58,11 +58,12 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Office 365-Gruppen  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365-Video  <br/> |Nein  <br/> |Nein  <br/> |
 |OneNote-Kursnotizbuch  <br/> |Nein  <br/> |Nein  <br/> |
-|[Office 365-Verwaltungsfeatures](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|Microsoft Kaizala<sup>18</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Office 365 administration features](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Verwalten von Office 365 mithilfe des Microsoft 365 Admin Center oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |
 |Schützen von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>6</sup> <br/> |Ja  <br/> |
 |[Benutzerkontenverwaltung](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
-|Office 365-Desktopsetup  <br/> |Ja  <br/> |Ja  <br/> |
+|Office 365-Desktopsetup  <br/> |Ja  <br/> |Ja  <br/> |
 |Massenupload mit CSV-Dateien  <br/> |Ja  <br/> |Ja  <br/> |
 |Azure AD Connect-Synchronisierungstool  <br/> |Ja  <br/> |Ja<sup>7</sup> <br/> |
 |Einfache Exchange-Migration (Übernahmemigration)  <br/> |Ja  <br/> |Ja  <br/> |
@@ -96,7 +97,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |Nein  <br/> |Nein  <br/> |
 |Secure Score<sup>14</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |
-|[Compliance [Dienstbeschr]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Compliance[ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |
@@ -171,10 +172,11 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 <br/><sup>8</sup> Wenn Sie die Verzeichnissynchronisierung mit einem lokalen Active Directory verwenden, müssen Sie Konten löschen oder Kennwörter ändern, indem Sie das lokale Active Directory anstelle des Office 365-Portals oder das Azure Active Directory-Modul für Windows PowerShell verwenden. 
 <br/>nur <sup>9</sup> Cloud-Identitäten. Weitere Informationen finden Sie unter zulassen, dass [Benutzer ihre eigenen Kennwörter in Office 365 zurücksetzen](https://go.microsoft.com/fwlink/?linkid=852917). 
 <br/><sup>10</sup> bei der Reduzierung der Sitze, die mit einem Preisnachlass erworben wurden, kann eine vorzeitige Kündigungsgebühr berechnet werden. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird. 
-<br/><sup>11</sup> Microsoft 365 Business umfasst Exchange Online-Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
+<br/><sup>11</sup> Microsoft 365 Business umfasst Exchange Online-Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
 <br/><sup>12</sup> Weitere Informationen finden Sie unter [Steuern ihrer daten in Office 365 mit Kundenschlüssel](https://go.microsoft.com/fwlink/?linkid=863349). 
 <br/><sup>13</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.)
 <br/><sup>14</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=863490).
 <br/><sup>15</sup> vereinfachte Windows 10-Geräteverwaltung, integriert in das Microsoft 365 Admin Center. InTune-Verwaltungsfunktionen von iOS, Android, macOS und anderen plattformübergreifenden Geräte Verwaltungen, die in das Admin Center für die Geräteverwaltung integriert sind und für die Verwendung mit Microsoft 365 Business lizenziert sind. Drittanbieter-apps und die Konfiguration von WiFi-Profilen und VPN-Zertifikaten können auch im Device Management Admin Center verwaltet werden. 
 <br/><sup>16</sup> dieser Plan ist in Microsoft Stream Plan 2 enthalten, der Video Portal, die Transkription von Sprachtexten, die Tiefensuche und die Gesichtserkennung umfasst.
 <br/><sup>17</sup> vereinfachte Windows 10 Device Management-und InTune-App-Schutzrichtlinien, die in Microsoft 365 Admin Center integriert sind.
+<br/><sup>18</sup> ab Mai 2019 werden vorhandene SKUs von Office 365 und Microsoft 365 mit Kaizala pro wieder aufgenommen. Ab dem 1. Juni 2019 ist Kaizala pro in allen berechtigten Office 365-und Microsoft 365-SKUs enthalten. 

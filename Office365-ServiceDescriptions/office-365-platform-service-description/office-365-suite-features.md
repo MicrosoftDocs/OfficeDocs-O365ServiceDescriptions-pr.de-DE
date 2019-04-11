@@ -3,7 +3,7 @@ title: Office 365-Suitefeatures
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und Kommunikation sicher über viele Geräte und mehrere Office 365-Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466942"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764833"
 ---
 # <a name="office-365-suite-features"></a>Office 365-Suitefeatures
 
@@ -97,12 +97,14 @@ Gruppen in Office 365 verbinden Benutzer mit Kollegen, Informationen und Anwendu
 Office 365 Video ist ein sicheres, unternehmensweites Ziel, auf das Sie Videos hochladen können. Diese können dann freigegeben werden und werden geräteübergreifend erkannt. Grundlage sind die Microsoft Azure Media Services. Office 365 Video hält Benutzer motiviert und informiert. Sie können Ideen einem breiten Publikum präsentieren. Zudem trägt das Tool dazu bei, eine organisationsweit einheitliche Strategie zu entwickeln. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [Introducing Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>OneNote-Kursnotizbuch
-<a name="BKMK_Video"> </a>
 
 Das Kursnotizbuch ist Teil von OneNote und für Office 365 Education und Office 365 E5 Education verfügbar. Jedes Notizbuch umfasst einen Inhaltsbibliothek für Lehrer zum Freigeben von Kursinhalten, einen Zusammenarbeitsbereich, in dem Lehrer und Kursteilnehmer zusammenarbeiten können, sowie ein privates Notizbuch für jeden Kursteilnehmer. Nachdem ein Kursnotizbuch erstellt wurde, können Lehrer und Kursteilnehmer die OneNote-App verwenden, um von einem beliebigen Gerät aus darauf zuzugreifen.
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+Microsoft Kaizala ist eine einfache und sichere Mobile work Management-APP, die eine einzigartige Funktionalität für Microsoft 365 bietet, die sowohl innerhalb als auch außerhalb des Organisations Verzeichnisses eine Verbindung herstellen und einbinden kann – einschließlich Vertragsarbeiter, Lieferanten, Partner, Zulieferer, Kunden und Bürger – verwenden Sie umfangreiche und [flexible Gruppentypen](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710). Das Open Directory-Modell von Kaizala ermöglicht eine Telefonnummern basierte Identität für einfache Onboarding und eine einfache Benutzererfahrung für Messaging und Arbeitsverwaltung. Mit der mobilen Kaizala-App können Benutzer Sofortnachrichten und Anhänge wie Bilder, Dokumente, Videos, Audiodateien und mehr senden sowie Aktionskarten für Umfragen, Umfragen, Arbeitsaufträge, Ankündigungen, Schulungen und vieles mehr verwenden. [Kaizala ist in Office 365 verfügbar](https://products.office.com/en/business/microsoft-kaizala) und funktioniert auf iPhone und Android. Weitere Informationen finden Sie auf der [Kaizala-Website](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
-<a name="BKMK_Video"> </a>
 
 Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   

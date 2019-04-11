@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467742"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764853"
 ---
 # <a name="user-account-management"></a>Benutzerkontenverwaltung
 
@@ -55,7 +55,7 @@ Standardmäßig wird für das Office 365-Abonnement die Domäne \< _company name
   
 Sie können bis zu 900 registrierte Internetdomänen in Office 365 hosten, die jeweils durch einen anderen Namespace dargestellt werden. 
   
-In Organisationen, die einmaliges Anmelden verwenden, müssen alle Benutzer in einer Domäne dasselbe Identitätssystem verwenden: Cloudidentität oder Verbundidentität. Beispielsweise könnte eine Gruppe von Benutzern nur eine Cloudidentität benötigen, da sie auf lokale Systeme nicht zugreifen, und eine andere Gruppe von Benutzern könnte Office 365 und lokale Systeme verwenden. Sie würden Office 365 zwei Domänen hinzufügen, z. B. "contractors.contoso.com" und "staff.contoso.com", und SSO nur für eine der Domänen einrichten. Eine ganze Domäne kann von Cloudidentität in Verbundidentität und von Verbundidentität in Cloudidentität konvertiert werden.
+In Organisationen, die einmaliges Anmelden verwenden, müssen alle Benutzer in einer Domäne dasselbe Identitätssystem verwenden: Cloudidentität oder Verbundidentität. Sie können beispielsweise eine Gruppe von Benutzern verwenden, die nur eine Cloud-Identität benötigt, da Sie keinen Zugriff auf lokale Systeme und eine andere Benutzergruppe haben, die Office 365 und lokale Systeme verwendet. Sie würden Office 365 zwei Domänen hinzufügen, beispielsweise contractors.contoso.com und staff.contoso.com, und nur SSO für eine davon einrichten. Eine ganze Domäne kann von Cloudidentität in Verbundidentität und von Verbundidentität in Cloudidentität konvertiert werden.
   
 Weitere Informationen zu Domänen in Office 365 finden Sie unter [Domänen](domains.md). 
   
@@ -71,13 +71,13 @@ Mit der Ausnahme von Websites für anonymen Zugriff, die mit SharePoint Online e
     
 - **Authentifizierung der Cloudidentität** Benutzer mit Cloudidentitäten werden mit herkömmlichen Methoden für Herausforderung/Rückmeldung authentifiziert. Der Webbrowser wird an den Office 365-Anmeldedienst weitergeleitet, bei dem Sie den Benutzernamen und das Kennwort für Ihr Arbeits- oder Schulkonto angeben. Der Anmeldedienst authentifiziert Ihre Anmeldeinformationen und generiert ein Diensttoken, das der Webbrowser dem angeforderten Dienst bereitstellt, und Sie werden angemeldet. 
     
-- **Authentifizierung der Verbundidentität** Benutzer mit Verbundidentitäten werden mit Active Directory-Verbunddienste (AD FS) 2.0 oder anderen Sicherheitstokendiensten authentifiziert. Der Webbrowser wird an den Office 365-Anmeldedienst weitergeleitet, bei dem Sie Ihre Unternehmens-ID als Benutzerprinzipalnamen (UPN, User Principal Name, z. B. isabel@contoso.com) eingeben. Der Anmeldedienst ermittelt, dass Sie Teil einer Verbunddomäne sind, und bietet an, Sie zur Authentifizierung an den lokalen Verbundserver weiterzuleiten. Wenn Sie am Desktop angemeldet sind (Domänenbeitritt), werden Sie authentifiziert (mit Kerberos oder NTLMv2), und der lokale Sicherheitstokendienst generiert ein Anmeldetoken, das der Webbrowser dem Office 365-Anmeldedienst bereitstellt. Der Anmeldedienst generiert mithilfe des Anmeldetokens ein Diensttoken, das vom Webbrowser an den angeforderten Dienst weitergeleitet wird, und meldet Sie an. Eine Liste verfügbarer Sicherheitstokendienste finden Sie unter [Fahrplan für einmaliges Anmelden](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Verbund Identitätsauthentifizierung** Benutzer mit Verbundidentitäten werden mithilfe von Active Directory Federation Services (AD FS) 2,0 oder anderen sicherheitsTokendienst authentifiziert. Der Webbrowser wird an den Office 365-Anmeldedienst umgeleitet, in dem Sie Ihre Unternehmens-ID im Formular ein Benutzerprinzipalname (UPN, beispielsweise isabel@contoso.com) eingeben. Der Anmeldedienst ermittelt, dass Sie Teil einer Verbunddomäne sind, und bietet an, Sie zur Authentifizierung an den lokalen Verbundserver weiterzuleiten. Wenn Sie am Desktop (verbunden) angemeldet sind, werden Sie authentifiziert (mithilfe von Kerberos oder NTLMv2), und der lokale sicherheitsTokendienst generiert ein Anmelde Token, das vom Webbrowser an den Office 365-Anmeldedienst übertragen wird. Der Anmeldedienst generiert mithilfe des Anmeldetokens ein Diensttoken, das vom Webbrowser an den angeforderten Dienst weitergeleitet wird, und meldet Sie an. Eine Liste der verfügbaren sicherheitsTokendienst finden Sie unter [Single Sign-on Roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 verwendet die formularbasierte Authentifizierung, und der Authentifizierungsdatenverkehr über das Netzwerk wird immer an Port 443 mit TLS/SSL verschlüsselt. Der Authentifizierungsdatenverkehr beansprucht einen zu vernachlässigenden prozentualen Anteil der Bandbreite für Office 365-Dienste. 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Mehrstufige Authentifizierung für Office 365
 
-Bei der mehrstufigen Authentifizierung für Office\*365 müssen Benutzer nach der korrekten Eingabe des Kennworts einen Telefonanruf, eine Textnachricht oder eine APP-Benachrichtigung auf Ihrem Smartphone bestätigen. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Office 365-Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Weitere Informationen zur mehrstufigen [Authentifizierung für Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Bei der mehrstufigen Authentifizierung für Office 365 müssen Benutzer nach der korrekten Eingabe des Kennworts einen Telefonanruf, eine Textnachricht oder eine APP-Benachrichtigung auf Ihrem Smartphone bestätigen. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Office 365-Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Weitere Informationen zur mehrstufigen [Authentifizierung für Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Rich-Client-Authentifizierung
 
@@ -175,7 +175,7 @@ Office 365 Enterprise nutzt ein Modell der rollenbasierten Zugriffssteuerung (Ro
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Delegierte Verwaltung und Unterstützung für Partner
 
-Partner können zum Verwalten von Konten im Namen von Kunden autorisiert werden. Der Kunde benötigt kein Benutzerkonto für den Partner, und es wird auch keine Office 365-Lizenz genutzt, wenn delegierte Verwaltungsrechte gewährt werden. Partner können Benutzern in ihrer Organisation vollständigen oder eingeschränkten Zugriff zuweisen. Zum eingeschränkten Zugriff gehören Rechte wie das Zurücksetzen von Kennwörtern, das Verwalten von Serviceanfragen und das Überwachen des Dienstzustands. Weitere Informationen finden Sie im Artikel zum Thema [Hinzufügen oder Löschen eines delegierten Administrators](https://go.microsoft.com/fwlink/p/?LinkID=270055).
+Partner können zum Verwalten von Konten im Namen von Kunden autorisiert werden. Der Kunde benötigt kein Benutzerkonto für den Partner, und es wird auch keine Office 365-Lizenz genutzt, wenn delegierte Verwaltungsrechte gewährt werden. Partner können Benutzern in ihrer Organisation vollständigen oder eingeschränkten Zugriff zuweisen. Zum eingeschränkten Zugriff gehören Rechte wie das Zurücksetzen von Kennwörtern, das Verwalten von Serviceanfragen und das Überwachen des Dienstzustands. 
   
 > [!NOTE]
 > Die Möglichkeit zum Verwenden und Angeben eines Partners als delegierter Administrator kann je nach Region variieren. 
