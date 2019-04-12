@@ -1,9 +1,9 @@
 ---
-title: Compliance [Dienstbeschr]
+title: Compliance
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 stimmt mit den Bestimmungen und Industriestandards überein, und wurde dafür konzipiert, Sie bei der Einhaltung der gesetzlichen Bestimmungen Ihres Geschäfts zu unterstützen. Weitere Informationen finden Sie unter Complianceangebote.
-ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466882"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825143"
 ---
-# <a name="complianceservicedesc"></a>Compliance [Dienstbeschr]
+# <a name="compliance"></a>Compliance
 
 > [!NOTE]
 > Die Informationen in diesem Artikel gelten weltweit für Versionen von Office 365. Wenn Sie eine nationale Cloudinstanz von Office 365, einschließlich Office 365 US Government, Office 365 Deutschland und Office 365, betrieben von 21Vianet, verwenden, finden Sie unter [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582) weitere Informationen. 

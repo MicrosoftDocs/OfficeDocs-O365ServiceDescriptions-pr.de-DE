@@ -3,7 +3,7 @@ title: IT-Experte
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden SharePoint-Funktionen unterstützen IT-Experten beim Sichern und Verwalten der SharePoint-Umgebung in ihrer Organisation.
-ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467592"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825163"
 ---
 # <a name="it-professional"></a>IT-Experte
 
@@ -45,9 +45,9 @@ Mit SharePoint Online steht für Dateien, die in Dokumentbibliotheken hochgelade
 Nicht verfügbar für SharePoint Online-Kunden. SharePoint Server 2013-Kunden konfigurieren die anspruchsbasierte Authentifizierung für Webanwendungen, die die Server-zu-Server-Authentifizierung und die App-Authentifizierung von SharePoint Server 2013 unterstützen. Erfahren Sie mehr über die [anspruchsbasierte Authentifizierung](https://go.microsoft.com/fwlink/p/?LinkId=270982).
   
 ## <a name="data-loss-prevention"></a>Verhinderung von Datenverlust
-<a name="bkmk_DLP"> </a>
+<a name="bkmk_DLP"> </a> 
 
-Verhinderung von Datenverlust (DLP, Data Loss Prevention) identifiziert vertrauliche Daten aus SharePoint Online. Die Identifizierung vertraulicher Daten kann Ihnen helfen, die Risiken für Ihr Unternehmen zu verringern. Sie können in Ihrer Organisation mit eDiscovery Center nach vertraulichen Informationstypen suchen. Ermittelte vertrauliche Inhalte werden protokolliert und gespeichert und sind nur für genehmigte Benutzer im eDiscovery Center verfügbar. Die Klassifizierungsergebnisse können problemlos exportiert werden. Weitere Informationen zu vertraulichen Datentypen finden Sie im Artikel zum Thema [Arten von vertraulichen Informationen](https://technet.microsoft.com/en-us/library/jj150541%28v=exchg.150%29.aspx). Hier finden Sie weitere Informationen über die [Verwendung von DLP zum Suchen von vertraulichen Daten, die in SharePoint Online-Websites gespeichert sind](https://technet.microsoft.com/library/dn798914.aspx).
+Verhinderung von Datenverlust (DLP, Data Loss Prevention) identifiziert vertrauliche Daten aus SharePoint Online. Die Identifizierung vertraulicher Daten kann Ihnen helfen, die Risiken für Ihr Unternehmen zu verringern. Sie können in Ihrer Organisation mit eDiscovery Center nach vertraulichen Informationstypen suchen. Ermittelte vertrauliche Inhalte werden protokolliert und gespeichert und sind nur für genehmigte Benutzer im eDiscovery Center verfügbar. Die Klassifizierungsergebnisse können problemlos exportiert werden. Weitere Informationen zu vertraulichen Datentypen finden Sie im Artikel zum Thema [Arten von vertraulichen Informationen](https://technet.microsoft.com/library/jj150541%28v=exchg.150%29.aspx). Hier finden Sie weitere Informationen über die [Verwendung von DLP zum Suchen von vertraulichen Daten, die in SharePoint Online-Websites gespeichert sind](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp).
   
 ## <a name="encryption-at-rest"></a>Verschlüsselung im Ruhezustand
 <a name="bkmk_EncryptionAtRest"> </a>
@@ -59,7 +59,7 @@ Es gibt zwei Arten von Verschlüsselung im Ruhezustand für SharePoint Online. D
 
 Nicht verfügbar für SharePoint Online-Kunden. SharePoint Server 2013-Websitesammlungen haben ihren eigenen eindeutigen Hostheader. Mithilfe einer hostbenannten Websitesammlung können Organisationen mehrere Websitesammlungen mit Vanity-URLs hosten, die sich Benutzer leichter merken.
   
-## <a name="mobile-device-management-for-office-365"></a>Verwaltung mobiler Geräte in Office 365
+## <a name="mobile-device-management-for-office-365"></a>Verwaltung mobiler Geräte für Office 365
 <a name="bkmk_MDM"> </a>
 
 Sie können Mobile Device Management (MDM) für Office 365 zum Festlegen von Gerätesicherheitsrichtlinien und Zugriffsregeln und zum Zurücksetzen von mobilen Geräte verwenden, wenn diese verloren gehen oder gestohlen werden. Mit MDM für Office 365 können Sie viele Arten von mobilen Geräten verwalten, wie Windows Phone, Android, iPhone und iPad. Zum Verwalten mobiler Geräte, die von Personen in Ihrer Organisation verwendet werden, muss jede Person über eine entsprechende Office 365-Lizenz verfügen, und das Gerät muss in MDM für Office 365 registriert sein. 

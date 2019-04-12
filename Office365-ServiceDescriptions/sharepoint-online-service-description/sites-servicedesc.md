@@ -1,9 +1,9 @@
 ---
-title: Websites [Dienstbeschr]
+title: Websites
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Websitefunktionen bieten einen umfassenden Toolsatz, mit dem Ihre Organisation jede Website sowie eine einzelne Infrastruktur erstellen kann, was die Websiteverwaltung vereinfacht. Ausführlichere Informationen finden Sie unter Suchen von Inhalten zu SharePoint Online.
-ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467882"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825173"
 ---
-# <a name="sitesservicedesc"></a>Websites [Dienstbeschr]
+# <a name="sites"></a>Websites
 
 Microsoft SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Websitefunktionen bieten einen umfassenden Toolsatz, mit dem Ihre Organisation jede Website sowie eine einzelne Infrastruktur erstellen kann, was die Websiteverwaltung vereinfacht. Ausführlichere Informationen finden Sie unter [Suchen von Inhalten zu SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).
   

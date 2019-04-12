@@ -3,7 +3,7 @@ title: Clients und mobile Geräte
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467612"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825203"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -40,7 +40,7 @@ Informationen zu den in Exchange 2016 und Exchange Online unterstützten Outlook
   
 ## <a name="outlook-on-the-web"></a>Outlook im Web
 
-Outlook im Web ist eine webbasierte Version des Outlook-E-Mail-Programms, die mit Exchange Online verwendet wird. Benutzer können damit von allen Orten mit Internetverbindung aus über einen Webbrowser auf ihre E-Mails, ihren Kalender und ihre Kontakte zugreifen. Informationen zu unterstützten Browsern finden Sie im Artikel zu [unterstützten Browsern für Outlook im Web für Unternehmen](https://go.microsoft.com/fwlink/p/?LinkId=287032).
+Outlook im Web ist eine webbasierte Version des Outlook-E-Mail-Programms, die mit Exchange Online verwendet wird. Benutzer können damit von allen Orten mit Internetverbindung aus über einen Webbrowser auf ihre E-Mails, ihren Kalender und ihre Kontakte zugreifen. Informationen zu unterstützten Browsern finden Sie im Artikel zu [unterstützten Browsern für Outlook im Web für Unternehmen](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
 Outlook im Web ist in zwei Clientversionen erhältlich, die beide mit Exchange Online verwendet werden können:
   

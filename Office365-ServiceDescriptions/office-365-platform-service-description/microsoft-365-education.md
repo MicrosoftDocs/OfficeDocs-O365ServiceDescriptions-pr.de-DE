@@ -2,7 +2,7 @@
 title: Microsoft 365 Education
 ms.author: sharik
 author: skjerland
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel.
-ms.openlocfilehash: 1303484ca25d737b1cc5217b6b3dc8a129585dc6
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468172"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825193"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -97,6 +97,17 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |System Center Endpoint Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Umfasst Exchange Online-Plan 1 sowie zusätzliche Features. > <sup>2</sup> Umfasst Exchange Online-Plan 2. > <sup>3</sup> Umfasst SharePoint Online-Plan 1 sowie zusätzliche Features. > <sup>4</sup> Umfasst SharePoint Online-Plan 2. > <sup>5</sup> Project Online Essentials ist nicht enthalten, kann jedoch kostenlos dem Office 365 Education-Plan hinzugefügt werden. > <sup>6</sup> Microsoft 365 Education A5 enthält Telefonsystem-, Audiokonferenz- und Anrufplanfunktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). > <sup>7</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). > <sup>8</sup> Umfasst Intune. > <sup>9</sup> Server und CALs für Exchange, SharePoint und Skype for Business enthalten. > <sup>10</sup> ECAL oder Core CAL, je nach der erworbenen Version von A3, mit A5 sind die ECAL-Rechte enthalten. > <sup>11</sup> Weitere Informationen zu Azure Active Directory finden Sie unter [Was ist Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). > <sup>12</sup> Office Pro Plus ist für Schutzfunktionen und zum Senden geschützter E-Mails aus Outlook Desktop erforderlich. 
+> <sup>1</sup> Umfasst Exchange Online-Plan 1 sowie zusätzliche Features.<br/>
+> <sup>2</sup> Umfasst Exchange Online-Plan 2. <br/>
+> <sup>3</sup> Umfasst SharePoint Online-Plan 1 sowie zusätzliche Features. <br/>
+> <sup>4</sup> Umfasst SharePoint Online-Plan 2. <br/>
+> <sup>5</sup> Project Online Essentials ist nicht enthalten, kann jedoch kostenlos dem Office 365 Education-Plan hinzugefügt werden. <br/>
+> <sup>6</sup> Microsoft 365 Education A5 enthält Telefonsystem-, Audiokonferenz- und Anrufplanfunktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). <br/>
+> <sup>7</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
+> <sup>8</sup> Umfasst Intune. <br/>
+> <sup>9</sup> Server und CALs für Exchange, SharePoint und Skype for Business enthalten. <br/>
+> <sup>10</sup> ECAL oder Core CAL, je nach der erworbenen Version von A3, mit A5 sind die ECAL-Rechte enthalten. <br/>
+> <sup>11</sup> Weitere Informationen zu Azure Active Directory finden Sie unter [Was ist Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
+> <sup>12</sup> Office Pro Plus ist für Schutzfunktionen und zum Senden geschützter E-Mails aus Outlook Desktop erforderlich. 
   
 

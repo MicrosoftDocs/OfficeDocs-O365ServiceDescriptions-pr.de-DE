@@ -3,7 +3,7 @@ title: Datenschutz, Sicherheit und Transparenz
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 01/02/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Wir bei Microsoft schätzen die Partnerschaft mit unseren Kunden und messen dem Schutz und der Sicherheit ihrer Daten höchste Bedeutung bei. Weitere Informationen finden Sie im Microsoft Trust Center.
-ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467582"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825213"
 ---
 # <a name="privacy-security-and-transparency"></a>Datenschutz, Sicherheit und Transparenz
 
@@ -33,13 +33,13 @@ Informationen dazu, wie Microsoft Office 365 Ihre Daten schützt finden Sie unte
   
 Welche Schritte Administratoren für Enterprise, Business, Government und Education ausführen können, um Datenschutzeinstellungen für Office 365 vorzunehmen, wird unter [Advanced Privacy Options for Administrators](https://go.microsoft.com/fwlink/p/?LinkID=285202) beschrieben.
   
-Informationen zu Sicherheit und Datenschutz für andere Microsoft-Dienste einschließlich Office 365 ProPlus finden Sie im Artikel zum Thema [Sicherheit und Datenschutz für andere Microsoft-Dienste](https://go.microsoft.com/fwlink/p/?LinkID=281962)
+Informationen zu Sicherheit und Datenschutz für andere Microsoft-Dienste einschließlich Office 365 ProPlus finden Sie im Artikel zum Thema [Sicherheit und Datenschutz für andere Microsoft-Dienste](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>Sicherheit
 
 Informationen zur sicheren und zuverlässigen Bereitstellung von Office 365-Diensten durch Microsoft finden Sie unter [Sicherheit](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).
   
-## <a name="transparency"></a>Transparency
+## <a name="transparency"></a>Transparenz
 
 Als Office 365-Kunde können Sie herausfinden, wo sich Ihre Daten befinden, wer bei Microsoft darauf zugreifen kann und wie Ihre Daten bei uns verwendet werden. Weitere Informationen finden Sie unter [Transparenz](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
   
@@ -59,6 +59,6 @@ Office 365 Advanced Threat Protection schützt Ihre Organisation vor Schadsoftwa
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
   
 
