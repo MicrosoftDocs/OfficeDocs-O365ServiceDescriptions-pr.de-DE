@@ -3,7 +3,7 @@ title: Skype for Business Online-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Möchten Sie wissen, welche Lizenzen Sie erwerben müssen, um bestimmte Skype for Business-Features nutzen zu können? Weitere Informationen finden Sie unter Skype for Business Licensing Overview.
-ms.openlocfilehash: d96ff935b03efdd3db8af6bcc6d35f842a221588
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467962"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833867"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online-Dienstbeschreibung
 
@@ -28,7 +28,7 @@ ms.locfileid: "30467962"
 > Microsoft Teams ist jetzt der primäre Client für Messaging, Besprechungen und Anrufe in Office 365. Ab dem 1. Okt. 2018 werden neue Office 365-Kunden mit 500 sitzen oder weniger in Microsoft Teams integriert und haben keinen Zugriff auf Skype for Business Online. Mandanten, die Skype for Business Online bereits verwenden, können so lange fortfahren (einschließlich der Bereitstellungneuer Benutzer), bis Sie den Übergang zu Microsoft Teams abgeschlossen haben.
 
 > [!NOTE]
-> Skype for Business Online-Plan 1 wird ab dem 10. Oktober aus dem Verkauf zurückgezogen. Dies führt dazu, dass Sie Skype for Business Online-Plan 1 für Sofortnachrichten, Anwesenheit und Peer-zu-Peer-sprach-und-Video nicht mehr erwerben können. Diese Features werden weiterhin in allen Office 365-angeboten unterstützt, die Teams umfassen, einschließlich Office 365 F1. Wenn Ihr Plan am Ende des aktuellen Ausdrucks abgelaufen ist, müssen Sie zu einem anderen Plan wechseln, um weiterhin auf diese Funktionen zugreifen zu können. Es wird empfohlen, den Office 365 F1-Plan für Benutzer zu evaluieren, denen derzeit Skype for Business Online-Plan 1 zugewiesen ist. 
+> Skype for Business Online-Plan 2 wird vom 1. Juli 2019. Dies führt dazu, dass Sie Skype for Business Online-Plan 2 für Sofortnachrichten, Anwesenheit, Besprechungen und Peer-zu-Peer-sprach-und-Video nicht mehr erwerben können. Diese Features werden weiterhin in allen Office 365-angeboten unterstützt, die Teams enthalten, einschließlich Office 365-Suites. Wenn Ihr Plan am Ende des aktuellen Ausdrucks abgelaufen ist, müssen Sie zu einem anderen Plan wechseln, um weiterhin auf diese Funktionen zugreifen zu können. Es wird empfohlen, die Office 365 Business Essentials, Business Premium oder andere Office-Suites für Benutzer zu evaluieren, denen derzeit Skype for Business Online-Plan 2 zugewiesen ist. 
 
  **Möchten Sie wissen, welche Lizenzen Sie kaufen müssen, um bestimmte Skype for Business-Funktionen zu erhalten? Weitere Informationen finden Sie unter [Skype for Business Licensing Overview](https://go.microsoft.com/fwlink/?LinkID=799524).**
   

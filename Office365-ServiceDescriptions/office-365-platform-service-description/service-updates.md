@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Informationen zu Office 365-Features, die soeben veröffentlicht wurden oder freigegeben werden sollen, finden Sie im Microsoft 365-Fahrplan.
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825153"
+ms.locfileid: "31833840"
 ---
 # <a name="service-updates"></a>Dienstupdates
 
@@ -32,7 +32,7 @@ Informationen zu Office 365-Features, die soeben veröffentlicht wurden oder fre
   
 ## <a name="targeted-release"></a>Zielrelease
 
-Mit der Zielrelease erhält Ihre Organisation oder ein Teil Ihrer Benutzer ungefähr eine Woche vor der Standardfreigabe eine ausgewählte Reihe von Dienstupdates. Weitere Informationen finden Sie unter [Office 365 Release-Programme](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
+Mit der Zielrelease erhält Ihre Organisation oder ein Teil Ihrer Benutzer ungefähr eine Woche vor der Standardfreigabe eine ausgewählte Reihe von Dienstupdates. Weitere Informationen finden Sie unter [Office 365 Release Options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
   
 ## <a name="update-notifications"></a>Updatebenachrichtigungen
 
