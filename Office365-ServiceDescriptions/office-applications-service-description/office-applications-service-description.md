@@ -3,7 +3,7 @@ title: Dienstbeschreibung zu Office-Anwendungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 7/31/2018
+ms.date: 04/15/2018
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bereitstellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: 65ef27560d134e6d35d8169b70378bafd09a8e58
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 9ae21b604a2650586402e33388d705641292ab88
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467972"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981699"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -54,9 +54,8 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Windows 8-Apps](office-applications.md#windows-8-apps) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Allgemeine Anforderungen für Outlook für Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Office Mobile für iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Office Mobile für Android](office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Office Mobile für Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|[Office Mobile für iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|[Office Mobile für Android](office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Office Mobile für Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Outlook für Android  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |**Unternehmenswert** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |

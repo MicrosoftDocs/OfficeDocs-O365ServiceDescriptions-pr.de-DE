@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825203"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981639"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -36,7 +36,7 @@ Outlook-Zugriff ist standardmäßig für alle Benutzer aktiviert. Über Windows 
 Informationen zu den in Exchange 2016 und Exchange Online unterstützten Outlook-Clients finden Sie im Abschnitt „Unterstützte Clients" unter [Exchange 2016 - Systemanforderungen](https://go.microsoft.com/fwlink/?LinkID=828972).
   
 > [!IMPORTANT]
->  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft Office Pro Plus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. >  Wenn Sie POP verwenden, um eine Verbindung mit einem Exchange Online-E-Mail-Konto herzustellen, werden die folgenden Einschränkungen angezeigt: >  Keine Kalenderinformationen >  Keine Frei/Gebucht-Informationen >  Keine globale Adressliste >  Keine Push-E-Mail >  Bei der Verbindung über POP werden alle Nachrichten auf den Client heruntergeladen und es findet keine Synchronisierung zwischen mehreren Computern oder Geräten statt (beispielsweise zwischen einem Laptop und einem Telefon). 
+>  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft Office Pro Plus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie POP zum Herstellen einer Verbindung mit einem Exchange Online-e-Mail-Konto verwenden: > keine Kalenderinformationen > keine Frei/Gebucht-Informationen > keine globale Adressliste > keine Push-e-Mail-> beim Verbinden über POP werden alle Nachrichten Downlo aded wird für den Client verwendet, und es wird keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon) erfolgen. 
   
 ## <a name="outlook-on-the-web"></a>Outlook im Web
 
