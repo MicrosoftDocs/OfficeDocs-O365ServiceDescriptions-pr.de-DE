@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Verwenden Sie OneNote Online (früher OneNote Web App), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von einem beliebigen Ort aus hinzufügen und problemlos für andere freigeben können. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten.
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467022"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247181"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -147,7 +147,7 @@ Mit OneNote Online können Sie die Absatzausrichtung ändern, den Einzug vom lin
 
 Mit OneNote Online können Sie Bilddateien oder Bilder aus Bing einfügen. Sie können auch die Bildgröße ändern und Alternativtext hinzufügen. Für erweiterte Bildfunktionen wie Bildschirmausschnitte, gescannte Bilder oder Onlinebilder müssen Sie die OneNote-Desktop-App verwenden. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="print"></a>Drucken
+## <a name="print"></a>Print
 <a name="BKMK_Print_OneNote"> </a>
 
 Sie können Notizen in OneNote Online drucken.
@@ -187,7 +187,7 @@ Mit OneNote Online können Sie die Autorentags deaktivieren, die angezeigt werde
 
 Mit OneNote Online können Sie zur Schnellformatierung ganz einfach Textformatvorlagen anwenden. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="tables"></a>Tabellen
+## <a name="tables"></a>Tables
 <a name="bkmk_Tables"> </a>
 
 Mit OneNote Online können Sie eine Tabelle einfügen, Tabellentext bearbeiten und die grundlegende Tabellenstruktur einfach bearbeiten, beispielsweise durch Hinzufügen oder Löschen von Zeilen und Spalten. Für erweiterte Tabellenfunktionen wie die Konvertierung von Tabellen in Excel-Tabellen, die Schattierung von Zellen, Kopfzeilen oder die Sortierung von Daten in Tabellenzellen müssen Sie die OneNote-Desktop-App verwenden. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).

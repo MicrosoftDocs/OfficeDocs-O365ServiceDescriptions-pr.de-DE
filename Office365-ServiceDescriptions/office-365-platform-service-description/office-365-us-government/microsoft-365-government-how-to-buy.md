@@ -10,11 +10,11 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 8cdba6f181613cd1bb9e3c268f240d9e4dd516f0
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30052530"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247171"
 ---
 ---
 
@@ -49,13 +49,14 @@ Microsoft 365 Government ist einzigartig ausgelegt, um die Compliance-Anforderun
 
 **Exklusive Community.** Regierungs Datenzentren stehen nur Regierungsbehörden oder-Abteilungen oder kommerziellen Unternehmen zur Verfügung, die autorisiert sind, Informationen im Namen der US-Regierung aufzubewahren und zu verarbeiten.
 
-**Geschirmte Mitarbeiter.** Der Zugriff auf den Kunden Inhalt Ihrer Organisation ist auf geschirmte Microsoft-Mitarbeiter beschränkt, die US-Bürger sind und die erforderlichen Hintergrundprüfungen bestanden haben. Drittanbieter Überwachungen. Die gesamte Infrastruktur wird von einem zertifizierten Drittanbieter Prüfer überwacht, der einen Sicherheits Bewertungsbericht oder einen von Bundesbehörden verwendeten Bescheinigungs Brief zur Erteilung einer Autorisierung für den Betrieb (ATO) bereitstellt. 
+**GeSchirmte Mitarbeiter.** Der Zugriff auf den Kunden Inhalt Ihrer Organisation ist auf geschirmte Microsoft-Mitarbeiter beschränkt, die US-Bürger sind und die erforderlichen Hintergrundprüfungen bestanden haben.
+Drittanbieter Überwachungen. Die gesamte Infrastruktur wird von einem zertifizierten Drittanbieter Prüfer überwacht, der einen Sicherheits Bewertungsbericht oder einen von Bundesbehörden verwendeten Bescheinigungs Brief zur Erteilung einer Autorisierung für den Betrieb (ATO) bereitstellt. 
 
 **Inhaltsspeicher.** Die Daten werden in den USA mit einer kompatiblen Infrastruktur gespeichert. In der folgenden Tabelle wird Microsoft 365 für US Government Environments and commitments zusammengefasst.
 
 |||
 |:----------|:----------------------------------|:---------|
-|**Angebote** <br/> |**Zusicherungen ** <br/> |
+|**Angebote** <br/> |**Verpflichtungen** <br/> |
 |Microsoft 365 Government GCC  <br/> |FedRamp moderate, CJIS, IRS 1075, DISA SRG L2  <br/> |Ja  <br/> |
 |Microsoft 365 Government GCC High  <br/> |FedRamp High, ITAR, DFARS, DOD SRG L4-Steuerelemente <br/> |Ja  <br/> |
 |Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |Ja  <br/> |

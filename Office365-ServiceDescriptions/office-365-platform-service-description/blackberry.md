@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry®-Smartphones können in Office 365 auf E-Mails und Dokumente zugreifen.
 ms.openlocfilehash: 2146dc7eb698973f19e9fbacb87c7269b27d1eb5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466842"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246291"
 ---
 # <a name="blackberry"></a>BlackBerry
 

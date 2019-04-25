@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Die folgenden Aufgaben Verwaltungsfeatures sind in Project online verfügbar.
 ms.openlocfilehash: 5d83b81be8b31518b640e016f827becc6e592151
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468192"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246701"
 ---
 # <a name="task-management"></a>Vorgangsverwaltung
 

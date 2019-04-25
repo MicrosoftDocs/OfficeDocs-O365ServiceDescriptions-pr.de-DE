@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Education-Plänen suchen, erfahren Sie in diesem Artikel, welche Features in den jeweiligen angeboten enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit Cloud-basierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office Online und Microsoft Skype for Business Online: damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.'
 ms.openlocfilehash: 4cf3b4220fb56e21d8105dee9ac8ea447845bcf9
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467992"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247291"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -157,7 +157,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in allen O
 |Office 365 Advanced eDiscovery<sup>7</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Secure Score<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|**[Compliance [Dienstbeschr]](compliance-servicedesc.md)** <br/> ||||
+|**[Compliance[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -215,7 +215,7 @@ Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Funktionen in den 
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**Office-Anwendungen** <br/> ||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Nein<sup>3, 4</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Nein<sup>3, 4</sup> <br/> |Ja  <br/> |Ja  <br/> |
@@ -291,7 +291,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in O
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Planung und Bereitstellung](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |Unterstützung für Hybridbereitstellung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unterstützung für IMAP-Migration  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -332,7 +332,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in O
 |**[Empfänger](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Kapazitätswarnungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unwichtige Elemente  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|E-Mail-Info  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|MailTips  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Stellvertretungszugriff  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Posteingangsregeln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verbundene Konten  <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |
@@ -414,13 +414,13 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
     
 - [Kapazitätswarnungen](office-365-education.md#capacity-alerts)
     
-- [Begrenzungen für Postfachordner](office-365-education.md#mailbox-folder-limits)
+- [Mailbox folder limits](office-365-education.md#mailbox-folder-limits)
     
 - [Nachrichtengrenzwerte](office-365-education.md#message-limits)
     
 - [Empfangs- und Sendegrenzen](office-365-education.md#receiving-and-sending-limits)
     
-- [Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung](office-365-education.md#reporting-and-message-trace-limits)
+- [Reporting and message trace limits](office-365-education.md#reporting-and-message-trace-limits)
     
 - [Aufbewahrungsgrenzwerte](office-365-education.md#retention-limits)
     
@@ -448,7 +448,7 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Adresslistenbeschränkung  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
 |Beschränkung für Offlineadressbuch (OAB)  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Beschränkung für Adressbuchrichtlinien (ABP)  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -464,9 +464,9 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Benutzerpostfächer  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|Websitepostfächer<sup>6, 7</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Benutzerpostfächer  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Websitepostfächer<sup>6, 7</sup> <br/> |Unbegrenzt<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Freigegebene Postfächer  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |Ressourcenpostfächer  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
 |Websitepostfächer<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
@@ -489,10 +489,10 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Warnung  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
-|Senden verbieten  <br/> |49,5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
-|Senden/Empfangen verbieten  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Senden verbieten  <br/> |49.5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
+|Senden/Empfangen verbieten  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
    
 #### <a name="mailbox-folder-limits"></a>Begrenzungen für Postfachordner
 <a name="MailboxFolderLimits"> </a>
@@ -526,12 +526,12 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Maximale Anzahl von Nachrichten pro Postfachordner  <br/> |1 Million  <br/> |1 Million  <br/> |1 Million  <br/> |
 |Warnung zur Anzahl der Nachrichten pro Postfachordner  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
-|Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im primären Postfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im primären Postfach (Aufbewahrung aktiviert)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im Archivpostfach (keine Aufbewahrung aktiviert)  <br/> |UnBegrenzt<sup>1</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im Archivpostfach (Aufbewahrung aktiviert)  <br/> |UnBegrenzt<sup>1</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |UnBegrenzt<sup>1</sup> <br/> |
-|Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |2,75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |
+|Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |3 Million  <br/> |3 Million  <br/> |3 Million  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (keine Aufbewahrung aktiviert)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (Aufbewahrung aktiviert)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (keine Aufbewahrung aktiviert)  <br/> |Unbegrenzt<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente" im Archivpostfach (Aufbewahrung aktiviert)  <br/> |Unbegrenzt<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
+|Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |2,75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |
 |Maximale Anzahl von Unterordnern pro Postfachordner  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |
 |Warnung zur Anzahl der Unterordner pro Postfachordner  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
 |Maximale Ordnerhierarchie-Tiefe  <br/> |300  <br/> |300  <br/> |300  <br/> |
@@ -558,7 +558,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 - **Dateianlagengrößenlimit** Die maximale Dateigröße einer einzelnen Anlage. 
     
     > [!NOTE]
-    > Dies ist die maximale Dateigröße einer einzelnen Anlage. Einzelne Clientprogramme, u. a. Outlook Web App, schränken die Größe von Anlagen ggf. noch weiter ein. Exchange ActiveSync implementiert keine Anlagengrößenlimits für einzelne Anlagen. Die Gesamtgröße aller Anlagen einer Exchange ActiveSync-Nachricht muss kleiner sein als die Nachrichtengrößeneinschränkung. 
+    > Dies ist die maximale Dateigröße einer einzelnen Anlage. Einzelne Clientprogramme, u. a. Outlook Web App, schränken die Größe von Anlagen ggf. noch weiter ein. Exchange ActiveSync implementiert keine Anlagengrößenlimits für einzelne Anlagen. Die Gesamtgröße aller Anlagen einer Exchange ActiveSync-Nachricht muss kleiner sein als die Nachrichtengrößeneinschränkung. 
   
 - **Grenze für mehrteilige Nachrichten** Die maximale Anzahl der Nachrichtentextteile, die in einer mehrteiligen MIME-Nachricht zugelassen sind. Dieser Grenzwert steuert außerdem die maximale Anzahl Dateianlagen, die in einer Nachricht zulässig sind. 
     
@@ -566,23 +566,23 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Grenzwert für Nachrichtengröße - Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
-|Grenzwert für Nachrichtengröße - OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
-|Grenzwert für Nachrichtengröße - Outlook für Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Grenzwert für Nachrichtengröße – Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
+|Grenzwert für Nachrichtengröße – OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
+|Grenzwert für Nachrichtengröße – Outlook für Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |Nachrichtengrößenbeschränkung - Migration  <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |150 MB <sup>4</sup> <br/> |
 |Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)  <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |
 |Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die eine ältere Version der Office 365-Nachrichtenverschlüsselung verwenden)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |Grenzwert für Länge des Betreffs  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |
-|Grenzwert für Dateianlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
-|Größenlimit für Dateianlagen - Outlook  <br/> |150 MB   <br/> |150 MB   <br/> |150 MB  <br/> |
-|Größenlimit für Dateianlagen - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|Größenlimit für Dateianlagen - Outlook für Mac  <br/> |150 MB  <br/> |150 MB   <br/> |150 MB  <br/> |
-|Grenzwert für mehrteilige Nachrichten  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |
+|Grenzwert für Dateianlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
+|Größenlimit für Dateianlagen – Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Größenlimit für Dateianlagen – OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
+|Größenlimit für Dateianlagen – Outlook für Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Grenzwert für mehrteilige Nachrichten  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |
 |Grenzwert für die Tiefe der Nachrichteneinbettung  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 Administratoren können eine benutzerdefinierte Grenze zwischen 1 mb und 150 MB angeben. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Office 365 jetzt unterstützt größere e-Mail-Nachrichten](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). > <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Office 365-Benutzern senden und empfangen (wobei die Nachricht nie die Office 365-Datencenter verlässt). Nachrichten, die außerhalb der Office 365-Rechenzentren weitergeleitet werden, unterliegeneiner zusätzlichen 33%-Konvertierungs Codierungs Erweiterung, in diesem Fall beträgt die maximale Nachrichtengröße 112 MB. > <sup>3</sup> OWA-Konten für die Möglichkeit, dass Ihre Nachricht möglicherweise der 33%-Codierungs Erweiterung unterliegt, und schränkt die Größe der Nachricht ein, die Sie an 25% weniger als die konfigurierte Einstellung senden können. Wenn Sie beispielsweise Ihre Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten, die nicht größer als 75 MB sind, senden. > <sup>4</sup> die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, werden von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. Dieser Grenzwert gilt für auf Verschiebungen basierende Migrationen mit einem beliebigen unterstützten Exchange-Postfachreplikationsdienst. Andere Migrationsmethoden (einstufig, mehrstufig, IMAP, PST-Datei) und andere Tools von Drittanbietern werden durch allgemeine Nachrichtengröße begrenzt. > <sup>5</sup> Weitere Informationen zu OM mit neuen Funktionen finden Sie unter [Einrichten von neuen Office 365-Nachrichten Verschlüsselungsfunktionen, die auf Azure Information Protection basieren](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
+> <sup>1</sup> Office 365-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB festlegen.. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen von der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Office 365 unterstützt jetzt größere E-Mail-Nachrichten](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). > <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Office 365-Benutzern senden und empfangen (wobei die Nachricht nie die Office 365-Datencenter verlässt). Nachrichten, die außerhalb der Office 365-Datencenter weitergeleitet werden, werden aufgrund der Übersetzungscodierung noch einmal um 33 % größer. In diesem Fall beträgt die maximale Nachrichtengröße 112 MB. > <sup>3</sup> OWA-Konten für die Möglichkeit, dass Ihre Nachricht möglicherweise der 33%-Codierungs Erweiterung unterliegt, und schränkt die Größe der Nachricht ein, die Sie an 25% weniger als die konfigurierte Einstellung senden können. Wenn Sie beispielsweise die Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten mit bis zu 75 MB senden. > <sup>4</sup> die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, werden von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. Dieser Grenzwert gilt für auf Verschiebungen basierende Migrationen mit einem beliebigen unterstützten Exchange-Postfachreplikationsdienst. Andere Migrationsmethoden (einstufig, mehrstufig, IMAP, PST-Datei) und andere Tools von Drittanbietern werden durch allgemeine Nachrichtengröße begrenzt. > <sup>5</sup> Weitere Informationen zu OM mit neuen Funktionen finden Sie unter [Einrichten von neuen Office 365-Nachrichten Verschlüsselungsfunktionen, die auf Azure Information Protection basieren](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
   
 #### <a name="receiving-and-sending-limits"></a>Empfangs- und Sendegrenzen
 <a name="RecipientLimits"> </a>
@@ -595,8 +595,8 @@ Empfangsgrenzen gelten für die Anzahl von Nachrichten, die ein Benutzer, eine G
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Empfangene Nachrichten  <br/> |3600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Empfangene Nachrichten  <br/> |3.600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |3600 Nachrichten pro Stunde  <br/> |
    
 #### <a name="sending-limits"></a>Sendegrenzen
 
@@ -608,7 +608,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 - **Empfängerratengrenzwert** Um die massenhafte Zustellung von Junk-E-Mails zu unterbinden, verfügtExchange Online über Empfängerbeschränkungen, mit denen Benutzer und Anwendungen daran gehindert werden, große Mengen E-Mails zu versenden. Diese Grenzwerte gelten pro Benutzer für alle ausgehenden und internen Nachrichten. 
     
     > [!NOTE]
-    > Exchange Online-Kunden, die seriöse kommerzielle E-Mails versenden müssen (z. B. Kunden-Newsletter), sollten einen Drittanbieter in Anspruch nehmen, der sich auf diese Dienste spezialisiert. 
+    > Exchange Online-Kunden, die seriöse kommerzielle E-Mails versenden müssen (z. B. Kunden-Newsletter), sollten einen Drittanbieter in Anspruch nehmen, der sich auf diese Dienste spezialisiert. 
   
 - **Empfängergrenzwert** Dies ist die maximale Anzahl von Empfängern, die in den Feldern "An:", "Cc:" und "Bcc:" für eine einzelne E-Mail zulässig ist. 
     
@@ -619,9 +619,9 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Empfängerratengrenzwert  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
-|Empfängergrenzwert  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Empfängerratengrenzwert  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
+|Empfängergrenzwert  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
 |Grenzwert für Empfängerproxyadresse  <br/> |400  <br/> |400  <br/> |400  <br/> |
 |Nachrichtenratengrenzwert (nur SMTP-Clientübermittlung)  <br/> |30 Nachrichten pro Minute  <br/> |30 Nachrichten pro Minute  <br/> |30 Nachrichten pro Minute  <br/> |
    
@@ -643,13 +643,13 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Aufbewahrungszeitraum des Ordners "Gelöschte Elemente"  <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |
 |Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden  <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |
-|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |
+|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Dies ist die Standardeinstellung. Administratoren können diesen Wert für ihre Organisation ändern. 
+> <sup>1</sup>   Dies ist die Standardeinstellung. Administratoren können diesen Wert für ihre Organisation ändern.  
   
 #### <a name="distribution-group-limits"></a>Verteilergruppen-Grenzwerte
 <a name="iDistributionGroupLimits"> </a>
@@ -664,11 +664,11 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |
 |Obergrenze für Nachrichten an große Verteilergruppen  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -697,10 +697,12 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Maximale Anzahl von Journalregeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |10 Regeln  <br/> |
-|Maximale Anzahl Transportregeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |
-|Maximale Größe einer einzelnen Transportregel  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|Maximale Anzahl von Journalregeln  <br/> |10 Regeln  <br/> |10 Regeln
+  <br/> |10 Regeln
+  <br/> |
+|Maximale Anzahl Transportregeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |
+|Maximale Größe einer einzelnen Transportregel  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
 |Überprüfungsgrenzwerte für Anlageninhalt  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
 |Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |100 Empfänger  <br/> |
@@ -726,9 +728,9 @@ Diese Grenzwerte steuern die Moderationseinstellungen für die Nachrichtengenehm
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Maximale Größe des Vermittlungspostfachs  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
-|Maximale Anzahl Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |
-|Ablauf für Nachrichten, die auf Moderation warten  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |
-|Maximale Rate für abgelaufene Moderationsbenachrichtigungen  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |
+|Maximale Anzahl Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |10 Moderatoren  <br/> |
+|Ablauf für Nachrichten, die auf Moderation warten  <br/> |2 Tage  <br/> |2 Tage  <br/> |2 Tage  <br/> |
+|Maximale Rate für abgelaufene Moderationsbenachrichtigungen  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |300 Ablaufbenachrichtigungen pro Stunde  <br/> |
    
 #### <a name="exchange-activesync-limits"></a>Grenzwerte für Exchange ActiveSync
 <a name="bkmk_ExchangeActiveSync_Limits"> </a>
@@ -743,7 +745,7 @@ Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei hand
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange ActiveSync-Gerätebegrenzung  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Exchange ActiveSync-Gerätelöschbegrenzung  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Exchange ActiveSync-Dateianlagebegrenzung  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
@@ -1038,7 +1040,7 @@ In der folgenden Tabelle sind die SharePoint-Grenzwerte für jeden Office 365 Ed
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Speicher<sup>1, 2</sup> <br/> |1 TB pro Organisation plus 10 GB pro erworbene Lizenz<sup>3</sup> <br/> |1 TB pro Organisation plus 10 GB pro erworbene Lizenz<sup>3</sup> <br/> |1 TB pro Organisation plus 10 GB pro erworbene Lizenz<sup>3</sup> <br/> |
 |Nutzungsbedingungen für Store  <br/> |200.000  <br/> |200,000  <br/> |200,000  <br/> |
 |Speicher für Websitesammlungen  <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |
@@ -1212,7 +1214,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |Keine Begrenzung  <br/> |
    
@@ -1232,7 +1234,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |
 |Teilnehmer an einer Skype for Business-Besprechung<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -1258,7 +1260,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |15 Tage   <br/> |15 Tage   <br/> |15 Tage   <br/> |
 |Besprechungsinhaltsaufbewahrung: Wiederkehrende Besprechung  <br/> |15 Tage  <br/> |15 Tage   <br/> |15 Tage  <br/> |
-|Besprechungsinhaltsaufbewahrung: Sofortbesprechung  <br/> |8 Stunden   <br/> |8 Stunden   <br/> |8 Stunden  <br/> |
+|Besprechungsinhaltsaufbewahrung: Sofortbesprechung  <br/> |8 Stunden  <br/> |8 Stunden   <br/> |8 Stunden  <br/> |
 |Ablauf der Besprechung: Einmalige Besprechung  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |
 |Ablauf der Besprechung: Wiederkehrende Besprechung  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |
 |Ablauf der Besprechung: Sofortbesprechung  <br/> |8 Stunden  <br/> |8 Stunden   <br/> |8 Stunden  <br/> |

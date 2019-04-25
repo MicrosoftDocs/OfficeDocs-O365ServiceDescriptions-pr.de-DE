@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365, betrieben von 21Vianet, wurde entwickelt, um die Anforderungen für sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
 ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955804"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247306"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -79,7 +79,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, betrieben 
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
+|**Funktion** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
 |**[Office 365-Verwaltungsfeatures](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
 |Verwalten von Office 365 mithilfe des Microsoft 365 Admin Center oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Schützen von Inhalten mit Azure Information Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
@@ -221,7 +221,7 @@ In der folgenden Tabelle sind die Office 365-Anwendungsfeatures aufgeführt, die
   
 ||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office Professional Plus 2013, betrieben von 21Vianet** <br/> |**Office Professional Plus 2016, betrieben von 21Vianet** <br/> |**Office 365 proPlus betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
+|**Funktion** <br/> |**Office Professional Plus 2013, betrieben von 21Vianet** <br/> |**Office Professional Plus 2016, betrieben von 21Vianet** <br/> |**Office 365 proPlus betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
 |**Office-Anwendungen** <br/> |||||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nr.<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nr.<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
@@ -299,7 +299,7 @@ Die folgende Tabelle enthält Links zu vergleichen der Features von Office Onlin
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online, betrieben von 21Vianet** <br/> |**Link zum detaillierten Funktionsvergleich** <br/> |
+|**Anwendung** <br/> |**Office Online, betrieben von 21Vianet** <br/> |**Link zum detaillierten Funktionsvergleich** <br/> |
 |Word  <br/> |Word Online betrieben von 21Vianet  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online betrieben von 21Vianet  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online betrieben von 21Vianet  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -315,7 +315,7 @@ In der folgenden Tabelle sind die Exchange Online-Dienste aufgeführt, die in Of
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
+|**Funktion** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
 |**[Planung und Bereitstellung](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||||||
 |Unterstützung für Hybridbereitstellung  <br/> |Ja<sup>9, 10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>9, 10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |
 |Unterstützung für IMAP-Migration  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -462,7 +462,7 @@ Informationen zu Exchange Online-Grenzwerten finden Sie in den folgenden Themen:
 > - Die Grenzwerte für eine Microsoft Office 365-Organisation können unterschiedlich sein, je nachdem, wie lange die Organisation im Dienst registriert wurde. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
 > - Die meisten dieser Grenzwerte können zwar nicht geändert werden, sie sollten Ihnen und den Benutzern jedoch bekannt sein. 
 > - Diese Grenzwerte gelten sowohl für interne als auch für externe Empfänger. 
-> - Standardmäßig schützt Exchange Online Protection (EOP) Exchange Online-Postfächer. Informationen zu Grenzwerten für EOP-Funktionen in Exchange Online finden Sie unter [Exchange Online Protection-Grenzwerte](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - Standardmäßig schützt Exchange Online Protection (EOP) Exchange Online-Postfächer. Informationen zu Beschränkungen für EOP-Funktionen in Exchange Online finden Sie unter [Exchange Online Protection-Begrenzungen](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
   
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection-Features
 <a name="BM6_EOP"> </a>
@@ -474,7 +474,7 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
   
 ||||
 |:-----|:-----|:-----|
-|**Feature** <br/> |**EOP Standalone für Office 365, betrieben von 21Vianet** <br/> |**EOP-Features in Exchange Online für Office 365, betrieben von 21Vianet** <br/> |
+|**Funktion** <br/> |**EOP Standalone für Office 365, betrieben von 21Vianet** <br/> |**EOP-Features in Exchange Online für Office 365, betrieben von 21Vianet** <br/> |
 |[E-Mail-Empfänger](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients) <br/> |Ja<sup>1</sup> <br/> |Ja<sup>1</sup> <br/> |
 |[Berechtigungen für Administratorrollengruppen](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |
 |[Domänenverwaltung](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management) <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |
@@ -841,7 +841,7 @@ In der folgenden Tabelle sind die Skype for Business Online-Features aufgeführt
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
+|**Funktion** <br/> |**Office 365 Business Essentials betrieben von 21Vianet** <br/> |**Office 365 Business, betrieben von 21Vianet** <br/> |**Office 365 Business Premium betrieben von 21Vianet** <br/> |**Office 365 a1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E1 betrieben von 21Vianet** <br/> |**Office 365 Enterprise E3, betrieben von 21Vianet** <br/> |**Office 365 Enterprise F1, betrieben von 21Vianet** <br/> |
 |**[Clients für Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
 |Skype for Business  <br/> |Ja<sup>1</sup> <br/> |Ja<sup>1</sup> <br/> |Ja<sup>1</sup> <br/> |Ja<sup>1, 4</sup> <br/> |Ja<sup>1, 4</sup> <br/> |Ja  <br/> |Nein  <br/> |
 |Lync 2013 Basic  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -1087,7 +1087,7 @@ In der folgenden Tabelle sind die Project Online-Features aufgeführt, die in Of
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Project Online Essentials für Office 365 betrieben von 21Vianet** <br/> |**Project Online Professional für Office 365, betrieben von 21Vianet** <br/> |**Project Online Premium für Office 365, betrieben von 21Vianet** <br/> |**Project Professional 2016 für Office 365, betrieben von 21Vianet** <br/> |**Project Server 2016 für Office 365, betrieben von 21Vianet** <br/> |
+|**Funktion** <br/> |**Project Online Essentials für Office 365 betrieben von 21Vianet** <br/> |**Project Online Professional für Office 365, betrieben von 21Vianet** <br/> |**Project Online Premium für Office 365, betrieben von 21Vianet** <br/> |**Project Professional 2016 für Office 365, betrieben von 21Vianet** <br/> |**Project Server 2016 für Office 365, betrieben von 21Vianet** <br/> |
 |**Kernfunktionalität (Desktopclient)** <br/> ||||||
 |[Hinzufügen von Spalten](../project-online-service-description/core-functionality.md#add-columns) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Backstage](../project-online-service-description/core-functionality.md#backstage) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |

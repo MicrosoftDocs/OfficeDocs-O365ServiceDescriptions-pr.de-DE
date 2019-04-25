@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support ist sowohl online über das Office 365-Portal als auch per Telefon sowohl für kostenpflichtige als auch für Testabonnements verfügbar. Weitere Informationen finden Sie unter Office 365 Support Options.
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467532"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247001"
 ---
-# <a name="support"></a>Unterstützung
+# <a name="support"></a>Support
 
 > [!NOTE]
 > Alle auf dieser Seite beschriebenen Supportoptionen gelten für die weltweit verfügbaren Versionen von Office 365. Alle Unterstützung für Office 365, betrieben von 21Vianet in China, finden Sie unter [Contact office 365 for Business Support for office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Informationen zu Office 365 Deutschland finden Sie unter [Contact office 365 for Business Support for office 365 Germany](https://go.microsoft.com/fwlink/?linkid=846979). 
@@ -67,8 +67,8 @@ Der technische Support für Office 365-Abonnements bietet Unterstützung bei der
   
 |**Supportkategorie**|**Beispiele**|
 |:-----|:-----|
-|Installation und Einrichtung  <br/> | Exchange Online:  <br/>  Migration von Office 365-Postfächern  <br/>  Empfängerkonfiguration (Postfachberechtigungen, Konfigurieren der E-Mail-Weiterleitung, Konfigurieren des freigegebenen Postfachs)  <br/>  Konfiguration der AutoErmittlung  <br/>  SharePoint Online:  <br/>  Berechtigungen und Benutzergruppen  <br/>  Konfiguration externer Benutzer  <br/>  Skype for Business Online:  <br/>  Installation und Erstellen von Kontakten  <br/>  Microsoft Office 365 ProPlus: Hilfe bei Installation und Einrichtung  <br/> |
-|Konfiguration  <br/> | Probleme durch fehlerhafte Dienstkonfiguration  <br/>  Bereitstellungsprobleme  <br/>  Domäneneinrichtung und Redelegierung  <br/>  Probleme bei der Dienstkonfiguration  <br/>  Einmaliges Anmelden (SSO)  <br/>  Active Directory-Synchronisierung  <br/> |
+|Installation und Einrichtung  <br/> | Exchange Online:  <br/>  Office 365-Postfachmigration  <br/>  Empfängerkonfiguration (Postfachberechtigungen, Konfigurieren der E-Mail-Weiterleitung, Konfigurieren des freigegebenen Postfachs)  <br/>  Konfiguration der AutoErmittlung  <br/>  SharePoint Online:  <br/>  Berechtigungen und Benutzergruppen  <br/>  Konfiguration externer Benutzer  <br/>  Skype for Business Online:  <br/>  Installation und Erstellen von Kontakten  <br/>  Microsoft Office 365 ProPlus: Hilfe bei Installation und Einrichtung  <br/> |
+|Konfiguration  <br/> | Probleme durch fehlerhafte Dienstkonfiguration  <br/>  Bereitstellungsprobleme  <br/>  Domäneneinrichtung und Redelegierung  <br/>  Probleme bei der Dienstkonfiguration  <br/>  Einmaliges Anmelden (Single Sign-On, SSO)  <br/>  Active Directory-Synchronisierung  <br/> |
    
 > [!NOTE]
 > Hier erfahren Sie, wie Sie den technischen Support kontaktieren können: [Kontaktieren des Office 365 Business-Supports - Administratorhilfe](https://go.microsoft.com/fwlink/p/?LinkID=279815). > Der technische Support für Office 365 sieht keine Problembehandlung für Dienste und Add-Ins anderer Anbieter vor. In der [Microsoft Community](https://go.microsoft.com/fwlink/p/?LinkID=617897) können Sie sich mit anderen Kunden über Probleme austauschen und Antworten finden. 

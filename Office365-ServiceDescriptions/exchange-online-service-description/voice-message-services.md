@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
 ms.openlocfilehash: 3879252927a26f47cd5d92f0fbcfbdecf4466c2a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467922"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246471"
 ---
 # <a name="voice-message-services"></a>Sprachnachrichtendienste
 

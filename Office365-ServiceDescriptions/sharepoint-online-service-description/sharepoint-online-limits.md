@@ -10,11 +10,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
 ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467872"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246611"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Grenzwerte
 
@@ -24,10 +24,10 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365-Pläne und eigenständ
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 Business Essentials oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint Online-Plan 1 oder 2** <br/> | **Office 365 Enterprise F1** <br/> |
+|**Funktion** <br/> |**Office 365 Business Essentials oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint Online-Plan 1 oder 2** <br/> | **Office 365 Enterprise F1** <br/> |
 |Speicher<sup>1, 2</sup> <br/> |1 TB pro Organisation plus 10 GB pro erworbene Lizenz  <br/> |1 TB pro Organisation plus 10 GB pro erworbene Lizenz<sup>3</sup> <br/> |1 TB pro Organisation <sup>3</sup> <br/> |
 |Speicher für Websitesammlungen  <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>5</sup> <br/> |
-|Websitesammlungen pro Organisation  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> |500,000<br/> |
+|Websitesammlungen pro Organisation  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> |500.000<br/> |
 |Anzahl der Benutzer  <br/> |Bis zu 300  <br/> |1-500.000<sup>7</sup> <br/> |1-500.000<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -68,6 +68,6 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365-Pläne und eigenständ
 > [!NOTE]
 > Es gibt keine Begrenzung für die Anzahl externer Benutzer, die Sie zu Ihren SharePoint Online-Websitesammlungen einladen können. Weitere Informationen finden Sie unter [Verwalten der externen Dateifreigabe für Ihre SharePoint-Onlineumgebung](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Weitere Artikel
+## <a name="see-also"></a>Siehe auch
 
 [Such Grenzwerte für SharePoint Online](/sharepoint/search-limits)

@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Mit Visio Online können Sie Visio-Diagramme im Web anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise einen Plan darzustellen, einen Vorschlag zu erstellen oder eine Abfolge von Schritten in einem Prozess zu beschreiben. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und Rich-Shape-Sätzen zu erstellen. Visio Online-Benutzer können Diagramme anzeigen und zusammenarbeiten und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive for Business Online hochgeladen werden.
 ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466502"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246831"
 ---
 # <a name="visio-online-service-description"></a>Visio Online-Dienstbeschreibung
 

@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (früher Excel Web App) erweitert Ihre Microsoft Excel-Umgebung auf den Webbrowser, in dem Sie Arbeitsmappen direkt auf der Website bearbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten.
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467382"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246981"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -44,7 +44,7 @@ Verlinken Sie Webseiten, oder öffnen Sie Dateien im Web, indem Sie einen Link i
 
 Die Zeitachsensteuerung ermöglicht Ihnen das Filtern modellierter Daten. Es handelt sich dabei um eine Möglichkeit, eine kontinuierliche Folge von Datumsangaben visuell darzustellen und zu ändern sowie pivotbasierte Objekte wie PivotTables und PivotCharts zu filtern. 
   
-## <a name="alignment"></a>Alignment
+## <a name="alignment"></a>Ausrichtung
 <a name="bkmk_Alignment"> </a>
 
 Über die Schaltflächen für die Ausrichtung auf der Registerkarte "Start" können Sie die Ausrichtung des Texts ändern. 
@@ -74,7 +74,7 @@ Nicht verfügbar in Excel Online. In der Excel 2013-Desktop-App vereinfachen emp
 
 Excel Online kann Ihre Eingabe in eine Zelle automatisch vervollständigen. Falls mehrere Werte möglich sind, werden alle Werte in einer Liste angezeigt, in der Sie den gewünschten Wert auswählen können.
   
-## <a name="autosum"></a>AutoSum
+## <a name="autosum"></a>AutoSumme
 <a name="bkmk_AutoSum"> </a>
 
 Summieren Sie die Zahlen in einer Spalte oder Zeile, indem Sie die entsprechenden Zellen auswählen und dann auf "AutoSumme" doppelklicken. Das Ergebnis wird in der nächsten leeren Zelle angezeigt.
@@ -234,7 +234,7 @@ Excel Online erlaubt Ihnen, Power Pivot-Tabellen und -Diagramme anzuzeigen. Zum 
 
 Sie können Power View-Arbeitsblätter in einer Arbeitsmappe anzeigen und bearbeiten, aber Sie können kein Power View mit Excel Online erstellen. Das Erstellen von Power View ist nur mit der Desktopanwendung möglich. Mit Power View können Sie Daten in interaktiven, präsentationsbereiten Ansichten erstellen, freigeben und durchsuchen. Zeigen Sie Informationen in interaktiven Karten, Diagrammen und Tabellen an, die in einem einzigen Arbeitsblatt miteinander verknüpft sind. Erfahren Sie mehr über [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
-## <a name="print"></a>Drucken
+## <a name="print"></a>Print
 <a name="bkmk_Print"> </a>
 
 Über den Druckbefehl in Excel Online können Sie das gesamte Arbeitsblatt oder die aktuell ausgewählten Zellen an den Drucker senden. Erfahren Sie mehr über das [Drucken in Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=271676).
@@ -314,7 +314,7 @@ Wenn Sie in Excel Online eine Gruppe von Zellen auswählen, können Sie in der S
 
 Verwenden Sie Umfragen, um an Benutzer ein Excel Online-Formular zu senden, das sie ausfüllen können. Antworten werden automatisch in einem Onlinearbeitsblatt gesammelt. Erfahren Sie mehr über [Umfragen in Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
   
-## <a name="tell-me"></a>Funktion "Was möchten Sie tun?"
+## <a name="tell-me"></a>Sie wünschen...
 <a name="bkmk_Tell_Me_Excel"> </a>
 
 Wenn Sie eine Aufgabe in Excel Online ausführen möchten, aber nicht weiter wissen, können Sie die Suchfunktion "Was möchten Sie tun?" verwenden, um das Gesuchte schnell zu finden. Die Funktion versteht, welche Aktion Sie auszuführen versuchen, und hilft Ihnen mithilfe von Vorschlägen, dies schneller zu tun.

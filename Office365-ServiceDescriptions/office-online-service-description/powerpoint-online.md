@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint Online (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint-Umgebung auf den Webbrowser, in dem Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365-Kunden mit Office Online können Dateien unterwegs anzeigen, erstellen und bearbeiten.
 ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467342"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246941"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -227,7 +227,7 @@ Sie können mit PowerPoint Online SmartArt-Elemente einfügen, zu einem anderen 
 
 Tabellen können in PowerPoint Online erstellt und bearbeitet werden, und PowerPoint Online unterstützt die meisten Tabellenfunktionen. Für erweiterte Funktionen z. B. Zusammenführen und Teilen von Zellen, verwenden Sie die PowerPoint-Desktop-App. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="tell-me"></a>Funktion "Was möchten Sie tun?"
+## <a name="tell-me"></a>Sie wünschen...
 <a name="Bkmk_TellMe_PPT"> </a>
 
 Wenn Sie eine Aufgabe in PowerPoint Online ausführen möchten, aber nicht weiter wissen, können Sie die Suchfunktion "Was möchten Sie tun?" verwenden, um das Gesuchte schnell zu finden. Die Funktion versteht, welche Aktion Sie auszuführen versuchen, und hilft Ihnen mithilfe von Vorschlägen, dies schneller zu tun.

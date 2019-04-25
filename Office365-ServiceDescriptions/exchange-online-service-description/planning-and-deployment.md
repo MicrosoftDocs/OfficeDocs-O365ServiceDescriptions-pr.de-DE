@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 ms.openlocfilehash: 8175c34f7ab55935788d5238235ad7be66db8871
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467112"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246340"
 ---
 # <a name="planning-and-deployment"></a>Planung und Bereitstellung
 

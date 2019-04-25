@@ -1,5 +1,5 @@
 ---
-title: 'Beschreibung der Office 365-Dienste '
+title: 'Office 365-Dienstbeschreibungen '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 ist ein Cloud-basierter Dienst, der dazu dient, die Anforderungen Ihrer Organisation an robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen.
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641440"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246791"
 ---
-# <a name="office-365-service-descriptions"></a>Beschreibung der Office 365-Dienste 
+# <a name="office-365-service-descriptions"></a>Office 365-Dienstbeschreibungen 
 
 Microsoft Office 365 ist ein Cloud-basierter Dienst, der dazu dient, die Anforderungen Ihrer Organisation an robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen. 
   
@@ -51,13 +51,13 @@ Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen
     
 - [Beschreibung des Exchange Online-Archivierungsdiensts](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
-- [OneDrive for Business - Dienstbeschreibung](onedrive-for-business-service-description.md)
+- [OneDrive for Business – Dienstbeschreibung](onedrive-for-business-service-description.md)
     
 - [SharePoint Online-Dienstbeschreibung](sharepoint-online-service-description/sharepoint-online-service-description.md)
     
 - [Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
-- [Beschreibung zu Workplace Analytics](workplace-analytics-service-description.md)
+- [Workplace Analytics-Dienstbeschreibung](workplace-analytics-service-description.md)
 
 - [MyAnalytics-Dienstbeschreibung](mya-service-description.md)
     

@@ -10,23 +10,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: 'Microsoft bietet Office 365 US Government Community (GCC)-Dienste an, um die einzigartigen und sich ständig weiterentwickelnden Anforderungen der US-bundesstaatlichen, staatlichen, lokalen und volksstämmigen Regierungen sowie von Auftragnehmern, die Daten im Auftrag der US-Regierung speichern oder verarbeiten, zu erfüllen. Diese Dienste stehen über mehrere Kanäle, einschließlich Volumenlizenzierung, zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind derzeit nur für Entitäten der US-Regierung verfügbar. '
+description: Um die einzigartigen und sich verändernden Anforderungen der Bundes-, Bundes-, Staats-, Orts-und Stammes Regierungen sowie der Vertragspartner zu erfüllen, die Daten im Namen der US-Regierung speichern oder verarbeiten, bietet Microsoft Office 365-Dienste der US Government Community (GCC) an. Verfügbar über mehrere Kanäle, einschließlich Volumenlizenzierung, durchlaufen Interessenten einen Validierungsprozess, um die Berechtigung vor der Einrichtung einer Umgebung sicherzustellen. Tests stehen derzeit nur US Government-Entitäten zur Verfügung.
 ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379027"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247131"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-Microsoft bietet Office 365 US Government Community (GCC)-Dienste an, um die einzigartigen und sich ständig weiterentwickelnden Anforderungen der US-bundesstaatlichen, staatlichen, lokalen und volksstämmigen Regierungen sowie von Auftragnehmern, die Daten im Auftrag der US-Regierung speichern oder verarbeiten, zu erfüllen. Diese Dienste stehen über mehrere Kanäle, einschließlich Volumenlizenzierung, zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind derzeit nur für Entitäten der US-Regierung verfügbar.  
+Um die einzigartigen und sich verändernden Anforderungen der Bundes-, Bundes-, Staats-, Orts-und Stammes Regierungen sowie der Vertragspartner zu erfüllen, die Daten im Namen der US-Regierung speichern oder verarbeiten, bietet Microsoft Office 365-Dienste der US Government Community (GCC) an. Verfügbar über mehrere Kanäle, einschließlich Volumenlizenzierung, durchlaufen Interessenten einen Validierungsprozess, um die Berechtigung vor der Einrichtung einer Umgebung sicherzustellen. Tests stehen derzeit nur US Government-Entitäten zur Verfügung. 
   
 Bitten Sie Ihr Team oder einen bevorzugten Partner, sich weiter zu informieren oder den Überprüfungsprozess zu initiieren. Weitere Informationen finden Sie auf der Seite [Vergleich von Office 365 Government-Plänen](https://products.office.com/en-us/government/compare-office-365-government-plans). 
   
 ## <a name="how-to-use-this-service-description-section"></a>Verwenden des Abschnitts zur Dienstbeschreibung
 
-Die Dienstbeschreibung zu Office 365 Government dient zur Überlagerung der allgemeinen Office 365-Dienstbeschreibung. Sie definiert die eindeutigen Versprechen und Unterschiede im Vergleich zu Office 365 Enterprise-Angeboten.
+Die Dienstbeschreibung zu Office 365 US Government dient zur Überlagerung der allgemeinen Office 365-Dienstbeschreibung. Sie definiert die eindeutigen Versprechen und Unterschiede im Vergleich zu Office 365 Enterprise-Angeboten.
   
 ## <a name="us-government-community-compliance"></a>US Government Community-Compliance
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des E-Mail-Flusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Exchange Online Protection (EOP) macht das möglich und stellt cloudbasierte Antiviren- und Antispamfunktionen für E-Mails bereit. Weitere Informationen zu EOP und den entsprechenden Kaufmodalitäten finden Sie unter Exchange Online Protection.
 ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467572"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33244911"
 ---
 # <a name="mail-floweop"></a>E-Mail-Fluss[EOP]
 
@@ -43,7 +43,7 @@ Weitere Informationen finden Sie unter [Einrichten von Connectors für den siche
 
 Sie können die IP-Adresse eines vertrauenswürdigen Partners in eine Liste sicherer Absender aufnehmen, um zu gewährleisten, dass Nachrichten von diesem Partner von der Spamfilterung ausgenommen werden. Verwenden Sie dazu die Liste zugelassener IP-Adressen des Verbindungsfilters. Weitere Informationen finden Sie unter [Konfigurieren der Verbindungsfilterrichtlinie](https://go.microsoft.com/fwlink/p/?LinkID=287108).
   
-## <a name="conditional-mail-routing"></a>Conditional mail routing
+## <a name="conditional-mail-routing"></a>Bedingtes E-Mail-Routing
 <a name="BKMK_conditionalmailrouting"> </a>
 
 Sie können einen Connector mit einer Transportegel konfigurieren, die E-Mails basierend auf bestimmten Bedingungen an einen spezifischen Standort weiterleitet. Weitere Informationen finden Sie unter [Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).

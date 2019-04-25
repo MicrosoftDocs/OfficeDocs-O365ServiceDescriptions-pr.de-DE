@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
 ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764853"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247201"
 ---
 # <a name="user-account-management"></a>Benutzerkontenverwaltung
 
@@ -61,7 +61,7 @@ Weitere Informationen zu Domänen in Office 365 finden Sie unter [Domänen](doma
   
 \* Bei Verwendung von Office 365 betrieben von 21Vianet in China lautet die Standarddomäne \<Name des Unternehmens\> **.onmsChina.cn**. Wenn Sie Office 365 Deutschland verwenden, lautet die Standarddomäne \<Name des Unternehmens\> **.onmicrosoft.de**.
   
-## <a name="authentication"></a>Authentication
+## <a name="authentication"></a>Authentifizierung
 
 Mit der Ausnahme von Websites für anonymen Zugriff, die mit SharePoint Online erstellt wurden, müssen Benutzer authentifiziert werden, wenn sie auf Office 365-Dienste zugreifen. 
   
@@ -71,7 +71,7 @@ Mit der Ausnahme von Websites für anonymen Zugriff, die mit SharePoint Online e
     
 - **Authentifizierung der Cloudidentität** Benutzer mit Cloudidentitäten werden mit herkömmlichen Methoden für Herausforderung/Rückmeldung authentifiziert. Der Webbrowser wird an den Office 365-Anmeldedienst weitergeleitet, bei dem Sie den Benutzernamen und das Kennwort für Ihr Arbeits- oder Schulkonto angeben. Der Anmeldedienst authentifiziert Ihre Anmeldeinformationen und generiert ein Diensttoken, das der Webbrowser dem angeforderten Dienst bereitstellt, und Sie werden angemeldet. 
     
-- **Verbund Identitätsauthentifizierung** Benutzer mit Verbundidentitäten werden mithilfe von Active Directory Federation Services (AD FS) 2,0 oder anderen sicherheitsTokendienst authentifiziert. Der Webbrowser wird an den Office 365-Anmeldedienst umgeleitet, in dem Sie Ihre Unternehmens-ID im Formular ein Benutzerprinzipalname (UPN, beispielsweise isabel@contoso.com) eingeben. Der Anmeldedienst ermittelt, dass Sie Teil einer Verbunddomäne sind, und bietet an, Sie zur Authentifizierung an den lokalen Verbundserver weiterzuleiten. Wenn Sie am Desktop (verbunden) angemeldet sind, werden Sie authentifiziert (mithilfe von Kerberos oder NTLMv2), und der lokale sicherheitsTokendienst generiert ein Anmelde Token, das vom Webbrowser an den Office 365-Anmeldedienst übertragen wird. Der Anmeldedienst generiert mithilfe des Anmeldetokens ein Diensttoken, das vom Webbrowser an den angeforderten Dienst weitergeleitet wird, und meldet Sie an. Eine Liste der verfügbaren sicherheitsTokendienst finden Sie unter [Single Sign-on Roadmap](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Authentifizierung der Verbundidentität** Benutzer mit Verbundidentitäten werden mit Active Directory-Verbunddienste (AD FS) 2.0 oder anderen Sicherheitstokendiensten authentifiziert. Der Webbrowser wird an den Office 365-Anmeldedienst weitergeleitet, bei dem Sie Ihre Unternehmens-ID als Benutzerprinzipalnamen (UPN, User Principal Name, z. B. isabel@contoso.com) eingeben. Der Anmeldedienst ermittelt, dass Sie Teil einer Verbunddomäne sind, und bietet an, Sie zur Authentifizierung an den lokalen Verbundserver weiterzuleiten. Wenn Sie am Desktop angemeldet sind (Domänenbeitritt), werden Sie authentifiziert (mit Kerberos oder NTLMv2), und der lokale Sicherheitstokendienst generiert ein Anmeldetoken, das der Webbrowser dem Office 365-Anmeldedienst bereitstellt. Der Anmeldedienst generiert mithilfe des Anmeldetokens ein Diensttoken, das vom Webbrowser an den angeforderten Dienst weitergeleitet wird, und meldet Sie an. Eine Liste verfügbarer Sicherheitstokendienste finden Sie unter [Fahrplan für einmaliges Anmelden](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 verwendet die formularbasierte Authentifizierung, und der Authentifizierungsdatenverkehr über das Netzwerk wird immer an Port 443 mit TLS/SSL verschlüsselt. Der Authentifizierungsdatenverkehr beansprucht einen zu vernachlässigenden prozentualen Anteil der Bandbreite für Office 365-Dienste. 
   

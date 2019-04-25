@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online-Funktionen unter Einrichten von Skype for Business Online.
 ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467432"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246382"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 

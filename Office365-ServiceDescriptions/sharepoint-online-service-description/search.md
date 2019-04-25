@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Suchfunktionen helfen dabei, die Informationen zu finden, die für die Arbeit benötigt werden. Die Grundlage der Suche ist eine Kombination aus Relevanz, Verfeinerung und Personen.
 ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467633"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246621"
 ---
-# <a name="search"></a>Suche
+# <a name="search"></a>Suchen
 
 SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Suchfunktionen helfen dabei, die Informationen zu finden, die für die Arbeit benötigt werden. Die Grundlage der Suche ist eine Kombination aus Relevanz, Verfeinerung und Personen.
   
@@ -49,12 +49,12 @@ In SharePoint ist es einfacher, Personen mit bestimmten Fähigkeiten und Fachken
 
 Die neuen grafischen Einschränkungen bieten eine visuelle Möglichkeit, Suchergebnisse zu filtern. Erfahren Sie mehr über das [Konfigurieren des Einschränkungswebparts](https://go.microsoft.com/fwlink/?LinkId=271017).
   
-## <a name="hybrid-search"></a>Hybrid search
+## <a name="hybrid-search"></a>Hybridsuche
 <a name="bkmk_HybridSearch"> </a>
 
 Bei der Hybridbereitstellung von SharePoint können Suchergebnisinhalte sowohl aus SharePoint Online- als auch aus lokalen SharePoint Server 2013-Websites stammen. Weitere Informationen zu hybriden SharePoint-Umgebungen finden Sie unter [Hybridlösung für SharePoint Server 2013](https://go.microsoft.com/fwlink/?LinkId=275765).
   
-## <a name="manage-search-schema"></a>Manage search schema
+## <a name="manage-search-schema"></a>Verwalten des Suchschemas
 <a name="bkmk_manage_search_schema"> </a>
 
 Wenn Benutzer auf Ihren SharePoint-Websites nach Inhalten suchen, hängen ihre Suchergebnisse vom Inhalt Ihres Suchindex ab. Der Suchindex enthält Informationen aus allen Dokumenten und Seiten auf Ihrer Website und wird mithilfe der Durchforstung der Inhalte auf Ihrer SharePoint-Website erstellt. Das Suchschema erleichtert dem Crawler die Entscheidung, welche Inhalte und Metadaten erfasst und wie diese indiziert werden sollen. Durch eine Änderung des Suchschemas können Sie Ihren Benutzern eine angepasste Suche bieten. Erfahren Sie mehr über das [Verwalten des Suchschemas in SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).

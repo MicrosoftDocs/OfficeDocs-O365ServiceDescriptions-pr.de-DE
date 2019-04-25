@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Die folgenden Funktionen der Kerndienste sind in Project online verfügbar.
 ms.openlocfilehash: 0350da9aefb51341ea3c1e871840a72bbe96ab05
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468052"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246871"
 ---
 # <a name="core-services-functionality"></a>Hauptfunktionalitäten des Diensts
 

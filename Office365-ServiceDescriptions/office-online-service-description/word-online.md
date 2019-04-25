@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word Online (ehemals Word Web App) erweitert Ihre Microsoft Word-Benutzeroberfläche in den Webbrowser, in dem Sie Dokumente direkt auf der Website bearbeiten können, auf der das Dokument gespeichert ist.
 ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467302"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246951"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -323,7 +323,7 @@ Nicht verfügbar in Word Online. Mit Word Online können Sie ein vorhandenes Rec
 
 Verwenden Sie das Feature zum Tippen, um Inhalte zu suchen und wiederzuverwenden. Tippen Sie auf relevante Dateien, die Sie am häufigsten verwenden, sodass Sie sich auf die Dokumenterstellung und nicht auf das Suchen nach Dateien und Informationen konzentrieren können. Weitere Informationen finden Sie unter [Suchen und Verwenden von benötigten Inhalten](https://go.microsoft.com/fwlink/?linkid=825878).
   
-## <a name="tell-me"></a>Funktion "Was möchten Sie tun?"
+## <a name="tell-me"></a>Sie wünschen...
 <a name="BKMK_Tell_Me_Word"> </a>
 
 Wenn Sie eine Aufgabe in Word Online ausführen möchten, aber nicht weiter wissen, können Sie die Suchfunktion "Was möchten Sie tun?" verwenden, um das Gesuchte schnell zu finden. Die Funktion versteht, welche Aktion Sie auszuführen versuchen, und hilft Ihnen mithilfe von Vorschlägen, dies schneller zu tun.

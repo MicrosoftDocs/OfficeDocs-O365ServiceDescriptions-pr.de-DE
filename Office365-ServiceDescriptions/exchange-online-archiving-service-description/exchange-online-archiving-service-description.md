@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online-Archivierung ist eine Cloud-basierte Microsoft Office 365-Archivierungslösung auf Unternehmensniveau für Organisationen, die Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 und höher) bereitgestellt haben. ) oder abonnieren bestimmter Exchange Online-oder Office 365-Pläne. Die Exchange Online-Archivierung unterstützt diese Organisationen bei Archivierungs-, Compliance-, regulatorischen und eDiscovery-Herausforderungen bei gleichzeitiger Vereinfachung der lokalen Infrastruktur, wodurch Kosten gesenkt und IT-Belastungen reduziert werden.
 ms.openlocfilehash: 20c22a644e43377c6a8b28011412ff78f802f742
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467092"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246151"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Beschreibung des Exchange Online-Archivierungsdiensts
 
@@ -68,7 +68,7 @@ Jeder Benutzer, der auf den Exchange Online-Archivierung-Dienst zugreift, muss �
 ## <a name="unlimited-archive-storage-quota"></a>Unbegrenztes Archivspeicherkontingent
 <a name="bkmk_EOA_Plans"> </a>
 
- Die unbegrenzte Archivierung in Office 365 (als automatisch erweiterte Archivierung bezeichnet) bietet unbegrenzten Speicherplatz in Archivpostfächern. Die automatische Erweiterung der Archivierung wird nur in der Hybrid Konfiguration unterstützt, wenn sich das Postfach des Benutzers auf Exchange Server 2016 oder Exchange Server 2013 (SP1 oder höher) befindet. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). 
+ Die unbegrenzte Archivierung in Office 365 (als automatisch erweiterte Archivierung bezeichnet) bietet unbegrenzten Speicherplatz in Archivpostfächern. Die automatische Erweiterung der Archivierung wird nur in der Hybrid Konfiguration unterstützt, wenn sich das Postfach des Benutzers auf Exchange Server 2016 oder Exchange Server 2013 (SP1 oder höher) befindet. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Informationen zur Verfügbarkeit finden Sie unter [Office 365 Roadmap](http://go.microsoft.com/fwlink/?LinkId=509914). 
   
 > [!IMPORTANT]
 > Administratoren können das Speicherkontingent nicht anpassen.
@@ -107,7 +107,7 @@ Jeder Benutzer, der auf den Exchange Online-Archivierung-Dienst zugreift, muss �
    
 
 > <sup>1</sup> Benutzerpostfächer müssen sich auf Exchange 2010 SP2 oder höher befinden.
- <br/><sup>2</sup> ein in-Place-Archiv kann nur zum Archivieren von e-Mails für einen einzelnen Benutzer oder eine Entität verwendet werden, für die eine Lizenz angewendet wurde. Das Verwenden eines in-Place-Archivs als Möglichkeit zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist unzulässig. Beispielsweise können IT-Administratoren keine freigegebenen Postfächer erstellen und Benutzer (über das Feld "CC" oder "Bcc" oder über eine Transportregel) ein freigegebenes Postfach zum expliziten Zwecke der Archivierung kopieren lassen. 
+ <br/><sup>2</sup> ein in-Place-Archiv kann nur zum Archivieren von e-Mails für einen einzelnen Benutzer oder eine Entität verwendet werden, für die eine Lizenz angewendet wurde. Das Verwenden eines in-Place-Archivs als Möglichkeit zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist unzulässig. IT-Administratoren ist beispielsweise nicht berechtigt, ein freigegebenes Postfach zu erstellen und die Benutzer anzuweisen, dieses freigegebene Postfach zum expliziten Zweck der Archivierung in E-Mails zu adressieren (auf CC oder BCC bzw. über eine Transportregel). 
  <br/> <sup>3</sup> eine Liste unterstützter Microsoft Outlook-Versionen finden Sie unter [Client Features in Exchange Online Archiving](client-features.md). 
  <br/><sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. 
  <br/><sup>5</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterSTÜTZTen IRM-Funktionen zu aktivieren. 

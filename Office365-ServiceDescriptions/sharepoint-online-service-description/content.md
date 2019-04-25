@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Inhaltsfunktionen erleichtern allen die Inhaltsverwaltung im Unternehmen (Enterprise Content Management, ECM). Das Geheimnis ist die Kombination aus traditionellem Content Management, sozialen Fähigkeiten und den leistungsstarken Suchfunktionen.
 ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
-ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31981679"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246671"
 ---
 # <a name="content"></a>Inhalt
 

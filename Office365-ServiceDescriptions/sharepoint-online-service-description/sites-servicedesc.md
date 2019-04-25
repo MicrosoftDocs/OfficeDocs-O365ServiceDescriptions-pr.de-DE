@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Websitefunktionen bieten einen umfassenden Toolsatz, mit dem Ihre Organisation jede Website sowie eine einzelne Infrastruktur erstellen kann, was die Websiteverwaltung vereinfacht. Ausführlichere Informationen finden Sie unter Suchen von Inhalten zu SharePoint Online.
 ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825173"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246581"
 ---
 # <a name="sites"></a>Websites
 
@@ -41,7 +41,7 @@ Durch das Definieren von verwalteten Pfaden können Sie festlegen, welche Pfade 
 
 Mithilfe von Websiteordnern können Sie einfach zu den gewünschten Inhalten navigieren. Mit der Websiteordneransicht in OneDrive for Business werden Sie direkt zu den Dokumentbibliotheken der SharePoint-Websites weitergeleitet, denen Sie folgen. 
   
-## <a name="governance"></a>Governance
+## <a name="governance"></a>Steuerung
 <a name="bkmk_Governance"> </a>
 
 Ein wichtiger, jedoch häufig nicht sichtbarer Teil jeder Website ist das zugrunde liegende Steuerungsmodell, d. h. der Satz von Richtlinien, Rollen, Verantwortlichkeiten und Prozessen, den Sie einrichten, um zu bestimmen, wie die Personen in Ihrer Gruppe SharePoint verwenden. Erfahren Sie mehr über die [bewährten Methoden zum Erstellen und Verwalten von Teamwebsites](https://go.microsoft.com/fwlink/?LinkId=271050).

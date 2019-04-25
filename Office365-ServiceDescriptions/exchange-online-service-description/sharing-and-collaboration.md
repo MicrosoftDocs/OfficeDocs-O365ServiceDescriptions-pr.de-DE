@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
 ms.openlocfilehash: ca55a389f5ed117b09b6c10ca1b2caf42bf01be0
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466922"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246361"
 ---
 # <a name="sharing-and-collaboration"></a>Freigabe und Zusammenarbeit
 

@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online in Office 365 ermöglicht Benutzern das Freigeben und zusammenarbeiten, das informieren und einbinden anderer Unternehmensprozesse, das Transformieren von Geschäftsprozessen und das Nutzen von kollektivem wissen. Darüber hinaus bietet SharePoint Funktionen für Organisationen zum Schutz und zur Verwaltung von Daten sowie zum Erstellen benutzerdefinierter Lösungen. Eine kurze Übersicht finden Sie unter Was ist SharePoint?
 ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467912"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246601"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online-Dienstbeschreibung
 
@@ -148,7 +148,7 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Office Online(erstellen/bearbeiten)](content.md#office-online-createedit) <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>15</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Office Online(Ansicht)](content.md#office-online-view) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office proPlus  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|[Office Web Apps Server-Integration](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Ja  <br/> |Ja  <br/> |
+|[Office Web Apps Server-Integration](content.md#office-web-apps-server-integration) <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Ja  <br/> |Ja  <br/> |
 |[Permanentes Dokumentarchiv](content.md#preservation-hold-library) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Veröffentlichungs Analyse](content.md#publishing-analytics) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[QuickEdit](content.md#quick-edit) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |

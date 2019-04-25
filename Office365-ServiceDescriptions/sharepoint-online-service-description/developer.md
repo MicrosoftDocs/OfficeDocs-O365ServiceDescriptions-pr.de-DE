@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden Features unterstützen Entwickler beim Entwickeln von Apps und Lösungen zur Erweiterung der Funktionalität von SharePoint.
 ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467712"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246721"
 ---
 # <a name="developer"></a>Entwickler
 
@@ -111,7 +111,7 @@ Auf der Grundlage von InfoPath-Vorlagen können Benutzer mithilfe von Forms Serv
 
 SharePoint bietet ein JavaScript-Objektmodell zur Verwendung in Inlineskripts oder in gesonderten JS-Dateien. Es umfasst die gleiche Funktionalität wie die Clientobjektmodelle von .NET Framework und Silverlight. Das JavaScript-Objektmodell ist nützlich, um benutzerdefinierten SharePoint-Code in eine App einzuschließen. Zudem können Webentwickler ihre vorhandenen JavaScript-Kenntnisse für die Erstellung von SharePoint-Anwendungen mit einer minimalen Lernkurve nutzen. Weitere Informationen finden Sie unter [JavaScript-API-Verweis für SharePoint 2013](https://go.microsoft.com/fwlink/?LinkId=271289).
   
-## <a name="remote-event-receiver"></a>Remote Event Receiver
+## <a name="remote-event-receiver"></a>Remoteereignisempfänger
 <a name="bkmk_RemoteEventReceiver"> </a>
 
 In einer App für SharePoint können Entwickler zur Behandlung von Ereignissen Remoteereignisempfänger sowie App-Ereignisempfänger erstellen. Remoteereignisempfänger behandeln Ereignisse, die bei Elementen in Apps auftreten, z. B. einer Liste, einem Listenelement oder einer Website. Weitere Informationen finden Sie unter [Behandeln von Ereignissen in Apps für SharePoint](https://go.microsoft.com/fwlink/?LinkId=271735). 

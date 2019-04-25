@@ -18,11 +18,11 @@ ms.custom:
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
 ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764813"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247231"
 ---
 # <a name="office-365-plan-options"></a>Optionen zum Office 365-Plan
 
@@ -33,13 +33,13 @@ Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die 
 
 In der folgenden Tabelle sind die verschiedenen in Office 365 verfügbaren Dienstfamilien und Pläne aufgelistet. Klicken Sie auf einen der Links in der Planspalte, um eine allgemeine Übersicht der Funktionen und Preise abzurufen oder um mit einem Onlinemitarbeiter zu chatten.
   
-|**Office 365-Dienstfamilie**|**Pläne**|
+|**Office 365-Dienstfamilie**|**Pläne**|
 |:-----|:-----|
 |**Business (max. 300 Benutzer)** <br/> |[Office 365 Business Essentials](https://go.microsoft.com/fwlink/?LinkId=517487) <br/> [Office 365 Business](https://go.microsoft.com/fwlink/?linkid=625101) <br/> [Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |**Enterprise (unbegrenzte Anzahl von Benutzern)** <br/> |[Office 365 Enterprise E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 Enterprise E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 Enterprise E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 Enterprise F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
 |**Education (unbegrenzte Anzahl von Benutzern)** <br/> |[Office 365 Education](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 Education E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
 |**Government (unbegrenzte Anzahl von Benutzern)** <br/> |[Alle verfügbaren Unternehmenspläne anzeigen](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
-|**Office 365, betrieben von 21Vianet in China** <br/> |[Alle verfügbaren Unternehmenspläne anzeigen](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**Office 365, betrieben von 21Vianet in China** <br/> |[Alle verfügbaren Geschäftspläne anzeigen](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Deutschland** <br/> |[Alle verfügbaren Unternehmenspläne anzeigen](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Dienstverfügbarkeit in einem Office 365-Plan
@@ -124,7 +124,7 @@ Die folgenden Onlinedienste sind mit eigenständigen Plänen verfügbar. Sie dü
 |SharePoint Online  <br/> |[SharePoint Online Plan 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online Plan 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business-Plan 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive for Business-Plan 2](https://onedrive.live.com/about/en-us/business/) <br/> |
 |Skype for Business Online  <br/> |[Skype for Business Online Plan 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype for Business Online Plan 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
-|Office-Anwendungen  <br/> |[Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 Business](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
+|Office-Anwendungen  <br/> |[Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 Business](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |Projektportfoliomanagement  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |
 |Einblicke in die Organisation  <br/> |[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492) <br/> |

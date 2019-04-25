@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering Direct ist eine Unterstützung für Enterprise-Level-Support für einen Microsoft Premier Support-Vertrag. Die Office 365 Engineering Direct Service Description enthält zusätzliche Informationen zu den angebotenen Features und den Implementierungsanforderungen.
 ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
-ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30867921"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245011"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct-Dienstbeschreibung
 

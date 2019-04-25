@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Die folgenden Hauptfunktionen sind in Project online verfügbar.
 ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467469"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246901"
 ---
 # <a name="core-functionality"></a>Hauptfunktionalität
 
@@ -46,7 +46,7 @@ Installieren Sie Project Online im Handumdrehen über das Internet, interne Netz
 
 Klicken Sie mit der rechten Maustaste auf ein beliebiges Element in einer Projektansicht (beispielsweise auf einen Spaltentitel), und sofort erhalten Sie Zugriff auf alle Funktionen, die Sie mit diesem Element durchführen können.
   
-## <a name="custom-fields"></a>Custom fields (benutzerdefinierte Felder)
+## <a name="custom-fields"></a>Benutzerdefinierte Felder
 <a name="bkmk_Customfields"> </a>
 
 Zusätzlich zu den in Project inbegriffenen Feldern können Sie auch benutzerdefinierte Felder verwenden, um die Anforderungen Ihrer Organisation zu erfüllen. Weitere Informationen über Felder finden Sie unter [Referenz: Verfügbare Felder](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
@@ -96,7 +96,7 @@ Speichern Sie eine Project-Datei als PDF- oder XPS-Datei. Weitere Informationen 
 
 Wenn noch nicht alle Details eines Projekts feststehen, können Sie Platzhaltertext wie "TBD" für Ressourcen, Startdaten, Enddaten usw. verwenden. Weitere Informationen finden Sie unter [Projektplanung mit der Top-down-Methode](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
-## <a name="project-templates"></a>Project templates
+## <a name="project-templates"></a>Projektvorlagen
 <a name="bkmk_ProjectTemplates"> </a>
 
 Sie können bei der Projekterstellung viel Zeit sparen, wenn Sie ein altes Projekt als Vorlage verwenden. Weitere Informationen finden Sie unter [Erstellen eines neuen Projekts aus einem anderen Projekt oder einer Vorlage](https://go.microsoft.com/fwlink/p/?LinkId=271328).

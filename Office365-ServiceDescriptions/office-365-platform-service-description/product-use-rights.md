@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
 ms.openlocfilehash: 43bc5e30b318bf78d38ebebd0f8435c322fac2d2
-ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30668970"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247071"
 ---
 # <a name="product-use-rights"></a>Produktnutzungsrechte
 

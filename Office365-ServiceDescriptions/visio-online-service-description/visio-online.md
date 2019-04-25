@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Mit Visio Online können Sie Ihre Arbeit in Microsoft Visio auf den Webbrowser ausweiten, wo Sie mit Diagrammen direkt auf der Website arbeiten können, auf der sie gespeichert sind. Microsoft Office 365-Kunden mit Office Online können unterwegs Diagramme anzeigen und freigeben sowie Kommentare einfügen.
 ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467562"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246561"
 ---
 # <a name="visio-online"></a>Visio Online
 

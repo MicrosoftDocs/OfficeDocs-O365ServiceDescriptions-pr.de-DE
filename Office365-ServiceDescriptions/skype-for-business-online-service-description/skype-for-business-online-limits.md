@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategorien:'
 ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466962"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246461"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -48,10 +48,10 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Nicht zutreffend  <br/> |
+|**Funktion** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Nicht anwendbar  <br/> |
 |Konversations Limit<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
-|Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Nicht zutreffend  <br/> |
+|Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Nicht anwendbar  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> ein Client kann einen Chat mit bis zu 99 Benutzern starten, indem er diese manuell hinzufügt oder eine Sofortnachricht aus dem Kontextmenü einer Gruppe oder Verteilerliste sendet. Weitere Informationen zu Instant Messaging in Skype for Business Online finden Sie unter [Senden einer Sofortnachricht in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
@@ -60,7 +60,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
+|**Funktion** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
 |Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |
 |Konversations Limit<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |
@@ -87,13 +87,13 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Funktion** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |Nicht zutreffend  <br/> |
-|Teilnehmer an einer Skype for Business-Besprechung<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
-|Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
+|Teilnehmer an einer Skype for Business-Besprechung<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht anwendbar  <br/> |
+|Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht anwendbar  <br/> |
 |Skype for Business Web App-Besprechungsteilnehmer  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
-|Anonyme Skype for Business Web App-Besprechungsteilnehmer  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
-|Gäste, die per Telefon beitreten  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
+|Anonyme Skype for Business Web App-Besprechungsteilnehmer  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht anwendbar  <br/> |
+|Gäste, die per Telefon beitreten  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht anwendbar  <br/> |
 |Personen in einer Teamanrufgruppe  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |Nicht zutreffend  <br/> |
    
 > [!NOTE]
@@ -103,14 +103,14 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
+|**Funktion** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |Nicht zutreffend  <br/> |500 MB  <br/> |
-|Teilnehmer an einer Skype for Business-Besprechung  <br/> |250  <br/> |Nicht zutreffend  <br/> |250  <br/> |
-|Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |Nicht zutreffend  <br/> |250  <br/> |
-|Skype for Business Web App-Besprechungsteilnehmer  <br/> |250  <br/> |Nicht zutreffend  <br/> |250  <br/> |
-|Anonyme Skype for Business Web App-Besprechungsteilnehmer  <br/> |250  <br/> |Nicht zutreffend  <br/> |250  <br/> |
-|Gäste, die per Telefon beitreten  <br/> |250  <br/> |Nicht zutreffend  <br/> |250  <br/> |
-|Personen in einer Teamanrufgruppe  <br/> |25  <br/> |Nicht zutreffend  <br/> |25  <br/> |
+|Teilnehmer an einer Skype for Business-Besprechung  <br/> |250  <br/> |Nicht anwendbar  <br/> |250  <br/> |
+|Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |Nicht anwendbar  <br/> |250  <br/> |
+|Skype for Business Web App-Besprechungsteilnehmer  <br/> |250  <br/> |Nicht anwendbar  <br/> |250  <br/> |
+|Anonyme Skype for Business Web App-Besprechungsteilnehmer  <br/> |250  <br/> |Nicht anwendbar  <br/> |250  <br/> |
+|Gäste, die per Telefon beitreten  <br/> |250  <br/> |Nicht anwendbar  <br/> |250  <br/> |
+|Personen in einer Teamanrufgruppe  <br/> |25  <br/> |Nicht anwendbar  <br/> |25  <br/> |
    
 ## <a name="meeting-retention-limits"></a>Besprechungsaufbewahrungsgrenzwerte
 <a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>

@@ -1,10 +1,10 @@
 ---
-redirect_url: exchange-online-protection-service-description
+redirect_url: journaling
 redirect_document_id: true
 ms.openlocfilehash: 834d423f3a12a458d10d7beb5eff35ff24bd43ef
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035742"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33244921"
 ---

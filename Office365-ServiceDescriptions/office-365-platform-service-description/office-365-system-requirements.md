@@ -16,11 +16,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 089b3880-9094-4f18-8a56-d91915a2d2d9
 description: Systemanforderungen für Office 365, den monatlichen Abonnement basierten Dienst für Unternehmen, Bildungseinrichtungen und Behörden, finden Sie unter Systemanforderungen für Office auf der office.com-Produkt Website.
 ms.openlocfilehash: c44a9980d00e82464cb3cff9563e7ed794f661f3
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467172"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247141"
 ---
 # <a name="office-365-system-requirements"></a>Office 365 - Systemanforderungen
 

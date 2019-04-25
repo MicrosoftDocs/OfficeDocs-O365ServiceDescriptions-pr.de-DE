@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467252"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246541"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 
@@ -200,7 +200,7 @@ Sie können DLP-Richtlinien in der Verwaltungsschnittstelle der Exchange-Verwalt
     
 Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust](https://go.microsoft.com/fwlink/p/?LinkId=271749).
   
-## <a name="journaling"></a>Journale
+## <a name="journaling"></a>Journaling
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Sie können Exchange Online so konfigurieren, dass Kopien von E-Mails in Journalen beliebiger externer Postfächer erfasst werden, die Nachrichten über SMTP erhalten können. Mithilfe der Aufzeichnung eingehender und ausgehender E-Mail-Kommunikation in Journalen kann Ihre Organisation rechtlichen, regulatorischen und organisatorischen Auflagen genügen. Bei der Planung von Nachrichtenaufbewahrung und Richtlinientreue ist es wichtig zu wissen, was Journaling ist und wie es in die Konformitätsrichtlinien Ihrer Organisation passt.

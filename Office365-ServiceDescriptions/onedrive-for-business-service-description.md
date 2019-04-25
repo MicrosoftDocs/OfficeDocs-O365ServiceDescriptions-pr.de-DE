@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive for Business ist ein persönlicher Onlinespeicherplatz in der Cloud, der Ihnen von Ihrem Unternehmen zur Verfügung gestellt wird. Verwenden Sie diesen, um Ihre Arbeitsdateien bequem und sicher geräteübergreifend zu speichern. Teilen Sie Ihre Dateien nach Bedarf mit Kollegen, und bearbeiten Sie Office-Dokumente gemeinsam in Echtzeit mit OneDrive for Business. Synchronisieren Sie Dateien mit Ihrem lokalen Computer mithilfe der Synchronisierungs-App OneDrive for Business.
 ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467192"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246921"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business – Dienstbeschreibung
 

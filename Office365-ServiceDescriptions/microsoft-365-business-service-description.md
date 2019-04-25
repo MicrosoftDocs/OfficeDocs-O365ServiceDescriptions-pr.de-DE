@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen kombiniert, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie in den Office 365-Dienstbeschreibungen.
 ms.openlocfilehash: d138e2afbc9bdeb7fd81e9a1c60fa03b91e1a373
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764823"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246413"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -59,11 +59,11 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Office 365-Video  <br/> |Nein  <br/> |Nein  <br/> |
 |OneNote-Kursnotizbuch  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|[Office 365 administration features](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Office 365-Verwaltungsfeatures](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Verwalten von Office 365 mithilfe des Microsoft 365 Admin Center oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |
 |Schützen von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>6</sup> <br/> |Ja  <br/> |
 |[Benutzerkontenverwaltung](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
-|Office 365-Desktopsetup  <br/> |Ja  <br/> |Ja  <br/> |
+|Office 365-Desktopsetup  <br/> |Ja  <br/> |Ja  <br/> |
 |Massenupload mit CSV-Dateien  <br/> |Ja  <br/> |Ja  <br/> |
 |Azure AD Connect-Synchronisierungstool  <br/> |Ja  <br/> |Ja<sup>7</sup> <br/> |
 |Einfache Exchange-Migration (Übernahmemigration)  <br/> |Ja  <br/> |Ja  <br/> |

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Administratoren von Microsoft Office 365 können Berichte anzeigen, die zeigen, wie Ihre Organisation Office 365-Dienste verwendet. Mithilfe dieser Berichte können Sie Probleme identifizieren, Daten filtern und Daten in Microsoft Excel herunterladen. Sie können auch Ihre eigenen Berichte mithilfe von Office 365-Berichterstellungswebdiensten erstellen. Exchange Online- und Exchange Online Protection-Administratoren (EOP) können E-Mail-Schutzberichte in Office 365 verwenden, um Daten über Schadsoftware, Spam und Regelerkennungen anzuzeigen.
 ms.openlocfilehash: 0ad1389e9c3bb7c400368389739f62abed62b275
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466632"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247051"
 ---
 # <a name="reports"></a>Berichte
 

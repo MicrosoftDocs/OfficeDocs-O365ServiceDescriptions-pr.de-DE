@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
 ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379037"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247111"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC hoch und DoD
 
@@ -79,7 +79,7 @@ Office 365-Abonnements in GCC High and DoD-Umgebungen beinhalten die zentralen E
     
 Kunden, die SharePoint Online und OneDrive for Business in der GCC-hoch-oder DoD-Umgebung verwenden, können Dokumente privat halten (erste Option), für alle Personen in Ihrer Organisation freigeben (zweite Option), für jeden freigeben, der über den Link zum Dokument verfügt (dritte Option) und nur für bestimmte Personen innerhalb der GCC High-und DoD-Umgebungen freigeben (vierte Option); Diese Optionen können natürlich auch auf Basis der Zugriffssteuerung auf Mandantenebene eingeschränkt werden.
   
-GCC-hohe Mandanten können nur mit anderen GCC-hoch Mandanten teilen. Zum Beispiel:
+GCC-hohe Mandanten können nur mit anderen GCC-hoch Mandanten teilen. Beispiel:
   
 - GCC-hoch Mandant A kann mit GCC-hoch Mandant B teilen.
     
@@ -97,7 +97,7 @@ Darüber hinaus werden nicht-GCC-e-Mail-Adressen, die mit Benutzerprofilen verbu
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **PSTN- &amp; Anrufe PSTN-Konferenzen** -aufgrund der Anforderung, das Telefon Festnetz (Public Switched Telephone Network, PSTN) für Telefonie-orientierte &amp; Dienste zu verwenden, sind PSTN-Anrufdienste derzeit in gcc High und DoD nicht verfügbar. 
+ **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
   
 ### <a name="identity"></a>Identität
 

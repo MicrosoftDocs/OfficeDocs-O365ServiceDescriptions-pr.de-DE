@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bereitstellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
 ms.openlocfilehash: 9ae21b604a2650586402e33388d705641292ab88
-ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31981699"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247020"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 

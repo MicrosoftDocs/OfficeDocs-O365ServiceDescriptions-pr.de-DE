@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Die folgenden Projektverwaltungsfeatures sind in Project online verfügbar.
 ms.openlocfilehash: 4e21f1ee6a0709975c5375136d38ddc9533fefb9
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468002"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246881"
 ---
 # <a name="project-management"></a>Projektmanagement
 

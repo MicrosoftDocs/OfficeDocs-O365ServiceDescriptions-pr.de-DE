@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Die folgenden Supportfunktionen stehen in jammern zur Verfügung.
 ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467372"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247351"
 ---
 # <a name="support-features-in-yammer"></a>Supportfunktionen in Yammer
 
