@@ -3,7 +3,7 @@ title: Dienstbeschreibung zu Office-Anwendungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/15/2018
+ms.date: 04/15/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bereitstellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: 9ae21b604a2650586402e33388d705641292ab88
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 144f5a6ef84e83f194a997d77176538860d947ca
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247020"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368358"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 

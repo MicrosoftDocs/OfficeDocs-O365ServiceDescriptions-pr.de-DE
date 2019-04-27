@@ -3,7 +3,7 @@ title: Dienststatus und Verfügbarkeit
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/12/2019
+ms.date: 04/25/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und herausfinden, wann Wartungsarbeiten geplant sind. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
-ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247041"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368388"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
@@ -47,6 +47,13 @@ Wenn Sie zu einem clouddienst wechseln, sollten Sie nicht wissen, was passiert. 
 
 <br/>
 
+|**2019** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
+| 99,97% <br/> |  <br/> |  <br/> |  <br/> |
+
+<br/>
+
 |**2018** <br/>||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
@@ -58,6 +65,8 @@ Wenn Sie zu einem clouddienst wechseln, sollten Sie nicht wissen, was passiert. 
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
 | 99,99 % <br/> | 99,97% <br/> | 99,98% <br/> | 99,99 % <br/> |
+
+<br/>
 
 ## <a name="notification-policy"></a>Benachrichtigungsrichtlinie
 
@@ -147,4 +156,3 @@ Weitere Informationen zum Support finden Sie unter [Unterstützung](https://tech
 
 Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   
-
