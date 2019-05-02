@@ -3,7 +3,7 @@ title: Office Online-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (früher Office Web Apps) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246961"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544962"
 ---
 # <a name="office-online-service-description"></a>Office Online-Dienstbeschreibung
 
@@ -120,6 +120,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |:-----|:-----|:-----|
 |**Anwendungsfeatures** <br/> |**Excel Online** <br/> |**Excel-Desktop-App** <br/> |
 |[Barrierefreiheitsprüfung](excel-online.md#add-hyperlinks) <br/> |Ja  <br/> |Ja  <br/> |
+|[Hinzufügen von Hintergrundfarbe zu Blattregisterkarten](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Ja  <br/> |Ja  <br/> |
 |[Hinzufügen von Links](excel-online.md#add-hyperlinks) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erweiterte Zeitangabe (Zeitachsendatenschnitt)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Nein  <br/> |Ja  <br/> |
 |[Ausrichtung](excel-online.md#alignment) <br/> |Ja  <br/> |Ja  <br/> |
@@ -129,6 +130,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[AutoVervollständigen](excel-online.md#autocomplete) <br/> |Ja  <br/> |Ja  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Ja  <br/> |Ja  <br/> |
 |[Berechnungen](excel-online.md#calculations) <br/> |Ja  <br/> |Ja  <br/> |
+|[Aufrufen von Verweisen in Formeln](excel-online.md#call-reference-in-formulas) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen von Kommentaren](excel-online.md#comment-creation) <br/> |Ja  <br/> |Ja  <br/> |
 |[Kopieren und Einfügen](excel-online.md#copy-and-paste) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen externer Datenverbindungen<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |Nr.<sup>3</sup> <br/> |Ja  <br/> |
@@ -136,9 +138,10 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Erstellen erweiterter Analyseansichten (Power View, Power Pivot, Datenschnitte)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |Nein  <br/> |Ja  <br/> |
 |[Datenüberprüfung](excel-online.md#data-validation) <br/> |Ja <br/> |Ja  <br/> |
 |[Drag and drop cells](excel-online.md#drag-and-drop-cells) <br/> |Ja  <br/> |Ja  <br/> |
-|[Dropbox](excel-online.md#dropbox) <br/> |Ja  <br/> |Ja  <br/> |
+|[Dropbox](excel-online.md#dropbox) <br/> |Ja  <br/> |Ja  <br/>|
+|[Duplizieren (kopieren) workseets](excel-online.md#duplicate-copy-worksheets) <br/> |Ja  <br/> |Ja  <br/>|
 |[Einbetten der Arbeitsmappe in eine Web- oder Blogseite (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Ja  <br/> |Nein  <br/> |
-|[Externe Referenzen](excel-online.md#external-references-links) <br/> |Nr.<sup>5</sup> <br/> |Ja  <br/> |
+|[Externe Referenzen](excel-online.md#external-references-links) <br/> |Nr.<sup>4</sup> <br/> |Ja  <br/> |
 |[Ausfüllkästchen](excel-online.md#fill-handle) <br/> |Ja  <br/> |Ja  <br/> |
 |[Suchen](excel-online.md#find) <br/> |Ja  <br/> |Ja  <br/> |
 |[Schriftart und Zellformatierung](excel-online.md#font-and-cell-formatting) <br/> |Ja  <br/> |Ja  <br/> |
@@ -148,16 +151,20 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Originalgetreue Leseansicht](excel-online.md#full-fidelity-reading-view) <br/> |Ja  <br/> |Ja  <br/> |
 |[Funktionen](excel-online.md#functions) <br/> |Ja  <br/> |Ja  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |Ja  <br/> |Ja  <br/> |
+|[Gruppendaten](excel-online.md#group-data) <br/> |Ja  <br/> |Ja  <br/> |
 |[Ein-/Ausblenden von Zeilen, Spalten und Arbeitsblättern](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Ja  <br/> |Ja  <br/> |
-|[Form/Bild einfügen](excel-online.md#insert-charts) <br/> |Ja  <br/> |Ja  <br/> |
+|[Ideen](excel-online.md#ideas) <br/> |Ja  <br/> |Ja  <br/> |
 |[Einfügen von Diagrammen](excel-online.md#insert-charts) <br/> |Ja  <br/> |Ja  <br/> |
 |[Einfügen/Löschen von Zeilen und Spalten](excel-online.md#insertdelete-rows-and-columns) <br/> |Ja  <br/> |Ja  <br/> |
+|[Einfügen von Bildern](excel-online.md#insert-pictures) <br/> |Ja  <br/> |Ja  <br/> |
+|[Einfügen von Shapes](excel-online.md#insert-shapes) <br/> |Ja  <br/> |Ja  <br/> |
 |[Zusammenführen von Zellen](excel-online.md#merge-cells) <br/> |Ja  <br/> |Ja  <br/> |
+|[Benannter Range](excel-online.md#named-ranges) <br/> |Ja  <br/> |Ja  <br/> |
 |[Zahlenformatierung](excel-online.md#number-formatting) <br/> |Ja  <br/> |Ja  <br/> |
 |[Office Add-ins](excel-online.md#office-add-ins) <br/> |Ja <br/> |Ja  <br/> |
 |[Offlineansicht und -erstellung](excel-online.md#offline-viewing-and-authoring) <br/> |Nein  <br/> |Ja  <br/> |
-|[PivotCharts](excel-online.md#post-to-social-network-and-present-online) <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
-|[PivotTables](excel-online.md#post-to-social-network-and-present-online) <br/> |Ja  <br/> |Ja  <br/> |
+|[PivotCharts](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
+|[PivotTables](excel-online.md#pivot-tables) <br/> |Ja  <br/> |Ja  <br/> |
 |[Posten in sozialen Netzwerken und Präsentieren im Web](excel-online.md#post-to-social-network-and-present-online) <br/> |Nein  <br/> |Ja  <br/> |
 |[Power Pivot-Anzeige](excel-online.md#power-pivot-viewing) <br/> |Ja  <br/> |Ja  <br/> |
 |[Power View-Ansicht](excel-online.md#power-view-viewing) <br/> |Ja  <br/> |Ja  <br/> |
@@ -165,6 +172,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Gemeinsame Dokumenterstellung in Echtzeit](excel-online.md#real-time-co-authoring) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen empfohlener Diagramme und Bearbeiten mit Formatierungssteuerelementen](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |Nein  <br/> |Ja  <br/> |
 |[Aktualisieren bestehender Datenverbindungen](excel-online.md#refresh-existing-data-connections) <br/> |Ja  <br/> |Ja  <br/> |
+|[Doppelte Werte entfernen](excel-online.md#remove-duplicate-values) <br/> |Ja  <br/> |Ja  <br/> |
 |[Umbenennen und Hinzufügen von Blättern](excel-online.md#rename-and-add-sheets) <br/> |Ja  <br/> |Ja  <br/> |
 |[Umbenennen einer geöffneten Arbeitsmappe](excel-online.md#rename-file-while-workbook-is-open) <br/> |Ja  <br/> |Nein  <br/> |
 |[Ersetzen](excel-online.md#replace) <br/> |Ja  <br/> |Ja  <br/> |
@@ -177,7 +185,9 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Überprüfung und Kompatibilität von Arbeitsmappen](excel-online.md#spreadsheet-audit-and-compliance) <br/> |Nein  <br/> |Ja  <br/> |
 |[Statusleistenaggregate](excel-online.md#status-bar-aggregates) <br/> |Ja  <br/> |Ja  <br/> |
 |[Umfragen](excel-online.md#surveys) <br/> |Ja  <br/> |Nein  <br/> |
-|[Funktion "Was möchten Sie tun?"](excel-online.md#tell-me) <br/> |Ja  <br/> |Ja  <br/> |
+|[Funktion "Was möchten Sie tun?"](excel-online.md#tell-me) <br/> |Ja  <br/> |Ja  <br/>|
+|[Textformatierung](excel-online.md#text-formatting) <br/> |Ja  <br/> |Ja  <br/>|
+|[Gesamtdaten](excel-online.md#total-data) <br/> |Ja  <br/> |Ja  <br/>|
 |["Rückgängig" und "Wiederholen"](excel-online.md#undo-and-redo) <br/> |Ja  <br/> |Ja  <br/> |
 |[Scripting von Makros und VBA](excel-online.md#vba-and-macro-scripting) <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
 |[Anzeigen von 3D-Diagrammen](excel-online.md#view-3d-charts) <br/> |Ja  <br/> |Ja  <br/> |
@@ -185,11 +195,9 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 
 > <sup>1</sup> kann keine PivotCharts erstellen, sondern nur anzeigen.
  <br/><sup>2</sup> abhängig von der Konfiguration Ihrer Umgebung werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die in Excel Online angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
- <br/><sup>3</sup> Sie können keine Makros mit VBA in Excel online erstellen, aber VBA-fähige Tabellenkalkulationen öffnen und bearbeiten, ohne das in der Datei entHALTENe VBA zu entfernen (oder zu beschädigen).
- <br/><sup>4</sup> Arbeitsmappen mit Datenüberprüfung können in Excel Online bearbeitet werden, aber die Datenüberprüfung kann nicht in Excel Online eingerichtet werden. 
- <br/><sup>5</sup> In Excel Online wird der letzte bekannte Referenzwert im Browserfenster angezeigt, er muss jedoch mit der Excel-Desktopversion aktualisiert werden. 
- <br/><sup>6</sup> Sie können mithilfe der Excel-Desktop-App erstellte fixierte Fensterbereiche anzeigen, aber Sie können in Excel Online keine fixierten Fensterbereiche erstellen. 
- <br/><sup>7</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
+ <br/><sup>3</sup> Sie können keine Makros mit VBA in Excel online erstellen, aber VBA-fähige Tabellenkalkulationen öffnen und bearbeiten, ohne das in der Datei enthaltene VBA zu entfernen (oder zu beschädigen).
+ <br/><sup>4</sup> in Excel Online wird der letzte bekannte Referenzwert im Browserfenster angezeigt; Sie muss jedoch mit der Excel-Desktop-App aktualisiert werden. 
+ <br/><sup>5</sup> einige, aber nicht alle, Office-Add-Ins sind verfügbar. 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>

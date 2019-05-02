@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bereitstellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: 144f5a6ef84e83f194a997d77176538860d947ca
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 96b453fd96234c3082f6f665c14ace898e3668b4
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368358"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544932"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -52,7 +52,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |Nein  <br/> |Ja<sup>11</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Skype for Business](office-applications.md#skype-for-business) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>5, 10</sup> <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Windows 8-Apps](office-applications.md#windows-8-apps) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|[Windows 10-apps](office-applications.md#windows-10-apps) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Allgemeine Anforderungen für Outlook für Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Office Mobile für iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Office Mobile für Android](office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -91,14 +91,14 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
    
 > [!NOTE]
 > <sup>1</sup> Archivierungs-und Kompatibilitätsfeatures werden mit dieser Version von Office unterstützt, die Exchange Online-und SharePoint Online-Pläne sind jedoch nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Server äquivalenten verwendet werden.
- <br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. 
- <br/><sup>3</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterSTÜTZTen IRM-Funktionen zu aktivieren.  
+ <br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterstützten IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. 
+ <br/><sup>3</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.  
 <br/><sup>4</sup> Wenn Sie über Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 verfügen, können Sie die [Power Map Preview für Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-in herunterladen und verwenden. 
 <br/><sup>5</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype_for_Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3  beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. Weitere Informationen zu den Features von Lync Basic finden Sie unter [Clientvergleichstabellen für Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
 <br/><sup>6</sup> einige Schulen sind berechtigt für Education Plus, einschließlich Office 365 ProPlus, und ermöglicht Schülern, Dozenten und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC-oder Mac-Computern und auf anderen mobilen Geräten zu installieren, darunter Windows Tablets und die iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. 
 <br/><sup>7</sup> Office für Mac 2011 kann installiert, aber nicht aktiviert werden. 
-<br/><sup>8</sup> Office 365 ProPlus wird auf der benutzerspezifischen virtuellen Desktopinfrastruktur (VDI) unterstützt. Office 365 proPlus unterstützt nur Remote Desktop Dienste (RDS), wenn Sie über ein Volumenlizenzierungsprogramm erworben werden. 
-<br/><sup>9</sup> die Volumenaktivierung für Office 365 Enterprise E3 und Office 365 ProPlus ist auf Installationen unter windows Server 2008 R2 und höher mit der RDS-Rolle Enabled oder Windows to go-Installationen beschränkt. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Enterprise E3 oder Office 365 proPlus sein. 
+<br/><sup>8</sup> Office 365 ProPlus wird auf der benutzerspezifischen virtuellen Desktopinfrastruktur (VDI) unterstützt. Office 365 ProPlus unterstützt nur Remote Desktop Dienste (RDS), wenn Sie über ein Volumenlizenzierungsprogramm erworben werden. 
+<br/><sup>9</sup> die Volumenaktivierung für Office 365 Enterprise E3 und Office 365 ProPlus ist auf Installationen unter Windows Server 2008 R2 und höher mit der RDS-Rolle Enabled oder Windows to go-Installationen beschränkt. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Enterprise E3 oder Office 365 ProPlus sein. 
 <br/><sup>10</sup> Skype for Business-Funktionen in Office 365 Enterprise F1 enthalten Skype for Business-Plan 1 (keine Desktopfreigabe, keine app-Freigabe, kann keine mehr Parteien-Audiodaten, Videos oder Webkonferenzen initiieren, Besprechungen können nicht geplant werden). 
 <br/><sup>11</sup> der Zugriff ist derzeit verfügbar, wenn Sie sich im aktuellen Kanal oder auf der Zielfreigabe für verzögerten Kanal befinden. Wenn Sie den verzögerten Kanal aktiviert haben, ist der Zugriff im Juni 2017 verfügbar. Weitere Informationen finden Sie unter [Access im Rahmen von Office 365 Business und Business Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US). 
 <br/><sup>12</sup> InfoPath 2013 wird weiterhin unterstützt und kommt in der Office Professional Plus 2016-Installation, aber es gibt keine neue Version für Office 2016. 

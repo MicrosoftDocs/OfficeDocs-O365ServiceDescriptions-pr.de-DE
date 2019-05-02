@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-march-18-2019"></a>Woche vom 18. März 2019
-
-
-| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
-|------|------------|--------|
-| 3/18/2019 | [Exchange Online-Begrenzungen](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Geändert |
-| 3/18/2019 | [Produktnutzungsrechte](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | Geändert |
-
-
 ## <a name="week-of-march-25-2019"></a>Woche vom 25. März 2019
 
 
@@ -67,4 +58,16 @@
 | 4/18/2019 | [Clients und mobile Geräte](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | Geändert |
 | 4/18/2019 | [Exchange Online-Begrenzungen](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Geändert |
 | 4/18/2019 | [Dienstbeschreibung zu Office-Anwendungen](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Geändert |
-| 4/18/2019 | [Inhalt](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | Geändert |
+| 4/18/2019 | [Content](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | Geändert |
+
+
+## <a name="week-of-april-22-2019"></a>Woche vom 22. April 2019
+
+
+| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
+|------|------------|--------|
+| 4/24/2019 | [Exchange Online-Begrenzungen](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Geändert |
+| 4/26/2019 | [Exchange Online-Begrenzungen](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Geändert |
+| 4/26/2019 | [Dienststatus und Verfügbarkeit](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | Geändert |
+| 4/26/2019 | [Dienstbeschreibung zu Office-Anwendungen](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Geändert |
+| 4/26/2019 | [SharePoint Online-Beschränkungen](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Geändert |

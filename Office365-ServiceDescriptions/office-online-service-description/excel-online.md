@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (früher Excel Web App) erweitert Ihre Microsoft Excel-Umgebung auf den Webbrowser, in dem Sie Arbeitsmappen direkt auf der Website bearbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten.
-ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cd69bf3c7683146744d6cbd65ba4cea0921a6e84
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246981"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544944"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -30,29 +30,32 @@ Excel Online (früher Excel Web App) erweitert Ihre Microsoft Excel-Umgebung auf
 > Arbeitsmappen, die 30 Megabyte (MB) überschreiten, können in Excel Online nicht über Microsoft SharePoint Online angezeigt werden. Zum Anzeigen größerer Dateien muss auf Ihrem Computer die Excel-Desktop-App installiert sein. 
   
 > [!NOTE]
-> Um Ihnen den Angebotsvergleich zu vereinfachen, umfassen die in diesem Artikel aufgeführten erweiterten Features Excel-Desktop-App-Funktionen, die nur in der Office-Suite verfügbar sind (z. B. Office Professional Plus, Office Standard oder Office 365 ProPlus). Eine Liste aller Office Online-Features wie Word Online und PowerPoint Online finden Sie unter [Verfügbarkeit von Features in Office Online-Plänen](office-online-service-description.md#feature-availability-across-office-online-plans)
+> Um Ihnen den Angebotsvergleich zu vereinfachen, umfassen die in diesem Artikel aufgeführten erweiterten Features Excel-Desktop-App-Funktionen, die nur in der Office-Suite verfügbar sind (z. B. Office Professional Plus, Office Standard oder Office 365 ProPlus). Eine Liste aller Office Online-Features wie Word Online und PowerPoint Online finden Sie unter [Verfügbarkeit von Features in Office Online-Plänen](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). 
+
+Informationen zu den von Excel Online unterstützten Dateitypen finden Sie unter [Unterstützte Dateitypen für Office Online](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Weitere Informationen über die Unterschiede zwischen Excel Online und der Excel-Desktop-App finden Sie unter [Unterschiede zwischen der Verwendung einer Arbeitsmappe im Browser und in Excel](https://support.office.com/en-us/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
   
-Informationen zu den von Excel Online unterstützten Dateitypen finden Sie unter [Unterstützte Dateitypen für Office Online](office-online-service-description.md#supported-file-types-for-office-online). Weitere Informationen über die Unterschiede zwischen Excel Online und der Excel-Desktop-App finden Sie unter [Unterschiede zwischen der Verwendung einer Arbeitsmappe im Browser und in Excel](https://go.microsoft.com/fwlink/?linkid=390875).
-  
+## <a name="add-background-color-to-sheet-tabs"></a>Hinzufügen von Hintergrundfarbe zu Blattregisterkarten 
+<a name="bkmk_Addbackgroundcolor"></a> Hinzufügen einer Hintergrundfüllfarbe zu den Blattregisterkarten am unteren Rand der Arbeitsmappe, um Sie hervorzuheben. Weitere Informationen finden Sie unter [Hinzufügen einer Hintergrundfarbe zu einer Blattregisterkarte](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59). 
+
 ## <a name="add-hyperlinks"></a>Add hyperlinks
 <a name="bkmk_Addhyperlinks"> </a>
 
-Verlinken Sie Webseiten, oder öffnen Sie Dateien im Web, indem Sie einen Link in einer Zelle hinzufügen. Sie können die Webadresse direkt in die Zelle eingeben oder den Befehl "Link einfügen" verwenden.
+Verlinken Sie Webseiten, oder öffnen Sie Dateien im Web, indem Sie einen Link in einer Zelle hinzufügen. Sie können die Webadresse direkt in die Zelle eingeben oder den Befehl "Link einfügen" verwenden. 
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Erweiterte Zeitangabe (Zeitachsendatenschnitt)
 <a name="bkmk_Advancedtimefiltering"> </a>
 
-Die Zeitachsensteuerung ermöglicht Ihnen das Filtern modellierter Daten. Es handelt sich dabei um eine Möglichkeit, eine kontinuierliche Folge von Datumsangaben visuell darzustellen und zu ändern sowie pivotbasierte Objekte wie PivotTables und PivotCharts zu filtern. 
+Die Zeitachsensteuerung ermöglicht Ihnen das Filtern modellierter Daten. Es handelt sich dabei um eine Möglichkeit, eine kontinuierliche Folge von Datumsangaben visuell darzustellen und zu ändern sowie pivotbasierte Objekte wie PivotTables und PivotCharts zu filtern.  
   
 ## <a name="alignment"></a>Ausrichtung
 <a name="bkmk_Alignment"> </a>
 
-Über die Schaltflächen für die Ausrichtung auf der Registerkarte "Start" können Sie die Ausrichtung des Texts ändern. 
+Über die Schaltflächen für die Ausrichtung auf der Registerkarte "Start" können Sie die Ausrichtung des Texts ändern.  
   
 ## <a name="apply-conditional-formatting"></a>Anwenden bedingter Formatierung
 <a name="bkmk_Applyconditionalformatting"> </a>
 
-In Excel Online kann bedingte Formatierung angezeigt, aber nicht angewendet werden. Die Excel-Desktopanwendung ermöglicht die vollständige Nutzung dieser und anderer erweiterter Funktionen. Erfahren Sie mehr über das [Hinzufügen, Ändern, Suchen oder Löschen bedingter Formate in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282326). 
+Verwenden Sie ein bedingtes Format, um Daten visuell zu untersuchen und zu analysieren, kritische Probleme zu erkennen und Muster und Trends zu erkennen. Erfahren Sie mehr über die Verwendung der bedingten Formatierung in Excel online. [verwenden Sie bedingte Formatierung in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282326). 
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 <a name="bkmk_Applydatavalidationtocells"> </a>
@@ -62,7 +65,7 @@ Diese Funktion ist in Excel online verfügbar. Weitere Erweiterte Funktionen sin
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 <a name="bkmk_Applysmartformatting"> </a>
 
-Nicht verfügbar in Excel Online. In der Excel 2013-Desktop-App vereinfachen empfohlene Diagramme Ihnen die für die Darstellung Ihrer Daten am besten geeignete Auswahl aus einer Reihe von Diagrammen. Erfahren Sie mehr über das [Verwenden von empfohlenen Diagrammen in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282335).
+Nicht verfügbar in Excel Online. In der Excel-Desktop-App können Sie anhand der empfohlenen Diagramme aus einer Vielzahl von Diagrammen auswählen, die am besten für die Präsentation Ihrer Daten geeignet sind. Weitere Informationen zur [Verwendung von Diagramm Empfehlungen in Excel](https://support.office.com/article/Create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
   
 ## <a name="office-add-ins"></a>Office-Add-Ins
 <a name="bkmk_AppsOfficeIntegration"> </a>
@@ -83,6 +86,9 @@ Summieren Sie die Zahlen in einer Spalte oder Zeile, indem Sie die entsprechende
 <a name="BKMK_Calculations"> </a>
 
 Sie können mit Excel eine Vielzahl von automatischen, manuellen und iterativen Berechnungen ausführen. Excel verwendet Funktionen zur Durchführung dieser Berechnungen. Weitere Informationen finden Sie unter [Excel-Funktionen (nach Kategorie)](https://go.microsoft.com/fwlink/?linkid=847459).
+
+## <a name="call-reference-in-formulas"></a>Anruf Referenz in Formeln
+<a name="bkmk_Callreferenceinformulas"></a> Sie können Zellbezüge in Formeln verwenden. Wenn Sie auf eine Zelle oder einen Zellbereiche in einer Formel verweisen, wird die referenzierte Zelle oder der Zell Abschnitt mit einer Farbe hervorgehoben. Weitere Informationen finden Sie unter [Verwenden von Zellverweisen in Formeln](https://support.office.com/en-us/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Chart animations adapt to new data
 <a name="bkmk_Chartanimations"> </a>
@@ -90,7 +96,7 @@ Sie können mit Excel eine Vielzahl von automatischen, manuellen und iterativen 
 Erweiterte Diagrammfeatures werden nur in der Microsoft Excel-Desktop-App unterstützt. Erfahren Sie mehr über das [Animieren einer SmartArt-Grafik](https://go.microsoft.com/fwlink/p/?LinkId=271668).
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Diagramme und Tabellen, einschließlich PivotChart- und PivotTable-Berichte
-<a name="BKMK_ChartsAndTables"> </a>
+<a name="BKMK_ChartsandtablesincludingPivotChartreportsandPivotTablereports"> </a>
 
 Mit Excel-Diagrammen und -Tabellen ist es ganz einfach, Daten zu formatieren und Informationen zu verwalten. Weitere Informationen finden Sie unter [Erstellen oder Löschen einer Excel-Tabelle](https://support.office.com/en-US/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664) und [Übersicht über PivotTable- und PivotChart-Berichte](https://go.microsoft.com/fwlink/?linkid=55417).
   
@@ -107,7 +113,7 @@ Die besten Ergebnisse erhalten Sie, wenn Sie statt der Kontextmenü- oder Zwisch
 ## <a name="create-external-data-connections"></a>Create external data connections
 <a name="bkmk_Createexternaldataconnections"> </a>
 
-Sie können Excel Online zum Anzeigen von Datenverbindungen verwenden, aber Sie können mit Excel Online keine externen Datenverbindungen erstellen. Um mit externen Daten zu arbeiten, benötigen Sie die Excel 2013-Desktop-App. Erfahren Sie mehr über das [Arbeiten mit externen Daten in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=282330). 
+Sie können Excel Online zum Anzeigen von Datenverbindungen verwenden, aber Sie können mit Excel Online keine externen Datenverbindungen erstellen. Sie benötigen die Excel-Desktop-App für externe Daten. Erfahren Sie mehr über das [Arbeiten mit externen Daten in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=282330). 
   
 ## <a name="create-tables"></a>Create tables
 <a name="bkmk_CreateTables"> </a>
@@ -134,7 +140,10 @@ You can move cell value in Excel Online by dragging and dropping cells from one 
 
 Bei Dropbox handelt es sich um einen Dateihostingdienst, der einen Cloudspeicher, eine Dateisynchronisierung, eine persönliche Cloud und Clientsoftware bietet.
   
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Einbetten der Arbeitsmappe in eine Web- oder Blogseite (OneDrive)
+## <a name="duplicate-copy-worksheets"></a>Arbeitsblätter duplizieren (kopieren)
+Sie können Arbeitsblätter in einer Arbeitsmappe oder in einer anderen Arbeitsmappe in Excel Online duplizieren (oder kopieren). Weitere Informationen zum [Kopieren von Arbeitsblättern in Excel Online](https://support.office.com/en-us/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
+
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
 <a name="bkmk_EmbedWorkbookWeb"> </a>
 
 Wenn Sie eine Excel-Arbeitsmappe auf OneDrive.com speichern, können Sie sie direkt in einen Blog oder eine Website einbetten. Ihre Leser können die Daten direkt auf der Seite sortieren, filtern und berechnen. Wenn Sie die Arbeitsmappe auf OneDrive aktualisieren, werden die Änderungen den Lesern angezeigt, sobald sie die Seite neu laden. Erfahren Sie mehr über das [Einbetten einer Excel-Arbeitsmappe in Ihren Blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
@@ -157,9 +166,9 @@ Suchen nach Zelleninhalten im aktiven Arbeitsblatt In einem benutzerfreundlichen
 ## <a name="font-and-cell-formatting"></a>Schriftart und Zellformatierung
 <a name="bkmk_FontCellFormatting"> </a>
 
-Passen Sie Ihre Daten an, um ihnen das gewünschte Aussehen zu verleihen. Ihnen steht eine breite Auswahl an Schriftschnitten oder Farben zur Verfügung, und Sie können die Größe oder Farbe des Texts ändern. 
+Passen Sie Ihre Daten an, um ihnen das gewünschte Aussehen zu verleihen. Ihnen steht eine breite Auswahl an Schriftschnitten oder Farben zur Verfügung, und Sie können die Größe oder Farbe des Texts ändern. Darüber hinaus können Sie Zellenrahmen zeichnen und Rahmenfarben auswählen.
   
-## <a name="formula-bar"></a>Bearbeitungsleiste
+## <a name="formula-bar"></a>Formula bar
 <a name="bkmk_FormulaBar"> </a>
 
 Sehen Sie sich die Formeln, die den Ergebnissen in einer Zelle zugrunde liegen, in der Bearbeitungsleiste an. Sie können Teile Ihrer Formel genau so im Browser hinzufügen, ändern und löschen, wie Sie es in der Excel-Desktop-App machen würden.
@@ -172,7 +181,7 @@ Die Microsoft Excel-Desktop-App unterstützt fortschrittlichste Formeltools wie 
 ## <a name="freeze-panes"></a>Freeze panes
 <a name="bkmk_FreezePanes"> </a>
 
-Das Feature zum Fixieren von Bereichen ist im Excel Online-Menüband verfügbar. Erfahren Sie mehr über [die Funktionsweise von Gefrier Bereichen in der excel 2013-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=282331) und [Tipps für Excel Online](https://go.microsoft.com/fwlink/?linkid=869873).
+Das Feature zum Fixieren von Bereichen ist im Excel Online-Menüband verfügbar. Erfahren Sie mehr über die Funktionsweise von Einfrieren von [Bereichen in Excel](https://go.microsoft.com/fwlink/p/?LinkId=282331) und [Tipps für Excel Online](https://go.microsoft.com/fwlink/?linkid=869873).
   
 ## <a name="full-fidelity-reading-view"></a>Originalgetreue Leseansicht
 <a name="bkmk_FullFidelityReadingView"> </a>
@@ -188,12 +197,21 @@ Die meisten der mehr als 400 Excel-Arbeitsblattfunktionen für Formeln können a
 <a name="BKMK_GoTo_Excel"> </a>
 
 Navigieren Sie mit dem GoTo-Feature schnell in Ihrer Tabellenkalkulation. Geben Sie einen Zellenbezug ein, und springen Sie an diese Stelle in der Tabellenkalkulation. Hier finden Sie weitere Informationen zu [Tastenkombinationen in Excel Online](https://go.microsoft.com/fwlink/p/?LinkID=272943).
-  
+ 
+## <a name="group-data"></a>Gruppendaten
+<a name="Group data"></a> Sie können Zeilen und Spalten in Ihrer Excel Online-Kalkulationstabelle gruppieren oder gliedern. Erfahren Sie mehr über das Gruppieren von Daten in Excel online.
+ 
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 <a name="bkmk_HideUnhide"> </a>
 
 In Excel Online können Sie Zeilen, Spalten und Arbeitsblätter in einer Arbeitsmappe je nach Bedarf ein- und ausblenden.
-  
+ 
+## <a name="ideas"></a>Ideen
+<a name="Ideas"> </a>
+
+Mit Ideas können Sie Ihre Daten über allgemeine visuelle Zusammenfassungen, Trends und Muster verstehen. Klicken Sie einfach auf eine Zelle in einem Datenbereichen, und klicken Sie dann auf der Registerkarte Start auf die Schaltfläche Ideen. Weitere Informationen finden Sie unter [Ideen](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
+
+ 
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -203,12 +221,22 @@ Erstellen Sie ein Diagramm, um Ihre Daten visuell darzustellen. Dafür steht ein
 <a name="bkmk_Insertdeleterowscolumns"> </a>
 
 Wählen Sie mindestens eine Zeile aus, bevor Sie auf der Registerkarte "Start" auf "Einfügen" oder "Löschen" klicken, um Zeilen oder Spalten entweder nacheinander oder alle gleichzeitig Ihrem Arbeitsblatt hinzuzufügen oder daraus zu entfernen.
+
+## <a name="insert-pictures"></a>Einfügen von Bildern
+<a name="bkmk_insertpicture"></a> Fügen Sie ein visuelles Interesse hinzu, indem Sie Bilder in Ihre Arbeitsmappe einfügen. Weitere Informationen zum [Einfügen von Bildern in Excel Online](https://support.office.com/en-us/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
+
+## <a name="insert-shapes"></a>Einfügen von Shapes
+<a name="bkmk_insertshapes"></a> Hinzufügen und Formatieren von Formen wie Feldern, Kreisen, Linien, Konnektoren oder Pfeilen zu Ihrer Excel Online-Kalkulationstabelle. Erfahren Sie mehr über das [Hinzufügen von Shapes](https://support.office.com/en-us/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
   
-## <a name="merge-cells"></a>Zusammenführen von Zellen
+## <a name="merge-cells"></a>Merge cells
 <a name="bkmk_MergeCells"> </a>
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
-  
+ 
+## <a name="named-ranges"></a>Benannte Bereiche
+<a name="bkmk_Namedranges"></a> Sie können in Excel online keine benannten Bereiche erstellen, aber die benannten Bereiche, die Sie in Excel Desktop in Ihrer Arbeitsmappe in Excel online erstellt haben.
+
+ 
 ## <a name="number-formatting"></a>Number formatting
 <a name="bkmk_Numberformatting"> </a>
 
@@ -218,6 +246,10 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 <a name="bkmk_Offlineviewingauthoring"> </a>
 
 Excel Online wird über einen Webbrowser gestartet und benötigt eine Internetverbindung. Um offline auf Arbeitsmappen zugreifen zu können, muss auf Ihrem Computer die Microsoft Excel-Desktop-App zum Anzeigen und Bearbeiten von Excel-Arbeitsblättern installiert sein.
+
+## <a name="pivot-tables"></a>PivotTables
+<a name="bkmk_Pivottables"></a> Sie können PivotTables in Ihre Excel Online-Kalkulationstabelle einfügen und Daten berechnen, zusammenfassen und analysieren. Erfahren Sie mehr über das Einfügen einer [PivotTable in Excel Online](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
+
   
 ## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
 <a name="bkmk_posttosocialnetwork"> </a>
@@ -225,9 +257,9 @@ Excel Online wird über einen Webbrowser gestartet und benötigt eine Internetve
 Geben Sie ausgewählte Bereiche Ihrer Arbeitsmappen im Web frei, indem Sie sie auf Seiten in Ihren sozialen Netzwerken einbetten oder in Skype for Business-Unterhaltungen bzw. -Besprechungen präsentieren. Excel Online unterstützt diese Features nicht. 
   
 ## <a name="power-pivot-viewing"></a>Power Pivot-Anzeige
-<a name="bkmki_PowerPivotinteractivity"> </a>
+<a name="bkmk_PowerPivotinteractivity"> </a>
 
-Excel Online erlaubt Ihnen, Power Pivot-Tabellen und -Diagramme anzuzeigen. Zum Erstellen von Power Pivot-Datenmodellen benötigen Sie allerdings die Excel 2013-Desktop-App.
+Excel Online ermöglicht Ihnen das Anzeigen von PowerPivot-Tabellen und Diagrammen, aber Sie benötigen die Excel-Desktop-App zum Erstellen von PowerPivot-Datenmodellen.
   
 ## <a name="power-view-viewing"></a>Power View viewing
 <a name="bkmk_powerviewinteractivity"> </a>
@@ -253,6 +285,10 @@ Erweitere Diagramme werden nur in der Microsoft Excel-Desktop-App unterstützt. 
 <a name="bkmk_refreshdata"> </a>
 
 Wenn die Daten in Ihrer Arbeitsmappe mit externen Quellen verknüpft sind, z. B. mit Datenbanken, Webseiten oder Analysecubes, können Sie diese Daten in Excel Online aktualisieren.
+
+## <a name="remove-duplicate-values"></a>Doppelte Werte entfernen
+<a name="bkmk_Removeduplicatevalues"></a> Sie können doppelte Werte in einem oder einer Tabelle entfernen. Weitere Informationen finden Sie unter Filtern nach eindeutigen Werten oder [Entfernen doppelter Werte](https://support.office.com/en-us/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
+
   
 ## <a name="rename-and-add-sheets"></a>Rename and add sheets
 <a name="bkmk_renameaddsheets"> </a>
@@ -267,7 +303,7 @@ Sie können inExcel Online ein Arbeitsmappendatei umbenennen, ohne sie zu schlie
 ## <a name="replace"></a>Ersetzen
 <a name="bkmk_Replace"> </a>
 
-Nicht verfügbar in Excel Online. Wenn Sie auf Ihrem Computer die Excel-Desktop-App installiert haben, können Sie in Excel in einem Dokument nach Inhalt suchen und diesen ersetzen. Erfahren Sie mehr über das [Suchen oder Ersetzen in Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282333).
+Nicht verfügbar in Excel Online. Wenn Sie auf Ihrem Computer die Excel-Desktop-App installiert haben, können Sie in Excel in einem Dokument nach Inhalt suchen und diesen ersetzen. Erfahren Sie mehr über das [Verwenden von suchen und ersetzen in Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
 ## <a name="rights-management-irm-and-password-security"></a>Rights Management: IRM and password security
 <a name="bkmk_RightsManagement"> </a>
@@ -318,6 +354,13 @@ Verwenden Sie Umfragen, um an Benutzer ein Excel Online-Formular zu senden, das 
 <a name="bkmk_Tell_Me_Excel"> </a>
 
 Wenn Sie eine Aufgabe in Excel Online ausführen möchten, aber nicht weiter wissen, können Sie die Suchfunktion "Was möchten Sie tun?" verwenden, um das Gesuchte schnell zu finden. Die Funktion versteht, welche Aktion Sie auszuführen versuchen, und hilft Ihnen mithilfe von Vorschlägen, dies schneller zu tun.
+
+## <a name="text-formatting"></a>Textformatierung
+<a name="bkmk_Textformatting"></a> Sie können verschiedene Textformatierungsoptionen, einschließlich durchgestrichen, erhöhen/verringern des Einzugs in Excel online.
+
+## <a name="total-data"></a>Gesamtdaten
+<a name="bkmk_Toaldata"></a> Sie können die Daten in einer Tabelle schnell auswerten, indem Sie auf der Registerkarte Start auf die Option Ergebniszeile unter Format als Tabelle klicken. 
+
   
 ## <a name="undo-and-redo"></a>"Rückgängig" und "Wiederholen"
 <a name="bkmk_UndoRedo"> </a>

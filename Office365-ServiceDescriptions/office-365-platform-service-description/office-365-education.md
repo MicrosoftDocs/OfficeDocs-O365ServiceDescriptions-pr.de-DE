@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Education-Plänen suchen, erfahren Sie in diesem Artikel, welche Features in den jeweiligen angeboten enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit Cloud-basierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office Online und Microsoft Skype for Business Online: damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.'
-ms.openlocfilehash: 4cf3b4220fb56e21d8105dee9ac8ea447845bcf9
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247291"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544972"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Education-Plänen suchen, erfahren Sie in diesem Artikel, welche Features in den jeweiligen angeboten enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit Cloud-basierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office Online und Microsoft Skype for Business Online: damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.
   
-In diesem Artikel werden die Features für Office 365 Education-Pläne (a1, a3 und A5) aufgeführt. Informationen zum Vergleichen von Features in Unternehmens-und Enterprise-Plänen finden Sie unter [Vergleichen von office 365 for Business-Plänen](https://go.microsoft.com/fwlink/?linkid=799177) oder, eine detailliertere Liste der Features finden Sie in der entsprechenden dienstBeschreibung unter [Office 365-Dienstbeschreibungen](https://technet.microsoft.com/en-us/library/jj819284.aspx).
+In diesem Artikel werden die Features für Office 365 Education-Pläne (a1, a3 und A5) aufgeführt. Informationen zum Vergleichen von Features in Unternehmens-und Enterprise-Plänen finden Sie unter [Vergleichen von Office 365 for Business-Plänen](https://go.microsoft.com/fwlink/?linkid=799177) oder, eine detailliertere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter [Office 365-Dienstbeschreibungen](https://technet.microsoft.com/en-us/library/jj819284.aspx).
   
 Supportartikel und -informationen finden Sie unter [Office-Hilfe und Schulungen](https://support.office.com/).
   
@@ -215,7 +215,7 @@ Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Funktionen in den 
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**Office-Anwendungen** <br/> ||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Nein<sup>3, 4</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Nein<sup>3, 4</sup> <br/> |Ja  <br/> |Ja  <br/> |
@@ -226,7 +226,7 @@ Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Funktionen in den 
 |[Microsoft Access](../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Nr.<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath) <br/> |Nr.<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|[Windows 8-Apps](../office-applications-service-description/office-applications.md#windows-8-apps) <br/> |Nr.<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Windows 10-apps](../office-applications-service-description/office-applications.md#windows-10-apps) <br/> |Nr.<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Office für Mac für Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Nr.<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Office Mobile für iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Office Mobile für Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |
@@ -291,7 +291,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in O
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |**[Planung und Bereitstellung](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |Unterstützung für Hybridbereitstellung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unterstützung für IMAP-Migration  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -448,7 +448,7 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Adresslistenbeschränkung  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
 |Beschränkung für Offlineadressbuch (OAB)  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Beschränkung für Adressbuchrichtlinien (ABP)  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -464,7 +464,7 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Benutzerpostfächer  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |Websitepostfächer<sup>6, 7</sup> <br/> |Unbegrenzt<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Freigegebene Postfächer  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
@@ -489,7 +489,7 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Warnung  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
 |Senden verbieten  <br/> |49.5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
 |Senden/Empfangen verbieten  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
@@ -566,7 +566,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Grenzwert für Nachrichtengröße – Outlook  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
 |Grenzwert für Nachrichtengröße – OWA  <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |112 MB<sup>1, 3</sup> <br/> |
 |Grenzwert für Nachrichtengröße – Outlook für Mac  <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |150 MB<sup>1, 2</sup> <br/> |
@@ -619,7 +619,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Empfängerratengrenzwert  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |10.000 Empfänger pro Tag  <br/> |
 |Empfängergrenzwert  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |500 Empfänger  <br/> |
 |Grenzwert für Empfängerproxyadresse  <br/> |400  <br/> |400  <br/> |400  <br/> |
@@ -643,7 +643,7 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Aufbewahrungszeitraum des Ordners "Gelöschte Elemente"  <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |Keine Beschränkung<sup>1</sup> <br/> |
 |Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden  <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |14 Tage<sup>1</sup> <br/> |
 |Aufbewahrungszeitraum des Ordners "Junk-E-Mail"  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |
@@ -664,7 +664,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |
 |Obergrenze für Nachrichten an große Verteilergruppen  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
@@ -697,7 +697,7 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Maximale Anzahl von Journalregeln  <br/> |10 Regeln  <br/> |10 Regeln
   <br/> |10 Regeln
   <br/> |
@@ -745,7 +745,7 @@ Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei hand
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Exchange ActiveSync-Gerätebegrenzung  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Exchange ActiveSync-Gerätelöschbegrenzung  <br/> |20  <br/> |20  <br/> |20  <br/> |
 |Exchange ActiveSync-Dateianlagebegrenzung  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
@@ -802,7 +802,7 @@ In der folgenden Tabelle werden die SharePoint-Features beschrieben, die in jede
 |[App-Verwaltungsdienste](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |BCS: Alerts for External Lists <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[BCS: Externe Inhaltstypen auf App-Ebene](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[BCS: GeschäftsdatenwebParts](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[BCS: Geschäftsdatenwebparts](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[BCS: Externe Liste](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[BCS: OData-Connector](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |BCS: Profile Pages <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
@@ -1040,7 +1040,7 @@ In der folgenden Tabelle sind die SharePoint-Grenzwerte für jeden Office 365 Ed
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Speicher<sup>1, 2</sup> <br/> |1 TB pro Organisation plus 10 GB pro erworbene Lizenz<sup>3</sup> <br/> |1 TB pro Organisation plus 10 GB pro erworbene Lizenz<sup>3</sup> <br/> |1 TB pro Organisation plus 10 GB pro erworbene Lizenz<sup>3</sup> <br/> |
 |Nutzungsbedingungen für Store  <br/> |200.000  <br/> |200,000  <br/> |200,000  <br/> |
 |Speicher für Websitesammlungen  <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |
@@ -1189,7 +1189,7 @@ In der folgenden Tabelle sind die Skype for Business Online-Features aufgeführt
 |Skype for Business Online-Berichterstellung in Microsoft 365 Admin Center  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 proPlus und Office 365 a3 enthalten die vollständige Skype for Business (lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonie-Support, Archivierungs-und Compliance-Funktionen enthält. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu den lync-Grundfunktionen finden Sie unter [Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup> Sie müssen Benutzern, die Voicemail haben möchten, einen Exchange Online-Plan (Plan 2) zuweisen. Für Voicemail kann kein Exchange Online-Plan (Plan 1) verwendet werden. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus und Office 365 a3 enthalten die vollständige Skype for Business (lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonie-Support, Archivierungs-und Compliance-Funktionen enthält. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu den lync-Grundfunktionen finden Sie unter [Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup> Sie müssen Benutzern, die Voicemail haben möchten, einen Exchange Online-Plan (Plan 2) zuweisen. Für Voicemail kann kein Exchange Online-Plan (Plan 1) verwendet werden. 
   
 ### <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -1214,7 +1214,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |Keine Begrenzung  <br/> |
    
@@ -1234,7 +1234,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |
 |Teilnehmer an einer Skype for Business-Besprechung<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |250  <br/> |250  <br/> |
