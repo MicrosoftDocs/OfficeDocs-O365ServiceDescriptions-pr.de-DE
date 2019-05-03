@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
+ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544842"
+ms.locfileid: "33553484"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -456,16 +456,14 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
     
 - **Häufigkeit, mit der eine Nachricht umgeleitet wird** Die Häufigkeit, mit der eine Nachricht basierend auf Posteingangsregeln automatisch umgeleitet, weitergeleitet oder beantwortet wird. Beispielsweise verfügt Benutzer A über eine Posteingangsregel, die Nachrichten basierend auf dem Absender an Benutzer B umleitet. Benutzer B verfügt über eine Posteingangsregel, mit der Nachrichten an Benutzer C basierend auf Schlüsselwörtern in der Betreffzeile weitergeleitet werden. Wenn eine Nachricht beide Bedingungen erfüllt, wird die Nachricht nur an Benutzer B gesendet. Sie wird nicht an Benutzer C weitergeleitet, da nur eine Umleitung zulässig ist. In diesem Fall wird die Nachricht gelöscht, ohne dass ein Unzustellbarkeitsbericht an Benutzer B gesendet wird, der angibt, dass die Nachricht nicht an Benutzer C zugestellt wurde. Wir verwenden den Header X-MS-Exchange-Inbox-rules-Loop, um zu bestimmen, wie oft eine Nachricht umgeleitet wurde. Diese Kopfzeile bleibt auch über die Exchange-Organisationsgrenzen hinweg erhalten.
 
+- **Häufigkeit, mit der eine Nachricht von Transportregeln umgeleitet wird** Die Häufigkeit, mit der eine Nachricht basierend auf Transportregeln umgeleitet wird. Beispielsweise hat die Exchange-Organisation Tailspin Toys eine Transportregel zum Umleiten aller Nachrichten, die an Benutzer a gesendet wurden, an Benutzer B, der sich in der Exchange-Organisation Contoso befindet. Innerhalb der Exchange-Organisation Contoso gibt es eine Transportregel, mit der jede Nachricht, die an Benutzer B gesendet wurde, an Benutzer C umgeleitet wird, die sich in der Exchange-Organisation a. Datum Corporation befindet. In diesem Fall wird die Nachricht gelöscht und ein Unzustellbarkeitsbericht (NDR) mit Statuscode und Ablehnungsnachricht *550 5.7.128 Transport. Regeln. RejectMessage Die Anzahl der Transport Regelschleifen wurde überschritten, und die Nachricht* wird an Benutzer A gesendet. Wir verwenden den Header X-MS-Exchange-Transport-Rules-Loop, um zu bestimmen, wie oft eine Nachricht durch Transportregeln umgeleitet wurde. Diese Kopfzeile bleibt auch über die Exchange-Organisationsgrenzen hinweg erhalten.
+
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Grenzwerte für Journal-, Transport- und Postfachregeln in Office 365-Produkten
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Maximale Anzahl von Journalregeln|10 Regeln
-|10 Regeln
-|10 Regeln
-|10 Regeln
-|10 Regeln|10 Regeln
+|Maximale Anzahl von Journalregeln|10 Regeln|10 Regeln|10 Regeln|10 Regeln|10 Regeln|10 Regeln
 |
 |Maximale Anzahl Transportregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Größe einer einzelnen Transportregel|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
@@ -474,6 +472,7 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 |Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|
 |Weiterleitungsgrenzwert|10 Empfänger|10 Empfänger|10 Empfänger|10 Empfänger|10 Empfänger|10 Empfänger|
 |Anzahl der Umleitungen einer Nachricht|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|
+|Häufigkeit, mit der eine Nachricht von Transportregeln umgeleitet wird|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Grenzwerte für Journal-, Transport- und Postfachregeln in eigenständigen Produkten
 
@@ -489,6 +488,7 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 |Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger|Unbegrenzt|100 Empfänger|100 Empfänger|100 Empfänger|
 |Weiterleitungsgrenzwert|Keine Begrenzung|10 Empfänger|10 Empfänger|10 Empfänger|
 |Anzahl der Umleitungen einer Nachricht|3 Umleitungen|1 Umleitung|1 Umleitung|1 Umleitung|
+|Häufigkeit, mit der eine Nachricht von Transportregeln umgeleitet wird|Keine Begrenzung|1 Umleitung|1 Umleitung|1 Umleitung|
 
 ## <a name="moderation-limits"></a>Moderationsgrenzwerte
 <a name="ModerationLimits"> </a>
