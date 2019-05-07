@@ -3,7 +3,7 @@ title: Portfolioverwaltung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Die folgenden Portfolio Verwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 50db84a3a8251b577e51680f1b8b88e002f79c98
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247031"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621815"
 ---
 # <a name="portfolio-management"></a>Portfolioverwaltung
 
@@ -59,4 +59,6 @@ Bestimmen, wählen und übermitteln Sie in effektiver Weise die Projektportfolio
 
 Jedes Projekt in der Programmverwaltung weist eigene Ziele auf, die gemeinsam zum geplanten Nutzen des gesamten Programms beitragen. Weitere Informationen finden Sie unter [Project Portfolio Management-Lösungshandbuch (Whitepaper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
+## <a name="roadmap"></a>Roadmap
+Roadmap kombiniert Informationen aus mehreren Wasserfällen und Agile-Projekten, um eine hoch visuelle, aggregierte Zeitachsenansicht bereitzustellen. Weitere Informationen finden Sie unter [Welcome to Roadmap](https://support.office.com/article/video-welcome-to-roadmap-57764149-51b8-468f-a50d-9ea6a4fd835a).
 

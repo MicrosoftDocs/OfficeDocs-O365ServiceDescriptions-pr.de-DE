@@ -3,7 +3,7 @@ title: Messagingrichtlinie und -einhaltung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246541"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621875"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 
@@ -90,7 +90,9 @@ Mit Kundenschlüssel können Sie die Verschlüsselungsschlüssel Ihrer Organisat
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 E-Mail-Benutzer können mit der Office 365-Nachrichtenverschlüsselung an jeden und ganz einfach verschlüsselte E-Mail-Nachrichten senden. Wir haben neue Funktionen bei der Office-Nachrichtenverschlüsselung angekündigt, die die Schutzfunktionen von Azure Information Encryption nutzen. Diese neuen Funktionen bieten eine verbesserte Endbenutzererfahrung, die eine einfache Freigabe und Zusammenarbeit an geschützten Nachrichten mit Personen innerhalb und außerhalb der Organisation ermöglichen. Für die neuen Funktionen der Office-Nachrichtenverschlüsselung müssen einige Setupanforderungen erfüllt sein. Informationen dazu finden Sie unter „Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen". Kunden mit älteren Versionen der Office 365-Nachrichtenverschlüsselung erhalten nur Zugriff auf die neuen Funktionen, wenn Sie der aufgeführte Anleitung folgen. Weitere Informationen zu den neuen und alten Funktionen der Office 365-Nachrichtenverschlüsselung finden Sie in den [häufig gestellten Fragen](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e). 
-  
+
+Die erweiterte Nachrichtenverschlüsselung von Office 365 bietet zusätzlichen Schutz, da der Ablauf und die Sperrung von Nachrichten zugelassen werden.  Sie können auch mehrere Vorlagen für verschlüsselte e-Mails aus Ihrer Organisation erstellen.  Die erweiterte Nachrichtenverschlüsselung ist in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Nonprofit Staff Pricing), Office 365 Enterprise E5 (Nonprofit Staff Pricing) oder Office 365 Education A5 enthalten. Wenn Ihre Organisation über ein Office 365-Abonnement verfügt, das nicht die erweiterte Nachrichtenverschlüsselung von Office 365 enthält, können Sie die Microsoft 365 E5-Kompatibilität oder die Office 365 Advanced Compliance-SKU als Add-on erwerben.
+
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
 

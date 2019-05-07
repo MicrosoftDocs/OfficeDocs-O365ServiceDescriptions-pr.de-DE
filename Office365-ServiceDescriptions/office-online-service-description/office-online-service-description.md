@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (früher Office Web Apps) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544962"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621865"
 ---
 # <a name="office-online-service-description"></a>Office Online-Dienstbeschreibung
 
@@ -130,7 +130,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[AutoVervollständigen](excel-online.md#autocomplete) <br/> |Ja  <br/> |Ja  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Ja  <br/> |Ja  <br/> |
 |[Berechnungen](excel-online.md#calculations) <br/> |Ja  <br/> |Ja  <br/> |
-|[Aufrufen von Verweisen in Formeln](excel-online.md#call-reference-in-formulas) <br/> |Ja  <br/> |Ja  <br/> |
+|[Zellbezüge in Formeln](excel-online.md#cell-references-in-formulas) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen von Kommentaren](excel-online.md#comment-creation) <br/> |Ja  <br/> |Ja  <br/> |
 |[Kopieren und Einfügen](excel-online.md#copy-and-paste) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen externer Datenverbindungen<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |Nr.<sup>3</sup> <br/> |Ja  <br/> |
@@ -159,12 +159,12 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Einfügen von Bildern](excel-online.md#insert-pictures) <br/> |Ja  <br/> |Ja  <br/> |
 |[Einfügen von Shapes](excel-online.md#insert-shapes) <br/> |Ja  <br/> |Ja  <br/> |
 |[Zusammenführen von Zellen](excel-online.md#merge-cells) <br/> |Ja  <br/> |Ja  <br/> |
-|[Benannter Range](excel-online.md#named-ranges) <br/> |Ja  <br/> |Ja  <br/> |
+|[Benannte Bereiche](excel-online.md#named-ranges) <br/> |Ja  <br/> |Ja  <br/> |
 |[Zahlenformatierung](excel-online.md#number-formatting) <br/> |Ja  <br/> |Ja  <br/> |
-|[Office Add-ins](excel-online.md#office-add-ins) <br/> |Ja <br/> |Ja  <br/> |
+|[Office-Add-Ins](excel-online.md#office-add-ins) <br/> |Ja<sup>5</sup>  <br/> |Ja  <br/> |
 |[Offlineansicht und -erstellung](excel-online.md#offline-viewing-and-authoring) <br/> |Nein  <br/> |Ja  <br/> |
 |[PivotCharts](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
-|[PivotTables](excel-online.md#pivot-tables) <br/> |Ja  <br/> |Ja  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |Ja  <br/> |Ja  <br/> |
 |[Posten in sozialen Netzwerken und Präsentieren im Web](excel-online.md#post-to-social-network-and-present-online) <br/> |Nein  <br/> |Ja  <br/> |
 |[Power Pivot-Anzeige](excel-online.md#power-pivot-viewing) <br/> |Ja  <br/> |Ja  <br/> |
 |[Power View-Ansicht](excel-online.md#power-view-viewing) <br/> |Ja  <br/> |Ja  <br/> |

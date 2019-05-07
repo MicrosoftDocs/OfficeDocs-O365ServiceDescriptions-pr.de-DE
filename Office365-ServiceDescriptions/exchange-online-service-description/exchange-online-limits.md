@@ -3,7 +3,7 @@ title: Exchange Online-Begrenzungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
-ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
+ms.openlocfilehash: dd9d4584115fa32a5ae69b4481d43256a1d1f179
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33553484"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621885"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -463,8 +463,7 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Maximale Anzahl von Journalregeln|10 Regeln|10 Regeln|10 Regeln|10 Regeln|10 Regeln|10 Regeln
-|
+|Maximale Anzahl von Journalregeln|50-Regeln|50-Regeln|50-Regeln|50-Regeln|50-Regeln|50-Regeln|
 |Maximale Anzahl Transportregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Größe einer einzelnen Transportregel|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
@@ -479,12 +478,10 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
-|Maximale Anzahl von Journalregeln|Unbegrenzt|10 Regeln
-|10 Regeln|10 Regeln
-|
+|Maximale Anzahl von Journalregeln|Unbegrenzt|50-Regeln|50-Regeln|50-Regeln|
 |Maximale Anzahl Transportregeln|Keine Begrenzung|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Größe einer einzelnen Transportregel|40 KB|8 KB|8 KB|8 KB|
-|Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln|Keine Begrenzung|20 KB|20 KB|20 KB|
+|Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln|Unbegrenzt|20 KB|20 KB|20 KB|
 |Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger|Unbegrenzt|100 Empfänger|100 Empfänger|100 Empfänger|
 |Weiterleitungsgrenzwert|Keine Begrenzung|10 Empfänger|10 Empfänger|10 Empfänger|
 |Anzahl der Umleitungen einer Nachricht|3 Umleitungen|1 Umleitung|1 Umleitung|1 Umleitung|

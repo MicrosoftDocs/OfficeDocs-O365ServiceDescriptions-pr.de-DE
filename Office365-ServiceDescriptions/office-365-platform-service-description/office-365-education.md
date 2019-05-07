@@ -3,7 +3,7 @@ title: Office 365 Education
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Education-Plänen suchen, erfahren Sie in diesem Artikel, welche Features in den jeweiligen angeboten enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit Cloud-basierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office Online und Microsoft Skype for Business Online: damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.'
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544972"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621925"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -698,9 +698,7 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Maximale Anzahl von Journalregeln  <br/> |10 Regeln  <br/> |10 Regeln
-  <br/> |10 Regeln
-  <br/> |
+|Maximale Anzahl von Journalregeln  <br/> |50-Regeln  <br/> |50-Regeln  <br/> |50-Regeln  <br/> |
 |Maximale Anzahl Transportregeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |300 Regeln  <br/> |
 |Maximale Größe einer einzelnen Transportregel  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
@@ -1258,9 +1256,9 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |15 Tage   <br/> |15 Tage   <br/> |15 Tage   <br/> |
+|Besprechungsinhaltsaufbewahrung: Einmalige Besprechung  <br/> |15 Tage   <br/> |15 Tage   <br/> |15 Tage  <br/> |
 |Besprechungsinhaltsaufbewahrung: Wiederkehrende Besprechung  <br/> |15 Tage  <br/> |15 Tage   <br/> |15 Tage  <br/> |
-|Besprechungsinhaltsaufbewahrung: Sofortbesprechung  <br/> |8 Stunden  <br/> |8 Stunden   <br/> |8 Stunden  <br/> |
+|Besprechungsinhaltsaufbewahrung: Sofortbesprechung  <br/> |8 Stunden   <br/> |8 Stunden   <br/> |8 Stunden  <br/> |
 |Ablauf der Besprechung: Einmalige Besprechung  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |
 |Ablauf der Besprechung: Wiederkehrende Besprechung  <br/> |14 Tage  <br/> |14 Tage  <br/> |14 Tage  <br/> |
 |Ablauf der Besprechung: Sofortbesprechung  <br/> |8 Stunden  <br/> |8 Stunden   <br/> |8 Stunden  <br/> |
