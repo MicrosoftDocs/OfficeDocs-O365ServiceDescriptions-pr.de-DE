@@ -3,7 +3,7 @@ title: Office Online-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (früher Office Web Apps) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621865"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641631"
 ---
 # <a name="office-online-service-description"></a>Office Online-Dienstbeschreibung
 
@@ -111,7 +111,8 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Zoom](word-online.md#zoom) <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Diese werden im Viewer gerendert, können aber nicht in Office Online erstellt oder bearbeitet werden. > <sup>2</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
+> <sup>1</sup> Diese werden im Viewer gerendert, können aber nicht in Office Online erstellt oder bearbeitet werden.<br/>
+> <sup>2</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[GoTo](excel-online.md#goto) <br/> |Ja  <br/> |Ja  <br/> |
 |[Gruppendaten](excel-online.md#group-data) <br/> |Ja  <br/> |Ja  <br/> |
 |[Ein-/Ausblenden von Zeilen, Spalten und Arbeitsblättern](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Ja  <br/> |Ja  <br/> |
-|[Ideen](excel-online.md#ideas) <br/> |Ja  <br/> |Ja  <br/> |
 |[Einfügen von Diagrammen](excel-online.md#insert-charts) <br/> |Ja  <br/> |Ja  <br/> |
 |[Einfügen/Löschen von Zeilen und Spalten](excel-online.md#insertdelete-rows-and-columns) <br/> |Ja  <br/> |Ja  <br/> |
 |[Einfügen von Bildern](excel-online.md#insert-pictures) <br/> |Ja  <br/> |Ja  <br/> |
@@ -193,6 +193,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Anzeigen von 3D-Diagrammen](excel-online.md#view-3d-charts) <br/> |Ja  <br/> |Ja  <br/> |
 |[Was-wäre-wenn-Analysetools](excel-online.md#what-if-analysis-tools) <br/> |Nein  <br/> |Ja  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup> kann keine PivotCharts erstellen, sondern nur anzeigen.
  <br/><sup>2</sup> abhängig von der Konfiguration Ihrer Umgebung werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die in Excel Online angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
  <br/><sup>3</sup> Sie können keine Makros mit VBA in Excel online erstellen, aber VBA-fähige Tabellenkalkulationen öffnen und bearbeiten, ohne das in der Datei enthaltene VBA zu entfernen (oder zu beschädigen).
@@ -298,7 +299,8 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Anzeigen und Hinzufügen von Kommentaren](powerpoint-online.md#view-and-add-comments) <br/> |Ja  <br/> |Ja  <br/> |
 |[Anzeigen und Bearbeiten von Foliennotizen](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Ja  <br/> |Ja  <br/> |
 |[WYSIWYG-Anzeige](powerpoint-online.md#wysiwyg-viewing) <br/> |Ja  <br/> |Ja  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> PowerPoint Online unterstützt einen Katalog mit acht Übergängen und 37 Animationen. Für eine größere Auswahl oder zum Erstellen benutzerdefinierter Animationen verwenden Sie die PowerPoint-Desktop-App. 
  <br/><sup>2</sup> Das Gerät, auf dem Sie arbeiten, muss Freihandobjekte unterstützen. 
  <br/> <sup>3</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
@@ -333,7 +335,8 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |OpenDocument (ODP)  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Makros können nicht ausgeführt oder geändert werden. > <sup>2</sup> Wenn Makros vorhanden sind, werden Benutzer aufgefordert, eine Kopie der Datei zu verwenden, aus der die Makros entfernt wurden. 
+> <sup>1</sup> Makros können nicht ausgeführt oder geändert werden.<br/>
+> <sup>2</sup> Wenn Makros vorhanden sind, werden Benutzer aufgefordert, eine Kopie der Datei zu verwenden, aus der die Makros entfernt wurden.<br/> 
   
 > [!NOTE]
 > Neuere Dateiformate (z. B. DOCX, XLSL und PPTX) können in Office 2016, 2013, 2010 oder 2007 oder in Office 2000 und höher mit Compatibility Pack erstellt werden. 

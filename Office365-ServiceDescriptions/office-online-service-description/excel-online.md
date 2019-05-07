@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (früher Excel Web App) erweitert Ihre Microsoft Excel-Umgebung auf den Webbrowser, in dem Sie Arbeitsmappen direkt auf der Website bearbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten.
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621825"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641621"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ Navigieren Sie mit dem GoTo-Feature schnell in Ihrer Tabellenkalkulation. Geben 
 <a name="bkmk_HideUnhide"> </a>
 
 In Excel Online können Sie Zeilen, Spalten und Arbeitsblätter in einer Arbeitsmappe je nach Bedarf ein- und ausblenden.
- 
-## <a name="ideas"></a>Ideen
-<a name="Ideas"> </a>
-
-Mit Ideas können Sie Ihre Daten über allgemeine visuelle Zusammenfassungen, Trends und Muster verstehen. Klicken Sie einfach auf eine Zelle in einem Datenbereichen, und klicken Sie dann auf der Registerkarte Start auf die Schaltfläche Ideen. Weitere Informationen finden Sie unter [Ideen](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Nicht verfügbar in Excel Online. Sie können "Was-wäre-wenn"-Analyseergebnisse
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Office Online-Dienstbeschreibung](office-online-service-description.md). 
-
+Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Office Online-Dienstbeschreibung](office-online-service-description.md).
