@@ -3,7 +3,7 @@ title: Project Online-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/13/2019
 ms.audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 6f55d69126ec2eff471f19cf8f018f7c8f1f6fb0
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 45d071b980536dcba61f88fcb5717abcfc566e9f
+ms.sourcegitcommit: daf388cc1f51774cb254b0d41b4aeea74aeac0dc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621915"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33970069"
 ---
 # <a name="project-online-service-description"></a>Project Online-Dienstbeschreibung
 
@@ -65,7 +65,7 @@ Die Project Online-Lizenzierung für externe Benutzer entspricht der Richtlinie 
   
 ## <a name="project-online-plans"></a>Project Online-Pläne
 
-Die folgenden Project Online-Pläne sind verfügbar. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+Die folgenden Project Online-Pläne sind verfügbar. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
   
 ||||
 |:-----|:-----|:-----|
