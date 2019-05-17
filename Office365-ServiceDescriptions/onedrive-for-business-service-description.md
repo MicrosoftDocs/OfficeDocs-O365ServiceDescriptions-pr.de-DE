@@ -3,7 +3,6 @@ title: OneDrive for Business – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,36 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
-description: OneDrive for Business ist ein persönlicher Onlinespeicherplatz in der Cloud, der Ihnen von Ihrem Unternehmen zur Verfügung gestellt wird. Verwenden Sie diesen, um Ihre Arbeitsdateien bequem und sicher geräteübergreifend zu speichern. Teilen Sie Ihre Dateien nach Bedarf mit Kollegen, und bearbeiten Sie Office-Dokumente gemeinsam in Echtzeit mit OneDrive for Business. Synchronisieren Sie Dateien mit Ihrem lokalen Computer mithilfe der Synchronisierungs-App OneDrive for Business.
-ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Erfahren Sie mehr über den OneDrive-Speicherplatz, der für jeden Abonnementplan bereitgestellt wird.
+ms.openlocfilehash: 53023491a4b417a6daa2ba0eb57d5e443510c5c3
+ms.sourcegitcommit: 9ea9aa7c3d87354af4ac69f950e36b895b930463
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246921"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34080466"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business – Dienstbeschreibung
 
-OneDrive for Business ist ein persönlicher Onlinespeicherplatz in der Cloud, der Ihnen von Ihrem Unternehmen zur Verfügung gestellt wird. Verwenden Sie diesen, um Ihre Arbeitsdateien bequem und sicher geräteübergreifend zu speichern. Teilen Sie Ihre Dateien nach Bedarf mit Kollegen, und bearbeiten Sie Office-Dokumente gemeinsam in Echtzeit mit OneDrive for Business. Synchronisieren Sie Dateien mit Ihrem lokalen Computer mithilfe der Synchronisierungs-App OneDrive for Business.
+OneDrive ist ein Online-Speicherplatz in der Cloud, der für einzelne lizenzierte Benutzer in einer Organisation bereitgestellt wird. Verwenden Sie ihn, um Arbeitsdateien zu schützen und auf sie über mehrere Geräte hinweg zuzugreifen. Mit OneDrive können Sie Dateien gemeinsam nutzen und an Dokumenten arbeiten sowie Dateien mit Ihrem Computer synchronisieren. [Weitere Informationen zu OneDrive Features, Funktionen und Preise](https://go.microsoft.com/fwlink/?linkid=850345) 
   
-OneDrive for Business ist in SharePoint Online enthalten und kann auch als eigenständiger Plan oder mit Office 365-Plänen erworben werden. 
-  
-Weitere Informationen zu Features und Funktionen von OneDrive for Business finden Sie unter [OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).
-  
-## <a name="subscription-plans"></a>Abonnementpläne
-
-OneDrive for Business steht über die folgenden Pläne zur Verfügung.
-  
-||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Dienst** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|OneDrive for Business-Plan enthalten  <br/> |Plan 1  <br/> |Plan 1  <br/> |Plan 1  <br/> |Plan 1  <br/> |Plan 1  <br/> |Plan 2  <br/> |Plan 2  <br/> |Planen F (früher Plan K)  <br/> |
-   
-||||
-|:-----|:-----|:-----|
-|**Dienst** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |
-|OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |
-   
+OneDrive ist in den Microsoft 365-, Office 365- und SharePoint Online-Plänen enthalten und kann auch als eigenständiger Plan erworben werden. 
+    
 Informationen zum Vergleichen von Plänen finden Sie unter [Vergleich von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) und [Vergleich von Plänen für OneDrive for Business](https://products.office.com/de-DE/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
@@ -51,81 +34,80 @@ Informationen zum Vergleichen von Plänen finden Sie unter [Vergleich von Pläne
   
 ## <a name="system-requirements"></a>Systemanforderungen
 
-Systemanforderungen finden Sie auf dieser [Seite](https://go.microsoft.com/fwlink/?linkid=837584).
+Informationen zu den Anforderungen an den OneDrive-Synchronisierungsclient und die mobile App finden Sie unter [OneDrive-Systemanforderungen](https://go.microsoft.com/fwlink/?linkid=837584).
   
 ## <a name="about-sync"></a>Informationen zur Synchronisierung
 
-Wenn Sie nicht den neuesten OneDrive for Business-Synchronisierungsclient installiert haben, finden Sie unter [Installieren des OneDrive for Business-Synchronisierungsclients](https://support.microsoft.com/de-DE/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl) weitere Informationen. Sie wissen nicht, welchen Synchronisierungsclient Sie verwenden? Weitere Informationen finden Sie unter [Welche OneDrive-Version verwende ich?](https://go.microsoft.com/fwlink/?linkid=846624).
+Um den neuesten Synchronisierungsclient zu installieren, gehen Sie auf [die OneDrive-Downloadseite](https://onedrive.live.com/about/download/). 
   
-## <a name="unlimited-cloud-storage-details"></a>Informationen zu unbegrenztem Cloudspeicher
+## <a name="storage-space-per-user"></a>Speicherplatz pro Benutzer
 
-Die folgenden Pläne bieten unbegrenzten persönlichen Cloudspeicher für Abonnements mit mindestens fünf Benutzern.
-  
-- OneDrive for Business-Plan 2
-    
-- SharePoint Online Plan 2
-    
+**2 GB**
+
+- Office 365 Enterprise F1
+
+**1 TB**
+
+- Office 365 Business Essentials
+- Office 365 Business
+- Office 365 Business Premium
+- Office 365 ProPlus
+- Office 365 Enterprise E1
+- Office 365 Government G1
+- Office 365 Nonprofit Business Essentials
+- Office 365 Nonprofit Business Premium
+- Office 365 Non-Profit E1
+- OneDrive for Business Plan 1
+- SharePoint Online Plan 1
+
+**Ab 1 TB, bis unbegrenzt**
+ 
+1 TB pro Benutzer für Abonnements mit weniger als 5 Benutzern. Für Abonnements mit 5 oder mehr Benutzern stellt Microsoft zunächst 1 TB pro Benutzer zur Verfügung, die von Administratoren auf bis zu 5 TB pro Benutzer erhöht werden können. ([Weitere Informationen](/onedrive/set-default-storage-space)) Um zusätzlichen Speicherplatz anzufordern, müssen Administratoren sich an den Microsoft-Support wenden. 
+
 - Office 365 Enterprise E3
-    
 - Office 365 Enterprise E5
-    
+- OneDrive for Business-Plan 2
+- SharePoint Online Plan 2
+- Office 365 Enterprise E3
+- Office 365 Enterprise E5
 - Office 365 A1
-    
 - Office 365 A3
-    
 - Office 365 A5
-    
 - Office 365 US Government G3
-    
 - Office 365 US Government G5
-    
-- Office 365 E3 für gemeinnützige Organisationen
-    
-- Office 365 E5 für gemeinnützige Organisationen
-    
+- Office 365 Non-Profit E3 
+- Office 365 Non-Profit E5 
 - Microsoft 365 Enterprise E3
-    
 - Microsoft 365 Enterprise E5
-    
 - Microsoft 365 A3
-    
 - Microsoft 365 A5
-    
 - Microsoft 365 US Government G3
-    
 - Microsoft 365 US Government G5
-    
 - Microsoft 365 E3 für gemeinnützige Organisationen
-    
 - Microsoft 365 E5 für gemeinnützige Organisationen
-    
-Abonnements mit weniger als fünf Benutzern erhalten 1 TB persönlichen Cloudspeicher pro Benutzer. 
-  
-Kunden erhalten zunächst 1 TB persönlichen Cloudspeicher pro Benutzer in OneDrive for Business. Sie können den [Standardspeicherplatz für OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=838024) mithilfe Ihres Office 365-Administrators auf bis zu 5 TB pro Benutzer erhöhen, wenn das Kontingent von 1 TB zu 90 % voll ist. 
+
   
 > [!NOTE]
 > Sie müssen einem Benutzer mindestens eine Lizenz zuweisen, bevor Sie den Standardspeicherplatz für OneDrive erhöhen können. 
   
-Wenn Sie über die anfänglichen 5 TB hinaus Cloudspeicherplatz benötigen, [öffnen Sie einen Fall beim technischen Microsoft-Support](https://go.microsoft.com/fwlink/?linkid=869559), um diesen anzufordern. Weiterer Cloudspeicher wird wie folgt gewährt: 
+Wenn Sie über die anfänglichen 5 TB hinaus Cloud-Speicherplatz für einzelne Benutzer benötigen, können Administratoren [einen Fall mit dem technischen Support von Microsoft eröffnen](https://go.microsoft.com/fwlink/?linkid=869559), um ihn anzufordern. Weiterer Cloud-Speicherplatz wird wie folgt gewährt: 
   
-- Wenn ein Benutzer seine 5 TB OneDrive for Business-Speicher zu mindestens 90 % ausgeschöpft hat, erhöht Microsoft Ihren Standardspeicherplatz in OneDrive for Business auf bis zu 25 TB pro Benutzer (Administratoren können bei Bedarf eine niedrigere Grenze pro Benutzer festlegen). 
+- Wenn ein Benutzer seine 5 TB OneDrive-Speicher zu mindestens 90 % ausgeschöpft hat, erhöht Microsoft Ihren Standardspeicherplatz in OneDrive auf bis zu 25 TB pro Benutzer (Administratoren können bei Bedarf eine niedrigere Grenze pro Benutzer festlegen). 
     
-- Allen Benutzern, die mindestens 90 % der 25 TB OneDrive for Business-Speicher ausgeschöpft haben, erhalten zusätzlichen Cloudspeicher in Form von SharePoint-Teamwebsites mit 25 TB. Dieser zusätzliche Speicherplatz wird dem Mandanten in Form einer Gutschrift bereitgestellt.
+- Allen Benutzern, die mindestens 90 % der 25 TB OneDrive-Speicherplatz ausgeschöpft haben, erhalten zusätzlichen Cloud-Speicherplatz in Form von SharePoint-Teamwebsites mit 25 TB. Dieser zusätzliche Speicherplatz wird der Organisation in Form einer Gutschrift bereitgestellt.
     
-Um zu sehen, wie viel persönlichen Cloudspeicher Sie verwenden, kann Ihr Office 365-Administrator zum OneDrive Admin Center wechseln , um den persönlichen Cloudspeicher der Benutzer zu verwalten. 
-  
-Weitere Informationen dazu, wie Office 365-Administratoren den Benutzerspeicher in OneDrive for Business verwalten können, finden Sie unter [Ändern des OneDrive-Speicherplatzes mithilfe von PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
-  
+Um den Speicherplatz und die Nutzung für einen einzelnen Benutzer anzuzeigen, gehen Sie zu [Speicherplatz verwalten](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) im OneDrive-Synchronisierungsclient. Um anzuzeigen, wie viel Speicherplatz Benutzer in der gesamten Organisation nutzen, gehen Sie zum [OneDrive-Nutzungsbericht](/office365/admin/activity-reports/onedrive-for-business-usage) im Microsoft 365 Admin Center. 
+   
 ## <a name="supported-uses"></a>Unterstützte Anwendungen
 
-Mit OneDrive for Business können alle Benutzer ihre Arbeitsdateien in ihrem persönlichen Onlinespeicherplatz in der Cloud speichern, darauf zugreifen und für andere freigeben. OneDrive for Business-Speicher wird pro Benutzer bereitgestellt und richtet sich an die Anforderungen einzelner Benutzer.
+OneDrive-Speicherplatz wird pro Benutzer bereitgestellt und richtet sich an die Anforderungen einzelner Benutzer.
   
-Das Speichern von anderen Daten als den persönlichen Arbeitsdateien eines einzelnen Benutzers, einschließlich Sicherungen und Daten auf Abteilungs- und Organisationsebene, wird nicht unterstützt. Ebenso wenig wird das Zuweisen einer Lizenz vom Typ „Pro Benutzer" für Bots, Abteilungen oder andere nicht menschliche Entitäten unterstützt. SharePoint ist die beste Lösung für das komplexere Content Management und die Zusammenarbeit, einschließlich des Speicherns und Verwaltens von Dateien, Kommunikation und Intranetwebsites über ein Team oder eine Organisation hinweg.
+Das Speichern von anderen Daten als den Arbeitsdateien eines einzelnen Benutzers, einschließlich Sicherungen und Daten auf Abteilungs- und Organisationsebene, wird nicht unterstützt. Ebenso wenig wird das Zuweisen einer Lizenz vom Typ „Pro Benutzer“ für Bots, Abteilungen oder andere nicht menschliche Entitäten unterstützt. SharePoint ist die beste Lösung für das komplexere Content Management und die Zusammenarbeit, einschließlich des Speicherns und Verwaltens von Dateien, Kommunikation und Intranetwebsites über ein Team oder eine Organisation hinweg.
   
-## <a name="onedrive-for-business-limitations"></a>Einschränkungen bei OneDrive for Business
+## <a name="onedrive-limits"></a>OneDrive-Grenzwerte
 
-OneDrive for Business ist in SharePoint Online enthalten. Informationen zu Einschränkungen, wie zum Beispiel Obergrenzen für Dateiuploads und Websitesammlungskontingente, finden Sie unter [SharePoint Online-Grenzwerte](https://go.microsoft.com/fwlink/?linkid=829156) und [Einschränkungen und Begrenzungen beim Synchronisieren von Dateien und Ordnern](https://support.microsoft.com/de-DE/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders).
+Weitere Informationen zu den Grenzwerten für Dateien und Synchronisierungen finden Sie unter [SharePoint Online-Grenzwerte](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) und [Ungültige Dateinamen und Dateitypen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
   
-Beachten Sie bei Plänen, die unbegrenzten persönlichen Cloudspeicher umfassen, dass diese Einschränkungen für nicht speicherrelevante Features gelten. 
+Beachten Sie bei Plänen, die unbegrenzten Cloud-Speicherplatz für einzelne Benutzer umfassen, dass diese Einschränkungen für nicht speicherrelevante Features gelten. 
   
 
