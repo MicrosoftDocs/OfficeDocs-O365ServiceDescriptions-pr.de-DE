@@ -3,7 +3,7 @@ title: Dienstbeschreibung zu Office-Anwendungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
-description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bereitstellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: 341f5818ba89fe100218a333d13c045f26c45e3c
-ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
+description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
+ms.openlocfilehash: 07bec4e0280d310f4fbb553348aa8b4b4dd0bce6
+ms.sourcegitcommit: 3648328c4e8e74403134c46c528f4534687dbdec
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973363"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34158913"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
-Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bereitstellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
+Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
   
 Auch wenn Office 365 ein cloudbasierter Dienst ist, werden diese Office-Anwendungen nicht in der Cloud ausgeführt. Stattdessen können Benutzer Office-Anwendungen vom Office 365-Portal herunterladen und auf ihren lokalen Computern installieren. Microsoft nutzt die Klick-und-Los-Technologie, um den Download und die Installation von Office-Anwendungen schnell und mühelos zu gestalten. Klick-und-Los verwendet eine Virtualisierungstechnologie, um Office 365 in einer selbstständigen Umgebung auf dem lokalen Computer auszuführen, damit Benutzer Office-Anwendungen parallel mit früheren Office-Versionen ausführen können.
   
@@ -54,9 +54,9 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |Nein  <br/>|Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Windows 10-apps](office-applications.md#windows-10-apps) <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/>|Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Allgemeine Anforderungen für Outlook für Mac](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Nein  <br/> |Nein  <br/>|Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Office Mobile für iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/>|Ja<sup>13</sup>  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Office Mobile für Android](office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup>  <br/>|Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Office Mobile für Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja <sup>13</sup> <br/>|Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|[Office Mobile für iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/>|Ja<sup>13</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |
+|[Office Mobile für Android](office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup>  <br/>|Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |
+|[Office Mobile für Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja <sup>13</sup> <br/>|Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |
 |Outlook für Android  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |**Unternehmenswert** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Nein  <br/>| Nein  <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -90,22 +90,23 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Volume activation (KMS/MAK)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Nr.<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
    
 > [!NOTE]
-><sup>+</sup>Bei der Installation von Office 365 oder Office 2019 erhalten Sie standardmäßig OneNote für Windows 10. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu OeNOte in Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
-><sup>++</sup>OneNote-App-Zugriff auf Notebooks in SharePoint Server, SharePoint Online, OneDrive for Business und Office 365. <br/>
-><sup>+++</sup>BHO-Unterstützung ist eine Erweiterungstechnologie für Internet Explorer. <br/>
-><sup>1</sup> Archivierungs-und Kompatibilitätsfeatures werden mit dieser Version von Office unterstützt, die Exchange Online-und SharePoint Online-Pläne sind jedoch nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Server äquivalenten verwendet werden.<br/>
-<sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterstützten IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist.<br/>
-<sup>3</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.<br/>
-<sup>4</sup> Wenn Sie über Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 verfügen, können Sie die [Power Map Preview für Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-in herunterladen und verwenden.<br/> 
+><sup>+</sup>Wenn Sie Office 365 oder Office 2019 installieren, erhalten Sie standardmäßig OneNote für Windows 10. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu OeNOte in Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>++</sup>OneNote-App-Zugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive für Unternehmen und Office 365. <br/>
+><sup>+++</sup>Die BHO-Unterstützung ist eine Erweiterungstechnologie für Internet Explorer. <br/>
+><sup>1</sup> die Archivierungs-und Kompatibilitätsfeatures werden in dieser Version von Office unterstützt, aber die Exchange Online-und SharePoint Online Pläne sind nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Server Entsprechungen verwendet werden.<br/>
+<sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist.<br/>
+<sup>3</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.<br/>
+<sup>4</sup> Wenn Sie Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 haben, können Sie die [Power Map-Vorschau für Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-in herunterladen und verwenden.<br/> 
 <sup>5</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype_for_Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3  beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. Weitere Informationen zu den Features von Lync Basic finden Sie unter [Clientvergleichstabellen für Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/> 
-<sup>6</sup> einige Schulen sind berechtigt für Education Plus, einschließlich Office 365 ProPlus, und ermöglicht Schülern, Dozenten und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC-oder Mac-Computern und auf anderen mobilen Geräten zu installieren, darunter Windows Tablets und die iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. <br/>
+<sup>6</sup> einige Schulen sind für Education Plus berechtigt, einschließlich Office 365 ProPlus, und ermöglicht es Schülern, Dozenten und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC-oder Mac-Computern sowie auf anderen mobilen Geräten zu installieren, darunter Windows Tablets und die iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. <br/>
 <sup>7</sup> Office für Mac 2011 kann installiert, aber nicht aktiviert werden. <br/>
-<sup>8</sup> Office 365 ProPlus wird auf der benutzerspezifischen virtuellen Desktopinfrastruktur (VDI) unterstützt. Office 365 ProPlus unterstützt nur Remote Desktop Dienste (RDS), wenn Sie über ein Volumenlizenzierungsprogramm erworben werden.<br/>
-<sup>9</sup> die Volumenaktivierung für Office 365 Enterprise E3 und Office 365 ProPlus ist auf Installationen unter Windows Server 2008 R2 und höher mit der RDS-Rolle Enabled oder Windows to go-Installationen beschränkt. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Enterprise E3 oder Office 365 ProPlus sein.<br/> 
-<sup>10</sup> Skype for Business-Funktionen in Office 365 Enterprise F1 enthalten Skype for Business-Plan 1 (keine Desktopfreigabe, keine app-Freigabe, kann keine mehr Parteien-Audiodaten, Videos oder Webkonferenzen initiieren, Besprechungen können nicht geplant werden).<br/> 
-<sup>11</sup> der Zugriff ist derzeit verfügbar, wenn Sie sich im aktuellen Kanal oder auf der Zielfreigabe für verzögerten Kanal befinden. Wenn Sie den verzögerten Kanal aktiviert haben, ist der Zugriff im Juni 2017 verfügbar. Weitere Informationen finden Sie unter [Access im Rahmen von Office 365 Business und Business Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/> 
-<sup>12</sup> InfoPath 2013 wird weiterhin unterstützt und kommt in der Office Professional Plus 2016-Installation, aber es gibt keine neue Version für Office 2016.<br/> 
-<sup>13</sup> Unterstützung für grundlegende Bearbeitungsfunktionen.<br/> 
+<sup>8</sup> Office 365 ProPlus wird für die benutzerspezifische virtuelle Desktopinfrastruktur (VDI) unterstützt. Office 365 ProPlus unterstützt nur Remote Desktop Dienste (RDS), wenn Sie über ein Volumenlizenzierungsprogramm erworben werden.<br/>
+<sup>9</sup> die Volumenaktivierung für Office 365 Enterprise E3 und Office 365 ProPlus sind auf Installationen auf Windows Server 2008 R2 und neuer mit der aktivierten RDS-Rolle oder Windows to go-Installationen limitiert. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Enterprise E3 oder Office 365 ProPlus sein.<br/> 
+<sup>10</sup> Skype for Business Funktionen in Office 365 Enterprise F1 umfassen Skype for Business Plan 1 (keine Desktopfreigabe, keine app-Freigabe, nicht mehr teilnehmende Audio-, Video-oder Webkonferenzen initiieren, Besprechungen können nicht geplant werden).<br/> 
+<sup>11</sup> der Zugriff ist derzeit verfügbar, wenn Sie sich im aktuellen Kanal oder in der Zielversion für verzögerten Kanal befinden. Wenn Sie sich auf einen verzögerten Kanal begeben, steht der Zugriff im Juni 2017 zur Verfügung. Weitere Informationen finden Sie unter [Access im Rahmen von Office 365 Business und Business Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/> 
+<sup>12</sup> InfoPath 2013 wird weiterhin unterstützt und kommt in die Office Professional Plus 2016-Installation, aber es gibt keine neue Version für Office 2016.<br/> 
+<sup>13</sup> Unterstützung nur für grundlegende Bearbeitungsfunktionen.<br/> 
+<sup>14</sup> nur auf Geräte mit integrierten Bildschirmen mit einer Länge von 10,1 Zoll oder weniger diagonal.<br/> 
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Verfügbarkeit von Office-Anwendungen in Office für Mac in Office 365-Plänen
 <a name="bkmk_Officefeaturesolutions"> </a>
 
