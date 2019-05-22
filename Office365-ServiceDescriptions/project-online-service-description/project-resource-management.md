@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - resource-management
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Die folgenden Ressourcen Verwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: 5c1f60e5bf27ec245fe2a5ef21f6fce4500e97cc
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 609e426db75818fcf83d51d7dd3e14af3fe333e4
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246841"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343714"
 ---
 # <a name="project-resource-management"></a>Projektressourcenverwaltung
 

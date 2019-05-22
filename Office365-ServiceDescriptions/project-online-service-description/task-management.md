@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - task-management
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Die folgenden Aufgaben Verwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: 5d83b81be8b31518b640e016f827becc6e592151
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die folgenden Aufgaben Verwaltungsfeatures stehen in Project online zur Verfügung.
+ms.openlocfilehash: e21d7871dbcde7b6684aef1cc3e80b5a2525cef0
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246701"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343669"
 ---
 # <a name="task-management"></a>Vorgangsverwaltung
 
-Die folgenden Aufgaben Verwaltungsfeatures sind in Project online verfügbar.
+Die folgenden Aufgaben Verwaltungsfeatures stehen in Project online zur Verfügung.
   
 Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
   
@@ -31,7 +31,7 @@ Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project O
 
 Wenn Sie einen Vorgang deaktivieren, verbleibt er im Projektplan, hat aber keine Auswirkungen auf die Verfügbarkeit von Ressourcen, den Projektzeitplan oder die Planung anderer Vorgänge. Erfahren Sie mehr über das [Deaktivieren eines Vorgangs](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
-## <a name="auto-complete"></a>Automatische Vervollständigung
+## <a name="auto-complete"></a>Automatisches Vervollständigen
 <a name="bkmk_AutoComplete"> </a>
 
 Während der Eingabe erhalten Sie Vorschläge für die Namen von Vorgängen oder Ressourcen. 

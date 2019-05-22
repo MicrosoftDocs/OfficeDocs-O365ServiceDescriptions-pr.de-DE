@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - core-functionality
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Die folgenden Hauptfunktionen sind in Project online verfügbar.
-ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die folgenden Hauptfunktionen stehen in Project online zur Verfügung.
+ms.openlocfilehash: 4c2313569d11e0bea84e19282ad397bb09a9f76f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246901"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342014"
 ---
 # <a name="core-functionality"></a>Hauptfunktionalität
 
-Die folgenden Hauptfunktionen sind in Project online verfügbar.
+Die folgenden Hauptfunktionen stehen in Project online zur Verfügung.
   
 Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
   
@@ -69,7 +69,7 @@ Steigern Sie die Produktivität mit dem Menüband, einer Oberfläche mit Registe
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 <a name="bkmk_Multiplelevelundo"> </a>
 
-Sie können mehrere Änderungen gleichzeitig rückgängig machen, indem Sie das Menü rückgängig verwenden. 
+Sie können mehrere Änderungen gleichzeitig mit dem Menü "Rückgängig" rückgängig machen. 
   
 ## <a name="network-diagram-view"></a>Ansicht "Netzplandiagramm"
 <a name="bkmk_Networkdiagramview"> </a>

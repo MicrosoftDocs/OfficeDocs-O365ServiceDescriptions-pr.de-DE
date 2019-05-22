@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/13/2019
-ms.audience: End User
+audience: End User
 ms.topic: reference
 f1_keywords:
 - project-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 45d071b980536dcba61f88fcb5717abcfc566e9f
-ms.sourcegitcommit: daf388cc1f51774cb254b0d41b4aeea74aeac0dc
+ms.openlocfilehash: ec194d758c50b4da0544605c85b0beb0b81ec79e
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33970069"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343724"
 ---
 # <a name="project-online-service-description"></a>Project Online-Dienstbeschreibung
 
@@ -38,30 +38,30 @@ Es bestehen einige Einschränkungen für den Project Online-Dienst. Weitere Info
   
 ## <a name="data-backup"></a>Datensicherung
 
- Project Online hat dieselbe Daten Sicherungs-und-Aufbewahrungsrichtlinie wie Office 365. Weitere Informationen finden Sie unter [Data Retention, Deletion, and Destruction in Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview).
+ Project Online hat dieselbe Datensicherung und-Aufbewahrungsrichtlinie wie Office 365. Ausführliche Informationen finden Sie unter [Datenaufbewahrung, Löschung und Vernichtung in Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview).
   
 ## <a name="use-of-sharepoint-online"></a>Verwenden von SharePoint Online
 
-Der Project Online-Dienst erfordert die Verwendung von SharePoint Online, die als Teil des Project Online-Diensts für Sie eingerichtet wird. Rechte an der SharePoint Online-Funktionalität, die mit Project Online Professional oder Premium bereitgestellt wird, sind auf das Speichern und Zugreifen auf Daten zur Unterstützung von Project Online beschränkt.
+Für den Project Online Dienst ist die Verwendung von SharePoint Online erforderlich, die als Teil des Project Online Diensts für Sie eingerichtet wird. Rechte an der SharePoint Online Funktionalität, die mit Project Online Professional oder Premium bereitgestellt werden, sind auf das Speichern und Zugreifen auf Daten zur Unterstützung von Project Online limitiert.
   
 ## <a name="licensing-considerations"></a>Hinweise zur Lizenzierung
 
 ### <a name="internal-users"></a>Interne Benutzer
 
-Jede Interaktion auf einer Project Online-Website erfordert eine Project Online-Lizenz.
+Für alle Interaktionen auf einer Project Online Website ist eine Project Online Lizenz erforderlich.
   
-- Project Online Essentials ist eine Add-on-Lizenz für Teammitglieder für Kunden, die Project Online Professional oder Project Online Premium bereits in Ihrer Organisation verwenden.
+- Project Online Essentials ist eine Add-on-Lizenz für Teammitglieder für Kunden, die bereits Project Online Professional oder Project Online Premium in Ihrer Organisation verwenden.
     
-- Für fortgeschrittenere Anwendungsfälle benötigen Benutzer entsprechende Lizenzen. Projektmanager benötigen mindestens eine Project Online Professional-Lizenz. Portfolio Manager benötigen eine Project Online Premium-Lizenz.
+- Für fortgeschrittene Anwendungsfälle benötigen Benutzer entsprechende Lizenzen. Für Projektmanager ist mindestens eine Project Online Professional-Lizenz erforderlich. Portfolio Manager benötigen eine Project Online Premium-Lizenz.
     
 > [!IMPORTANT]
->  Project Online Essentials ist eine *Add-on-* Lizenz für Teammitglieder für Kunden, die Project Online Professional oder Project Online Premium haben. 
-<br/>Wenn Ihre letzte Project Online Professional-oder Project Online Premium-Lizenz abgelaufen ist, werden Ihre Project Web App-Instanzen nach 120 Tagen gelöscht. 
-<br/>Bei Project Online-Testabonnements werden Ihre Project Web App-Instanzen 30 Tage nach Beendigung des Testzeitraums gelöscht. 
+>  Project Online Essentials ist eine *Add-on-* Lizenz für Teammitglieder für Kunden, die über Project Online Professional oder Project Online Premium verfügen. 
+<br/>Wenn Ihre letzte Project Online Professional-oder Project Online Premium-Lizenz abläuft, werden Ihre Project Web App-Instanzen nach 120 Tagen gelöscht. 
+<br/>Für Project Online Testabonnements werden Ihre Project Web App-Instanzen 30 Tage nach Ablauf des Testzeitraums gelöscht. 
   
 ### <a name="external-users"></a>Externe Benutzer
 
-Die Project Online-Lizenzierung für externe Benutzer entspricht der Richtlinie für interne Benutzer. Jede Interaktion auf einer Project Online-Website erfordert eine Project Online-Lizenz.
+Project Online Lizenzierung für externe Benutzer entspricht der Richtlinie für interne Benutzer. Für alle Interaktionen auf einer Project Online Website ist eine Project Online Lizenz erforderlich.
   
 ## <a name="project-online-plans"></a>Project Online-Pläne
 
@@ -70,12 +70,12 @@ Die folgenden Project Online-Pläne sind verfügbar. Weitere Informationen zu Pr
 ||||
 |:-----|:-----|:-----|
 |**Plan** <br/> |**Zielgruppen** <br/> |**Beschreibung** <br/> |
-|Project Online Essentials<sup>1</sup> |Teammitglieder <br/> <br/> |Webbasierte Schnittstelle für Teammitglieder <br/>  Aktualisieren von Aufgaben, Problemen und Risiken <br/>  Übermitteln von Arbeitszeittabellen <br/> Freigeben von Dokumenten und Zusammenarbeit mit Microsoft Teams oder Skype for Business-Anwesenheit <br/> 
+|Project Online Essentials<sup>1</sup> |Teammitglieder <br/> <br/> |Webbasierte Schnittstelle für Teammitglieder <br/>  Aktualisieren von Aufgaben, Problemen und Risiken <br/>  Übermitteln von Arbeitszeittabellen <br/> Freigeben von Dokumenten und Zusammenarbeit mit Microsoft Teams oder Skype for Business Anwesenheit <br/> 
 |Project Online Professional<sup>1</sup> <br/>|Projektmanager  <br/> | Alle Project Online Essentials-Funktionen plus:  <br/>    Zugriff jederzeit von überall über Weboberfläche  <br/>  Planung und Kostenberechnung von Projekten  <br/>  Ressourcenmanagement  <br/>  Veröffentlichen von Projekten in der Cloud  <br/>  Streamt die aktuelle Version der Project-Desktopanwendung automatisch auf Ihren PC unter Windows.  <br/>  Jede Abonnementlizenz ermöglicht bis zu fünf Installationen der Project-Desktopanwendung gleichzeitig.  <br/> |
 |Project Online Premium<sup>1</sup> <br/>|Portfolio- und Ressourcenmanager  <br/> | Alle Project Online Professional-Funktionen plus:  <br/>  Portfolioauswahl und -optimierung  <br/>  Projektbedarfsmanagement  <br/>  Ressourcenverwaltung für Unternehmen  <br/>  Out-of-Box-Portfolioberichte  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project Online Essentials, Project Online Professional und Project Online Premium werden auch als Teil von Office 365, betrieben von 21Vianet, einer Version von Office 365, die für China spezifisch ist, angeboten. 
+> <sup>1</sup> Project Online Essentials, Project Online Professional und Project Online Premium werden auch im Rahmen Office 365 betrieben von 21Vianet angeboten, einer speziell für China spezifischen Version von Office 365. 
   
 ## <a name="feature-availability-across-project-online-standalone-plans"></a>Verfügbarkeit von Features in eigenständigen Project Online-Plänen
 <a name="BKMK_ProjectFeatures"> </a>
@@ -168,7 +168,7 @@ Die folgenden Project Online-Pläne sind verfügbar. Weitere Informationen zu Pr
 |[OData-Feeds](reporting-and-business-intelligence.md#odata-feeds) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |[Out-of-Box-Portfoliodashboards](reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards) <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
 |[Desktopberichterstellung für Projekte](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Zeitphasen-Berichterstellung](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
+|[Zeitphasen Berichte](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |**Ressourcenverwaltung** <br/> |**Project Online Essentials** <br/> |**Project Online Professional** <br/> |**Project Online Premium** <br/> |**Project Professional 2019** <br/> |**Project Server 2019** <br/> |
 |[Annehmen/Ablehnen/Bearbeiten eingehender Ressourcenverhandlungsanfragen](resource-management.md#approverejectmodify-incoming-resource-engagement-requests) <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |[Verwalten des Ressourcenpools](resource-management.md#manage-resource-pool) <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
@@ -177,6 +177,6 @@ Die folgenden Project Online-Pläne sind verfügbar. Weitere Informationen zu Pr
 |[Anzeigen verfügbarer Systemressourcen und Zusammenstellen von Teams](resource-management.md#view-available-resources-and-build-teams) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Active Directory-Integration umfasst Project Online Essentials-Benutzer. Für die Verwaltung der Active Directory-Integration ist jedoch ein Project Online-Abonnement erforderlich. 
- <br/><sup>2</sup> nicht verfügbar in Project Online für Office 365, betrieben von 21Vianet. 
- <br/><sup>3</sup> es wird nur Erweiterbarkeit für Teammitglieds Szenarien unterstützt. 
+> <sup>1</sup> Active Directory Integration umfasst Project Online Essentials-Benutzer. Für die Verwaltung Active Directory Integration ist jedoch ein Project Onlinees Abonnement erforderlich. 
+ <br/><sup>2</sup> nicht verfügbar in Project Online für Office 365 betrieben von 21Vianet. 
+ <br/><sup>3</sup> es wird nur die Erweiterbarkeit für Teammitglieds Szenarien unterstützt. 
