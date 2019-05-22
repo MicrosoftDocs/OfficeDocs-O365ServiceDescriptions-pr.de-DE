@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-platform-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
-ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247221"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343304"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365-Plattformdienstbeschreibung
 
@@ -28,7 +28,7 @@ Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die 
   
 Microsoft Office 365 bietet Unternehmen jeglicher Größenordnung höchste Produktivität in der Cloud und hilft ihnen so, Zeit und Geld zu sparen und wertvolle Ressourcen freizusetzen. In Office 365 sind die vertraute Microsoft Office-Desktopsuite und die cloudbasierten Versionen der Dienste für Kommunikation und Zusammenarbeit der nächsten Generation von Microsoft, u. a. Microsoft Exchange Online, Microsoft SharePoint Online, Office Online und Microsoft Skype for Business Online, miteinander verbunden, damit Benutzer über das Internet nahezu standortunabhängig arbeiten können.
   
-Informationen zum Vergleichen von Features in Plänen finden Sie unter [Vergleichen von office 365 for Business-Plänen](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oder, eine detailliertere Liste der Features finden Sie in der entsprechenden dienstBeschreibung unter [Office 365-Dienstbeschreibungen ](../office-365-service-descriptions-technet-library.md).
+Informationen zum Vergleichen von Features in den Plänen finden Sie unter [Compare Office 365 for Business Plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oder, eine ausführlichere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter [Office 365 Service ](../office-365-service-descriptions-technet-library.md)descriptions.
   
 - Eine erste Anlaufstelle für Informationen zu Office 365 Education ist die Seite [Office 365 Education](office-365-education.md). 
     
@@ -66,9 +66,9 @@ Informationen darüber, wo Ihre Daten gespeichert werden, finden Sie in der [Dat
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Multi-Geo-Funktionen in Office 365
 
-Multi-Geo ermöglicht es einem einzelnen Office 365-Mandanten, mehrere Office 365-Datencenter-geographies zu überNehmen, und bietet Ihnen die Möglichkeit, Office 365 Data für Exchange Online und OneDrive for Business, at-Rest, auf Benutzerbasis, in Ihrer ausgewählten geografischen Umgebung zu speichern. 
+Multi-Geo ermöglicht es einem einzelnen Office 365 Mandanten, mehrere Office 365 Rechenzentrums Geographien zu überspannen, und bietet Ihnen die Möglichkeit, Office 365 Daten für Exchange Online und OneDrive für Unternehmen, in der Ruhe auf Benutzerebene, in der ausgewählten Geographie zu speichern. 
   
-Verfügbar GEOS: Asien, Pazifik, Australien, Kanada, Europäische Union, Indien, Japan, Korea, Vereinigtes Königreich, Vereinigte Staaten. 
+Verfügbar in GEOS: asiatisch-pazifischer Raum, Australien, Kanada, Europäische Union, Indien, Japan, Korea, Vereinigtes Königreich, Vereinigte Staaten. 
   
 Weitere Informationen finden Sie [unter Einführung in Multi-Geo in Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016).
   
@@ -94,7 +94,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |**[Office 365-Verwaltungsfeatures](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|Verwalten von Office 365 mithilfe des Microsoft 365 Admin Center oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |
 |**[Office 365-Suitefeatures](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
@@ -105,7 +105,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Microsoft Planner  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Microsoft PowerApps  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Stream  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>18</sup> <br/> |
+|Microsoft Stream  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Yes<sup>18</sup> <br/> |
 |Microsoft Sway  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |
 |Office Delve  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -141,7 +141,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Status der einzelnen Warnungen im Microsoft 365 Admin Center-Dashboard  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Status der einzelnen Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |RSS-Feed **Dienststatus**  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Berichte](reports.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Aktive und inaktive Postfächer  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -207,8 +207,8 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |**[Vereinbarung zum Servicelevel](service-level-agreement.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Produktnutzungsrechte](product-use-rights.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> | 
 
-> <sup>1</sup> Office 365 bietet keine Unterstützung für Betriebssysteme, die nicht von deren Hersteller unterstützt werden. 
-<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. Die Office-Client-apps, die mit Microsoft 365 Business geliefert werden, unterstützen auch die vollständige Azure Information Protection (Plan 1)-Features.
+> <sup>1</sup> Office 365 bietet keine Unterstützung für Betriebssysteme, die nicht von Ihrem Hersteller unterstützt werden. 
+<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. Die Office-Client-apps, die mit Microsoft 365 Business geliefert werden, unterstützen auch vollständige Azure Information Protection (Plan 1)-Features.
 <br/><sup>3</sup> If using directory synchronization with a local Active Directory, you must delete accounts or change passwords by using the local Active Directory, rather than the Office 365 portal or by using the Azure Active Directory module for Windows PowerShell. 
 <br/><sup>4</sup> To learn how to set self-service password management policies for users, see [Manage Passwords in Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup> Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird. 
@@ -222,5 +222,5 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 <br/><sup>14</sup> In Office 365 Enterprise F1 ist Flow auf „Verwendung" beschränkt, und es sind maximal 750 Ausführungen pro Benutzer und Monat zulässig. 
 <br/><sup>15</sup> Steht nur in Office 365 Education-Plänen einschließlich Office 365 E5 Education zur Verfügung. In Office 365 Enterprise E5 ist die Anwendung nicht verfügbar. 
 <br/><sup>16</sup> Weitere Informationen finden Sie unter [Steuern Ihrer Daten in Office 365 mithilfe des Kundenschlüssels](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa exportiert [Niederlande].) GT <br/><sup>18</sup> Verbrauch nur für Microsoft Stream: keine Veröffentlichung oder Freigabe.
-<br/><sup>19</sup> ab Mai 2019 werden vorhandene SKUs von Office 365 und Microsoft 365 mit Kaizala pro wieder aufgenommen. Ab dem 1. Juni 2019 ist Kaizala pro in allen berechtigten Office 365-und Microsoft 365-SKUs enthalten.   
+<br/><sup>17</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa (Niederlande) exportiert.) gT <br/><sup>18</sup> Verbrauch nur für Microsoft Stream: keine Veröffentlichung oder Freigabe.
+<br/><sup>19</sup> ab Mai 2019 werden vorhandene SKUs von Office 365 und Microsoft 365 mit Kaizala pro wieder gefüllt. Ab dem 1. Juni 2019 wird Kaizala pro in allen berechtigten Office 365 und Microsoft 365-SKUs enthalten sein.   

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/17/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-content-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
-description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Inhaltsfunktionen erleichtern allen die Inhaltsverwaltung im Unternehmen (Enterprise Content Management, ECM). Das Geheimnis ist die Kombination aus traditionellem Content Management, sozialen Fähigkeiten und den leistungsstarken Suchfunktionen.
-ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Inhaltsfunktionen erleichtern allen die Inhaltsverwaltung im Unternehmen (Enterprise Content Management, ECM). Das Geheimnis ist die Kombination aus traditionellem Content Management, sozialen Fähigkeiten und den leistungsstarken Suchfunktionen.
+ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246671"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342554"
 ---
 # <a name="content"></a>Inhalt
 
-SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Inhaltsfunktionen erleichtern allen die Inhaltsverwaltung im Unternehmen (Enterprise Content Management, ECM). Das Geheimnis ist die Kombination aus traditionellem Content Management, sozialen Fähigkeiten und den leistungsstarken Suchfunktionen.
+SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Inhaltsfunktionen erleichtern allen die Inhaltsverwaltung im Unternehmen (Enterprise Content Management, ECM). Das Geheimnis ist die Kombination aus traditionellem Content Management, sozialen Fähigkeiten und den leistungsstarken Suchfunktionen.
   
 ## <a name="accessibility-standards-support"></a>Accessibility Standards Support
 <a name="bkmk_AccessibilitySS"> </a>
@@ -39,7 +39,7 @@ Objektbibliotheken werden vorab so konfiguriert, dass spezielle Funktionen verwe
 ## <a name="auditing"></a>Überwachung
 <a name="bkmk_Auditing"> </a>
 
-SharePoint Online-Websitesammlungsadministratoren können mithilfe der Überwachungsfunktion nachverfolgen, welche Benutzer welche Aktionen für die Websites, Inhaltstypen, Listen, Bibliotheken, Listenelemente und Bibliotheksdateien von Websitesammlungen durchgeführt haben. Erfahren Sie mehr über das [Konfigurieren von Überwachungseinstellungen für eine Websitesammlung](https://go.microsoft.com/fwlink/?LinkId=270950).
+SharePoint Online Websitesammlungsadministratoren können das Überwachungsfeature verwenden, um nachzuverfolgen, welche Benutzer welche Aktionen auf den Websites, Inhaltstypen, Listen, Bibliotheken, Listenelementen und Bibliotheksdateien von Websitesammlungen durchgeführt haben. Erfahren Sie mehr über das [Konfigurieren von Überwachungseinstellungen für eine Websitesammlung](https://go.microsoft.com/fwlink/?LinkId=270950).
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>Überwachung &amp; und Berichterstellung (z. B. Änderungen an Dokumenten und Richtlinien sowie Löschvorgänge)
 <a name="bkmk_AuditingReporting"> </a>
@@ -51,7 +51,7 @@ Administratoren von SharePoint Online-Websitesammlungen können die Überwachung
 
 Nur für private Websitesammlungen verfügbar. Ein Katalog ist eine Bibliothek oder Liste, die für andere Websites und Websitesammlungen freigegeben wurde. Erfahren Sie, wie Sie [eine Bibliothek oder Liste als Katalog aktivieren](https://go.microsoft.com/fwlink/p/?LinkId=330809).
   
-## <a name="category-page-and-catalog-item-page"></a>Kategorieseite und Katalogelement Seite
+## <a name="category-page-and-catalog-item-page"></a>Kategorie-und Katalogelement Seite
 <a name="bkmk_WCMCategorypageandcatalogitempage"> </a>
 
 Nur für private Websitesammlungen verfügbar. Kategorieseiten und Katalogartikelseiten sind Seitenlayouts, die Sie für Kataloginhalte verwenden können, die Sie auf der gesamten Website konsistent anzeigen möchten. Erfahren Sie, [wie Sie Seitenlayouts für katalogbasierte Websites anpassen können](https://go.microsoft.com/fwlink/p/?LinkId=330808).
@@ -116,7 +116,7 @@ Websitebenutzer können einen Gastlink (eine anonymen Link zu einem Dokument) ge
 
 Benutzer können eine SharePoint-Bibliothek mit ihren Computern synchronisieren und dann mit dem Datei-Explorer mit diesen Dateien in der Bibliothek arbeiten. Aktualisierungen an den Dateien werden mit SharePoint synchronisiert, sobald die Benutzer online sind. OneDrive for Business oder eine Dokumentbibliothek auf einer Teamwebsite können synchronisiert werden. Erfahren Sie mehr über die [Synchronisierung einer Bibliothek mit Ihrem Computer](https://go.microsoft.com/fwlink/?LinkId=270962).
   
-## <a name="image-renditions"></a>Bilddarstellungen
+## <a name="image-renditions"></a>Bildwiedergaben
 <a name="bkmk_WCMImageRenditions"> </a>
 
 Mit Bildwiedergaben können Organisationen große Quellbilder auf eine SharePoint-Website einstellen und auch über Stellen auf einer Website verfügen, an denen für Seiten nur kleinere Versionen verwendet werden.
@@ -239,7 +239,7 @@ Objektbibliotheken werden vorab so konfiguriert, dass spezielle Funktionen verwe
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM: Search Engine Optimizations (SEO)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-Die Optimierung einer öffentlichen Website für die Suche ist sehr wichtig für die Verbindung mit neuen und wiederkehrenden Kunden. SharePoint Online umfasst integrierte SEO-Funktionen, wie anpassbare robots. txt-und metatagging-Seitenebene, sodass Organisationen problemlos Websites für bessere Suchergebnisse optimieren können.
+Die Optimierung einer öffentlichen Website für die Suche ist für die Verbindung mit neuen und wiederkehrenden Kunden sehr wichtig. SharePoint Online enthält integrierte SEO-Funktionen wie anpassbare robots. txt-und metatagging auf Seitenebene, damit Organisationen Websites problemlos für bessere Suchergebnisse optimieren können.
   
 ## <a name="word-automation-services"></a>Word Automation Services
 <a name="bkmk_WordAutomationServices"> </a>

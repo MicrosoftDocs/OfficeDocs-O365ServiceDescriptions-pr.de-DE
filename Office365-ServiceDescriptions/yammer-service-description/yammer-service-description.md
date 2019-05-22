@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - yammer-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 'Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.'
-ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246771"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342094"
 ---
 # <a name="yammer-service-description"></a>Beschreibung des Yammer-Dienstes
 
@@ -50,7 +50,7 @@ Yammer ist in den folgenden Plänen verfügbar:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Kommunikationsrichtlinien für den Yammer Enterprise-Dienst
 <a name="YammerCommsPolicy"> </a>
 
-Jammern ist ein Teil von Office 365 und hält sich an die [office 365 Change Management Policy](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), verwendet jedoch nicht die Zielfreigabe für die Einführung von Updates. 
+Jammern ist ein Bestandteil von Office 365 und entspricht der [Office 365 Change Management-Richtlinie](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), verwendet jedoch nicht die Zielversion zum Rollout von Updates. 
   
 Mit allen Yammer-Benutzern werden A/B-Featuretests durchgeführt. Dies ermöglicht es Microsoft, Features in vielen Umgebungen und auf unterschiedlichen Geräten auf Stabilität, Leistung und verbesserte Benutzerfreundlichkeit zu testen. Aufgrund der Tests haben unter Umständen Benutzer im gleichen Netzwerk unterschiedliche Benutzererfahrungen. Kunden haben nicht die Möglichkeit, A/B-Tests abzuwählen.
   

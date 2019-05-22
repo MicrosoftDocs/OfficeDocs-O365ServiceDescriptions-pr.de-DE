@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-user-account-management
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247201"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343114"
 ---
 # <a name="user-account-management"></a>Benutzerkontenverwaltung
 
@@ -55,13 +55,13 @@ Standardmäßig wird für das Office 365-Abonnement die Domäne \< _company name
   
 Sie können bis zu 900 registrierte Internetdomänen in Office 365 hosten, die jeweils durch einen anderen Namespace dargestellt werden. 
   
-In Organisationen, die einmaliges Anmelden verwenden, müssen alle Benutzer in einer Domäne dasselbe Identitätssystem verwenden: Cloudidentität oder Verbundidentität. Sie können beispielsweise eine Gruppe von Benutzern verwenden, die nur eine Cloud-Identität benötigt, da Sie keinen Zugriff auf lokale Systeme und eine andere Benutzergruppe haben, die Office 365 und lokale Systeme verwendet. Sie würden Office 365 zwei Domänen hinzufügen, beispielsweise contractors.contoso.com und staff.contoso.com, und nur SSO für eine davon einrichten. Eine ganze Domäne kann von Cloudidentität in Verbundidentität und von Verbundidentität in Cloudidentität konvertiert werden.
+In Organisationen, die einmaliges Anmelden verwenden, müssen alle Benutzer in einer Domäne dasselbe Identitätssystem verwenden: Cloudidentität oder Verbundidentität. Sie können beispielsweise eine Gruppe von Benutzern haben, die nur eine Cloud-Identität benötigt, da Sie nicht auf lokale Systeme zugreifen, und eine andere Gruppe von Benutzern, die Office 365 und lokale Systeme verwenden. Sie würden Office 365 zwei Domänen hinzufügen, wie Contractors.contoso.com und staff.contoso.com, und nur SSO für eine davon einrichten. Eine ganze Domäne kann von Cloudidentität in Verbundidentität und von Verbundidentität in Cloudidentität konvertiert werden.
   
 Weitere Informationen zu Domänen in Office 365 finden Sie unter [Domänen](domains.md). 
   
 \* Bei Verwendung von Office 365 betrieben von 21Vianet in China lautet die Standarddomäne \<Name des Unternehmens\> **.onmsChina.cn**. Wenn Sie Office 365 Deutschland verwenden, lautet die Standarddomäne \<Name des Unternehmens\> **.onmicrosoft.de**.
   
-## <a name="authentication"></a>Authentifizierung
+## <a name="authentication"></a>Authentication
 
 Mit der Ausnahme von Websites für anonymen Zugriff, die mit SharePoint Online erstellt wurden, müssen Benutzer authentifiziert werden, wenn sie auf Office 365-Dienste zugreifen. 
   
@@ -77,7 +77,7 @@ Office 365 verwendet die formularbasierte Authentifizierung, und der Authentifiz
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Mehrstufige Authentifizierung für Office 365
 
-Bei der mehrstufigen Authentifizierung für Office 365 müssen Benutzer nach der korrekten Eingabe des Kennworts einen Telefonanruf, eine Textnachricht oder eine APP-Benachrichtigung auf Ihrem Smartphone bestätigen. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Office 365-Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Weitere Informationen zur mehrstufigen [Authentifizierung für Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Bei der mehrstufigen Authentifizierung für Office 365 müssen Benutzer nach der korrekten Eingabe Ihres Kennworts einen Telefonanruf, eine Textnachricht oder eine APP-Benachrichtigung auf dem Smartphone bestätigen. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Office 365 Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Erfahren Sie mehr über die mehrstufige [Authentifizierung für Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Rich-Client-Authentifizierung
 
@@ -115,7 +115,7 @@ Die Anmeldung hängt von der verwendeten Office 365-Identität ab:
   
 ## <a name="creating-user-accounts"></a>Erstellen von Benutzerkonten
 
-Es gibt mehrere Methoden zum Hinzufügen von Benutzern zu Office 365. Weitere Informationen finden Sie unter [Hinzufügen von Benutzern einzeln oder in Massen zu Office 365-Administratorhilfe](https://go.microsoft.com/fwlink/p/?linkid=860006) und [hinzufügen, entfernen und Verwalten von benutzern in Microsoft 365 Admin Center Preview](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409). Wenn Sie Office 365 im Betrieb durch 21Vianet in China verwenden, finden Sie Informationen unter [Erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet - Admininstratorhilfe](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409).
+Es gibt mehrere Methoden zum Hinzufügen von Benutzern zu Office 365. Weitere Informationen finden Sie unter [Hinzufügen von Benutzern einzeln oder in loser Schüttung zu Office 365-Admin-Hilfe](https://go.microsoft.com/fwlink/p/?linkid=860006) und [hinzufügen, entfernen und Verwalten von Benutzern in der Microsoft 365 Admin Center-Vorschau](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409). Wenn Sie Office 365 im Betrieb durch 21Vianet in China verwenden, finden Sie Informationen unter [Erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet - Admininstratorhilfe](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409).
   
 ## <a name="deleting-accounts"></a>Löschen von Konten
 
@@ -145,7 +145,7 @@ Es gibt mehrere Tools zum Zurücksetzen von Kennwörtern für Benutzer mit Cloud
   
 - **Kennwort wird vom Administrator zurückgesetzt** Wenn Benutzer ihre Kennwörter verlieren oder vergessen, können Administratoren die Kennwörter von Benutzern im Office 365-Portal oder mit Windows PowerShell zurücksetzen. Benutzer können ihr eigenes Kennwort nur ändern, wenn sie ihr bestehendes Kennwort kennen. 
     
-    Bei Enterprise-Plänen können Administratoren, die ihre Kennwörter verlieren oder vergessen, ein anderer Administrator mit der globalen Administratorrolle die Kennwörter der Administratoren im Microsoft 365 Admin Center oder mithilfe von Windows PowerShell zurücksetzen. Weitere Informationen finden Sie im Artikel zum Thema [Zurücksetzen von Administratorkennwörtern](https://go.microsoft.com/fwlink/p/?LinkID=270062). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
+    Wenn Administratoren für Enterprise-Pläne ihre Kennwörter verlieren oder vergessen, kann ein anderer Administrator mit der globalen Administratorrolle die Kennwörter von Administratoren im Microsoft 365 Admin Center oder mithilfe von Windows PowerShell zurücksetzen. Weitere Informationen finden Sie im Artikel zum Thema [Zurücksetzen von Administratorkennwörtern](https://go.microsoft.com/fwlink/p/?LinkID=270062). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
     
 - **Benutzer ändert Kennwörter mit Outlook Web App** Auf der Outlook Web App-Optionsseite finden Sie den Link „Kennwort ändern", der Benutzer auf die Seite **Kennwort ändern** weiterleitet. Der Benutzer muss das bisherige Kennwort kennen. Weitere Informationen finden Sie im Artikel zum Thema [Ändern des Kennworts](https://go.microsoft.com/fwlink/p/?LinkID=270063). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
     

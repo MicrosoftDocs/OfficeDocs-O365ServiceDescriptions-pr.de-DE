@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - clients-and-devices-in-exchange-online-archiving
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Mit der Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Alle Netzwerkverbindungen zum Archiv des Benutzers erfolgen über das Internet, und es sind keine VPN-Verbindungen (Virtual Private Network) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
-ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Mit Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Alle Netzwerkverbindungen zum Archiv des Benutzers erfolgen über das Internet, und es sind keine VPN-Verbindungen (Virtual Private Network) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
+ms.openlocfilehash: 616de5cb187f74b048d14770abb8fe640d0782d3
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33245061"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341844"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Clientfunktionen in der Exchange Online-Archivierung
 
-Mit der Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Alle Netzwerkverbindungen zum Archiv des Benutzers erfolgen über das Internet, und es sind keine VPN-Verbindungen (Virtual Private Network) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
+Mit Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Alle Netzwerkverbindungen zum Archiv des Benutzers erfolgen über das Internet, und es sind keine VPN-Verbindungen (Virtual Private Network) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
   
 > [!IMPORTANT]
 > Microsoft behält sich das Recht vor, Verbindungen von Clientsoftware, welche die Integrität des Exchange Online-Archivierung-Dienstes beeinträchtigt, zu blockieren oder zu drosseln. 

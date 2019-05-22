@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/07/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-support
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support ist sowohl online über das Office 365-Portal als auch per Telefon sowohl für kostenpflichtige als auch für Testabonnements verfügbar. Weitere Informationen finden Sie unter Office 365 Support Options.
-ms.openlocfilehash: 99d815aae9708951e1012658db52eab1b5f11f98
-ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
+description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Office 365-Portal als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter Office 365 Support Options.
+ms.openlocfilehash: 42fd0a816f55f988cab77c2e1b883b4c8902dbae
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663299"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343134"
 ---
 # <a name="support"></a>Support
 
-Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support ist sowohl online über das Office 365-Portal als auch per Telefon sowohl für kostenpflichtige als auch für Testabonnements verfügbar. Weitere Informationen finden Sie unter [Office 365 Support Options](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Office 365-Portal als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter [Office 365 Support Options](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
 Autorisierte Administratoren können das Office 365-Portal verwenden, um Serviceanfragen online zu übermitteln, Telefonnummern des Supports einzusehen sowie alle offenen und kürzlich geschlossenen Serviceanfragen anzuzeigen. Über das Office 365-Portal übermittelte Serviceanfragen können während einer Frist von bis zu 14 Tagen nach Abschluss erneut geöffnet werden. Weitere Informationen finden Sie unter [Kontaktieren des Office 365 Business-Supports - Administratorhilfe](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
@@ -66,9 +66,9 @@ Der technische Support für Office 365-Abonnements bietet Unterstützung bei der
 |Konfiguration  <br/> | Probleme durch fehlerhafte Dienstkonfiguration  <br/>  Bereitstellungsprobleme  <br/>  Domäneneinrichtung und Redelegierung  <br/>  Probleme bei der Dienstkonfiguration  <br/>  Einmaliges Anmelden (Single Sign-On, SSO)  <br/>  Active Directory-Synchronisierung  <br/> |
 
 > [!NOTE]
-> Informationen zum Kontaktieren des technischen Supports finden Sie hier: wenden Sie sich an den [Office 365 for Business-Support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+> Informationen zum Kontaktieren des technischen Supports finden Sie hier: [Kontakt Office 365 für Unternehmen Support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
 >
-> Der technische Support für Office 365 umfasst keine Problembehandlung von Drittanbieterdiensten oder-Add-Ins. Informationen zur Suche nach Antworten von anderen Kunden in der [Microsoft-Community](https://go.microsoft.com/fwlink/p/?LinkID=617897).
+> Der technische Support für Office 365 umfasst keine Problembehandlung von Drittanbieterdiensten oder-Add-Ins. Informationen zum Suchen von Antworten von anderen Kunden in der [Microsoft-Community](https://go.microsoft.com/fwlink/p/?LinkID=617897).
   
 ### <a name="technical-support-case-handling"></a>Fallbearbeitung durch technischen Support
 
@@ -86,15 +86,15 @@ In welchem Zeitraum eine erste Antwort seitens des Supports eingeht, basiert auf
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Schweregrad** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 Education<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Government G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Erweiterte Supportoptionen<sup>3</sup>** <br/> |
+|**Schweregrad** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 Education<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Regierung G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Erweiterte Supportoptionen<sup>3</sup>** <br/> |
 | Schweregrad A (Kritisch)  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |
 |Schweregrad B (Hoch)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 2 Stunden  <br/> |
 |Schweregrad C (Mittel)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 4 Stunden  <br/> |
 
 > [!NOTE]
-> <sup>1</sup> Geschäftspläne unterstützen Geschäftszeiten für alle nicht kritischen Probleme und 24/7 Telefonsupport von Microsoft.<br/>
-> <sup>2</sup> Enterprise-Pläne bieten 24/7 Telefonsupport von Microsoft für alle Probleme.<br/>
-> <sup>3</sup> eine Beschreibung der erweiterten Supportoptionen finden Sie unter [zusätzliche Supportoptionen](support.md#additional-support-options).<br/>
+> <sup>1</sup> Geschäftspläne umfassen Geschäftszeiten Unterstützung für alle nicht-kritischen Probleme und 24/7 Telefonsupport von Microsoft.<br/>
+> <sup>2</sup> Enterprise-Pläne umfassen 24/7-Telefonsupport von Microsoft für alle Probleme.<br/>
+> <sup>3</sup> Beschreibungen der erweiterten Supportoptionen finden Sie unter [zusätzliche Supportoptionen](support.md#additional-support-options).<br/>
 > <sup>4</sup> Anrufe und Serviceanfragen werden in den meisten Ländern und Regionen an sieben Tagen in der Woche rund um die Uhr bearbeitet.
   
 ### <a name="support-for-standalone-plans"></a>Unterstützung für eigenständige Pläne

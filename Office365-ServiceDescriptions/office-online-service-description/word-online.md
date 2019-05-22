@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - word-online-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word Online (ehemals Word Web App) erweitert Ihre Microsoft Word-Benutzeroberfläche in den Webbrowser, in dem Sie Dokumente direkt auf der Website bearbeiten können, auf der das Dokument gespeichert ist.
-ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Word Online (ehemals Word Web App) erweitert Ihre Microsoft Word Erfahrung auf den Webbrowser, wo Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist.
+ms.openlocfilehash: 368267ed20a14ca5fffa5fc4226141ac00adaace
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246951"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343794"
 ---
 # <a name="word-online"></a>Word Online
 
-Word Online (ehemals Word Web App) erweitert Ihre Microsoft Word-Benutzeroberfläche in den Webbrowser, in dem Sie Dokumente direkt auf der Website bearbeiten können, auf der das Dokument gespeichert ist. 
+Word Online (ehemals Word Web App) erweitert Ihre Microsoft Word Erfahrung auf den Webbrowser, wo Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Hilfslinien und Echtzeitlayout
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -41,7 +41,7 @@ Die Absatz- und Zeichenformatvorlagen, die in einem Dokument gespeichert sind, k
 
 Sie können im Office Store Add-Ins für Word erwerben. Office-Add-Ins können nur in der Word-Desktop-App verwendet werden und sind in Word Online nicht verfügbar. Informationen zum Abrufen eines Add-Ins für Word finden Sie [hier](https://go.microsoft.com/fwlink/?LinkId=391443).
   
-## <a name="autosave"></a>Autosave
+## <a name="autosave"></a>AutoSpeichern
 <a name="bkmk_Save"> </a>
 
 Word Online speichert Ihr Dokument automatisch, wenn Sie Änderungen vornehmen.
@@ -159,7 +159,7 @@ Ein Index enthält die Begriffe und Themen, die in einem Dokument erläutert wer
 ## <a name="ink-editor"></a>Freihand-Editor
 <a name="BKMK_InkEditor"> </a>
 
-Mit dem frei Hand Editor können Sie Dokumente mit natürlichen Gesten wie Kreisen bearbeiten und formatieren, um Text auszuwählen und um Text zu löschen.
+Mit dem frei Hand Editor können Sie Dokumente mit natürlichen Gesten wie etwa Kreisen bearbeiten und formatieren, um Text zu markieren und zu streichen.
   
 ## <a name="insert-online-pictures"></a>Einfügen von Onlinebildern
 <a name="bkmk_InsertPicturessClipArt"> </a>
@@ -174,7 +174,7 @@ Word Online zeigt Dokumente an, die mit der Verwaltung von Informationsrechten g
 ## <a name="learning-tools"></a>Lerntools
 <a name="BKMK_LearningTools"> </a>
 
-Lern Tools sollen Ihnen dabei helfen, ihre Lesekompetenz zu verbessern, indem Sie Ihre Fähigkeit erhöhen, Wörter richtig auszusprechen, schnell und genau zu lesen und zu verstehen, was Sie lesen. 
+Lern Tools sind so konzipiert, dass Sie Ihre Lesekompetenz verbessern können, indem Sie die Möglichkeit zum korrekten aussprechen von Wörtern, zum schnellen und genauen lesen und zur besseren Lesbarkeit der Wörter stärken. 
   
 ## <a name="lists"></a>Listen
 <a name="BKMK_Lists_WordOnline"> </a>
@@ -256,7 +256,7 @@ Nicht verfügbar in Word Online. Erweitere Korrekturhilfen, z. B. zum Hinzufüge
 ## <a name="real-time-co-authoring"></a>Gemeinsame Dokumenterstellung in Echtzeit
 <a name="bkmk_Coauthoring"> </a>
 
-Mehrere Personen können gleichzeitig in einem Dokument arbeiten. In Word Online und Word 2016 hilft Ihnen die Echt Zeit Präsenz dabei, zu sehen, wo Ihre Mitverfasser im Dokument arbeiten, damit Sie beim Bearbeiten keine Konflikte erstellen, und Sie können Änderungen sehen, während Sie vorgenommen werden. Word 2013 unterstützt Gleichzeitiges Bearbeiten, aber es gibt keine Anwesenheitsanzeige, und Änderungen können von mehreren Autoren erst angezeigt werden, wenn das Dokument gespeichert ist. Weitere Informationen zur gemeinsamen Erstellung in Echtzeit finden Sie unter [What es New in Word Online](https://go.microsoft.com/fwlink/?LinkId=389520) und Zusammenarbeit [an Word-Dokumenten mit der gemeinsamen Dokumenterstellung in Echtzeit](https://go.microsoft.com/fwlink/?linkid=798760).
+Mehr als eine Person kann gleichzeitig in einem Dokument arbeiten. In Word Online und Word 2016 hilft Ihnen Echtzeitanwesenheit, zu sehen, wo Ihre Mitverfasser in dem Dokument arbeiten, damit Sie bei der Bearbeitung keine Konflikte verursachen, und Sie können Änderungen sehen, während diese vorgenommen werden. Word 2013 unterstützt Gleichzeitiges Bearbeiten, aber es gibt keine Anwesenheits Angabe, und Änderungen können von mehreren Autoren erst angezeigt werden, wenn das Dokument gespeichert wird. Weitere Informationen zur gemeinsamen Erstellung in Echtzeit finden Sie unter [What es New in Word Online](https://go.microsoft.com/fwlink/?LinkId=389520) und [Zusammenarbeit an Word-Dokumenten mit der gemeinsamen Erstellung in Echtzeit](https://go.microsoft.com/fwlink/?linkid=798760).
   
 ## <a name="reference-tools"></a>Referenztools
 <a name="bkmk_ReferenceTools"> </a>
@@ -271,7 +271,7 @@ Sie können Textfelder und Formen einfügen und dann schnell die Farbe des Texts
 ## <a name="researcher"></a>Recherche
 <a name="BKMK_Researcher"> </a>
 
-Forscher helfen Ihnen dabei, zuverlässige Quellen und Inhalte für Ihr Dokument zu finden und zu integrieren. Der Forscher verwendet Bing, um die entsprechenden Inhalte aus dem Web zu ziehen. Weitere Informationen finden Sie unter [Recherchieren Ihres Papiers innerhalb von Word](https://go.microsoft.com/fwlink/?linkid=839490).
+Der Forscher hilft Ihnen, zuverlässige Quellen und Inhalte für Ihr Dokument zu finden und zu integrieren. Der Forscher verwendet Bing, um den entsprechenden Inhalt aus dem Internet zu ziehen. Weitere Informationen finden Sie unter [Recherchieren für Ihr Papier ganz einfach in Word](https://go.microsoft.com/fwlink/?linkid=839490).
   
 ## <a name="rich-media"></a>Rich-Media
 <a name="bkmk_RichMedia"> </a>

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-reporting-features-and-troubleshooting-tools
@@ -12,33 +12,33 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online bietet eine Vielzahl von Berichtsfunktionen sowohl innerhalb als auch außerhalb der Exchange-Verwaltungskonsole.
-ms.openlocfilehash: 1fb9a0fe62fb94c0ace7388613ca26f65fc4698f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft Exchange Online bietet eine Vielzahl von Berichtsfeatures sowohl in als auch außerhalb des Exchange Admin Center (EAC).
+ms.openlocfilehash: 71aa0910dc343ecca228e47af0141ac49f556ccd
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246371"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342874"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Berichterstellungsfeatures und Tools zur Problembehandlung
 
-Microsoft Exchange Online bietet eine Vielzahl von Berichtsfunktionen sowohl innerhalb als auch außerhalb der Exchange-Verwaltungskonsole.
+Microsoft Exchange Online bietet eine Vielzahl von Berichtsfeatures sowohl in als auch außerhalb des Exchange Admin Center (EAC).
   
 ## <a name="reporting-features"></a>Berichtsfeatures
 
-Exchange Online-Kunden können auf Berichte im Microsoft 365 Admin Center zugreifen, indem Sie eine Excel-Berichtsarbeitsmappe herunterladen oder Webdienste verwenden.
+Exchange Online Kunden können auf Berichte im Microsoft 365 Admin Center, durch Herunterladen einer Excel-Berichtsarbeitsmappe oder mithilfe von Webdiensten zugreifen.
   
 ### <a name="reporting-in-the-microsoft-365-admin-center"></a>Berichterstellung im Microsoft 365 Admin Center
 
-Es gibt Berichte auf der Seite "Berichte" im Microsoft 365 Admin Center, die zusammenfassende Informationen zu Postfächern und Gruppen bereitstellen. Beispielsweise wird in einem Bericht die Anzahl der Gruppen aufgeführt, die pro Tag, Woche, Monat oder Jahr erstellt und gelöscht wurden. Es gibt auch Zusammenfassungsberichte für neue und gelöschte sowie aktive und inaktive Postfächer. 
+Es gibt Berichte auf der Seite Berichte im Microsoft 365 Admin Center, die zusammenfassende Informationen zu Postfächern und Gruppen bereitstellen. Beispielsweise wird in einem Bericht die Anzahl der Gruppen aufgeführt, die pro Tag, Woche, Monat oder Jahr erstellt und gelöscht wurden. Es gibt auch Zusammenfassungsberichte für neue und gelöschte sowie aktive und inaktive Postfächer. 
   
-Darüber hinaus enthält die Seite "Berichte" im Microsoft 365 Admin Center Nachrichtendaten Berichte, die Informationen zum Nachrichten Datenverkehr, zu Spam-und Schadsoftware-Ermittlungen sowie zu Nachrichten von Exchange-Transport Regeln oder zur verHinderung von Datenverlust (Data Loss Prevention, DLP) enthalten. Richtlinien. Die optimierten Berichte zu Schutz, Regeln und DLP (Data Loss Prevention, Verhinderung von Datenverlust) bieten Exchange Online-Administratoren eine interaktive Umgebung für die Berichterstellung. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
+Außerdem enthält die Seite "Berichte" im Microsoft 365 Admin Center Nachrichtendaten Berichte, die Informationen zum Nachrichten Datenverkehr, zu Spam-und Schadsoftware-Erkennungen sowie Nachrichten enthalten, die von Exchange-Transport Regeln oder von Datenverlust Verhinderung (Data Loss Prevention, DLP) betroffen sind. Politik. Die optimierten Berichte zu Schutz, Regeln und DLP (Data Loss Prevention, Verhinderung von Datenverlust) bieten Exchange Online-Administratoren eine interaktive Umgebung für die Berichterstellung. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
   
-Weitere Informationen darüber, welche Berichte im Rahmen der verschiedenen Office 365-Abonnements jeweils zur Verfügung stehen, finden Sie unter [Berichte](../office-365-platform-service-description/reports.md). Ausführlichere Informationen zur Seite "Berichte" im Microsoft 365 Admin Center finden Sie unter [anzeigen und Herunterladen von Berichten zur Dienst Verwendung in office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) und [Verwenden von e-Mail-Schutz berichten in Office 365 zum Anzeigen von Daten über Schadsoftware, Spam und Regel Erfassungen ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Weitere Informationen darüber, welche Berichte im Rahmen der verschiedenen Office 365-Abonnements jeweils zur Verfügung stehen, finden Sie unter [Berichte](../office-365-platform-service-description/reports.md). Ausführlichere Informationen zur Seite "Berichte" im Microsoft 365 Admin Center finden Sie unter [anzeigen und Herunterladen von Berichten über die Verwendung von Diensten in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) und [Verwenden von e-Mail-Schutz Berichten in Office 365 zum Anzeigen von Daten über Schadsoftware, Spam und Regel Erkennungen. ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Berichte über die Excel-Arbeitsmappe mit Berichten
 
-Sie können auch die Excel 2013-Berichtsarbeitsmappe verwenden, um Zusammenfassungsberichte mit Drilldownfunktionalitäten anzuzeigen. Es wird jedoch empfohlen, stattdessen die erweiterten Microsoft 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe wird voraussichtlich in naher Zukunft eingestellt. Einen detaillierteren Überblick und Links zum Herunterladen und Installieren der Arbeitsmappe finden Sie auf [dieser Downloadseite](https://go.microsoft.com/fwlink/p/?LinkId=271776). Informationen zur Verwendung der Arbeitsmappe finden Sie unter [E-Mail-Schutzberichte in der Excel-Berichtsarbeitsmappe](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
+Sie können auch die Excel 2013-Berichtsarbeitsmappe verwenden, um Zusammenfassungsberichte mit Drilldownfunktionalitäten anzuzeigen. Es wird jedoch empfohlen, stattdessen die verbesserten Microsoft 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe wird voraussichtlich in naher Zukunft eingestellt. Einen detaillierteren Überblick und Links zum Herunterladen und Installieren der Arbeitsmappe finden Sie auf [dieser Downloadseite](https://go.microsoft.com/fwlink/p/?LinkId=271776). Informationen zur Verwendung der Arbeitsmappe finden Sie unter [E-Mail-Schutzberichte in der Excel-Berichtsarbeitsmappe](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
 ### <a name="reporting-using-web-services"></a>Berichterstattung mit Webservices
 

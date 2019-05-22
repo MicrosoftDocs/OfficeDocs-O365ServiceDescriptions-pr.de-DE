@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
@@ -14,21 +14,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint Online (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint-Umgebung auf den Webbrowser, in dem Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365-Kunden mit Office Online können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: PowerPoint Online (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365-Kunden mit Office Online können Dateien unterwegs anzeigen, erstellen und bearbeiten.
+ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246941"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343744"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
-PowerPoint Online (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint-Umgebung auf den Webbrowser, in dem Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365-Kunden mit Office Online können Dateien unterwegs anzeigen, erstellen und bearbeiten.
+PowerPoint Online (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365-Kunden mit Office Online können Dateien unterwegs anzeigen, erstellen und bearbeiten.
   
 Der PowerPoint-Editor ist eine Web-Front-End-Komponente mit einer browserbasierten Bearbeitungsoberfläche, auf der Benutzer Dokumente ohne Verlust der Genauigkeit bearbeiten können.
   
-Wenn Sie auf der PowerPoint Online-Symbolleiste auf die Schaltfläche **in powerPoint öffnen** klicken, wird die Präsentation in der PowerPoint-Desktop-App geöffnet (wenn Microsoft powerpoint 2010 oder höher auf dem Computer installiert ist). 
+Wenn Sie auf der Symbolleiste PowerPoint online auf die Schaltfläche **in PowerPoint öffnen** klicken, wird die Präsentation in der PowerPoint-Desktop-App geöffnet (wenn Microsoft PowerPoint 2010 oder höher auf dem Computer installiert ist). 
   
 Erfahren Sie, wie Sie [Office mit Office 365 for Business auf einem PC herunterladen und installieren](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
   
@@ -182,10 +182,10 @@ Mit dem in PowerPoint Online integrierten Wörterbuch können Sie die Rechtschre
 
 Mehrere Autoren können gleichzeitig in PowerPoint Online und in PowerPoint 2016 arbeiten. Mithilfe von Echtzeitinformationen zur Anwesenheit können Sie sehen, an welchen Stellen der Präsentation Kollegen arbeiten, sodass beim Bearbeiten keine Konflikte entstehen. Sie können alle Änderungen sehen, noch während sie vorgenommen werden. PowerPoint 2013 unterstützt gleichzeitiges Bearbeiten, aber es sind keine Anwesenheitsinformationen vorhanden. Änderungen sind erst für mehrere Autoren sichtbar, nachdem das Dokument gespeichert wurde. Weitere Informationen zur gemeinsamen Dokumenterstellung in Echtzeit in PowerPoint finden Sie unter [Zusammenarbeiten an PowerPoint-Präsentationen](https://go.microsoft.com/fwlink/?linkid=844014).
   
-## <a name="reviewer-tools---advanced"></a>Prüfer Tools – erweitert
+## <a name="reviewer-tools---advanced"></a>Bearbeiter-Tools – erweitert
 <a name="bkmk_AdvancedReviewerTools"> </a>
 
-Nicht verfügbar in PowerPoint Online. Erweiterte Prüfer Funktionen wie Zusammenführungskonflikte und Vergleich von Präsentationen sind nur in der PowerPoint-Desktop-App verfügbar. Mit PowerPoint Online können Sie Kommentare anzeigen, hinzufügen, bearbeiten oder löschen.
+Nicht verfügbar in PowerPoint Online. Erweiterte Prüfer Funktionen wie Konflikte zusammenführen und Präsentationen vergleichen stehen nur in der PowerPoint-Desktop-App zur Verfügung. Mit PowerPoint Online können Sie Kommentare anzeigen, hinzufügen, bearbeiten oder löschen.
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>Rechteverwaltung: anwenden und Verwenden von IRM-und Kennwortschutz
 <a name="bkmk_CreationPasswords"> </a>
@@ -240,9 +240,9 @@ Sie können in der jeweils aktuellen Bearbeitungssitzung in der aktiven Präsent
 ## <a name="view-and-add-comments"></a>Anzeigen und Hinzufügen von Kommentaren
 <a name="bkmk_Viewaddcomments"> </a>
 
-Wenn Ihre Dateien in SharePoint Online oder OneDrive for Business gespeichert sind, können Sie Kommentare hinzufügen, bearbeiten oder löschen. 
+Wenn Ihre Dateien auf SharePoint Online oder OneDrive für Unternehmen gespeichert sind, können Sie Kommentare hinzufügen, bearbeiten oder löschen. 
   
-Wenn Ihre Dateien in OneDrive gespeichert sind, können Sie Kommentare hinzufügen, bearbeiten oder löschen, während Sie in der Bearbeitungsansicht sind, und Sie können Kommentare in der Leseansicht anzeigen und aktualisieren.
+Wenn Ihre Dateien in OneDrive gespeichert sind, können Sie in der Bearbeitungsansicht Kommentare hinzufügen, bearbeiten oder löschen, während Sie in der Leseansicht Kommentare anzeigen und aktualisieren können.
   
 ## <a name="view-and-edit-slide-notes"></a>View and edit slide notes
 <a name="bkmk_Viewslidenotes"> </a>

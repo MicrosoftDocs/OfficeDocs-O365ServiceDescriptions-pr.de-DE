@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - external-network-features-in-yammer
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: Die folgenden Features für externe Netzwerke sind in Yammer verfügbar.
-ms.openlocfilehash: 3f8904e9cae1c8ee4f54ef5e6074a0f803e522bb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: fea2d08c149025873875a1a1eb66ef862c892e3c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246811"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342263"
 ---
 # <a name="external-network-features-in-yammer"></a>Features für externe Netzwerke in Yammer
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - microsoft-dynamics-crm-online-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 'Seit dem Update vom Dezember 2016 für Dynamics 365 (online und lokal) ist die Dynamics CRM-Funktionalität nun als Teil von Dynamics 365, einer Suite intelligenter Geschäftsanwendungen, enthalten. Dynamics 365 kombiniert Customer-Relationship-Management (CRM) und Enterprise-Resource-Planning (ERP) in neuen Anwendungen, die speziell auf bestimmte Unternehmensfunktionen zugeschnitten sind. '
-ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246521"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342964"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Dienstbeschreibung von Microsoft Dynamics 365 (Online)
 
@@ -80,7 +80,7 @@ Nachfolgend finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte für j
 |**Aufzeichnen von Zeit und Kosten, Verwalten von persönlichen Informationen, Bewerben für Projekte** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
 |**Benutzerdefinierte Entitäten** <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |Vollständig<sup>1</sup> <br/> |
 |**Duale Nutzungsrechte für entsprechende Dynamics 365-CAL (falls vorhanden)** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
-|**Ausführen von Workflows und bedarfsgesteuerten Prozessen** <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |Voll<sup>2</sup> <br/> |
+|**Ausführen von Workflows und bedarfsgesteuerten Prozessen** <br/> |Vollständig<sup>2</sup> <br/> |Vollständig<sup>2</sup> <br/> |Vollständig<sup>2</sup> <br/> |Vollständig<sup>2</sup> <br/> |Vollständig<sup>2</sup> <br/> |Vollständig<sup>2</sup> <br/> |
 |**Microsoft Project Online Essentials, Gamification-Fan und Zuschauerrechte** <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |Vollständig  <br/> |
 |**Nur Portal: Selbständige Fallübermittlung und Chatinitiierung als Unterstützer (kein Agent)** <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |
 |**Nur Portal, nur Nicht-Mitarbeiter: Aktualisieren von Arbeitsaufträgen, Erstellen und Aktualisieren von Verkaufschancen** <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup> <br/> |Vollständig<sup>3</sup>`  <br/> |
@@ -102,9 +102,9 @@ Nachfolgend finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte für j
   
  **Keine** = keine Zugriffsrechte 
   
-><sup>1</sup> benutzerdefinierte Entitäten (basierend auf Entitäten, die in CRM enthalten sind oder von einem Kunden oder Partner erstellt wurden) können je nach erforderlichem Zugriff eine höhere CAL oder USL erfordern. Anpassungen können nur für Entitäten ausgeführt werden, die in den Nutzungsrechten enthalten sind. 
-<br/><sup>2</sup> das Erstellen, aktualisieren und Löschen über Workflows kann nur für Entitäten ausgeführt werden, die in den Nutzungsrechten enthalten sind (d. h. Aktualisieren einer Verkaufschance erfordert Umsatz oder Plan 1). 
-<br/><sup>3</sup> kein Zugriff auf die Dynamics 365-Benutzeroberfläche. Fallverwaltung und Chat können nur im eigenen Namen des Benutzers, als Unterstützer, nicht im Namen eines Kunden oder einer anderen Person übermittelt werden. <br/><sup>4</sup> die Erstellung von PowerApps kann nur Daten nutzen, die in der einzelnen Anwendung enthalten sind. 
+><sup>1</sup> benutzerdefinierte Entitäten (entweder basierend auf Entitäten, die in CRM enthalten sind oder von einem Kunden oder Partner erstellt werden) erfordern je nach erforderlichem Zugriff möglicherweise eine höhere CAL oder USL. Anpassungen können nur für Entitäten ausgeführt werden, die in den Nutzungsrechten enthalten sind. 
+<br/><sup>2</sup> das Erstellen, aktualisieren und Löschen über Workflows kann nur für Entitäten ausgeführt werden, die in den Nutzungsrechten enthalten sind (d. h., eine Verkaufschance erfordert eine Verkaufs-oder Plan 1-Version). 
+<br/><sup>3</sup> kein Zugriff auf die Benutzeroberfläche von Dynamics 365. Fallverwaltung und Chat können nur im eigenen Namen des Benutzers, als Supporter, nicht im Namen eines Kunden oder einer anderen Person übermittelt werden. <br/><sup>4</sup> die Erstellung von PowerApps kann nur Daten nutzen, die in der jeweiligen Anwendung enthalten sind. 
   
 ## <a name="dynamics-365-service-level-agreement"></a>Vereinbarung zum Servicelevel für Dynamics 365
 

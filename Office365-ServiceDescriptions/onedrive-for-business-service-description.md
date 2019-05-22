@@ -3,7 +3,7 @@ title: OneDrive for Business – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onedrive-for-business-service-description
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie mehr über den OneDrive-Speicherplatz, der für jeden Abonnementplan bereitgestellt wird.
-ms.openlocfilehash: 53023491a4b417a6daa2ba0eb57d5e443510c5c3
-ms.sourcegitcommit: 9ea9aa7c3d87354af4ac69f950e36b895b930463
+ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34080466"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343804"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business – Dienstbeschreibung
 

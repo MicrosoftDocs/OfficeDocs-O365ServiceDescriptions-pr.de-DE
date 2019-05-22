@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Featurevergleich von Office 365-Abonnements, die Exchange Online umfassen? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 2c1eaf2fcbfc543bf838b91592d454a49df60866
-ms.sourcegitcommit: 718731549996bd25f657f1356365318f8e9e7376
+ms.openlocfilehash: b7beee90d49d9962a0234758ae3f9aba087a226a
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33659674"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342764"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -60,7 +60,7 @@ Weitere Informationen zu Speicherbegrenzungen und Empfängergrenzwerten in den E
   
 ## <a name="feature-availability-across-office-365-plans"></a>Verfügbarkeit von Features in Office 365-Plänen
 
-Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business, Office 365 Small Business Premium oder Office 365 mittelständische Unternehmen verfügt, besuchen Sie Ihr Nachrichtencenter im Microsoft 365 Admin Center, oder sprechen Sie mit Ihrem Office 365-Anbieter, um weitere Details zu erfahren, wie die neuen Office 365 Business-Pläne wirken sich auf Sie aus. Weitere Informationen zu der neuen Office 365 Business Plan-Produktfamilie finden Sie unter [Neue Office 365-Pläne für kleine und mittlere Unternehmen](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today).
+Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business, Office 365 Small Business Premium oder Office 365 mittelständisches Unternehmen verfügt, besuchen Sie Ihr Nachrichten Center im Microsoft 365 Admin Center, oder sprechen Sie mit Ihrem Office 365 Anbieter, um weitere Informationen zur die neuen Office 365 Geschäftspläne wirken sich auf Sie aus. Weitere Informationen zu der neuen Office 365 Business Plan-Produktfamilie finden Sie unter [Neue Office 365-Pläne für kleine und mittlere Unternehmen](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today).
   
 |**Feature**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -113,7 +113,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Offlineadressbuch|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Adressbuchrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Hierarchisches Adressbuch|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Adresslisten und globale Adressliste|Ja|Ja|Ja|Ja|Ja<sup>18</sup>|Ja<sup>18</sup>|Ja<sup>18</sup>|Ja<sup>18</sup>|
+|Adresslisten und globale Adressliste|Ja|Ja|Ja|Ja|Yes<sup>18</sup>|Yes<sup>18</sup>|Yes<sup>18</sup>|Yes<sup>18</sup>|
 |Office 365-Gruppen|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verteilergruppen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Externe Kontakte (global)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -146,8 +146,8 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |**[Sprachnachrichtendienste](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Voicemail<sup>23</sup>|Ja|Ja|Nein|Nein|Nein|Ja|Ja|Nein|
-|Integration zwischen Voicemail und Drittanbieter-Fax<sup>23</sup>|Ja|Ja|Nein|Nein|Nein|Ja|Ja|Nein|
-|Interoperabilität von Drittanbieter-Voicemail<sup>23</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Integration von Voicemail und Fax von Drittanbietern<sup>23</sup>|Ja|Ja|Nein|Nein|Nein|Ja|Ja|Nein|
+|Interoperabilität von Drittanbieter-Voice-Mail<sup>23</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Skype for Business-Integration|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Hohe Verfügbarkeit und Geschäftskontinuität](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Postfachreplikation in Datencentern|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -170,30 +170,30 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Outlook-Add-Ins und Outlook MAPI|Ja<sup>19</sup>|Ja|Ja<sup>19</sup>|Ja<sup>19</sup>|Ja<sup>19</sup>|Ja<sup>19</sup>|Ja<sup>19</sup>|Nein|
 
 > [!NOTE]
-> <sup>1</sup> erfordert ein Abonnement für die Exchange Online-Archivierung (EOA) für jeden lokalen Postfachbenutzer, der über ein cloudbasierten Archiv verfügt. <br/>
-<sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterstützten IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. <br/>
-<sup>3</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. <br/>
-<sup>4</sup> Transport Regeln bestehen aus flexiblen Kriterien, mit denen Sie Bedingungen und Ausnahmen definieren können, sowie Aktionen, die basierend auf den Kriterien durchgeführt werden sollen. Für Exchange Online und Microsoft Exchange Server 2013 sind unterschiedliche Kriterien und Aktionen verfügbar. Eine Liste der verfügbaren Kriterien und Aktionen finden Sie in den entsprechenden Themen zu Kriterien und Aktionen für jedes Produkt. <br/>
-<sup>5</sup> für Exchange 2013 benötigt DLP eine Exchange Enterprise-Client Zugriffslizenz (CAL). Weitere Informationen zu Clientzugriffslizenzen und zur Serverlizenzierung finden Sie unter [Exchange Server-Lizenzierung](https://go.microsoft.com/fwlink/p/?LinkId=299133). <br/>
-<sup>6</sup> Exchange Server 2013 verfügt über die meisten der gleichen integrierten Antispam-Funktionen wie Exchange Server 2010. Informationen zu den Vorteilen der von Exchange gehosteten Spamfilterung gegenüber den lokalen Angeboten finden Sie unter [Vorteile von Antispam-Features in Exchange Online Protection über Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=271726). <br/>
-<sup>7</sup> nur zugänglich über den direkten Zugriff auf die Verwaltungsschnittstelle des Exchange Admin Centers (EAC). <br/>
-<sup>8</sup> Exchange Server 2013 verwendet nur das Microsoft-Antischadsoftware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/>
-<sup>9</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das die Funktion für inaktives Postfach erforderlich ist.  <br/>
+> <sup>1</sup> erfordert ein Abonnement für die Exchange Online Archivierung (EOA) für jeden lokalen Postfachbenutzer, der über ein Cloud-basiertes Archiv verfügt. <br/>
+<sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. <br/>
+<sup>3</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. <br/>
+<sup>4</sup> Transport Regeln bestehen aus flexiblen Kriterien, mit denen Sie Bedingungen und Ausnahmen definieren können, sowie Aktionen, die basierend auf den Kriterien durchgeführt werden. Für Exchange Online und Microsoft Exchange Server 2013 sind unterschiedliche Kriterien und Aktionen verfügbar. Eine Liste der verfügbaren Kriterien und Aktionen finden Sie in den entsprechenden Themen zu Kriterien und Aktionen für jedes Produkt. <br/>
+<sup>5</sup> für Exchange 2013 erfordert DLP eine Exchange Enterprise-Client Zugriffslizenz (CAL). Weitere Informationen zu Clientzugriffslizenzen und zur Serverlizenzierung finden Sie unter [Exchange Server-Lizenzierung](https://go.microsoft.com/fwlink/p/?LinkId=299133). <br/>
+<sup>6</sup> Exchange Server 2013 verfügt über die meisten der gleichen integrierten Spamschutzfunktionen wie Exchange Server 2010. Informationen zu den Vorteilen der Exchange-gehosteten Spamfilterung über das lokale Angebot finden Sie unter [Vorteile von Antispamfunktionen in Exchange Online Schutz vor Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=271726). <br/>
+<sup>7</sup> nur zugänglich über den direkten Zugriff auf die Verwaltungsschnittstelle für Exchange Admin Center (EAC). <br/>
+<sup>8</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/>
+<sup>9</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das das Feature für inaktives Postfach erforderlich ist.  <br/>
 <sup>10</sup> SharePoint muss in der lokalen Exchange-Organisation bereitgestellt werden. <br/>
-<sup>11</sup> SharePoint Online muss im Office 365-Abonnementplan enthalten sein. <br/>
+<sup>11</sup> SharePoint Online müssen im Office 365-Abonnementplan enthalten sein. <br/>
 <sup>12</sup> Pop wird unterstützt, IMAP jedoch nicht. <br/>
-<sup>13</sup> wird für Exchange Server 2013-lokale Kunden unterstützt, die Azure Information Protection erwerben. Office 365 Nachrichtenverschlüsselung erfordert lokale Kunden zum Weiterleiten von e-Mails über Exchange Online, entweder mithilfe von Exchange Online Protection für die e-Mail-Filterung oder durch Einrichten des Hybriden Nachrichtenflusses. <br/>
-<sup>14</sup> Exchange Server 2013-Kunden müssen SP1 herunterladen und installieren, um auf Dokument-und Richtlinien Tipps in OWA und OWA für Geräte zuzugreifen. <br/>
+<sup>13</sup> wird für Exchange Server 2013 lokale Kunden unterstützt, die Azure Information Protection erwerben. Office 365 Nachrichtenverschlüsselung erfordert, dass lokale Kunden e-Mails über Exchange Online weiterleiten, entweder mithilfe von Exchange Online Schutz für e-Mail-Filterung oder durch die Einrichtung eines Hybriden Nachrichtenflusses. <br/>
+<sup>14</sup> Exchange Server 2013 Kunden müssen SP1 herunterladen und installieren, um auf Dokument Fingerabdruck-und Richtlinien Tipps in OWA und OWA für mobile Geräte zugreifen zu können. <br/>
 <sup>15</sup> BitLocker-Laufwerkverschlüsselung wird für Exchange Server 2013 unterstützt, aber ein Administrator muss das Feature aktivieren. <br/>
-<sup>16</sup> Office 365 Business Essentials, Office 365 Business Premium und Office 365 Enterprise F1 bieten keine Zugriffsrechte für die Verwendung mit lokalen Servern. Um kompatibel zu sein, muss der Kunde die entsprechenden CALs erwerben oder zuvor erworben haben oder auf eine Unternehmens-SKU aktualisieren, die diese Zugriffsrechte bereitstellt. <br/>
-<sup>17</sup> verbundene Konten werden für Pop &amp; -IMAP-Konten unterstützt, sind für Outlook.com (Hotmail) jedoch deaktiviert. <br/>
-<sup>18</sup> das Verwenden von Cmdlets in Exchange Online PowerShell zum Anpassen der Standardadresslisten und der standardmäßigen globalen Adressliste (GAL) wird nicht unterstützt. <br/>
+<sup>16</sup> Office 365 Business Essentials, Office 365 Business Premium und Office 365 Enterprise F1 bieten keine Zugriffsrechte für die Verwendung mit lokalen Servern. Um konform zu sein, muss der Kunde die entsprechenden CALs kaufen oder zuvor erworben oder ein Upgrade auf eine SKU für Unternehmen durchführen, die diese Zugriffsrechte bereitstellt. <br/>
+<sup>17</sup> verbundene Konten werden für Pop &amp; -IMAP-Konten unterstützt, sind jedoch für Outlook.com (Hotmail) deaktiviert. <br/>
+<sup>18</sup> das Verwenden von Cmdlets in Exchange Online PowerShell zum Anpassen der Standardadresslisten und der globalen Standardadressliste (GAL) wird nicht unterstützt. <br/>
 <sup>19</sup> einige Drittanbieter-Webparts und-Add-Ins sind möglicherweise nicht verfügbar. <br/>
 <sup>20</sup> für eDiscovery benötigen Sie eine separate Abfrage für lokale vs. Cloud. <br/>
-<sup>21</sup> die Tabelle gibt an, ob der Client mit den zugeordneten Plänen funktioniert. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. <br/>
-<sup>22</sup> Weitere Informationen finden Sie unter [Steuern ihrer Daten in Office 365 mit Kundenschlüssel](https://go.microsoft.com/fwlink/?linkid=862702). <br/>
-<sup>23</sup> der Exchange Online um-Support für PBX-Anlagen von Drittanbietern über direkte Verbindungen von Kunden betriebenem SBCS endet im April 2019. Weitere Informationen finden Sie unter [Einstellung der Unterstützung für Sitzungs Grenz Regler in Exchange Online Unified Messaging](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) im Exchange-Teamblog. <br/>
-<sup>24</sup> ein F1-Benutzer kann einem eigenen Postfach keine Stellvertretungen hinzufügen, Sie können jedoch auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und alle an diese Delegierten Aktionen ausführen.
+<sup>21</sup> die Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. <br/>
+<sup>22</sup> Weitere Informationen finden Sie unter [Steuern der Daten in Office 365 mit dem Kundenschlüssel](https://go.microsoft.com/fwlink/?linkid=862702). <br/>
+<sup>23</sup> Exchange Online um-Unterstützung für Drittanbieter-Nebenstellenanlagen über direkte Verbindungen vom Kunden betriebenen SBCS wird Ende April 2019. Weitere Informationen finden Sie in der Exchange-Teamblog [-Einstellung der Unterstützung für Session Border Controller in Exchange Online Unified Messaging](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) . <br/>
+<sup>24</sup> ein F1-Benutzer kann keine Stellvertretungen zu seinem eigenen Postfach hinzufügen, aber Sie können auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und alle an Sie Delegierten Aktionen ausführen.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Verfügbarkeit von Features in eigenständigen Exchange Online-Plänen
 
@@ -301,27 +301,27 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Outlook-Add-Ins und Outlook MAPI|Ja|Ja|Ja<sup>21</sup>|Ja<sup>21</sup>|Nein|
 
 > [!NOTE]
-> <sup>1</sup> Transport Regeln bestehen aus flexiblen Kriterien, mit denen Sie Bedingungen und Ausnahmen definieren können, sowie Aktionen, die basierend auf den Kriterien durchgeführt werden sollen. Für Exchange Online und Microsoft Exchange Server 2013 sind unterschiedliche Kriterien und Aktionen verfügbar. Eine Liste der verfügbaren Kriterien und Aktionen finden Sie in den entsprechenden Themen zu Kriterien und Aktionen für jedes Produkt. <br/>
-<sup>2</sup> Informationen zu den Vorteilen der von Exchange gehosteten Spamfilterung gegenüber den lokalen Angeboten finden Sie unter [Vorteile von Antispam-Features in Exchange Online Protection über Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=271726). <br/>
+> <sup>1</sup> Transport Regeln bestehen aus flexiblen Kriterien, mit denen Sie Bedingungen und Ausnahmen definieren können, sowie Aktionen, die basierend auf den Kriterien durchgeführt werden. Für Exchange Online und Microsoft Exchange Server 2013 sind unterschiedliche Kriterien und Aktionen verfügbar. Eine Liste der verfügbaren Kriterien und Aktionen finden Sie in den entsprechenden Themen zu Kriterien und Aktionen für jedes Produkt. <br/>
+<sup>2</sup> Informationen zu den Vorteilen der Exchange-gehosteten Spamfilterung über das lokale Angebot finden Sie unter [Vorteile von Antispamfunktionen in Exchange Online Schutz vor Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=271726). <br/>
 <sup>3</sup> SharePoint muss in der lokalen Exchange-Organisation bereitgestellt werden. <br/>
 <sup>4</sup> SharePoint Online muss im Office 365-Abonnementplan enthalten sein. <br/>
-<sup>5</sup> erfordert ein Abonnement für die Exchange Online-Archivierung (EOA) für jeden lokalen Postfachbenutzer, der über ein cloudbasierten Archiv verfügt. <br/>
-<sup>6</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das die Funktion für inaktives Postfach erforderlich ist. <br/>
-<sup>7</sup> Exchange Server 2013 verwendet nur das Microsoft-Antischadsoftware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/>
-<sup>8</sup> nur zugänglich über den direkten Zugriff auf die Verwaltungsschnittstelle des Exchange Admin Centers (EAC). <br/>
+<sup>5</sup> erfordert ein Abonnement für die Exchange Online Archivierung (EOA) für jeden lokalen Postfachbenutzer, der über ein Cloud-basiertes Archiv verfügt. <br/>
+<sup>6</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das das Feature für inaktives Postfach erforderlich ist. <br/>
+<sup>7</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/>
+<sup>8</sup> nur zugänglich über den direkten Zugriff auf die Verwaltungsschnittstelle für Exchange Admin Center (EAC). <br/>
 <sup>9</sup> IMAP wird nicht unterstützt. <br/>
 <sup>10</sup> für Exchange 2013 oder höher erfordert DLP eine Exchange Enterprise-Client Zugriffslizenz (CAL). Weitere Informationen zu Clientzugriffslizenzen und zur Serverlizenzierung finden Sie unter [Exchange Server-Lizenzierung](https://go.microsoft.com/fwlink/p/?LinkId=299133). <br/>
-<sup>11</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterstützten IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. Die Nachrichtenverschlüsselung von Office 365 hängt vom Azure Information Protection ab. <br/>
-<sup>12</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. <br/>
-<sup>13</sup> wird für Kunden mit Exchange Server 2013 oder höher unterstützt, die Azure Information Protection erwerben. Office 365 Nachrichtenverschlüsselung erfordert lokale Kunden zum Weiterleiten von e-Mails über Exchange Online, entweder mithilfe von Exchange Online Protection für die e-Mail-Filterung oder durch Einrichten des Hybriden Nachrichtenflusses. <br/>
-<sup>14</sup> Kunden, die Exchange Server 2013 oder höher betreiben, müssen das neueste kumulative Update (Cu) oder das unmittelbar vorhergehende cu herunterladen und installieren, um auf Dokument-und Richtlinien Tipps in OWA und OWA für Geräte zuzugreifen. <br/>
-<sup>15</sup> verfügbar für Kunden, die Exchange Server 2013 oder höher betreiben. <br/>
+<sup>11</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. Office 365 Nachrichtenverschlüsselung ist von Azure Information Protection abhängig. <br/>
+<sup>12</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. <br/>
+<sup>13</sup> wird für Kunden mit Exchange Server 2013 oder höher unterstützt, die Azure Information Protection erwerben. Office 365 Nachrichtenverschlüsselung erfordert, dass lokale Kunden e-Mails über Exchange Online weiterleiten, entweder mithilfe von Exchange Online Schutz für e-Mail-Filterung oder durch die Einrichtung eines Hybriden Nachrichtenflusses. <br/>
+<sup>14</sup> Kunden, die Exchange Server 2013 oder höher laufen lassen, müssen das neueste kumulative Update (Cu) oder das unmittelbar frühere cu herunterladen und installieren, um auf Dokument Fingerabdruck-und Richtlinien Tipps in OWA und OWA für mobile Geräte zuzugreifen. <br/>
+<sup>15</sup> verfügbar für Kunden, die Exchange Server 2013 oder höher durchführen. <br/>
 <sup>16</sup> BitLocker-Laufwerkverschlüsselung wird für Exchange Server 2013 unterstützt, aber ein Administrator muss das Feature aktivieren. <br/>
-<sup>17</sup> Exchange Online-Plan 1 hat eine [Größenbeschränkung für das Postfach und das Archiv](https://go.microsoft.com/fwlink/?LinkId=330039). Die Exchange Online-Archivierung für Exchange Online-Add-on ermöglicht unbegrenzte Cloud-basierte Archive und den [in-situ-](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold)Speicher. <br/>
-<sup>18</sup> Exchange Online-Kiosk-Kalender können nur über OWA zugegriffen oder freigegeben werden. <br/>
-<sup>19</sup> verbundene Konten werden für Pop &amp; -IMAP-Konten unterstützt, sind für Outlook.com (Hotmail) jedoch deaktiviert. <br/>
-<sup>20</sup> die Verwendung von Cmdlets in Exchange Online PowerShell zum Anpassen von Standardadresslisten und die standardmäßige globale Adressliste (GAL) werden nicht unterstützt. <br/>
+<sup>17</sup> Exchange Online Plan 1 hat eine [Größenbeschränkung für das Postfach und das Archiv](https://go.microsoft.com/fwlink/?LinkId=330039). Durch Exchange Online Archivierung für Exchange Online Add-on werden unbegrenzte Cloud-basierte Archive und [in-situ-](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold)Speicher hinzugefügt. <br/>
+<sup>18</sup> Exchange Online Kiosk Kalendern können nur über OWA zugegriffen oder freigegeben werden. <br/>
+<sup>19</sup> verbundene Konten werden für Pop &amp; -IMAP-Konten unterstützt, sind jedoch für Outlook.com (Hotmail) deaktiviert. <br/>
+<sup>20</sup> die Verwendung von Cmdlets in Exchange Online PowerShell zum Anpassen von Standardadresslisten und der globalen Standardadressliste (GAL) wird nicht unterstützt. <br/>
 <sup>21</sup> einige Drittanbieter-Webparts und-Add-Ins sind möglicherweise nicht verfügbar. <br/>
-<sup>22</sup> für eDiscovery benötigen Sie eine separate Abfrage für On-Premise vs. Cloud. <br/>
-<sup>23</sup> Exchange Online-Kiosk bietet keine Zugriffsrechte für die Verwendung mit lokalen Servern. Um kompatibel zu sein, muss der Kunde die entsprechenden CALs erwerben oder zuvor erworben haben oder auf eine Unternehmens-SKU aktualisieren, die diese Zugriffsrechte bereitstellt. <br/>
-<sup>24</sup> Office 365-Gruppen sind mit eingeschränkter Funktionalität verfügbar.
+<sup>22</sup> für eDiscovery benötigen Sie eine separate Abfrage für lokale vs. Cloud. <br/>
+<sup>23</sup> Exchange Online Kiosk bietet keine Zugriffsrechte für die Verwendung mit lokalen Servern. Um konform zu sein, muss der Kunde die entsprechenden CALs kaufen oder zuvor erworben oder ein Upgrade auf eine SKU für Unternehmen durchführen, die diese Zugriffsrechte bereitstellt. <br/>
+<sup>24</sup> Office 365 Gruppen sind mit reduzierter Funktionalität verfügbar.

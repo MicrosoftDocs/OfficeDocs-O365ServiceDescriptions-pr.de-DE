@@ -4,23 +4,23 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Mit Visio Online können Sie Visio-Diagramme im Web anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise einen Plan darzustellen, einen Vorschlag zu erstellen oder eine Abfolge von Schritten in einem Prozess zu beschreiben. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und Rich-Shape-Sätzen zu erstellen. Visio Online-Benutzer können Diagramme anzeigen und zusammenarbeiten und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive for Business Online hochgeladen werden.
-ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Mit Visio Online können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio Online-Benutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
+ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246831"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342384"
 ---
 # <a name="visio-online-service-description"></a>Visio Online-Dienstbeschreibung
 
-Mit Visio Online können Sie Visio-Diagramme im Web anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise einen Plan darzustellen, einen Vorschlag zu erstellen oder eine Abfolge von Schritten in einem Prozess zu beschreiben. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und Rich-Shape-Sätzen zu erstellen. Visio Online-Benutzer können Diagramme anzeigen und zusammenarbeiten und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive for Business Online hochgeladen werden.
+Mit Visio Online können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio Online-Benutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
   
 Weitere Informationen und Anweisungen für die ersten Schritte finden Sie unter [Visio Online](https://products.office.com/en-US/visio/visio-online).
   
@@ -61,10 +61,10 @@ In der folgenden Tabelle werden die Features von Visio Online den funktionsreich
    
 > <sup>1</sup> Hyperlinks folgen (Einfügen oder Bearbeiten nicht möglich). 
 <br/><sup>2</sup> Freigeben über SharePoint oder One Drive for Business und Freigeben für Benutzer, die nicht über SharePoint oder OneDrive verfügen. 
-<br/> <sup>3</sup> nicht verfügbar in Visio Online Editor.
+<br/> <sup>3</sup> nicht verfügbar im Visio Online-Editor.
 <br/><sup>4</sup> nicht verfügbar in Visio Online Viewer. 
-<br/><sup>5</sup> nicht verfügbar in Visio Online Editor, aber Sie können in den Ansichtsmodus wechseln und Kommentare anzeigen. 
-<br/><sup>6</sup> verfügbar in Visio Online Editor. 
+<br/><sup>5</sup> nicht verfügbar im Visio Online-Editor, aber Sie können in den Ansichtsmodus wechseln und Kommentare anzeigen. 
+<br/><sup>6</sup> verfügbar im Visio Online-Editor. 
   
 ## <a name="supported-file-types-in-visio-online"></a>In Visio Online unterstützte Dateitypen
 

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/06/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-online-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office Online (früher Office Web Apps) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
-ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
+description: In Office Online (ehemals Office-Webanwendungen) werden Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser geöffnet. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
+ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663289"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343783"
 ---
 # <a name="office-online-service-description"></a>Office Online-Dienstbeschreibung
 
-Office Online (früher Office Web Apps) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
+In Office Online (ehemals Office-Webanwendungen) werden Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser geöffnet. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
   
 Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
@@ -157,7 +157,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Einfügen von Diagrammen](excel-online.md#insert-charts) <br/> |Ja  <br/> |Ja  <br/> |
 |[Einfügen/Löschen von Zeilen und Spalten](excel-online.md#insertdelete-rows-and-columns) <br/> |Ja  <br/> |Ja  <br/> |
 |[Einfügen von Bildern](excel-online.md#insert-pictures) <br/> |Ja  <br/> |Ja  <br/> |
-|[Einfügen von Shapes](excel-online.md#insert-shapes) <br/> |Ja  <br/> |Ja  <br/> |
+|[Einfügen von Formen](excel-online.md#insert-shapes) <br/> |Ja  <br/> |Ja  <br/> |
 |[Zusammenführen von Zellen](excel-online.md#merge-cells) <br/> |Ja  <br/> |Ja  <br/> |
 |[Benannte Bereiche](excel-online.md#named-ranges) <br/> |Ja  <br/> |Ja  <br/> |
 |[Zahlenformatierung](excel-online.md#number-formatting) <br/> |Ja  <br/> |Ja  <br/> |
@@ -172,7 +172,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Gemeinsame Dokumenterstellung in Echtzeit](excel-online.md#real-time-co-authoring) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen empfohlener Diagramme und Bearbeiten mit Formatierungssteuerelementen](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |Nein  <br/> |Ja  <br/> |
 |[Aktualisieren bestehender Datenverbindungen](excel-online.md#refresh-existing-data-connections) <br/> |Ja  <br/> |Ja  <br/> |
-|[Doppelte Werte entfernen](excel-online.md#remove-duplicate-values) <br/> |Ja  <br/> |Ja  <br/> |
+|[Entfernen von doppelten Werten](excel-online.md#remove-duplicate-values) <br/> |Ja  <br/> |Ja  <br/> |
 |[Umbenennen und Hinzufügen von Blättern](excel-online.md#rename-and-add-sheets) <br/> |Ja  <br/> |Ja  <br/> |
 |[Umbenennen einer geöffneten Arbeitsmappe](excel-online.md#rename-file-while-workbook-is-open) <br/> |Ja  <br/> |Nein  <br/> |
 |[Ersetzen](excel-online.md#replace) <br/> |Ja  <br/> |Ja  <br/> |
@@ -194,11 +194,11 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Was-wäre-wenn-Analysetools](excel-online.md#what-if-analysis-tools) <br/> |Nein  <br/> |Ja  <br/> |
 
 > [!NOTE] 
-> <sup>1</sup> kann keine PivotCharts erstellen, sondern nur anzeigen.
- <br/><sup>2</sup> abhängig von der Konfiguration Ihrer Umgebung werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die in Excel Online angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
- <br/><sup>3</sup> Sie können keine Makros mit VBA in Excel online erstellen, aber VBA-fähige Tabellenkalkulationen öffnen und bearbeiten, ohne das in der Datei enthaltene VBA zu entfernen (oder zu beschädigen).
- <br/><sup>4</sup> in Excel Online wird der letzte bekannte Referenzwert im Browserfenster angezeigt; Sie muss jedoch mit der Excel-Desktop-App aktualisiert werden. 
- <br/><sup>5</sup> einige, aber nicht alle, Office-Add-Ins sind verfügbar. 
+> <sup>1</sup> kann keine PivotCharts erstellen, nur anzeigen.
+ <br/><sup>2</sup> je nach Konfiguration Ihrer Umgebung werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die in Excel Online angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
+ <br/><sup>3</sup> Sie können in Excel online keine Makros mit VBA erstellen, aber Sie können VBA-fähige Arbeitsblätter öffnen und bearbeiten, ohne das in der Datei enthaltene VBA zu entfernen (oder zu beschädigen).
+ <br/><sup>4</sup> in Excel Online wird der letzte bekannte Referenzwert im Browserfenster angezeigt; Es muss jedoch mit der Excel-Desktop-App aktualisiert werden. 
+ <br/><sup>5</sup> einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>
@@ -214,8 +214,8 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Gemeinsame Erstellung](onenote-online.md#co-authoring) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen und Verwalten von Seiten und Abschnitten](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Ja  <br/> |Ja  <br/> |
 |[Herunterladen einer Kopie eingebetteter Office-Dateien](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Ja  <br/> |Ja<sup>4</sup> <br/> |
-|[Seiten mit Drag & Drop] <br/> |Ja  <br/> |Ja <br/> |
-|[Drag & Drop Sections] <br/> |Ja  <br/> |Ja <br/> |
+|[Drag & Drop-Seiten] <br/> |Ja  <br/> |Ja <br/> |
+|[Drag & Drop-Abschnitte] <br/> |Ja  <br/> |Ja <br/> |
 |[Drag & Drop-Abschnittsgruppen] <br/> |Nein  <br/> |Ja <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Ja  <br/> |Ja  <br/> |
 |[Bearbeiten eingebetteter Dateien](onenote-online.md#EmbeddedFileEdit) <br/> |Nein  <br/> |Ja  <br/> |
@@ -245,10 +245,10 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Anzeigen früherer Seitenversionen](onenote-online.md#view-previous-page-versions) <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> in OneNote Online können Sie Abschnitte innerhalb eines Notizbuchs verschieben und Seiten aus einem Abschnitt kopieren und in einen anderen einfügen. 
+> <sup>1</sup> in OneNote Online können Sie Abschnitte innerhalb eines Notizbuchs sowie Seiten aus einem Abschnitt in einen anderen kopieren und einfügen. 
  <br/> <sup>2</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
- <br/><sup>3</sup> Sie können eine Seite oder einen Abschnitt Durchsuchen, jedoch nicht das gesamte Notizbuch oder über Notebooks hinweg (wie in der Desktop Version). 
- <br/><sup>4</sup> in der Desktop Version gibt es keine Option zum herunterladen, aber Sie können Sie an einem anderen Speicherort speichern. 
+ <br/><sup>3</sup> Sie können auf der Seite oder im Abschnitt suchen, jedoch nicht auf gesamtes Notizbuch oder über Notebooks hinweg (wie in der Desktop Version möglich). 
+ <br/><sup>4</sup> in der Desktop Version gibt es keine Option zum herunterladen, aber Sie können als an einen anderen Speicherort speichern. 
   
 ### <a name="powerpoint"></a>PowerPoint
 <a name="BKMK_PowerPointFeatures"> </a>
@@ -285,7 +285,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Als PDF drucken](powerpoint-online.md#print-to-pdf) <br/> |Ja  <br/> |Ja  <br/> |
 |[Korrekturhilfen](powerpoint-online.md#proofing-tools) <br/> |Ja  <br/> |Ja  <br/> |
 |[Gemeinsame Dokumenterstellung in Echtzeit](powerpoint-online.md#real-time-co-authoring) <br/> |Ja  <br/> |Ja<sup>4</sup> <br/> |
-|[Prüfer Tools – erweitert](powerpoint-online.md#reviewer-tools---advanced) <br/> |Nein  <br/> |Ja  <br/> |
+|[Bearbeiter-Tools – erweitert](powerpoint-online.md#reviewer-tools---advanced) <br/> |Nein  <br/> |Ja  <br/> |
 |Rights Management: IRM and password security <br/> |Nein  <br/> |Ja  <br/> |
 |[Durchführen einer Bildschirmpräsentation](powerpoint-online.md#run-slide-show) <br/> |Ja  <br/> |Ja  <br/> |
 |["Speichern unter" oder "Kopie herunterladen"](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Ja  <br/> |Ja  <br/> |

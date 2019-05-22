@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - yammer-platform-features
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
-description: Die folgenden Features der Jammer-Plattform stehen in jammern zur Verfügung.
-ms.openlocfilehash: 27bf174726663a4a9d39fdb9cd3706d9b6ef3618
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die folgenden Features der Jammer Plattform stehen in "jammern" zur Verfügung.
+ms.openlocfilehash: a13042ef0eac0aa825c0bc428e312d98bc2e0839
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247341"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342164"
 ---
 # <a name="yammer-platform-features"></a>Yammer-Plattformfeatures
 
-Die folgenden Features der Jammer-Plattform stehen in jammern zur Verfügung.
+Die folgenden Features der Jammer Plattform stehen in "jammern" zur Verfügung.
   
 ## <a name="yammer-connect-login"></a>Yammer Connect Login
 <a name="bkmk_YammerConnectLogin"> </a>

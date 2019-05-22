@@ -3,7 +3,7 @@ title: Messagingrichtlinie und -einhaltung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: b0e99d521ea56de91dcb7679aec5addbe9869f80
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621875"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342814"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 
@@ -35,17 +35,18 @@ Administratoren verwenden die Exchange-Verwaltungskonsole oder Windows PowerShel
   
 Weitere Informationen finden Sie unter:
   
-- [Archivieren von Postfächern in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421)
+- [Archivieren von Postfächern in Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)
     
-- [Aktivieren oder Deaktivieren von Archivpostfächern in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404425)
+- [Aktivieren oder Deaktivieren von Archivpostfächern in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
     
 ### <a name="archive-sizes"></a>Größe des Archivs
 
 In einem persönlichen Archiv können nur die Nachrichtendaten eines Benutzers gespeichert werden. Die Zuweisung von Speicher hängt vom jeweiligen Abonnementplan ab. Weitere Informationen zur Größe von Archivpostfächern finden Sie im Abschnitt über die Speicherbegrenzung von Postfächern unter [Exchange Online-Begrenzungen](exchange-online-limits.md).
   
 > [!IMPORTANT]
-> Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung in Fällen zu verweigern, in denen ein Postfacharchiv nicht in einem persönlichen Szenario verwendet wird. > Das Compliance-Archiv hat spezielle Lizenzierungsanforderungen für Outlook-Benutzer. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das persönliche Archiv zugreifen zu können. > Das Windows PowerShell-Cmdlet  _New-MailboxImportRequest_ von Exchange Server 2010 Service Pack 1 oder höher für das administratorgesteuerte Importieren von PST-Dateien in ein persönliches Archiv wird von Exchange Online nicht unterstützt. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren. 
-  
+> - Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung in Fällen zu verweigern, in denen ein Postfacharchiv nicht in einem persönlichen Szenario verwendet wird. 
+> - Das Compliance-Archiv hat spezielle Lizenzierungsanforderungen für Outlook-Benutzer. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das persönliche Archiv zugreifen zu können. 
+> - Exchange Online unterstützt das Cmdlet _New-MailboxImportRequest_ Windows PowerShell von Exchange Server 2010 Service Pack 1 oder höher für den Administrator gesteuerten Import von PST-Dateien in ein persönliches Archiv nicht. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren. 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Cloudbasierte Archivierung von lokalen Postfächern
 
 Mit der Microsoft Exchange Online-Archivierung, einer gehosteten Archivierungslösung von Microsoft, kann Exchange Online zur cloudbasierten Archivierung von Postfächern verwendet werden, die auf lokalen Postfachservern mit Exchange Server 2010 oder höher gehostet werden. Hierfür muss sich die lokale Organisation im Hybridmodus befinden oder für die Exchange Online-Archivierung eingerichtet werden.
@@ -68,11 +69,11 @@ Die Aufbewahrungsrichtlinienfunktionen in Exchange Online entsprechen denen von 
 > [!IMPORTANT]
 > Verwaltete Ordner, ein älterer Ansatz für die Messaging-Datensatzverwaltung, der in Exchange Server 2007 eingeführt wurde, stehen in Exchange Online nicht zur Verfügung. 
   
-Weitere Informationen finden Sie unter [Aufbewahrungstags und Aufbewahrungsrichtlinien](https://go.microsoft.com/fwlink/p/?LinkId=271745).
+Weitere Informationen finden Sie unter [Aufbewahrungstags und Aufbewahrungsrichtlinien](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies).
   
 ## <a name="encryption-of-data-at-rest"></a>Verschlüsselung von Daten im Ruhezustand
 
-Verschlüsselung von Office 365-Kundendaten im Ruhezustand wird von mehreren dienstseitigen Technologien bereitgestellt, einschließlich BitLocker, DKM, Azure Storage-Dienstverschlüsselung und Dienstverschlüsselung in Exchange Online, Skype for Business, OneDrive for Business und SharePoint Online. Office 365-Dienstverschlüsselung umfasst eine Option zum Verwenden von Kunden verwalteter Verschlüsselungsschlüssel, die in Azure Key Vault gespeichert sind. Diese Option für von Kunden verwaltete Schlüssel wird [Office 365-Kundenschlüssel](https://go.microsoft.com/fwlink/?linkid=863349) genannt und steht für Exchange Online SharePoint Online und OneDrive for Business zur Verfügung. 
+Verschlüsselung von Office 365-Kundendaten im Ruhezustand wird von mehreren dienstseitigen Technologien bereitgestellt, einschließlich BitLocker, DKM, Azure Storage-Dienstverschlüsselung und Dienstverschlüsselung in Exchange Online, Skype for Business, OneDrive for Business und SharePoint Online. Office 365-Dienstverschlüsselung umfasst eine Option zum Verwenden von Kunden verwalteter Verschlüsselungsschlüssel, die in Azure Key Vault gespeichert sind. Diese Option für von Kunden verwaltete Schlüssel wird [Office 365-Kundenschlüssel](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697) genannt und steht für Exchange Online SharePoint Online und OneDrive for Business zur Verfügung. 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -84,21 +85,21 @@ Neben Bitlocker verwenden wir eine Technologie, die Distributed Key Manager (DKM
   
 ## <a name="customer-key"></a>Kundenschlüssel
 
-Mit Kundenschlüssel können Sie die Verschlüsselungsschlüssel Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in Microsoft-Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://go.microsoft.com/fwlink/?linkid=863349) und [Häufig gestellte Fragen zur Dienstverschlüsselung mit Kundenschlüssel für Office 365](https://go.microsoft.com/fwlink/?linkid=869438).
+Mit Kundenschlüssel können Sie die Verschlüsselungsschlüssel Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in Microsoft-Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697) und [Häufig gestellte Fragen zur Dienstverschlüsselung mit Kundenschlüssel für Office 365](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq?redirectSourcePath=%252fen-us%252farticle%252fservice-encryption-with-customer-key-for-office-365-faq-41ae293a-bd5c-4083-acd8-e1a2b4329da6).
   
 ## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-E-Mail-Benutzer können mit der Office 365-Nachrichtenverschlüsselung an jeden und ganz einfach verschlüsselte E-Mail-Nachrichten senden. Wir haben neue Funktionen bei der Office-Nachrichtenverschlüsselung angekündigt, die die Schutzfunktionen von Azure Information Encryption nutzen. Diese neuen Funktionen bieten eine verbesserte Endbenutzererfahrung, die eine einfache Freigabe und Zusammenarbeit an geschützten Nachrichten mit Personen innerhalb und außerhalb der Organisation ermöglichen. Für die neuen Funktionen der Office-Nachrichtenverschlüsselung müssen einige Setupanforderungen erfüllt sein. Informationen dazu finden Sie unter „Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen". Kunden mit älteren Versionen der Office 365-Nachrichtenverschlüsselung erhalten nur Zugriff auf die neuen Funktionen, wenn Sie der aufgeführte Anleitung folgen. Weitere Informationen zu den neuen und alten Funktionen der Office 365-Nachrichtenverschlüsselung finden Sie in den [häufig gestellten Fragen](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e). 
+E-Mail-Benutzer können mit der Office 365-Nachrichtenverschlüsselung an jeden und ganz einfach verschlüsselte E-Mail-Nachrichten senden. Wir haben neue Funktionen bei der Office-Nachrichtenverschlüsselung angekündigt, die die Schutzfunktionen von Azure Information Encryption nutzen. Diese neuen Funktionen bieten eine verbesserte Endbenutzererfahrung, die eine einfache Freigabe und Zusammenarbeit an geschützten Nachrichten mit Personen innerhalb und außerhalb der Organisation ermöglichen. Für die neuen Funktionen der Office-Nachrichtenverschlüsselung müssen einige Setupanforderungen erfüllt sein. Informationen dazu finden Sie unter „Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen". Kunden mit älteren Versionen der Office 365-Nachrichtenverschlüsselung erhalten nur Zugriff auf die neuen Funktionen, wenn Sie der aufgeführte Anleitung folgen. Weitere Informationen zu den neuen und alten Funktionen der Office 365-Nachrichtenverschlüsselung finden Sie in den [häufig gestellten Fragen](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e). 
 
-Die erweiterte Nachrichtenverschlüsselung von Office 365 bietet zusätzlichen Schutz, da der Ablauf und die Sperrung von Nachrichten zugelassen werden.  Sie können auch mehrere Vorlagen für verschlüsselte e-Mails aus Ihrer Organisation erstellen.  Die erweiterte Nachrichtenverschlüsselung ist in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Nonprofit Staff Pricing), Office 365 Enterprise E5 (Nonprofit Staff Pricing) oder Office 365 Education A5 enthalten. Wenn Ihre Organisation über ein Office 365-Abonnement verfügt, das nicht die erweiterte Nachrichtenverschlüsselung von Office 365 enthält, können Sie die Microsoft 365 E5-Kompatibilität oder die Office 365 Advanced Compliance-SKU als Add-on erwerben.
+Office 365 erweiterte Nachrichtenverschlüsselung bietet zusätzlichen Schutz, indem Nachrichtenablauf und-Sperrung zugelassen werden.  Sie können auch mehrere Vorlagen für verschlüsselte e-Mails erstellen, die von Ihrer Organisation stammen.  Die erweiterte Nachrichtenverschlüsselung ist in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Preise für gemeinnützige Mitarbeiter), Office 365 Enterprise E5 (Nonprofit-Mitarbeiter Preise) oder Office 365 Education A5 enthalten. Wenn Ihre Organisation über ein Office 365es Abonnement verfügt, das nicht Office 365 erweiterte Nachrichtenverschlüsselung enthält, können Sie die Microsoft 365 E5-Compliance oder die Office 365 Advanced Compliance-SKU als Add-on erwerben.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Mit S/MIME können Sie vertrauliche Daten schützen, indem Sie in Ihrer Organisation signierte und verschlüsselte E-Mails versenden. Administratoren können die remote Windows PowerShell verwenden, um S/MIME einzurichten, nachdem PKI-Zertifikate an die Benutzer ausgegeben wurden. Diese Zertifikate müssen von einem lokalen Active Directory-Zertifikatsdienst synchronisiert werden.
   
-S/MIME wird von Internet Explorer 9 oder höher unterstützt. Derzeit wird S/MIME von Firefox, Opera und Chrome nicht unterstützt. Weitere Informationen finden Sie unter [S/MIME zum Signieren und Verschlüsseln von Nachrichten](https://go.microsoft.com/fwlink/p/?LinkID=393973).
+S/MIME wird von Internet Explorer 9 oder höher unterstützt. Derzeit wird S/MIME von Firefox, Opera und Chrome nicht unterstützt. Weitere Informationen finden Sie unter [S/MIME zum Signieren und Verschlüsseln von Nachrichten](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>In-Situ-Speicher und Beweissicherungsverfahren
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -128,7 +129,7 @@ Außerdem können Sie das Compliance-Archiv für Folgendes verwenden:
 > [!NOTE]
 > Wenn Sie für ein Postfach den In-Situ-Speicher oder das Beweissicherungsverfahren aktivieren, wird diese Einstellung auf das primäre und das Archivpostfach angewendet. 
   
-Weitere Informationen finden Sie unter [Compliance-Archiv](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+Weitere Informationen finden Sie unter [Compliance-Archiv](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds).
   
 ## <a name="in-place-ediscovery"></a>Compliance-eDiscovery
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -153,7 +154,7 @@ In Exchange Online können autorisierte Benutzer Compliance-eDiscovery-Suchen du
     
 - Kopiert Nachrichten, die in Suchergebnissen zurückgegeben werden, in ein Discoverypostfach.
     
-Weitere Informationen finden Sie unter [Compliance-eDiscovery](http://go.microsoft.com/fwlink/p/?LinkId=271747).
+Weitere Informationen finden Sie unter [Compliance-eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery).
   
 ## <a name="mail-flow-rules"></a>Nachrichtenflussregeln
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -173,9 +174,9 @@ Viele Organisationen müssen gegenwärtig zur Einhaltung von Gesetzen, Vorschrif
 - Hinzufügen von Haftungsausschlüssen zu Nachrichten während des Transports innerhalb der Organisation
     
 > [!IMPORTANT]
-> Anlagendateitypen, für die iFilter von Drittanbietern auf dem E-Mail-Server installiert werden müssen (z. B. Adobe PDF-Dateien), können erst nach der Installation eines geeigneten iFilters mithilfe von Nachrichtenflussregeln überprüft werden. Weitere Informationen zu Dateitypen, die von Nachrichtenflussregeln unterstützt werden, finden Sie unter [in Office 365 ](https://go.microsoft.com/fwlink/p/?LinkId=271748). 
+> Anlagendateitypen, für die iFilter von Drittanbietern auf dem E-Mail-Server installiert werden müssen (z. B. Adobe PDF-Dateien), können erst nach der Installation eines geeigneten iFilters mithilfe von Nachrichtenflussregeln überprüft werden. Weitere Informationen zu Dateitypen, die von Nachrichtenflussregeln unterstützt werden, finden Sie unter [in Office 365 ](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments). 
   
-Weitere Informationen zu Nachrichtenflussregeln finden Sie unter [Nachrichtenflussregeln in Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488).
+Weitere Informationen zu Nachrichtenflussregeln finden Sie unter [Nachrichtenflussregeln in Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019).
   
 ## <a name="data-loss-prevention"></a>Verhinderung von Datenverlust
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -200,7 +201,7 @@ Sie können DLP-Richtlinien in der Verwaltungsschnittstelle der Exchange-Verwalt
     
 - Überprüfen Sie Vorfallsdaten in DLP-Berichten, oder fügen Sie Ihre eigene Berichterstellung mithilfe einer neuen Aktion zum Generieren eines Schadensberichts hinzu.
     
-Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust](https://go.microsoft.com/fwlink/p/?LinkId=271749).
+Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
   
 ## <a name="journaling"></a>Journaling
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -221,7 +222,7 @@ Wenn Sie eine erfolgreiche und zuverlässige Journalinglösung sicherstellen mö
     
 - Stellen Sie die entsprechende Interoperabilität mit Exchange-Server und Exchange-Transport bereit, einschließlich Nachrichtenformate, der Integration von Absender-/Empfängerinformationen und angemessener Inhaltskonvertierung.
     
-Weitere Informationen zum Journaling finden Sie unter [Journaling](https://go.microsoft.com/fwlink/p/?LinkId=271750).
+Weitere Informationen zum Journaling finden Sie unter [Journaling](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 <a name="bkmk_O365_MessageEncryption"> </a>

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dienstbeschreibungen vorgenommen wurden.
-ms.openlocfilehash: 1bb02fc16d9f2da5245920a9cde7dbdb1626f107
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246631"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343594"
 ---
 # <a name="recent-service-descriptions-changes"></a>Neueste Änderungen der Dienstbeschreibungen
 
@@ -29,20 +29,20 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 |:-----|:-----|:-----|
 |**Dienstbeschreibung** <br/> |**Thema** <br/> |**Änderung** <br/> |
 |Office 365-Plattform  <br/> |[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |Mobile Verfügbarkeit in a1-Plänen aktualisiert.  <br/> |
-||[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |Aktualisierte Rechtsstreitigkeiten in den Bereichen Education Security and Compliance Center und Exchange Online.  <br/> |
+||[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |Aktualisierte Beweis Sicherungs Verweise im Education Security and Compliance Center und in Exchange Online Abschnitten.  <br/> |
 |Exchange Online  <br/> |[Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md) <br/> |Aktualisierte Verfügbarkeit in Office 365 Business.  <br/> |
-|Office-Anwendungen  <br/> |[Dienstbeschreibung zu Office-Anwendungen](office-applications-service-description/office-applications-service-description.md) <br/> |Aktualisierte Verfügbarkeit über mobile Plattformen hinweg.  <br/> |
-|Workplace Analytics  <br/> |[Beschreibung zu Workplace Analytics](workplace-analytics-service-description.md) <br/> |Aktualisierter Lizenz Platz Grenzwert, Link zum Artikel erste Schritte, aktualisierte Voraussetzungen hinzugefügt.  <br/> |
-|Project Online  <br/> |[Project Online-Dienstbeschreibung](project-online-service-description/project-online-service-description.md) <br/> |Die Lizenzierung wurde geklärt.  <br/> |
-|Visio Online  <br/> |[Visio Online-Dienstbeschreibung](visio-online-service-description/visio-online-service-description.md) <br/> |Aktualisierte Features-Tabelle, um zusätzliche Features anzuzeigen, die jetzt in Visio Online zur Verfügung stehen.  <br/> |
+|Office-Anwendungen  <br/> |[Dienstbeschreibung zu Office-Anwendungen](office-applications-service-description/office-applications-service-description.md) <br/> |Aktualisierte Verfügbarkeit auf mobilen Plattformen.  <br/> |
+|Workplace Analytics  <br/> |[Beschreibung zu Workplace Analytics](workplace-analytics-service-description.md) <br/> |Aktualisierung des Lizenz arbeitsplatzs, hinzugefügter Link zum Artikel erste Schritte, aktualisierte Voraussetzungen.  <br/> |
+|Project Online  <br/> |[Project Online-Dienstbeschreibung](project-online-service-description/project-online-service-description.md) <br/> |Verdeutlichte Lizenzierung.  <br/> |
+|Visio Online  <br/> |[Visio Online-Dienstbeschreibung](visio-online-service-description/visio-online-service-description.md) <br/> |Aktualisierte Features-Tabelle, um zusätzliche Features anzuzeigen, die jetzt in Visio Online verfügbar sind.  <br/> |
    
 ## <a name="may-2018"></a>Mai 2018
 
 ||||
 |:-----|:-----|:-----|
 |**Dienstbeschreibung** <br/> |**Thema** <br/> |**Änderung** <br/> |
-|Office 365-Plattform  <br/> |[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |GCC High-und DoD-Freigabefunktionen geklärt.  <br/> |
-||[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Abschnitt zum GCC-Thema HinzugeFügt.  <br/> |
+|Office 365-Plattform  <br/> |[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |GCC High-und DoD-Freigabefunktionen wurden erläutert.  <br/> |
+||[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Abschnitt zum gcc-Thema hinzugefügt.  <br/> |
    
 ## <a name="april-2018"></a>April 2018
 

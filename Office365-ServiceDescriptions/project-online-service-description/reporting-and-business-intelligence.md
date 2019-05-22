@@ -4,23 +4,23 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
-description: Die folgenden Reporting-und Business Intelligence-Funktionen sind in Project online verfügbar.
-ms.openlocfilehash: 37bad29131a8c18a312bfc1b7b784e07080c4203
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die folgenden Berichterstellungs-und Business Intelligence-Features stehen in Project online zur Verfügung.
+ms.openlocfilehash: d5120c03f991665399ee1862a4f9970ee952a548
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246691"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343668"
 ---
 # <a name="reporting-and-business-intelligence"></a>Berichte und Business Intelligence
 
-Die folgenden Reporting-und Business Intelligence-Funktionen sind in Project online verfügbar.
+Die folgenden Berichterstellungs-und Business Intelligence-Features stehen in Project online zur Verfügung.
   
 ## <a name="odata-feeds"></a>OData-Feeds
 <a name="bkmk_ODataFeeds"> </a>

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-search-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
-description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Suchfunktionen helfen dabei, die Informationen zu finden, die für die Arbeit benötigt werden. Die Grundlage der Suche ist eine Kombination aus Relevanz, Verfeinerung und Personen.
-ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Suchfunktionen helfen dabei, die Informationen zu finden, die für die Arbeit benötigt werden. Die Grundlage der Suche ist eine Kombination aus Relevanz, Verfeinerung und Personen.
+ms.openlocfilehash: ec249b2b9fdc6e2ffc0efc60ae7a8a00a01424c2
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246621"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342544"
 ---
-# <a name="search"></a>Suchen
+# <a name="search"></a>Suche
 
-SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Suchfunktionen helfen dabei, die Informationen zu finden, die für die Arbeit benötigt werden. Die Grundlage der Suche ist eine Kombination aus Relevanz, Verfeinerung und Personen.
+SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Suchfunktionen helfen dabei, die Informationen zu finden, die für die Arbeit benötigt werden. Die Grundlage der Suche ist eine Kombination aus Relevanz, Verfeinerung und Personen.
   
 ## <a name="continuous-crawls"></a>Continuous crawls
 <a name="bkmk_ContinuousCrawl"> </a>
@@ -59,7 +59,7 @@ Bei der Hybridbereitstellung von SharePoint können Suchergebnisinhalte sowohl a
 
 Wenn Benutzer auf Ihren SharePoint-Websites nach Inhalten suchen, hängen ihre Suchergebnisse vom Inhalt Ihres Suchindex ab. Der Suchindex enthält Informationen aus allen Dokumenten und Seiten auf Ihrer Website und wird mithilfe der Durchforstung der Inhalte auf Ihrer SharePoint-Website erstellt. Das Suchschema erleichtert dem Crawler die Entscheidung, welche Inhalte und Metadaten erfasst und wie diese indiziert werden sollen. Durch eine Änderung des Suchschemas können Sie Ihren Benutzern eine angepasste Suche bieten. Erfahren Sie mehr über das [Verwalten des Suchschemas in SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).
   
-## <a name="on-hover-preview"></a>Auf-Hover-Vorschau
+## <a name="on-hover-preview"></a>Vorschau auf dem Hover
 <a name="bkmk_Quickpreview"> </a>
 
 Benutzer können mit dem Mauszeiger auf ein Suchergebnis zeigen, um eine Vorschau anzuzeigen und mit dem Dokument- oder Websiteinhalt im Hoverfenster rechts neben dem Ergebnis zu arbeiten. Die Vorschau enthält Rich-Metadaten und verfügt über Deep-Links zu den Hauptabschnitten des Dokuments oder der Website. Hier finden Sie weitere [Tipps zum Suchen](https://go.microsoft.com/fwlink/p/?LinkId=286614).

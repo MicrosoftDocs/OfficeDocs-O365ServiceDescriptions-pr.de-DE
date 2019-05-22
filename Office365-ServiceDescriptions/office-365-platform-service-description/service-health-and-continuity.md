@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/25/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-health
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und herausfinden, wann Wartungsarbeiten geplant sind. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
-ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+description: Microsoft Office 365 Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
+ms.openlocfilehash: 6dfafb853035636326266cf2bd4fba97bdc499ee
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368388"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343154"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
-Microsoft Office 365-Administratoren können den Status von Diensten anzeigen und herausfinden, wann Wartungsarbeiten geplant sind. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
+Microsoft Office 365 Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
   
 > [!NOTE]
 > Bei Verwendung von Office 365, betrieben von 21Vianet, treffen einige unten aufgeführten Informationen möglicherweise nicht zu. Lesen Sie stattdessen die [Vereinbarung zum Servicelevel von 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
@@ -41,9 +41,9 @@ Es gibt zwei Arten von Benachrichtigungen über Zeiten, zu denen Dienste möglic
     
 - **Ungeplante Ausfallzeit:** Ungeplante Dienstincidents treten auf, wenn einer der Dienste in der Office 365-Suite nicht verfügbar ist oder nicht mehr reagiert. 
 
-### <a name="recent-worldwide-uptimes"></a>Aktuelle weltweite UpTimes
+### <a name="recent-worldwide-uptimes"></a>Aktuelle weltweiten UpTimes
 
-Wenn Sie zu einem clouddienst wechseln, sollten Sie nicht wissen, was passiert. Mit Office 365 ist dies nicht der Fall. Wir wollen transparent sein, damit Sie den Status Ihres Diensts überwachen, Probleme nachverfolgen und einen historischen Überblick über die Verfügbarkeit haben. Die folgenden Tabellen zeigen die neuesten Daten zur weltweiten Verfügbarkeit.
+Das Wechseln zu einem clouddienst sollte nicht bedeuten, die Möglichkeit zu verlieren, zu wissen, was vor sich geht. Bei Office 365 ist dies nicht der Fall. Unser Ziel ist es, in unseren Geschäftsabläufen transparent zu sein, damit Sie den Status Ihres Diensts überwachen, Probleme nachverfolgen und die Verfügbarkeit historisch betrachten können. In den folgenden Tabellen sind die letzten weltweiten Uptime-Daten aufgeführt.
 
 <br/>
 

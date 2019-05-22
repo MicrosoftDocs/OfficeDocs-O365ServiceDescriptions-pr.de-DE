@@ -3,7 +3,7 @@ title: Entwickler
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,37 +14,32 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
-description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden Features unterstützen Entwickler beim Entwickeln von Apps und Lösungen zur Erweiterung der Funktionalität von SharePoint.
-ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden Features unterstützen Entwickler beim Entwickeln von Apps und Lösungen zur Erweiterung der Funktionalität von SharePoint.
+ms.openlocfilehash: c1b9bd6e86b14d8328edabc0ebf1d81fb592fb21
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246721"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342514"
 ---
 # <a name="developer"></a>Entwickler
 
-SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden Features unterstützen Entwickler beim Entwickeln von Apps und Lösungen zur Erweiterung der Funktionalität von SharePoint.
-  
-## <a name="access-services"></a>Zugriff auf Dienste
-<a name="bkmk_AccessServices"> </a>
-
-Erstellen Sie Webdatenbanken, und veröffentlichen Sie diese auf einer SharePoint-Website. SharePoint-Besucher können Ihre Datenbankanwendung in einem Webbrowser verwenden, wobei über SharePoint-Berechtigungen festgelegt wird, wem welche Informationen angezeigt werden. Darüber hinaus steht eine Vorlage zur Verfügung, sodass Sie unverzüglich mit der Zusammenarbeit beginnen können. Erfahren Sie mehr über das [Erstellen und Veröffentlichen einer Access-Datenbank in SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=393754).
+SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden Features unterstützen Entwickler beim Entwickeln von Apps und Lösungen zur Erweiterung der Funktionalität von SharePoint.
   
 ## <a name="app-catalog-sharepoint"></a>App Catalog (SharePoint)
 <a name="bkmk_AppCatalogSharePoint"> </a>
 
-Wenn Sie Ihre Apps in einem internen Unternehmenskatalog veröffentlichen, der in Ihrer SharePoint-Bereitstellung gehostet wird, machen Sie sie für Benutzer verfügbar, die auf diese SharePoint-Bereitstellung zugreifen können. Weitere Informationen finden Sie unter [Veröffentlichen von Apps für Office und SharePoint](https://go.microsoft.com/fwlink/?LinkId=271276).
+Wenn Sie Ihre Apps in einem internen Unternehmenskatalog veröffentlichen, der in Ihrer SharePoint-Bereitstellung gehostet wird, machen Sie sie für Benutzer verfügbar, die auf diese SharePoint-Bereitstellung zugreifen können. Weitere Informationen finden Sie unter [Veröffentlichen von Apps für Office und SharePoint](https://docs.microsoft.com/office/dev/store/submit-to-the-office-store).
   
 ## <a name="app-deployment-cloud-hosted-apps"></a>App Deployment: Cloud-Hosted Apps
 <a name="bkmk_AppDeploymentCloudHostedApps"> </a>
 
-In der Cloud gehostete Apps für SharePoint umfassen mindestens eine Remotekomponente und können auch in SharePoint gehostete Komponenten umfassen. Weitere Informationen finden Sie unter [Hostingoptionen für Apps für SharePoint](https://go.microsoft.com/fwlink/?LinkId=271277). 
+In der Cloud gehostete Apps für SharePoint umfassen mindestens eine Remotekomponente und können auch in SharePoint gehostete Komponenten umfassen. Weitere Informationen finden Sie unter [Hostingoptionen für Apps für SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in). 
   
 ## <a name="app-deployment-sharepoint-hosted-apps"></a>App Deployment: SharePoint-Hosted Apps
 <a name="bkmk_AppDeploymentSharePointHostedApps"> </a>
 
-Mithilfe von in SharePoint gehosteten Apps können Sie allgemeine SharePoint-Artefakte wie Listen und Webparts erneut verwenden. Bei diesem Ansatz können Sie nur JavaScript und keinen serverseitigen Code verwenden. Weitere Informationen finden Sie unter [Hostingoptionen für Apps für SharePoint](https://go.microsoft.com/fwlink/?LinkId=271277).
+Mithilfe von in SharePoint gehosteten Apps können Sie allgemeine SharePoint-Artefakte wie Listen und Webparts erneut verwenden. Bei diesem Ansatz können Sie nur JavaScript und keinen serverseitigen Code verwenden. Weitere Informationen finden Sie unter [Hostingoptionen für Apps für SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in).
   
 ## <a name="app-management-services"></a>App Management Services
 <a name="bkmk_AppManagementServices"> </a>
@@ -54,17 +49,17 @@ Die Datenbank des App-Verwaltungsdiensts speichert Lizenzinformationen sämtlich
 ## <a name="bcs-app-scoped-external-content-types-ects"></a>BCS: App Scoped External Content Types (ECTs)
 <a name="bkmk_AppScopedExternalContentTypes"> </a>
 
-Mit dem neuen App-Modell in SharePoint können Business Connectivity Services (BCS) jetzt externe Inhaltstypen auf App-Ebene und nicht auf Farmebene Bereich. Dadurch erhält der App-Entwickler eine große Flexibilität, da er es Ihnen ermöglicht, externe Daten in ihren apps zu verwenden. Weitere Informationen finden Sie unter [Externe Inhaltstypen auf App-Ebene](https://go.microsoft.com/fwlink/?LinkId=271279).
+Durch das Hinzufügen des neuen App-Modells in SharePoint können Business Connectivity Services (BCS) nun externe Inhaltstypen auf App-Ebene anstatt auf Farmebene bereichern. Dies gibt großen Spielraum für App-Entwickler, da externe Daten in ihren apps verwendet werden können. Weitere Informationen finden Sie unter [Externe Inhaltstypen auf App-Ebene](https://docs.microsoft.com/sharepoint/dev/general-development/add-in-scoped-external-content-types-in-sharepoint).
   
-## <a name="bcs-business-data-web-parts"></a>BCS: GeschäftsdatenwebParts
+## <a name="bcs-business-data-web-parts"></a>BCS: Geschäftsdaten-Webparts
 <a name="bkmk_BCSBusinessDataWebparts"> </a>
 
-GeschäftsdatenwebParts sind spezielle Webparts, die mit externen Daten arbeiten. Sie werden wie standardmäßige SharePoint-Webparts verwendet, basieren jedoch auf externen Inhaltstypen, die XML-Beschreibungen der Verbindungen mit den externen Daten darstellen. 
+Geschäftsdaten-Webparts sind spezielle Webparts, die mit externen Daten arbeiten. Sie werden wie standardmäßige SharePoint-Webparts verwendet, basieren jedoch auf externen Inhaltstypen, bei denen es sich um XML-Beschreibungen der Verbindungen mit den externen Daten handelt. 
   
 ## <a name="bcs-external-list"></a>BCS: External List
 <a name="bkmk_BCSExternalList"> </a>
 
-Eine externe Liste ist eine spezielle SharePoint-Liste, die Daten aus einer externen Datenquelle anzeigt. Sie basiert auf einem externen Inhaltstyp, der die Datenquelle beschreibt, und ermöglicht Benutzern das Arbeiten mit Daten über eine gewohnte SharePoint-Benutzeroberfläche. Weitere Informationen finden Sie unter [Externe Inhaltstypen](https://go.microsoft.com/fwlink/p/?LinkId=290806). 
+Eine externe Liste ist eine spezielle SharePoint-Liste, die Daten aus einer externen Datenquelle anzeigt. Sie basiert auf einem externen Inhaltstyp, der die Datenquelle beschreibt, und ermöglicht Benutzern das Arbeiten mit Daten über eine gewohnte SharePoint-Benutzeroberfläche. Weitere Informationen finden Sie unter [Externe Inhaltstypen](https://docs.microsoft.com/SharePoint/administration/deploy-an-on-premises-solution). 
   
 ## <a name="bcs-odata-connector"></a>BCS: OData connector
 <a name="bkmk_OdataConnector"> </a>
@@ -74,12 +69,12 @@ Der OData-Connector ist neu in SharePoint. Er ermöglicht Business Connectivity 
 ## <a name="bcs-rich-client-integration"></a>BCS: Rich Client Integration
 <a name="bkmk_BCSRichClientIntegration"> </a>
 
-Nicht verfügbar für SharePoint Online-Kunden. Business Connectivity Services (BCS) verwendet einen zusätzlichen Client sowie serverseitige Architektur, sodass Office-Clients wie Outlook und Excel direkt mit externen Daten arbeiten können, die über externe Inhaltstypen in SharePoint verfügbar gemacht wurden. Weitere Informationen finden Sie unter [Business Connectivity Services-Clientlaufzeit](https://go.microsoft.com/fwlink/?LinkId=271280).
+Nicht verfügbar für SharePoint Online-Kunden. Business Connectivity Services (BCS) verwendet einen zusätzlichen Client sowie serverseitige Architektur, sodass Office-Clients wie Outlook und Excel direkt mit externen Daten arbeiten können, die über externe Inhaltstypen in SharePoint verfügbar gemacht wurden. Weitere Informationen finden Sie unter [Business Connectivity Services-Clientlaufzeit](https://docs.microsoft.com/previous-versions/office/developer/sharepoint-2010/ee559310(v=office.14)).
   
 ## <a name="client-object-model-om"></a>Client Object Model (OM)
 <a name="bkmk_ClientObjectModel"> </a>
 
-SharePoint 2013 bietet drei Clientobjektmodelle für verwalteten Code: .NET, Silverlight und mobil. Darüber hinaus enthält SharePoint ein JavaScript-Clientobjektmodell. Weitere Informationen finden Sie unter [Auswählen des richtigen API-Satzes in SharePoint-2013](https://go.microsoft.com/fwlink/?LinkId=271282).
+SharePoint 2013 bietet drei Clientobjektmodelle für verwalteten Code: .NET, Silverlight und mobil. Darüber hinaus enthält SharePoint ein JavaScript-Clientobjektmodell. Weitere Informationen finden Sie unter [Auswählen des richtigen API-Satzes in SharePoint-2013](https://docs.microsoft.com/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint).
   
 ## <a name="custom-site-provisioning-page"></a>Seite zur Bereitstellung von benutzerdefinierten Websites
 <a name="bkmk_CustomSiteProvisioning"> </a>
@@ -89,47 +84,42 @@ Nicht verfügbar für SharePoint Online-Kunden. SharePoint Server 2013-Kunden k�
 ## <a name="developer-site"></a>Entwicklerwebsite
 <a name="bkmk_DeveloperSite"> </a>
 
-Nutzen Sie eine Office 365-Entwicklerwebsite als Entwicklungs- und Testumgebung, um somit Ihre Setupzeit zu verkürzen und mit dem Erstellen, Testen und Bereitstellen Ihrer Apps für SharePoint zu beginnen. Weitere Informationen finden Sie unter [Anmelden für eine Office 365-Entwicklerwebsite](https://go.microsoft.com/fwlink/?LinkId=271286).
+Nutzen Sie eine Office 365-Entwicklerwebsite als Entwicklungs- und Testumgebung, um somit Ihre Setupzeit zu verkürzen und mit dem Erstellen, Testen und Bereitstellen Ihrer Apps für SharePoint zu beginnen. Weitere Informationen finden Sie unter [Anmelden für eine Office 365-Entwicklerwebsite](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription).
   
 ## <a name="forms-based-applications"></a>Forms Based Applications
 <a name="bkmk_FormsBasedApplications"> </a>
 
-Eine Formularansicht ist eine Ansicht, die Steuerelemente enthält. Eine formularbasierte Anwendung ermöglicht dem Benutzer das Verwenden einer oder mehrerer Formulare innerhalb einer Anwendung. Weitere Informationen finden Sie unter [Formularbasierte Anwendungen](https://go.microsoft.com/fwlink/?LinkId=271572).
+Eine Formularansicht ist eine Ansicht, die Steuerelemente enthält. Eine formularbasierte Anwendung ermöglicht dem Benutzer das Verwenden einer oder mehrerer Formulare innerhalb einer Anwendung. Weitere Informationen finden Sie unter [Formularbasierte Anwendungen](https://docs.microsoft.com/previous-versions/visualstudio/visual-studio-6.0/aa733955(v=vs.60)).
   
 ## <a name="full-trust-solutions"></a>Full-Trust Solutions
 <a name="bkmk_FullTrustSolutions"> </a>
 
-Nicht verfügbar für SharePoint Online-Kunden. SharePoint Server 2013-Kunden können voll vertrauenswürdige Lösungen erstellen. Diese Lösungen werden auch als Farmlösungen bezeichnet. Im Gegensatz zu Apps für SharePoint enthalten Farmlösungen Code, der auf SharePoint-Servern bereitgestellt wird und Aufrufe des SharePoint-Serverobjektmodells ausführen kann. Diese Assemblys werden immer mit voller Vertrauenswürdigkeit ausgeführt. Farmlösungen sollten für Anpassungen von SharePoint-Verwaltungsfunktionen wie benutzerdefinierte Zeitgeberaufträge, benutzerdefinierte Windows PowerShell-Cmdlets und Erweiterungen der Zentralverwaltung verwendet werden. Weitere Informationen finden Sie unter [Erstellen von Farmlösungen in SharePoint 2013](https://go.microsoft.com/fwlink/?LinkId=271287).
+Nicht verfügbar für SharePoint Online-Kunden. SharePoint Server 2013-Kunden können voll vertrauenswürdige Lösungen erstellen. Diese Lösungen werden auch als Farmlösungen bezeichnet. Im Gegensatz zu Apps für SharePoint enthalten Farmlösungen Code, der auf SharePoint-Servern bereitgestellt wird und Aufrufe des SharePoint-Serverobjektmodells ausführen kann. Diese Assemblys werden immer mit voller Vertrauenswürdigkeit ausgeführt. Farmlösungen sollten für Anpassungen von SharePoint-Verwaltungsfunktionen wie benutzerdefinierte Zeitgeberaufträge, benutzerdefinierte Windows PowerShell-Cmdlets und Erweiterungen der Zentralverwaltung verwendet werden. Weitere Informationen finden Sie unter [Erstellen von Farmlösungen in SharePoint 2013](https://docs.microsoft.com/sharepoint/dev/general-development/build-farm-solutions-in-sharepoint).
   
 ## <a name="infopath-forms-services"></a>InfoPath Forms Services
 <a name="bkmk_InfoPathFormsServices"> </a>
 
-Auf der Grundlage von InfoPath-Vorlagen können Benutzer mithilfe von Forms Service in SharePoint Formulare in einem Webbrowser ausfüllen. Weitere Informationen finden Sie unter [InfoPath Forms Services](https://go.microsoft.com/fwlink/?LinkId=271288)
+Auf der Grundlage von InfoPath-Vorlagen können Benutzer mithilfe von Forms Service in SharePoint Formulare in einem Webbrowser ausfüllen. Weitere Informationen finden Sie unter [InfoPath Forms Services](https://docs.microsoft.com/previous-versions/office/developer/sharepoint-2007/ms540731(v=office.12))
   
 ## <a name="javascript-object-model"></a>JavaScript-Objektmodell
 <a name="bkmk_JavaScriptObjectModel"> </a>
 
-SharePoint bietet ein JavaScript-Objektmodell zur Verwendung in Inlineskripts oder in gesonderten JS-Dateien. Es umfasst die gleiche Funktionalität wie die Clientobjektmodelle von .NET Framework und Silverlight. Das JavaScript-Objektmodell ist nützlich, um benutzerdefinierten SharePoint-Code in eine App einzuschließen. Zudem können Webentwickler ihre vorhandenen JavaScript-Kenntnisse für die Erstellung von SharePoint-Anwendungen mit einer minimalen Lernkurve nutzen. Weitere Informationen finden Sie unter [JavaScript-API-Verweis für SharePoint 2013](https://go.microsoft.com/fwlink/?LinkId=271289).
+SharePoint bietet ein JavaScript-Objektmodell zur Verwendung in Inlineskripts oder in gesonderten JS-Dateien. Es umfasst die gleiche Funktionalität wie die Clientobjektmodelle von .NET Framework und Silverlight. Das JavaScript-Objektmodell ist nützlich, um benutzerdefinierten SharePoint-Code in eine App einzuschließen. Zudem können Webentwickler ihre vorhandenen JavaScript-Kenntnisse für die Erstellung von SharePoint-Anwendungen mit einer minimalen Lernkurve nutzen. Weitere Informationen finden Sie unter [JavaScript-API-Verweis für SharePoint 2013](https://docs.microsoft.com/previous-versions/office/sharepoint-visio/jj193034(v=office.15)).
   
 ## <a name="remote-event-receiver"></a>Remoteereignisempfänger
 <a name="bkmk_RemoteEventReceiver"> </a>
 
-In einer App für SharePoint können Entwickler zur Behandlung von Ereignissen Remoteereignisempfänger sowie App-Ereignisempfänger erstellen. Remoteereignisempfänger behandeln Ereignisse, die bei Elementen in Apps auftreten, z. B. einer Liste, einem Listenelement oder einer Website. Weitere Informationen finden Sie unter [Behandeln von Ereignissen in Apps für SharePoint](https://go.microsoft.com/fwlink/?LinkId=271735). 
+In einer App für SharePoint können Entwickler zur Behandlung von Ereignissen Remoteereignisempfänger sowie App-Ereignisempfänger erstellen. Remoteereignisempfänger behandeln Ereignisse, die bei Elementen in Apps auftreten, z. B. einer Liste, einem Listenelement oder einer Website. Weitere Informationen finden Sie unter [Behandeln von Ereignissen in Apps für SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/handle-events-in-sharepoint-add-ins). 
   
 ## <a name="rest-apis"></a>REST-APIs
 <a name="bkmk_RESTAPI"> </a>
 
-SharePoint 2013 bietet eine Implementierung eines REST-Webdiensts (Representational State Transfer), der CRUD-Vorgänge auf SharePoint-Listendaten über das OData-Protokoll ausführt. Verwenden Sie dieses Feature für den Zugriff auf SharePoint-Daten über Client-Technologien, die nicht JavaScript verwenden und nicht auf den Plattformen .NET Framework oder Microsoft Silverlight basieren. Weitere Informationen finden Sie unter [Programmierung unter Verwendung des SharePoint 2013-REST-Diensts](https://go.microsoft.com/fwlink/?LinkId=271290).
-  
-## <a name="sandboxed-solutions"></a>Sandboxed Solutions
-<a name="bkmk_SandboxedSolutions"> </a>
-
-Mithilfe einer Sandkastenlösung können Websitesammlungsadministratoren, im Gegensatz zu einer Farmlösung, benutzerdefinierte Lösungen in SharePoint Foundation 2013 ohne das Eingreifen eines höherrangigen Administrators installieren. Weitere Informationen finden Sie unter [Sandkastenlösungen](https://go.microsoft.com/fwlink/?LinkId=271291).
+SharePoint 2013 bietet eine Implementierung eines REST-Webdiensts (Representational State Transfer), der CRUD-Vorgänge auf SharePoint-Listendaten über das OData-Protokoll ausführt. Verwenden Sie dieses Feature für den Zugriff auf SharePoint-Daten über Client-Technologien, die nicht JavaScript verwenden und nicht auf den Plattformen .NET Framework oder Microsoft Silverlight basieren. Weitere Informationen finden Sie unter [Programmierung unter Verwendung des SharePoint 2013-REST-Diensts](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/use-odata-query-operations-in-sharepoint-rest-requests).
   
 ## <a name="sharepoint-design-manager"></a>SharePoint Design Manager
 <a name="bkmk_SharePointDesignerManager"> </a>
 
-Der Entwurfs-Manager ermöglicht eine schrittweise Herangehensweise für das Erstellen von Designobjekten, die Sie für das Branding von Websites verwenden können. Laden Sie zunächst die Designobjekte hoch (Bilder, HTML, CSS usw.), und erstellen Sie dann Ihre Masterseiten und Seitenlayouts. Weitere Informationen finden Sie unter [Websiteentwicklung in SharePoint 2013](https://go.microsoft.com/fwlink/?LinkId=271293).
+Der Entwurfs-Manager ermöglicht eine schrittweise Herangehensweise für das Erstellen von Designobjekten, die Sie für das Branding von Websites verwenden können. Laden Sie zunächst die Designobjekte hoch (Bilder, HTML, CSS usw.), und erstellen Sie dann Ihre Masterseiten und Seitenlayouts. Weitere Informationen finden Sie unter [Websiteentwicklung in SharePoint 2013](https://docs.microsoft.com/sharepoint/dev/general-development/what-s-new-with-sharepoint-site-development).
   
 ## <a name="sharepoint-designer-2013"></a>SharePoint Designer 2013
 <a name="bkmk_SharePointDesigner"> </a>
@@ -139,7 +129,7 @@ SharePoint Designer hilft erfahrenen Benutzern und Entwicklern gleichermaßen, u
 ## <a name="sharepoint-framework"></a>SharePoint Framework
 <a name="bkmk_SharePointFramework"> </a>
 
-Das SharePoint Framework (SPFx) ist ein Seiten- und Webpart-Modell, das vollständige Unterstützung für die clientseitige SharePoint-Entwicklung, einfache Integration in SharePoint-Daten und Unterstützung für Open-Source-Tools bietet. Erfahren Sie mehr über das [SharePoint-Framework](https://go.microsoft.com/fwlink/?linkid=869276).
+Das SharePoint Framework (SPFx) ist ein Seiten- und Webpart-Modell, das vollständige Unterstützung für die clientseitige SharePoint-Entwicklung, einfache Integration in SharePoint-Daten und Unterstützung für Open-Source-Tools bietet. Erfahren Sie mehr über das [SharePoint-Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview).
   
 ## <a name="sharepoint-2010-workflows-out-of-the-box"></a>SharePoint 2010-Workflows (sofort einsetzbar)
 <a name="bkmk_Worflow2010outofthebox"> </a>
@@ -149,7 +139,7 @@ Verwenden Sie in SharePoint enthaltene, sofort einsetzbare Workflows zum Modelli
 ## <a name="sharepoint-2013-and-sharepoint-2016-workflows"></a>SharePoint 2013- und SharePoint 2016-Workflows
 <a name="bkmk_Workflow2013"> </a>
 
-SharePoint 2013 und SharePoint 2016-Workflows werden von Windows Workflow Foundation 4 (WF) unterstützt, das von früheren Versionen deutlich neu entworfen wurde. Das vielleicht bekannteste Feature der neuen Workflowinfrastruktur ist die Einführung von Azure als Workflow Execution Host. Erfahren Sie mehr über [die neuen Funktionen in Workflows für SharePoint](https://go.microsoft.com/fwlink/?LinkId=271297).
+SharePoint 2013-und SharePoint 2016-Workflows werden von Windows Workflow Foundation 4 (WF) angetrieben, das in früheren Versionen erheblich neu gestaltet wurde. Das vielleicht bekannteste Feature der neuen Workflowinfrastruktur ist die Einführung von Azure als Host für die Workflowausführung. Erfahren Sie mehr über Neuigkeiten [in Workflows für SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/what-s-new-in-workflows-for-sharepoint).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 <a name="bkmk_Workflow2013"> </a>

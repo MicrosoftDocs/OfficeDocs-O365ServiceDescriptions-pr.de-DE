@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-plan-options
@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
-ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 0f5a871552d9709e381ea795e196a00461f08f6b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247231"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343294"
 ---
 # <a name="office-365-plan-options"></a>Optionen zum Office 365-Plan
 
@@ -66,7 +66,7 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 |Microsoft Kaizala<sup>17</sup> <br/> |Ja <br/> |Nein  <br/> |Ja <br/> |Ja <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> |
    
 > <sup>1</sup> Project Online ist nicht enthalten, kann jedoch als separater Add-On-Dienst erworben oder kostenlos dem Office 365 Education-Plan hinzugefügt werden.  
-<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und die unterSTÜTZTen IRM-Funktionen (Information Rights Management) aktivieren. Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. 
+<br/><sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. 
 <br/><sup>3</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> Office 365 Enterprise E5 enthält Telefon System-, Audiokonferenz-und Anruf Plan Funktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). 
 <br/><sup>5</sup> Umfasst 2 GB Speicher. Umfasst keine Desktopsynchronisierungsfunktionalität. 
 <br/><sup>6</sup> Umfasst Exchange Online-Plan 1. 
@@ -75,9 +75,9 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 <br/><sup>9</sup> Umfasst Exchange Online Kiosk. 
 <br/><sup>10</sup> Enthält Skype for Business Online-Plan 2 mit Einschränkungen für Basisclients. > <br/><sup>11</sup> Enthält Skype for Business Online-Plan 2 ohne Clienteinschränkungen. > <br/><sup>12</sup> Umfasst Skype for Business Online Plan 1 sowie zusätzliche Features. > <br/><sup>13</sup> Enthält Skype for Business Online-Plan 2 mit Sprachunterstützung und ohne Clienteinschränkungen.  
 <br/><sup>14</sup> Umfasst Skype for Business Online Plan 1. 
-<br><sup>15</sup> Microsoft Teams ist jetzt der primäre Client für Messaging, Besprechungen und Anrufe in Office 365. Ab dem 1. Okt. 2018 werden neue Office 365-Kunden mit 500 sitzen oder weniger in Microsoft Teams integriert und haben keinen Zugriff auf Skype for Business Online. Mandanten, die Skype for Business Online bereits verwenden, können so lange fortfahren (einschließlich der Bereitstellungneuer Benutzer), bis Sie den Übergang zu Microsoft Teams abgeschlossen haben.
-<br><sup>16</sup> umfasst erweiterte Compliance, die erweiterte Datensteuerung, erweiterte EDiscovery, Kunden-Lockbox, Kundenschlüssel, privilegierte Zugriffsverwaltung und langfristige Überwachungsprotokoll-Aufbewahrungsfunktionen bietet.
-<br><sup>17</sup> ab Mai 2019 werden vorhandene SKUs von Office 365 und Microsoft 365 mit Kaizala pro wieder aufgenommen. Ab dem 1. Juni 2019 ist Kaizala pro in allen berechtigten Office 365-und Microsoft 365-SKUs enthalten. 
+<br><sup>15</sup> Microsoft Teams ist jetzt der primäre Client für Messaging, Besprechungen und Anrufe in Office 365. Ab dem 1. Oktober 2018 werden neue Office 365 Kunden mit 500 oder weniger Personen in Microsoft Teams integriert und haben keinen Zugriff auf Skype for Business Online. Mandanten, die bereits Skype for Business Online verwenden, können dies fortsetzen (einschließlich der Bereitstellungneuer Benutzer), bis Sie den Übergang zu Microsoft Teams abgeschlossen haben.
+<br><sup>16</sup> umfasst erweiterte Kompatibilität, die die erweiterte Datensteuerung, erweiterte eDiscovery, Kunden-Lockbox, Kundenschlüssel, privilegierte Zugriffsverwaltung und langfristige Überwachungsprotokoll-Aufbewahrungsfunktionen bereitstellt.
+<br><sup>17</sup> ab Mai 2019 werden die vorhandenen berechtigten SKUs von Office 365 und Microsoft 365 mit Kaizala pro wieder gefüllt. Ab dem 1. Juni 2019 wird Kaizala pro in allen berechtigten Office 365 und Microsoft 365-SKUs enthalten sein. 
   
 #### <a name="basic-client-limitations"></a>Einschränkungen für Basisclients
 

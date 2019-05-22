@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Verwenden Sie OneNote Online (früher OneNote Web App), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von einem beliebigen Ort aus hinzufügen und problemlos für andere freigeben können. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten.
-ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Verwenden Sie OneNote Online (ehemals OneNote-Webanwendung), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von überall aus hinzufügen und einfach für andere freigeben können. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten.
+ms.openlocfilehash: cf0e1ceec9577d84402ae6106b6a3561c9aa628c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247181"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343754"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
-Verwenden Sie OneNote Online (früher OneNote Web App), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von einem beliebigen Ort aus hinzufügen und problemlos für andere freigeben können. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten. 
+Verwenden Sie OneNote Online (ehemals OneNote-Webanwendung), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von überall aus hinzufügen und einfach für andere freigeben können. Alle Office 365-Kunden können Office-Dateien mithilfe von Office Online anzeigen und geringfügig bearbeiten. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 <a name="bkmk_AdvancedCollaboration"> </a>
@@ -124,8 +124,8 @@ Mit OneNote Online können Sie die browserähnlichen Schaltflächen zum Zurück-
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Notebook management: Cross section/notebook page filing, section re-order, create/delete section groups
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-Mit OneNote Online können Sie Seiten und Abschnitte per Drag & Drop neu anordnen.  
-Erweiterte Verwaltungsfunktionen wie das Erstellen, löschen und erneute Sortieren von Abschnittsgruppen sind nur in der OneNote-Desktop-App verfügbar.
+Mit OneNote Online können Sie Seiten und Abschnitte durch Ziehen und ablegen neu anordnen.  
+Erweiterte Verwaltungsfeatures wie das Erstellen, löschen und erneute Sortieren von Abschnittsgruppen stehen nur in der OneNote-Desktop-App zur Verfügung.
   
 ## <a name="offline-viewing-and-authoring"></a>Offlineansicht und -erstellung
 <a name="bkmk_Offlineviewing"> </a>

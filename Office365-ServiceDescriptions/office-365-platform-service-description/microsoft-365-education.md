@@ -3,19 +3,19 @@ title: Microsoft 365 Education
 ms.author: sharik
 author: skjerland
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel.
-ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247251"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343604"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 

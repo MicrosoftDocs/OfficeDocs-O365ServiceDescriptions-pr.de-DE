@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-08-2019"></a>Woche vom 08. April 2019
-
-
-| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
-|------|------------|--------|
-| 10.04.2019 | [Microsoft 365 Business – Dienstbeschreibung](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Geändert |
-| 10.04.2019 | [Optionen zum Office 365-Plan](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-plan-options) | Geändert |
-| 10.04.2019 | [Office 365-Plattformdienstbeschreibung](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Geändert |
-| 10.04.2019 | [Office 365 Suite Features](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-suite-features) | Geändert |
-| 10.04.2019 | [Benutzerkontenverwaltung](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | Geändert |
-| 4/11/2019 | [Office 365 US Government](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | Geändert |
-| 4/11/2019 | [Messagingrichtlinie und -kompatibilität](/Office365/ServiceDescriptions/exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc) | Geändert |
-| 4/11/2019 | [Clients und mobile Geräte](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | Geändert |
-| 4/11/2019 | [Compliance](/Office365/ServiceDescriptions/office-365-platform-service-description/compliance-servicedesc) | Geändert |
-| 4/11/2019 | [Microsoft 365 Education](/Office365/ServiceDescriptions/office-365-platform-service-description/microsoft-365-education) | Geändert |
-| 4/11/2019 | [Datenschutz, Sicherheit und Transparenz](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | Geändert |
-| 4/11/2019 | [Dienstupdates](/Office365/ServiceDescriptions/office-365-platform-service-description/service-updates) | Geändert |
-| 4/11/2019 | [IT-Experte](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | Geändert |
-| 4/11/2019 | [Websites](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | Geändert |
-| 4/11/2019 | [Archivfunktionen in der Exchange Online-Archivierung](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | Geändert |
-| 4/11/2019 | [Office 365 Security & Compliance Center](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Geändert |
-| 4/11/2019 | [Skype for Business Online-Dienstbeschreibung](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | Geändert |
-
-
 ## <a name="week-of-april-15-2019"></a>Woche vom 15. April 2019
 
 
@@ -35,7 +11,7 @@
 | 4/18/2019 | [Clients und mobile Geräte](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | Geändert |
 | 4/18/2019 | [Exchange Online-Begrenzungen](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Geändert |
 | 4/18/2019 | [Dienstbeschreibung zu Office-Anwendungen](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Geändert |
-| 4/18/2019 | [Content](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | Geändert |
+| 4/18/2019 | [Inhalt](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | Geändert |
 
 
 ## <a name="week-of-april-22-2019"></a>Woche vom 22. April 2019
@@ -50,7 +26,7 @@
 | 4/26/2019 | [SharePoint Online-Beschränkungen](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Geändert |
 
 
-## <a name="week-of-april-29-2019"></a>Woche vom 2019
+## <a name="week-of-april-29-2019"></a>Woche vom 29. April 2019
 
 
 | Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
@@ -74,7 +50,7 @@
 | 5/3/2019 | [Project Online-Dienstbeschreibung](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | Geändert |
 
 
-## <a name="week-of-may-06-2019"></a>Woche vom 2019
+## <a name="week-of-may-06-2019"></a>Woche vom 06. Mai 2019
 
 
 | Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
@@ -84,3 +60,15 @@
 | 5/7/2019 | [Exchange Online-Dienstbeschreibung](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | Geändert |
 | 5/7/2019 | [Support](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | Geändert |
 | 5/7/2019 | [Office Online-Dienstbeschreibung](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Geändert |
+
+
+## <a name="week-of-may-13-2019"></a>Woche vom 13. Mai 2019
+
+
+| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
+|------|------------|--------|
+| 5/13/2019 | [Project Online-Dienstbeschreibung](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | Geändert |
+| 5/13/2019 | [Microsoft 365 Business – Dienstbeschreibung](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Geändert |
+| 5/13/2019 | [Dienstbeschreibung zu Office-Anwendungen](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Geändert |
+| 5/15/2019 | [OneDrive for Business – Dienstbeschreibung](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | Geändert |
+| 5/17/2019 | [Dienstbeschreibung zu Office-Anwendungen](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Geändert |

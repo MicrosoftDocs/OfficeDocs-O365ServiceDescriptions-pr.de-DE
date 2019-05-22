@@ -4,23 +4,23 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 12/21/2016
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Die folgenden Funktionen der Kerndienste sind in Project online verfügbar.
-ms.openlocfilehash: 0350da9aefb51341ea3c1e871840a72bbe96ab05
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die folgenden Features der Kernfunktionen sind in Project online verfügbar.
+ms.openlocfilehash: 2216fb1fc2531711c7ccf26a77328d386e2c07f6
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246871"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343764"
 ---
 # <a name="core-services-functionality"></a>Hauptfunktionalitäten des Diensts
 
-Die folgenden Funktionen der Kerndienste sind in Project online verfügbar.
+Die folgenden Features der Kernfunktionen sind in Project online verfügbar.
   
 Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
   

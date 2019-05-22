@@ -4,23 +4,23 @@ ms.author: sharik
 author: skjerland
 manager: supotter
 ms.date: 10/9/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
-description: Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online-Funktionen unter Einrichten von Skype for Business Online.
-ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online Features in einrichten Skype for Business Online.
+ms.openlocfilehash: 1f1da35799df6b51147a24127e0c5778eda8022a
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246382"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342434"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
-Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online-Funktionen unter [Einrichten von Skype for Business Online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
+Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online Features in [Einrichten Skype for Business Online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
 ## <a name="clients-for-skype-for-business-online"></a>Clients für Skype for Business Online
 <a name="BKMK_Clients"> </a>

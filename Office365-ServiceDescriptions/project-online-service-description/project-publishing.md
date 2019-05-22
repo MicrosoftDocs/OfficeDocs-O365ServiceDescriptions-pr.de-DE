@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - interoperability-with-skype-for-business-and-sharepoint
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: Die folgenden SharePoint-und Skype for Business-Interoperabilitätsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: 26794c9f3564fef01443350b035b04498aacc622
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die folgenden SharePoint-und Skype for Business-Interoperabilitätsfeatures stehen in Project online zur Verfügung.
+ms.openlocfilehash: 0691390ce59d1fe1d10066687d6590f45014f254
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246711"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343694"
 ---
 # <a name="project-publishing"></a>Projektveröffentlichung
 
-Die folgenden SharePoint-und Skype for Business-Interoperabilitätsfeatures sind in Project online verfügbar.
+Die folgenden SharePoint-und Skype for Business-Interoperabilitätsfeatures stehen in Project online zur Verfügung.
   
 Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
   

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-suite-features
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und Kommunikation sicher über viele Geräte und mehrere Office 365-Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
+ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247191"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343284"
 ---
 # <a name="office-365-suite-features"></a>Office 365-Suitefeatures
 
-Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und Kommunikation sicher über viele Geräte und mehrere Office 365-Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
+Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
   
 ## <a name="microsoft-bookings"></a>Microsoft Bookings
 <a name="BKMK_Bookings"> </a>
@@ -76,7 +76,7 @@ Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organ
 
 Microsoft Sway ist eine professionelle App zum digitalen Geschichtenerzählen für Unternehmen, mit der Sie und Ihre Kollegen Ideen auf einer interaktiven, webbasierten Leinwand ausdrücken können. Dank des integrierten Designmoduls von Microsoft Sway können Sie professionelle, visuell ansprechende Berichte, Präsentationen und mehr ohne komplizierte Formatierung oder zusätzliche Schulung erstellen. Sie können die Ergebnisse auch ändern, um das gewünschte einzigartige Aussehen und Verhalten zu erzielen. Microsoft Sway lässt Ihre Präsentation in jedem Browser auf jedem Bildschirm großartig aussehen, und Sie können sie mit Kollegen und Kunden teilen, indem Sie ihnen einfach einen Link senden. Microsoft Sway hilft Ihnen beim Suchen und Sammeln aller möglichen Inhalte, ohne die App zu verlassen. Sie können Bilder, Text, Videos und Diagramme direkt auf die Leinwand ziehen und dort ablegen. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
 
 Microsoft Teams ist ein chatbasierter Arbeitsbereich in Office 365, mit dem Teammitglieder gemeinsam mehr erreichen können. Microsoft Teams dient als Hub für Teamarbeit, sofortigen Zugriff auf Chatunterhaltungen für Teams, Inhalte und Tools von Office 365 in einem einzelnen Arbeitsbereich. SharePoint und OneNote sind integriert, und Teammitglieder können Office-Dokumente direkt in der App bearbeiten. Neben Chats unterstützt Microsoft Teams auch Videoanrufe und Besprechungen, sodass Teams bei Bedarf oder geplant Livemeetings abhalten können. Teammitglieder können auf einfache Weise mit mehreren Teams zusammenarbeiten und jederzeit nach Personen suchen sowie Chats und Dateien durchsuchen. Microsoft Teams kann auf Windows-, Mac-, Web-, Android- und iOS-Plattformen verwendet werden. Weitere Informationen hierzu finden Sie in der [Onlinehilfe für Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
@@ -102,7 +102,7 @@ Das Kursnotizbuch ist Teil von OneNote und für Office 365 Education und Office 
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala ist eine einfache und sichere Mobile work Management-APP, die eine einzigartige Funktionalität für Microsoft 365 bietet, die sowohl innerhalb als auch außerhalb des Organisations Verzeichnisses eine Verbindung herstellen und einbinden kann – einschließlich Vertragsarbeiter, Lieferanten, Partner, Zulieferer, Kunden und Bürger – verwenden Sie umfangreiche und [flexible Gruppentypen](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710). Das Open Directory-Modell von Kaizala ermöglicht eine Telefonnummern basierte Identität für einfache Onboarding und eine einfache Benutzererfahrung für Messaging und Arbeitsverwaltung. Mit der mobilen Kaizala-App können Benutzer Sofortnachrichten und Anhänge wie Bilder, Dokumente, Videos, Audiodateien und mehr senden sowie Aktionskarten für Umfragen, Umfragen, Arbeitsaufträge, Ankündigungen, Schulungen und vieles mehr verwenden. [Kaizala ist in Office 365 verfügbar](https://products.office.com/en/business/microsoft-kaizala) und funktioniert auf iPhone und Android. Weitere Informationen finden Sie auf der [Kaizala-Website](https://products.office.com/en/business/microsoft-kaizala). 
+Microsoft Kaizala ist eine einfache und sichere Mobile work Management-APP, die einzigartige Funktionen für Microsoft 365 mit ihrer Fähigkeit zur Verbindung und zum Einbinden von Personen innerhalb und außerhalb des Verzeichnisses einer Organisation bietet – einschließlich Vertragsarbeitern, Kreditoren, Partner, Zulieferer, Kunden und Bürger – mit großen und [flexiblen Gruppentypen](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710). Das Open Directory-Modell von Kaizala ermöglicht Telefonnummern basierte Identität für einfaches Onboarding und eine einfache Benutzeroberfläche für Messaging und Arbeitsverwaltung. Mit dem Kaizala Mobile App können Benutzer Sofortnachrichten und Anlagen wie Bilder, Dokumente, Videos, Audiodateien und vieles mehr senden sowie Aktionskarten für Umfragen, Umfragen, Auftragszuweisungen, Ankündigungen, Schulungen und vieles mehr verwenden. [Kaizala ist mit Office 365 verfügbar](https://products.office.com/en/business/microsoft-kaizala) und funktioniert auf iPhone und Android. Weitere Informationen finden Sie auf der [Kaizala-Website](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

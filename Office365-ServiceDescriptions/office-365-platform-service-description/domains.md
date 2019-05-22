@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/10/2017
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-domains
@@ -14,13 +14,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Assistent Schritt für Schritt beim Hinzufügen von Benutzern und beim Umstellen Ihrer Office 365-E-Mail-Adressen und anderer Dienste auf den Namen des Unternehmens. Nach dem Ausführen des Assistenten gehen Ihre geschäftlichen E-Mails an Office 365 statt an Ihren aktuellen E-Mail-Anbieter. Weitere Informationen finden Sie unter Hinzufügen Ihrer Benutzer und Domänen zu Office 365. Wenn Sie Office 365, betrieben von 21Vianet, verwenden, finden Sie weitere Informationen unter Überprüfen Ihrer Domäne.
-ms.openlocfilehash: 1dc6d23afea52dd292d97b414e5b491d6d332dd7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Assistent Schritt für Schritt beim Hinzufügen von Benutzern und beim Umstellen Ihrer Office 365-E-Mail-Adressen und anderer Dienste auf den Namen des Unternehmens. Nach dem Ausführen des Assistenten gehen Ihre geschäftlichen E-Mails an Office 365 statt an Ihren aktuellen E-Mail-Anbieter. Weitere Informationen finden Sie unter Hinzufügen Ihrer Benutzer und Domänen zu Office 365. Wenn Sie Office 365 betrieben von 21Vianet verwenden, finden Sie weitere Informationen unter Überprüfen Ihrer Domäne.
+ms.openlocfilehash: febc87051ec9b4e6853cadfc43a0d0c272dd1b04
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247281"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343734"
 ---
 # <a name="domains"></a>Domänen
 
@@ -47,14 +47,14 @@ Wenn Ihre Domäne unter GoDaddy registriert ist, kann Office 365 bei GoDaddy die
   
 Unabhängig davon, wo Ihre DNS-Einträge gehostet werden, können Sie die Einträge so einrichten, dass Ihre Domäne für die URL einer auf Office 365 oder bei einem anderen Hostinganbieter gehostete öffentliche Website verwendet wird. 
   
-Office 365 überprüft Ihre DNS-Datensätze proaktiv, um DNS-Probleme zu finden und bei der Problembehebung zu helfen. Wenn Ihre DNS-Einträge nicht mit den erwarteten übereinstimmen, erhalten Sie im Microsoft 365 Admin Center eine Benachrichtigung sowie Informationen, die Ihnen mitteilen, wie Sie die identifizierten Probleme beheben können.
+Office 365 überprüft Ihre DNS-Datensätze proaktiv, um DNS-Probleme zu finden und bei der Problembehebung zu helfen. Wenn Ihre DNS-Einträge nicht mit dem übereinstimmen, was von uns erwartet wird, erhalten Sie eine Benachrichtigung im Microsoft 365 Admin Center sowie Informationen dazu, wie Sie die möglichen Probleme beheben können, die identifiziert wurden.
   
 Weitere Informationen finden Sie unter [Wie Office 365 DNS-Einträge verwaltet](https://go.microsoft.com/fwlink/p/?LinkID=270144) oder für Office 365, betrieben von 21Vianet, unter [Erstellen von DNS-Einträgen für Office 365, wenn Sie diese verwalten](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409).
   
 ## <a name="sharing-a-domain"></a>Freigeben einer Domäne
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Sie können Office 365 über einige E-Mail-Adressen für eine Domäne bei Office 365 und einige E-Mail-Adressen bei Ihrem vorherigen E-Mail-Anbieter steuern. Dies wird nur für die Verwendung während eines Pilotprojekts von Office 365 empfohlen, da es zusätzliche Setupschritte erfordert und einige Einschränkungen für Office 365-Dienste aufweist. Weitere Informationen finden Sie unter:
+Sie können Office 365 über einige E-Mail-Adressen für eine Domäne bei Office 365 und einige E-Mail-Adressen bei Ihrem vorherigen E-Mail-Anbieter steuern. Dies wird nur für die Verwendung während eines Pilotprojekts von Office 365 empfohlen, da es zusätzliche Installationsschritte erfordert und einige Einschränkungen für Office 365 Dienste aufweist. Weitere Informationen finden Sie unter:
   
 - [Testen von Office 365 für Kleinunternehmen](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

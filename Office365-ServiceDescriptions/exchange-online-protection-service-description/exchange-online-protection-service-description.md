@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthält eine Liste von Plänen, die Exchange Online Protection sowie einen Vergleich der Features in diesen Plänen bereitstellt.
-ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 22116d6771ccafe421cf1a3fc1abc87ab4af1d43
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246111"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342084"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
@@ -28,7 +28,7 @@ Microsoft Exchange Online Protection (EOP) ist ein cloudbasierter Dienst zum Fil
   
 EOP kann in erster Linie über die folgenden Methoden für den Nachrichtenschutz eingesetzt werden:
   
-- **In einem eigenständigen Szenario** EOP bietet Cloud-basierten e-Mail-Schutz für Ihre lokale Exchange Server 2013-Umgebung, Legacyversionen von Exchange Server oder für andere lokale SMTP-e-Mail-Lösungen. 
+- **In einem eigenständigen Szenario** EoP bietet Cloud-basierten e-Mail-Schutz für Ihre lokale Exchange Server 2013 Umgebung, ältere Exchange Server Versionen oder für eine andere lokale SMTP-e-Mail-Lösung. 
     
 - **Als Bestandteil von Microsoft Exchange Online** EOP schützt standardmäßig cloudgehostete Postfächer von Exchange Online. Weitere Informationen zu Exchange Online finden Sie in der [Exchange Online-Dienstbeschreibung](../exchange-online-service-description/exchange-online-service-description.md).
     
@@ -76,7 +76,7 @@ Wenn Sie über Lizenzen für Exchange Enterprise CAL mit Diensten verfügen und 
 
 EOP kann mit einem beliebigen SMTP-E-Mail-Übertragungsagent wie Microsoft Exchange Server 2013 verwendet werden. Informationen zu von EOP unterstützten Betriebssystemen, Webbrowsern und Sprachen finden Sie in den Abschnitten „Unterstützte Browser" und „Unterstützte Sprachen in EOP" unter [Exchange Admin Center in Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
   
-## <a name="limits"></a>Beschränkungen
+## <a name="limits"></a>Grenzwerte
 
 Beschränkungen in EOP finden Sie unter [Beschränkungen von Exchange Online Protection](exchange-online-protection-limits.md).
   
@@ -120,7 +120,7 @@ Jedes Funktion ist unten aufgeführt. Detailliertere Informationen zu EOP-Funkti
 > [!NOTE]
 > <sup>1</sup> E-Mail-Benutzer werden als „Postfächer" definiert und können zusammen mit externen E-Mail-Kontakten direkt in der Exchange-Verwaltungskonsole hinzugefügt, entfernt und anderweitig verwaltet werden. 
  <br/><sup>2</sup> Keine RBAC-Anpassung. Nur Administratorrollen. 
- <br/> <sup>3</sup> In der Exchange-Verwaltungskonsole können verwaltete Domänen angezeigt und Domänentypen bearbeitet werden. Alle anderen Domänen Verwaltungen müssen im Microsoft 365 Admin Center durchgeführt werden. 
+ <br/> <sup>3</sup> In der Exchange-Verwaltungskonsole können verwaltete Domänen angezeigt und Domänentypen bearbeitet werden. Alle anderen Domänen Verwaltungen müssen im Microsoft 365 Admin Center ausgeführt werden. 
  <br/><sup>4</sup> In Exchange Online und EOP sind jeweils unterschiedliche flexible Kriterien und Aktionen verfügbar. Eine Auflistung der in EOP verfügbaren Kriterien und Aktionen finden Sie unter [ Transportregelbedingungen ](https://go.microsoft.com/fwlink/p/?LinkId=320392) und [Transportregelaktionen](https://go.microsoft.com/fwlink/p/?LinkId=320393). Eine Auflistung der in Exchange Online verfügbaren Kriterien und Aktionen finden Sie unter [Transportregelkriterien](https://go.microsoft.com/fwlink/p/?LinkId=320394) und [Transportregelaktionen](https://go.microsoft.com/fwlink/p/?LinkId=320395). 
  <br/><sup>5</sup> EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern. 
  <br/> <sup>6</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar.  <br/><sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit das in lokalen Postfächern funktioniert, müssen Sie auch zwei Exchange-Transportregeln auf Ihren lokalen Servern konfigurieren, um von EOP hinzugefügte Spamkopfzeilen zu erkennen. Weitere Informationen finden Sie unter [Sicherstellen, dass Spam an die Junk-E-Mail-Ordner der einzelnen Benutzer geleitet wird](https://go.microsoft.com/fwlink/p/?LinkId=320396). 

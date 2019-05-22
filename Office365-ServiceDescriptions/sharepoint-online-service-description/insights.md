@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-insights-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
-description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Insights-Funktionen ermöglichen es Organisationen, die Informationen in Datenbanken, Berichten und Unternehmensanwendungen zu verwenden, um die spezifischen Unternehmensanforderungen zu erfüllen.
-ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Insights-Funktionen ermöglichen es Organisationen, die Informationen in Datenbanken, Berichten und Unternehmensanwendungen zu verwenden, um die spezifischen Unternehmensanforderungen zu erfüllen.
+ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246731"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342504"
 ---
 # <a name="insights"></a>Insights
 
-SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Insights-Funktionen ermöglichen es Organisationen, die Informationen in Datenbanken, Berichten und Unternehmensanwendungen zu verwenden, um die spezifischen Unternehmensanforderungen zu erfüllen.
+SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Insights-Funktionen ermöglichen es Organisationen, die Informationen in Datenbanken, Berichten und Unternehmensanwendungen zu verwenden, um die spezifischen Unternehmensanforderungen zu erfüllen.
   
 ## <a name="business-intelligence-center"></a>Business Intelligence Center
 <a name="bkmk_BusinessIntelligenceCenter"> </a>
@@ -54,7 +54,7 @@ Mit Excel Services können Sie Arbeitsmappen für andere freigeben, mit Berichte
 
 Sie können das Excel Web Access-Webpart verwenden, um Excel-Inhalte in einer SharePoint-Website anzuzeigen.
   
-## <a name="field-list-and-field-support"></a>FeldListe und Feld Unterstützung
+## <a name="field-list-and-field-support"></a>Feldlisten-und Feld Unterstützung
 <a name="bkmk_FieldlListFieldSupport"> </a>
 
 Excel Online ermöglicht es Ihnen, die Feldliste und Feldquelle für PivotChart- und PivotTable-Berichte zu öffnen, die in einem Browserfenster angezeigt werden. Diese Möglichkeit erleichtert es Ihnen, die Informationen, die in einem PivotChart- oder PivotTable-Bericht angezeigt werden, vorübergehend zu ändern, ohne Excel öffnen zu müssen. Hier finden Sie weitere Informationen zu [Business Intelligence-Funktionen in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=271029).
@@ -132,7 +132,7 @@ Benutzerdefinierte Funktionen (User-Defined Functions, UDFs) bieten Ihnen die M�
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>
 
-Visio Services ist eine Dienstanwendung, mit der Benutzer Microsoft Visio Drawing (\*.vsdx)- und Visio 2010 Web Drawing (\*.vdw)-Dateien freigeben und anzeigen können. Visio Services ist in SharePoint Online nicht mehr verfügbar. Visio Services steht weiterhin in SharePoint Server 2010, SharePoint Server 2013 und SharePoint Server 2016 zur Verfügung. Hier finden Sie weitere Informationen zu [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043).
+Visio Services ist eine Dienstanwendung, mit der Benutzer Microsoft Visio Drawing (\*.vsdx)- und Visio 2010 Web Drawing (\*.vdw)-Dateien freigeben und anzeigen können. Visio Services ist mit SharePoint Online nicht mehr verfügbar. Visio Services werden weiterhin in SharePoint Server 2010, SharePoint Server 2013 und SharePoint Server 2016 zur Verfügung stehen. Hier finden Sie weitere Informationen zu [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 <a name="bkmk_VisioServices"> </a>

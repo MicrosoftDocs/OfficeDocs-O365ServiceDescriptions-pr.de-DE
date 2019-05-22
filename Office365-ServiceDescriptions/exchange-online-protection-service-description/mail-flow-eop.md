@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - mail-flow-in-eop
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des E-Mail-Flusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Exchange Online Protection (EOP) macht das möglich und stellt cloudbasierte Antiviren- und Antispamfunktionen für E-Mails bereit. Weitere Informationen zu EOP und den entsprechenden Kaufmodalitäten finden Sie unter Exchange Online Protection.
-ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: c55d1d376d617b863a75ff609cbc3f064418746b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33244911"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341824"
 ---
 # <a name="mail-floweop"></a>E-Mail-Fluss[EOP]
 

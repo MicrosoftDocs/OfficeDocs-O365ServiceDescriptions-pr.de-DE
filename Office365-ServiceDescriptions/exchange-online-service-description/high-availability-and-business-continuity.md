@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-high-availability-and-business-continuity
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online bietet umfassende Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
-ms.openlocfilehash: 2da41ba335faa4cf18228a64fbb1b420d438e503
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft Exchange Online bietet umfangreiche Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
+ms.openlocfilehash: d9aac8e2843e085bea9aa4c1e3edc0dbb0789130
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33244901"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342884"
 ---
 # <a name="high-availability-and-business-continuity"></a>High Availability and Business Continuity
 
-Microsoft Exchange Online bietet umfassende Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
+Microsoft Exchange Online bietet umfangreiche Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
   
 ## <a name="mailbox-replication-at-data-centers"></a>Postfachreplikation in Datencentern
 
@@ -32,7 +32,7 @@ Weitere Informationen dazu, wie Microsoft Ihre Daten schützt, finden Sie im [Of
   
 ## <a name="deleted-mailbox-recovery"></a>Wiederherstellung gelöschter Postfächer
 
-Administratoren können Exchange Online-Postfächer mithilfe des Microsoft 365 admin Centers löschen, um das entsprechende Benutzerkonto zu löschen oder die Exchange Online-Lizenz zu entfernen oder das Cmdlet **Remove-Mailbox** in Windows PowerShell zu verwenden. Wenn ein Postfach gelöscht wird, werden das Postfach und sein Inhalt von Exchange Online standardmäßig 30 Tage lang aufbewahrt. Nach 30 Tagen kann das Postfach nicht wiederhergestellt werden. Ein wieder hergestelltes Postfach enthält alle Daten, die zu dem Zeitpunkt gespeichert wurden, zu dem es gelöscht wurde. Administratoren können ein gelöschtes Postfach innerhalb des Aufbewahrungszeitraums wiederherstellen, indem Sie das Microsoft 365 Admin Center verwenden. Zum Wiederherstellen eines gelöschten Postfachs müssen Administratoren das entsprechende Office 365-Benutzerkonto wiederherstellen oder dem Benutzerkonto eine Exchange Online-Lizenz zuweisen. Weitere Informationen finden Sie unter [Exchange Online-Benutzerpostfächer löschen oder wiederherstellen](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+Administratoren können Exchange Online Postfächer löschen, indem Sie das Microsoft 365 Admin Center verwenden, um das entsprechende Benutzerkonto zu löschen oder die Exchange Online Lizenz zu entfernen, oder indem Sie das Cmdlet **Remove-Mailbox** in Remote Windows PowerShell verwenden. Wenn ein Postfach gelöscht wird, behält Exchange Online das Postfach und dessen Inhalte standardmäßig 30 Tage lang bei. Nach 30 Tagen kann das Postfach nicht mehr hergestellt werden. Ein wieder hergestelltes Postfach enthält alle darin gespeicherten Daten zu dem Zeitpunkt, zu dem es gelöscht wurde. Administratoren können ein gelöschtes Postfach innerhalb des Aufbewahrungszeitraums mithilfe des Microsoft 365 Admin Center wiederherstellen. Um ein gelöschtes Postfach wiederherzustellen, müssen Administratoren das entsprechende Office 365 Benutzerkonto wiederherstellen oder dem Benutzerkonto eine Exchange Online Lizenz zuweisen. Weitere Informationen finden Sie unter [Exchange Online-Benutzerpostfächer löschen oder wiederherstellen](https://go.microsoft.com/fwlink/p/?LinkId=286992).
   
 ## <a name="deleted-item-recovery"></a>Wiederherstellung gelöschter Elemente
 

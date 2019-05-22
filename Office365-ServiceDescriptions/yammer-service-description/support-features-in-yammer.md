@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - support-features-in-yammer
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
-description: Die folgenden Supportfunktionen stehen in jammern zur Verfügung.
-ms.openlocfilehash: 7711f11c03c4c7275a120513f1f4936a07825b7d
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die folgenden Unterstützungsfunktionen stehen in "jammern" zur Verfügung.
+ms.openlocfilehash: e60dda09b20d52ad917b7e9802cd9d03b77f478f
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247351"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342174"
 ---
 # <a name="support-features-in-yammer"></a>Supportfunktionen in Yammer
 
-Die folgenden Supportfunktionen stehen in jammern zur Verfügung.
+Die folgenden Unterstützungsfunktionen stehen in "jammern" zur Verfügung.
   
 > [!IMPORTANT]
 > Yammer unterstützt nicht die Wiederherstellung gelöschter Inhalte - z. B. von externen Netzwerken, Benutzern, Nachrichten, Gruppen und Dateien - einschließlich der Inhalte, die von Netzwerkadministratoren versehentlich gelöscht wurden. > Microsoft stellt keine benutzerdefinierten und keine Ad-hoc-Berichte außerhalb der in Yammer verfügbaren Analysefeatures bereit. Gelegentlich können wir einen benutzerdefinierten Bericht im Rahmen einer Supportanfrage bereitstellen. In den meisten Fällen können wir jedoch direkten Datenanfragen nicht nachgehen. 

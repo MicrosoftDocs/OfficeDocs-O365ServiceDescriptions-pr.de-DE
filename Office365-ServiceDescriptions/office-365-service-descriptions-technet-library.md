@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 03/14/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 ist ein Cloud-basierter Dienst, der dazu dient, die Anforderungen Ihrer Organisation an robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen.
-ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft Office 365 ist ein Cloud-basierter Dienst, der die Anforderungen Ihrer Organisation an eine robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität erfüllen soll.
+ms.openlocfilehash: 54a678c962115d0c13cd96d3aa3e3f469cc33274
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246791"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343014"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365-Dienstbeschreibungen 
 
-Microsoft Office 365 ist ein Cloud-basierter Dienst, der dazu dient, die Anforderungen Ihrer Organisation an robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen. 
+Microsoft Office 365 ist ein Cloud-basierter Dienst, der die Anforderungen Ihrer Organisation an eine robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität erfüllen soll. 
   
 Die Themen in dieser Bibliothek enthalten detaillierte Beschreibungen der Dienste und Features, die in Office 365 zur Verfügung stehen. Einen Vergleich der Features in verschiedenen Plänen finden Sie unter [Vergleichen der Pläne für Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oder in der entsprechenden Dienstbeschreibung in der Liste weiter unten. 
   
@@ -33,7 +33,7 @@ Supportartikel und -informationen finden Sie unter [Support für Office](https:/
 > [!NOTE]
 > Falls Sie die Vergleichstabelle „Dienstbeschreibung" suchen, diese wurde eingestellt. Die Tabellen zur Verfügbarkeit von Produktfeatures wurden auf jeder Dienstbeschreibungsseite aktualisiert, um bessere Unterstützung bei der Wahl der Version von Office 365 zu bieten, die Ihren Bedürfnissen entspricht. 
   
-Microsoft bietet die Vorteile des Center-Supports für Office 365 für berechtigte Dienste in berechtigten Plänen. Mit dem Vorteil können Sie Remote mit Microsoft-Spezialisten arbeiten, um Ihre Office 365-Umgebung bereitzustellen. Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft bietet den Vorteil des Zentrums für Office 365 für berechtigte Dienste in berechtigten Plänen an. Der Vorteil besteht darin, dass Sie mit Microsoft-Experten Remote arbeiten können, um Ihre Office 365-Umgebung bereit zu nutzen. Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen:
   
@@ -76,5 +76,5 @@ Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen
   
 ## <a name="disclaimer"></a>Verzichtserklärung
 
-© 2018 Microsoft Corporation. Alle Rechte vorbehalten. Microsoft, Office 365 und andere Produkt-und Dienstnamen sind eingetragene Marken und/oder Marken in den USA und/oder anderen Ländern. Die hier angegebenen Informationen dienen nur zu Informationszwecken und stellen die aktuelle Ansicht der Microsoft Corporation ab dem letzten Veröffentlichungs-oder Überarbeitungsdatum dieses Dokuments dar. Es handelt sich nicht um einen Dienstvertrag, der weder Microsoft noch der Kunde an Features, Funktionen oder Verantwortlichkeiten verpflichtet, die hier erwähnt werden. MICROSOFT ÜBERNIMMT KEINE GARANTIE, AUSDRÜCKLICH, IMPLIZIT ODER GESETZLICH ZU DEN INFORMATIONEN IN DIESEM DOKUMENT. 
+© 2018 Microsoft Corporation. Alle Rechte vorbehalten. Microsoft, Office 365 und andere Produkt-und Dienstnamen sind oder können eingetragene Marken und/oder Marken in den USA und/oder anderen Ländern sein. Die hier bereitgestellten Informationen dienen nur zu Informationszwecken und stellen die aktuelle Ansicht der Microsoft Corporation ab dem aktuellen Veröffentlichungs-oder Überarbeitungsdatum dieses Dokuments dar. Es handelt sich nicht um einen Dienstvertrag und begeht weder Microsoft noch den Kunden an den hier erwähnten Features, Funktionen oder Verantwortlichkeiten. Microsoft übernimmt keine ausdrücklichen, impliziten oder gesetzlichen Garantien hinsichtlich der Informationen in diesem Dokument. 
   

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-administration-and-management
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zur Anpassung der Exchange Online-Einstellungen und der aktuellen Exchange Online-Umgebung einer Organisation verfügbar sind. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
-ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zum Anpassen Exchange Online Einstellungen und zum aufrecht erhalten der Exchange Online Umgebung eines Unternehmens eingerichtet, aktiv und aktuell verfügbar sind. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
+ms.openlocfilehash: 93eb996df011a83658aa953521a469d7822f9118
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246301"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342784"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Einrichtung und Verwaltung in Exchange Online
 
-In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zur Anpassung der Exchange Online-Einstellungen und der aktuellen Exchange Online-Umgebung einer Organisation verfügbar sind. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
+In diesem Abschnitt werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zum Anpassen Exchange Online Einstellungen und zum aufrecht erhalten der Exchange Online Umgebung eines Unternehmens eingerichtet, aktiv und aktuell verfügbar sind. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
   
 ## <a name="self-service-administration-tools"></a>Self-Service-Verwaltungstools
 
@@ -48,7 +48,7 @@ Das Microsoft Office 365-Portal, auf [https://portal.office.com](https://portal.
 ### <a name="microsoft-365-admin-center"></a>Microsoft 365 Admin Center
 <a name="BKMK_Office365admincenterl"> </a>
 
-Das Microsoft 365 Admin Center ist das Webportal, von dem der Dienstadministrator jedes Unternehmens Benutzerkonten und Einstellungen für jeden der Office 365-Dienste verwalten kann, auf die er sich abonniert hat. Innerhalb des Microsoft 365 admin Centers können Administratoren Links zur Exchange-Verwaltungskonsole (EAC) folgen, in der Sie Einstellungen für Exchange Online verwalten können. Weitere Informationen zum aufstehen und Ausführen von Microsoft 365 Admin Center finden Sie im folgenden Video: Einführung in [Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+Das Microsoft 365 Admin Center ist das Webportal, aus dem die Dienstadministratoren der einzelnen Unternehmen Benutzerkonten und Einstellungen für die einzelnen Office 365 Dienste verwalten können, für die Sie sich anmelden. Innerhalb des Microsoft 365 admin Centers können Administratoren Links zur Exchange-Verwaltungskonsole (EAC) ausführen, auf der Sie Einstellungen für Exchange Online verwalten können. Weitere Informationen zum Einrichten und Ausführen von Microsoft 365 Admin Center finden Sie im folgenden Video: [Einführung in Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Exchange Admin Center
 <a name="BKMK_ExchangeAdministrationCenter"> </a>

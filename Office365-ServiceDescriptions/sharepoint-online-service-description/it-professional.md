@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-it-professional-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
-description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden SharePoint-Funktionen unterstützen IT-Experten beim Sichern und Verwalten der SharePoint-Umgebung in ihrer Organisation.
-ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden SharePoint-Funktionen unterstützen IT-Experten beim Sichern und Verwalten der SharePoint-Umgebung in ihrer Organisation.
+ms.openlocfilehash: 0f285fabb62b73914966127d4d880bd5ffb6e5a1
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246741"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341934"
 ---
 # <a name="it-professional"></a>IT-Experte
 
-SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, die Ihre Organisation beim Speichern, freigeben und Verwalten digitaler Informationen unterstützen. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden SharePoint-Funktionen unterstützen IT-Experten beim Sichern und Verwalten der SharePoint-Umgebung in ihrer Organisation. 
+SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden SharePoint-Funktionen unterstützen IT-Experten beim Sichern und Verwalten der SharePoint-Umgebung in ihrer Organisation. 
   
 ## <a name="active-directory-synchronization"></a>Active Directory-Synchronisierung
 <a name="bkmk_ActiveDirectorySynchronization"> </a>

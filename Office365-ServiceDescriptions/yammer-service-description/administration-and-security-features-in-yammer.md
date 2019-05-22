@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - administration-and-security-features-in-yammer
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
-description: Die folgenden Verwaltungs-und Sicherheitsfunktionen stehen in jammern zur Verfügung.
-ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Die folgenden Verwaltungs-und Sicherheitsfeatures stehen in "jammern" zur Verfügung.
+ms.openlocfilehash: 9ee3f5821597f3d09e98dd6d0c155bbf194a6cc2
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246551"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342334"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Verwaltungs- und Sicherheitsfunktionen in Yammer
 
-Die folgenden Verwaltungs-und Sicherheitsfunktionen stehen in jammern zur Verfügung.
+Die folgenden Verwaltungs-und Sicherheitsfeatures stehen in "jammern" zur Verfügung.
   
-Ausführliche Erläuterungen und Verfahren finden Sie im [Jammer Admin Center](https://go.microsoft.com/fwlink/?LinkId=869688).
+Ausführliche Erläuterungen und Verfahren finden Sie im [jammern Admin Center](https://go.microsoft.com/fwlink/?LinkId=869688).
   
 ## <a name="custom-network-branding"></a>Custom Network Branding
 <a name="bkmk_CustomNetworkBranding"> </a>
@@ -77,7 +77,7 @@ Ermitteln Sie anhand der Netzwerkanalyse, wie die Mitarbeiter mit Yammer arbeite
 ## <a name="company-resources"></a>Company Resources
 <a name="bkmk_CompanyResources"> </a>
 
-Fügen Sie wichtige Dateien und Links hinzu, um Mitarbeitern schnellen Zugriff auf Unternehmensressourcen wie Personalrichtlinien, Leistungsinformationen oder Feiertagskalender zu ermöglichen.
+Fügen Sie wichtige Dateien und Links hinzu, um Mitarbeitern schnellen Zugriff auf Unternehmensressourcen wie HR-Richtlinien, Leistungsinformationen oder Feiertagskalender zu gewähren.
   
 ## <a name="password-policies"></a>Kennwortrichtlinien
 <a name="bkmk_PasswordPolicies"> </a>

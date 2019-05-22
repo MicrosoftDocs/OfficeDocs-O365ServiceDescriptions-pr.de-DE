@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - administration-and-management-in-eop
@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: In diesem Abschnitt werden Verwaltungsschnittstellen beschrieben, die Microsoft Exchange Online Protection (EOP)-Administratoren zur Verfügung stehen.
-ms.openlocfilehash: 3281fafa8dde443a25085a2605a085cd31623fcb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: In diesem Abschnitt werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online Protection (EoP)-Administratoren verfügbar sind.
+ms.openlocfilehash: eddfb44dad240835dbe7e8646e81c6b20531459b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246221"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342104"
 ---
 # <a name="administration-and-managementeop"></a>Administration und Verwaltung[EOP]
 
-In diesem Abschnitt werden Verwaltungsschnittstellen beschrieben, die Microsoft Exchange Online Protection (EOP)-Administratoren zur Verfügung stehen.
+In diesem Abschnitt werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online Protection (EoP)-Administratoren verfügbar sind.
   
 Sie suchen nach Informationen zu allen EOP-Funktionen? Entsprechendes finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Zugriff auf das Microsoft 365 Admin Center
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-Das Microsoft 365 Admin Center ist das Webportal, von dem der Dienstadministrator jedes Unternehmens Benutzerkonten und Einstellungen für jeden der Office 365-Dienste verwalten kann, auf die er sich abonniert hat. Innerhalb des Microsoft 365 admin Centers können Administratoren Links zur Exchange-verwaltungsKONSOLE folgen, in denen Sie Einstellungen für EOP verwalten können.
+Das Microsoft 365 Admin Center ist das Webportal, aus dem die Dienstadministratoren der einzelnen Unternehmen Benutzerkonten und Einstellungen für die einzelnen Office 365 Dienste verwalten können, für die Sie sich anmelden. Innerhalb des Microsoft 365 admin Centers können Administratoren Links zur Exchange-Verwaltungskonsole ausführen, in der Sie Einstellungen für EoP verwalten können.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Zugriff auf die Exchange-Verwaltungskonsole
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>

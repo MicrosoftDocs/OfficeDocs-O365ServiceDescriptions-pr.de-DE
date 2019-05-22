@@ -1,24 +1,24 @@
 ---
-title: Office 365 GCC hoch und DoD
+title: Office 365 gcc High und DoD
 ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
-ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247111"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343254"
 ---
-# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC hoch und DoD
+# <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
 
 Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar.  
   
@@ -44,7 +44,7 @@ Office 365-Mitarbeiter haben keinen Zugriff auf die GCC High and DoD-Produktion.
   
 |||
 |:-----|:-----|
-|**Microsoft-Personal Screening und Hintergrundprüfungen** <sup>1</sup> <br/> |**Beschreibung** <br/> |
+|**Microsoft Personal Screening und Hintergrundprüfungen** <sup>1</sup> <br/> |**Beschreibung** <br/> |
 |US-amerikanische Staatsbürgerschaft  <br/> |Überprüfung der US-amerikanischen Staatsbürgerschaft  <br/> |
 |Prüfung des beruflichen Lebenslaufs  <br/> |Überprüfung von sieben (7) Jahren der bisherigen Berufstätigkeit  <br/> |
 |Überprüfung der Ausbildung  <br/> |Überprüfung der höchsten abgeschlossenen Ausbildung  <br/> |
@@ -56,7 +56,7 @@ Office 365-Mitarbeiter haben keinen Zugriff auf die GCC High and DoD-Produktion.
 |Fingerabdrücke  <br/> |Hintergrundprüfung von Fingerabdrücken in FBI-Datenbanken  <br/> |
 |Verteidigungsministerium IT-2  <br/> |Mitarbeiter, die erweiterte Berechtigungen für Kundendaten oder privilegierten Administratorzugriff auf SRG L5-Dienstfunktionen des Verteidigungsministerium der Vereinigten Staaten anfordern, müssen die Beurteilung des Verteidigungsministeriums IT-2 basierend auf einer erfolgreichen OPM-Untersuchung der Stufe 3 bestehen.  <br/> |
 
-<sup>1</sup> gilt nur für Personen mit vorübergehendem oder stehendem Zugriff auf Kunden Inhalte, die in Office 365 US gcc-High oder DoD Clouds gehostet werden.
+<sup>1</sup> gilt nur für Mitarbeiter mit einem temporären oder ständigen Zugriff auf Kunden Inhalte, die in Office 365 US gcc-High oder DoD Clouds gehostet werden.
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Feature-Nuancen basierend auf kompatibler Cloudarchitektur
 
 Office 365-Abonnements in GCC High and DoD-Umgebungen beinhalten die zentralen Exchange Online-, SharePoint Online- und Skype for Business-Features. Angesichts der verstärkten Zertifizierung und Akkreditierung der Infrastruktur gibt es einige Feature-Unterschiede zwischen den allgemeinen kommerziellen Office 365-Angeboten und den Angeboten, die in GCC High and DoD verfügbar sind.
@@ -77,21 +77,21 @@ Office 365-Abonnements in GCC High and DoD-Umgebungen beinhalten die zentralen E
     
 4. Bestimmte Personen
     
-Kunden, die SharePoint Online und OneDrive for Business in der GCC-hoch-oder DoD-Umgebung verwenden, können Dokumente privat halten (erste Option), für alle Personen in Ihrer Organisation freigeben (zweite Option), für jeden freigeben, der über den Link zum Dokument verfügt (dritte Option) und nur für bestimmte Personen innerhalb der GCC High-und DoD-Umgebungen freigeben (vierte Option); Diese Optionen können natürlich auch auf Basis der Zugriffssteuerung auf Mandantenebene eingeschränkt werden.
+Kunden, die SharePoint Online und OneDrive für Unternehmen in der gcc-High-oder DoD-Umgebung verwenden, können Dokumente als privat (erste Option), für alle Personen in Ihrer Organisation freigeben (zweite Option), für jeden freigeben, der über den Link zum Dokument verfügt (dritte Option) und nur für bestimmte Personen in gcc High-und DoD-Umgebungen freigeben (vierte Option); Selbstverständlich können diese Optionen auch auf der Grundlage von Zugriffssteuerungen auf Mandantenebene eingeschränkt werden.
   
-GCC-hohe Mandanten können nur mit anderen GCC-hoch Mandanten teilen. Beispiel:
+Gcc-Mandanten mit hoher Leistung können nur mit anderen gcc-Mandanten gemeinsam genutzt werden. Zum Beispiel:
   
-- GCC-hoch Mandant A kann mit GCC-hoch Mandant B teilen.
+- Gcc High Mandant a kann mit gcc High Mandant B teilen.
     
-- Nicht-GCC-Mandant C kann für GCC-Mandanten A oder B freigeben.
+- Der nicht-gcc-Mandant C kann für gcc High Mandant A oder B freigeben.
     
-- GCC-hoch Mandant A oder B kann nicht mit einem nicht-GCC-hohen Mandanten C geteilt werden.
+- Gcc High Mandant A oder B kann nicht für den nicht-gcc-High-Mandanten C freigegeben werden.
     
-Darüber hinaus werden nicht-GCC-e-Mail-Adressen, die mit Benutzerprofilen verbunden sind, nicht unterstützt und es werden keine Benachrichtigungen gesendet. Auf dem lokalen Benutzer A wird beispielsweise eine e-Mail-Adresse zugewiesen und dann mit dem Azure-GCC-hoch Mandanten synchronisiert. Benutzer A navigiert zu einer Bibliothek und erstellt eine Warnung für alle Änderungen. Die Benachrichtigung wird nicht an die gmail-Adresse gesendet.
+Darüber hinaus werden nicht-gcc hohe e-Mail-Adressen, die an Benutzerprofile angehängt sind, nicht unterstützt und erlauben keine Benachrichtigung über gesendete e-Mails. Beispielsweise wird dem Benutzer a eine Gmail-e-Mail-Adresse zugewiesen und dann mit dem Azure gcc High-Mandanten synchronisiert. Benutzer a navigiert zu einer Bibliothek und erstellt eine Warnung für alle Änderungen. Die Benachrichtigung wird nicht an die gmail-Adresse gesendet.
   
  **Externer Anwendungszugriff** - Verbindungen zu externen Anwendungen, z. B. Datenquellen für Add-Ins, sind auf Quellen beschränkt, die sich innerhalb der Systemsicherheitsgrenzen befinden, die von GCC High and DoDn unterstützt werden. 
   
- **Business Connectivity Services** -BCS-Funktionalität wird für Verbindungsszenarien unterstützt, in denen die Datenquellen innerhalb der Sicherheitsgrenze für Ihren clouddienst erreichbar bleiben. 
+ Die **Business Connectivity Services** -BCS-Funktionalität wird für Verbindungsszenarien unterstützt, in denen die Datenquellen innerhalb der Sicherheitsgrenze Ihres Cloud-Diensts erreichbar bleiben. 
   
  **Sandkastenlösungen** - Dieses Feature ist veraltet und nicht verfügbar. Alle Sandkastenlösungen sollten zu dem [ SharePoint-Add-In-Erweiterbarkeitsmodell ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
@@ -105,6 +105,6 @@ Die mehrstufige Authentifizierung unter Verwendung eines Identitätsmodells erm�
   
 ### <a name="yammer"></a>Yammer
 
-Jammern Enterprise ist in den GCC High-und DoD-Umgebungen nicht verfügbar.
+Jammern Enterprise ist in den gcc-High-und DoD-Umgebungen nicht verfügbar.
   
 
