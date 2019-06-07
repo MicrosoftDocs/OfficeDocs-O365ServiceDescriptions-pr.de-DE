@@ -9,35 +9,34 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: 8e678bf7fc2373b5e8f97341d2c167548b36322b
-ms.sourcegitcommit: 178a0c81d51a48562b9433c47642ce78c51651a3
+ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2019
-ms.locfileid: "34669684"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742154"
 ---
-# <a name="sharepoint-online-limits"></a>SharePoint Online-Grenzwerte
+# <a name="sharepoint-online-limits"></a>SharePoint Online-Grenzwerte 
 
 Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint Online eigenständige Pläne.
   
-## <a name="limits-by-plan"></a>Grenzen nach Plan
+## <a name="limits-by-plan"></a>Grenzen nach Plan 
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint Online Plan 1 oder 2** <br/> | **Office 365 Enterprise F1** <br/> |
-|Speicher<sup>1, 2</sup> <br/> |1 TB pro Organisation plus 10 GB pro erworbener Lizenz  <br/> |1 TB pro Organisation plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB pro Organisation <sup>3</sup> <br/> |
-|Speicher für Websitesammlungen  <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>4</sup> <br/> |Bis zu 25 TB pro Websitesammlung oder Gruppe<sup>5</sup> <br/> |
-|Websitesammlungen pro Organisation  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> |500.000<br/> |
+|Gesamtspeicher pro Organisation<sup>1, 2</sup> <br/> |1 TB plus 10 GB pro erworbener Lizenz  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|Max Storage pro Websitesammlung<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
+|Websitesammlungen pro Organisation  <br/> |1 Million<sup>6</sup> <br/> |1 Million<sup>6</sup> <br/> |1 Million<br/> |
 |Anzahl der Benutzer  <br/> |Bis zu 300  <br/> |1-500.000<sup>7</sup> <br/> |1-500.000<sup>7</sup> <br/> |
    
-> [!NOTE]
-> <sup>1</sup> Sie können eine unbegrenzte Menge an zusätzlichem SharePoint Online-Speicher kaufen. Weitere Informationen finden Sie unter [Ändern von Speicherplatz für Ihr Abonnement](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C). 
-<br/><sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der vom Papierkorb verwendete Speicherplatz wird beim Grenzwert für den Gesamtspeicher der Organisation mit berücksichtigt. 
+<sup>1</sup> Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher erwerben. Weitere Informationen finden Sie unter [Ändern von Speicherplatz für Ihr Abonnement](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<br/><sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der verwendete Speicherplatz ist Teil des gesamten Speichergrenzwerts der Organisation. 
 <br/> <sup>3</sup> Wenn Sie über ein Office 365-Abonnement und einen eigenständigen SharePoint Online-Plan verfügen, wird der Speicherplatz zusammengerechnet. 
-<br/><sup>4</sup> SharePoint Online Administratoren können Speichergrenzwerte für Websitesammlungen und Websites festlegen.
-<br/> <sup>5</sup> Kiosk-Worker können keine SharePoint Online-Websitesammlungen verwalten. Sie benötigen mindestens eine Enterprise-Benutzerlizenz, um Kiosk-Websitesammlungen zu verwalten. 
-<br/> <sup>6</sup> Ohne OneDrive for Business-Websitesammlungen, die für jeden lizenzierten Benutzer erstellt wurden. 
-<br/><sup>7</sup> Wenn Sie über mehr als 500.000 Benutzer verfügen, wenden Sie sich an einen Microsoft-Vertriebsmitarbeiter. 
+<br/> <sup>4</sup> hierbei handelt es sich um den Speichergrenzwert für eine einzelne Websitesammlung, nicht um die für jede Websitesammlung bereitgestellte Speichermenge. Dieser Grenzwert gilt für alle Arten von Websitesammlungen, einschließlich Office 365 Gruppen verbundenen Teamwebsites und OneDrive. SharePoint-Administratoren können [niedrigere Speichergrenzwerte manuell festlegen](/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>5</sup> Mitarbeiter von First-Work können keine SharePoint-Websitesammlungen verwalten. 
+<br/> <sup>6</sup> nicht einschließlich der OneDrive, die für jeden lizenzierten Benutzer erstellt wurden. 
+<br/> <sup>7</sup> Wenn Sie über mehr als 500.000 Benutzer verfügen, wenden Sie sich an einen Microsoft-Vertriebsmitarbeiter. 
   
 
   
@@ -49,7 +48,10 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 
 - **Verschieben und Kopieren über Websitesammlungen** – 100 GB pro Vorgang. Der Webbrowser muss geöffnet bleiben.
 
-- **Sync** – für eine optimale Leistung wird empfohlen, nicht mehr als 300.000 Dateien in einer einzelnen OneDrive-oder Teamwebsite-Bibliothek zu speichern. Obwohl SharePoint Online 30 Millionen-Dokumente pro Bibliothek speichern können, empfehlen wir für eine optimale Leistung die Synchronisierung von nicht mehr als 300.000 Dateien in allen Dokumentbibliotheken. Darüber hinaus können die gleichen Leistungsprobleme auftreten, wenn Sie 300.000-Elemente oder mehr für alle Bibliotheken, die Sie synchronisieren, haben, auch wenn Sie nicht alle Elemente in diesen Bibliotheken synchronisieren. Wenn Sie den vorherigen OneDrive für Unternehmen synchronisierungsclient (Groove. exe) verwenden, beträgt der Synchronisierungs Grenzwert pro Bibliothek 20.000 Elemente (einschließlich 5.000 Elemente pro Teamwebsite).
+- **Sync** – für eine optimale Leistung wird empfohlen, nicht mehr als 300.000 Dateien für alle synchronisierten Dokumentbibliotheken zu speichern, selbst wenn Sie Dateien bei Bedarf verwenden oder nur einige Ordner innerhalb der zu synchronisierenden Bibliotheken auswählen. Wenn Sie den vorherigen OneDrive für Unternehmen synchronisierungsclient (Groove. exe) verwenden, beträgt der Synchronisierungs Grenzwert pro Bibliothek 20.000 Elemente (einschließlich 5.000 Elemente pro Teamwebsite).
+
+    > [!NOTE]
+    > Wenn Benutzer Dateien in Dokumentbibliotheken mit Hunderten von Tausenden von Dateien synchronisieren müssen, können Sie Ordner aus dem synchronisierungsclient ausblenden, indem Sie die Berechtigungsstufe der Ordner auf "Eingeschränkter Lesezugriff" festlegen. 
 
 - **Versionen** -50.000 Hauptversionen und 511 Nebenversionen.
 
@@ -57,7 +59,7 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 
 - **Verwaltete Metadaten** – 200.000 Ausdrücke in Term Store, 1.000 globale Ausdruckssätze, 1.000 Gruppen.
 
-- Unter **Websites** – bis zu 2.000 pro Websitesammlung.
+- Unter **Websites** -2.000 pro Websitesammlung.
 
 - **Gehostete SharePoint-Anwendungen** -20.000 Instanzen pro Organisation.
 
@@ -66,7 +68,7 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 - **Users** -2 Millionen pro Websitesammlung.
 
 > [!NOTE]
-> Es gibt keine Beschränkung für die Anzahl externer Benutzer, die Sie zu Ihren SharePoint Online Websitesammlungen einladen können. Weitere Informationen finden Sie unter [Verwalten der externen Dateifreigabe für Ihre SharePoint-Onlineumgebung](/sharepoint/external-sharing-overview).
+> Es gibt keine Beschränkung für die Anzahl der Gäste, die Sie zu SharePoint-Websitesammlungen einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [External Sharing Overview](/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>Siehe auch
 

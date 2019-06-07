@@ -3,7 +3,7 @@ title: Microsoft 365 Business - Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/29/2019
+ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie unter Office 365 Service descriptions.
-ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
-ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
+ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34493493"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742104"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -26,8 +26,8 @@ Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produk
 
 Die folgende Tabelle enthält die Plattformfeatures für Office 365 Business Premium- und Microsoft 365 Business-Pläne.
   
-Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) finden Sie die Featureverfügbarkeit in Office 365-Plänen.
-  
+Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) finden Sie die Featureverfügbarkeit in Office 365-Plänen.<br/>
+
 ||||
 |:-----|:-----|:-----|
 |**Planoptionen** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
@@ -149,7 +149,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
    
 |||
 |:-----|:-----|
-|**Windows 10-Verwaltungsfeatures** - Microsoft 365 Business erleichtert das Verwalten von Geräten. Beim Einrichten Ihres Microsoft 365 Business-Mandanten wählen Sie App-Schutz und Geräteeinstellungen aus. Diese Einstellungen bestimmen die Richtlinien, die automatisch auf Geräte angewendet werden, wenn sie Azure Active Directory beitreten. Die Windows 10 Pro-Verwaltungsfunktionen umfassen:  <br/> |**Microsoft 365 Business** <br/> |
+|**Windows 10-Verwaltungsfeatures** - Microsoft 365 Business erleichtert das Verwalten von Geräten. Beim Einrichten Ihres Microsoft 365 Business-Mandanten wählen Sie App-Schutz und Geräteeinstellungen aus. Diese Einstellungen bestimmen die Richtlinien, die automatisch auf Geräte angewendet werden, wenn sie Azure Active Directory beitreten. Die Windows 10 Pro-Verwaltungsfunktionen umfassen:  <br/>|**Microsoft 365 Business** <br/> |
 |Vereinfachte Bereitstellung mit Windows AutoPilot  <br/> |Ja  <br/> |
 |Abonnementaktivierung  <br/> |Ja  <br/> |
 |Unternehmensweite Steuerung des Gerätebildschirms im Leerlauf  <br/> |Ja  <br/> |
@@ -162,9 +162,9 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Schützen von PCs vor webbasierten Bedrohungen in Microsoft Edge  <br/> |Ja  <br/> |
 |Regeln verwenden, die die Angriffsfläche von Geräten verringern <br/> |Ja  <br/> |
 |Ordner vor Bedrohungen wie Ransomware schützen <br/> |Ja  <br/> |
-|Schützen von Dateien und Ordnern auf PCs vor nicht autorisiertem Zugriff mit BitLocker <br/> |Ja  <br/> |
-   
-> <sup>1</sup> enthält Exchange Online Plan 1.
+|Schützen von Dateien und Ordnern auf PCs vor nicht autorisiertem Zugriff mit BitLocker <br/> |Ja  <br/> |   
+
+<sup>1</sup> enthält Exchange Online Plan 1.
 <br/><sup>2</sup> enthält Skype for Business Online Plan 2 mit grundlegenden Client Einschränkungen.
 <br/><sup>3</sup> Project Online ist nicht enthalten, kann jedoch als separater Add-on-Dienst erworben oder kostenlos zum Office Education-Plan hinzugefügt werden. 
 <br/><sup>4</sup> Azure Information Protection (AIP) aktiviert die unterstützten Funktionen für die Verwaltung von Informationsrechten (Information Rights Management, IRM). AIP-Plan 1 ist in Microsoft 365 Business enthalten. 
