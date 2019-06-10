@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742154"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780664"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Grenzwerte 
 
@@ -30,15 +30,13 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 |Websitesammlungen pro Organisation  <br/> |1 Million<sup>6</sup> <br/> |1 Million<sup>6</sup> <br/> |1 Million<br/> |
 |Anzahl der Benutzer  <br/> |Bis zu 300  <br/> |1-500.000<sup>7</sup> <br/> |1-500.000<sup>7</sup> <br/> |
    
-<sup>1</sup> Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher erwerben. Weitere Informationen finden Sie unter [Ändern von Speicherplatz für Ihr Abonnement](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher erwerben. Weitere Informationen finden Sie unter [Ändern von Speicherplatz für Ihr Abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der verwendete Speicherplatz ist Teil des gesamten Speichergrenzwerts der Organisation. 
-<br/> <sup>3</sup> Wenn Sie über ein Office 365-Abonnement und einen eigenständigen SharePoint Online-Plan verfügen, wird der Speicherplatz zusammengerechnet. 
-<br/> <sup>4</sup> hierbei handelt es sich um den Speichergrenzwert für eine einzelne Websitesammlung, nicht um die für jede Websitesammlung bereitgestellte Speichermenge. Dieser Grenzwert gilt für alle Arten von Websitesammlungen, einschließlich Office 365 Gruppen verbundenen Teamwebsites und OneDrive. SharePoint-Administratoren können [niedrigere Speichergrenzwerte manuell festlegen](/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>3</sup> Wenn Sie über ein Office 365-Abonnement und ein Office 365 zusätzliches Dateispeicher-Add-on verfügen, werden die Speicher Beträge hinzugefügt. 
+<br/> <sup>4</sup> hierbei handelt es sich um den Speichergrenzwert für eine einzelne Websitesammlung, nicht um die für jede Websitesammlung bereitgestellte Speichermenge. Dieser Grenzwert gilt für alle Arten von Websitesammlungen, einschließlich Office 365 Gruppen verbundenen Teamwebsites und OneDrive. SharePoint-Administratoren können [niedrigere Speichergrenzwerte manuell festlegen](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits). 
 <br/> <sup>5</sup> Mitarbeiter von First-Work können keine SharePoint-Websitesammlungen verwalten. 
 <br/> <sup>6</sup> nicht einschließlich der OneDrive, die für jeden lizenzierten Benutzer erstellt wurden. 
 <br/> <sup>7</sup> Wenn Sie über mehr als 500.000 Benutzer verfügen, wenden Sie sich an einen Microsoft-Vertriebsmitarbeiter. 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>Dienst Grenzwerte für alle Pläne
 
@@ -68,8 +66,8 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 - **Users** -2 Millionen pro Websitesammlung.
 
 > [!NOTE]
-> Es gibt keine Beschränkung für die Anzahl der Gäste, die Sie zu SharePoint-Websitesammlungen einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [External Sharing Overview](/sharepoint/external-sharing-overview).
+> Es gibt keine Beschränkung für die Anzahl der Gäste, die Sie zu SharePoint-Websitesammlungen einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [External Sharing Overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>Siehe auch
 
-[Such Grenzwerte für SharePoint Online](/sharepoint/search-limits)
+[Such Grenzwerte für SharePoint Online](https://docs.microsoft.com/sharepoint/search-limits)
