@@ -3,7 +3,6 @@ title: Dienstbeschreibung zu Office-Anwendungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343094"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931137"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -90,7 +89,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Volume activation (KMS/MAK)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Nr.<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
    
 > [!NOTE]
-><sup>+</sup>Wenn Sie Office 365 oder Office 2019 installieren, erhalten Sie standardmäßig OneNote für Windows 10. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu OeNOte in Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>+</sup>Wenn Sie Office 365 oder Office 2019 installieren, erhalten Sie standardmäßig OneNote für Windows 10. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu OneNote in Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
 ><sup>++</sup>OneNote-App-Zugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive für Unternehmen und Office 365. <br/>
 ><sup>+++</sup>Die BHO-Unterstützung ist eine Erweiterungstechnologie für Internet Explorer. <br/>
 ><sup>1</sup> die Archivierungs-und Kompatibilitätsfeatures werden in dieser Version von Office unterstützt, aber die Exchange Online-und SharePoint Online Pläne sind nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Server Entsprechungen verwendet werden.<br/>
