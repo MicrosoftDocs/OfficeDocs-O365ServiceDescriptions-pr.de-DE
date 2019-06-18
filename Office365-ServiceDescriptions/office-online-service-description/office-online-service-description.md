@@ -3,7 +3,6 @@ title: Office Online-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: In Office Online (ehemals Office-Webanwendungen) werden Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser geöffnet. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343783"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018307"
 ---
 # <a name="office-online-service-description"></a>Office Online-Dienstbeschreibung
 
 In Office Online (ehemals Office-Webanwendungen) werden Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser geöffnet. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
   
-Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-online-plans"></a>Verfügbarkeit von Features in Office Online-Plänen
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Informationen zum Vergleichen der Features für die verschiedenen Pläne finden 
 Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am besten die Anforderungen Ihres Unternehmens erfüllt? In den folgenden Tabellen werden die Office Online-Features den funktionsreichen Microsoft Office-Desktop-Apps gegenübergestellt. Der Tabelle können Sie entnehmen, welche Features in Office Online verfügbar sind. Durch Klicken auf den Featurenamen wird eine kurze Beschreibung zur Funktionsweise angezeigt. Möglicherweise benötigen einige Personen in Ihrer Organisation die erweiterte Diagrammfunktion der Excel-Desktop-App, andere hingegen müssen nur Word-Dokumente und PowerPoint-Präsentationen mit Office Online anzeigen und geringfügig bearbeiten. 
   
 > [!NOTE]
->  Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabellen enthalten nicht alle Microsoft Office-Funktionen. >  Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite. >  Lokale Kunden von Microsoft Office Online Server erhalten eine Office Online-Bearbeitungslizenz, wenn sie eine Lizenz für eine Office-Desktopsuite (z. B. eine Office Professional Plus-, eine Office Standard- oder eine Office 365 ProPlus-Lizenz) erworben haben. 
+>  Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabellen enthalten nicht alle Microsoft Office-Funktionen.<br/>  Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite.<br/>  Microsoft Office Online Server-Kunden erhalten eine Office Online Bearbeitungs Lizenz, wenn Sie eine Office Desktop Suite-Lizenz erworben haben (beispielsweise eine Office Professional Plus-, Office Standard-oder Office 365 ProPlus-Lizenz). 
   
 > [!NOTE]
 > Wenn Sie ein Office-Dokument öffnen (als Outlook-E-Mail-Anlage oder aus einer SharePoint-Dokumentbibliothek), wird das Dokument in Office Online schreibgeschützt geöffnet. Zur Bearbeitung eines Dokuments in Office Online (Bearbeitungsmodus) benötigen Sie eine Lizenz für die Office 365-Suite, z. B. Office 365 Enterprise E1. Zum Bearbeiten des Dokuments benötigen Sie eine Lizenz für eine Office-Desktopsuite, z. B. eine Office 365 ProPlus-Lizenz oder eine Installierte Version von Office Professional Plus 2010. 
@@ -45,7 +44,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |**Anwendungsfeatures** <br/> |**Word Online** <br/> |**Word-Desktop-App** <br/> |
 |[Hilfslinien und Echtzeitlayout](word-online.md#alignment-guides-and-live-layout) <br/> |Nein  <br/> |Ja  <br/> |
 |[Anwenden von Formatvorlagen](word-online.md#apply-styles) <br/> |Ja  <br/> |Ja  <br/> |
-|[Automatisches Speichern](word-online.md#autosave) <br/> |Nein  <br/> |Ja  <br/> |
+|[Automatisches Speichern](word-online.md#autosave) <br/> |Ja  <br/> |Ja  <br/> |
 |[AutoText](word-online.md#autotext) <br/> |Ja  <br/> |Ja  <br/> |
 |[Suchen nach und Verwenden von professionell gestalteten Vorlagen](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |Ja  <br/> |Ja  <br/> |
 |[Aufzählungszeichen und Nummerierung](word-online.md#bullets-and-numbering) <br/> |Ja  <br/> |Ja  <br/> |
@@ -214,9 +213,9 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Gemeinsame Erstellung](onenote-online.md#co-authoring) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen und Verwalten von Seiten und Abschnitten](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Ja  <br/> |Ja  <br/> |
 |[Herunterladen einer Kopie eingebetteter Office-Dateien](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Ja  <br/> |Ja<sup>4</sup> <br/> |
-|[Drag & Drop-Seiten] <br/> |Ja  <br/> |Ja <br/> |
-|[Drag & Drop-Abschnitte] <br/> |Ja  <br/> |Ja <br/> |
-|[Drag & Drop-Abschnittsgruppen] <br/> |Nein  <br/> |Ja <br/> |
+|Drag & Drop-Seiten <br/> |Ja  <br/> |Ja <br/> |
+|Drag & Drop-Abschnitte <br/> |Ja  <br/> |Ja <br/> |
+|Ziehen und Ablegen von Abschnittsgruppen <br/> |Nein  <br/> |Ja <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Ja  <br/> |Ja  <br/> |
 |[Bearbeiten eingebetteter Dateien](onenote-online.md#EmbeddedFileEdit) <br/> |Nein  <br/> |Ja  <br/> |
 |[Formeln](onenote-online.md#equations) <br/> |Ja  <br/> |Ja  <br/> |
@@ -301,10 +300,11 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[WYSIWYG-Anzeige](powerpoint-online.md#wysiwyg-viewing) <br/> |Ja  <br/> |Ja  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> PowerPoint Online unterstützt einen Katalog mit acht Übergängen und 37 Animationen. Für eine größere Auswahl oder zum Erstellen benutzerdefinierter Animationen verwenden Sie die PowerPoint-Desktop-App. 
- <br/><sup>2</sup> Das Gerät, auf dem Sie arbeiten, muss Freihandobjekte unterstützen. 
- <br/> <sup>3</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
- <br/><sup>4</sup> Sie können keine PivotCharts oder PivotTables erstellen, diese aber im Viewer anzeigen. 
+><sup>1</sup> PowerPoint Online unterstützt einen Katalog mit acht Übergängen und 37 Animationen. Für eine größere Auswahl oder zum Erstellen benutzerdefinierter Animationen verwenden Sie die PowerPoint-Desktop-App. 
+ <br/>
+<sup>2</sup> Das Gerät, auf dem Sie arbeiten, muss Freihandobjekte unterstützen. <br/> 
+<sup>3</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. <br/>
+<sup>4</sup> Sie können keine PivotCharts oder PivotTables erstellen, diese aber im Viewer anzeigen. 
   
 ## <a name="supported-file-types-for-office-online"></a>Unterstützte Dateitypen für Office Online
 <a name="bkmk_SupportedFileTypes"> </a>

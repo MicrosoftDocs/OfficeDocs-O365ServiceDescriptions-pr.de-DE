@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>Woche vom 06. Mai 2019
-
-
-| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | Geändert |
-| 5/6/2019 | [Office Online-Dienstbeschreibung](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Geändert |
-| 5/7/2019 | [Exchange Online-Dienstbeschreibung](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | Geändert |
-| 5/7/2019 | [Support](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | Geändert |
-| 5/7/2019 | [Office Online-Dienstbeschreibung](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | Geändert |
-
-
 ## <a name="week-of-may-13-2019"></a>Woche vom 13. Mai 2019
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Office 365 Security & Compliance Center](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Geändert |
 | 6/7/2019 | [SharePoint Online-Beschränkungen](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | Geändert |
 | 6/7/2019 | [SharePoint Online-Dienstbeschreibung](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | Geändert |
+
+
+## <a name="week-of-june-10-2019"></a>Week of June 10, 2019
+
+
+| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
+|------|------------|--------|
+| 6/13/2019 | [Dienstbeschreibung zu Office-Anwendungen](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | Geändert |
+| 6/13/2019 | [SharePoint Online-Dienstbeschreibung](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | Geändert |
