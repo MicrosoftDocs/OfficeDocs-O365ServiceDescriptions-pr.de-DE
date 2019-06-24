@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Mit Visio Online können Sie Ihre Arbeit in Microsoft Visio auf den Webbrowser ausweiten, wo Sie mit Diagrammen direkt auf der Website arbeiten können, auf der sie gespeichert sind. Microsoft Office 365-Kunden mit Office Online können unterwegs Diagramme anzeigen und freigeben sowie Kommentare einfügen.
-ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Mit Visio Online können Sie Ihre Arbeit in Microsoft Visio auf den Webbrowser ausweiten, wo Sie mit Diagrammen direkt auf der Website arbeiten können, auf der sie gespeichert sind. Microsoft Office 365 Kunden mit Office für das Internet können Diagramme anzeigen und freigeben und Kommentare auch unterwegs einfügen.
+ms.openlocfilehash: fab0748238a7c5abdea13864e694d25c8c80bf31
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342344"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130979"
 ---
 # <a name="visio-online"></a>Visio Online
 
-Mit Visio Online können Sie Ihre Arbeit in Microsoft Visio auf den Webbrowser ausweiten, wo Sie mit Diagrammen direkt auf der Website arbeiten können, auf der sie gespeichert sind. Microsoft Office 365-Kunden mit Office Online können unterwegs Diagramme anzeigen und freigeben sowie Kommentare einfügen.
+Mit Visio Online können Sie Ihre Arbeit in Microsoft Visio auf den Webbrowser ausweiten, wo Sie mit Diagrammen direkt auf der Website arbeiten können, auf der sie gespeichert sind. Microsoft Office 365 Kunden mit Office für das Internet können Diagramme anzeigen und freigeben und Kommentare auch unterwegs einfügen.
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>Anwenden umfangreicher Formatierung auf Text und Shapes
 <a name="BM_1"> </a>
@@ -88,7 +88,7 @@ Office-Add-Ins sind in Visio Online nicht verfügbar.
 ## <a name="offline-viewing"></a>Offlineansichten
 <a name="BM_13"> </a>
 
-Nicht verfügbar in Visio Online. Für Office Online sind eine Internetverbindung und ein Webbrowser erforderlich. Sie müssen auf Ihrem Computer die Visio-Desktopanwendung installiert haben, um ein Diagramm anzeigen und bearbeiten zu können, wenn keine Verbindung mit dem Internet oder dem lokalen Office Web Apps Server Ihrer Organisation besteht. Wenn Sie die Visio-Desktopanwendung installiert haben, können Sie alle Visio-Funktionen zum Anzeigen und Bearbeiten Ihres Diagramms verwenden. Beim Speichern wird das Onlinediagramm mit Ihren Änderungen aktualisiert. Sie können auch eine Offlinekopie des Diagramms herunterladen und speichern; diese wird aber nicht mit der Onlineversion synchronisiert sein. Erfahren Sie mehr über [Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx).
+Nicht verfügbar in Visio Online. Office für das Web erfordert eine Internetverbindung und einen Internet Browser. Sie müssen auf Ihrem Computer die Visio-Desktopanwendung installiert haben, um ein Diagramm anzeigen und bearbeiten zu können, wenn keine Verbindung mit dem Internet oder dem lokalen Office Web Apps Server Ihrer Organisation besteht. Wenn Sie die Visio-Desktopanwendung installiert haben, können Sie alle Visio-Funktionen zum Anzeigen und Bearbeiten Ihres Diagramms verwenden. Beim Speichern wird das Onlinediagramm mit Ihren Änderungen aktualisiert. Sie können auch eine Offlinekopie des Diagramms herunterladen und speichern; diese wird aber nicht mit der Onlineversion synchronisiert sein. Erfahren Sie mehr über [Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx).
   
 ## <a name="print-to-pdf"></a>Als PDF drucken
 <a name="BM_14"> </a>

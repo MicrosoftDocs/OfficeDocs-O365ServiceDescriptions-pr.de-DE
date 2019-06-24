@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Inhaltsfunktionen erleichtern allen die Inhaltsverwaltung im Unternehmen (Enterprise Content Management, ECM). Das Geheimnis ist die Kombination aus traditionellem Content Management, sozialen Fähigkeiten und den leistungsstarken Suchfunktionen.
-ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342554"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130954"
 ---
 # <a name="content"></a>Inhalt
 
@@ -76,10 +76,10 @@ Mit dem Entwurfs-Manager können Organisationen Masterseiten, Seitenlayouts, mob
 
 In Dokumentenmappen können Benutzer mehrere Dateien konsolidiert als eine einzige Entität speichern und Aktionen auf diese Entität anwenden. Außerdem können sie sie exportieren und Beschreibungen hinzufügen. Auf jede erstellte Dokumentenmappe können Richtlinien, Tags und Vorlagen angewendet werden. Erfahren Sie mehr über [Dokumentenmappen](https://go.microsoft.com/fwlink/?LinkId=270954).
   
-## <a name="document-translation-in-word-online"></a>Document Translation in Word Online
+## <a name="document-translation-in-word-for-the-web"></a>Dokument Übersetzung in Word für das Internet
 <a name="bkmk_DocumentTranslationWordWebApp"> </a>
 
-In der Leseansicht enthält die Word Online nun eine Option, mit der Organisationen ihre Dokumente direkt im Browser übersetzen können. Sogar Dokumentkommentare werden übersetzt.
+In der Leseansicht verfügt Word für das Internet nun über eine Option, mit der Organisationen ihre Dokumente direkt im Browser übersetzen können. Sogar Dokumentkommentare werden übersetzt.
   
 ## <a name="ediscovery-search"></a>eDiscovery-Suche
 <a name="bkmk_eDiscovery_Search"> </a>
@@ -141,15 +141,15 @@ Die Metadaten-gesteuerte Navigation vereinfacht das Auffinden von Inhalten in la
 
 Aufbewahrungsrichtlinien können sich aus mehreren Stufen zusammensetzen, sodass Sie den gesamten Dokumentlebenszyklus mithilfe einer einzigen Richtlinie definieren können. Beispielsweise können Sie festlegen, dass Verträge jedes Jahr überprüft und nach sieben Jahren gelöscht werden. Erfahren Sie mehr über das [Speichern und Verwalten von Datensätzen](https://go.microsoft.com/fwlink/?LinkId=270968).
   
-## <a name="office-online-createedit"></a>Office Online (erstellen/bearbeiten)
+## <a name="office-for-the-web-createedit"></a>Office für das Internet (erstellen/bearbeiten)
 <a name="bkmk_OfficeWebAppsEdi"> </a>
 
-Als Office 365-Kunde können Sie in einem Internetbrowser Office-Dateien automatisch mit Office Online erstellen und bearbeiten. Die in Office Online verfügbaren Funktionen finden Sie unter [Office Online-Dienstbeschreibung](../office-online-service-description/office-online-service-description.md).
+Wenn Sie ein Office 365 Kunde sind, können Sie Office-Dateien mithilfe von Office für das Web in einem Internet Browser automatisch erstellen und bearbeiten. Informationen zu den in Office für das Internet verfügbaren Features finden Sie unter [Office for the Webdienst Description](../office-online-service-description/office-online-service-description.md).
   
-## <a name="office-online-view"></a>Office Online (Ansicht)
+## <a name="office-for-the-web-view"></a>Office für das Internet (Ansicht)
 <a name="bkmk_OfficeWebAppsView"> </a>
 
-Standardmäßig ist Office Online schreibgeschützt. Die Schreibschutzfunktion wird kostenlos bereitgestellt. Erfahren Sie mehr über die [Verwendung von Office Online auf der SharePoint-Website Ihrer Organisation](https://go.microsoft.com/fwlink/?LinkId=392609).
+Standardmäßig ist Office für das Internet nur Ansichtsbasiert. Die Schreibschutzfunktion wird kostenlos bereitgestellt. Erfahren Sie mehr über [die Verwendung von Office für das Web auf der SharePoint-Website Ihrer Organisation](https://go.microsoft.com/fwlink/?LinkId=392609).
   
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>

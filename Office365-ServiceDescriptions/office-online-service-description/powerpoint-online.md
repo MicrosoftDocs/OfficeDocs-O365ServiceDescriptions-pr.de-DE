@@ -1,5 +1,5 @@
 ---
-title: PowerPoint Online
+title: PowerPoint für das Internet
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,78 +14,78 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint Online (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365-Kunden mit Office Online können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: PowerPoint für das Web (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365 Kunden mit Office für das Internet können unterwegs Dateien anzeigen, erstellen und bearbeiten.
+ms.openlocfilehash: 68a0fd93508885d9d541b163ddfdf5b16098de05
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343744"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130881"
 ---
-# <a name="powerpoint-online"></a>PowerPoint Online
+# <a name="powerpoint-for-the-web"></a>PowerPoint für das Internet
 
-PowerPoint Online (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365-Kunden mit Office Online können Dateien unterwegs anzeigen, erstellen und bearbeiten.
+PowerPoint für das Web (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365 Kunden mit Office für das Internet können unterwegs Dateien anzeigen, erstellen und bearbeiten.
   
 Der PowerPoint-Editor ist eine Web-Front-End-Komponente mit einer browserbasierten Bearbeitungsoberfläche, auf der Benutzer Dokumente ohne Verlust der Genauigkeit bearbeiten können.
   
-Wenn Sie auf der Symbolleiste PowerPoint online auf die Schaltfläche **in PowerPoint öffnen** klicken, wird die Präsentation in der PowerPoint-Desktop-App geöffnet (wenn Microsoft PowerPoint 2010 oder höher auf dem Computer installiert ist). 
+Wenn Sie auf der Symbolleiste PowerPoint für die Webanwendung auf die Schaltfläche **in PowerPoint öffnen** klicken, wird die Präsentation in der PowerPoint-Desktop-App geöffnet (wenn Microsoft PowerPoint 2010 oder höher auf dem Computer installiert ist). 
   
 Erfahren Sie, wie Sie [Office mit Office 365 for Business auf einem PC herunterladen und installieren](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 <a name="bkmk_AlignmentBulletsNumbers"> </a>
 
-Mit PowerPoint Online können Sie die Absatzausrichtung ändern, Aufzählungszeichen und Nummerierung anwenden und die Ebene von Aufzählungs- und nummeriertem Text ändern. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Mit PowerPoint für das Internet können Sie die Absatzausrichtung ändern, Aufzählungszeichen oder Nummerierungen anwenden und die Ebene des Aufzählungs-oder nummerierten Texts ändern. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="apply-basic-transitions-and-animations"></a>Apply basic transitions and animations
 <a name="bkmk_Applybasictransitions"> </a>
 
-Treffen Sie Ihre Auswahl aus einem Katalog von Animations- und Übergangseffekten. PowerPoint Online unterstützt acht Übergänge und 37 Animationen. Zusätzliche Animationen und Übergänge, die von PowerPoint Online nicht unterstützt werden, bleiben in der Präsentation erhalten und werden in der Bildschirmpräsentation angezeigt, können aber in PowerPoint Online nicht geändert werden. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Treffen Sie Ihre Auswahl aus einem Katalog von Animations- und Übergangseffekten. PowerPoint für das Internet unterstützt acht Übergänge und 37 Animationen. Zusätzliche Animationen und Übergänge, die nicht von PowerPoint für das Internet unterstützt werden, werden in der Präsentation beibehalten und in der Bildschirmpräsentation angezeigt, können aber in PowerPoint für das Internet nicht geändert werden. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>Apply rich formatting to text, shapes, and pictures
 <a name="bkmk_Applyrichformatting"> </a>
 
-Nicht verfügbar in PowerPoint Online. In der PowerPoint-Desktop-App sind erweiterte Formatierungsfeatures verfügbar, z. B. weitere Farben, Farbverläufe, Pipette, Effekte und Formatvorlagen. Mit PowerPoint Online können Sie ein Textfeld hinzufügen oder eine Auswahl aus einem Katalog mit Formen treffen und Formatvorlagen anwenden, in denen Füllung, Gliederung und Schatteneffekte vorgegeben sind. 
+Nicht verfügbar in PowerPoint für das Internet. Erweiterte Formatierungsfeatures wie mehr Farben, Farbverläufe, Pipetten, Effekte und Formatvorlagen sind in der PowerPoint-Desktop-App verfügbar. Mit PowerPoint für das Internet können Sie ein Textfeld hinzufügen oder aus einem Katalog von Shapes auswählen und Formatvorlagen anwenden, mit denen Füll-, Umriss-und Schatteneffekte definiert werden. 
   
 ## <a name="apply-themes-and-theme-variants"></a>Apply themes and theme variants
 <a name="bkmk_ApplyThemes"> </a>
 
-Treffen Sie in einem Katalog mit integrierten Designs und Varianten Ihre Auswahl, wenn Sie der Präsentation eine neue Folie hinzufügen. Von PowerPoint Online nicht unterstützte Designs werden in der Präsentation beibehalten. In PowerPoint Online können Designs aber nicht geändert werden. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Wählen Sie aus einer Galerie mit integrierten Designs und Varianten aus, wenn Sie der Präsentation eine neue Folie hinzufügen. Designs, die nicht von PowerPoint für das Internet unterstützt werden, werden in der Präsentation beibehalten, aber die Möglichkeit zum Ändern von Designs ist in PowerPoint für das Internet nicht verfügbar. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="office-add-ins"></a>Office-Add-Ins
 <a name="bkmk_AppsOffice"> </a>
 
-PowerPoint Online unterstützt nur Inhalts-Add-Ins für Office. Inhalts-Add-Ins integrieren webbasierte Features als Inhalt, der eingebettet in eine Präsentation angezeigt werden kann. Weitere Informationen zu den Typen von Add-Ins für Office finden Sie in dieser [Übersicht](https://go.microsoft.com/fwlink/p/?LinkId=282310).
+PowerPoint für das Internet unterstützt nur Inhalts-Add-Ins für Office. Inhalts-Add-Ins integrieren webbasierte Features als Inhalt, der eingebettet in eine Präsentation angezeigt werden kann. Weitere Informationen zu den Typen von Add-Ins für Office finden Sie in dieser [Übersicht](https://go.microsoft.com/fwlink/p/?LinkId=282310).
   
 ## <a name="arrange-objects"></a>Anordnen von Objekten
 <a name="bkmk_ArrangeObjects"> </a>
 
-In PowerPoint Online können Sie Formen und Textfelder in Ebenen und vom Hintergrund in den Vordergrund verschieben, drehen und neu anordnen sowie ihre Größe ändern. Sie können die Gruppierung von Formen aufheben, um sie einzeln zu bearbeiten. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Bewegen, Ändern der Größe, drehen oder Sortieren von Formen und Textfeldern in Ebenen, in PowerPoint für das Internet in einer Back-to-Front. Sie können die Gruppierung von Formen aufheben, um sie einzeln zu bearbeiten. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="broadcast-slide-show"></a>Broadcast slide show
 <a name="bkmk_BroadcastSlideShow"> </a>
 
-Um eine Bildschirmpräsentation über PowerPoint Online an eine entfernte Zielgruppe übertragen zu können, ist die PowerPoint-Desktop-App erforderlich. Livepräsentationen können unabhängig davon, ob die PowerPoint-Desktop-App installiert ist, über PowerPoint Online betrachtet werden. Weitere Informationen finden Sie unter [Info zum Feature "Bildschirmpräsentation übertragen"](https://go.microsoft.com/fwlink/?LinkId=272765).
+Die PowerPoint-Desktop-App ist erforderlich, um eine Bildschirmpräsentation über PowerPoint für das Internet an eine Remotebenutzer Gruppe zu übertragen. Zuschauer können Live-Präsentationen über PowerPoint für das Internet ansehen, unabhängig davon, ob Sie die PowerPoint-Desktop-App installiert haben. Weitere Informationen finden Sie unter [Info zum Feature "Bildschirmpräsentation übertragen"](https://go.microsoft.com/fwlink/?LinkId=272765).
   
 ## <a name="clipboard"></a>Zwischenablage
 <a name="bkmk_Clipboard"> </a>
 
-Mit PowerPoint Online können Sie Inhalt in einer Präsentation ausschneiden, kopieren und einfügen. Ein Benutzer kann Text zwischen Office Online-Programmen sowie zwischen Office Online und den Microsoft Office-Desktop-Apps auf dem Computer kopieren und einfügen. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Mit PowerPoint für das Internet können Sie Inhalte in einer Präsentation Ausschneiden, kopieren und einfügen. Ein Benutzer kann Text zwischen Office für die Webprogramme sowie zwischen Office für das Internet und den Microsoft Office Desktop-Apps auf dem Computer kopieren und einfügen. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="create-and-manage-slides"></a>Create and manage slides
 <a name="bkmk_CreateManageSlides"> </a>
 
-In PowerPoint Online können Sie Folien hinzufügen, neu anordnen, duplizieren, ausblenden und löschen. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Hinzufügen, neu anordnen, duplizieren, ausblenden und Löschen von Folien in PowerPoint für das Internet. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="create-custom-animation"></a>Create custom animation
 <a name="bkmk_Createcustomanimation"> </a>
 
-PowerPoint Online enthält einen Katalog von Animationseffekten. Animationen, die von PowerPoint Online nicht unterstützt werden, bleiben in der Präsentation erhalten und werden in der Bildschirmpräsentation angezeigt, können aber in PowerPoint Online nicht geändert werden. Zum Erstellen benutzerdefinierter Animationen muss auf Ihrem Computer die PowerPoint-Desktop-App installiert sein. Erfahren Sie mehr über das [Erstellen benutzerdefinierter Animationseffekte mit der PowerPoint 2013-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=282348).
+PowerPoint für das Internet enthält eine Sammlung von Animationseffekten. Von PowerPoint für das Internet nicht unterstützte Animationen bleiben in der Präsentation erhalten und werden in der Bildschirmpräsentation angezeigt, können aber in PowerPoint für das Internet nicht geändert werden. Zum Erstellen benutzerdefinierter Animationen muss auf Ihrem Computer die PowerPoint-Desktop-App installiert sein. Erfahren Sie mehr über das [Erstellen benutzerdefinierter Animationseffekte mit der PowerPoint 2013-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=282348).
   
 ## <a name="design-tools--advanced"></a>Design tools- advanced
 <a name="bkmk_DesigntoolsAdvanced"> </a>
 
-Nicht verfügbar in PowerPoint Online. Erweiterte Designfunktionen, z. B. zum Erstellen von Folienmastern und zum Ändern von Layouts, sind nur in der PowerPoint-Desktop-App verfügbar. Mit PowerPoint Online können Sie eine eigene Vorlagendatei als Grundlage für das Erstellen neuer Dateien verwenden oder eine Auswahl in einer vordefinierten Liste mit Designs treffen.
+Nicht verfügbar in PowerPoint für das Internet. Erweiterte Entwurfsfeatures wie das Erstellen von Folienmastern und das Ändern von Layouts stehen nur in der PowerPoint-Desktop-App zur Verfügung. Mit PowerPoint für das Internet können Sie Ihre eigene Vorlagendatei als Grundlage für das Erstellen neuer Dateien verwenden oder aus einer vordefinierten Liste von Designs auswählen.
   
 ## <a name="dropbox"></a>Dropbox
 <a name="bkmk_Dropbox"> </a>
@@ -95,12 +95,12 @@ Bei Dropbox handelt es sich um einen Dateihostingdienst, der einen Cloudspeicher
 ## <a name="embed-presentation-on-web-or-blog-page"></a>Embed presentation on web or blog page
 <a name="bkmk_Embedpresentation"> </a>
 
-Mit PowerPoint Online können Sie Präsentationen auf Websites oder in Blogs einbetten, sodass Ihre Informationen von allen betreffenden Personen angezeigt werden können, auch wenn sie die Microsoft PowerPoint-Desktop-App nicht installiert haben. Eingebettete Viewer zeigen Animationen, Übergänge sowie Audio- und Videoinhalte originalgetreu wie in der Leseansicht an. Erfahren Sie mehr über das [Einbetten einer PowerPoint-Präsentation in eine Web- oder Blogseite](https://go.microsoft.com/fwlink/?LinkId=272766).
+Mit PowerPoint für das Web können Sie Präsentationen in Websites oder Blogs einbetten, damit alle Benutzer Ihre Informationen anzeigen können, auch wenn Sie nicht über Microsoft PowerPoint Desktop-App verfügen. Eingebettete Viewer zeigen Animationen, Übergänge sowie Audio- und Videoinhalte originalgetreu wie in der Leseansicht an. Erfahren Sie mehr über das [Einbetten einer PowerPoint-Präsentation in eine Web- oder Blogseite](https://go.microsoft.com/fwlink/?LinkId=272766).
   
 ## <a name="font-formatting"></a>Schriftartformatierung
 <a name="bkmk_FontFormatting"> </a>
 
-PowerPoint Online ermöglicht das Anwenden von Fett, Kursiv, Unterstrichen, Schriftart, Größe und Farbe auf Text. Mit „Format übertragen" können Sie auch das Format des gesamten Shapes kopieren.
+PowerPoint für das Internet ermöglicht das Anwenden von Fett, kursiv, unterstrichen, Schriftart, Größe und Farbe auf Text. Mit „Format übertragen" können Sie auch das Format des gesamten Shapes kopieren.
   
 ## <a name="full-fidelity-reading-view"></a>Originalgetreue Leseansicht
 <a name="bkmk_FullFidelityReading"> </a>
@@ -110,42 +110,42 @@ Zeigen Sie Präsentationen originalgetreu an: mit Animationen, Übergängen und 
 ## <a name="full-ink-support"></a>Full ink support
 <a name="bkmk_FullInkSupport"> </a>
 
-Freihandobjekte können nicht in PowerPoint Online eingefügt werden. Sie werden jedoch von PowerPoint Online wie erwartet angezeigt.
+Freihand kann nicht in PowerPoint für das Internet eingefügt werden, aber PowerPoint für das Internet zeigt Sie wie erwartet an.
   
 ## <a name="full-selection-of-animations-and-transitions"></a>Full selection of animations and transitions
 <a name="bkmk_FullAnimationsTransitions"> </a>
 
-PowerPoint Online unterstützt acht Übergänge und 37 Animationen. Eine größere Auswahl bietet die PowerPoint-Desktop-App. 
+PowerPoint für das Internet unterstützt acht Übergänge und 37 Animationen. Eine größere Auswahl bietet die PowerPoint-Desktop-App. 
   
 ## <a name="headers-and-footers"></a>Kopf- und Fußzeilen
 <a name="bkmk_HeadersFooters"> </a>
 
-Kopf- und Fußzeilen, einschließlich Datum und Foliennummern, können in PowerPoint Online zwar nicht eingefügt, bearbeitet oder gelöscht werden, werden aber von PowerPoint Online wie erwartet angezeigt. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Kopf-und Fußzeilen, einschließlich Datums-und Foliennummern, können in PowerPoint für das Internet nicht eingefügt, bearbeitet oder gelöscht werden, PowerPoint für das Internet zeigt diese jedoch wie erwartet an. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
-Sie können Links einfügen, bearbeiten und folgen. Links zu Lesezeichen funktionieren, können aber in PowerPoint Online nicht bearbeitet werden.
+Sie können Links einfügen, bearbeiten und folgen. Lesezeichenlinks funktionieren, können jedoch nicht in PowerPoint für das Internet bearbeitet werden.
   
 ## <a name="insert-online-video"></a>Einfügen von Onlinevideos
 <a name="bkmk_InsertOnlineVideo"> </a>
 
-Video- und Audioinhalte werden in der Leseansicht und Bildschirmpräsentation mit einer maximalen Dateigröße von 100 MB wiedergegeben. Onlinevideo kann aus YouTube eingefügt werden, und Mediensteuerelemente können in PowerPoint Online verschoben und gelöscht werden. Auch ihre Größe kann geändert werden. Zum Einfügen anderer Video- und Audioinhalte als YouTube benötigen Sie jedoch die Microsoft PowerPoint-Desktop-App.
+Video-und Audioinhalte werden in der Leseansicht und Bildschirmpräsentation mit einer Dateigrößenbeschränkung von 100 MB wiedergegeben. Online Videos können von YouTube eingefügt werden, und mediensteuerelemente können in PowerPoint für das Internet geändert, verschoben und gelöscht werden. Um jedoch andere Audio-und Videodaten als YouTube einzufügen, benötigen Sie die Microsoft PowerPoint Desktop-App.
   
 ## <a name="integration-with-excel-for-charts"></a>Integration with Excel for charts
 <a name="bkmk_IntegrationExcel"> </a>
 
-Nicht verfügbar in PowerPoint Online. Mit PowerPoint Online können Sie Excel-Diagramme in einer vorhandenen Präsentation anzeigen, aber es ist nicht möglich, mit PowerPoint Online ein Excel-Diagramm in einer Präsentation zu bearbeiten oder einzufügen. Erfahren Sie mehr über das [Kopieren eines Excel-Diagramms in ein PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272773).
+Nicht verfügbar in PowerPoint für das Internet. Mit PowerPoint für das Internet können Sie Excel-Diagramme in einer vorhandenen Präsentation anzeigen, aber Sie können kein Excel-Diagramm in einer Präsentation mit PowerPoint für das Internet bearbeiten oder einfügen. Erfahren Sie mehr über das [Kopieren eines Excel-Diagramms in ein PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272773).
   
 ## <a name="navigation-slide-sorter"></a>Navigation— slide sorter
 <a name="bkmk_Navigation"> </a>
 
-Nicht verfügbar in PowerPoint Online. Die Foliensortieransicht, in der Ihre Folien für ein schnelles Sortieren und Organisieren als Miniaturen angezeigt werden, ist in PowerPoint Online nicht verfügbar. Mit der PowerPoint-Desktop-App können Sie die Foliensortieransicht verwenden, um Ihre Folien zu organisieren, Abschnitte hinzuzufügen und die Folien in verschiedenen Kategorien zu sortieren.
+Nicht verfügbar in PowerPoint für das Internet. Foliensortierungsansicht mit einer Ansicht der Folien in der Miniaturansicht, die das Sortieren und organisieren von Folien vereinfacht, ist in PowerPoint für das Internet nicht verfügbar. Mit der PowerPoint-Desktop-App können Sie die Foliensortieransicht verwenden, um Ihre Folien zu organisieren, Abschnitte hinzuzufügen und die Folien in verschiedenen Kategorien zu sortieren.
   
 ## <a name="offline-viewing-and-authoring"></a>Offlineansicht und -erstellung
 <a name="bkmk_Offlineviewingandauthoring"> </a>
 
-PowerPoint Online wird von einem Webbrowser aus gestartet und benötigt eine Internetverbindung. Um offline auf Präsentationen zugreifen zu können, muss auf Ihrem Computer die Microsoft PowerPoint-Desktop-App zum Anzeigen und Bearbeiten von Folien installiert sein.
+PowerPoint für das Web wird von einem Webbrowser aus gestartet und basiert auf einer Internet Verbindung. Um offline auf Präsentationen zugreifen zu können, muss auf Ihrem Computer die Microsoft PowerPoint-Desktop-App zum Anzeigen und Bearbeiten von Folien installiert sein.
   
 ## <a name="picture-cropping"></a>Bildzuschnitt
 <a name="bkmk_PictureCropping"> </a>
@@ -155,57 +155,57 @@ Verbessern Sie mit dem Tool für die Fotozuschneidung den Rahmen eines Motivs de
 ## <a name="pictures"></a>Bilder
 <a name="bkmk_Pictures"> </a>
 
-Mit PowerPoint Online können Sie auf Ihrem Computer gespeicherte Bilder oder Bing-Bilder einfügen. Sie können Bilder verschieben, sie zuschneiden, ihre Größe ändern und eine Reihe von Bildeffekten anwenden. Ausgeklügeltere Features für das Arbeiten mit Bildern, z. B. zum Anwenden von Effekten, sind in PowerPoint Online nicht verfügbar. Sie können in PowerPoint Online keine Screenshots erstellen. In der Präsentation bereits enthaltene Screenshots werden in PowerPoint Online allerdings als Grafiken angezeigt. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Mit PowerPoint für das Internet können Sie auf Ihrem Computer gespeicherte Bilder einfügen oder Bilder aus Bing-Bildern einfügen. Sie können Bilder ändern und anpassen und eine Reihe von Bildformatvorlagen anwenden. Komplexere Features zum Arbeiten mit Grafiken, beispielsweise Effekte, stehen in PowerPoint für das Internet nicht zur Verfügung. Sie können keine Screenshots in PowerPoint für das Internet erstellen, aber Screenshots in einer Präsentation werden als Bilder in PowerPoint für das Internet angezeigt. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="present-online-through-skype-for-business-or-the-office-presentation-service"></a>Present online through Skype for Business or the Office Presentation Service
 <a name="bkmk_PresentOnline"> </a>
 
-Nicht verfügbar in PowerPoint Online. Mit der Microsoft PowerPoint-Desktop-App können Sie Ihre Präsentationen über den Office-Präsentationsdienst durchführen. Der Office-Präsentationsdienst ist ein kostenloser, öffentlicher Dienst, über den andere Personen Ihrer Präsentation in ihrem Webbrowser folgen können. Erfahren Sie mehr über den [Office-Präsentationsdienst](https://go.microsoft.com/fwlink/?LinkId=272774).
+Nicht verfügbar in PowerPoint für das Internet. Mit Microsoft PowerPoint Desktop-App können Sie Ihre Präsentationen mit dem Office Presentation Service, einem kostenlosen öffentlichen Dienst, bereitstellen, der es anderen ermöglicht, im Webbrowser zu folgen. Erfahren Sie mehr über [Office Presentation Service](https://go.microsoft.com/fwlink/?LinkId=272774).
   
 ## <a name="presenter-view"></a>Presenter view
 <a name="bkmk_PresenterView"> </a>
 
-Nicht verfügbar in PowerPoint Online. Nur die Microsoft PowerPoint-Desktop-App ermöglicht einem Referenten die Steuerung der Präsentationsübertragung, der Notizen, Anmerkungen und Zoomtools im Hintergrund. PowerPoint Online unterstützt diese Features nicht.
+Nicht verfügbar in PowerPoint für das Internet. Nur die Microsoft PowerPoint-Desktop-App ermöglicht einem Referenten die Steuerung der Präsentationsübertragung, der Notizen, Anmerkungen und Zoomtools im Hintergrund. PowerPoint für das Internet unterstützt diese Features nicht.
   
 ## <a name="print-to-pdf"></a>Als PDF drucken
 <a name="bkmk_PrinttoPDF"> </a>
 
-Mit PowerPoint Online können Sie Ihre Präsentation in einen PDF-Reader ausgeben, in dem das Layout und die Formatierung Ihrer Folien wie von Ihnen beabsichtigt gedruckt wird. Erfahren Sie mehr über [Grundlegende Aufgaben in PowerPoint Online](https://go.microsoft.com/fwlink/?LinkId=272775).
+Mit PowerPoint für das Internet können Sie Ihre Präsentation auf einen PDF-Reader drucken, in dem das Layout und die Formatierung Ihrer Folien wie erwartet gedruckt werden. Erfahren Sie mehr über [grundlegende Aufgaben, die Sie mit PowerPoint für das Internet ausführen können](https://go.microsoft.com/fwlink/?LinkId=272775).
   
 ## <a name="proofing-tools"></a>Korrekturhilfen
 <a name="bkmk_ProofingTools"> </a>
 
-Mit dem in PowerPoint Online integrierten Wörterbuch können Sie die Rechtschreibung prüfen und die Sprache für die Korrekturhilfe festlegen. PowerPoint Online verwendet jedoch kein benutzerdefiniertes Wörterbuch und enthält auch keine Übersetzungsfunktion und keinen Thesaurus.
+Sie können die Rechtschreibung überprüfen und die Sprachkorrektur Sprache festlegen, indem Sie das integrierte Wörterbuch mit PowerPoint für das Internet verwenden. PowerPoint für das Internet verwendet jedoch kein Benutzerwörterbuch und umfasst keine Übersetzung oder einen Thesaurus.
   
 ## <a name="real-time-co-authoring"></a>Gemeinsame Dokumenterstellung in Echtzeit
 <a name="bkmk_Coauthoring"> </a>
 
-Mehrere Autoren können gleichzeitig in PowerPoint Online und in PowerPoint 2016 arbeiten. Mithilfe von Echtzeitinformationen zur Anwesenheit können Sie sehen, an welchen Stellen der Präsentation Kollegen arbeiten, sodass beim Bearbeiten keine Konflikte entstehen. Sie können alle Änderungen sehen, noch während sie vorgenommen werden. PowerPoint 2013 unterstützt gleichzeitiges Bearbeiten, aber es sind keine Anwesenheitsinformationen vorhanden. Änderungen sind erst für mehrere Autoren sichtbar, nachdem das Dokument gespeichert wurde. Weitere Informationen zur gemeinsamen Dokumenterstellung in Echtzeit in PowerPoint finden Sie unter [Zusammenarbeiten an PowerPoint-Präsentationen](https://go.microsoft.com/fwlink/?linkid=844014).
+Mehrere Autoren können gleichzeitig in PowerPoint für das Internet und PowerPoint 2016 arbeiten. Die Echtzeitanwesenheit hilft Ihnen zu sehen, wo Ihre Co-Autoren in der Präsentation arbeiten, damit Sie bei der Bearbeitung keine Konflikte verursachen, und Sie können Änderungen so sehen, wie Sie vorgenommen werden. PowerPoint 2013 unterstützt Gleichzeitiges Bearbeiten, aber es gibt keine Anwesenheits Angabe, und Änderungen können von mehreren Autoren erst angezeigt werden, wenn das Dokument gespeichert wird. Weitere Informationen zur gemeinsamen Erstellung in Echtzeit in PowerPoint finden Sie unter [work together on PowerPoint presentations](https://go.microsoft.com/fwlink/?linkid=844014).
   
 ## <a name="reviewer-tools---advanced"></a>Bearbeiter-Tools – erweitert
 <a name="bkmk_AdvancedReviewerTools"> </a>
 
-Nicht verfügbar in PowerPoint Online. Erweiterte Prüfer Funktionen wie Konflikte zusammenführen und Präsentationen vergleichen stehen nur in der PowerPoint-Desktop-App zur Verfügung. Mit PowerPoint Online können Sie Kommentare anzeigen, hinzufügen, bearbeiten oder löschen.
+Nicht verfügbar in PowerPoint für das Internet. Erweiterte Prüfer Funktionen wie Konflikte zusammenführen und Präsentationen vergleichen stehen nur in der PowerPoint-Desktop-App zur Verfügung. Mit PowerPoint für das Internet können Sie Kommentare anzeigen, hinzufügen, bearbeiten oder löschen.
   
 ## <a name="rights-management-apply-and-consume-irm-and-password-protection"></a>Rechteverwaltung: anwenden und Verwenden von IRM-und Kennwortschutz
 <a name="bkmk_CreationPasswords"> </a>
 
-Nicht verfügbar in PowerPoint Online. PowerPoint Online zeigt Präsentationen an, die mit der Verwaltung von Informationsrechten geschützt sind (Information Rights Management, IRM). Diese Präsenationen können allerdings nicht im Browser bearbeitet werden, und Sie können keine IRM-geschützten Präsentationen in PowerPoint Online erstellen. PowerPoint Online kann Dokumente nicht öffnen, die digital signiert oder mit einem Kennwort verschlüsselt sind. 
+Nicht verfügbar in PowerPoint für das Internet. PowerPoint für das Internet zeigt Präsentationen an, die mit der Verwaltung von Informationsrechten (Information Rights Management, IRM) geschützt sind. Diese Präsentationen können jedoch nicht im Browser bearbeitet werden, und Sie können keine IRM-geschützten Präsentationen in PowerPoint für das Internet erstellen. PowerPoint für das Internet kann keine Präsentationen öffnen, die digital signiert oder mit einem Kennwort verschlüsselt sind. 
   
 ## <a name="run-slide-show"></a>Run slide show
 <a name="bkmk_RunSlideShow"> </a>
 
-Mit PowerPoint Online können Sie Ihre Präsentation bei bestehender Internetverbindung einfach in einem Webbrowser durchführen. Erfahren Sie mehr über [Grundlegende Aufgaben in PowerPoint Online](https://go.microsoft.com/fwlink/?LinkId=272775).
+Mit PowerPoint für das Web können Sie Ihre Präsentation nur mit einem Webbrowser und einer Internet Verbindung ausführen. Erfahren Sie mehr über [grundlegende Aufgaben, die Sie mit PowerPoint für das Internet ausführen können](https://go.microsoft.com/fwlink/?LinkId=272775).
   
 ## <a name="save-as-or-download-a-copy"></a>"Speichern unter" oder "Kopie herunterladen"
 <a name="bkmk_Save"> </a>
 
-PowerPoint Online speichert Ihre Arbeit, sobald Sie eine Änderung vornehmen. Es gibt keinen Befehl zum Speichern. Sie können eine Kopie herunterladen, benötigen aber die Microsoft PowerPoint-Desktop-App, um eine lokale Kopie zu bearbeiten.
+PowerPoint für das Internet speichert Ihre Arbeit jedes Mal, wenn Sie eine Änderung vornehmen. Es gibt keinen Befehl zum Speichern. Sie können eine Kopie herunterladen, benötigen aber die Microsoft PowerPoint-Desktop-App, um eine lokale Kopie zu bearbeiten.
   
 ## <a name="shapes"></a>Formen
 <a name="bkmk_Shapes"> </a>
 
-WordArt-Elemente und Diagramme können nicht in PowerPoint Online eingefügt werden. Sie werden jedoch von PowerPoint Online wie erwartet angezeigt. In der Bearbeitungsansicht können Sie Text bearbeiten und formatieren. Wenn Sie einen Texteffekt auf ein WordArt-Element anwenden möchten, benötigen Sie die Microsoft PowerPoint-Desktop-App.
+Word-Grafiken und Diagramme können nicht in PowerPoint für das Internet eingefügt werden, aber PowerPoint für das Internet zeigt Sie wie erwartet an. Bearbeiten und Formatieren von Text in der Bearbeitungsansicht Wenn Sie Texteffekt auf Word-Grafik anwenden möchten, benötigen Sie Microsoft PowerPoint Desktop-App.
   
 ## <a name="share"></a>Freigeben
 <a name="bkmk_Share"> </a>
@@ -215,27 +215,27 @@ Wenn Ihre Präsentation in einer SharePoint-Dokumentbibliothek gespeichert ist, 
 ## <a name="slide-show"></a>Slide show
 <a name="bkmk_Slideshow"> </a>
 
-PowerPoint Online gibt Bildschirmpräsentation in einem Vollbildfenster wieder. Drücken Sie die LEERTASTE, um die jeweils nächste Folien anzuzeigen. Folienanimationen werden wiedergegeben, als Übergänge werden aber nur "Einblenden" und "Wischen" unterstützt. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+PowerPoint für das Internet Wiedergabe von Bildschirmpräsentationen in einem Vollbildfenster. Drücken Sie die LEERTASTE, um die jeweils nächste Folien anzuzeigen. Folienanimationen werden wiedergegeben, als Übergänge werden aber nur "Einblenden" und "Wischen" unterstützt. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="smartart"></a>SmartArt
 <a name="bkmk_SmartArt"> </a>
 
-Sie können mit PowerPoint Online SmartArt-Elemente einfügen, zu einem anderen Layout oder Farbschema wechseln, SmartArt-Formatvorlagen anwenden und Text bearbeiten. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Sie können SmartArt-Methoden einfügen, zu einem anderen Layout oder Farbschema wechseln, SmartArt-Formatvorlagen anwenden und Text mit PowerPoint für das Internet bearbeiten. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="table-creationediting-and-formatting"></a>Table creation/editing and formatting
 <a name="bkmk_Tablecreation"> </a>
 
-Tabellen können in PowerPoint Online erstellt und bearbeitet werden, und PowerPoint Online unterstützt die meisten Tabellenfunktionen. Für erweiterte Funktionen z. B. Zusammenführen und Teilen von Zellen, verwenden Sie die PowerPoint-Desktop-App. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
+Tabellen können in PowerPoint für das Internet erstellt und bearbeitet werden, und PowerPoint für das Internet unterstützt die meisten Tabellenfunktionen. Verwenden Sie für erweiterte Funktionen wie das Zusammenführen und Teilen von Zellen die PowerPoint-Desktop-App. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Präsentation im Browser und in der PowerPoint-Desktop-App](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="tell-me"></a>Sie wünschen...
 <a name="Bkmk_TellMe_PPT"> </a>
 
-Wenn Sie eine Aufgabe in PowerPoint Online ausführen möchten, aber nicht weiter wissen, können Sie die Suchfunktion "Was möchten Sie tun?" verwenden, um das Gesuchte schnell zu finden. Die Funktion versteht, welche Aktion Sie auszuführen versuchen, und hilft Ihnen mithilfe von Vorschlägen, dies schneller zu tun.
+Wenn Sie etwas in PowerPoint für das Internet durchführen müssen, aber nicht wissen, wie, können Sie die Funktion "mich suchen" verwenden, um schnell zu finden, wonach Sie suchen. Die Funktion versteht, welche Aktion Sie auszuführen versuchen, und hilft Ihnen mithilfe von Vorschlägen, dies schneller zu tun.
   
 ## <a name="undo-and-redo"></a>"Rückgängig" und "Wiederholen"
 <a name="bkmk_Undoredo"> </a>
 
-Sie können in der jeweils aktuellen Bearbeitungssitzung in der aktiven Präsentation eine unbegrenzte Anzahl von Aktionen rückgängig machen (STRG+Z) und wiederholen (STRG+Y). Wenn bei der Bearbeitungssitzung eine Zeitüberschreitung auftritt oder Sie für länger als 30 Sekunden in die Leseansicht wechseln, wird der Verlauf rückgängig gemachter Vorgänge zurückgesetzt. Erfahren Sie mehr über [Tastenkombinationen in PowerPoint Online](https://go.microsoft.com/fwlink/?LinkId=272950).
+Sie können in der jeweils aktuellen Bearbeitungssitzung in der aktiven Präsentation eine unbegrenzte Anzahl von Aktionen rückgängig machen (STRG+Z) und wiederholen (STRG+Y). Wenn bei der Bearbeitungssitzung eine Zeitüberschreitung auftritt oder Sie für länger als 30 Sekunden in die Leseansicht wechseln, wird der Verlauf rückgängig gemachter Vorgänge zurückgesetzt. Erfahren Sie mehr über [Tastenkombinationen in PowerPoint für das Internet](https://go.microsoft.com/fwlink/?LinkId=272950).
   
 ## <a name="view-and-add-comments"></a>Anzeigen und Hinzufügen von Kommentaren
 <a name="bkmk_Viewaddcomments"> </a>
@@ -247,7 +247,7 @@ Wenn Ihre Dateien in OneDrive gespeichert sind, können Sie in der Bearbeitungsa
 ## <a name="view-and-edit-slide-notes"></a>View and edit slide notes
 <a name="bkmk_Viewslidenotes"> </a>
 
-Mit PowerPoint Online können Notizen für jede Folie ein- oder ausgeblendet werden. Im Bearbeitungsmodus können Sie auch Notizen hinzufügen.
+Mit PowerPoint für das Internet können Notizen für jede Folie angezeigt oder ausgeblendet werden. Im Bearbeitungsmodus können Sie auch Notizen hinzufügen.
   
 ## <a name="wysiwyg-viewing"></a>WYSIWYG-Anzeige
 <a name="bkmk_WYSIWYGViewing"> </a>
@@ -257,4 +257,4 @@ Bearbeiten Sie Ihre Präsentation dahingehend, dass die Darstellung dem gedruckt
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 <a name="bkmk_WYSIWYGViewing"> </a>
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Office Online-Dienstbeschreibung](office-online-service-description.md). 
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office for the Webdienst Description](office-online-service-description.md). 

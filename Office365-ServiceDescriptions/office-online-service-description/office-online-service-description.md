@@ -1,5 +1,5 @@
 ---
-title: Office Online-Dienstbeschreibung
+title: Office für die Webdienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,37 +11,37 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: In Office Online (ehemals Office-Webanwendungen) werden Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser geöffnet. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internet Verbindung von nahezu jedem Gerät aus. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
+ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018307"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131239"
 ---
-# <a name="office-online-service-description"></a>Office Online-Dienstbeschreibung
+# <a name="office-for-the-web-service-description"></a>Office für die Webdienstbeschreibung
 
-In Office Online (ehemals Office-Webanwendungen) werden Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser geöffnet. Office Online vereinfacht bei bestehender Internetverbindung die standort- und geräteunabhängige Arbeit mit und Freigabe von Office-Dateien. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
+Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internet Verbindung von nahezu jedem Gerät aus. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
   
 Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-## <a name="feature-availability-across-office-online-plans"></a>Verfügbarkeit von Features in Office Online-Plänen
+## <a name="feature-availability-across-office-for-the-web-plans"></a>Feature-Verfügbarkeit in Office für die webpläne
 <a name="bkmk_FeatureavailabilityO365"> </a>
 
-Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am besten die Anforderungen Ihres Unternehmens erfüllt? In den folgenden Tabellen werden die Office Online-Features den funktionsreichen Microsoft Office-Desktop-Apps gegenübergestellt. Der Tabelle können Sie entnehmen, welche Features in Office Online verfügbar sind. Durch Klicken auf den Featurenamen wird eine kurze Beschreibung zur Funktionsweise angezeigt. Möglicherweise benötigen einige Personen in Ihrer Organisation die erweiterte Diagrammfunktion der Excel-Desktop-App, andere hingegen müssen nur Word-Dokumente und PowerPoint-Präsentationen mit Office Online anzeigen und geringfügig bearbeiten. 
+Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organisation am besten geeignet ist? In den folgenden Tabellen werden die Funktionen von Office für das Webfeature mit funktionsreichen Microsoft Office Desktop-Apps verglichen. Verwenden Sie die Tabellen, um zu ermitteln, welche Features in Office für das Web zur Verfügung stehen, und klicken Sie dann auf den Featurenamen, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie stellen möglicherweise fest, dass einige Personen in Ihrer Organisation die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Internet anzeigen und leicht bearbeiten müssen. 
   
 > [!NOTE]
->  Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabellen enthalten nicht alle Microsoft Office-Funktionen.<br/>  Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite.<br/>  Microsoft Office Online Server-Kunden erhalten eine Office Online Bearbeitungs Lizenz, wenn Sie eine Office Desktop Suite-Lizenz erworben haben (beispielsweise eine Office Professional Plus-, Office Standard-oder Office 365 ProPlus-Lizenz). 
+>  Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabellen enthalten nicht alle Microsoft Office-Funktionen.<br/>  Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite.<br/>  Microsoft Office Online Server-Kunden erhalten ein Office für die webbearbeitungs Lizenz, wenn Sie eine Office Desktop Suite-Lizenz erworben haben (beispielsweise eine Office Professional Plus-, Office Standard-oder Office 365 ProPlus-Lizenz). 
   
 > [!NOTE]
-> Wenn Sie ein Office-Dokument öffnen (als Outlook-E-Mail-Anlage oder aus einer SharePoint-Dokumentbibliothek), wird das Dokument in Office Online schreibgeschützt geöffnet. Zur Bearbeitung eines Dokuments in Office Online (Bearbeitungsmodus) benötigen Sie eine Lizenz für die Office 365-Suite, z. B. Office 365 Enterprise E1. Zum Bearbeiten des Dokuments benötigen Sie eine Lizenz für eine Office-Desktopsuite, z. B. eine Office 365 ProPlus-Lizenz oder eine Installierte Version von Office Professional Plus 2010. 
+> Wenn Sie ein Office-Dokument entweder als Outlook-e-Mail-Anlage oder in einer SharePoint-Dokumentbibliothek öffnen, wird das Dokument in Office für das Web gestartet und ist schreibgeschützt. Zum Bearbeiten eines Dokuments in Office für das Internet (Bearbeitungsmodus) benötigen Sie eine Office 365 Suite-Lizenz wie Office 365 Enterprise E1. Zum Bearbeiten des Dokuments benötigen Sie eine Lizenz für eine Office-Desktopsuite, z. B. eine Office 365 ProPlus-Lizenz oder eine Installierte Version von Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 <a name="BKMK_WordFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**Word Online** <br/> |**Word-Desktop-App** <br/> |
+|**Anwendungsfeatures** <br/> |**Word für das Internet** <br/> |**Word-Desktop-App** <br/> |
 |[Hilfslinien und Echtzeitlayout](word-online.md#alignment-guides-and-live-layout) <br/> |Nein  <br/> |Ja  <br/> |
 |[Anwenden von Formatvorlagen](word-online.md#apply-styles) <br/> |Ja  <br/> |Ja  <br/> |
 |[Automatisches Speichern](word-online.md#autosave) <br/> |Ja  <br/> |Ja  <br/> |
@@ -110,7 +110,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Zoom](word-online.md#zoom) <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Diese werden im Viewer gerendert, können aber nicht in Office Online erstellt oder bearbeitet werden.<br/>
+> <sup>1</sup> diese werden im Viewer gerendert, können aber nicht in Office für das Internet erstellt oder bearbeitet werden. <br/>
 > <sup>2</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. <br/>
   
 ### <a name="excel"></a>Excel
@@ -118,7 +118,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 
 ||||
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**Excel Online** <br/> |**Excel-Desktop-App** <br/> |
+|**Anwendungsfeatures** <br/> |**Excel für das Internet** <br/> |**Excel-Desktop-App** <br/> |
 |[Barrierefreiheitsprüfung](excel-online.md#add-hyperlinks) <br/> |Ja  <br/> |Ja  <br/> |
 |[Hinzufügen von Hintergrundfarbe zu Blattregisterkarten](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Ja  <br/> |Ja  <br/> |
 |[Hinzufügen von Links](excel-online.md#add-hyperlinks) <br/> |Ja  <br/> |Ja  <br/> |
@@ -194,9 +194,9 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 
 > [!NOTE] 
 > <sup>1</sup> kann keine PivotCharts erstellen, nur anzeigen.
- <br/><sup>2</sup> je nach Konfiguration Ihrer Umgebung werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die in Excel Online angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
- <br/><sup>3</sup> Sie können in Excel online keine Makros mit VBA erstellen, aber Sie können VBA-fähige Arbeitsblätter öffnen und bearbeiten, ohne das in der Datei enthaltene VBA zu entfernen (oder zu beschädigen).
- <br/><sup>4</sup> in Excel Online wird der letzte bekannte Referenzwert im Browserfenster angezeigt; Es muss jedoch mit der Excel-Desktop-App aktualisiert werden. 
+ <br/><sup>2</sup> je nachdem, wie Ihre Umgebung konfiguriert ist, werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die in Excel für das Internet angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
+ <br/><sup>3</sup> Sie können keine Makros mit VBA in Excel für das Internet erstellen, aber Sie können VBA-fähige Arbeitsblätter öffnen und bearbeiten, ohne das in der Datei enthaltene VBA zu entfernen (oder zu beschädigen).
+ <br/><sup>4</sup> in Excel für das Internet wird der letzte bekannte Referenzwert im Browserfenster angezeigt; Es muss jedoch mit der Excel-Desktop-App aktualisiert werden. 
  <br/><sup>5</sup> einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
   
 ### <a name="onenote"></a>OneNote
@@ -204,7 +204,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 
 ||||
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**OneNote Online** <br/> |**OneNote-Desktop-App** <br/> |
+|**Anwendungsfeatures** <br/> |**OneNote für das Internet** <br/> |**OneNote-Desktop-App** <br/> |
 |[Erweiterte Zusammenarbeit: Neuer Inhalt wird als ungelesen angezeigt, Anwesenheit](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |Nein  <br/> |Ja  <br/> |
 |[Anwenden von Tags](onenote-online.md#apply-tags) <br/> |Ja  <br/> |Ja  <br/> |
 |[Aufzählungszeichen und Nummerierung](onenote-online.md#bullets-and-numbering) <br/> |Ja  <br/> |Ja  <br/> |
@@ -244,7 +244,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[Anzeigen früherer Seitenversionen](onenote-online.md#view-previous-page-versions) <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> in OneNote Online können Sie Abschnitte innerhalb eines Notizbuchs sowie Seiten aus einem Abschnitt in einen anderen kopieren und einfügen. 
+> <sup>1</sup> in OneNote für das Internet können Sie Abschnitte innerhalb eines Notizbuchs und kopieren und Einfügen von Seiten aus einem Abschnitt in einen anderen. 
  <br/> <sup>2</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
  <br/><sup>3</sup> Sie können auf der Seite oder im Abschnitt suchen, jedoch nicht auf gesamtes Notizbuch oder über Notebooks hinweg (wie in der Desktop Version möglich). 
  <br/><sup>4</sup> in der Desktop Version gibt es keine Option zum herunterladen, aber Sie können als an einen anderen Speicherort speichern. 
@@ -254,7 +254,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 
 ||||
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**PowerPoint Online** <br/> |**PowerPoint-Desktop-App** <br/> |
+|**Anwendungsfeatures** <br/> |**PowerPoint für das Internet** <br/> |**PowerPoint-Desktop-App** <br/> |
 |[Ausrichtung, Aufzählungszeichen, Nummerierung](powerpoint-online.md#alignment-bullets-numbers) <br/> |Ja  <br/> |Ja  <br/> |
 |[Anwenden einfacher Übergänge und Animationen](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |
 |[Anwenden umfangreicher Formatierung auf Text, Formen und Bilder](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Nein  <br/> |Ja  <br/> |
@@ -300,13 +300,13 @@ Benötigen Sie Unterstützung, um herauszufinden, welche Office-Lösung am beste
 |[WYSIWYG-Anzeige](powerpoint-online.md#wysiwyg-viewing) <br/> |Ja  <br/> |Ja  <br/> |
 
 > [!NOTE]   
-><sup>1</sup> PowerPoint Online unterstützt einen Katalog mit acht Übergängen und 37 Animationen. Für eine größere Auswahl oder zum Erstellen benutzerdefinierter Animationen verwenden Sie die PowerPoint-Desktop-App. 
+><sup>1</sup> PowerPoint für das Internet unterstützt eine Galerie mit acht Übergängen und 37 Animationen. Für eine größere Auswahl oder zum Erstellen benutzerdefinierter Animationen verwenden Sie die PowerPoint-Desktop-App. 
  <br/>
 <sup>2</sup> Das Gerät, auf dem Sie arbeiten, muss Freihandobjekte unterstützen. <br/> 
 <sup>3</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. <br/>
 <sup>4</sup> Sie können keine PivotCharts oder PivotTables erstellen, diese aber im Viewer anzeigen. 
   
-## <a name="supported-file-types-for-office-online"></a>Unterstützte Dateitypen für Office Online
+## <a name="supported-file-types-for-office-for-the-web"></a>Unterstützte Dateitypen für Office für das Internet
 <a name="bkmk_SupportedFileTypes"> </a>
 
 ||||

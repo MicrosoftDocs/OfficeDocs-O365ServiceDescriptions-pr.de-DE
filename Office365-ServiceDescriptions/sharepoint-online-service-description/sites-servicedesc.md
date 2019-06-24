@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Websitefunktionen bieten einen umfassenden Toolsatz, mit dem Ihre Organisation jede Website sowie eine einzelne Infrastruktur erstellen kann, was die Websiteverwaltung vereinfacht. Ausführlichere Informationen finden Sie unter Suchen von Inhalten zu SharePoint Online.
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342484"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130869"
 ---
 # <a name="sites"></a>Websites
 
@@ -104,7 +104,7 @@ Mithilfe von Aufgabenlisten können Sie Arbeiten auf hierarchische Weise verwalt
 ## <a name="team-notebook"></a>Team Notizbuch
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-Wenn Sie eine Teamwebsite erstellen, wird als Teil der Website automatisch ein gemeinsam genutztes OneNote 2013-Notizbuch erstellt. Mit diesem Notizbuch können Sie Informationen erfassen, kompilieren und austauschen. (Diese Funktion steht nur zur Verfügung, wenn Sie sich für eine Office 365-Suite registriert haben, die Unterstützung für Office Online bietet.)
+Wenn Sie eine Teamwebsite erstellen, wird als Teil der Website automatisch ein gemeinsam genutztes OneNote 2013-Notizbuch erstellt. Mit diesem Notizbuch können Sie Informationen erfassen, kompilieren und austauschen. (Dieses Feature ist nur verfügbar, wenn Sie sich bei einer Office 365-Suite mit Office für die Webunterstützung angemeldet haben.)
   
 ## <a name="variations"></a>Variationen
 <a name="bkmk_Variations"> </a>

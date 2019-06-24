@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation von schädlichen Links in Echtzeit. ATP verfügt über umfangreiche Berichte und URL-Ablaufverfolgungsfunktionen, mit denen Administratoren Einblicke in die Art von Angriffen in Ihrer Organisation erhalten.
-ms.openlocfilehash: 243f447f4fcdc9c76651894c301fb6c3bfbeb1b9
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 952dfc120f41bf9cce9ad88c33fc883d165eb8b5
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342954"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130989"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
@@ -73,7 +73,7 @@ Office 365 ATP werden weiterhin neue Features hinzugefügt. Nachfolgend finden S
 |[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) (TI) Funktionen sind jetzt Bedrohungs Ermittlungs-und-Antwortfunktionen im Rahmen von ATP-Plan 2. Neue Features wie [Automatische Untersuchung und Antwort](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)sowie Verbesserungen des [Threat-Explorers](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)werden bereit gerollt.<br/><br/>Wenn Ihre Organisation derzeit nicht über ATP verfügt oder wenn Sie ATP, aber nicht TI hatten, haben Sie nun mehrere Optionen zu berücksichtigen, wobei ATP Plan 1 und ATP Plan 2 verfügbar sind. Weitere Informationen finden Sie unter [Feature-Verfügbarkeit über Advanced Threat Protection (ATP)-Pläne](#feature-availability-across-advanced-threat-protection-atp-plans) (in diesem Artikel) und [Office 365 Advanced Threat Protection-Pläne und-Preise](https://products.office.com/exchange/advance-threat-protection). |Überprüfen Sie das Abonnement Ihrer Organisation, und falls erforderlich, [kaufen oder bearbeiten Sie ein Add-on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).  |
 |Wenn Benutzer Outlook oder Outlook-Webanwendung (OWA) verwenden, rendert [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) Original-URLs, nicht umgeschriebene URLs. (Wir rufen dieses systemeigene Link Rendering auf.)<br>Wenn ein systemeigenes Link Rendering für Ihre Organisation zur Verfügung steht, funktioniert dieses Feature in Outlook 365 (Klick-und-Los), OWA und unter Windows und Mac OS. |Keine         |
 |[Office 365 ATP-Warn Seiten](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) verfügen über ein neues Farbschema, mehr Details und die Möglichkeit, mit einer Website zu arbeiten, obwohl Warnungen und Empfehlungen gegeben sind. |Keine         |
-|Der Schutz für [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) wird erweitert, um auf URLs in Office Online (Word Online, Excel Online, PowerPoint Online und OneNote Online) und Office 365 ProPlus auf dem Mac anzuwenden.   |[Überprüfen und Bearbeiten der Richtlinien für ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
+|Der Schutz für [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) wird erweitert, um auf URLs in Office für das Internet zuzutreffen (Word für das Internet, Excel für das Internet, PowerPoint für das Internet und OneNote für das Internet) und Office 365 ProPlus auf dem Mac.   |[Überprüfen und Bearbeiten der Richtlinien für ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
 |Die Quarantänefunktionen im Security &amp; Compliance Center werden [für SharePoint Online, OneDrive für Unternehmen und Microsoft Teams auf ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams)erweitert. |[Überprüfen und Bearbeiten der Richtlinien für ATP-sichere Anlagen](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
 |Der Schutz für [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) wird auf e-Mails ausgedehnt, die zwischen Personen innerhalb einer Organisation gesendet werden. |[Überprüfen und Bearbeiten der Richtlinien für ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
 |Der Schutz für [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) wird erweitert, um auf URLs in e-Mails sowie auf URLs in Office 365 ProPlus-Dokumenten wie Word, Excel, PowerPoint und Visio unter Windows sowie auf Office-Apps auf IOS-und Android-Geräten anzuwenden.  |Vergewissern Sie sich, dass Sie die [moderne Authentifizierung für Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) verwenden |
@@ -126,7 +126,7 @@ Das Feature " [ATP-sichere Links](https://docs.microsoft.com/Office365/SecurityC
 
 ### <a name="real-time-reports"></a>Echtzeitberichte
 
-Die im Office 365 Security & Compliance Center verfügbaren Überwachungsfunktionen umfassen [Echtzeitberichte und](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) Einblicke, mit denen sich Ihre Sicherheits-und Compliance-Administratoren auf Probleme mit hoher Priorität konzentrieren können, beispielsweise Sicherheitsangriffe oder erhöhte verdächtige Aktivität. Neben der Hervorhebung von Problembereichen enthalten Smart Reports und Einblicke auch Empfehlungen und Links zum Anzeigen und Durchsuchen von Daten sowie zum Ausführen von schnell Aktionen. 
+Die im Office 365 Security #a0 Compliance Center verfügbaren Überwachungsfunktionen umfassen [Echtzeitberichte und](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) Einblicke, mit denen sich Ihre Sicherheits-und Compliance-Administratoren auf Probleme mit hoher Priorität konzentrieren können, beispielsweise Sicherheitsangriffe oder erhöhte verdächtige Aktivitäten. Neben der Hervorhebung von Problembereichen enthalten Smart Reports und Einblicke auch Empfehlungen und Links zum Anzeigen und Durchsuchen von Daten sowie zum Ausführen von schnell Aktionen. 
   
 ### <a name="threat-trackers"></a>Nachverfolgungslisten für Bedrohungen
 

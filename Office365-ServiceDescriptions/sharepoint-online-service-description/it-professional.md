@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden SharePoint-Funktionen unterstützen IT-Experten beim Sichern und Verwalten der SharePoint-Umgebung in ihrer Organisation.
-ms.openlocfilehash: 0f285fabb62b73914966127d4d880bd5ffb6e5a1
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 70868f9c00c42318013d1fdc8449668a2461f34a
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341934"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131309"
 ---
 # <a name="it-professional"></a>IT-Experte
 
@@ -102,7 +102,7 @@ Nicht verfügbar für SharePoint Online-Kunden. Die Ressourceneinschränkung ste
 ## <a name="service-application-platform"></a>Service Application Platform
 <a name="bkmk_ServiceApplicationPlatform"> </a>
 
-SharePoint-Dienste können individuell von jeder Webanwendung genutzt werden. Diese Plattform bietet die erforderliche Flexibilität, um Dienste entsprechend den Anwendungsanforderungen zu nutzen. Web Analytics ist keine Dienstanwendung mehr. Analysen und Berichterstellungsprozesse wurden in die Suchdienstanwendung integriert. Office Online ist keine Dienstanwendung mehr. Office Web Apps Server ist jetzt ein separates Serverprodukt. Je nachdem, welchen Office 365-Plan Ihre Organisation abonniert, ist Office Online unter Umständen für SharePoint Online-Kunden verfügbar. Erfahren Sie mehr über [SharePoint-Dienstanwendungen](https://go.microsoft.com/fwlink/p/?LinkId=270989).
+SharePoint-Dienste können individuell von jeder Webanwendung genutzt werden. Diese Plattform bietet die erforderliche Flexibilität, um Dienste entsprechend den Anwendungsanforderungen zu nutzen. Web Analytics ist keine Dienstanwendung mehr. Analysen und Berichterstellungsprozesse wurden in die Suchdienstanwendung integriert. Office für das Internet ist keine Dienstanwendung mehr. Office Web Apps Server ist jetzt ein separates Serverprodukt. Je nachdem, welche Office 365 Plan Ihre Organisation abonniert, steht Office für das Internet möglicherweise SharePoint Online Kunden zur Verfügung. Erfahren Sie mehr über [SharePoint-Dienstanwendungen](https://go.microsoft.com/fwlink/p/?LinkId=270989).
   
 ## <a name="sharepoint-health-analyzer"></a>SharePoint-Integritätsanalyse
 <a name="bkmk_SharePointHealthAnalyzer"> </a>

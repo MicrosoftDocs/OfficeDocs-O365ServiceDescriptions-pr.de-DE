@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie mehr über den OneDrive-Speicherplatz, der für jeden Abonnementplan bereitgestellt wird.
-ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343804"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131249"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business – Dienstbeschreibung
 
@@ -30,7 +30,7 @@ OneDrive ist in den Microsoft 365-, Office 365- und SharePoint Online-Plänen en
 Informationen zum Vergleichen von Plänen finden Sie unter [Vergleich von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) und [Vergleich von Plänen für OneDrive for Business](https://products.office.com/de-DE/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
-> Eigenständige Pläne von OneDrive for Business enthalten Office Online. 
+> Eigenständige Pläne von OneDrive for Business enthalten Office im Web. 
   
 ## <a name="system-requirements"></a>Systemanforderungen
 

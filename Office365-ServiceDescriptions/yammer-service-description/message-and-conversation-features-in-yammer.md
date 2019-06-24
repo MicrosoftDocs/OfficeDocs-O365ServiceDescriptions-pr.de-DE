@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
-ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342194"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130999"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Nachrichten- und Unterhaltungsfeatures in Yammer
 
@@ -49,10 +49,10 @@ Beginnen Sie mit einem oder mehreren Kollegen einen privaten Dialog. Sie können
 
 Geben Sie Unterhaltungen für den Feed einer anderen Gruppe oder über eine private Nachricht frei, um Informationen und wichtige Nachrichten weiterzugeben.
   
-## <a name="office-online-support"></a>Office Online support
+## <a name="office-for-the-web-support"></a>Unterstützung für Office für die Webdienste
 <a name="bkmk_ShareConversations"> </a>
 
-Mithilfe der Office Online-Unterstützung in Yammer können zu Yammer hochgeladene Dokumente mit Office Online direkt in Yammer angezeigt und bearbeitet werden. Dadurch können Dokumente ansprechend mit Office Online gerendert werden. Außerdem sind dadurch die gemeinsame und gleichzeitige Bearbeitung von unterschiedlichen Benutzern sowie die Anzeige relevanter Yammer-Unterhaltungen direkt in Ihrem Browser möglich.
+Mit Office für die Webunterstützung in "jammern" können Dokumente, die in "jammern" hochgeladen wurden, mit Office für das Internet direkt in jammern angezeigt und bearbeitet werden. Auf diese Weise können Dokumente mit Office für das Internet wunderbar gerendert werden, die gemeinsame Dokumenterstellung von verschiedenen Benutzern gleichzeitig ermöglicht und relevante Jammer Gespräche direkt in Ihrem Browser angezeigt werden.
   
 ## <a name="events"></a>Ereignisse
 <a name="bkmk_Events"> </a>

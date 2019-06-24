@@ -3,7 +3,6 @@ title: Microsoft 365 Business - Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie unter Office 365 Service descriptions.
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742104"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130969"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -36,7 +35,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |SharePoint Online  <br/> |Ja  <br/> |Ja  <br/> |
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Online  <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |
-|Office Online  <br/> |Ja  <br/> |Ja  <br/> |
+|Office für das Internet  <br/> |Ja  <br/> |Ja  <br/> |
 |Office-Anwendungen  <br/> |Ja  <br/> |Ja  <br/> |
 |Project Online  <br/> |Nr.<sup>3</sup> <br/> |Nr.<sup>3</sup> <br/> |
 |Power BI  <br/> |Nein  <br/> |Nein  <br/> |
@@ -118,7 +117,7 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Identitäts- und Zugriffsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Sicherheit E5** <br/> |
+|**Identitäts- und Zugriffsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Administrative Einheiten  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Cloud App Discovery  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
@@ -126,14 +125,13 @@ Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-descr
 |Self-Service-Kennwortzurücksetzung für Cloudidentitäten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Self-Service-Kennwortzurücksetzung mit lokalem Zurückschreiben in AD  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Bidirektionale Synchronisierung von Geräteobjekten zwischen lokalen Verzeichnissen und Azure AD (Zurückschreiben auf das Gerät)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|Bedingter Zugriff (basierend auf Gruppe, Ort, Gerätestatus, Anmeldung oder Benutzerrisiko)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|Bedingter Zugriff (basierend auf dem Gruppen-, Standort-oder Gerätestatus)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Unternehmensbranding (Anmeldeseiten, Anpassung von Zugriffspanel)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Anwendungs Proxy  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Nutzer-CAL für Microsoft Identity Manager (MIM)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Connect Health  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |SLA 99,9 %  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Advanced Threat Analytics  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|Bedingter Zugriff  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |**Geräte- und Anwendungsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Mobile Geräteverwaltung (MDM)<sup>15</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Automatische Registrierung bei mobiler Geräteverwaltung (MDM)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |

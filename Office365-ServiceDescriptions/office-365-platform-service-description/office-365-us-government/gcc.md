@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Um den eindeutigen und sich entwickelnden Anforderungen der US-Bundesstaaten, Staaten, lokalen und Stammes Regierungen sowie Auftragnehmern gerecht zu werden, die Daten im Namen der US-Regierung halten oder verarbeiten, bietet Microsoft Office 365 Dienste der US Government Community (gcc) an. Verfügbar über mehrere Kanäle, einschließlich Volumenlizenzierung, durchlaufen interessierte Organisationen einen Validierungsprozess, um die Berechtigung vor der Einrichtung einer Umgebung sicherzustellen. Testversionen sind derzeit nur für US-Regierungseinrichtungen verfügbar.
-ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3519ad9d34180b82bf32761cf3d1188ffff2b7d6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343244"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131099"
 ---
 # <a name="office-365-gcc"></a>Office 365 gcc
 
@@ -34,7 +34,7 @@ Office 365 US Government unterstützt die Federal Risk and Authorization Managem
   
 Office 365 US Government unterstützt außerdem Systeme, die dem Cloud Computing Security Requirements Guide for Level 2 (Non-Controlled Unclassified Information) des US-Verteidigungsministeriums entsprechen. 
   
-Exchange Online, SharePoint Online, Exchange Online-Archivierung, Skype for Business und Office Online verfügen über Funktionen, welche die CJIS-Anforderungen an die Strafverfolgungsbehörden unterstützen können, sowie IRS-1075-Anforderungen für Kunden die mit FTI arbeiten.
+Exchange Online, SharePoint Online, Exchange Online Archivierung, Skype for Business und Office für das Internet verfügen über Features, die die CJIS-Anforderungen von Kunden für Strafverfolgungsbehörden und die IRS-1075-Anforderungen für Kunden, die FTI verarbeiten, unterstützen können.
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Überprüfte Mitarbeiter in Office 365 US Government Community
 

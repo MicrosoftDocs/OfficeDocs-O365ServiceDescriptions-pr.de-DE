@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 72b5327382694d094d1d9a639dca6e023a5e0e9c
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343114"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131229"
 ---
 # <a name="user-account-management"></a>Benutzerkontenverwaltung
 
@@ -105,7 +105,7 @@ Die Anmeldung hängt von der verwendeten Office 365-Identität ab:
 |Outlook 2010 oder Office Outlook 2007 auf Windows Vista  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
 |POP, IMAP, Outlook für Mac  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
-|Web: Office 365-Portal/Outlook Web App/SharePoint Online/Office Online  <br/> |Jede Browsersitzung anmelden <sup>4</sup> <br/> |Jede Sitzung anmelden <sup>3</sup> <br/> |
+|Weberlebnisse: Office 365 Portal/Outlook Web App/SharePoint Online/Office für das Internet  <br/> |Jede Browsersitzung anmelden <sup>4</sup> <br/> |Jede Sitzung anmelden <sup>3</sup> <br/> |
 |Office 2010 oder Office 2007 mit SharePoint Online  <br/> |Jede SharePoint Online-Sitzung anmelden <sup>4</sup> <br/> |Jede SharePoint Online-Sitzung anmelden <sup>3</sup> <br/> |
 |Skype for Business Online  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Keine Aufforderung  <br/> |
 |Outlook für Mac  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |

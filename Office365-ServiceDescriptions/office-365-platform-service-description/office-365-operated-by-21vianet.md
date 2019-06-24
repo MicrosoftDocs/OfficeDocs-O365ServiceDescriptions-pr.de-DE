@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 412cb8cb53d6bea409488b2e6af8a60953813c67
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742144"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131319"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -47,7 +47,7 @@ Jeder Office 365 Plan, der von 21Vianet betrieben wird, umfasst eine Reihe von e
 |SharePoint Online  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> |
 |Skype for Business Online  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Office Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office für das Internet  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365 ProPlus  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Project Online<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Power BI  <br/> |Nein <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Nein  <br/> |Nein <br/> |Nein <br/> |
@@ -210,7 +210,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 <sup>12</sup> einige TechNet-Inhalte gelten möglicherweise nicht für Office 365, die von 21Vianet betrieben werden.<br/>
 <sup>13</sup> verminderte Erfahrung. Wenn Ihre Organisation Internet Explorer 8 oder Internet Explorer 9 für den Zugriff auf ältere Web-Apps und -Dienste verwendet, sollten Sie ein Upgrade auf Internet Explorer 11 erwägen und den Artikel „Enterprise-Modus für Internet Explorer 11" lesen. Dieses Update ermöglicht eine bessere Abwärtskompatibilität für ältere Web-Apps. <br/>
 <sup>14</sup> mehrstufige Authentifizierung wird derzeit in Outlook Mobile (IOS und Android) nicht unterstützt. <br/>
-<sup>15</sup> OneNote-Klassen Notizbuch ist über 21Vianet verfügbar, aber die OneNote-Klasse Notizbuch-Symbolleiste steht für Windows 10-apps, iPad oder OneNote Online nicht zur Verfügung.
+<sup>15</sup> OneNote-Klassen Notizbuch ist über 21Vianet verfügbar, aber die OneNote-Klasse Notizbuch-Symbolleiste steht für Windows 10-apps, iPad oder OneNote für das Internet nicht zur Verfügung.
   
 ## <a name="office-365-application-features"></a>Office 365-Anwendungsfeatures
 <a name="BM3_OfficeApp"> </a>
@@ -287,24 +287,24 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 <br/><sup>11</sup> in Kürze in Office 365 betrieben von 21Vianet. 
 <br/><sup>15</sup> Google-Dienste (einschließlich Play Store) sind innerhalb von China nicht zugänglich. Es gibt mehrere App-Stores, die von wichtigen Telefonherstellern oder Suchmaschinenunternehmen verwaltet werden und von denen Benutzer Mobile Apps installieren können.
   
-## <a name="office-online-features"></a>Office Online-Features
+## <a name="office-for-the-web-features"></a>Office für die Webfunktionen
 <a name="BM4_OfficeOnline"> </a>
 > [!NOTE]
 > Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell für China. <br/>
   
-Die folgende Tabelle enthält Links zu vergleichen von Office Online Featurefunktionen zu Funktionen reichen Microsoft Office Desktop-Apps. Verwenden Sie die Vergleiche, um zu ermitteln, welche Funktionen in Office Online zur Verfügung stehen, und klicken Sie dann auf den Featurenamen, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen.
+Die folgende Tabelle enthält Links zu vergleichen von Office für die webfunktions Funktionen mit funktionsreichen Microsoft Office Desktop-Apps. Verwenden Sie die Vergleiche, um zu ermitteln, welche Features in Office für das Web zur Verfügung stehen, und klicken Sie dann auf den Featurenamen, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen.
 > [!NOTE]
 >- Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Bei den Vergleichstabellen handelt es sich nicht um eine umfassende Liste von Microsoft Office Features. 
 >- Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite. 
->- Microsoft Office webapps Server 2013 lokale Kunden erhalten eine Office Online Bearbeitungs Lizenz, wenn Sie eine Office Desktop Suite-Lizenz erworben haben (wie Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz).<br/>
+>- Microsoft Office webapps Server 2013 lokale Kunden erhalten eine Office für die webbearbeitungs Lizenz, wenn Sie eine Office-Desktop Suite-Lizenz erworben haben (wie Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz).<br/>
 
 ||||
 |:-----|:-----|:-----|
-|**Anwendung** <br/> |**Office Online betrieben von 21Vianet** <br/> |**Link zum detaillierten Funktionsvergleich** <br/> |
-|Word  <br/> |Word Online betrieben von 21Vianet  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel Online betrieben von 21Vianet  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote Online betrieben von 21Vianet  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online betrieben von 21Vianet  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|**Anwendung** <br/> |**Office für das Internet, betrieben von 21Vianet** <br/> |**Link zum detaillierten Funktionsvergleich** <br/> |
+|Word  <br/> |Word für das Internet, betrieben von 21Vianet  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel für das Internet, betrieben von 21Vianet  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote für das Internet, betrieben von 21Vianet  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint für das Internet, betrieben von 21Vianet  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online-Features
 <a name="BM5_ExchangeOnline"> </a>
@@ -657,7 +657,7 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |[Inhaltsorganisation](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Design-Manager](../sharepoint-online-service-description/content.md#design-manager) <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Dokumentenmappen](../sharepoint-online-service-description/content.md#document-sets) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Übersetzung von Dokumenten in Word Online](../sharepoint-online-service-description/content.md#document-translation-in-word-online) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|[Dokument Übersetzung in Word für das Internet](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |[eDiscovery-Suche](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Ja<sup>6</sup> <br/> |Ja  <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |
 |[eDiscovery-Sperre](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Nr.<sup>6</sup> <br/> |Nein  <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |
 |[eDiscovery-Export](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Nr.<sup>6</sup> <br/> |Nein  <br/> |Nr.<sup>6</sup> <br/> |Nein  <br/> |Nr.<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |
@@ -672,8 +672,8 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |[Verwalteter Metadatendienst](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Metadaten-gesteuerte Navigation](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Mehrstufige Aufbewahrung](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Office Online(erstellen/bearbeiten)](../sharepoint-online-service-description/content.md#office-online-createedit) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>8</sup> <br/> |
-|[Office Online(Ansicht)](../sharepoint-online-service-description/content.md#office-online-view) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Office für das Internet (erstellen/bearbeiten)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>8</sup> <br/> |
+|[Office für das Internet (Ansicht)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office ProPlus (Osub)  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |[Office Web Apps Server-Integration](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |PowerPoint Automation Services <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
