@@ -3,7 +3,6 @@ title: Office 365 gcc High und DoD
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
-ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343254"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233522"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
 
 Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar.  
   
-Bitten Sie Ihr Team oder einen bevorzugten Partner, sich weiter zu informieren oder den Überprüfungsprozess zu initiieren.
+Bitten Sie Ihr Team oder einen bevorzugten Partner, sich weiter zu informieren oder den Überprüfungsprozess zu initiieren. Weitere Informationen zum Kauf finden Sie unter [Microsoft 365 Government-How to Buy](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
 ## <a name="how-to-use-this-service-description-section"></a>Verwenden des Abschnitts zur Dienstbeschreibung
 
@@ -93,7 +92,7 @@ Darüber hinaus werden nicht-gcc hohe e-Mail-Adressen, die an Benutzerprofile an
   
  Die **Business Connectivity Services** -BCS-Funktionalität wird für Verbindungsszenarien unterstützt, in denen die Datenquellen innerhalb der Sicherheitsgrenze Ihres Cloud-Diensts erreichbar bleiben. 
   
- **Sandkastenlösungen** - Dieses Feature ist veraltet und nicht verfügbar. Alle Sandkastenlösungen sollten zu dem [ SharePoint-Add-In-Erweiterbarkeitsmodell ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
+ **Sandkastenlösungen** - Dieses Feature ist veraltet und nicht verfügbar. Alle Sandkastenlösungen sollten zu dem [ SharePoint-Add-In-Erweiterbarkeitsmodell ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 

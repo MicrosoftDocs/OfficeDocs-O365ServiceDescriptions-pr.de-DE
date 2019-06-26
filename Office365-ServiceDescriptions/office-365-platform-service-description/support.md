@@ -3,7 +3,6 @@ title: Unterstützung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/07/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Office 365-Portal als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter Office 365 Support Options.
-ms.openlocfilehash: 42fd0a816f55f988cab77c2e1b883b4c8902dbae
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: b8b58896d4b4ea935e94c6cc019f937a51b56cd0
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343134"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233512"
 ---
 # <a name="support"></a>Support
 
@@ -28,7 +27,7 @@ Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government
   
 Autorisierte Administratoren können das Office 365-Portal verwenden, um Serviceanfragen online zu übermitteln, Telefonnummern des Supports einzusehen sowie alle offenen und kürzlich geschlossenen Serviceanfragen anzuzeigen. Über das Office 365-Portal übermittelte Serviceanfragen können während einer Frist von bis zu 14 Tagen nach Abschluss erneut geöffnet werden. Weitere Informationen finden Sie unter [Kontaktieren des Office 365 Business-Supports - Administratorhilfe](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
-Das technische Supportteam für Office 365 behebt nur Probleme im Zusammenhang mit Office 365. Probleme in den Kundennetzwerken fallen außerhalb die Office 365-Supportgrenzen; in diesen Fällen müssen Kunden entweder mit ihrem Netzwerkteam arbeiten oder das [Microsoft Networking-Team](https://support.microsoft.com/en-us/gp/contactus81?Audience=Commercial) um Hilfe bitten.
+Das technische Supportteam für Office 365 behebt nur Probleme im Zusammenhang mit Office 365. Probleme in den Kundennetzwerken fallen außerhalb die Office 365-Supportgrenzen; in diesen Fällen müssen Kunden entweder mit ihrem Netzwerkteam arbeiten oder das [Microsoft Networking-Team](https://support.microsoft.com/gp/contactus81?Audience=Commercial) um Hilfe bitten.
   
 ## <a name="community-and-self-service-support-options"></a>Community- und Self-Service-Support
 
@@ -68,7 +67,7 @@ Der technische Support für Office 365-Abonnements bietet Unterstützung bei der
 > [!NOTE]
 > Informationen zum Kontaktieren des technischen Supports finden Sie hier: [Kontakt Office 365 für Unternehmen Support](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
 >
-> Der technische Support für Office 365 umfasst keine Problembehandlung von Drittanbieterdiensten oder-Add-Ins. Informationen zum Suchen von Antworten von anderen Kunden in der [Microsoft-Community](https://go.microsoft.com/fwlink/p/?LinkID=617897).
+> Der technische Support für Office 365 umfasst keine Problembehandlung von Drittanbieterdiensten oder-Add-Ins. Informationen zum Suchen von Antworten von anderen Kunden in der [Microsoft-Community](https://answers.microsoft.com).
   
 ### <a name="technical-support-case-handling"></a>Fallbearbeitung durch technischen Support
 
@@ -86,7 +85,7 @@ In welchem Zeitraum eine erste Antwort seitens des Supports eingeht, basiert auf
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Schweregrad** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 Education<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Regierung G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Erweiterte Supportoptionen<sup>3</sup>** <br/> |
+|**Schweregrad** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Regierung G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> **Office 365 Education<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Erweiterte Supportoptionen<sup>3</sup>** <br/> |
 | Schweregrad A (Kritisch)  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |
 |Schweregrad B (Hoch)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 2 Stunden  <br/> |
 |Schweregrad C (Mittel)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 4 Stunden  <br/> |
@@ -103,7 +102,7 @@ Für Support für eigenständige Pläne gegen Gebühr gelten dieselben Supporteb
   
 ### <a name="technical-support-languages"></a>Technischer Support – Sprachen
 
-Je nach Standort und Sprache stehen Supporttechniker während der meisten üblichen Geschäftszeiten und in manchen Fällen auch rund um die Uhr zur Verfügung. Weitere Informationen finden Sie im Artikel mit den [internationalen Telefonnummern](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products) sowie unter [Office 365 Support Options](https://go.microsoft.com/fwlink/p/?LinkID=279810). Sofern Verständigungsprobleme bestehen, kann der Supporttechniker in der Leitung bleiben und einen Dolmetscher hinzuziehen.
+Je nach Standort und Sprache stehen Supporttechniker während der meisten üblichen Geschäftszeiten und in manchen Fällen auch rund um die Uhr zur Verfügung. Weitere Informationen finden Sie im Artikel mit den [internationalen Telefonnummern](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products) sowie unter [Office 365 Support Options](https://products.office.com/business/office-365-for-business-support-options). Sofern Verständigungsprobleme bestehen, kann der Supporttechniker in der Leitung bleiben und einen Dolmetscher hinzuziehen.
   
 ## <a name="shared-support-responsibilities"></a>Support – eine gemeinsame Aufgabe
 
@@ -113,7 +112,7 @@ Microsoft ist sich darüber im Klaren, dass ein zeitnaher technischer Support du
 
 Personen mit Office 365-Administratorrollen sind die einzigen Benutzer in der Organisation des Kunden, die für den Zugriff auf den Abschnitt **Administrator** des Office 365-Portals und die direkte Kommunikation mit Microsoft über Office 365-Serviceanfragen berechtigt sind.
   
-Mit Plänen für Office 365 Enterprise und Office 365 Business können Sie mehrere Typen von Administratoren mit unterschiedlichen Funktionen bestimmen. In dieser Dienstbeschreibung wird die allgemeine Bezeichnung Administrator für alle Typen von Administratoren verwendet. Weitere Informationen zu den verschiedenen Administratorrollen finden Sie im Artikel zum Thema [Zuweisen von Administratorrollen](https://docs.microsoft.com/en-us/office365/admin/add-users/assign-admin-roles).
+Mit Plänen für Office 365 Enterprise und Office 365 Business können Sie mehrere Typen von Administratoren mit unterschiedlichen Funktionen bestimmen. In dieser Dienstbeschreibung wird die allgemeine Bezeichnung Administrator für alle Typen von Administratoren verwendet. Weitere Informationen zu den verschiedenen Administratorrollen finden Sie im Artikel zum Thema [Zuweisen von Administratorrollen](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 Der Administrator ist
   
@@ -171,19 +170,19 @@ Zu Beispielen für erweiterten Support gehören:
 
 Es stehen mehrere Typen von zusätzlichen Supportservices zur Verfügung:
   
-- Optionen für große Unternehmenskunden, die Support für den gesamten Lebenszyklus bei der Migration zu Office 365 wünschen, finden Sie auf unserer Seite zu den [Microsoft-Diensten für Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279813).
+- Optionen für große Unternehmenskunden, die Support für den gesamten Lebenszyklus bei der Migration zu Office 365 wünschen, finden Sie auf unserer Seite zu den [Microsoft-Diensten für Office 365](https://www.microsoft.com/microsoftservices/cloud-productivity.aspx).
 
-- Die Lösungen für große Unternehmenskunden, die nach einem verwalteten Supportservice für Office 365 und lokale Technologien für den Zugriff auf den Onlinedienst suchen, finden Sie unter [Premier-Support](http://go.microsoft.com/fwlink/?LinkID=279816&amp;clcid=0x409).
+- Die Lösungen für große Unternehmenskunden, die nach einem verwalteten Supportservice für Office 365 und lokale Technologien für den Zugriff auf den Onlinedienst suchen, finden Sie unter [Premier-Support](https://www.microsoft.com/enterprise/services/support).
 
-- Die Lösungen für kleinere Unternehmenskunden in den Vereinigten Staaten, in Kanada und im Vereinigten Königreich finden Sie auf der Seite zum Thema [Professioneller Direktsupport](https://go.microsoft.com/fwlink/?LinkId=398569).
+- Die Lösungen für kleinere Unternehmenskunden in den Vereinigten Staaten, in Kanada und im Vereinigten Königreich finden Sie auf der Seite zum Thema [Professioneller Direktsupport](https://support.microsoft.com/help/4341255/support-for-business).
 
 ### <a name="partners"></a>Partner
 
-Sie können einen Microsoft-Partner auswählen und administrative Funktionen delegieren, u. a. das Erstellen von Tickets für Serviceanfragen. Weitere Informationen finden Sie in der [Partner](partners.md)-Dienstbeschreibung und unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/en-us/office365/admin/misc/add-partner?view=o365-worldwide).
+Sie können einen Microsoft-Partner auswählen und administrative Funktionen delegieren, u. a. das Erstellen von Tickets für Serviceanfragen. Weitere Informationen finden Sie in der [Partner](partners.md)-Dienstbeschreibung und unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
   
 ### <a name="developers"></a>Entwickler
 
-Informationen zur Entwicklung von Office- und SharePoint-Anwendungen für Office 365 finden Sie im [Microsoft Developer Network (MSDN)](https://go.microsoft.com/fwlink/p/?LinkID=279814). Entwicklersupport ist online über Blogs und Foren in der Entwickler-Community, in den Ressourcen des Premier Support und Partnersupports oder direkt über Microsoft verfügbar. Links zu Supportoptionen für Entwickler finden Sie unter [Supportressourcen](https://go.microsoft.com/fwlink/p/?LinkID=279819).
+Informationen zur Entwicklung von Office- und SharePoint-Anwendungen für Office 365 finden Sie im [Microsoft Developer Network (MSDN)](https://developer.microsoft.com/office/docs). Entwicklersupport ist online über Blogs und Foren in der Entwickler-Community, in den Ressourcen des Premier Support und Partnersupports oder direkt über Microsoft verfügbar. Links zu Supportoptionen für Entwickler finden Sie unter [Supportressourcen](https://developer.microsoft.com/office/docs).
   
 > [!NOTE]
 > Das Office 365-Team unterstützt keine Skripts. Wenn Sie Hilfe zu Skripts benötigen, wenden Sie sich an [Microsoft Support](https://support.microsoft.com/).
@@ -192,14 +191,14 @@ Informationen zur Entwicklung von Office- und SharePoint-Anwendungen für Office
 
 Wenn Sie bereits Lizenzen von Microsoft im Rahmen eines Volumenlizenzprogramms erworben haben, erhalten Sie hier Support:
   
-- Support in Bezug auf Lizenzen und den Abruf von Schlüsseln finden Sie im [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016).
+- Support in Bezug auf Lizenzen und den Abruf von Schlüsseln finden Sie im [Volume Licensing Service Center](https://www.microsoft.com/licensing/servicecenter/default.aspx).
 
 - Informationen zu technischem Support finden Sie unter [Technischer Support](support.md#technical-support).
 
 - Informationen bei Fragen zur Abrechnung finden Sie unter [Support für den Bereich Abrechnung und Abonnementverwaltung](support.md#billing-and-subscription-management-support).
 
-- Allgemeine Informationen zur Volumenlizenzierung finden Sie auf unserer Seite zum Thema [Volumenlizenzierung](https://go.microsoft.com/fwlink/p/?LinkID=282015).
+- Allgemeine Informationen zur Volumenlizenzierung finden Sie auf unserer Seite zum Thema [Volumenlizenzierung](https://www.microsoft.com/licensing/default).
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).

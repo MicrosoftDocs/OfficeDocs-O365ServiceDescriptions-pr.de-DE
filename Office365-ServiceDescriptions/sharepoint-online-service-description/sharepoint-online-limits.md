@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780664"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233532"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Grenzwerte 
 
@@ -54,7 +54,8 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 - **Versionen** -50.000 Hauptversionen und 511 Nebenversionen.
 
 - **SharePoint-Gruppen** : ein Benutzer kann 5.000-Gruppen angehören, und jede Gruppe kann bis zu 5.000 Benutzer haben. Sie können bis zu 10.000 Gruppen pro Websitesammlung haben.
-
+    > [!NOTE]
+    > Informationen zu Azure AD Gruppenbeschränkungen finden Sie unter [Azure Ad Service Limits and Restrictions](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) , da diese Grenzwerte sich auf öffentliche und private Gruppen Websites für die Mitgliedschaftsverwaltung auswirken können. 
 - **Verwaltete Metadaten** – 200.000 Ausdrücke in Term Store, 1.000 globale Ausdruckssätze, 1.000 Gruppen.
 
 - Unter **Websites** -2.000 pro Websitesammlung.
@@ -64,10 +65,8 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 - **Eindeutige Sicherheitsbereiche pro Liste oder Bibliothek** – 5.000. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
 
 - **Users** -2 Millionen pro Websitesammlung.
-
-> [!NOTE]
-> Es gibt keine Beschränkung für die Anzahl der Gäste, die Sie zu SharePoint-Websitesammlungen einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [External Sharing Overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).
-
+    > [!NOTE]
+    > Es gibt keine Beschränkung für die Anzahl der Gäste, die Sie zu SharePoint-Websitesammlungen einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [External Sharing Overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 ## <a name="see-also"></a>Siehe auch
 
 [Such Grenzwerte für SharePoint Online](https://docs.microsoft.com/sharepoint/search-limits)
