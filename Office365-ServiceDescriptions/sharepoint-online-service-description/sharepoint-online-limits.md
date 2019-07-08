@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
+ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233532"
+ms.lasthandoff: 07/07/2019
+ms.locfileid: "35581314"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Grenzwerte 
 
@@ -40,9 +40,9 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
   
 ## <a name="service-limits-for-all-plans"></a>Dienst Grenzwerte für alle Pläne
 
-- **Elemente in Listen und Bibliotheken** – eine Liste kann bis zu 30 Millionen Elemente aufweisen, und eine Bibliothek kann bis zu 30 Millionen Dateien und Ordner aufweisen. Nachdem 100.000 Elemente zu einer Liste, einer Bibliothek oder einem Ordner hinzugefügt wurden, kann die Vererbung von Berechtigungen für die Liste, die Bibliothek oder den Ordner nicht geändert werden. Weitere Informationen zu anderen Einschränkungen beim Anzeigenumfang reicher Listen finden Sie unter [Verwalten umfangreicher Listen und Bibliotheken in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Informationen zu Zeichen, die in Dateinamen nicht verwendet werden können, finden Sie unter [ungültige Zeichen in Datei-und Ordnernamen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Elemente in Listen und Bibliotheken** – eine Liste kann bis zu 30 Millionen Elemente aufweisen, und eine Bibliothek kann bis zu 30 Millionen Dateien und Ordner aufweisen. Nachdem 100.000 Elemente zu einer Liste, einer Bibliothek oder einem Ordner hinzugefügt wurden, kann die Vererbung von Berechtigungen für die Liste, die Bibliothek oder den Ordner nicht geändert werden. Weitere Informationen zu anderen Einschränkungen beim Anzeigenumfang reicher Listen finden Sie unter [Verwalten umfangreicher Listen und Bibliotheken in Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). 
 
-- **Dateigröße und Dateipfadlänge** -15 GB. Weitere Informationen zu Einschränkungen und Beschränkungen bei der Verwendung des neuen OneDrive-Synchronisierungs Clients (OneDrive. exe) finden Sie unter [ungültige Dateinamen und Dateitypen in OneDrive, OneDrive für Unternehmen und SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Dateigröße und Dateipfadlänge** -15 GB. Die maximale Größe für an Listenelemente angefügte Dateien beträgt 250 MB. Weitere Informationen zu Einschränkungen und Beschränkungen bei der Verwendung des neuen OneDrive-Synchronisierungs Clients (OneDrive. exe) finden Sie unter [ungültige Dateinamen und Dateitypen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - **Verschieben und Kopieren über Websitesammlungen** – 100 GB pro Vorgang. Der Webbrowser muss geöffnet bleiben.
 
