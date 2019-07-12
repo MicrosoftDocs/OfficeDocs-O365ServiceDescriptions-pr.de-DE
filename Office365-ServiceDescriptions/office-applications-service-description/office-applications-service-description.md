@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: c4f8721264abcd0e7e24a99653fa9dc7ba88f9ab
+ms.sourcegitcommit: 6e85c4e1f5d3ccaa5c1fd32f597ca2a8064417ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931137"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35628578"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -71,6 +71,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Excel Spreadsheet Inquire  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Archivierung und Vorschrifteneinhaltung mit Exchange Online und SharePoint Online  <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/>|Ja<sup>1</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Unterstützung der Gruppenrichtlinie  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Office-Cloud-Richtlinien Dienst  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Verwaltung von Informationsrechten (Information Rights Management, IRM) mithilfe von Azure Information Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |
 |Information Rights Management mit Windows Server AD RMS  <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja <br/>| Ja<sup>3</sup> <br/>|Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |
 |Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>+++<sup> <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
