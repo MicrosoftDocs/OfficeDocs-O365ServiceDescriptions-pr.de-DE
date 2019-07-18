@@ -3,7 +3,6 @@ title: Vereinbarung zum Servicelevel
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,27 +13,27 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 4e17177965bfdea2eb7579ab548e259398a218c1
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7f4f1d184915c7098ed00e94e8eb8bf47b38deea
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343144"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777466"
 ---
-# <a name="service-level-agreement"></a><span data-ttu-id="b0a4a-102">Vereinbarung zum Servicelevel</span><span class="sxs-lookup"><span data-stu-id="b0a4a-102">Service Level Agreement</span></span>
+# <a name="service-level-agreement"></a><span data-ttu-id="56e42-102">Vereinbarung zum Servicelevel</span><span class="sxs-lookup"><span data-stu-id="56e42-102">Service Level Agreement</span></span>
 
-## <a name="microsoft-online-services-level-agreement"></a><span data-ttu-id="b0a4a-103">Vereinbarung zum Servicelevel für Microsoft Online Services</span><span class="sxs-lookup"><span data-stu-id="b0a4a-103">Microsoft Online Services Level Agreement</span></span>
+## <a name="microsoft-online-services-level-agreement"></a><span data-ttu-id="56e42-103">Vereinbarung zum Servicelevel für Microsoft Online Services</span><span class="sxs-lookup"><span data-stu-id="56e42-103">Microsoft Online Services Level Agreement</span></span>
 
-<span data-ttu-id="b0a4a-p101">Wir untermauern unsere Anstrengungen zur Umsetzung und Aufrechterhaltung der Servicelevel für jeden Dienst durch finanzielle Maßnahmen. Wenn wir die Servicelevel für jeden Dienst nicht wie in der Vereinbarung zum Servicelevel beschrieben erreichen und aufrecht erhalten, haben Sie ggf. Anspruch auf eine Gutschrift für einen Teil Ihrer monatlichen Dienstgebühren. Wenn Sie weitere Informationen über unsere Vereinbarungen zum Servicelevel für die Dienste wünschen, laden Sie die [Vereinbarung zum Servicelevel für Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026) herunter. Einen Überblick über Systembetriebszeiten sowie Informationen zu Sicherheit, Datenschutz und Compliance finden Sie unter [Transparente Vorgänge in Office 365](https://go.microsoft.com/fwlink/?linkid=845427).</span><span class="sxs-lookup"><span data-stu-id="b0a4a-p101">We provide financial backing to our commitment to achieve and maintain the service levels for each service. If we do not achieve and maintain the service levels for each service as described in the Service Level Agreement, then you might be eligible for a credit towards a portion of your monthly service fees. To learn more about our Service Level Agreements for the services, download the [Service Level Agreement for Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026). For overview information about system uptimes, as well as security, privacy, and compliance information, see [Transparent operations from Office 365](https://go.microsoft.com/fwlink/?linkid=845427).</span></span>
+<span data-ttu-id="56e42-p101">Wir untermauern unsere Anstrengungen zur Umsetzung und Aufrechterhaltung der Servicelevel für jeden Dienst durch finanzielle Maßnahmen. Wenn wir die Servicelevel für jeden Dienst nicht wie in der Vereinbarung zum Servicelevel beschrieben erreichen und aufrecht erhalten, haben Sie ggf. Anspruch auf eine Gutschrift für einen Teil Ihrer monatlichen Dienstgebühren. Wenn Sie weitere Informationen über unsere Vereinbarungen zum Servicelevel für die Dienste wünschen, laden Sie die [Vereinbarung zum Servicelevel für Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026) herunter. Einen Überblick über Systembetriebszeiten sowie Informationen zu Sicherheit, Datenschutz und Compliance finden Sie unter [Transparente Vorgänge in Office 365](https://go.microsoft.com/fwlink/?linkid=845427).</span><span class="sxs-lookup"><span data-stu-id="56e42-p101">We provide financial backing to our commitment to achieve and maintain the service levels for each service. If we do not achieve and maintain the service levels for each service as described in the Service Level Agreement, then you might be eligible for a credit towards a portion of your monthly service fees. To learn more about our Service Level Agreements for the services, download the [Service Level Agreement for Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026). For overview information about system uptimes, as well as security, privacy, and compliance information, see [Transparent operations from Office 365](https://go.microsoft.com/fwlink/?linkid=845427).</span></span>
   
-## <a name="office-365-operated-by-21vianet"></a><span data-ttu-id="b0a4a-108">Office 365, betrieben von 21Vianet</span><span class="sxs-lookup"><span data-stu-id="b0a4a-108">Office 365 operated by 21Vianet</span></span>
+## <a name="office-365-operated-by-21vianet"></a><span data-ttu-id="56e42-108">Office 365, betrieben von 21Vianet</span><span class="sxs-lookup"><span data-stu-id="56e42-108">Office 365 operated by 21Vianet</span></span>
 
-<span data-ttu-id="b0a4a-109">Weitere Informationen finden Sie unter [Vereinbarung zum Servicelevel zu 21Vianet](https://go.microsoft.com/fwlink/?linkid=846729) und unter [Standardvereinbarung für Onlinedienste](https://go.microsoft.com/fwlink/?linkid=846730) für Office 365 betrieben von 21Vianet.</span><span class="sxs-lookup"><span data-stu-id="b0a4a-109">See the [21Vianet Service Level Agreement](https://go.microsoft.com/fwlink/?linkid=846729) and the [Online Services Standard Agreement](https://go.microsoft.com/fwlink/?linkid=846730) for Office 365 operated by 21Vianet.</span></span> 
+<span data-ttu-id="56e42-109">Weitere Informationen finden Sie unter [Vereinbarung zum Servicelevel zu 21Vianet](https://go.microsoft.com/fwlink/?linkid=846729) und unter [Standardvereinbarung für Onlinedienste](https://go.microsoft.com/fwlink/?linkid=846730) für Office 365 betrieben von 21Vianet.</span><span class="sxs-lookup"><span data-stu-id="56e42-109">See the [21Vianet Service Level Agreement](https://go.microsoft.com/fwlink/?linkid=846729) and the [Online Services Standard Agreement](https://go.microsoft.com/fwlink/?linkid=846730) for Office 365 operated by 21Vianet.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="b0a4a-p102">Office 365 betrieben von 21Vianet ist ein Dienst, der nur in China angeboten und betrieben wird. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat. Weitere Informationen finden Sie unter [Verwenden von Office 365 mit 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725).</span><span class="sxs-lookup"><span data-stu-id="b0a4a-p102">Office 365 operated by 21Vianet is a service offered and operated only in China. This service is powered by technology that Microsoft has licensed to 21Vianet. For more information, see [Learn about Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725).</span></span> 
+> <span data-ttu-id="56e42-p102">Office 365 betrieben von 21Vianet ist ein Dienst, der nur in China angeboten und betrieben wird. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat. Weitere Informationen finden Sie unter [Verwenden von Office 365 mit 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725).</span><span class="sxs-lookup"><span data-stu-id="56e42-p102">Office 365 operated by 21Vianet is a service offered and operated only in China. This service is powered by technology that Microsoft has licensed to 21Vianet. For more information, see [Learn about Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725).</span></span> 
   
-## <a name="feature-availability"></a><span data-ttu-id="b0a4a-113">Verfügbarkeit von Funktionen</span><span class="sxs-lookup"><span data-stu-id="b0a4a-113">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="56e42-113">Verfügbarkeit von Funktionen</span><span class="sxs-lookup"><span data-stu-id="56e42-113">Feature availability</span></span>
 
-<span data-ttu-id="b0a4a-114">Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="b0a4a-114">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
+<span data-ttu-id="56e42-114">Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="56e42-114">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
   
