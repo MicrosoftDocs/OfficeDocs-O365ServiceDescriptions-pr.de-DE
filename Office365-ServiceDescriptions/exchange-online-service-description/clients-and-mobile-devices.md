@@ -3,7 +3,6 @@ title: Clients und mobile Geräte
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d0ed7a4c56c5f58a643d609f29bef284904bee47
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342724"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776686"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -36,7 +35,7 @@ Outlook-Zugriff ist standardmäßig für alle Benutzer aktiviert. Über Windows 
 Informationen zu den in Exchange 2016 und Exchange Online unterstützten Outlook-Clients finden Sie im Abschnitt „Unterstützte Clients" unter [Exchange 2016 - Systemanforderungen](https://go.microsoft.com/fwlink/?LinkID=828972).
   
 > [!IMPORTANT]
->  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft Office Pro Plus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie mit Pop eine Verbindung mit einem Exchange Online e-Mail-Konto herstellen: > keine Kalenderinformationen > keine Frei/Gebucht-Informationen > keine globale Adressliste > keine Push-e-Mail-> beim Herstellen einer Verbindung über Pop werden alle Nachrichten Downlo aded auf den Client und es erfolgt keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon). 
+>  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft Office Pro Plus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie mit Pop eine Verbindung mit einem Exchange Online e-Mail-Konto herstellen: #a0 keine Kalenderinformationen #a1 keine Frei/Gebucht-Informationen #a2 keine globale Adressliste #a3 keine Push-e-Mail-> beim Verbinden über Pop werden alle Nachrichten heruntergeladen t o der Client und es wird keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon) erfolgen. 
   
 ## <a name="outlook-on-the-web"></a>Outlook im Web
 

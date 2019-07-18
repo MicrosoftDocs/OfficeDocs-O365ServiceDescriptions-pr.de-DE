@@ -3,7 +3,6 @@ title: Kompatibilitäts- und Sicherheitsfeatures der Exchange Online-Archivierun
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 8a5338ab7d35ca77efb5e371a0633175befd8b2b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a88ccb9ec0280b43d58c290210b569fb17e7f7a0
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341986"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776476"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Kompatibilitäts- und Sicherheitsfeatures der Exchange Online-Archivierung
 

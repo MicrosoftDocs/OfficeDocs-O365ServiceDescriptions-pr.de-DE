@@ -3,7 +3,6 @@ title: Messagingrichtlinien und -kompatibilität
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
-ms.openlocfilehash: 4e4851def9c6eb5675c5302f865f6db369ffbfeb
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: b40671291af806e68e608a8f4553ee05f24049d0
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341884"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776716"
 ---
 # <a name="messaging-policy-and-compliance"></a>Messagingrichtlinien und -kompatibilität
 

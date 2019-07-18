@@ -3,19 +3,18 @@ title: Office 365 Engineering Direct Service Description
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering Direct ist ein Enterprise Level Support Services-Zusatz für eine Microsoft Premier-Supportvereinbarung. Die Office 365 Engineering Direct Service-Beschreibung enthält zusätzliche Informationen zu den angebotenen Features und Implementierungsanforderungen.
-ms.openlocfilehash: 68ba0a963cdf4bd28417ca3332175beeb65e5df6
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: eb890bdd2ab0fa5b01702828b0eb9a02eb7c8a91
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341854"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776456"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Office 365 Engineering Direct Service Description
 
@@ -26,4 +25,4 @@ Um das Office 365 Engineering Direct-Angebot als neuen Kunden zu erhalten, muss 
 Wenn Sie ein großer Enterprise-Kunde sind, der (a) von einem Legacy Office 365 dediziertes Angebot für die neuesten Multi-Mandanten Dienste-Fabric migriert wurde oder (b) als mehr mandantenfähiger Kunde weitergeleitet wurde, wird Office 365 Engineering Direct für Sie bereitgestellt. Organisation als Übergangs Unterstützungsprogramm, das als erweiterter Supportdienst bezeichnet wird. Das übergangsangebot wird kostenlos für den Saldo Ihrer bestehenden Office 365 Subscription Services-Vereinbarung bereitgestellt. Zum Zeitpunkt der Erneuerung ihrer Abonnementdienste wird Office 365 Engineering Direct als optionales Supportangebot gegen zusätzliche Kosten zur Verfügung stehen. Wenn dieser Vertrag erworben wurde, wird ein separater Vertragsnachtrag für die Added Services Suite ausgeführt und an Ihren bestehenden Premier-Support Vertrag angehängt.
 
 > [!NOTE]
-> Zu diesem Zeitpunkt stehen Office 365 Engineering Direct und das Transitional Enhanced Support Services-Programm nicht für Kunden oder Kunden von Legacy-ITAR zur Verfügung, die mit dem gcc-Angebot (Government Community Cloud) oder mit gcc High Subscription von Office verbunden sind. 365.
+> Zu diesem Zeitpunkt stehen Office 365 Engineering Direct und das Transitional Enhanced Support Services-Programm nicht für Legacy-ITAR-Kunden oder Kunden zur Verfügung, die mit den High-Office-Abonnement angeboten von Government Community Cloud High (gcc High) verbunden sind. 365.

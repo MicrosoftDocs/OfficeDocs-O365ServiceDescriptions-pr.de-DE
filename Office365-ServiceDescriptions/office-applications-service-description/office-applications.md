@@ -3,7 +3,6 @@ title: Office-Anwendungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office ist ein leistungsstarker Dienst, mit dem Sie Ihre besten Ideen umsetzen können und auch unterwegs stets angebunden sind. Melden Sie sich für ein personalisiertes Erlebnis und alle aktuellen Office-Anwendungen einfach an; neue und verbesserte Funktionen werden kontinuierlich hinzugefügt.
-ms.openlocfilehash: 8af3a955b02478bf461df710041e0e4970868845
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 82a6678d7a019740daf6e4f5c57e9cd02d677113
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342994"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776376"
 ---
 # <a name="office-applications"></a>Office-Anwendungen
 

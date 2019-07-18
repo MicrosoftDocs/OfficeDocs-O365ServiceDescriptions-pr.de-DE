@@ -3,7 +3,6 @@ title: Recherchefeatures in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Die folgenden Recherchefeatures sind in Yammer verfügbar.
-ms.openlocfilehash: 031b93b95d435b2223ad9e6e8be24e6f71b71dd9
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: cd60bc6c7e24598241b56a12f6193b81fc50b74a
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342304"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777986"
 ---
 # <a name="discovery-features-in-yammer"></a>Recherchefeatures in Yammer
 

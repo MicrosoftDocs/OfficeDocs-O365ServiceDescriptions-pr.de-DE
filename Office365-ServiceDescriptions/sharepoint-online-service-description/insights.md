@@ -3,7 +3,6 @@ title: Einblicke
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Insights-Funktionen ermöglichen es Organisationen, die Informationen in Datenbanken, Berichten und Unternehmensanwendungen zu verwenden, um die spezifischen Unternehmensanforderungen zu erfüllen.
-ms.openlocfilehash: 3765a8bbbb931e22bfcd26962a370d55724865e9
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 3dd85cc7bd714b1a6a22435adc7a4c894b6921bd
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131329"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35778006"
 ---
 # <a name="insights"></a>Insights
 

@@ -3,7 +3,6 @@ title: Produktnutzungsrechte
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/18/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: a37caa87bfef9b8a878c20303dbdff3703d57356
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 97f2872dd1aa56f99058dabad167422a0d507fa8
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343184"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777367"
 ---
 # <a name="product-use-rights"></a>Produktnutzungsrechte
 

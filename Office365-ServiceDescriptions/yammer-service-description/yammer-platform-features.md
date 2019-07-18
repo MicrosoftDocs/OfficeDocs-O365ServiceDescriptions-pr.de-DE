@@ -3,7 +3,6 @@ title: Yammer-Plattformfeatures
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Die folgenden Features der Jammer Plattform stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: a13042ef0eac0aa825c0bc428e312d98bc2e0839
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3e5001cfee67b1ec5f22a94f663a81eeb4ff345f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342164"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777906"
 ---
 # <a name="yammer-platform-features"></a>Yammer-Plattformfeatures
 

@@ -3,7 +3,6 @@ title: PowerPoint für das Internet
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint für das Web (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365 Kunden mit Office für das Internet können unterwegs Dateien anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 68a0fd93508885d9d541b163ddfdf5b16098de05
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: b5a73e3c5fb1d064d37117cb6661d8bf7d004c2e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130881"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777536"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint für das Internet
 

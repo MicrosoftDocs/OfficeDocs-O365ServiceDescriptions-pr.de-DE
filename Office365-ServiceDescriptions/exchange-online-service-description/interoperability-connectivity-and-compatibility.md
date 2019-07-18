@@ -3,7 +3,6 @@ title: Interoperabilität, Konnektivität und Kompatibilität
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 80d4248da8fd9d3600789df35085c24e6e436433
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342684"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776796"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilität, Konnektivität und Kompatibilität
 

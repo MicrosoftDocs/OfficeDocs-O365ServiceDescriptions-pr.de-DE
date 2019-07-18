@@ -3,7 +3,6 @@ title: Planung und Bereitstellung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 03788e968f8d141a2a07a21dcaa5a4d6123f2a4a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: c162bb056d8f4c1c2bffb3e14069025f53c20e1e
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342794"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776856"
 ---
 # <a name="planning-and-deployment"></a>Planung und Bereitstellung
 

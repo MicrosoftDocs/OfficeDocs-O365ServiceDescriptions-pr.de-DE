@@ -3,7 +3,6 @@ title: IT-Experte
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Dieser gehostete Dienst setzt auf Microsoft SharePoint Server 2013 auf und eignet sich ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten an einem zentralen Ort und die Freigabe von Informationen für andere Benutzer. Die folgenden SharePoint-Funktionen unterstützen IT-Experten beim Sichern und Verwalten der SharePoint-Umgebung in ihrer Organisation.
-ms.openlocfilehash: 70868f9c00c42318013d1fdc8449668a2461f34a
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: c89f782970ca066a94bd351ff73c7b0785464187
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131309"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776426"
 ---
 # <a name="it-professional"></a>IT-Experte
 

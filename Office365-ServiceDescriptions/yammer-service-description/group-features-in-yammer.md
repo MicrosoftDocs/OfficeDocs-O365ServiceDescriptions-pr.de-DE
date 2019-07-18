@@ -3,7 +3,6 @@ title: Gruppenfunktionen in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Die nachfolgenden Gruppenfunktionen stehen in Yammer zur Verfügung.
-ms.openlocfilehash: a939ebab44fc8205ee329ab85c94d00853d81b40
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a036e1ad8f491b915c78171226c3a2bbe1db4952
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342234"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777976"
 ---
 # <a name="group-features-in-yammer"></a>Gruppenfunktionen in Yammer
 

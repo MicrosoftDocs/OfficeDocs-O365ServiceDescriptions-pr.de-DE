@@ -3,7 +3,6 @@ title: Verwaltungs- und Sicherheitsfunktionen in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Die folgenden Verwaltungs-und Sicherheitsfeatures stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: 9ee3f5821597f3d09e98dd6d0c155bbf194a6cc2
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: fd32251aa76264e7ba9c1d55793f70d6f83d25e7
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342334"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777996"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Verwaltungs- und Sicherheitsfunktionen in Yammer
 

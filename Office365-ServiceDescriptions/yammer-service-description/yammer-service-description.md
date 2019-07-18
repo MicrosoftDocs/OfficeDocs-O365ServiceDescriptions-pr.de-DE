@@ -3,7 +3,6 @@ title: Beschreibung des Yammer-Dienstes
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 'Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.'
-ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4140f3cb779c6b444dfff9626f8fadb1686e2ddd
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342094"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777886"
 ---
 # <a name="yammer-service-description"></a>Beschreibung des Yammer-Dienstes
 

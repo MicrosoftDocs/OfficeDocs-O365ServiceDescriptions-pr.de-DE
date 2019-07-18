@@ -3,7 +3,6 @@ title: Messagingrichtlinie und -einhaltung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: b0e99d521ea56de91dcb7679aec5addbe9869f80
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: b5d6d66780dd77456f5952e353f7030bdd288262
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342814"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776436"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 

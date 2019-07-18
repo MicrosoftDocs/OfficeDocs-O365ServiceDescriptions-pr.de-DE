@@ -3,7 +3,6 @@ title: Project Online-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: ec194d758c50b4da0544605c85b0beb0b81ec79e
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: b2e0b9247b99bebd4f6d84e6cafdf57cf7980848
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343724"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777336"
 ---
 # <a name="project-online-service-description"></a>Project Online-Dienstbeschreibung
 

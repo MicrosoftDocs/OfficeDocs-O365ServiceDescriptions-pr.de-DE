@@ -3,7 +3,6 @@ title: Freigabe und Zusammenarbeit
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: f007f4b1c0b11e183e62b6c9ba482daa98cdcdf4
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 114812240efb18573ed7defaa88010bebfdac0bd
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342604"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776916"
 ---
 # <a name="sharing-and-collaboration"></a>Freigabe und Zusammenarbeit
 

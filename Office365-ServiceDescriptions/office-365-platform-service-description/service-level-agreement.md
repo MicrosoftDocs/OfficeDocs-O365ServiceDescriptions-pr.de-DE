@@ -3,7 +3,6 @@ title: Vereinbarung zum Servicelevel
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 4e17177965bfdea2eb7579ab548e259398a218c1
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7f4f1d184915c7098ed00e94e8eb8bf47b38deea
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343144"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777466"
 ---
 # <a name="service-level-agreement"></a>Vereinbarung zum Servicelevel
 

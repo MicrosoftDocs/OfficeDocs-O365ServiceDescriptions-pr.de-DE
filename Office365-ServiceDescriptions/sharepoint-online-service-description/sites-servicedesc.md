@@ -3,7 +3,6 @@ title: Websites
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Websitefunktionen bieten einen umfassenden Toolsatz, mit dem Ihre Organisation jede Website sowie eine einzelne Infrastruktur erstellen kann, was die Websiteverwaltung vereinfacht. Ausführlichere Informationen finden Sie unter Suchen von Inhalten zu SharePoint Online.
-ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 9b7848c07aa9c161eedaae85a168befff804716b
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130869"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777826"
 ---
 # <a name="sites"></a>Websites
 

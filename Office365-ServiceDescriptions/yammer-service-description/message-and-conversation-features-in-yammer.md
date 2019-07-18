@@ -3,7 +3,6 @@ title: Nachrichten- und Unterhaltungsfeatures in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
-ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 23bef908e50cf68cfb9866e0f11031e1f808b16f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130999"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777926"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Nachrichten- und Unterhaltungsfeatures in Yammer
 

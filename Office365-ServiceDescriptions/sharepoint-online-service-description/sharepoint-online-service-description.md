@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online in Office 365 ermöglicht es den Teilnehmern, miteinander zu teilen und zusammenzuarbeiten, andere unternehmensübergreifend zu informieren und zu engagieren, Geschäftsprozesse zu transformieren und kollektives Wissen nutzbar zu machen. Darüber hinaus bietet SharePoint Funktionen für Organisationen zum Schutz und zur Verwaltung von Daten sowie zum Erstellen benutzerdefinierter Lösungen. Eine schnelle Übersicht finden Sie unter Was ist SharePoint?
-ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131009"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777856"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online-Dienstbeschreibung
 
@@ -177,7 +177,7 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Schnelleinblick](insights.md#quick-explore) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[SQL Server Reporting Services (SSRS) - Integrierter Modus](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Zeitleistenschnitte](insights.md#timeline-slicer) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|[Visio Online](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
+|[Visio für das Internet](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |[Visio Services](insights.md#visio-services) <sup>17</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |**Suchfeatures** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Kontinuierliche Durchforstungen](search.md#continuous-crawls) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -252,7 +252,7 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 <sup>14</sup> Access 2010 wird nicht unterstützt. <br/> 
 <sup>15</sup> für Office für das Internet sollten F1-Benutzer Zugriff auf Office für das Internet (Live Tiles) für die Erstellung von Inhalten haben. Es bestehen für sie jedoch Einschränkungen hinsichtlich der kommerziellen mobilen Haupt-Apps. Folgende sind enthalten: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint und Gruppen. Die folgenden sind **nicht** enthalten: Outlook, Word, Excel, PowerPoint und OneNote.<br/> 
 <sup>16</sup> InfoPath-Formulare, die Benutzercode (Sandkasten) enthalten, können nur in InfoPath Rich Client verwendet werden. <br/>
-<sup>17</sup> der Visio Online-Verbrauch (Ansichtsfunktion) steht kostenlos zur Verfügung. Für Visio Online-Funktionen zum Erstellen und Bearbeiten ist eine Lizenz erforderlich. Weitere Informationen zu Visio Online finden Sie unter der [Visio Online-Dienstbeschreibung](../visio-online-service-description/visio-online-service-description.md).  <br/>
+<sup>17</sup> Visio für den webverbrauch (Ansicht-Funktion) ist kostenlos verfügbar. Für Visio-Funktionen zum Erstellen und Bearbeiten von Webdiensten ist eine Lizenz erforderlich. Weitere Informationen zu Visio für das Internet finden Sie in der [Beschreibung](../visio-online-service-description/visio-online-service-description.md)des Webdiensts in Visio.  <br/>
 <sup>18</sup> F1-Benutzer können in einem Hybrid Setup auf SharePoint Server zugreifen, aber Office 365 F1 enthält keine CAL-Rechte für den Zugriff auf den Server; Diese Rechte müssen separat erworben werden. <br/>
 <sup>19</sup> Kundenschlüssel ist in Office 365 Enterprise E5 verfügbar. Mit dem Kundenschlüssel können Sie die Verschlüsselungsschlüsseln Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in Microsoft Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Mit dem Kundenschlüssel können Sie Auflagen erfüllen, da Sie die Verschlüsselungsschlüssel steuern, mit denen Office 365 die Daten entschlüsselt. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>20</sup> kommt bald. 

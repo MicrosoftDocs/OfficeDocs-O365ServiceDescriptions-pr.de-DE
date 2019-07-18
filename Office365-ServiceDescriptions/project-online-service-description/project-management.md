@@ -3,7 +3,6 @@ title: Projektmanagement
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Die folgenden Projektverwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: bc759b3df0859fa27bd5b46ae7246350d106c4b3
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 28e94b4c849a53a4b9ed288b394ed49d792bb0e2
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342044"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777696"
 ---
 # <a name="project-management"></a>Projektmanagement
 

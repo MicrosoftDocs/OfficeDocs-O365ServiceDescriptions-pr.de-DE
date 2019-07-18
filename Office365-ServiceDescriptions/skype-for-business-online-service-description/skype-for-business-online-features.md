@@ -3,7 +3,6 @@ title: Skype for Business Online-Features
 ms.author: sharik
 author: skjerland
 manager: supotter
-ms.date: 10/9/2017
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online Features in einrichten Skype for Business Online.
-ms.openlocfilehash: 1f1da35799df6b51147a24127e0c5778eda8022a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: abaa1ba3245a3ea6ddcc6caf7e935a79e1382b8d
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342434"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777816"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 

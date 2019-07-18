@@ -3,7 +3,6 @@ title: Nachrichtenübermittlung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des Nachrichtenflusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor. '
-ms.openlocfilehash: d65ba6b96f9cbeffd42d46f40fd126fb9a659690
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342774"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776786"
 ---
 # <a name="mail-flow"></a>Mail Flow
 

@@ -3,7 +3,6 @@ title: Sprachnachrichtendienste
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: c49a55f3278465a33e0caf3120edf454d985de0c
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7f01e3e013ea714735af300a8ecf36dd26984757
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343024"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776926"
 ---
 # <a name="voice-message-services"></a>Sprachnachrichtendienste
 

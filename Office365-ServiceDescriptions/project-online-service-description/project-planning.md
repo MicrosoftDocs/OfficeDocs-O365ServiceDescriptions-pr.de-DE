@@ -3,7 +3,6 @@ title: Projektplanung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Die folgenden Projekt Planungsfeatures stehen in Project online zur Verfügung.
-ms.openlocfilehash: 52922c7ebf757351cd4f46214a484d7c1a18ba86
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a152fa3a7ee454a94ef659a5dfe35f956a1f3da1
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343704"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776936"
 ---
 # <a name="project-planning"></a>Projektplanung
 

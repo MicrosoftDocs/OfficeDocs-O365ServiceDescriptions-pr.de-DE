@@ -3,7 +3,6 @@ title: Portfolioverwaltung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Die folgenden Portfolio Verwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: b8ef403a10aaa24f2275449819a9c2a24aacfe14
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8d8cec01b6b776108c19ffe057ccf96d065ec3eb
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342004"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777686"
 ---
 # <a name="portfolio-management"></a>Portfolioverwaltung
 

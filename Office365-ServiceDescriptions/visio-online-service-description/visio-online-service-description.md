@@ -1,38 +1,37 @@
 ---
-title: Visio Online-Dienstbeschreibung
+title: Visio für die Webdienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Mit Visio Online können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio Online-Benutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
-ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio für die Webbenutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
+ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342384"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777726"
 ---
-# <a name="visio-online-service-description"></a>Visio Online-Dienstbeschreibung
+# <a name="visio-for-the-web-service-description"></a>Visio für die Webdienstbeschreibung
 
-Mit Visio Online können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio Online-Benutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
+Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio für die Webbenutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
   
-Weitere Informationen und Anweisungen für die ersten Schritte finden Sie unter [Visio Online](https://products.office.com/en-US/visio/visio-online).
+Weitere Informationen und erste Schritte finden Sie unter [Visio für das Internet](https://products.office.com/en-US/visio/visio-online).
   
-Hilfe bei der Arbeit mit Visio Online finden Sie in der [Hilfe zu Visio Online](https://go.microsoft.com/fwlink/?linkid=855982).
+Hilfe bei der Verwendung von Visio für das Internet finden Sie unter [Visio Help Center](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Verfügbarkeit und Vergleich von Features
 
-In der folgenden Tabelle werden die Features von Visio Online den funktionsreichen Visio-Desktop-Apps gegenübergestellt. Der Tabelle können Sie entnehmen, welche Features in Visio Online verfügbar sind. Durch Klicken auf den Featurenamen wird eine kurze Beschreibung zur Funktionsweise angezeigt. Möglicherweise benötigen einige Personen in Ihrer Organisation die erweiterten Funktionen der Visio-Desktop-App, andere hingegen müssen vielleicht nur Visio-Diagramme mit Visio Online anzeigen und geringfügig bearbeiten. 
+In der folgenden Tabelle werden Visio für die Funktionen des WebFeatures mit den funktionsreichen Visio-Desktop Apps verglichen. Verwenden Sie die Tabelle, um zu ermitteln, welche Features in Visio für das Web zur Verfügung stehen, und klicken Sie dann auf den Featurenamen, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie stellen möglicherweise fest, dass einige Personen in Ihrer Organisation die erweiterten Funktionen der Visio-Desktop-App benötigen, während andere nur Visio-Diagramme mit Visio für das Internet anzeigen und leicht bearbeiten müssen. 
   
 ||||
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**Visio Online** <br/> |**Visio-Desktop-App** <br/> |
+|**Anwendungsfeatures** <br/> |**Visio für das Internet** <br/> |**Visio-Desktop-App** <br/> |
 |[Anwenden umfangreicher Formatierung auf Text und Shapes](visio-online.md#BM_1) <br/> |Ja  <br/> |Ja  <br/> |
 |[Anordnen von Objekten](visio-online.md#BM_2) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen von Mashup-Lösungen](visio-online.md#BM_3) <br/> |Ja  <br/> |Ja  <br/> |
@@ -61,12 +60,12 @@ In der folgenden Tabelle werden die Features von Visio Online den funktionsreich
    
 > <sup>1</sup> Hyperlinks folgen (Einfügen oder Bearbeiten nicht möglich). 
 <br/><sup>2</sup> Freigeben über SharePoint oder One Drive for Business und Freigeben für Benutzer, die nicht über SharePoint oder OneDrive verfügen. 
-<br/> <sup>3</sup> nicht verfügbar im Visio Online-Editor.
-<br/><sup>4</sup> nicht verfügbar in Visio Online Viewer. 
-<br/><sup>5</sup> nicht verfügbar im Visio Online-Editor, aber Sie können in den Ansichtsmodus wechseln und Kommentare anzeigen. 
-<br/><sup>6</sup> verfügbar im Visio Online-Editor. 
+<br/> <sup>3</sup> nicht verfügbar in Visio für den-Webeditor.
+<br/><sup>4</sup> nicht verfügbar in Visio für den-webviewer. 
+<br/><sup>5</sup> nicht verfügbar in Visio für den Webeditor, aber Sie können in den Ansichtsmodus wechseln und Kommentare anzeigen. 
+<br/><sup>6</sup> verfügbar in Visio für den-Webeditor. 
   
-## <a name="supported-file-types-in-visio-online"></a>In Visio Online unterstützte Dateitypen
+## <a name="supported-file-types-in-visio-for-the-web"></a>Unterstützte Dateitypen in Visio für das Internet
 
 ||||
 |:-----|:-----|:-----|
