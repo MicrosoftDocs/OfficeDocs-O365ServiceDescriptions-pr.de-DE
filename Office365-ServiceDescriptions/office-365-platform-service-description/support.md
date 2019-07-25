@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Office 365-Portal als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter Office 365 Support Options.
-ms.openlocfilehash: b8b58896d4b4ea935e94c6cc019f937a51b56cd0
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233512"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854903"
 ---
 # <a name="support"></a>Support
 
@@ -185,7 +185,7 @@ Sie können einen Microsoft-Partner auswählen und administrative Funktionen del
 Informationen zur Entwicklung von Office- und SharePoint-Anwendungen für Office 365 finden Sie im [Microsoft Developer Network (MSDN)](https://developer.microsoft.com/office/docs). Entwicklersupport ist online über Blogs und Foren in der Entwickler-Community, in den Ressourcen des Premier Support und Partnersupports oder direkt über Microsoft verfügbar. Links zu Supportoptionen für Entwickler finden Sie unter [Supportressourcen](https://developer.microsoft.com/office/docs).
   
 > [!NOTE]
-> Das Office 365-Team unterstützt keine Skripts. Wenn Sie Hilfe zu Skripts benötigen, wenden Sie sich an [Microsoft Support](https://support.microsoft.com/).
+> Das Office 365 Team unterstützt keine Skripts (beispielsweise Skripttechniken wie JavaScript, VBScript usw. oder VBA). Wenn Sie Hilfe zu Skripts benötigen, wenden Sie sich an [Microsoft Support](https://support.microsoft.com/). Unterstützung für die Verwendung von Office-Anwendungen finden Sie unter [Supportoptionen für Microsoft Office Anwendungsprobleme für Office 365 Abonnenten](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).
   
 ### <a name="volume-licensing"></a>Volumenlizenzierung
 
