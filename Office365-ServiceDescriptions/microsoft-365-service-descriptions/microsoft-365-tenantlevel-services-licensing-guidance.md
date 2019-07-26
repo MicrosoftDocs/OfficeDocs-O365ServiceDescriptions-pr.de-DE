@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365-Diensten auf Mandantenebene, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: dea49f7c6ea3a0082968335586e146a33d4a76cc
-ms.sourcegitcommit: 983c4e2b50177883d9369f12b43e09d51e1e5f28
+ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411460"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908722"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365-Dienste für die Lizenzierung auf Mandantenebene
 
@@ -191,7 +191,7 @@ ADG-Aufbewahrungsrichtlinien können über die automatische Klassifizierung auf 
 
 ## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
 
-Advanced eDiscovery bietet Ermittlungs-und eDiscovery-Lösungen für IT-Abteilungen und Rechtsabteilungen innerhalb von Organisationen, um Inhalte im Zusammenhang mit einer Untersuchung oder einem Rechtsstreit vor dem Export aus dem Office 365 zu identifizieren, zu sammeln, aufzubewahren, zu reduzieren und zu überprüfen. System.
+Office 365 Advanced eDiscovery stellt Ermittlungs-und eDiscovery-Lösungen für IT-Abteilungen und Rechtsabteilungen in Unternehmen bereit, um Inhalte im Zusammenhang mit einer Untersuchung oder eines Rechtsstreits vor dem Export aus dem zu ermitteln, zu sammeln, aufzubewahren, zu reduzieren Office 365 System.
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
@@ -199,7 +199,7 @@ Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 Compl
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von Advanced eDiscovery, wenn Ihr Inhalt im Rahmen eines Rechtsstreits oder einer Untersuchung aufbewahrt wird.
+Ein Benutzer profitiert von Advanced eDiscovery, wenn der Benutzer als Datenverwalter (eine Person mit administrativer Kontrolle über ein Dokument oder eine elektronische Datei) für einen Fall ausgewählt ist.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -207,7 +207,7 @@ Standardmäßig werden erweiterte eDiscovery-Funktionen auf Mandantenebene für 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Organisationen können die erweiterte eDiscovery auf Benutzerebene verwalten und Benutzer zu einem erweiterten eDiscovery-Fall hinzufügen und Benutzern den Bearbeitungszugriff auf freigegebene Speicherorte über eDiscovery-Berechtigungen ermöglichen. Anweisungen zum Anwenden von erweiterten eDiscovery-Berechtigungen auf lizenzierte Benutzer finden Sie unter [Zuweisen von eDiscovery-Berechtigungen im Security #a0 Compliance Center](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+eDiscovery-Administratoren können bestimmte Benutzer als Datenverwalter für einen Fall auswählen, indem Sie das integrierte Depot Verwaltungstool in Advanced eDiscovery verwenden, wie unter [Add depotbanks to a Advanced eDiscovery Case](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case)beschrieben.
 
 ## <a name="office-365-customer-key"></a>Office 365-Kundenschlüssel
 
@@ -255,7 +255,7 @@ Microsoft verpflichtet sich nicht zur Bereitstellung von Zulassungsanforderungen
 
 ## <a name="privileged-access-management-in-office-365"></a>Privileged Access Management in Office 365
 
-Die privilegierte Zugriffsverwaltung (Access Management, PAM) bietet granulare Zugriffssteuerung für privilegierte Verwaltungsaufgaben in Office 365. Nach dem Aktivieren der privilegierten Zugriffsverwaltung müssen Benutzer Just-in-Time-Zugriff über einen Genehmigungsworkflow anfordern, der sehr umfangreich und Zeit gebunden ist, um erhöhte und privilegierte Aufgaben auszuführen.
+Die privilegierte Zugriffsverwaltung (Access Management, PAM) bietet granulare Zugriffssteuerung für privilegierte Verwaltungsaufgaben in Office 365. Nachdem Sie PAM aktiviert haben, müssen Benutzer Just-in-Time-Zugriff über einen Genehmigungsworkflow anfordern, der sehr umfangreich und Zeit gebunden ist, um erhöhte und privilegierte Aufgaben auszuführen.
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
@@ -293,21 +293,21 @@ Standardmäßig sind Exchange Online-e-Mails, SharePoint-Websites und OneDrive-K
 
 Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security #a0 Compliance Center unter Verhinderung**** > von **Datenverlust**anpassen.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-conversations"></a>Verhinderung von Datenverlust für Chat-und Kanal Unterhaltungen in Teams
+## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Verhinderung von Datenverlust für Chat-und Kanal Nachrichten in Microsoft Teams
 
-Mit der Verhinderung von Datenverlust (Data Loss Prevention, DLP) für Chat-und Kanal Unterhaltungen von Teams können Organisationen Nachrichten in Chats und Kanal Unterhaltungen blockieren, die vertrauliche Informationen enthalten, beispielsweise Finanzinformationen, personenbezogene Informationen, Integritäts bezogene Informationen oder andere vertrauliche Informationen.
+Mit der Verhinderung von Datenverlust (Data Loss Prevention, DLP) für Microsoft Teams-Chat und Kanal Nachrichten können Organisationen Chats und Kanal Nachrichten blockieren, die vertrauliche Informationen enthalten, beispielsweise Finanzinformationen, personenbezogene Informationen, gesundheitsbezogene Informationen oder andere vertrauliche Informationen.
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
-Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 Compliance und Office 365 Advanced Compliance können von DLP für Chat-und Kanal Unterhaltungen von Teams profitieren.
+Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 Compliance und Office 365 Advanced Compliance können von DLP für Chat-und Kanal Nachrichten von Teams profitieren.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Absender profitieren davon, dass vertrauliche Informationen in Ihren ausgehenden Chat-und Kanal Unterhaltungsnachrichten auf vertrauliche Informationen überprüft werden, wie in der DLP-Richtlinie der Organisation konfiguriert.
+Absender profitieren davon, dass vertrauliche Informationen in Ihren ausgehenden Chat-und Kanal Nachrichten auf vertrauliche Informationen überprüft werden, wie in der DLP-Richtlinie der Organisation konfiguriert.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind Microsoft Teams-Chat und Kanal Unterhaltungen ein *aktivierter Speicherort (Arbeitsauslastung)* für diese DLP-Funktionen für alle Benutzer innerhalb des Mandanten. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter Übersicht über Verhinderung [von Datenverlust](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Standardmäßig sind Microsoft Teams-Chat und Kanal Nachrichten ein *aktivierter Speicherort (Arbeitsauslastung)* für diese DLP-Funktionen für alle Benutzer innerhalb des Mandanten. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter Übersicht über Verhinderung [von Datenverlust](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -359,3 +359,23 @@ Administratoren erstellen und verwalten erweiterte Nachrichten Verschlüsselungs
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 Administratoren sollten Nachrichtenfluss Regeln für erweiterte Nachrichtenverschlüsselung nur für lizenzierte Benutzer anwenden. Weitere Informationen zum Definieren von Nachrichtenfluss Regeln finden Sie unter [Definieren von Nachrichtenfluss Regeln zum Verschlüsseln von e-Mail-Nachrichten in Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
+
+## <a name="supervision-policies"></a>Aufsichtsrichtlinien
+
+Aufsichtsrichtlinien in Office 365 ermöglichen es Ihnen, Mitarbeiter Kommunikationen zur Untersuchung durch designierte Bearbeiter zu erfassen. Sie können bestimmte Richtlinien definieren, die interne und externe e-Mails, Microsoft Teams oder Drittanbieter Kommunikationen in Ihrer Organisation erfassen. Bearbeiter können dann die Nachrichten überprüfen, um sicherzustellen, dass Sie mit den Nachrichtenstandards Ihrer Organisation übereinstimmen und diese mit dem Klassifizierungs lösen.
+
+### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
+
+Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 Compliance und Office 365 Advanced Compliance können von Aufsichtsrichtlinien profitieren.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
+
+Benutzer profitieren vom Dienst, indem ihre Kommunikation durch Aufsichtsrichtlinien überwacht wird.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
+
+Administratoren erstellen Aufsichtsrichtlinien im Security #a0 Compliance Center. Diese Richtlinien definieren, welche Kommunikation und welche Benutzer in der Organisation überprüft werden sollen, definieren benutzerdefinierte Bedingungen, denen die Kommunikation entsprechen muss, und geben an, wer Überprüfungen durchführen soll.
+ 
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
+
+Administratoren wählen bestimmte Benutzer oder Gruppen aus, die in eine Aufsichtsrichtlinie eingeschlossen werden sollen. Bei der Auswahl einer Gruppe können Sie auch bestimmte Benutzer in der Gruppe auswählen, die von der Aufsichtsrichtlinie ausgeschlossen werden sollen. Weitere Informationen zur Aufsichtsrichtlinie finden Sie unter [Aufsichtsrichtlinien in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).

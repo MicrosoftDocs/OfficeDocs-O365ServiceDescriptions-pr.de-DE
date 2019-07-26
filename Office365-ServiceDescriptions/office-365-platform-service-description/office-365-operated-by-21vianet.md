@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777306"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908812"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -255,7 +255,7 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 |Excel Spreadsheet Inquire  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Archivierung und Vorschrifteneinhaltung mit Exchange Online und SharePoint Online  <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |Ja<sup>1</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Unterstützung der Gruppenrichtlinie  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|Verwaltung von Informationsrechten (IRM) mithilfe von Azure Information Protection<sup>11</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Verwaltung von Informationsrechten (IRM) mithilfe von Azure Information Protection<sup>11</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Verwaltung von Informationsrechten (IRM) mit Windows Server AD RMS<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |OneNote-Clientzugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive for Business und Office 365  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
