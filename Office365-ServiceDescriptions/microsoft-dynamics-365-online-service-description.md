@@ -3,7 +3,6 @@ title: Dienstbeschreibung von Microsoft Dynamics 365 (Online)
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 'Seit dem Update vom Dezember 2016 für Dynamics 365 (online und lokal) ist die Dynamics CRM-Funktionalität nun als Teil von Dynamics 365, einer Suite intelligenter Geschäftsanwendungen, enthalten. Dynamics 365 kombiniert Customer-Relationship-Management (CRM) und Enterprise-Resource-Planning (ERP) in neuen Anwendungen, die speziell auf bestimmte Unternehmensfunktionen zugeschnitten sind. '
-ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8455300ea65eebb842c8e6fd21d1a2c5a73f4465
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342964"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928482"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Dienstbeschreibung von Microsoft Dynamics 365 (Online)
 
@@ -48,7 +47,7 @@ Weitere Informationen zu den Funktionen von Dynamics 365 finden Sie unter [Micro
   
 ## <a name="application-availability-across-dynamics-365-plans"></a>Anwendungsverfügbarkeit in verschiedenen Dynamics 365-Plänen
 
-In der folgenden Tabelle sind alle Dynamics 365-Anwendungen und ihre Verfügbarkeit in den verschiedenen Enterprise- und Business-Plänen aufgelistet. Spezielle Informationen zu den Preisen, zur Lizenzierung, zu Benutzerrechten usw. finden Sie im folgenden Download: [Dynamics 365-Lizenzierungsleitfaden](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).
+In der folgenden Tabelle sind alle Dynamics 365-Anwendungen und ihre Verfügbarkeit in den verschiedenen Enterprise- und Business-Plänen aufgelistet. Spezielle Informationen zu den Preisen, zur Lizenzierung, zu Benutzerrechten usw. finden Sie im folgenden Download: [Dynamics 365-Lizenzierungsleitfaden](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -68,7 +67,7 @@ In der folgenden Tabelle sind alle Dynamics 365-Anwendungen und ihre Verfügbark
   
 ## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>Abonnementlizenzvergleich von Dynamics 365 for Sales, Customer Service, Field Service und Project Service Automation
 
-Nachfolgend finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte für jedes der fünf Benutzerservicelevel. Einen ausführlichen Vergleich finden Sie unter **Anhang B** im Download: [Dynamics 365-Lizenzierungsleitfaden](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).
+Nachfolgend finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte für jedes der fünf Benutzerservicelevel. Einen ausführlichen Vergleich finden Sie unter **Anhang B** im Download: [Dynamics 365-Lizenzierungsleitfaden](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|

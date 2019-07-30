@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 8e76ab8e0c3391d77923f2b66f4d4842ae86a759
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776746"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928896"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -240,7 +240,7 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 - **Grenzwert für Nachrichtengröße**: Beschränkungen der Nachrichtengröße sind erforderlich, um zu verhindern, dass große Nachrichten die Zustellung anderer Nachrichten blockieren und die Dienstleistung für alle Benutzer beeinträchtigen. Diese Beschränkungen umfassen auch Anlagen, und sie gelten organisationsweit für alle Nachrichten (eingehende, ausgehende und interne). Nachrichten, die größer sind, werden nicht zugestellt, und der Absender erhält einen Unzustellbarkeitsbericht. Während die Grenzwerte für die Nachrichtengröße nicht nach oben oder unten oder für die einzelnen Benutzer geändert werden können, können Administratoren auch Transportregeln einrichten, um die maximale Größe einzelner Anlagen zu beschränken. Weitere Informationen finden Sie unter [Office 365 unterstützt jetzt größere E-Mails](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
     > [!NOTE]
-    > Bestimmte E-Mail-Clients haben niedrigere Nachrichtengrößengrenzwerte oder beschränken die Größe einer einzelnen Dateianlage auf einen Wert, der unter dem Nachrichtengrößengrenzwert von Exchange Online liegt.
+    > Einige e-Mail-Clients haben möglicherweise niedrigere Grenzwerte für die Nachrichtengröße oder können die Größe einer einzelnen Dateianlage auf einen Wert beschränken, der kleiner ist als der Grenzwert für die Nachrichtengröße Exchange Online.
 
 - **Grenzwert für Nachrichtenkopf Größe**: gibt die maximale Größe aller Nachrichtenkopffelder in einer Nachricht an. Der aktuelle Grenzwert beträgt 256 KB. Wenn die Gesamtgröße aller Nachrichtenköpfe 256 KB überschreitet, lehnt Exchange Online die Nachricht mit dem Fehler "552 5.3.4 Kopfgröße überschreitet feste Maximalgröße" ab. Die Größe des Nachrichtentexts oder der Anlagen wird nicht berücksichtigt. Da die Kopffelder unformatierten Text enthalten, wird die Größe des Kopfes durch die Anzahl der Zeichen in jedem Kopffeld sowie durch die Gesamtanzahl der Kopffelder bestimmt. Jedes Textzeichen belegt 1 Byte.
 
@@ -333,7 +333,9 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
     > [!NOTE]
     > Eine Verteilerliste, die im freigegebenen Adressbuch der Organisation gespeichert ist, zählt in Bezug auf den Empfängerratengrenzwert und die Empfängereinschränkung als ein Empfänger. In einer persönlichen Verteilerliste wird jeder Empfänger separat gezählt.
 
-- **Grenzwert für Nachrichten Raten**: Nachrichten Raten Grenzwerte bestimmen, wie viele Nachrichten ein Benutzer innerhalb eines bestimmten Zeitraums von seinem Exchange Online Konto senden kann. Dieser Grenzwert verhindert den übermäßigen Verbrauch von Systemressourcen durch einen einzelnen Absender. Wenn ein Benutzer Nachrichten mit einer Häufigkeit übermittelt, welche die SMTP-Clientübermittlungsgrenze überschreitet, werden die Nachrichten abgelehnt, und der Client muss es erneut versuchen.
+- **Grenzwert für Empfänger Proxyadresse**: der Grenzwert für die Empfänger Proxyadresse ist die maximale Anzahl von Aliasen (e-Mail-Adressen), die ein Empfängerpostfach aufweisen kann. 
+
+- **Grenzwert für Nachrichten Raten**: Nachrichten Raten Grenzwerte bestimmen, wie viele Nachrichten ein Benutzer innerhalb eines bestimmten Zeitraums von seinem Exchange Online Konto senden kann. Dieser Grenzwert verhindert, dass der Verbrauch von Systemressourcen von einem einzelnen Absender abgeht. Wenn ein Benutzer Nachrichten mit einer Häufigkeit übermittelt, welche die SMTP-Clientübermittlungsgrenze überschreitet, werden die Nachrichten abgelehnt, und der Client muss es erneut versuchen.
 
 #### <a name="sending-limits-across-office-365-options"></a>Sendegrenzwerte für Office 365-Optionen
 
@@ -353,17 +355,16 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 |Empfängerratengrenzwert|Keine Beschränkung<sup>1</sup>|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|
 |Empfängergrenzwert|500 Empfänger<sup>1</sup>|500 Empfänger|500 Empfänger|500 Empfänger|
 |Grenzwert für Empfängerproxyadresse|400|400|400|400|
+|Nachrichtenratengrenzwert|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|
 
 > [!NOTE]
 > <sup>1</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern.
 
 ## <a name="reporting-and-message-trace-limits"></a>Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung
-<a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
 Weitere Informationen zu Grenzwerten für Berichterstellung und Nachrichtenablaufverfolgung finden Sie im Abschnitt "Datenverfügbarkeit und Latenz bei berichterstellung und Nachrichtenablaufverfolgung" in [Berichterstellung und Nachrichtenablaufverfolgung in Exchange Online Protection](http://go.microsoft.com/fwlink/p/?LinkId=394248).
 
 ## <a name="retention-limits"></a>Aufbewahrungsgrenzwerte
-<a name="RetentionLimits"> </a>
 
 Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bestimmten Ordnern im Posteingang zugegriffen werden kann.
 
@@ -380,7 +381,7 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Aufbewahrungszeitraum des Ordners "Gelöschte Elemente"|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|
 |Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|
-|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|
+|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|
 
 > [!NOTE]
 > <sup>1</sup>Dies ist der Standardwert für Office 365-Organisationen. Ein Administrator kann diesen Grenzwert für Postfächer in seiner Organisation auf maximal 30 Tage ändern.
@@ -481,13 +482,12 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 |Maximale Anzahl Transportregeln|Keine Begrenzung|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Größe einer einzelnen Transportregel|40 KB|8 KB|8 KB|8 KB|
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln|Unbegrenzt|20 KB|20 KB|20 KB|
-|Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger|Unbegrenzt|100 Empfänger|100 Empfänger|100 Empfänger|
-|Weiterleitungsgrenzwert|Keine Begrenzung|10 Empfänger|10 Empfänger|10 Empfänger|
+|Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger|Keine Begrenzung|100 Empfänger|100 Empfänger|100 Empfänger|
+|Weiterleitungsgrenzwert|Unbegrenzt|10 Empfänger|10 Empfänger|10 Empfänger|
 |Anzahl der Umleitungen einer Nachricht|3 Umleitungen|1 Umleitung|1 Umleitung|1 Umleitung|
 |Häufigkeit, mit der eine Nachricht von Transportregeln umgeleitet wird|Keine Begrenzung|1 Umleitung|1 Umleitung|1 Umleitung|
 
 ## <a name="moderation-limits"></a>Moderationsgrenzwerte
-<a name="ModerationLimits"> </a>
 
 Diese Grenzwerte steuern die Moderationseinstellungen für die Nachrichtengenehmigung, die auf Verteilergruppen und Transportregeln angewendet wird.
 
@@ -525,15 +525,12 @@ Bei hoher Auslastung kann es vorkommen, dass einige Absender keine Benachrichtig
 > <sup>1</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern.
 
 ## <a name="exchange-activesync-limits"></a>Grenzwerte für Exchange ActiveSync
-<a name="BKMK_ExchangeActiveSync_Limits"> </a>
 
 Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei handelt es sich um ein Clientprotokoll, das Postfachdaten zwischen Mobilgeräten und Exchange synchronisiert.
 
 - **Grenzwert für Exchange ActiveSync-Geräte**: die maximale Anzahl von Exchange ActiveSync-Geräten pro Postfach.
 
 - **Grenzwert für Exchange ActiveSync-Geräte Löschung**: die maximale Anzahl von Exchange ActiveSync-Geräten, die ein Exchange-Administrator in einem einzelnen Monat löschen kann.
-
-- **Grenzwert für die Exchange ActiveSync-Dateianlage**: die maximale Größe einer Nachrichtendatei Anlage, die von einem Exchange ActiveSync-Gerät gesendet oder empfangen werden kann.
 
 ### <a name="exchange-activesync-limits-across-office-365-options"></a>Exchange ActiveSync-Grenzwerte über Office 365-Optionen hinweg
 
@@ -542,7 +539,6 @@ Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei hand
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Exchange ActiveSync-Gerätebegrenzung|100|100|100|100|100|100|
 |Exchange ActiveSync-Gerätelöschbegrenzung|20|20|20|20|20|20|
-|Exchange ActiveSync-Dateianlagebegrenzung|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>Exchange ActiveSync-Grenzwerte über eigenständige Optionen hinweg
 
@@ -551,4 +547,3 @@ Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei hand
 |**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Exchange ActiveSync-Gerätebegrenzung|100|100|100|100|
 |Exchange ActiveSync-Gerätelöschbegrenzung|20|20|20|20|
-|Exchange ActiveSync-Dateianlagebegrenzung|25 MB|25 MB|25 MB|25 MB|

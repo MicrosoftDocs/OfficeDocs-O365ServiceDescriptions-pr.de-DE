@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Beschränkungen sind nicht konfigurierbar, sofern nicht anders angegeben.
-ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776706"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928404"
 ---
 # <a name="exchange-online-protection-limits"></a>Beschränkungen von Exchange Online Protection
 
@@ -38,7 +38,7 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
     
 - **Beschränkung der Rückstellung** Zurückgestellte Nachrichten bleiben 2 Tage lang in der Warteschlange. Wiederholungsversuche hängen davon ab, welcher Fehlertyp vom E-Mail-System des Empfängers zurückgegeben wird. Das Wiederholungsintervall für die Übertragung von Nachrichten ist 15 Minuten. 
     
-- **Dauer der Spamquarantäne** Standardmäßig werden in den Quarantäneordner verschobene Spamnachrichten 15 Tage lang aufbewahrt. Administratoren können diesen Wert über Inhaltsfilterrichtlinien verringern. 
+- **Aufbewahrungszeitraum für Spam Quarantäne** Standardmäßig werden Spamnachrichten, die an die Quarantäne gesendet werden, 30 Tage lang aufbewahrt. Administratoren können diesen Wert über Inhaltsfilterrichtlinien verringern. 
     
 - **Spamquarantänebenachrichtigungen für Endbenutzer** Standardmäßig werden Spamquarantänebenachrichtigungen alle 3 Tage an den Endbenutzer versendet. Sie können so konfiguriert werden, dass sie alle 1 bis 15 Tage versendet werden. 
     
@@ -55,7 +55,7 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
 |Grenzwert blockierter Absender  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||
 |Beschränkung für zugelassene IP-Adressen oder IP-Block  <br/> |1273 Einträge  <br/> |1273 Einträge  <br/> |1273 Einträge  <br/> |
 |Beschränkung der Rückstellung  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |
-|Aufbewahrungsdauer für Spam-Quarantäne  <br/> |15 Tage in der Standardeinstellung jedoch gesenkt werden kann  <br/> |15 Tage in der Standardeinstellung jedoch gesenkt werden kann  <br/> |15 Tage in der Standardeinstellung jedoch gesenkt werden kann  <br/> |
+|Aufbewahrungsdauer für Spam-Quarantäne  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |
 |Spamquarantänebenachrichtigungen für Endbenutzer  <br/> |3 Tage standardmäßig konfigurierbar von 1 bis 15 Tage  <br/> |3 Tage standardmäßig konfigurierbar von 1 bis 15 Tage  <br/> |3 Tage standardmäßig konfigurierbar von 1 bis 15 Tage  <br/> |
    
 
