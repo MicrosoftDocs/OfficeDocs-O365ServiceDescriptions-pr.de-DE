@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Beschränkungen sind nicht konfigurierbar, sofern nicht anders angegeben.
-ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928404"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051606"
 ---
 # <a name="exchange-online-protection-limits"></a>Beschränkungen von Exchange Online Protection
 
@@ -52,7 +52,7 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
 |Größenbeschränkung für Nachrichten (einschließlich Anlagen)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Empfängergrenzwert  <br/> |Siehe „Empfängergrenzwert" weiter oben  <br/> |500 Empfänger beim Senden von einem gehosteten Postfach; Informationen finden Sie unter "Empfängergrenzwert" weiter oben bei anderen Szenarien  <br/> |Siehe „Empfängergrenzwert" weiter oben  <br/> |
 |Grenzwert sicherer Absender  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||
-|Grenzwert blockierter Absender  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||
+|Grenzwert für blockierte Absender pro Richtlinie  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||
 |Beschränkung für zugelassene IP-Adressen oder IP-Block  <br/> |1273 Einträge  <br/> |1273 Einträge  <br/> |1273 Einträge  <br/> |
 |Beschränkung der Rückstellung  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |
 |Aufbewahrungsdauer für Spam-Quarantäne  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |

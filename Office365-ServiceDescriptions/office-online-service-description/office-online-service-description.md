@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internet Verbindung von nahezu jedem Gerät aus. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131239"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051616"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für die Webdienstbeschreibung
 
@@ -175,7 +175,7 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
 |[Umbenennen und Hinzufügen von Blättern](excel-online.md#rename-and-add-sheets) <br/> |Ja  <br/> |Ja  <br/> |
 |[Umbenennen einer geöffneten Arbeitsmappe](excel-online.md#rename-file-while-workbook-is-open) <br/> |Ja  <br/> |Nein  <br/> |
 |[Ersetzen](excel-online.md#replace) <br/> |Ja  <br/> |Ja  <br/> |
-|[Rechteverwaltung: IRM und Kennwortsicherheit](excel-online.md#bkmk_RightsManagement) <br/> |Nein  <br/> |Ja  <br/> |
+|[Rechteverwaltung: IRM und Kennwortsicherheit](excel-online.md#rights-management-irm-and-password-security) <br/> |Nein  <br/> |Ja  <br/> |
 |[Speichern oder Herunterladen einer Kopie](excel-online.md#save-or-download-a-copy) <br/> |Ja  <br/> |Ja  <br/> |
 |[Freigeben](excel-online.md#share) <br/> |Ja  <br/> |Ja  <br/> |
 |[Arbeitsblattschutz](excel-online.md#sheet-protection) <br/> |Ja  <br/> |Ja  <br/> |
