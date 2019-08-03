@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation von schädlichen Links in Echtzeit. ATP verfügt über umfangreiche Berichte und URL-Ablaufverfolgungsfunktionen, mit denen Administratoren Einblicke in die Art von Angriffen in Ihrer Organisation erhalten.
-ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
-ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
+ms.openlocfilehash: aaa017f127ee17ce872ec7ba8fb13b78bc332048
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36058817"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171695"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
@@ -93,7 +93,8 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 |Sichere Links |Ja|Ja |Ja | 
 |Anti-Phishing-Richtlinien |Ja |Ja |Ja |
 |ATP für SharePoint, OneDrive und Microsoft Teams |Ja |Ja |Ja|
-|Sichere Links in Microsoft Teams |Ja|Ja |Ja |
+|Sichere Anlagen in Microsoft Teams |Ja|Ja |Ja |
+|Sichere Links in Microsoft Teams |Nein |Nein |Nein |
 |Echtzeitberichte |Ja |Ja |Ja|
 |*Automatisierung, Untersuchung, Behebung und Schulung* |
 |Nachverfolgungslisten für Bedrohungen |Nein |Ja |Ja |
@@ -114,6 +115,16 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 ### <a name="safe-links"></a>Sichere Links
 
 Das Feature " [ATP-sichere Links](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) " schützt Ihre Benutzer proaktiv vor bösartigen URLs in einer Nachricht oder in einem Office-Dokument. Der Schutz verbleibt, wenn sie auf den Link klicken, da böswillige Links dynamisch blockiert werden, während der Zugriff auf unbedenkliche Links gewährt wird.
+
+Sichere links stehen für URLs in den folgenden Apps zur Verfügung:
+
+- Office 365 ProPlus unter Windows oder Mac
+- Office für das Internet (Word für das Internet, Excel für das Internet, PowerPoint für das Internet und OneNote für das Internet)
+- Word, Excel, PowerPoint und Visio unter Windows, sowie Office-Apps auf IOS-und Android-Geräten 
+
+> [!NOTE] 
+> Benutzer müssen für ATP lizenziert sein, müssen in Richtlinien für ATP-sichere Links enthalten sein und müssen auf Ihren Geräten angemeldet sein, damit der Schutz in Kraft ist.
+
 
 ### <a name="anti-phishing-policies"></a>Anti-Phishing-Richtlinien
 
