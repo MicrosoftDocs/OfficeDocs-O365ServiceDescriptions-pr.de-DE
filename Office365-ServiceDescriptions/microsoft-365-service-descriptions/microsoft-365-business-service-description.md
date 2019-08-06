@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie unter Office 365 Service descriptions.
-ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908732"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206855"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -90,7 +90,7 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
 |[Datenschutz, Sicherheit und Transparenz](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Integrierter Antispamschutz  <br/> |Ja  <br/> |Ja  <br/> |
 |Integrierter Antischadsoftwareschutz  <br/> |Ja  <br/> |Ja  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |Nein  <br/> |Ja <br/> |
+|Office 365 Advanced Threat Protection  <br/> |Nein  <br/> |Ja<sup>19</sup> <br/> |
 |Advanced Security Management  <br/> |Nein  <br/> |Nein  <br/> |
 |Kunden-Lockbox  <br/> |Nein  <br/> |Nein  <br/> |
 |Kundenschlüssel für Office 365<sup>12</sup> <br/> |Nein  <br/> |Nein  <br/> |
@@ -180,3 +180,4 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
 <br/><sup>16</sup> dieser Plan enthält Microsoft Stream Plan 2, einschließlich Video Portal, sprach-zu-Text-Transkription, Deep Search und Gesichtserkennung.
 <br/><sup>17</sup> vereinfachte Windows 10-Geräteverwaltung und InTune-App-Schutzrichtlinien, die in das Microsoft 365 Admin Center integriert sind.
 <br/><sup>18</sup> ab Mai 2019 werden die vorhandenen berechtigten SKUs Office 365 und Microsoft 365 mit Kaizala pro wieder gefüllt. Ab dem 1. Juni 2019 wird Kaizala pro in allen berechtigten Office 365 und Microsoft 365-SKUs enthalten sein. 
+<br><sup>19</sup> Microsoft 365 wird mit Office 365 Advanced Threat Protection Plan 1 ausgeliefert. Weitere Informationen finden Sie unter [Microsoft 365 Business Security and Compliance Features](https://docs.microsoft.com/microsoft-365/business/security-features).

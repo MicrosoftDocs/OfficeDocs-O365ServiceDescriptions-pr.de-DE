@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940533"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206845"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -410,7 +410,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 
 - **Beschränken Sie das Senden von Nachrichten an große Verteilergruppen**: Verteilergruppen, die die Anzahl der von diesem Grenzwert angegebenen Mitglieder enthalten, müssen über die Zustellungsverwaltung oder die Nachrichten Genehmigungsoptionen konfiguriert sein. In der Zustellungsverwaltung kann eine Liste von Absendern angegeben werden, die Nachrichten an die Verteilergruppe senden dürfen. Für die Nachrichtengenehmigung werden ein oder mehrere Moderatoren angegeben, die alle an die Verteilergruppe gesendeten Nachrichten genehmigen müssen.
 
-- **Maximale Nachrichtengröße für große Verteilergruppen**: Wenn eine Nachricht an 5.000 oder mehr Empfänger gesendet wird, kann die Nachrichtengröße diesen Grenzwert nicht überschreiten. Übersteigt die Nachrichtengröße den Grenzwert, wird die Nachricht nicht zugestellt, und der Absender erhält einen Unzustellbarkeitsbericht (Non-Delivery Report, NDR). Die Gesamtzahl der Empfänger wird nach der Erweiterung der Verteilergruppe ermittelt.
+- **Maximale Nachrichtengröße für große Verteilergruppen**: Wenn eine Nachricht an 5.000 oder mehr Empfänger gesendet wird, kann die Nachrichtengröße diesen Grenzwert nicht überschreiten. Übersteigt die Nachrichtengröße den Grenzwert, wird die Nachricht nicht zugestellt, und der Absender erhält einen Unzustellbarkeitsbericht (Non-Delivery Report, NDR).
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>Verteilergruppen-Grenzwerte in Office 365-Produkten
 
