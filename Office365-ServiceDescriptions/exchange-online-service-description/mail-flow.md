@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des Nachrichtenflusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor. '
-ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776786"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231413"
 ---
 # <a name="mail-flow"></a>Mail Flow
 
@@ -29,16 +29,16 @@ Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die P
 
 Microsoft Exchange Online kann von Ihrer Organisation gesendete E-Mails über einen lokalen Server oder einen gehosteten Dienst weiterleiten (gelegentlich als „Smarthost" bezeichnet). So kann Ihre Organisation spezielle Appliances zur Verhinderung von Datenverlust einsetzen, benutzerdefinierte Nachbearbeitungstasks auf ausgehende E-Mails anwenden und E-Mails an Geschäftspartner über private Netzwerke senden. Exchange Online unterstützt auch das Umschreiben von Adressen: Dabei werden ausgehende E-Mails über ein lokales Gateway weitergeleitet, das die Adressen ändert. Diese Funktion macht es möglich, Unterdomänen zu verbergen, E-Mails von einer Organisation mit mehreren Domänen wie E-Mails erscheinen zu lassen, die von einer Organisation mit nur einer einzigen Domäne gesendet wurden, oder von Partnern weitergeleitete E-Mails so erscheinen zu lassen, als ob sie von innerhalb Ihrer Organisation gesendet worden wären. Administratoren können das benutzerdefinierte E-Mail-Routing im Exchange Admin Center (EAC) konfigurieren.
   
-Weitere Informationen finden Sie unter [Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx).
+Weitere Informationen finden Sie unter [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
 > [!IMPORTANT]
-> Exchange Online kann eingehende und ausgehende E-Mails zustellen. 
+> Exchange Online kann eingehende und ausgehende E-Mails zustellen. Wenn Ihre Empfängerdomäne in Exchange Online gehostet wird und DNS MX-Einträge auf Exchange Online Schutz hindeuten, wird der e-Mail-Fluss von Ihrem Mandanten an den Empfänger nicht über das Internet übertragen.
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Sichere Nachrichten mit einem vertrauenswürdigen Partner
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Als Exchange Online-Kunde können Sie mithilfe von Office 365-Connectors einen sicheren Nachrichtenfluss mit einem vertrauenswürdigen Partner einrichten. Office 365 unterstützt die sichere Kommunikation über Transport Layer Security (TLS), und Sie können einen Connector erstellen, um TLS-Verschlüsselung zu erzwingen. [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) ist ein kryptografisches Protokoll, das die Kommunikation über das Internet absichert. Mithilfe von Connectors können Sie TLS für eingehende und ausgehende Nachrichten erzwingen, basierend auf selbstsignierten Zertifikaten oder Zertifikaten, die von einer Zertifizierungsstelle validiert wurden. Sie können auch weitere Sicherheitseinschränkungen implementieren. Beispielsweise können Sie die Domänennamen oder IP-Adressbereiche angeben, über die Ihre Partnerorganisation E-Mails sendet. 
+Als Exchange Online-Kunde können Sie mithilfe von Office 365-Connectors einen sicheren Nachrichtenfluss mit einem vertrauenswürdigen Partner einrichten. Office 365 unterstützt die sichere Kommunikation über Transport Layer Security (TLS), und Sie können einen Connector erstellen, um TLS-Verschlüsselung zu erzwingen. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) ist ein kryptografisches Protokoll, das die Kommunikation über das Internet absichert. Mithilfe von Connectors können Sie TLS für eingehende und ausgehende Nachrichten erzwingen, basierend auf selbstsignierten Zertifikaten oder Zertifikaten, die von einer Zertifizierungsstelle validiert wurden. Sie können auch weitere Sicherheitseinschränkungen implementieren. Beispielsweise können Sie die Domänennamen oder IP-Adressbereiche angeben, über die Ihre Partnerorganisation E-Mails sendet. 
   
-Weitere Informationen finden Sie unter [Set up connectors for secure mail flow with a partner organization](http://technet.microsoft.com/library/1ce4d6a4-41ba-4d1e-9ca9-e826252c1041.aspx).
+Weitere Informationen finden Sie unter [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
 > [!IMPORTANT]
 > Unter Umständen ist ein CA-validiertes Zertifikat obligatorisch. 
@@ -47,13 +47,13 @@ Weitere Informationen finden Sie unter [Set up connectors for secure mail flow w
 
 Sie können E-Mails mithilfe von Connectors und Transportregeln an bestimmte Standorte umleiten. Beim kriterienbasierten Routing kann der jeweilige Connector auf Basis spezifischer Bedingungen ausgewählt werden.
   
-Weitere Informationen finden Sie unter [Scenario: Conditional mail routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).
+Weitere Informationen finden Sie unter [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Liste sicherer Absender für eingehende E-Mails
 
 Sie können die IP-Adresse eines vertrauenswürdigen Partners in eine Liste sicherer Absender aufnehmen, um zu gewährleisten, dass Nachrichten von diesem Partner von der Spamfilterung ausgenommen werden. Verwenden Sie dazu die Liste zugelassener IP-Adressen des Verbindungsfilters.
   
-Weitere Informationen finden Sie unter [Configure the connection filter policy](http://technet.microsoft.com/library/6ae78c12-7bbe-44fa-ab13-c3768387d0e3.aspx).
+Weitere Informationen finden Sie unter [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Hybrides E-Mail-Routing
 
@@ -98,4 +98,3 @@ Weitere Informationen zu den Anforderungen an Hybridbereitstellungen finden Sie 
 
 Welche Funktionen in den einzelnen Office 365-Plänen, eigenständigen Optionen und lokalen Lösungen jeweils verfügbar sind, können Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md) nachlesen.
   
-

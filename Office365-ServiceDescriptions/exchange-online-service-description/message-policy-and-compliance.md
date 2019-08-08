@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: b5d6d66780dd77456f5952e353f7030bdd288262
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776436"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231423"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 
@@ -84,24 +84,21 @@ Neben Bitlocker verwenden wir eine Technologie, die Distributed Key Manager (DKM
   
 ## <a name="customer-key"></a>Kundenschlüssel
 
-Mit Kundenschlüssel können Sie die Verschlüsselungsschlüssel Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in Microsoft-Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697) und [Häufig gestellte Fragen zur Dienstverschlüsselung mit Kundenschlüssel für Office 365](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq?redirectSourcePath=%252fen-us%252farticle%252fservice-encryption-with-customer-key-for-office-365-faq-41ae293a-bd5c-4083-acd8-e1a2b4329da6).
+Mit Kundenschlüssel können Sie die Verschlüsselungsschlüssel Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in Microsoft-Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) und [Häufig gestellte Fragen zur Dienstverschlüsselung mit Kundenschlüssel für Office 365](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
   
 ## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 E-Mail-Benutzer können mit der Office 365-Nachrichtenverschlüsselung an jeden und ganz einfach verschlüsselte E-Mail-Nachrichten senden. Wir haben neue Funktionen bei der Office-Nachrichtenverschlüsselung angekündigt, die die Schutzfunktionen von Azure Information Encryption nutzen. Diese neuen Funktionen bieten eine verbesserte Endbenutzererfahrung, die eine einfache Freigabe und Zusammenarbeit an geschützten Nachrichten mit Personen innerhalb und außerhalb der Organisation ermöglichen. Für die neuen Funktionen der Office-Nachrichtenverschlüsselung müssen einige Setupanforderungen erfüllt sein. Informationen dazu finden Sie unter „Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen". Kunden mit älteren Versionen der Office 365-Nachrichtenverschlüsselung erhalten nur Zugriff auf die neuen Funktionen, wenn Sie der aufgeführte Anleitung folgen. Weitere Informationen zu den neuen und alten Funktionen der Office 365-Nachrichtenverschlüsselung finden Sie in den [häufig gestellten Fragen](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e). 
 
 Office 365 erweiterte Nachrichtenverschlüsselung bietet zusätzlichen Schutz, indem Nachrichtenablauf und-Sperrung zugelassen werden.  Sie können auch mehrere Vorlagen für verschlüsselte e-Mails erstellen, die von Ihrer Organisation stammen.  Die erweiterte Nachrichtenverschlüsselung ist in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Preise für gemeinnützige Mitarbeiter), Office 365 Enterprise E5 (Nonprofit-Mitarbeiter Preise) oder Office 365 Education A5 enthalten. Wenn Ihre Organisation über ein Office 365es Abonnement verfügt, das nicht Office 365 erweiterte Nachrichtenverschlüsselung enthält, können Sie die Microsoft 365 E5-Compliance oder die Office 365 Advanced Compliance-SKU als Add-on erwerben.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Mit S/MIME können Sie vertrauliche Daten schützen, indem Sie in Ihrer Organisation signierte und verschlüsselte E-Mails versenden. Administratoren können die remote Windows PowerShell verwenden, um S/MIME einzurichten, nachdem PKI-Zertifikate an die Benutzer ausgegeben wurden. Diese Zertifikate müssen von einem lokalen Active Directory-Zertifikatsdienst synchronisiert werden.
   
-S/MIME wird von Internet Explorer 9 oder höher unterstützt. Derzeit wird S/MIME von Firefox, Opera und Chrome nicht unterstützt. Weitere Informationen finden Sie unter [S/MIME zum Signieren und Verschlüsseln von Nachrichten](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
+S/MIME wird in Microsoft Edge und Internet Explorer 11 unterstützt. Derzeit wird S/MIME von Firefox, Opera und Chrome nicht unterstützt. Weitere Informationen finden Sie unter [S/MIME zum Signieren und Verschlüsseln von Nachrichten](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
   
-## <a name="in-place-hold-and-litigation-hold"></a>In-Situ-Speicher und Beweissicherungsverfahren
-<a name="bkmk_O365_MessageEncryption"> </a>
+## <a name="in-place-hold-and-litigation-hold"></a>Compliance-Archiv und Aufbewahrung für eventuelle Rechtsstreitigkeiten
 
 Wenn Rechtsstreitigkeiten zu erwarten sind, sind Organisationen dazu verpflichtet, die für den Fall relevanten elektronisch gespeicherten Informationen einschließlich E-Mail aufzubewahren. Diese Erwartung kann eintreten, bevor die Details des Falls bekannt werden, und die Menge der aufzubewahrenden Daten ist häufig groß. Organisationen können alle E-Mails zu einem bestimmten Thema oder alle E-Mails für bestimmte Personen aufbewahren.
   
@@ -131,7 +128,6 @@ Außerdem können Sie das Compliance-Archiv für Folgendes verwenden:
 Weitere Informationen finden Sie unter [Compliance-Archiv](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds).
   
 ## <a name="in-place-ediscovery"></a>Compliance-eDiscovery
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online ermöglicht Kunden das Durchsuchen von Postfachinhalten innerhalb einer Organisation über eine webbasierte Benutzeroberfläche. Administratoren oder Verantwortliche für Richtlinientreue und Sicherheit, die autorisiert sind, eine Compliance-eDiscovery-Suche auszuführen (durch Zuweisen), können E-Mails, Anlagen, Kalendertermine, Aufgaben und Kontakte sowie andere Elemente durchsuchen. Mit der Compliance-eDiscovery-Funktion können primäre Postfächer und Archive gleichzeitig durchsucht werden. Die umfangreichen Filterfunktionen umfassen Absender, Empfänger, Nachrichtentyp, Sende-/Empfangsdatum und Cc/Bcc sowie die Verwendung der KQL-Syntax. Die Suchergebnisse beinhalten auch Elemente aus dem Ordner "Gelöschte Elemente", wenn sie mit der Suchabfrage übereinstimmen.
   
@@ -156,7 +152,6 @@ In Exchange Online können autorisierte Benutzer Compliance-eDiscovery-Suchen du
 Weitere Informationen finden Sie unter [Compliance-eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery).
   
 ## <a name="mail-flow-rules"></a>Nachrichtenflussregeln
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Mithilfe von Nachrichtenflussregeln können Sie Nachrichten, die Ihre Organisation durchlaufen, auf bestimmte Bedingungen prüfen und entsprechende Aktionen ausführen. Mit Nachrichtenflussregeln können Sie Nachrichtenrichtlinien auf E-Mails anwenden, Nachrichten sichern, Nachrichtensysteme schützen und Informationsverluste vermeiden.
   
@@ -173,12 +168,11 @@ Viele Organisationen müssen gegenwärtig zur Einhaltung von Gesetzen, Vorschrif
 - Hinzufügen von Haftungsausschlüssen zu Nachrichten während des Transports innerhalb der Organisation
     
 > [!IMPORTANT]
-> Anlagendateitypen, für die iFilter von Drittanbietern auf dem E-Mail-Server installiert werden müssen (z. B. Adobe PDF-Dateien), können erst nach der Installation eines geeigneten iFilters mithilfe von Nachrichtenflussregeln überprüft werden. Weitere Informationen zu Dateitypen, die von Nachrichtenflussregeln unterstützt werden, finden Sie unter [in Office 365 ](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments). 
+> Anlagendateitypen, für die iFilter von Drittanbietern auf dem E-Mail-Server installiert werden müssen (z. B. Adobe PDF-Dateien), können erst nach der Installation eines geeigneten iFilters mithilfe von Nachrichtenflussregeln überprüft werden. Weitere Informationen zu Dateitypen, die von Nachrichtenflussregeln unterstützt werden, finden Sie unter [in Office 365 ](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
   
 Weitere Informationen zu Nachrichtenflussregeln finden Sie unter [Nachrichtenflussregeln in Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019).
   
 ## <a name="data-loss-prevention"></a>Verhinderung von Datenverlust
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Das Feature zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) hilft Ihnen dabei, vertrauliche Informationen in Ihrer Organisation über eine eingehende Inhaltsanalyse zu identifizieren, zu überwachen und zu schützen. DLP ist ein Premium-Feature, dessen Bedeutung für Nachrichtensysteme von Unternehmen ständig zunimmt, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Das DLP-Feature in Exchange Online ermöglicht es Ihnen, sensible Daten zu schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
   
@@ -203,7 +197,6 @@ Sie können DLP-Richtlinien in der Verwaltungsschnittstelle der Exchange-Verwalt
 Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
   
 ## <a name="journaling"></a>Journaling
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Sie können Exchange Online so konfigurieren, dass Kopien von E-Mails in Journalen beliebiger externer Postfächer erfasst werden, die Nachrichten über SMTP erhalten können. Mithilfe der Aufzeichnung eingehender und ausgehender E-Mail-Kommunikation in Journalen kann Ihre Organisation rechtlichen, regulatorischen und organisatorischen Auflagen genügen. Bei der Planung von Nachrichtenaufbewahrung und Richtlinientreue ist es wichtig zu wissen, was Journaling ist und wie es in die Konformitätsrichtlinien Ihrer Organisation passt.
   
@@ -224,7 +217,6 @@ Wenn Sie eine erfolgreiche und zuverlässige Journalinglösung sicherstellen mö
 Weitere Informationen zum Journaling finden Sie unter [Journaling](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
-<a name="bkmk_O365_MessageEncryption"> </a>
 
 Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md).
   

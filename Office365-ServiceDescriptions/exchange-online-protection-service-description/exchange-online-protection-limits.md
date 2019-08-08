@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Beschränkungen sind nicht konfigurierbar, sofern nicht anders angegeben.
-ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051606"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231393"
 ---
 # <a name="exchange-online-protection-limits"></a>Beschränkungen von Exchange Online Protection
 
@@ -36,7 +36,7 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
     
 - **Begrenzung für IP-Zulassungsliste oder IP-Sperrliste** Wenn Sie im Verbindungsfilter eine IP-Zulassungsliste oder IP-Sperrliste konfigurieren, können Sie maximal 1273 Einträge angeben, wobei ein Eintrag entweder eine einzelne IP-Adresse oder einen CIDR-Bereich von IP-Adressen von /24 bis /32 darstellt. 
     
-- **Beschränkung der Rückstellung** Zurückgestellte Nachrichten bleiben 2 Tage lang in der Warteschlange. Wiederholungsversuche hängen davon ab, welcher Fehlertyp vom E-Mail-System des Empfängers zurückgegeben wird. Das Wiederholungsintervall für die Übertragung von Nachrichten ist 15 Minuten. 
+- **Grenzwert für Nachrichten Verschiebung** Nachrichten in einem zurückstellungs Zeitraum bleiben 24 Stunden lang in unseren Warteschlangen stehen. Wiederholungsversuche hängen davon ab, welcher Fehlertyp vom E-Mail-System des Empfängers zurückgegeben wird. Das Wiederholungsintervall für die Übertragung von Nachrichten ist 15 Minuten. 
     
 - **Aufbewahrungszeitraum für Spam Quarantäne** Standardmäßig werden Spamnachrichten, die an die Quarantäne gesendet werden, 30 Tage lang aufbewahrt. Administratoren können diesen Wert über Inhaltsfilterrichtlinien verringern. 
     
