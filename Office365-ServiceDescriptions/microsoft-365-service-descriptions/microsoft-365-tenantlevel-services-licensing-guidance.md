@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365-Diensten auf Mandantenebene, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
+ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206865"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36258863"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365-Dienste für die Lizenzierung auf Mandantenebene
 
@@ -63,7 +63,7 @@ Standardmäßig werden Azure ATP-Features auf Mandantenebene für alle Benutzer 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Microsoft verpflichtet nicht, Benutzern, die nicht lizenziert sind, die Funktion zur Erkennung von Bedrohungen bereitzustellen. Im Laufe der Zeit werden in Azure ATP Lizenzprüfungen oder zielgerichtete Tools hinzugefügt, um sicherzustellen, dass die Azure ATP-Funktionalität nur für lizenzierte Benutzer gilt.
+Microsoft bietet Kunden sperrbox-Zugriffs Steuerungs Genehmigungsanforderungen für lizenzierte Benutzer.
 
 ## <a name="azure-information-protection"></a>Azure Information Protection
 
@@ -150,7 +150,7 @@ Lizenzierte Benutzer von Azure AD P1 können von den Ermittlungsfunktionen in MC
 
 Um von den [bedingten Zugriffsfunktionen für App-Steuerelemente](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) in MCAS profitieren zu können, müssen die Benutzer auch für Azure Active Directory P1 lizenziert werden, die in Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5-Sicherheit.
 
-Um von der [automatischen Kennzeichnung](https://docs.microsoft.com/cloud-app-security/data-protection-policies)profitieren zu können, müssen die Benutzer für Azure Information Protection P2 lizenziert sein, die in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5 Compliance enthalten ist.
+Um von der [automatischen Kennzeichnung](https://docs.microsoft.com/cloud-app-security/data-protection-policies)profitieren zu können, müssen die Benutzer für Azure Information Protection P1 lizenziert sein, die in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5 Compliance enthalten ist.
 
 Weitere Informationen finden Sie im [Microsoft Cloud App Security Licensing-Datenblatt](http://www.aka.ms/mcaslicensing).
 
@@ -226,9 +226,9 @@ Office 365 Verschlüsselungsschlüssel für Kundenschlüssel können für alle D
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Wenn Sie Daten in einem Office 365-und/oder Microsoft 365-Mandanten für lizenzierte Benutzer mit Verschlüsselungsschlüsseln versehen möchten, befolgten Sie die Bereitstellungsrichtlinien für Verschlüsselungsschlüssel für Kunden:
+Wenn Sie Daten in einem Office 365-und/oder Microsoft 365-Mandanten für lizenzierte Benutzer mit Verschlüsselungsschlüsseln versehen möchten, befolgen Sie die Bereitstellungsanweisungen für die Schlüssel zur Verschlüsselung der Kunden:
 
-  - Für SharePoint Online können Dateien auf mindestens einem Standort wie hier beschrieben mit dem Kundenschlüssel verschlüsselt werden: Einrichten [des Kunden Schlüssels für SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business).
+  - Für SharePoint Online und OneDrive für Unternehmen können Dateien auf mindestens einer Website wie hier beschrieben mit dem Kundenschlüssel verschlüsselt werden: Einrichten [des Kunden Schlüssels für SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-sharepoint-online-and-onedrive-for-business).
 
   - Für Exchange Online und Skype for Business Online können Postfächer mithilfe von Kunden Schlüsseln verschlüsselt werden, wie hier beschrieben: [Einrichten des Kunden Schlüssels für Exchange Online und Skype for Business](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key#office-365-setting-up-customer-key-for-exchange-online-and-skype-for-business)
 
