@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "office365-ServiceDescriptions/microsoft-365-business-service-description.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description",
+      "redirect_document_id": true
+   }
+  ] 
+  }
