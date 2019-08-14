@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365-Diensten auf Mandantenebene, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
+ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258863"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384869"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365-Dienste für die Lizenzierung auf Mandantenebene
 
@@ -63,7 +63,7 @@ Standardmäßig werden Azure ATP-Features auf Mandantenebene für alle Benutzer 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Microsoft bietet Kunden sperrbox-Zugriffs Steuerungs Genehmigungsanforderungen für lizenzierte Benutzer.
+Microsoft stellt Funktionen für die Erkennung von Bedrohungen für lizenzierte Benutzer bereit.
 
 ## <a name="azure-information-protection"></a>Azure Information Protection
 
@@ -250,7 +250,7 @@ Administratoren können Kunden-Lockbox-Steuerelemente im Microsoft 365 Admin Cen
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Microsoft verpflichtet sich nicht zur Bereitstellung von Zulassungsanforderungen für Kunden Sperren für Benutzer, die nicht lizenziert sind. Im Laufe der Zeit werden dem Kunden Lockbox Lizenzprüfungen oder zielgerichtete Tools hinzugefügt, um sicherzustellen, dass Kunden Lockbox lizenzierten Benutzern zugeordnet werden kann.
+Microsoft bietet Kunden sperrbox-Zugriffs Steuerungs Genehmigungsanforderungen für Benutzer in Ihrer Office 365 Organisation.
 
 ## <a name="privileged-access-management-in-office-365"></a>Privileged Access Management in Office 365
 
