@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie mehr über den OneDrive-Speicherplatz, der für jeden Abonnementplan bereitgestellt wird.
-ms.openlocfilehash: e8fd3ae3e60856f0de99382ea2cecf37c6cd0517
-ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
+ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
+ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36286012"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36407719"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business – Dienstbeschreibung
 
@@ -59,15 +59,12 @@ Jeder, dessen Plan OneDrive umfasst, kann den OneDrive-Synchronisierungsclient v
 - Office 365 Non-Profit E1
 - OneDrive for Business Plan 1
 - SharePoint Online Plan 1
+- Microsoft 365 Business
 
 **Ab 1 TB, bis unbegrenzt**
  
-1 TB pro Benutzer für Abonnements mit weniger als 5 Benutzern. Für Abonnements mit 5 oder mehr Benutzern stellt Microsoft zunächst 1 TB pro Benutzer zur Verfügung, die von Administratoren auf bis zu 5 TB pro Benutzer erhöht werden können. ([Weitere Informationen](/onedrive/set-default-storage-space)) Um zusätzlichen Speicherplatz anzufordern, müssen Administratoren sich an den Microsoft-Support wenden. 
+1 TB pro Benutzer für Abonnements mit weniger als 5 Benutzern. Für Abonnements ab 5 Benutzern (kann jede beliebige Kombination berechtigter Pläne sein) stellt Microsoft zunächst 1 TB pro Benutzer bereit, die von Administratoren auf bis zu 5 TB pro Benutzer erhöht werden können. (Weitere Informationen hierzu finden Sie unter [Festlegen des Standardspeicherplatzes für OneDrive-Benutzer](/onedrive/set-default-storage-space).) Wenn Sie zusätzlichen Speicher anfordern möchten, müssen Administratoren sich diesbezüglich an den Microsoft-Support wenden.
 
-- Office 365 Enterprise E3
-- Office 365 Enterprise E5
-- OneDrive for Business-Plan 2
-- SharePoint Online Plan 2
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
 - Office 365 A1
@@ -75,8 +72,10 @@ Jeder, dessen Plan OneDrive umfasst, kann den OneDrive-Synchronisierungsclient v
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 Non-Profit E3 
-- Office 365 Non-Profit E5 
+- Office 365 Non-Profit E3
+- Office 365 Non-Profit E5
+- OneDrive for Business-Plan 2
+- SharePoint Online Plan 2
 - Microsoft 365 Enterprise E3
 - Microsoft 365 Enterprise E5
 - Microsoft 365 A3
@@ -86,7 +85,6 @@ Jeder, dessen Plan OneDrive umfasst, kann den OneDrive-Synchronisierungsclient v
 - Microsoft 365 E3 für gemeinnützige Organisationen
 - Microsoft 365 E5 für gemeinnützige Organisationen
 
-  
 > [!NOTE]
 > Sie müssen einem Benutzer mindestens eine Lizenz zuweisen, bevor Sie den Standardspeicherplatz für OneDrive erhöhen können. 
   
