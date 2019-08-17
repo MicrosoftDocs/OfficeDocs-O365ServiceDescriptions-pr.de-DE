@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
-ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928414"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450289"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
 
@@ -84,7 +84,7 @@ Weitere Beispiele:
   
 - Gcc High Mandant a kann mit gcc High Mandant B teilen, und b Benutzer melden sich mit Azure AD Benutzernamen und Kennwort an.
     
-- Nicht-gcc-Mandant C kann für gcc High Mandant A oder b freigeben, und A-oder b-Benutzer melden sich mit einmaligen Codes an.
+- Nicht-gcc-Mandant C kann für gcc High Mandant A oder b freigeben, und a-oder b-Benutzer melden sich mit einmaligen Codes an.
     
 - Gcc High Mandant A oder B kann gemeinsam mit dem nicht-gcc-Mandanten c und c-Benutzern sich mit einmaligen Codes anmelden.
     

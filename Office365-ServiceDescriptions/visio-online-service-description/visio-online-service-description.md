@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio für die Webbenutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
-ms.openlocfilehash: 3b1ced6ba4e09a0ac32edf9fdc276dab2cf387a3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777726"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450299"
 ---
 # <a name="visio-for-the-web-service-description"></a>Visio für die Webdienstbeschreibung
 
@@ -32,31 +32,31 @@ In der folgenden Tabelle werden Visio für die Funktionen des WebFeatures mit de
 ||||
 |:-----|:-----|:-----|
 |**Anwendungsfeatures** <br/> |**Visio für das Internet** <br/> |**Visio-Desktop-App** <br/> |
-|[Anwenden umfangreicher Formatierung auf Text und Shapes](visio-online.md#BM_1) <br/> |Ja  <br/> |Ja  <br/> |
-|[Anordnen von Objekten](visio-online.md#BM_2) <br/> |Ja  <br/> |Ja  <br/> |
-|[Erstellen von Mashup-Lösungen](visio-online.md#BM_3) <br/> |Ja  <br/> |Ja  <br/> |
-|[Erstellen von Diagrammen](visio-online.md#BM_4) <br/> |Ja  <br/> |Ja  <br/> |
-|[Ausschneiden, Kopieren und Einfügen](visio-online.md#BM_5) <br/> |Ja  <br/> |Ja  <br/> |
-|[Bearbeiten von Diagrammen](visio-online.md#BM_6) <br/> |Ja  <br/> |Ja  <br/> |
-|[Einbetten von Diagrammen in eine SharePoint-, Web- oder Blogseite](visio-online.md#BM_7) <br/> |Ja  <br/> |Nein  <br/> |
-|[Suchen](visio-online.md#BM_8) <br/> |Ja  <br/> |Ja  <br/> |
-|[Schriftartformatierung](visio-online.md#BM_9) <br/> |Ja  <br/> |Ja  <br/> |
-|[Links](visio-online.md#BM_10)<sup>1</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |
-|[Navigation](visio-online.md#BM_11) <br/> |Ja  <br/> |Ja  <br/> |
-|[Office-Add-Ins](visio-online.md#BM_12) <br/> |Nein  <br/> |Ja  <br/> |
-|[Offlineansichten](visio-online.md#BM_13) <br/> |Nein  <br/> |Ja  <br/> |
-|[Als PDF drucken](visio-online.md#BM_14) <br/> |Ja<sup>4</sup> <br/> |Ja  <br/> |
-|[Korrekturhilfen](visio-online.md#BM_15) <br/> |Nein  <br/> |Ja  <br/> |
-|[Gemeinsame Dokumenterstellung in Echtzeit](visio-online.md#BM_16) <br/> |Nein  <br/> |Ja  <br/> |
-|["Speichern unter" oder "Kopie herunterladen"](visio-online.md#BM_17) <br/> |Ja  <br/> |Ja  <br/> |
-|[Freigeben eines Diagramms](visio-online.md#BM_18)<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|[SmartArt](visio-online.md#BM_19) <br/> |Nein  <br/> |Ja  <br/> |
-|[Funktion "Was möchten Sie tun?"](visio-online.md#BM_20) <br/> |Nein  <br/> |Ja  <br/> |
-|["Rückgängig" und "Wiederholen"](visio-online.md#BM_21) <br/> |Nein  <br/> |Ja  <br/> |
-|[Anzeigen und Hinzufügen von Kommentaren](visio-online.md#BM_22) <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |
-|[Anzeigen von Shapedaten](visio-online.md#BM_23) <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |
-|[Anzeigen von Visio-Dateien im Browser](visio-online.md#BM_24) <br/> |Ja  <br/> |Ja  <br/> |
-|[Zoom](visio-online.md#BM_25) <br/> |Ja<sup>6</sup> <br/> |Ja  <br/> |
+|[Anwenden umfangreicher Formatierung auf Text und Shapes](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Ja  <br/> |Ja  <br/> |
+|[Anordnen von Objekten](visio-online.md#arrange-objects) <br/> |Ja  <br/> |Ja  <br/> |
+|[Erstellen von Mashup-Lösungen](visio-online.md#build-mashup-solutions) <br/> |Ja  <br/> |Ja  <br/> |
+|[Erstellen von Diagrammen](visio-online.md#create-diagrams) <br/> |Ja  <br/> |Ja  <br/> |
+|[Ausschneiden, Kopieren und Einfügen](visio-online.md#cut-copy-and-paste) <br/> |Ja  <br/> |Ja  <br/> |
+|[Bearbeiten von Diagrammen](visio-online.md#edit-diagrams) <br/> |Ja  <br/> |Ja  <br/> |
+|[Einbetten von Diagrammen in eine SharePoint-, Web- oder Blogseite](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Ja  <br/> |Nein  <br/> |
+|[Suchen](visio-online.md#find) <br/> |Ja  <br/> |Ja  <br/> |
+|[Schriftartformatierung](visio-online.md#font-formatting) <br/> |Ja  <br/> |Ja  <br/> |
+|[Links](visio-online.md#hyperlinks)<sup>1</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |
+|[Navigation](visio-online.md#navigation) <br/> |Ja  <br/> |Ja  <br/> |
+|[Office-Add-Ins](visio-online.md#office-add-ins) <br/> |Nein  <br/> |Ja  <br/> |
+|[Offlineansichten](visio-online.md#offline-viewing) <br/> |Nein  <br/> |Ja  <br/> |
+|[Als PDF drucken](visio-online.md#print-to-pdf) <br/> |Ja<sup>4</sup> <br/> |Ja  <br/> |
+|[Korrekturhilfen](visio-online.md#proofing-tools) <br/> |Nein  <br/> |Ja  <br/> |
+|[Gemeinsame Dokumenterstellung in Echtzeit](visio-online.md#real-time-co-authoring) <br/> |Nein  <br/> |Ja  <br/> |
+|["Speichern unter" oder "Kopie herunterladen"](visio-online.md#save-as-or-download-a-copy) <br/> |Ja  <br/> |Ja  <br/> |
+|[Freigeben eines Diagramms](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[SmartArt](visio-online.md#smartart) <br/> |Nein  <br/> |Ja  <br/> |
+|[Funktion "Was möchten Sie tun?"](visio-online.md#tell-me) <br/> |Nein  <br/> |Ja  <br/> |
+|["Rückgängig" und "Wiederholen"](visio-online.md#undo-and-redo) <br/> |Nein  <br/> |Ja  <br/> |
+|[Anzeigen und Hinzufügen von Kommentaren](visio-online.md#view-and-add-comments) <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |
+|[Anzeigen von Shapedaten](visio-online.md#view-shape-data) <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |
+|[Anzeigen von Visio-Dateien im Browser](visio-online.md#view-visio-files-in-the-browser) <br/> |Ja  <br/> |Ja  <br/> |
+|[Zoom](visio-online.md#zoom) <br/> |Ja<sup>6</sup> <br/> |Ja  <br/> |
    
 > <sup>1</sup> Hyperlinks folgen (Einfügen oder Bearbeiten nicht möglich). 
 <br/><sup>2</sup> Freigeben über SharePoint oder One Drive for Business und Freigeben für Benutzer, die nicht über SharePoint oder OneDrive verfügen. 

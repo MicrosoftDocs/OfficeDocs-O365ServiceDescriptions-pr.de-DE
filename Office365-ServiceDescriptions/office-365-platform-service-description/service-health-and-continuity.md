@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
-ms.openlocfilehash: 0438efacfddec1dd00b0cd7c5dfb821dc17c3c37
-ms.sourcegitcommit: ddc6aeec746e2f71cd06242a9e3866326810c34b
+ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36298035"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450279"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
@@ -79,7 +79,7 @@ Die Admin-App für Office 365-Mandantenadministratoren bietet die Möglichkeit z
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack für Microsoft System Center 2012 R2
 
-Microsoft System Center ist eine integrierte Verwaltungsplattform, die Ihnen hilft, Ihr Rechenzentrum, Ihre Clientgeräte und Hybrid Cloud-IT-Umgebungen zu verwalten. Office 365-Administratoren, die das System Center verwenden, haben nun die Option zum Importieren des Office 365 Management Pack, um die gesamte Dienstkommunikation in Operations Manager in System Center anzeigen können. Dieses Tool ermöglicht den Zugriff auf den Status Ihrer abonnierten Dienste, aktive und abgeschlossene Dienstereignisse sowie die Message Center-Kommunikation. Weitere Informationen finden Sie im Blogbeitrag [Neue Office 365-Verwaltungstools](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/). 
+Microsoft System Center ist eine integrierte Verwaltungsplattform, die Ihnen hilft, Ihr Rechenzentrum, Ihre Clientgeräte und Hybrid Cloud-IT-Umgebungen zu verwalten. Office 365-Administratoren, die das System Center verwenden, haben nun die Option zum Importieren des Office 365 Management Pack, um die gesamte Dienstkommunikation in Operations Manager in System Center anzeigen können. Dieses Tool ermöglicht den Zugriff auf den Status Ihrer abonnierten Dienste, aktive und abgeschlossene Dienstereignisse sowie die Message Center-Kommunikation. Weitere Informationen finden Sie im Blogbeitrag [Neue Office 365-Verwaltungstools](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/). 
   
 ### <a name="office-365-service-communications-api"></a>Office 365-Dienstkommunikations-API
 
@@ -91,7 +91,7 @@ Mit der Office 365-Dienstkommunikations-API können Sie nach Bedarf auf die Offi
     
 - Benachrichtigungen für geplante Wartungen
     
-Weitere Informationen finden Sie im Blogbeitrag [Neue Office 365-Verwaltungstools](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/). 
+Weitere Informationen finden Sie im Blogbeitrag [Neue Office 365-Verwaltungstools](https://www.microsoft.com/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/). 
   
 ## <a name="post-incident-reviews"></a>Bewertungen nach Vorfällen
 
@@ -115,7 +115,7 @@ Bei allen anderen Dienstincidents stellt das Service Health Dashboard eine Zusam
 
 Microsoft Office 365-Angebote werden von sehr robusten Systemen bereitgestellt, um die maximale Leistung des Diensts zu bieten. Vorkehrungen für die Dienstverfügbarkeit sind Teil des Office 365-Systementwurfs. Durch diese Vorkehrungen kann Office 365 nach unerwarteten Ereignissen wie Hardware- oder Anwendungsfehlern, Datenbeschädigungen oder anderen Incidents mit Auswirkungen auf die Benutzer schnell wiederhergestellt werden. Diese Lösungen für die Dienstverfügbarkeit gelten auch bei schwerwiegenden Ausfällen (wie Naturkatastrophen oder einem Incident in einem Microsoft-Rechenzentrum, durch den das gesamte Rechenzentrum nicht mehr funktionsfähig ist).
   
-Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gewisse Zeit, bis die vollständige Rechenzentrumsredundanz für den Dienst wiederhergestellt ist. Beispiel: Wenn Rechenzentrum 1 ausfällt, werden die Dienste durch Ressourcen in Rechenzentrum 2 wiederhergestellt. Allerdings kann es u. U. eine gewisse Zeit dauern, bis die Dienste in Rechenzentrum 2 unterbrechungsfrei ausgeführt werden, sei es durch wiederhergestellte Ressourcen in Rechenzentrum 1 oder neue Ressourcen in Rechenzentrum 3. In dieser Zeit gilt die [Vereinbarung zum Servicelevel](https://technet.microsoft.com/en-us/library/office-365-service-level-agreement.aspx) (SLA) von Office 365. Für Office 365 betrieben von 21Vianet gilt eine andere Vereinbarung zum Servicelevel. Weitere Informationen finden Sie auf der [21Vianet-Website](http://www.21vbluecloud.com/office365/O365-SLA/). 
+Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gewisse Zeit, bis die vollständige Rechenzentrumsredundanz für den Dienst wiederhergestellt ist. Beispiel: Wenn Rechenzentrum 1 ausfällt, werden die Dienste durch Ressourcen in Rechenzentrum 2 wiederhergestellt. Allerdings kann es u. U. eine gewisse Zeit dauern, bis die Dienste in Rechenzentrum 2 unterbrechungsfrei ausgeführt werden, sei es durch wiederhergestellte Ressourcen in Rechenzentrum 1 oder neue Ressourcen in Rechenzentrum 3. In dieser Zeit gilt die [Vereinbarung zum Servicelevel](service-level-agreement.md) (SLA) von Office 365. Für Office 365 betrieben von 21Vianet gilt eine andere Vereinbarung zum Servicelevel. Weitere Informationen finden Sie auf der [21Vianet-Website](http://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Sicherstellen der Datenverfügbarkeit
 
@@ -149,9 +149,9 @@ Die Supportorganisation ist eng am Betrieb und der Produktentwicklung ausgericht
     
 Bevor Kunden Dienstanforderungen eingeben, können Sie auf Artikel der Knowledge Base und häufig gestellte Fragen zugreifen, die Hilfe bei den am häufigsten auftretenden Problemen bieten. Diese Ressourcen werden ständig mit aktuellen Informationen aktualisiert, sodass Verzögerungen bei Lösungen für bekannte Probleme vermieden werden. Wenn jedoch ein Problem auftritt, bei dem die Hilfe eines Supportmitarbeiters erforderlich ist, stehen entsprechende Mitarbeiter täglich rund um die Uhr für eine unmittelbare Unterstützung per Telefon und über das Verwaltungsportal zur Verfügung.
   
-Weitere Informationen zum Support finden Sie unter [Unterstützung](https://technet.microsoft.com/en-us/library/office-365-support.aspx). 
+Weitere Informationen zum Support finden Sie unter [Unterstützung](support.md). 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md) finden Sie die Featureverfügbarkeit in Office 365-Plänen.
   
