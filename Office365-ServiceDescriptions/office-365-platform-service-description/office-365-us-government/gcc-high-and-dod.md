@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
-ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450289"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568118"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
 
@@ -108,4 +108,8 @@ Die mehrstufige Authentifizierung unter Verwendung eines Identitätsmodells erm�
 
 Jammern Enterprise ist in den gcc-High-und DoD-Umgebungen nicht verfügbar.
   
+## <a name="customer-support"></a>Kundensupport
 
+Microsoft erinnert Sie daran, keine kontrollierten, vertraulichen oder vertraulichen Informationen mit dem Kundensupportmitarbeiter im Rahmen Ihres Support-Vorfalls bei Verwendung Office 365 gcc High/DoD freizugeben, zumindest bis Sie die Autorisierung des Support-Agents bestätigen, anzeigen oder greifen Sie auf solche Daten zu.
+
+Microsoft verpflichtet sich zum Schutz Ihrer [Privatsphäre](https://privacy.microsoft.com/privacystatement)). Office 365 gcc High/DoD-Unterstützung ist jedoch nicht in der Dienst Akkreditierungs Grenze enthalten und stellt keine FedRAMP-, DoD-, ITAR-, IRS 1075-oder CJIS-Datenverarbeitung zur Einhaltung von Vorschriften zur Verfügung.
