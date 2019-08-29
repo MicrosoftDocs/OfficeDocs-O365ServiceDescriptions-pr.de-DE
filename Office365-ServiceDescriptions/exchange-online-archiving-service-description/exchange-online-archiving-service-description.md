@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online-Archivierung ist eine Microsoft Office 365 Cloud-basierte, Enterprise-Class-Archivierungslösung für Organisationen, die Exchange Server 2019, Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft bereitgestellt haben. Exchange Server 2010 (SP2 und höher) oder bestimmte Exchange Online-oder Office 365 Pläne abonnieren. Exchange Online Archivierung unterstützt diese Organisationen bei der Archivierung, Compliance, behördlichen und eDiscovery-Herausforderungen bei gleichzeitiger Vereinfachung der lokalen Infrastruktur und dadurch Kostenreduzierung und Entlastung.
-ms.openlocfilehash: 257904ba751b23cb5e04f923994449cf3794488f
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
+ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231383"
+ms.lasthandoff: 08/28/2019
+ms.locfileid: "36656289"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Beschreibung des Exchange Online-Archivierungsdiensts
 
@@ -42,7 +42,7 @@ Exchange Online-Archivierung steht über die folgenden Pläne zur Verfügung.
 |:-----|:-----|
 |**Exchange Online-Archivierung für Exchange Server** <br/> |Cloud-basiertes Archiv für Benutzer mit primären Postfächern in Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 oder Exchange 2010 (SP2 oder höher).  <br/> Wenn Sie ein cloudbasiertes Archiv zu einem primären Postfach hinzufügen möchten, das sich auf einem lokalen Exchange-Server befindet, müssen Sie eine Hybridbereitstellung konfigurieren. Weitere Informationen zu Hybridbereitstellungen finden Sie unter [Hybridbereitstellungen in Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Exchange Online-Archivierung für Exchange Server (über die Enterprise CAL-Suite)** <br/> |Cloud-basiertes Archiv für Benutzer mit primären Postfächern in Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 oder Exchange 2010 (SP2 oder höher). Details finden Sie unter [Licensing Brief - Licensing the Core CAL Suite and the Enterprise CAL Suite](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
-|**Exchange Online-Archivierung für Exchange Online** <br/> | Cloud-basiertes Archiv und in-situ-Speicher als Add-on für die folgenden Pläne<sup>1, 2</sup>:<br/>  Exchange Online Plan 1  <br/>  Exchange Online-Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/>  <b>Hinweis:</b> Die folgenden Pläne umfassen bereits die Archivierung und erfordern keine Exchange Online Archivierung als Add-on:<br/> Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online Plan 2 <br/>  Ausführliche Informationen zu den Archivierungsfunktionen Exchange Online Postfächer finden Sie unter Archivieren von [Postfächern in Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Exchange Online-Archivierung für Exchange Online** <br/> | Cloud-basiertes Archiv und in-situ-Speicher als Add-on für die folgenden Pläne<sup>1, 2</sup>:<br/>  Exchange Online Plan 1  <br/>  Exchange Online-Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/> Microsoft 365 Business <br/> Microsoft 365 Enterprise F1<br/> <b>Hinweis:</b> Die folgenden Pläne umfassen bereits die Archivierung und erfordern keine Exchange Online Archivierung als Add-on:<br/> Office 365 Education A1 <br/>Office 365 Education A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Exchange Online Plan 2 <br/> Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Ausführliche Informationen zu den Archivierungsfunktionen Exchange Online Postfächer finden Sie unter Archivieren von [Postfächern in Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
    
 >[!NOTE]
 ><sup>1</sup> Organisationen, die lediglich über eine Cloud verfügen und bei denen keine Postfächer auf einem lokalen Exchange-Server vorhanden sind, benötigen keine Hybridbereitstellung. Wenn lokale Postfächer vorhanden sind, ist eine Hybridbereitstellung erforderlich.
