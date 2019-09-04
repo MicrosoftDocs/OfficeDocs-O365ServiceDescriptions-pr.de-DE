@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie unter Office 365 Service descriptions.
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206855"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717543"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -133,9 +133,9 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
 |SLA 99,9 %  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Advanced Threat Analytics  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |**Geräte- und Anwendungsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Mobile Geräteverwaltung (MDM)<sup>15</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|InTune-Mobile Geräteverwaltung (MDM) für PCs, Macs und mobile Geräte<sup>15</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Automatische Registrierung bei mobiler Geräteverwaltung (MDM)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Mobile Anwendungsverwaltung (MAM) für Office-Apps und LOB-Apps<sup>17</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|InTune Mobile Application Management (MAM) für Office-Apps und Branchen-apps<sup>17</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows Update Management, Defender, Firewall Policies<sup>15</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Datenschutz - Selektives Zurücksetzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Sicherheitsgruppenadressierung für Richtlinien  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
