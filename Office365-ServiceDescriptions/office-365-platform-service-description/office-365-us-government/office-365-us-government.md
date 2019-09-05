@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Abschnitt enthält eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diesen zusätzlichen Abschnitt neben den Beschreibungen der Office 365-Dienste zu lesen.
-ms.openlocfilehash: fe89cacd115135cd7cd3c5314b84da64c45edf83
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
+ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231403"
+ms.lasthandoff: 09/05/2019
+ms.locfileid: "36762393"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -72,7 +72,7 @@ Office 365 US Government-Dienste werden von Rechenzentren bereitgestellt, die si
 > [!NOTE]
 > Normalerweise speichert Skype for Business keine Kundeninhalte, wenn jedoch eine derartige Speicherung vorgenommen wird, findet dies in den Rechenzentren der Vereinigten Staaten statt. 
   
-Wenn sich Ihre Benutzer in den U.S.A. befinden, während Sie Office für das Internet (früher als Office-webapps bezeichnet) verwenden oder wenn Sie die Verwendung von Active Directory Verbunddienste (AD FS) 2,0 und Richtlinien einrichten, um sicherzustellen, dass Ihre Benutzer über einzelne si eine Verbindung zu den Diensten herstellen können GN-on: alle Kunden Inhalte, die vorübergehend in Office für das Internet zwischengespeichert werden, befinden sich in den U.S.A..
+Wenn sich Ihre Benutzer in den U.S.A. befinden, während Sie Office für das Internet verwenden (früher als Office-webapps bezeichnet) oder wenn Sie die Verwendung von Active Directory-Verbunddienste (AD FS) 2.0 übernehmen und Richtlinien einrichten, um sicherzustellen, dass Ihre Benutzer über einzelne si eine Verbindung zu den Diensten herstellen können GN-on: alle Kunden Inhalte, die vorübergehend in Office für das Internet zwischengespeichert werden, befinden sich in den U.S.A..
   
 [Vorgehensweise zum Verwenden dieses Dienst Beschreibungsabschnitts](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -107,7 +107,7 @@ Spezifische Informationen zum Prozess des kurzmitte-Prozesses finden Sie [hier](
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>Datenmigrationen durch die Kurzarbeits Ausführung
 
-Kunden, die sich [](https://fasttrack.microsoft.com/) für den Migrations Vorteil für die Migration entscheiden, müssen dem Team Zugriff gewähren, das Ihre Datenmigrationen verwaltet. Diese Mitarbeiter sind US-Bürger und unterliegen den folgenden Hintergrundprüfungen, bevor Sie Migrationen für Kunden von Office 365 US Government Services durchführen. 
+Kunden [, die sich für den Migrations Vorteil](https://fasttrack.microsoft.com/) für die Migration entscheiden, müssen dem Team Zugriff gewähren, das Ihre Datenmigrationen verwaltet. Diese Mitarbeiter sind US-Bürger und unterliegen den folgenden Hintergrundprüfungen, bevor Sie Migrationen für Kunden von Office 365 US Government Services durchführen. 
   
 ||||
 |:-----|:-----|:-----|
@@ -323,10 +323,10 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Skype for Business](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup> <br/> |
 |[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Office Mobile für iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
-|[Office Mobile für Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
-|[Office Mobile für Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
+|[Office Mobile für iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Ja  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Ja  <br/> |
+|[Office Mobile für Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Ja  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Ja  <br/> |
+|[Office Mobile für Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Ja  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |Ja  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Ja  <br/> |
 |Outlook für IOS und Android<sup>5, 4</sup>  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
 |**Unternehmenswert** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
