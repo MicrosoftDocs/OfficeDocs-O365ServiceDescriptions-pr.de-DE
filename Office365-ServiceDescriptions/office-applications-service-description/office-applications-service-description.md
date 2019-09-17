@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: f33fc698420f511ce1fdf6b14f51565e71d9cd3f
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656309"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998517"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -74,7 +74,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Unterstützung von Office-Cloud-Richtlinien  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/> |
 |Verwaltung von Informationsrechten (Information Rights Management, IRM) mithilfe von Azure Information Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |
 |Information Rights Management mit Windows Server AD RMS  <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja <br/>| Ja<sup>3</sup> <br/>|Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |
-|Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>+++<sup> <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/> |
+|Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>+++<sup> <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja <br/> |
 |OneNote-Clientzugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive for Business und Office 365  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>++</sup> <br/> |Ja <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Ja <br/> |
 |Office-Telemetrie  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/> |
 |Offline-Unterstützung für Client-Anwendungen  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/>  |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja <br/> |

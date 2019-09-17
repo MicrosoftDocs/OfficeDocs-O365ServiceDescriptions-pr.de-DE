@@ -2,6 +2,7 @@
 title: Beschreibung zu Workplace Analytics
 ms.author: sharik
 author: skjerland
+ms.reviewer: v-midehm
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,28 +10,41 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics bietet umfangreiche, umsetzbare Einblicke in die Kommunikations-und Zusammenarbeits Trends Ihres Unternehmens, damit Sie effektivere geschäftliche Entscheidungen treffen können.
-ms.openlocfilehash: feab626e55e72584beb0879ae172cb8f7d95ab05
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 3a0ab6b1bb936922581a70bbae651cbe5e4c52a5
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35778016"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998527"
 ---
 # <a name="workplace-analytics-service-description"></a>Beschreibung zu Workplace Analytics
 
 Microsoft Workplace Analytics bietet umfangreiche, umsetzbare Einblicke in die Kommunikations-und Zusammenarbeits Trends Ihres Unternehmens, damit Sie effektivere geschäftliche Entscheidungen treffen können.
-  
-Microsoft Workplace Analytics analysiert die Zusammenarbeit Ihrer Teams, damit Sie Verhaltensweisen erkennen können, die positive als auch negative Auswirkungen auf den Gewinn des Unternehmens haben. Anschließend können Sie anhand dieser Informationen folgende Ziele erreichen: 
-  
-- organisatorische Effizienz verbessern
-    
-- arbeitsbedingten Stress reduzieren
-    
-- organisatorisches Chaos reduzieren
-    
-- Mitarbeiter motivieren und binden
-    
-Weitere Informationen finden Sie unter [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Klicken Sie [hier](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) , um erste Schritte mit Workplace Analytics zu erhalten. 
+
+## <a name="transform-unprecedented-insights-into-action"></a>Umwandeln beispielloser Einblicke in die Aktion
+
+* Address Collaboration-Überladung
+* Gliedern von org-Silos
+* Vorgehensweisen auf der Ebene der Vorgesetzten
+* Schnellere Akquisitionen
+* Ineffizienzen beim Ausmerzen des Prozesses
+* Steigern der Produktivität im Vertrieb
+* Transformieren der Mitarbeiter Erfahrung
+* Planen von Arbeitsbereichen
+
+## <a name="gain-objective-actionable-insights"></a>Gewinnen Sie Objektive, umsetzbare Einblicke
+
+Erfahren Sie, wie Ihre Organisation Zeit verbringt und intern und extern mit beispiellosen Einblicken aus Office 365 zusammenarbeitet. Die Arbeitsplatzanalyse gibt Geschäftsführern Dutzende von Verhaltens Metriken zu Zeit und Netzwerken, um eine Vielzahl von strategischen Entscheidungen zu informieren, darunter Teaming-Modelle, Ressourcenzuteilung und Arbeitsbereichs Planung.
+
+## <a name="drive-organizational-change-with-data"></a>Steuern der organisatorischen Änderung mit Daten
+
+Die Arbeitsplatzanalyse bietet umfangreiche objektive Daten, um bessere geschäftliche Entscheidungen zu treffen. Geführte Explorations-Dashboards markieren potenzielle Problembereiche, während flexible Abfragen gezielte geschäftliche Fragen zu Einstellungsstrategien, neuen Organisationsstrukturen und Geschäftsprogrammen beantworten. Erweitern Sie Office 365 Daten mit Geschäftsergebnis Informationen, um bewährte Methoden, Vorhersagemodelle und Benchmarks festzulegen. Einführung von Änderungsinitiativen basierend auf Verhaltensdaten und Messen des Erfolgs von Programmen im Laufe der Zeit. Wenden Sie sich an Ihren Microsoft-Kundendienstmitarbeiter, um mehr über die verfügbaren Beratungsdienste zu erfahren, mit denen Sie geschäftliche Herausforderungen quantifizieren und Änderungen umsetzen können.
+
+## <a name="privacy-and-compliance-designed-for-you"></a>Datenschutz und Compliance für Sie entwickelt
+
+Die Arbeitsplatzanalyse bietet Datenschutz-Steuerelemente, die Ihren Anforderungen und ihrer Einhaltung entsprechen, um Ihre Daten zu schützen. Kunden entscheiden, welche Populationen analysiert werden sollen, und behalten die Kontrolle über Datenaggregation und deidentifikations Standards. In der Arbeitsplatzanalyse werden nur Office 365 Metadaten analysiert. Datenanzeige und Aggregationsebenen basieren auf Rollen-und Kundeneinstellungen.
+
+Weitere Informationen finden Sie unter [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Weitere Informationen zur Verwendung der Arbeitsplatzanalyse finden Sie in der [Dokumentation zur Arbeitsplatzanalyse](https://docs.microsoft.com/workplace-analytics/).
   
 ## <a name="licensing-requirements"></a>Lizenzierungsanforderungen
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft – einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Internet und Microsoft Skype for Business Online: damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.'
-ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854883"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998487"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -74,7 +74,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 |Microsoft Flow  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Forms  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Graph-API  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft MyAnalytics  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|Microsoft MyAnalytics<sup>9</sup>  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Planner  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft PowerApps  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft StaffHub  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -186,8 +186,9 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 <sup>5</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com/) (Link erfordert Administratorberechtigungen). Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/> 
 <sup>6</sup> Microsoft Sway ist derzeit nicht für Kunden in bestimmten Regionen verfügbar. Einige ältere Office 365-Pläne, die ab August 2015 nicht mehr erhältlich sind, haben möglicherweise auch keinen Zugriff auf Microsoft Sway. <br/> 
 <sup>7</sup> Advanced eDiscovery wird in den Vereinigten Staaten und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.) <br>
-<sup>8</sup> Informationen zu den Microsoft Stream-Features, die in den einzelnen Plänen enthalten sind, finden Sie in der Übersicht über die [Stream-Lizenzierung](https://stream.microsoft.com/documentation/stream-license-overview/). <br/>
-  
+<sup>8</sup> Informationen zu den Microsoft Stream-Features, die in den einzelnen Plänen enthalten sind, finden Sie in der Übersicht über die [Stream-Lizenzierung](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
+<sup>9</sup> Weitere Informationen finden Sie unter [myAnalytics-Pläne und-Umgebungen](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
+
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 Security &amp; Compliance Center-Features
 <a name="SCC"> </a>
 
@@ -623,7 +624,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 |Grenzwert für Länge des Betreffs  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |255 Zeichen  <br/> |
 |Grenzwert für Dateianlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |250 Anlagen  <br/> |
 |Größenlimit für Dateianlagen – Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
-|Größenlimit für Dateianlagen – OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
+|Größenlimit für Dateianlagen – OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
 |Größenlimit für Dateianlagen – Outlook für Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Grenzwert für mehrteilige Nachrichten  <br/> |250 Teile  <br/> |250 Teile  <br/> |250 Teile  <br/> |
 |Grenzwert für die Tiefe der Nachrichteneinbettung  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |
