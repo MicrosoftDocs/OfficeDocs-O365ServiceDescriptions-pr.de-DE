@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365-Diensten auf Mandantenebene, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
-ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
+ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384869"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035131"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365-Dienste für die Lizenzierung auf Mandantenebene
 
@@ -116,7 +116,7 @@ Office 365 Cloud-App-Sicherheit (Ocas) ist eine Teilmenge der Microsoft Cloud-Ap
 
 Ocas gibt Organisationen Einblick in Ihre Produktivitäts Cloud-apps und-Dienste, stellt ausgefeilte Analysen zum Identifizieren und bekämpfen von Cyber-Bedrohungen bereit und&mdash;lässt Sie steuern, wie Daten über Office 365 transportiert werden.
 
-Informationen zum Vergleichen von Features finden Sie unter Differences of [Microsoft Cloud App Security and Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365).
+Informationen zum Vergleichen von Features finden Sie unter [Differences of Microsoft Cloud App Security and Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365).
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
@@ -150,7 +150,7 @@ Lizenzierte Benutzer von Azure AD P1 können von den Ermittlungsfunktionen in MC
 
 Um von den [bedingten Zugriffsfunktionen für App-Steuerelemente](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) in MCAS profitieren zu können, müssen die Benutzer auch für Azure Active Directory P1 lizenziert werden, die in Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5-Sicherheit.
 
-Um von der [automatischen Kennzeichnung](https://docs.microsoft.com/cloud-app-security/data-protection-policies)profitieren zu können, müssen die Benutzer für Azure Information Protection P1 lizenziert sein, die in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5 Compliance enthalten ist.
+Um von der [automatischen Kennzeichnung](https://docs.microsoft.com/cloud-app-security/data-protection-policies)profitieren zu können, müssen die Benutzer für Azure Information Protection P2 lizenziert sein, die in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5 Compliance enthalten ist.
 
 Weitere Informationen finden Sie im [Microsoft Cloud App Security Licensing-Datenblatt](http://www.aka.ms/mcaslicensing).
 
@@ -278,7 +278,7 @@ Mit der Verhinderung von Datenverlust (Data Loss Prevention, DLP) für Exchange 
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
-Lizenzierte Benutzer von Office 365 E3/A3/G3, Microsoft 365 Business, Microsoft 365 E3/A3/G3 und Office 365 Verhinderung von Datenverlust können DLP für Exchange Online, SharePoint Online und OneDrive für Unternehmen nutzen.
+Lizenzierte Benutzer von Office 365 E3/A3/G3, Microsoft 365 Business, Microsoft 365 a1/E3/A3/G3 und Office 365 Verhinderung von Datenverlust können DLP für Exchange Online, SharePoint Online und OneDrive für Unternehmen nutzen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
@@ -286,11 +286,11 @@ Benutzer profitieren von DLP für Exchange Online, SharePoint Online und OneDriv
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind Exchange Online-e-Mails, SharePoint-Websites und OneDrive-Konten *Standorte (Arbeitslasten)* für diese DLP-Funktionen für alle Benutzer innerhalb des Mandanten aktiviert. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter Übersicht über Verhinderung [von Datenverlust](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Standardmäßig sind Exchange Online-e-Mails, SharePoint-Websites und OneDrive-Konten *Standorte (Arbeitslasten)* für diese DLP-Funktionen für alle Benutzer innerhalb des Mandanten aktiviert. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter [Übersicht über Verhinderung von Datenverlust](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security #a0 Compliance Center unter Verhinderung**** > von **Datenverlust**anpassen.
+Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security #a0 Compliance Center unter **Verhinderung von Datenverlust**anpassen.
 
 ## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Verhinderung von Datenverlust für Chat-und Kanal Nachrichten in Microsoft Teams
 
@@ -306,11 +306,11 @@ Absender profitieren davon, dass vertrauliche Informationen in Ihren ausgehenden
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind Microsoft Teams-Chat und Kanal Nachrichten ein *aktivierter Speicherort (Arbeitsauslastung)* für diese DLP-Funktionen für alle Benutzer innerhalb des Mandanten. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter Übersicht über Verhinderung [von Datenverlust](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Standardmäßig sind Microsoft Teams-Chat und Kanal Nachrichten ein *aktivierter Speicherort (Arbeitsauslastung)* für diese DLP-Funktionen für alle Benutzer innerhalb des Mandanten. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter [Übersicht über Verhinderung von Datenverlust](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security #a0 Compliance Center unter Verhinderung**** > von **Datenverlust**anpassen.
+Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security #a0 Compliance Center unter **Verhinderung von Datenverlust**anpassen.
 
 ## <a name="information-barriers"></a>Informationsbarrieren
 
@@ -322,7 +322,7 @@ Lizenzierte Benutzer von Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:
 
 | Szenario                                                                                                                                                                                                              | Wer benötigt eine Lizenz? |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |

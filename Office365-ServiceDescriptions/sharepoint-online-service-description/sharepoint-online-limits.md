@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
-ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
+ms.openlocfilehash: 4ec162de7b5e005a177d0eb2f2122ba46422519c
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2019
-ms.locfileid: "35581314"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035101"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Grenzwerte 
 
@@ -46,7 +46,11 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 
 - **Verschieben und Kopieren über Websitesammlungen** – 100 GB pro Vorgang. Der Webbrowser muss geöffnet bleiben.
 
-- **Sync** – für eine optimale Leistung wird empfohlen, nicht mehr als 300.000 Dateien für alle synchronisierten Dokumentbibliotheken zu speichern, selbst wenn Sie Dateien bei Bedarf verwenden oder nur einige Ordner innerhalb der zu synchronisierenden Bibliotheken auswählen. Wenn Sie den vorherigen OneDrive für Unternehmen synchronisierungsclient (Groove. exe) verwenden, beträgt der Synchronisierungs Grenzwert pro Bibliothek 20.000 Elemente (einschließlich 5.000 Elemente pro Teamwebsite).
+- **Sync** – für eine optimale Leistung wird empfohlen, nicht mehr als 300.000 Dateien für alle synchronisierten Dokumentbibliotheken zu speichern, selbst wenn Sie Dateien bei Bedarf verwenden oder nur einige Ordner innerhalb der zu synchronisierenden Bibliotheken auswählen.
+
+    Wenn Sie den vorherigen OneDrive für Unternehmen synchronisierungsclient (Groove. exe) verwenden, können Sie insgesamt bis zu 20.000 Elemente für alle synchronisierten Bibliotheken synchronisieren. Dazu gehören OneDrive für Unternehmen Bibliotheken, Teamwebsite-Bibliotheken oder beides. Unabhängig vom gesamten Synchronisierungs Grenzwert gibt es Einschränkungen für die Anzahl der Elemente, die für jeden Bibliotheks synchronisiert werden können:
+    - Sie können bis zu 20.000 Elemente in einer OneDrive für Unternehmen Bibliothek synchronisieren. Dies umfasst Ordner und Dateien. 
+    - Sie können bis zu 5.000 Elemente in einer SharePoint-Bibliothek synchronisieren. Dies umfasst Ordner und Dateien. Dabei handelt es sich um Bibliotheken, die Sie auf verschiedenen SharePoint-Websites finden, wie Teamwebsites und Community-Websites, Bibliotheken, die von anderen Benutzern erstellt wurden oder die Sie auf der Seite Websites erstellt haben. Sie können mehrere SharePoint-Bibliotheken synchronisieren. Alle Teamwebsites, die Sie synchronisieren, gelten auch für die gesamte 20.000-Elementgrenze für alle synchronisierten Bibliotheken.
 
     > [!NOTE]
     > Wenn Benutzer Dateien in Dokumentbibliotheken mit Hunderten von Tausenden von Dateien synchronisieren müssen, können Sie Ordner aus dem synchronisierungsclient ausblenden, indem Sie die Berechtigungsstufe der Ordner auf "Eingeschränkter Lesezugriff" festlegen. 
