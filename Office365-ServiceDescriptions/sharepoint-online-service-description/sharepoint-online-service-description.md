@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online in Office 365 ermöglicht es den Teilnehmern, miteinander zu teilen und zusammenzuarbeiten, andere unternehmensübergreifend zu informieren und zu engagieren, Geschäftsprozesse zu transformieren und kollektives Wissen nutzbar zu machen. Darüber hinaus bietet SharePoint Funktionen für Organisationen zum Schutz und zur Verwaltung von Daten sowie zum Erstellen benutzerdefinierter Lösungen. Eine schnelle Übersicht finden Sie unter Was ist SharePoint?
-ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 18f39141220c96b0d85da0a75cd42e09a4d298fc
+ms.sourcegitcommit: 6d5ef72a0919dd8e730031a1ddac4db6632ac2cd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568128"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131476"
 ---
 # <a name="sharepoint-online-service-description"></a>SharePoint Online-Dienstbeschreibung
 
@@ -238,7 +238,7 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Von Azure bereitgestellte Apps: Benutzerdefinierter Code in der Lightweight-Webrolle (LWR) in Azure](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
 
 <sup>1</sup> Um die Ordnersynchronisierung verwenden zu können, müssen Sie Office 2013 oder höher (Standard oder Professional) installiert haben oder über ein Office 365-Abonnement verfügen, das Office-Anwendungen umfasst. Pläne für Office 365 Business Essentials, Office 365 Enterprise E1 und Office 365 Education-Pläne umfassen keine Abonnements für Office-Desktopanwendungen. Sie können allerdings die Ordnersynchronisierung verwenden, sofern Sie Office 2013 oder höher installiert haben und einen dieser Pläne abonnieren. <br/>
-<sup>2</sup> Mitarbeiter von First-work haben OneDrive für Unternehmen Funktionalität beschränkt. Erste Mitarbeiter erhalten 2 GB Speicherplatz und verfügen nicht über Desktop Synchronisierungsfunktionen. Bei den First line-Konten handelt es sich nicht um eine OneDrive für Unternehmen persönliche Website, sodass Sie nicht von einer OneDrive für Unternehmen persönlichen Bibliothek mit 1 TB oder 5 TB Online Speicher profitieren.<br/> 
+<sup>2</sup> Mitarbeiter von First-work haben OneDrive für Unternehmen Funktionalität beschränkt. Erste Mitarbeiter erhalten 2 GB Speicher.<br/> 
 <sup>3</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. <br/>
 <sup>4</sup> da Mitarbeiter von First-work nicht Administratoren sein können, benötigen Mandanten mit First-Mitarbeitern mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können. <br/>
 <sup>5</sup> SharePoint Online Kunden müssen die ﻿kostenlose Rank Model Tuning-app herunterladen und installieren, um Bewertungsmodelle zu erstellen und anzupassen. <br/> 
@@ -252,7 +252,7 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 <sup>14</sup> Access 2010 wird nicht unterstützt. <br/> 
 <sup>15</sup> für Office für das Internet sollten F1-Benutzer Zugriff auf Office für das Internet (Live Tiles) für die Erstellung von Inhalten haben. Es bestehen für sie jedoch Einschränkungen hinsichtlich der kommerziellen mobilen Haupt-Apps. Folgende sind enthalten: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint und Gruppen. Die folgenden sind **nicht** enthalten: Outlook, Word, Excel, PowerPoint und OneNote.<br/> 
 <sup>16</sup> InfoPath-Formulare, die Benutzercode (Sandkasten) enthalten, können nur in InfoPath Rich Client verwendet werden. <br/>
-<sup>17</sup> Visio für den webverbrauch (Ansicht-Funktion) ist kostenlos verfügbar. Für Visio-Funktionen zum Erstellen und Bearbeiten von Webdiensten ist eine Lizenz erforderlich. Weitere Informationen zu Visio für das Internet finden Sie in der [Beschreibung](../visio-online-service-description/visio-online-service-description.md)des Webdiensts in Visio.  <br/>
+<sup>17</sup> Visio für den webverbrauch (Ansicht-Funktion) ist kostenlos verfügbar. Für Visio-Funktionen zum Erstellen und Bearbeiten von Webdiensten ist eine Lizenz erforderlich. Weitere Informationen zu Visio für das Internet finden Sie in der [Beschreibung des Webdiensts in Visio](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> F1-Benutzer können in einem Hybrid Setup auf SharePoint Server zugreifen, aber Office 365 F1 enthält keine CAL-Rechte für den Zugriff auf den Server; Diese Rechte müssen separat erworben werden. <br/>
 <sup>19</sup> Kundenschlüssel ist in Office 365 Enterprise E5 verfügbar. Mit dem Kundenschlüssel können Sie die Verschlüsselungsschlüsseln Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in Microsoft Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Mit dem Kundenschlüssel können Sie Auflagen erfüllen, da Sie die Verschlüsselungsschlüssel steuern, mit denen Office 365 die Daten entschlüsselt. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>20</sup> kommt bald. 
