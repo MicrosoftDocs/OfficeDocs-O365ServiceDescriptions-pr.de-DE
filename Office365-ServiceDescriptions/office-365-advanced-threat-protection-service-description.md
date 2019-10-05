@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation von schädlichen Links in Echtzeit. ATP verfügt über umfangreiche Berichte und URL-Ablaufverfolgungsfunktionen, mit denen Administratoren Einblicke in die Art von Angriffen in Ihrer Organisation erhalten.
-ms.openlocfilehash: e335ae1882a6142572eb32df6fc2dcbd8ff89ebe
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: ffb08bc3104e1c41ebf6441a68fd3d22b367f5c4
+ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035121"
+ms.lasthandoff: 10/05/2019
+ms.locfileid: "37401741"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
@@ -65,18 +65,9 @@ Informationen zum Vergleichen von Features in den Plänen finden Sie unter [Verg
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Neues in Office 365 Advanced Threat Protection (ATP)
 
-Office 365 ATP werden weiterhin neue Features hinzugefügt. Nachfolgend finden Sie eine Liste mit mehreren neuen Features, von denen einige eine ATP-Richtlinie zum Überprüfen und aktualisieren aufrufen. Weitere Informationen zu den neuen Features von ATP (oder Microsoft 365 im allgemeinen) finden Sie in der [Microsoft 365-Roadmap](https://www.microsoft.com/microsoft-365/roadmap?filters=O365).
-
-|Funktionsupdates|Aktionselemente|
-|---------|---------|
-|[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) (TI) Funktionen sind jetzt Bedrohungs Ermittlungs-und-Antwortfunktionen im Rahmen von ATP-Plan 2. Neue Features wie die [Automatische Vorfall Antwort](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)und Verbesserungen an [Threat Explorer](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance)werden eingeführt.<br/><br/>Wenn Ihre Organisation derzeit nicht über ATP verfügt oder wenn Sie ATP, aber nicht TI hatten, haben Sie nun mehrere Optionen zu berücksichtigen, wobei ATP Plan 1 und ATP Plan 2 verfügbar sind. Weitere Informationen finden Sie unter [Feature-Verfügbarkeit über Advanced Threat Protection (ATP)-Pläne](#feature-availability-across-advanced-threat-protection-atp-plans) (in diesem Artikel) und [Office 365 Advanced Threat Protection-Pläne und-Preise](https://products.office.com/exchange/advance-threat-protection).|Überprüfen Sie das Abonnement Ihrer Organisation, und falls erforderlich, [kaufen oder bearbeiten Sie ein Add-on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).|
-|Wenn Benutzer Outlook oder Outlook-Webanwendung (OWA) verwenden, rendert [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) Original-URLs, nicht umgeschriebene URLs. (Wir rufen dieses systemeigene Link Rendering auf.)<br>Wenn ein systemeigenes Link Rendering für Ihre Organisation zur Verfügung steht, funktioniert dieses Feature in Outlook 365 (Klick-und-Los), OWA und unter Windows und Mac OS.|Keine|
-|[Office 365 ATP-Warn Seiten](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) verfügen über ein neues Farbschema, mehr Details und die Möglichkeit, mit einer Website zu arbeiten, obwohl Warnungen und Empfehlungen gegeben sind.|Keine|
-|Der Schutz für [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) wird erweitert, um auf URLs in Office für das Internet zuzutreffen (Word für das Internet, Excel für das Internet, PowerPoint für das Internet und OneNote für das Internet) und Office 365 ProPlus auf dem Mac.|[Überprüfen und Bearbeiten der Richtlinien für ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)|
-|Die Quarantänefunktionen im Security &amp; Compliance Center werden [für SharePoint Online, OneDrive für Unternehmen und Microsoft Teams auf ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams)erweitert.|[Überprüfen und Bearbeiten der Richtlinien für ATP-sichere Anlagen](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies)|
-|Der Schutz für [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) wird auf e-Mails ausgedehnt, die zwischen Personen innerhalb einer Organisation gesendet werden.|[Überprüfen und Bearbeiten der Richtlinien für ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)|
-|Der Schutz für [ATP-sichere Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) wird erweitert, um auf URLs in e-Mails sowie auf URLs in Office 365 ProPlus-Dokumenten wie Word, Excel, PowerPoint und Visio unter Windows sowie auf Office-Apps auf IOS-und Android-Geräten anzuwenden.|Vergewissern Sie sich, dass Sie die [moderne Authentifizierung für Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) verwenden|
-
+Office 365 ATP werden weiterhin neue Features hinzugefügt. Weitere Informationen zu neuen Features in Bezug auf ATP (oder Microsoft 365 im allgemeinen) finden Sie in den folgenden Ressourcen:
+- [Microsoft 365-Roadmap](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
+- [Neuerungen in Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Anforderungen für Office 365 Advanced Threat Protection (ATP)
 

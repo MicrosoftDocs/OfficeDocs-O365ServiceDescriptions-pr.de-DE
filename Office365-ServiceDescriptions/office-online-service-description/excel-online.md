@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: f9ba402476f707748e6b3bd487ce97def3d985cb
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
+ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051626"
+ms.lasthandoff: 10/05/2019
+ms.locfileid: "37401761"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Internet
 
@@ -27,21 +27,25 @@ Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahr
   
 > [!NOTE]
 > Arbeitsmappen, die mehr als 30 Megabyte (MB) überschreiten, können in Excel für das Internet nicht in Microsoft SharePoint Online angezeigt werden. Zum Anzeigen größerer Dateien muss auf Ihrem Computer die Excel-Desktop-App installiert sein. 
-  
-> [!NOTE]
-> Um Ihnen den Angebotsvergleich zu vereinfachen, umfassen die in diesem Artikel aufgeführten erweiterten Features Excel-Desktop-App-Funktionen, die nur in der Office-Suite verfügbar sind (z. B. Office Professional Plus, Office Standard oder Office 365 ProPlus). Eine Liste aller Office-Features für die Webfunktionen, wie Word für das Internet und PowerPoint für das Internet, finden Sie unter [Feature-Verfügbarkeit in Office für die webpläne](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). 
 
-Informationen dazu, welcher Dateityp von Excel für das Internet unterstützt wird, finden Sie unter [Supported file types for Office for the Internet](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Weitere Informationen zu den Unterschieden zwischen Excel für das Internet und der Excel-Desktop-App finden Sie unter [Unterschiede zwischen der Verwendung einer Arbeitsmappe im Browser und in Excel](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
+> [!NOTE]
+> Um Ihnen den Angebotsvergleich zu vereinfachen, umfassen die in diesem Artikel aufgeführten erweiterten Features Excel-Desktop-App-Funktionen, die nur in der Office-Suite verfügbar sind (z. B. Office Professional Plus, Office Standard oder Office 365 ProPlus). Eine Liste aller Office-Features für die Webfunktionen, wie Word für das Internet und PowerPoint für das Internet, finden Sie unter [Feature-Verfügbarkeit in Office für die webpläne](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+
+Informationen dazu, welcher Dateityp von Excel für das Internet unterstützt wird, finden Sie unter [Supported file types for Office for the Internet](office-online-service-description.md#supported-file-types-for-office-for-the-web). Weitere Informationen zu den Unterschieden zwischen Excel für das Internet und der Excel-Desktop-App finden Sie unter [Unterschiede zwischen der Verwendung einer Arbeitsmappe im Browser und in Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
 ## <a name="add-background-color-to-sheet-tabs"></a>Hinzufügen von Hintergrundfarbe zu Blattregisterkarten 
 
-Fügen Sie den Blattregisterkarten am unteren Rand der Arbeitsmappe eine Hintergrundfüllfarbe hinzu, um Sie hervorheben zu können. Weitere Informationen finden Sie unter [Hinzufügen einer Hintergrundfarbe zu einer Blattregisterkarte](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59). 
+Fügen Sie den Blattregisterkarten am unteren Rand der Arbeitsmappe eine Hintergrundfüllfarbe hinzu, um Sie hervorheben zu können. Weitere Informationen finden Sie unter [Hinzufügen einer Hintergrundfarbe zu einer Blattregisterkarte](https://support.office.com/article/440B28F2-3146-4DCA-95DF-3B9D43ACBE59).
 
 ## <a name="add-hyperlinks"></a>Hinzufügen von Links
 
-Verlinken Sie Webseiten, oder öffnen Sie Dateien im Web, indem Sie einen Link in einer Zelle hinzufügen. Sie können die Webadresse direkt in die Zelle eingeben oder den Befehl "Link einfügen" verwenden. 
+Verlinken Sie Webseiten, oder öffnen Sie Dateien im Web, indem Sie einen Link in einer Zelle hinzufügen. Sie können die Webadresse direkt in die Zelle eingeben oder den Befehl "Link einfügen" verwenden.
+
+## <a name="advanced-data-types-stocks-and-geography"></a>Erweiterte Datentypen: Bestände und Geografie
+
+Sie können Lagerbestände und geografische Daten in Excel abrufen. Es ist so einfach wie Text in eine Zelle einzugeben und dann in den Datentyp "Stocks" oder "geography" zu konvertieren. Erfahren Sie mehr über die [Datentypen Aktien und geography](https://support.office.com/article/e61a33056-9935-484f-8ac8-f1a89e210877).
   
-## <a name="advanced-time-filtering-timeline-slicer"></a>Erweiterte Zeitangabe (Zeitachsendatenschnitt)
+## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
 Die Zeitachsensteuerung ermöglicht Ihnen das Filtern modellierter Daten. Es handelt sich dabei um eine Möglichkeit, eine kontinuierliche Folge von Datumsangaben visuell darzustellen und zu ändern sowie pivotbasierte Objekte wie PivotTables und PivotCharts zu filtern.  
   
@@ -59,11 +63,7 @@ Dieses Feature steht in Excel für das Internet zur Verfügung. Andere erweitert
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-Nicht verfügbar in Excel für das Internet. In der Excel-Desktop-App können Sie in den empfohlenen Diagrammen aus einer Vielzahl von Diagrammen auswählen, die am besten für die Präsentation Ihrer Daten geeignet sind. Erfahren Sie mehr über [die Verwendung von Diagramm Empfehlungen in Excel](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
-  
-## <a name="office-add-ins"></a>Office-Add-Ins
-
- Einige, jedoch nicht alle Office-Add-Ins sind in Excel für das Internet verfügbar. Sie können im Office Store ein Add-In für Excel erwerben. Erfahren Sie mehr über das [Erwerben eines Add-Ins für Excel ](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+Nicht verfügbar in Excel für das Internet. In der Excel-Desktop-App können Sie in den empfohlenen Diagrammen aus einer Vielzahl von Diagrammen auswählen, die am besten für die Präsentation Ihrer Daten geeignet sind. Erfahren Sie mehr über [die Verwendung von Diagramm Empfehlungen in Excel](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0).
   
 ## <a name="autocomplete"></a>AutoComplete
 
@@ -79,7 +79,7 @@ Sie können mit Excel eine Vielzahl von automatischen, manuellen und iterativen 
 
 ## <a name="cell-references-in-formulas"></a>Zellbezüge in Formeln
 
-Sie können Zellbezüge in Formeln verwenden. Wenn Sie auf eine Zelle oder einen Bereich in einer Formel verweisen, wird die referenzierte Zelle oder der Bereich mit einer Farbe hervorgehoben. Weitere Informationen finden Sie unter [use Cell References in Formulas](https://support.office.com/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+Sie können Zellbezüge in Formeln verwenden. Wenn Sie auf eine Zelle oder einen Bereich in einer Formel verweisen, wird die referenzierte Zelle oder der Bereich mit einer Farbe hervorgehoben. Weitere Informationen finden Sie unter [use Cell References in a Formula](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Automatisches Anpassen von Diagrammanimationen an neue Daten
 
@@ -87,15 +87,15 @@ Erweiterte Diagrammfeatures werden nur in der Microsoft Excel-Desktop-App unters
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Diagramme und Tabellen, einschließlich PivotChart- und PivotTable-Berichte
 
-Mit Excel-Diagrammen und -Tabellen ist es ganz einfach, Daten zu formatieren und Informationen zu verwalten. Weitere Informationen finden Sie unter [Erstellen oder Löschen einer Excel-Tabelle](https://support.office.com/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664) und [Übersicht über PivotTable- und PivotChart-Berichte](https://go.microsoft.com/fwlink/?linkid=55417).
+Mit Excel-Diagrammen und -Tabellen ist es ganz einfach, Daten zu formatieren und Informationen zu verwalten. Weitere Informationen finden Sie unter [Erstellen und Formatieren von Tabellen](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) und [Übersicht über PivotTable-und PivotChart-Berichte](https://go.microsoft.com/fwlink/?linkid=55417).
   
 ## <a name="comment-creation"></a>Comment creation
 
-Sie können Kommentare in Excel für das Internet einfügen, bearbeiten und löschen. Erfahren Sie mehr über das [Hinzufügen von Kommentaren in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Sie können Kommentare in Excel für das Internet einfügen, bearbeiten und löschen. Sie können auch einen Kommentar Thread auflösen, der ihn in Bearbeitungen und neue Kommentare schließt, ihn jedoch an der richtigen Stelle lässt. Auf diese Weise können Sie den Thread erneut öffnen, um Kommentare bei Bedarf zu kommentieren. Erfahren Sie mehr über das [Hinzufügen von Kommentaren in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Um optimale Ergebnisse zu erzielen, verwenden Sie Tastenkombinationen, und nicht die Befehle im Kontextmenü oder Zwischenablage in Excel für das Internet, um Elemente an einen anderen Arbeitsblatt Speicherort zu kopieren. Erfahren Sie mehr über [die Verwendung von kopieren und Einfügen in Excel für das Internet](https://go.microsoft.com/fwlink/p/?LinkId=271669).
+Um optimale Ergebnisse zu erzielen, verwenden Sie Tastenkombinationen, und nicht die Befehle im Kontextmenü oder Zwischenablage in Excel für das Internet, um Elemente an einen anderen Arbeitsblatt Speicherort zu kopieren. Erfahren Sie mehr über [die Verwendung von kopieren und Einfügen in Excel für das Internet](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -111,7 +111,7 @@ Erweiterte Analyseansichten wie Power Pivot und Power View sind nur in der Excel
   
 ## <a name="data-validation"></a>Datenüberprüfung
 
-Mithilfe der Datenüberprüfung können Sie den Datentyp oder die Werte einschränken, die Benutzer in eine Zelle eingeben können. Weitere Informationen finden Sie unter [Anwenden von Datenüberprüfung auf Zellen](https://go.microsoft.com/fwlink/?linkid=844735)
+Mithilfe der Datenüberprüfung können Sie den Datentyp oder die Werte einschränken, die Benutzer in eine Zelle eingeben können. Weitere Informationen finden Sie unter [Anwenden der Datenüberprüfung auf Zellen](https://go.microsoft.com/fwlink/?linkid=844735).
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
@@ -123,9 +123,9 @@ Bei Dropbox handelt es sich um einen Dateihostingdienst, der einen Cloudspeicher
   
 ## <a name="duplicate-copy-worksheets"></a>Duplizieren (kopieren) von Arbeitsblättern
 
-Sie können Arbeitsblätter in einer Arbeitsmappe oder in einer anderen Arbeitsmappe in Excel für das Internet duplizieren (oder kopieren). Erfahren Sie mehr über [das Kopieren von Arbeitsblättern in Excel für das Internet](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
+Sie können Arbeitsblätter in einer Arbeitsmappe oder in einer anderen Arbeitsmappe in Excel für das Internet duplizieren (oder kopieren). Erfahren Sie mehr über [das Kopieren von Arbeitsblättern in Excel für das Internet](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online).
 
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Einbetten einer Arbeitsmappe auf der Webseite oder Blog Seite (OneDrive)
 
 Wenn Sie eine Excel-Arbeitsmappe auf OneDrive.com speichern, können Sie sie direkt in einen Blog oder eine Website einbetten. Ihre Leser können die Daten direkt auf der Seite sortieren, filtern und berechnen. Wenn Sie die Arbeitsmappe auf OneDrive aktualisieren, werden die Änderungen den Lesern angezeigt, sobald sie die Seite neu laden. Erfahren Sie mehr über das [Einbetten einer Excel-Arbeitsmappe in Ihren Blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
@@ -171,7 +171,7 @@ Navigieren Sie mit dem GoTo-Feature schnell in Ihrer Tabellenkalkulation. Geben 
  
 ## <a name="group-data"></a>Gruppendaten
 
-Sie können Zeilen und Spalten in Ihrer Excel-Tabelle für das webspreadsheet gruppieren oder gliedern. Erfahren Sie mehr über [das Gruppieren von Daten in Excel für das Internet](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+Sie können Zeilen und Spalten in Ihrer Excel-Tabelle für das webspreadsheet gruppieren oder gliedern. Erfahren Sie mehr über [das Gruppieren von Daten in Excel für das Internet](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -187,37 +187,39 @@ Wählen Sie mindestens eine Zeile aus, bevor Sie auf der Registerkarte "Start" a
 
 ## <a name="insert-pictures"></a>Einfügen von Bildern
 
-Fügen Sie ein wenig visuelles Interesse hinzu, indem Sie Bilder in Ihre Arbeitsmappe einfügen. Erfahren Sie mehr über [das Einfügen von Bildern in Excel für das Internet](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
+Fügen Sie ein wenig visuelles Interesse hinzu, indem Sie Bilder in Ihre Arbeitsmappe einfügen. Erfahren Sie mehr über [das Einfügen von Bildern in Excel für das Internet](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3).
 
 ## <a name="insert-shapes"></a>Einfügen von Formen
 
-Hinzufügen und Formatieren von Formen wie Feldern, Kreisen, Linien, Konnektoren oder Pfeilen für Ihre Excel-Tabellenkalkulation. Erfahren Sie mehr über das [Hinzufügen von Shapes](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+Hinzufügen und Formatieren von Formen wie Feldern, Kreisen, Linien, Konnektoren oder Pfeilen für Ihre Excel-Tabellenkalkulation. Erfahren Sie mehr über das [Hinzufügen von Shapes](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
   
 ## <a name="merge-cells"></a>Merge cells
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
- 
+
 ## <a name="named-ranges"></a>Benannte Bereiche
 
 Es ist nicht möglich, benannte Bereiche in Excel für das Internet zu erstellen, aber Sie können die benannten Bereiche verwenden, die Sie in Excel Desktop in Ihrer Arbeitsmappe in Excel für das Internet erstellt haben.
 
- 
 ## <a name="number-formatting"></a>Zahlenformatierung
 
 Ändern Sie das Format von Zahlen. Wählen Sie aus einer Liste von Formaten ein Format wie "Währung" oder "Datum, kurz" aus, ändern Sie die Dezimalstellen, oder fügen Sie ein Tausendertrennzeichen ein.
   
+## <a name="office-add-ins"></a>Office-Add-Ins
+
+ Einige, jedoch nicht alle Office-Add-Ins sind in Excel für das Internet verfügbar. Sie können im Office Store ein Add-In für Excel erwerben. Erfahren Sie mehr über das [Erwerben eines Add-Ins für Excel ](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+
 ## <a name="offline-viewing-and-authoring"></a>Offlineansicht und -erstellung
 
 Excel für das Web wird von einem Internet Browser gestartet und basiert auf einer Internetverbindung. Um offline auf Arbeitsmappen zugreifen zu können, muss auf Ihrem Computer die Microsoft Excel-Desktop-App zum Anzeigen und Bearbeiten von Excel-Arbeitsblättern installiert sein.
 
 ## <a name="pivottables"></a>PivotTables
 
-Sie können PivotTables in Ihr Excel-Tabellenblatt einfügen und Daten berechnen, zusammenfassen und analysieren. Erfahren Sie mehr über das Einfügen einer [PivotTable in Excel für das Internet](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
+Sie können PivotTables in Ihr Excel-Tabellenblatt einfügen und Daten berechnen, zusammenfassen und analysieren. Erfahren Sie mehr über das Einfügen einer [PivotTable in Excel für das Internet](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
 
-  
 ## <a name="post-to-social-network-and-present-online"></a>Posten in sozialen Netzwerken und Präsentieren im Web
 
-Geben Sie ausgewählte Teile Ihrer Arbeitsblätter im Internet frei, indem Sie Sie auf ihren sozialen Netzwerkseiten oder Skype for Business Unterhaltungen oder Besprechungen einbetten. Diese Features werden von Excel für das Internet nicht unterstützt. 
+Geben Sie ausgewählte Teile Ihrer Arbeitsblätter im Internet frei, indem Sie Sie auf ihren sozialen Netzwerkseiten oder Skype for Business Unterhaltungen oder Besprechungen einbetten. Diese Features werden von Excel für das Internet nicht unterstützt.
   
 ## <a name="power-pivot-viewing"></a>Power Pivot-Anzeige
 
@@ -245,7 +247,7 @@ Wenn die Daten in Ihrer Arbeitsmappe mit externen Quellen wie Datenbanken, Webse
 
 ## <a name="remove-duplicate-values"></a>Entfernen von doppelten Werten
 
-Sie können doppelte Werte in einem Bereich oder einer Tabelle entfernen. Weitere Informationen finden Sie unter [Filtern nach eindeutigen Werten oder Entfernen von doppelten Werten](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
+Sie können doppelte Werte in einem Bereich oder einer Tabelle entfernen. Weitere Informationen finden Sie unter [Filtern nach eindeutigen Werten oder Entfernen von doppelten Werten](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
 ## <a name="rename-and-add-sheets"></a>Umbenennen und Hinzufügen von Blättern
 
@@ -281,7 +283,7 @@ Zeigen Sie Datenschnitte in Ihrer Arbeitsmappe an, und filtern Sie Ihre Daten, i
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-In Excel für das Internet können Sie alle Arbeitsblätter anzeigen und neu anordnen, Daten sortieren und Filtern sowie die Details von PivotTables genauer ausführen.
+In Excel für das Internet können Sie alle Arbeitsblätter anzeigen und neu anordnen, Daten sortieren und Filtern sowie die Details von PivotTables genauer ausführen. Erfahren Sie mehr über das [Sortieren und Filtern von Daten](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Überprüfung und Kompatibilität von Arbeitsmappen
 
@@ -309,7 +311,7 @@ Sie können Daten schnell in einer Tabelle summieren, indem Sie auf der Register
 
 ## <a name="undo-and-redo"></a>"Rückgängig" und "Wiederholen"
 
-Excel für das Internet speichert Ihre Arbeit automatisch. Wenn Sie einen Fehler gemacht haben, verwenden Sie Undo oder drücken Sie STRG + Z, und wiederholen Sie den Vorgang, oder drücken Sie STRG + Y. erfahren Sie mehr über [Tastenkombinationen in Excel für das Internet](https://go.microsoft.com/fwlink/p/?LinkId=272943).
+Excel für das Internet speichert Ihre Arbeit automatisch. Wenn Sie einen Fehler machen, verwenden Sie rückgängig oder drücken Sie STRG + Z, und wiederholen oder drücken Sie STRG + Y. Erfahren Sie mehr über [Tastenkombinationen in Excel für das Internet](https://go.microsoft.com/fwlink/p/?LinkId=272943).
   
 ## <a name="vba-and-macro-scripting"></a>Scripting von Makros und VBA
 
