@@ -1,5 +1,5 @@
 ---
-title: Excel für das Internet
+title: Excel für das Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401761"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442750"
 ---
-# <a name="excel-for-the-web"></a>Excel für das Internet
+# <a name="excel-for-the-web"></a>Excel für das Web
 
 Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
   
@@ -88,7 +88,11 @@ Erweiterte Diagrammfeatures werden nur in der Microsoft Excel-Desktop-App unters
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Diagramme und Tabellen, einschließlich PivotChart- und PivotTable-Berichte
 
 Mit Excel-Diagrammen und -Tabellen ist es ganz einfach, Daten zu formatieren und Informationen zu verwalten. Weitere Informationen finden Sie unter [Erstellen und Formatieren von Tabellen](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) und [Übersicht über PivotTable-und PivotChart-Berichte](https://go.microsoft.com/fwlink/?linkid=55417).
-  
+
+## <a name="check-spelling"></a>Rechtschreibprüfung
+
+Um die Rechtschreibung für Text in Ihrem Arbeitsblatt zu**überprüfen,** wählen Sie > **Rechtschreib** **Prüfung überprüfen** > aus. Erfahren Sie mehr über die [Rechtschreibprüfung](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+
 ## <a name="comment-creation"></a>Comment creation
 
 Sie können Kommentare in Excel für das Internet einfügen, bearbeiten und löschen. Sie können auch einen Kommentar Thread auflösen, der ihn in Bearbeitungen und neue Kommentare schließt, ihn jedoch an der richtigen Stelle lässt. Auf diese Weise können Sie den Thread erneut öffnen, um Kommentare bei Bedarf zu kommentieren. Erfahren Sie mehr über das [Hinzufügen von Kommentaren in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
@@ -123,7 +127,7 @@ Bei Dropbox handelt es sich um einen Dateihostingdienst, der einen Cloudspeicher
   
 ## <a name="duplicate-copy-worksheets"></a>Duplizieren (kopieren) von Arbeitsblättern
 
-Sie können Arbeitsblätter in einer Arbeitsmappe oder in einer anderen Arbeitsmappe in Excel für das Internet duplizieren (oder kopieren). Erfahren Sie mehr über [das Kopieren von Arbeitsblättern in Excel für das Internet](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online).
+Sie können Arbeitsblätter in einer Arbeitsmappe oder in einer anderen Arbeitsmappe in Excel für das Internet duplizieren (oder kopieren). Erfahren Sie mehr über [das Kopieren von Arbeitsblättern in Excel für das Internet](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Einbetten einer Arbeitsmappe auf der Webseite oder Blog Seite (OneDrive)
 
@@ -171,7 +175,7 @@ Navigieren Sie mit dem GoTo-Feature schnell in Ihrer Tabellenkalkulation. Geben 
  
 ## <a name="group-data"></a>Gruppendaten
 
-Sie können Zeilen und Spalten in Ihrer Excel-Tabelle für das webspreadsheet gruppieren oder gliedern. Erfahren Sie mehr über [das Gruppieren von Daten in Excel für das Internet](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+Sie können Zeilen und Spalten in Ihrer Excel-Tabelle für das webspreadsheet gruppieren oder gliedern. Erfahren Sie mehr über [das Gruppieren von Daten in Excel für das Internet](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -181,9 +185,9 @@ Sie können Zeilen, Spalten und Blätter in einer Arbeitsmappe in Excel für das
 
 Erstellen Sie ein Diagramm, um Ihre Daten visuell darzustellen. Dafür steht eine Reihe von Diagrammtypen zur Auswahl, z. B. Spalten-, Linien-, Kreis- oder Balkendiagramme. Erfahren Sie mehr über die [verfügbaren Diagrammtypen](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
-## <a name="insertdelete-rows-and-columns"></a>Einfügen/Löschen von Zeilen und Spalten
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-Wählen Sie mindestens eine Zeile aus, bevor Sie auf der Registerkarte "Start" auf "Einfügen" oder "Löschen" klicken, um Zeilen oder Spalten entweder nacheinander oder alle gleichzeitig Ihrem Arbeitsblatt hinzuzufügen oder daraus zu entfernen.
+Wählen Sie eine oder mehrere Zeilen aus, bevor Sie auf der Registerkarte **Start** die Option **Einfügen** oder **Löschen** auswählen, um Zeilen oder Spalten in Ihrem Arbeitsblatt nacheinander oder in mehreren gleichzeitig hinzuzufügen oder zu entfernen.
 
 ## <a name="insert-pictures"></a>Einfügen von Bildern
 
@@ -195,7 +199,7 @@ Hinzufügen und Formatieren von Formen wie Feldern, Kreisen, Linien, Konnektoren
   
 ## <a name="merge-cells"></a>Merge cells
 
-Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
+Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. Sie können die Ausrichtung ändern, indem Sie die Ausrichtungsschaltflächen auswählen.
 
 ## <a name="named-ranges"></a>Benannte Bereiche
 
@@ -249,13 +253,13 @@ Wenn die Daten in Ihrer Arbeitsmappe mit externen Quellen wie Datenbanken, Webse
 
 Sie können doppelte Werte in einem Bereich oder einer Tabelle entfernen. Weitere Informationen finden Sie unter [Filtern nach eindeutigen Werten oder Entfernen von doppelten Werten](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
-## <a name="rename-and-add-sheets"></a>Umbenennen und Hinzufügen von Blättern
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
-Klicken Sie auf das Symbol "Neues Blatt", um ein Blatt hinzuzufügen. Klicken Sie mit der rechten Maustaste auf eine Blattregisterkarte, um sie umzubenennen.
+Wählen Sie das neue Blatt Symbol aus, um ein Blatt hinzuzufügen. Klicken Sie mit der rechten Maustaste auf eine Blattregisterkarte, um sie umzubenennen.
   
 ## <a name="rename-file-while-workbook-is-open"></a>Umbenennen einer geöffneten Arbeitsmappe
 
-In Excel für das Internet können Sie eine Arbeitsmappendatei umbenennen, ohne Sie zu schließen, indem Sie auf den Dateinamen in der Kopfzeile klicken und einen neuen Namen eingeben. Um eine Datei mithilfe der Excel-Desktop-App umzubenennen, schließen Sie die Datei, navigieren Sie zum Speicherort der Datei auf Ihrem Gerät, und benennen Sie die Datei um.
+In Excel für das Internet können Sie eine Arbeitsmappendatei umbenennen, ohne Sie zu schließen, indem Sie den Dateinamen in der Kopfzeile auswählen und einen neuen Namen eingeben. Um eine Datei mithilfe der Excel-Desktop-App umzubenennen, schließen Sie die Datei, navigieren Sie zum Speicherort der Datei auf Ihrem Gerät, und benennen Sie die Datei um.
   
 ## <a name="replace"></a>Ersetzen
 
@@ -279,7 +283,7 @@ Wenn Sie eine Excel-Datei für andere Benutzer freigeben, können Sie ein Arbeit
   
 ## <a name="slicer-viewing"></a>Datenschnittansicht
 
-Zeigen Sie Datenschnitte in Ihrer Arbeitsmappe an, und filtern Sie Ihre Daten, indem Sie auf die Datenschnittschaltflächen klicken. Sie können keine datenschnitte in Excel für das Internet erstellen oder bearbeiten.
+Zeigen Sie datenschnitte in Ihrem Arbeitsblatt an, und Filtern Sie die Daten, indem Sie die Schaltflächen Slicer auswählen. Sie können keine datenschnitte in Excel für das Internet erstellen oder bearbeiten.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -307,7 +311,7 @@ Sie können verschiedene Textformatierungsoptionen anwenden, einschließlich dur
 
 ## <a name="total-data"></a>Gesamtdaten
 
-Sie können Daten schnell in einer Tabelle summieren, indem Sie auf der Registerkarte Start unter Format als Tabelle auf Ergebniszeile umschalten klicken. 
+Sie können die Daten in einer Tabelle schnell summieren, indem Sie die Option "Ergebniszeile umschalten" aktivieren. Weitere Informationen finden Sie unter [Summe der Daten in einer Excel-Tabelle](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web).
 
 ## <a name="undo-and-redo"></a>"Rückgängig" und "Wiederholen"
 

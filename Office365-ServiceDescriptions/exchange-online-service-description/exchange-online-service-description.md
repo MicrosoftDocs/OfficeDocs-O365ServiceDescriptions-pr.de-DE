@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Featurevergleich von Office 365-Abonnements, die Exchange Online umfassen? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 2038f53408d3c7e924e90f8b9f7a898a52d36530
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776596"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442650"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -35,7 +35,7 @@ Suchen Sie nach einem Featurevergleich von Office 365-Abonnements, die Exchange 
   
 Microsoft Exchange Online ist eine gehostete Lösung für Nachrichten, die die Funktionen von Microsoft Exchange Server in einem cloudbasierten Dienst bereitstellt. Benutzer erhalten damit Zugriff auf E-Mails, Kalender, Kontakte und Aufgaben von PCs, dem Web und mobilen Geräten. Die Lösung ist vollständig in Active Directory integriert, sodass Administratoren Gruppenrichtlinien und andere Verwaltungstools verwenden können, um Exchange Online-Funktionen in ihrer gesamten Umgebung zu verwalten.
   
-Organisationen, die Exchange Online abonnieren, behalten die Kontrolle über die den Benutzern angebotenen Nachrichtendienste, sie vermeiden aber den operativen Aufwand einer lokalen Serversoftware. Mit den gehosteten Exchange Online-Plänen, die in diesem Dokument beschrieben werden, wird die E-Mail-Funktion auf Servern gehostet, die mehrere Kunden gleichzeitig unterstützen. Diese Server befinden sich in Microsoft-Datencentern, und Benutzer können über eine Vielzahl von Geräten innerhalb eines Unternehmensnetzwerks oder über das Internet darauf zugreifen.
+Organisationen, die Exchange Online abonnieren, behalten die Kontrolle über die den Benutzern angebotenen Nachrichtendienste, sie vermeiden aber den operativen Aufwand einer lokalen Serversoftware. Mit den gehosteten Exchange Online-Plänen, die in diesem Dokument beschrieben werden, wird die E-Mail-Funktion auf Servern gehostet, die mehrere Kunden gleichzeitig unterstützen. Diese Server sind in Microsoft-Rechenzentren untergebracht und können Benutzern auf einer Vielzahl von Geräten innerhalb eines Unternehmensnetzwerks oder über das Internet zur Verfügung stehen.
   
 Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](https://products.office.com/business/compare-more-office-365-for-business-plans). Informationen zum Vergleichen der Pläne für Office 365 für Deutschland finden Sie unter [ Abonnementpläne für Office 365 Deutschland ](https://go.microsoft.com/fwlink/?linkid=839016).
   
@@ -171,7 +171,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Zugriff auf die remote verwendete Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |ActiveSync-Richtlinien für mobile Geräte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verwendungsbericht|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Outlook-Add-Ins und Outlook MAPI|Ja<sup>19</sup>|Ja|Ja<sup>19</sup>|Ja<sup>19</sup>|Ja<sup>19</sup>|Ja<sup>19</sup>|Ja<sup>19</sup>|Nein|
 
 <sup>1</sup> erfordert ein Exchange Online Archivierungs Abonnement für jeden lokalen Postfachbenutzer, der über ein Cloud-basiertes Archiv verfügt. <br/>
@@ -196,7 +196,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 <sup>20</sup> für eDiscovery benötigen Sie eine separate Abfrage für lokale vs. Cloud. <br/>
 <sup>21</sup> die Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. <br/>
 <sup>22</sup> Weitere Informationen finden Sie unter [Steuern der Daten in Office 365 mit dem Kundenschlüssel](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> Exchange Online um-Unterstützung für Drittanbieter-Nebenstellenanlagen über direkte Verbindungen vom Kunden betriebenen SBCS wird Ende April 2019. Weitere Informationen finden Sie in der Exchange-Teamblog [-Einstellung der Unterstützung für Session Border Controller in Exchange Online Unified Messaging](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) . <br/>
+<sup>23</sup> Exchange Online um-Unterstützung für Drittanbieter-Nebenstellenanlagen über direkte Verbindungen vom Kunden betriebenen SBCS wird Ende April 2019. Weitere Informationen finden Sie in der Exchange-Teamblog [-Einstellung der Unterstützung für Session Border Controller in Exchange Online Unified Messaging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
 <sup>24</sup> ein F1-Benutzer kann keine Stellvertretungen zu seinem eigenen Postfach hinzufügen, aber Sie können auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und alle an Sie Delegierten Aktionen ausführen.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Verfügbarkeit von Features in eigenständigen Exchange Online-Plänen
@@ -301,7 +301,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Zugriff auf die remote verwendete Windows PowerShell|Ja|Ja|Ja|Ja|Ja|
 |ActiveSync-Richtlinien für mobile Geräte|Ja|Ja|Ja|Ja|Ja|
 |Verwendungsbericht|Ja|Ja|Ja|Ja|Ja|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Outlook Web App-Webparts|Ja|Ja|Ja|Ja|Ja|
 |Outlook-Add-Ins und Outlook MAPI|Ja|Ja|Ja<sup>21</sup>|Ja<sup>21</sup>|Nein|
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte an, mit deren Hilfe Sie den allgemeinen Status und die Integrität Ihrer Organisation ermitteln können. Einige Berichte stehen im Microsoft 365 Admin Center zur Verfügung, während andere im Exchange Admin Center (EAC) verfügbar sind.
-ms.openlocfilehash: cedf3d62360ce8c43da9dbb96c0938d78ffec110
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: b87d81210cce585d8e5ccf9d8d52456286bfab91
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334115"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442710"
 ---
 # <a name="reporting-and-message-trace"></a>Berichterstellung und Nachrichtenablaufverfolgung
 
@@ -36,7 +36,7 @@ Ausführlichere Informationen zu diesen Berichten finden Sie unter [Verwenden vo
 > [!NOTE]
 > Viele der Rest-basierten Berichtsfeatures und zugehörigen Cmdlets wurden im Januar 2018 veraltet. Informationen zu den verfügbaren Ersatz-Microsoft Graph-Berichten in Office 365 finden Sie in den Unterthemen zum [Arbeiten mit Office 365-Verwendungsberichten in Microsoft Graph](https://go.microsoft.com/fwlink/p/?LinkID=865135).
 
-Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Sie können den Rest/OData-Mandanten-Webdienst verwenden, um zusammenfassende und detaillierte Berichte zu Messagingdaten programmgesteuert zu sammeln, und Sie können die Daten auf einer Webseite in einem benutzerdefinierten Webverwaltungs Portal anzeigen.
+Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Sie können den Rest/OData-Mandanten Berichterstattungswebdienst verwenden, um zusammenfassende und detaillierte Berichte zu Messagingdaten programmgesteuert zu sammeln, und Sie können die Daten auf einer Webseite in einem benutzerdefinierten Webverwaltungs Portal anzeigen.
 
 ## <a name="message-trace"></a>Nachrichtenablaufverfolgung
 

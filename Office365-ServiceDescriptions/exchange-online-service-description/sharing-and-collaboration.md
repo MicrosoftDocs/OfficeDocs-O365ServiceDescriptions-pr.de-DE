@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 114812240efb18573ed7defaa88010bebfdac0bd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776916"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442540"
 ---
 # <a name="sharing-and-collaboration"></a>Freigabe und Zusammenarbeit
 
 ## <a name="federated-sharing"></a>Verbundfreigabe
 
-Verbund bezieht sich auf die zugrunde liegende Vertrauensstellungsinfrastruktur, die die Verbundfreigabe unterstützt. Dies ist eine Methode für Microsoft Exchange Online-Benutzer, Frei/Gebucht-Kalenderdaten und Kontaktinformationen für Empfänger in anderen externen Verbundorganisationen oder für Benutzer mit Internetzugriff freizugeben. Dazu gehören Organisationen, die von Exchange Online gehostet werden, oder externe Microsoft Exchange Server 2010- oder Exchange Server 2013-Organisationen. Durch die Verwendung von Organisationsbeziehungen und Freigaberichtlinien können Exchange Online-Administratoren Benutzer in die Lage versetzen, Einladungen für die Kalenderfreigabe über Microsoft Outlook Web App bzw. Microsoft Outlook 2010 oder höher zu senden.
+Federation bezieht sich auf die zugrunde liegende Vertrauensstellungs Infrastruktur, die die Verbundfreigabe unterstützt, eine Methode für Microsoft Exchange Online Benutzer zum Freigeben von Frei/Gebucht-Kalenderdaten und Kontaktinformationen für Empfänger in anderen externen Verbundorganisationen oder mit Benutzer mit Internetzugriff. Dazu gehören auch Organisationen, die von Exchange Online oder externen Microsoft Exchange Server 2010 oder Exchange Server 2013 Organisationen gehostet werden. Mithilfe von Organisationsbeziehungen und Freigaberichtlinien können Exchange Online Administratoren Benutzern das Senden von Einladungen zur Kalenderfreigabe aus Microsoft Outlook Web App oder Microsoft Outlook 2010 oder höher ermöglichen.
   
 > [!IMPORTANT]
 >  Externe Exchange 2010- und Exchange 2013-Organisationen müssen bei der Konfiguration der Verbundfreigabe eine Verbundvertrauensstellung mit Microsoft Federation Gateway konfigurieren. Exchange Online-Organisationen müssen keine Verbundvertrauensstellung konfigurieren, denn die Verbundvertrauensstellung mit Microsoft Federation Gateway wird automatisch bei der Erstellung des Office 365-Mandanten erstellt. >  Exchange Online-Organisationen müssen entweder eine Organisationsbeziehung oder eine Freigaberichtlinie erstellen, um eine Verbundfreigabe zu ermöglichen. >  Die Freigabe der globalen Adressliste (GAL) oder das Verschieben von Benutzerpostfächern zwischen Exchange Online-Organisationen in unterschiedliche Office 365-Mandanten wird für die Verbundfreigabe nicht unterstützt. 

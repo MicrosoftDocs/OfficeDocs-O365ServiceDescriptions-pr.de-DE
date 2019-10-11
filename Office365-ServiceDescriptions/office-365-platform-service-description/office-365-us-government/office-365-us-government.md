@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Abschnitt enthält eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diesen zusätzlichen Abschnitt neben den Beschreibungen der Office 365-Dienste zu lesen.
-ms.openlocfilehash: f13bcd40d707f582355d76676212f10b04973bfb
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 4765344c128f53057c75b55e9d79120b03d63942
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998497"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442740"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -122,7 +122,7 @@ Kunden [, die sich für den Migrations Vorteil](https://fasttrack.microsoft.com/
   
 ## <a name="office-365-us-government-and-azure-government-expressroute"></a>Office 365 US Government und Azure Government ExpressRoute
 
-Office 365 US Government-Kunden können Azure Government ExpressRoute-Dienste verwenden, um eine private Verbindung zu unterstützten Office 365-Diensten herzustellen, statt über das öffentliche Internet.
+Office 365 US Government-Kunden können Azure Government Express Route-Dienste verwenden, um sich privat mit unterstützten Office 365 Diensten zu verbinden, statt eine Verbindung über das öffentliche Internet herzustellen.
   
 Detaillierte Informationen, z. B. unterstützte Anbieter, Preismodelle usw., finden Sie unter [Informationen zu Azure ExpressRoute](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
   
@@ -147,7 +147,7 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Office 365-Dienste** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
-|Office für das Internet  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office für das Web  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365 ProPlus  <br/> |Nein <br/> |Ja <br/> |Ja <br/> |Nein  <br/> |
 |Exchange Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online Protection  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -157,7 +157,7 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 | Sprachtelefon System, Audiokonferenzen  <br/> |Nein<sup>2, 3</sup> <br/> |Nein<sup>2, 3</sup> <br/> |Ja <sup>3, 5</sup> <br/> |Nein  <br/> |
 |Power BI Pro  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |
 |Project Online  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |
-|Visio für das Internet  <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |
+|Visio für das Web  <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |
 |Yammer Enterprise  <br/> |Nr.<sup>4</sup> <br/> |Nr.<sup>4</sup> <br/> |Nr.<sup>4</sup> <br/> |Nr.<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus, G3, G5 Skype_for_Business und Skype_for_Business beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliance-Features enthält. A Skype for Business Online license must be assigned for each user.
@@ -187,7 +187,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Microsoft Planner  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Microsoft PowerApps  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |
 |Microsoft StaffHub  <br/> |Nein <br/> |Nein <br/> |Nein <br/> |Nein<br/> |
-|Microsoft Stream  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |No  <br/> |
+|Microsoft Stream  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Nein  <br/> |
 |Microsoft Sway  <br/> |Nein <br/> |Nein <br/> |Nein <br/> |Nein <br/> |
 |Microsoft Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
 |Office Delve  <br/> |Ja<sup>17</sup> <br/> |Ja<sup>17</sup> <br/> |Ja  <br/> |Ja<sup>17</sup> <br/> |
@@ -332,7 +332,7 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Automatisiertes Bereitstellen von Benutzerkonten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Mehrsprachige Benutzeroberfläche  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Client-Push-Bereitstellung  <br/> |No  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
+|Client-Push-Bereitstellung  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
 |Client-Unterstützung für lokales Exchange  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Client-Unterstützung für lokales SharePoint  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Steuern von Softwareupdates  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -350,19 +350,19 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |Office-Telemetrie  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
 |Offline-Unterstützung für Client-Anwendungen  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Optimierte parallele Client-Installation  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Power Map für Excel  <br/> |No  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
-|PowerPivot für Excel  <br/> |No  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
-|Power Query für Excel  <br/> |No  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
-|Power View für Excel  <br/> |No  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
-|Roaming-Einstellungen  <br/> |No  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |No  <br/> |
+|Power Map für Excel  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
+|PowerPivot für Excel  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
+|Power Query für Excel  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
+|Power View für Excel  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
+|Roaming-Einstellungen  <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
 |Aktivierung gemeinsam genutzter Computer  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
 |Unterstützung für das Blockieren von Cloud-basierten Dateispeichern  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Versionsupgrades  <br/> |No  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
+|Versionsupgrades  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
 |Volume activation (KMS/MAK)  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
    
 > <sup>1</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 ProPlus, das nicht in Office 365 Government G1 oder Office 365 Government F1 enthalten ist. 
 <br/><sup>2</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. 
-<br/><sup>3</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3 beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/library/gg425836%28v=ocs.15%29.aspx). 
+<br/><sup>3</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3 beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup> Noch nicht fürGCC hoch- oder DoD-Umgebungen verfügbar, aber in Kürze.
 <br/><sup>5</sup> Weitere Informationen finden Sie unter [Verwenden von Outlook für IOS und Android in der Government Community Cloud](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) .
   <br/><sup>6</sup> noch nicht verfügbar in Office 365 DoD-Umgebung, aber in Kürze erhältlich.

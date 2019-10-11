@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online bietet eine Vielzahl von Berichtsfeatures sowohl in als auch außerhalb des Exchange Admin Center (EAC).
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776866"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442640"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Berichterstellungsfeatures und Tools zur Problembehandlung
 
@@ -39,9 +39,9 @@ Weitere Informationen darüber, welche Berichte im Rahmen der verschiedenen Offi
 
 Sie können auch die Excel 2013-Berichtsarbeitsmappe verwenden, um Zusammenfassungsberichte mit Drilldownfunktionalitäten anzuzeigen. Es wird jedoch empfohlen, stattdessen die verbesserten Microsoft 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe wird voraussichtlich in naher Zukunft eingestellt. Einen detaillierteren Überblick und Links zum Herunterladen und Installieren der Arbeitsmappe finden Sie auf [dieser Downloadseite](https://go.microsoft.com/fwlink/p/?LinkId=271776). Informationen zur Verwendung der Arbeitsmappe finden Sie unter [E-Mail-Schutzberichte in der Excel-Berichtsarbeitsmappe](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
-### <a name="reporting-using-web-services"></a>Berichterstattung mit Webservices
+### <a name="reporting-using-web-services"></a>Reporting using web services
 
-Zugriff auf Zusammenfassungs- und Detailberichte über Postfächer, Gruppen und Nachrichtendaten ist über den Webdienst "REST/OData Tenant Reporting" möglich. Bei diesem Dienst handelt es sich um eine programmgesteuerte Oberfläche, über die Sie benutzerdefinierte Berichte erstellen können. Weitere Informationen finden Sie unter [Office 365-Berichterstattungswebdienst](https://go.microsoft.com/fwlink/p/?LinkId=287041).
+Der Zugriff auf zusammenfassende und detaillierte Berichte zu Postfächern, Gruppen und Messagingdaten ist über den Rest/OData-Mandanten Berichterstattungswebdienst verfügbar, bei dem es sich um eine programmgesteuerte Schnittstelle handelt, mit der Sie benutzerdefinierte Berichte erstellen können. Weitere Informationen finden Sie unter [Office 365 Reporting-Webdienste](https://go.microsoft.com/fwlink/p/?LinkId=287041).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Berichtsfeatures und Problembehandlungstools in der Exchange-Verwaltungskonsole
 

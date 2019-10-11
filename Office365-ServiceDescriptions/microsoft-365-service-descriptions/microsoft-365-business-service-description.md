@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie unter Office 365 Service descriptions.
-ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
-ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
+ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717543"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442550"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -35,7 +35,7 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
 |SharePoint Online  <br/> |Ja  <br/> |Ja  <br/> |
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Online  <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |
-|Office für das Internet  <br/> |Ja  <br/> |Ja  <br/> |
+|Office für das Web  <br/> |Ja  <br/> |Ja  <br/> |
 |[Office-Anwendungen](../office-applications-service-description/office-applications-service-description.md)  <br/> |Ja  <br/> |Ja  <br/> |
 |Project Online  <br/> |Nr.<sup>3</sup> <br/> |Nr.<sup>3</sup> <br/> |
 |Power BI  <br/> |Nein  <br/> |Nein  <br/> |
@@ -58,7 +58,7 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
 |Office 365-Video  <br/> |Nein  <br/> |Nein  <br/> |
 |OneNote-Kursnotizbuch  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|[Office 365-Verwaltungsfeatures](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Microsoft 365 Admin Center-Features](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |
 |Schützen von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>6</sup> <br/> |Ja  <br/> |
 |Aktivierung gemeinsam genutzter Computer <br/> |Nein <br/> |Ja  <br/> |

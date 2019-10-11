@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des Nachrichtenflusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor. '
-ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231413"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442600"
 ---
 # <a name="mail-flow"></a>Mail Flow
 
@@ -34,9 +34,9 @@ Weitere Informationen finden Sie unter [Set up connectors to route mail between 
 > [!IMPORTANT]
 > Exchange Online kann eingehende und ausgehende E-Mails zustellen. Wenn Ihre Empfängerdomäne in Exchange Online gehostet wird und DNS MX-Einträge auf Exchange Online Schutz hindeuten, wird der e-Mail-Fluss von Ihrem Mandanten an den Empfänger nicht über das Internet übertragen.
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
+## <a name="secure-messaging-with-a-trusted-partner"></a>Sichere Nachrichten mit einem vertrauenswürdigen Partner
 
-Als Exchange Online-Kunde können Sie mithilfe von Office 365-Connectors einen sicheren Nachrichtenfluss mit einem vertrauenswürdigen Partner einrichten. Office 365 unterstützt die sichere Kommunikation über Transport Layer Security (TLS), und Sie können einen Connector erstellen, um TLS-Verschlüsselung zu erzwingen. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) ist ein kryptografisches Protokoll, das die Kommunikation über das Internet absichert. Mithilfe von Connectors können Sie TLS für eingehende und ausgehende Nachrichten erzwingen, basierend auf selbstsignierten Zertifikaten oder Zertifikaten, die von einer Zertifizierungsstelle validiert wurden. Sie können auch weitere Sicherheitseinschränkungen implementieren. Beispielsweise können Sie die Domänennamen oder IP-Adressbereiche angeben, über die Ihre Partnerorganisation E-Mails sendet. 
+Als Exchange Onlineer Kunde können Sie einen sicheren Nachrichtenfluss mit einem vertrauenswürdigen Partner mithilfe von Office 365-Konnektoren einrichten. Office 365 unterstützt die sichere Kommunikation über TLS (Transport Layer Security) und Sie können einen Connector erstellen, um die Verschlüsselung über TLS zu erzwingen. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) ist ein kryptografisches Protokoll, das Sicherheit für die Kommunikation über das Internet bietet. Mithilfe von Connectors können Sie sowohl erzwungene eingehende als auch ausgehende TLS-Zertifikate mit selbstsignierten oder Zertifizierungsstellen validierten Zertifikaten konfigurieren. Sie können auch andere Sicherheitseinschränkungen anwenden, beispielsweise die Angabe von Domänennamen oder IP-Adressbereichen, aus denen Ihre Partnerorganisation e-Mails sendet. 
   
 Weitere Informationen finden Sie unter [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -65,7 +65,7 @@ Im [Bereitstellungs-Assistent für Microsoft Exchange Server](https://go.microso
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>Freigegebener Adressraum mit lokaler Routingsteuerung (MX zeigt auf Lokal)
 
-Freigegebener Adressraum mit lokaler Routingsteuerung (MX zeigt auf Lokal) ist ein Hybridbereitstellungsszenario für das E-Mail-Routing, in dem Ihre Postfächer teilweise in Exchange Online und teilweise lokal gehostet werden und der eingehende und ausgehende Internet-Nachrichtenfluss über die lokale Exchange-Organisation weitergeleitet wird. Dieses Szenario wird auch als zentralisierter E-Mail-Transport bezeichnet. In diesem Szenario wird Exchange Online mit EOP bereitgestellt. Aus dem Internet eingehende E-Mails werden zuerst an den lokalen E-Mail-Server weitergeleitet, bevor sie an EOP und schließlich an die in Exchange Online gehosteten Postfächer weitergeleitet werden. Zusätzlich werden von Exchange Online-Postfächern an externe Empfänger gesendete Nachrichten über die lokale Exchange-Organisation weitergeleitet. Bei dieser Konfiguration können Sie für alle Postfächer in Ihrer lokalen Exchange-Organisation und Ihrer Exchange Online-Organisation einen einzigen SMTP-Domänennamespace verwenden. 
+Freigegebener Adressraum mit lokaler Routing Steuerung (MX Points to on-premises) ist ein e-Mail-Routingszenario für die hybridbereitstellung, in dem ihre Postfächer teilweise in Exchange Online und teilweise lokalen sowie in-und ausgehenden Internet nachrichtenflüssen gehostet werden. wird über die lokale Exchange-Organisation weitergeleitet. Dieses Szenario wird auch als zentralisierter e-Mail-Transport bezeichnet. In diesem Szenario wird Exchange Online mit EoP bereitgestellt und eingehende Internet-e-Mail-Nachrichten werden an den lokalen e-Mail-Server weitergeleitet, bevor Sie an EoP und schließlich an Postfächer weitergeleitet werden, die in Exchange Online gehostet werden. Darüber hinaus werden ausgehende e-Mails von Exchange Online Postfächern über die lokale Exchange-Organisation für Nachrichten weitergeleitet, die an externe Empfänger gesendet werden. Mit dieser Konfiguration können Sie einen einzelnen SMTP-Domänennamespace für alle Postfächer sowohl in Ihrer lokalen Exchange-Organisation als auch in Ihrer Exchange Online Organisation verwenden. 
   
 Weitere Informationen zu Transportoptionen in einer Hybridbereitstellung finden Sie im Artikel [Transportoptionen in Exchange-Hybridbereitstellungen](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   

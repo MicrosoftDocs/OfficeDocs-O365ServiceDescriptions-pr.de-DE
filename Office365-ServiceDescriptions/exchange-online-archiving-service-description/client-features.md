@@ -11,28 +11,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Mit Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Alle Netzwerkverbindungen zum Archiv des Benutzers erfolgen über das Internet, und es sind keine VPN-Verbindungen (Virtual Private Network) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
-ms.openlocfilehash: b4f35a2bdc4e0c9f4ae54ec7be4997c9d946e0d4
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+description: Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Die gesamte Netzwerkverbindung mit dem Archiv des Benutzers erfolgt über das Internet, und es sind keine VPN-Verbindungen (virtuelles privates Netzwerk) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
+ms.openlocfilehash: dfe2ebf3b329d99f3166aa2d965603987205054c
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018297"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442500"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Clientfunktionen in der Exchange Online-Archivierung
 
-Mit Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Alle Netzwerkverbindungen zum Archiv des Benutzers erfolgen über das Internet, und es sind keine VPN-Verbindungen (Virtual Private Network) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
+Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Die gesamte Netzwerkverbindung mit dem Archiv des Benutzers erfolgt über das Internet, und es sind keine VPN-Verbindungen (virtuelles privates Netzwerk) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
   
 > [!IMPORTANT]
-> Microsoft behält sich das Recht vor, Verbindungen von Clientsoftware, welche die Integrität des Exchange Online-Archivierung-Dienstes beeinträchtigt, zu blockieren oder zu drosseln. 
+> Microsoft behält sich das Recht vor, Verbindungen von Clientsoftware, welche die Integrität des Exchange Online-Archivierung-Dienstes beeinträchtigt, zu blockieren oder zu drosseln.
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
 Microsoft Outlook ist ein E-Mail-Programm mit umfassenden Funktionen, das Unterstützung für Kalendereinträge, Kontakte und Aufgaben bietet. Exchange Online-Archivierung unterstützt Outlook 2013, Outlook 2010 und Outlook 2007. Zu den zentralen Features zählen folgende:
   
-- **Outlook Anywhere** Mit Outlook Anywhere können Outlook-Benutzer über das Internet eine Verbindung zu Exchange Server und Exchange Online-Archivierung herstellen, ohne dass eine VPN-Verbindung erforderlich ist. Die Kommunikation zwischen Outlook und Exchange Online-Archivierung erfolgt mithilfe der RPC-über-HTTP-Netzwerkkomponente von Windows über einen SSL-gesicherten Tunnel.    
-- **AutoErmittlung** Der Exchange AutoErmittlungsdienst konfiguriert Outlook automatisch für die Zusammenarbeit mit Exchange Online-Archivierung. AutoErmittlung ermöglicht Outlook-Benutzern, ihre erforderlichen Profileinstellungen direkt von Exchange zu erhalten, wenn sie sich zum ersten Mal mit ihrer E-Mail-Adresse und ihrem Kennwort anmelden (und dann in regelmäßigen Abständen). 
-    
+- **Outlook Anywhere** Outlook Anywhere ermöglicht Outlook-Benutzern das Herstellen einer Verbindung mit Exchange Server und Exchange Online Archivierung über das Internet, ohne dass eine VPN-Verbindung erforderlich ist. Die Kommunikation zwischen Outlook und Exchange Online-Archivierung erfolgt mithilfe der RPC-über-HTTP-Netzwerkkomponente von Windows über einen SSL-gesicherten Tunnel.    
+- **AutoErmittlung** Der Exchange AutoErmittlungsdienst konfiguriert Outlook automatisch für die Zusammenarbeit mit Exchange Online-Archivierung. Mit der AutoErmittlung können Outlook-Benutzer ihre erforderlichen Profileinstellungen direkt aus Exchange erhalten (und danach in festen Intervallen), dass Sie sich mit Ihrer e-Mail-Adresse und Ihrem Kennwort anmelden. 
+
 Outlook 2010 und höher und Outlook Web App bieten den Benutzern sämtliche Features des Archivs sowie verwandte Features wie Aufbewahrungs- und Archivierungsrichtlinien.
   
 Outlook 2007 bietet eine grundlegende Unterstützung des Archivs, jedoch nicht aller Features für Archivierung und Richtlinientreue, die in Outlook 2007 verfügbar sind. In Outlook 2007 können Benutzer beispielsweise auf Elemente in ihrem Postfach keine Aufbewahrungs- oder Archivierungsrichtlinien anwenden. Stattdessen muss der Administrator diese Richtlinien bereitstellen. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das Archiv zugreifen zu können.
@@ -62,7 +62,7 @@ Die folgende Tabelle enthält die von der Exchange Online-Archivierung unterstü
 
 ## <a name="outlook-web-app"></a>Outlook Web App
 
-Outlook Web App ist eine webbasierte Version des Outlook-E-Mail-Programms, das mit Exchange Online verwendet wird. Egal, ob Benutzer zu Hause, im Büro oder unterwegs eine Internetverbindung herstellen – sie können über Outlook Web App auf ihre E-Mails zugreifen.
+Outlook Web App ist eine webbasierte Version des Outlook-E-Mail-Programms, das mit Exchange Online verwendet wird. Überall dort, wo Benutzer mit dem Internet verbunden sind – zu Hause, im Büro oder unterwegs – können Sie über Outlook Web App auf Ihre e-Mails zugreifen.
   
 Benutzer können auf ihr Archiv zugreifen, indem sie sich lokal (mithilfe der gleichen URL) bei Outlook Web App anmelden. Das Archiv wird in Outlook Web App neben dem primären Postfach angezeigt. Es ist nicht möglich, direkt von Outlook Web App aus auf das Archiv zuzugreifen.
   
