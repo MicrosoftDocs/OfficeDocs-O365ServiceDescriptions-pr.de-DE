@@ -3,7 +3,6 @@ title: Domänen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/10/2017
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,31 +14,31 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Assistent Schritt für Schritt beim Hinzufügen von Benutzern und beim Umstellen Ihrer Office 365-E-Mail-Adressen und anderer Dienste auf den Namen des Unternehmens. Nach dem Ausführen des Assistenten gehen Ihre geschäftlichen E-Mails an Office 365 statt an Ihren aktuellen E-Mail-Anbieter. Weitere Informationen finden Sie unter Hinzufügen Ihrer Benutzer und Domänen zu Office 365. Wenn Sie Office 365 betrieben von 21Vianet verwenden, finden Sie weitere Informationen unter Überprüfen Ihrer Domäne.
-ms.openlocfilehash: febc87051ec9b4e6853cadfc43a0d0c272dd1b04
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d4d2e0316960f6c3d91cbdb088bd154d6739c2f2
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343734"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523400"
 ---
 # <a name="domains"></a>Domänen
 
-Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Assistent Schritt für Schritt beim Hinzufügen von Benutzern und beim Umstellen Ihrer Office 365-E-Mail-Adressen und anderer Dienste auf den Namen des Unternehmens. Nach dem Ausführen des Assistenten gehen Ihre geschäftlichen E-Mails an Office 365 statt an Ihren aktuellen E-Mail-Anbieter. Weitere Informationen finden Sie unter [Hinzufügen Ihrer Benutzer und Domänen zu Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Wenn Sie Office 365, betrieben von 21Vianet verwenden, lesen Sie [Prüfen der Domäne](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409).
+Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Assistent Schritt für Schritt beim Hinzufügen von Benutzern und beim Umstellen Ihrer Office 365-E-Mail-Adressen und anderer Dienste auf den Namen des Unternehmens. Nach dem Ausführen des Assistenten gehen Ihre geschäftlichen E-Mails an Office 365 statt an Ihren aktuellen E-Mail-Anbieter. Weitere Informationen finden Sie unter [Hinzufügen Ihrer Benutzer und Domänen zu Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Wenn Sie Office 365, betrieben von 21Vianet verwenden, lesen Sie [Prüfen der Domäne](https://docs.microsoft.com/office365/admin/setup/add-domain).
   
 ## <a name="custom-domains"></a>Benutzerdefinierte Domänen
 <a name="BKMK_CustomDomains"> </a>
 
-Sie können Ihrem Office 365-Abonnement bis zu 900 Domänen hinzufügen. Wenn Sie allerdings eine Domäne bereits in einem anderen Cloud-Dienst von Microsoft verwenden, können Sie diese nicht zu Office 365 hinzufügen. Das bedeutet, dass Sie eine Domäne nicht zu mehreren Office 365-Abonnements gleichzeitig hinzufügen können. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu Domänen](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Sie können Ihrem Office 365-Abonnement bis zu 900 Domänen hinzufügen. Wenn Sie allerdings eine Domäne bereits in einem anderen Cloud-Dienst von Microsoft verwenden, können Sie diese nicht zu Office 365 hinzufügen. Das bedeutet, dass Sie eine Domäne nicht zu mehreren Office 365-Abonnements gleichzeitig hinzufügen können. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu Domänen](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Domänen der zweiten und dritten Ebene
 <a name="BKMK_SecondAndThirdLevelDomains"> </a>
 
-Mit Office 365 Enterprise und Office 365 Business können Sie jede beliebige Domänenebene hinzufügen, einschließlich Domänen der dritten Ebene, z. B. „marketing.contoso.com". Informationen dazu finden Sie unter [Hinzufügen benutzerdefinierter Unterdomänen oder mehrerer Domänen zu Office 365](http://go.microsoft.com/fwlink/?LinkID=733345&amp;clcid=0x409). Wenn Sie Office 365 verwenden, betrieben von 21Vianet, lesen Sie [Hinzufügen benutzerdefinierter Unterdomänen oder mehrerer Domänen zu Office 365, betrieben von 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733346&amp;clcid=0x409).
+Mit Office 365 Enterprise und Office 365 Business können Sie jede beliebige Domänenebene hinzufügen, einschließlich Domänen der dritten Ebene, z. B. „marketing.contoso.com". Informationen dazu finden Sie unter [Hinzufügen benutzerdefinierter Unterdomänen oder mehrerer Domänen zu Office 365](https://docs.microsoft.com/office365/admin/setup/domains-faq). Wenn Sie Office 365 verwenden, betrieben von 21Vianet, lesen Sie [Hinzufügen benutzerdefinierter Unterdomänen oder mehrerer Domänen zu Office 365, betrieben von 21Vianet](https://docs.microsoft.com/office365/admin/setup/domains-faq).
   
 ## <a name="domain-verification-and-managing-dns-records"></a>Domänenüberprüfung und Verwaltung von DNS-Einträgen
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Mit Office 365 können Sie Ihre DNS-Einträge bei Ihrem DNS-Hostinganbieter verwalten oder Office 365 einrichten und die DNS-Einträge Ihrer Domäne für Sie verwalten lassen. Wenn Sie die Datensätze weiterhin verwalten, ändern Sie bestimmte Datensätze bei Bedarf, sodass sie auf Office 365 Dienste verweisen. Eine Liste der Domänenregistrierungsstellen, für die wir Schritt-für-Schritt-Anweisungen zum Hinzufügen der Einträge (inklusive spezifischer Werte für jeden Eintrag) bereitstellen, finden Sie unter [Erstellen von DNS-Einträgen für Office 365](https://go.microsoft.com/fwlink/p/?LinkID=270173) oder, wenn Sie Office 365 verwenden, betrieben von 21Vianet, unter „Erstellen von DNS-Einträgen bei einem beliebigen Anbieter für Office 365, betrieben von 21Vianet". 
+Mit Office 365 können Sie Ihre DNS-Einträge bei Ihrem DNS-Hostinganbieter verwalten oder Office 365 einrichten und die DNS-Einträge Ihrer Domäne für Sie verwalten lassen. Wenn Sie die Datensätze weiterhin verwalten, ändern Sie bestimmte Datensätze bei Bedarf, sodass sie auf Office 365 Dienste verweisen. Eine Liste der Domänenregistrierungsstellen, für die wir Schritt-für-Schritt-Anweisungen zum Hinzufügen der Einträge (inklusive spezifischer Werte für jeden Eintrag) bereitstellen, finden Sie unter [Erstellen von DNS-Einträgen für Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) oder, wenn Sie Office 365 verwenden, betrieben von 21Vianet, unter „Erstellen von DNS-Einträgen bei einem beliebigen Anbieter für Office 365, betrieben von 21Vianet". 
   
 Wenn Office 365 die DNS-Einträge Ihrer Domäne verwaltet, müssen Sie zuerst die Einträge Ihres Domänen-Nameserver so ändern, dass sie auf Office 365 verweisen, und dann richtet Office 365 Ihre Office 365 Dienste ein. Anschließend werden Ihre DNS-Einträge von Office 365 verwaltet.
   
@@ -49,7 +48,7 @@ Unabhängig davon, wo Ihre DNS-Einträge gehostet werden, können Sie die Eintr�
   
 Office 365 überprüft Ihre DNS-Datensätze proaktiv, um DNS-Probleme zu finden und bei der Problembehebung zu helfen. Wenn Ihre DNS-Einträge nicht mit dem übereinstimmen, was von uns erwartet wird, erhalten Sie eine Benachrichtigung im Microsoft 365 Admin Center sowie Informationen dazu, wie Sie die möglichen Probleme beheben können, die identifiziert wurden.
   
-Weitere Informationen finden Sie unter [Wie Office 365 DNS-Einträge verwaltet](https://go.microsoft.com/fwlink/p/?LinkID=270144) oder für Office 365, betrieben von 21Vianet, unter [Erstellen von DNS-Einträgen für Office 365, wenn Sie diese verwalten](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409).
+Weitere Informationen finden Sie unter [Wie Office 365 DNS-Einträge verwaltet](https://docs.microsoft.com/office365/admin/setup/domains-faq) oder für Office 365, betrieben von 21Vianet, unter [Erstellen von DNS-Einträgen für Office 365, wenn Sie diese verwalten](https://docs.microsoft.com/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
   
 ## <a name="sharing-a-domain"></a>Freigeben einer Domäne
 <a name="BKMK_ManagingDNSRecords"> </a>
@@ -63,6 +62,6 @@ Sie können Office 365 über einige E-Mail-Adressen für eine Domäne bei Office
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

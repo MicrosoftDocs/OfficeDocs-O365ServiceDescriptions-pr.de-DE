@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
-ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 8bd0fbb57d7555514f6aa58c8e1b95740d852f79
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130899"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523413"
 ---
 # <a name="help-and-training"></a>Hilfe und Schulungen
 
@@ -88,17 +88,17 @@ Von der Startseite der Office 365-Community aus können Kunden auf die folgenden
     
 - **Blogs** Das Technikblog zu Office 365 ist eine gute Ressource, um aktuelle Informationen zu Office 365-Onlinediensten zu erhalten und um mehr über die Vorteile der Office 365-Features zu erfahren. Zu den Themen gehören Produkteinblicke, neue Produktankündigungen, Kundeninterviews und eine Gäste-Blogreihe. 
     
-Weitere Informationen finden Sie in der [Office 365-Community](https://go.microsoft.com/fwlink/?LinkId=272057).
+Weitere Informationen finden Sie in der [Office 365-Community](https://techcommunity.microsoft.com/).
   
-## <a name="office-365-techcenter"></a>Office 365-TechCenter
+## <a name="manage-office-365-guidance"></a>Verwalten von Office 365 Anleitungen
 
-IT-Spezialisten in großen Organisationen können das Office 365 TechCenter im TechNet besuchen. Das Office 365-TechCenter bietet Anleitungen für komplexe Bereitstellungen für große Organisationen.
+IT-Experten großer Organisationen können die Homepage Manage Office 365 Documentation besuchen. Diese Seite enthält Links zu komplexen Bereitstellungsanleitungen für große Organisationen.
   
-Weitere Informationen finden Sie im [Office 365-TechCenter](https://go.microsoft.com/fwlink/?LinkId=272058).
+Weitere Informationen finden Sie unter [Manage Office 365](https://docs.microsoft.com/Office365/).
   
 ## <a name="other-self-help-resources"></a>Weitere Selbsthilferessourcen
 
-Neben der Office 365-Community und der Onlinehilfe bietet Office 365 die folgenden Ressourcen zur Selbsthilfe:
+Neben der Office 365 Community und der Online Hilfe umfasst Office 365 die folgenden Self-Help-Ressourcen:
   
 - **Tool zur Problembehandlung für Office 365** Sobald Sie eine Reihe von kurzen Fragen zu Ihrem Problem beantwortet haben, schlägt das Tool zur Problembehandlung für Office 365 basierend auf Ihren Antworten nützliche Tools und Informationen vor. Gehen Sie zur Seite mit dem [Tool zur Problembehandlung für Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) in der Office 365-Community, um das Tool zu verwenden. 
     
@@ -149,6 +149,4 @@ Hilfe- und Schulungsressourcen stehen in folgenden Sprachen zur Verfügung.
    
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
-  
-
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).

@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft – einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Internet und Microsoft Skype for Business Online: damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.'
-ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 04fb1fef3858595ee4d1fbedb810444852471855
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998487"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523384"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
 Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft – einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Internet und Microsoft Skype for Business Online: damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.
   
-In diesem Artikel werden die Features für Office 365 Bildungspläne (a1, a3 und A5) aufgeführt. Informationen zum Vergleich von Features für Unternehmens-und Unternehmenspläne finden Sie unter [Compare Office 365 for Business Plans](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda) oder, eine ausführlichere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter [Office 365 Service](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)descriptions.
+In diesem Artikel werden die Features für Office 365 Bildungspläne (a1, a3 und A5) aufgeführt. Informationen zum Vergleich von Features für Unternehmens-und Unternehmenspläne finden Sie unter [Compare Office 365 for Business Plans](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) oder, eine ausführlichere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter [Office 365 Service](../office-365-service-descriptions-technet-library.md)descriptions.
   
 Supportartikel und -informationen finden Sie unter [Office-Hilfe und Schulungen](https://support.office.com/).
   
@@ -31,13 +31,13 @@ Jeder Office 365 Bildungsplan umfasst eine Reihe von einzelnen Diensten, beispie
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Dienst** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <sup>3</sup> <br/> |
+|**Dienst** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
 |Office 365-Plattform  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online  <br/> |Ja<sup>5</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Online  <br/> |Ja<sup>7</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |
-|Office für das Internet  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office für das Web  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office-Anwendungen  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Project Online  <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |
 |Power BI  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
@@ -57,7 +57,7 @@ Systemanforderungen für Office 365 finden Sie unter [Systemanforderungen für O
   
 ## <a name="service-level-agreement"></a>Vereinbarung zum Servicelevel
 
-Informationen über Vereinbarungen zum Servicelevel finden Sie unter [Vereinbarung zum Servicelevel](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement). Informationen zu aktuellen Betriebszeiten für Office 365 finden Sie unter [Transparente Vorgänge in Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity).
+Informationen über Vereinbarungen zum Servicelevel finden Sie unter [Vereinbarung zum Servicelevel](../office-365-platform-service-description/service-level-agreement.md). Informationen zu aktuellen Uptime-Zeiten für Office 365 finden Sie unter [Recent World UpTimes](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes).
   
 ## <a name="platform-features"></a>Plattformfeatures
 
@@ -66,7 +66,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Office 365-Verwaltungsfeatures](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
+|**[Office 365-Verwaltungsfeatures](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Office 365-Suitefeatures](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -214,9 +214,9 @@ Das [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |[eDiscovery-Export](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[eDiscovery-Speicher (einschließlich abfragebasierte eDiscovery-Speicher)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Erweiterte eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|[Archivierung](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Archivierung](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Manuelle Aufbewahrungs-/Löschrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Einheitliche Überwachung](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) <sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Unified Auditing](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |||||
    
 > [!NOTE]
@@ -302,12 +302,12 @@ Die folgende Tabelle enthält Links zu vergleichen von Office für die Funktione
   
 ||||
 |:-----|:-----|:-----|
-|**Anwendung** <br/> |**Office für das Internet** <br/> |**Link zum detaillierten Funktionsvergleich** <br/> |
-|Word  <br/> |Word für das Internet <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel für das Internet <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote für das Internet <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint für das Internet <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio für das Internet  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|**Application** <br/> |**Office für das Web** <br/> |**Link zum detaillierten Funktionsvergleich** <br/> |
+|Word  <br/> |Word für das Web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel für das Web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote für das Web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint für das Web <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Visio für das Web  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Exchange Online-Features
 <a name="OfcOnline"> </a>
@@ -418,7 +418,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |Zugriff auf die remote verwendete Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ActiveSync-Richtlinien für mobile Geräte  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verwendungsbericht  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Outlook-Add-Ins und Outlook MAPI  <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -580,7 +580,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 |Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (keine Aufbewahrung aktiviert)  <br/> |Unbegrenzt<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Speicherkontingent für Ordner „Wiederherstellbare Elemente" im Archivpostfach (Aufbewahrung aktiviert)  <br/> |Unbegrenzt<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"  <br/> |2,75 Million  <br/> |2.75 Million  <br/> |2.75 Million  <br/> |
-|Maximale Anzahl von Unterordnern pro Postfachordner  <br/> |10,000  <br/> |10,000  <br/> |10,000  <br/> |
+|Maximale Anzahl von Unterordnern pro Postfachordner  <br/> |10.000  <br/> |10,000  <br/> |10,000  <br/> |
 |Warnung zur Anzahl der Unterordner pro Postfachordner  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
 |Maximale Ordnerhierarchie-Tiefe  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |Warnung zur Ordnerhierarchie-Tiefe  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -805,7 +805,7 @@ Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei hand
 
 OneDrive for Business (vormals SkyDrive Pro) ist ein persönlicher Onlinespeicherplatz in der Cloud. Verwenden Sie diesen, um Ihre Arbeitsdateien bequem und sicher geräteübergreifend zu speichern. Teilen Sie Ihre Dateien nach Bedarf mit Kollegen, und bearbeiten Sie Office-Dokumente in Echtzeit zusammen mit Office für das Internet. Synchronisieren Sie Dateien mit Ihrem lokalen Computer mithilfe der Sychronisierungs-App OneDrive for Business.
   
-OneDrive for Business ist in SharePoint Online enthalten und kann ebenfalls als eigenständiger Plan erworben werden. Die Option OneDrive für Unternehmen eigenständig umfasst Office für das Internet. Weitere Informationen finden Sie unter [Was ist OneDrive for Business?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US).
+OneDrive for Business ist in SharePoint Online enthalten und kann ebenfalls als eigenständiger Plan erworben werden. Die Option OneDrive für Unternehmen eigenständig umfasst Office für das Internet. Weitere Informationen finden Sie unter [Was ist OneDrive für Unternehmen?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
   
 ### <a name="system-requirements"></a>Systemanforderungen
 
@@ -825,9 +825,9 @@ Die folgenden qualifizierenden Pläne bieten unbegrenzten OneDrive-Speicher pro 
     
 Einem bestimmten OneDrive-Benutzer kann nicht mehr Speicherplatz zugewiesen werden. Sie können allerdings die Speichermenge reduzieren, die für einen Benutzer angezeigt wird. Wenn ein Office 365 Enterprise F1-Benutzer mehr Speicherplatz benötigt, müssen Sie ein Upgrade auf Office 365 Enterprise E1 durchführen.
   
-Informationen zu Dateitypen, die Sie OneDrive for Business nicht hinzufügen können, finden Sie unter [Dateitypen, die einer Liste oder Bibliothek nicht hinzugefügt werden können](https://support.office.com/article/types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3?ui=en-US&rs=en-US&ad=US).
+Informationen zu Dateitypen, die Sie OneDrive for Business nicht hinzufügen können, finden Sie unter [Dateitypen, die einer Liste oder Bibliothek nicht hinzugefügt werden können](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3).
   
-OneDrive for Business ist in SharePoint Online enthalten. Informationen zu zusätzlichen Beschränkungen in SharePoint Online wie Websitesammlungskontingenten, Dateiuploadbeschränkungen und Speicherbegrenzungen finden Sie unter [SharePoint Online: Softwaregrenzwerte und -beschränkungen](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498). 
+OneDrive for Business ist in SharePoint Online enthalten. Informationen zu zusätzlichen Beschränkungen in SharePoint Online wie Websitesammlungskontingenten, Dateiuploadbeschränkungen und Speicherbegrenzungen finden Sie unter [SharePoint Online: Softwaregrenzwerte und -beschränkungen](../sharepoint-online-service-description/sharepoint-online-limits.md).
   
 ### <a name="subscription-plans"></a>Abonnementpläne
 
@@ -1105,7 +1105,7 @@ In der folgenden Tabelle sind die SharePoint-Grenzwerte für jeden Office 365 Bi
 |Anzahl der Benutzer  <br/> |1-500.000<sup>6</sup> <br/> |1-500.000<sup>6</sup> <br/> |1-500.000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Sie können eine unbegrenzte Menge an zusätzlichem SharePoint Online-Speicher kaufen. Weitere Informationen finden Sie unter [Ändern von Speicherplatz für Ihr Abonnement](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der vom Papierkorb verwendete Speicherplatz wird beim Grenzwert für den Gesamtspeicher der Organisation mit berücksichtigt.<br/> 
+> <sup>1</sup> Sie können eine unbegrenzte Menge an zusätzlichem SharePoint Online-Speicher kaufen. Weitere Informationen finden Sie unter [Hinzufügen von Speicherplatz für Ihr Abonnement](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C). <br/> <sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der vom Papierkorb verwendete Speicherplatz wird beim Grenzwert für den Gesamtspeicher der Organisation mit berücksichtigt.<br/> 
 <sup>3</sup> Wenn Sie über ein Office 365-Abonnement und einen eigenständigen SharePoint Online-Plan verfügen, wird der Speicherplatz zusammengerechnet.<br/> 
 <sup>4</sup> SharePoint Online-Administratoren können Speichergrenzwerte für Websitesammlungen und Websites festlegen.<br/> 
 <sup>5</sup> Ohne OneDrive for Business-Websitesammlungen, die für jeden lizenzierten Benutzer erstellt wurden.<br/> 
@@ -1220,7 +1220,7 @@ In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, di
 |Voicemail  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Aufrufpläne in Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Anrufplan Inland, mit erforderlichem Add-On-Erwerb)  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |
 |[Aufrufpläne in Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Anrufplan Ausland, mit erforderlichem Add-On-Erwerb)  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |
-|[Guthaben für Kommunikation](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|[Guthaben für Kommunikationen](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Skype for Business Sprachanrufe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Sicherheit und Archivierung](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Chat- und Medienverschlüsselung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -1269,7 +1269,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
   
 #### <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte
 
-- **Grenzwert für Dateiübertragung** Die maximale Größe einer Datei, die bei einer Skype for Business Online-Chatunterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o).
+- **Grenzwert für Dateiübertragung** Die maximale Größe einer Datei, die bei einer Skype for Business Online-Chatunterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **Beschränkung der Anzahl von als Registerkarten geöffneten Unterhaltungen** Die maximale Anzahl der Unterhaltungsregisterkarten, die ein Skype for Business-Benutzer gleichzeitig öffnen kann 
     
@@ -1330,4 +1330,3 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 
 Informationen zu Minutenlimits in Skype for Business Online für internationale PSTN-Anrufe und Anrufe im Inland finden Sie unter [Skype for Business Online - Nutzungsbedingungen für PSTN-Dienste](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services).
   
-

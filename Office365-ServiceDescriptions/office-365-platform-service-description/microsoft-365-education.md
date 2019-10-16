@@ -9,28 +9,28 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel.
-ms.openlocfilehash: 09d91efc728184db881d328ce0e3d2c69159b348
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bfea07758698fa8cbbdafc06bfed96d2c9607bc
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776996"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523382"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel. 
   
-Microsoft 365 bietet ein vollständiges System, einschließlich Office 365, Windows 10 und Enterprise Mobility and Security. Die folgende Tabelle enthält die Features in Office 365 Education A1, A3 und A5 sowie die entsprechenden Features in Microsoft 365 Education A3 und A5. Einen Vergleich der Office 365-Features über Business- und Enterprise-Pläne hinweg finden Sie unter [Vergleich der Office 365 for Business-Pläne](https://go.microsoft.com/fwlink/?linkid=799177). Eine detailliertere Liste der Features finden Sie in der relevanten Dienstbeschreibung unter [Office 799177-Dienstbeschreibungen](https://go.microsoft.com/fwlink/?linkid=839510). Supportartikel und -informationen finden Sie unter [Office-Hilfe und Schulungen](https://support.office.com/).
+Microsoft 365 bietet ein vollständiges System, einschließlich Office 365, Windows 10 und Enterprise Mobility and Security. Die folgende Tabelle enthält die Features in Office 365 Education A1, A3 und A5 sowie die entsprechenden Features in Microsoft 365 Education A3 und A5. Einen Vergleich der Office 365-Features über Business- und Enterprise-Pläne hinweg finden Sie unter [Vergleich der Office 365 for Business-Pläne](https://go.microsoft.com/fwlink/?linkid=799177). Eine detailliertere Liste der Features finden Sie in der relevanten Dienstbeschreibung unter [Office 799177-Dienstbeschreibungen](../office-365-service-descriptions-technet-library.md). Supportartikel und -informationen finden Sie unter [Office-Hilfe und Schulungen](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Dienste und Features
 
-Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. Die folgende Tabelle enthält die in den jeweiligen Office 365- und Microsoft 365-Plänen verfügbaren Dienste, damit Sie die Lösung wählen können, die Ihren Anforderungen am besten entspricht. Detaillierte Informationen zu den Office 365-Diensten und Features finden Sie in der [Office 365 Education-Dienstbeschreibung](https://technet.microsoft.com/EN-US/library/mt844095.aspx). 
+Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. Die folgende Tabelle enthält die in den jeweiligen Office 365- und Microsoft 365-Plänen verfügbaren Dienste, damit Sie die Lösung wählen können, die Ihren Anforderungen am besten entspricht. Detaillierte Informationen zu den Office 365-Diensten und Features finden Sie in der [Office 365 Education-Dienstbeschreibung](office-365-education.md).
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Dienste** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Office 365-Plattform  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Office für das Internet  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office für das Web  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365 ProPlus  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online  <br/> |Ja<sup>1</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |
