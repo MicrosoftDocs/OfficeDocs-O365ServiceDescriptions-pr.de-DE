@@ -82,7 +82,7 @@
 ## [Workplace Analytics-Dienstbeschreibung](workplace-analytics-service-description.md)
 ## [MyAnalytics-Dienstbeschreibung](mya-service-description.md)
 ## [Power BI - Dienstbeschreibung](power-bi-service-description.md)
-## [Project Online-Dienstbeschreibung](project-online-service-description/project-online-service-description.md)
+## [Microsoft Project – Dienstbeschreibung](project-online-service-description/project-online-service-description.md)
 ### [Hauptfunktionalität](project-online-service-description/core-functionality.md)
 ### [Projektplanung](project-online-service-description/project-planning.md)
 ### [Vorgangsverwaltung](project-online-service-description/task-management.md)
