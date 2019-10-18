@@ -27,7 +27,7 @@ OneDrive ist ein Online-Speicherplatz in der Cloud, der für einzelne lizenziert
   
 OneDrive ist in den Microsoft 365-, Office 365- und SharePoint Online-Plänen enthalten und kann auch als eigenständiger Plan erworben werden. 
     
-Informationen zum Vergleichen von Plänen finden Sie unter [Vergleich von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) und [Vergleich von Plänen für OneDrive for Business](https://products.office.com/de-DE/onedrive-for-business/compare-onedrive-for-business-plans). 
+Informationen zum Vergleichen von Plänen finden Sie unter [Vergleich von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) und [Vergleich von Plänen für OneDrive for Business](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Eigenständige Pläne von OneDrive for Business enthalten Office im Web. 
