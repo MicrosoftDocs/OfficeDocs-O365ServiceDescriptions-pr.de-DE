@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442700"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581921"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -39,7 +39,7 @@ Informationen zu den in Exchange 2016 und Exchange Online unterstützten Outlook
   
 ## <a name="outlook-on-the-web"></a>Outlook im Web
 
-Outlook im Web ist eine webbasierte Version des Outlook-E-Mail-Programms, die mit Exchange Online verwendet wird. Sie ermöglicht Benutzern den Zugriff auf Ihre e-Mails, Kalender und Kontakte über einen Webbrowser, unabhängig davon, wo Sie mit dem Internet verbunden sind. Informationen zu unterstützten Browsern finden Sie im Artikel zu [unterstützten Browsern für Outlook im Web für Unternehmen](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
+Outlook im Web ist eine webbasierte Version des Outlook-E-Mail-Programms, die mit Exchange Online verwendet wird. Benutzer können auf Ihre e-Mails, Kalender und Kontakte über einen Webbrowser zugreifen, unabhängig davon, wo Sie mit dem Internet verbunden sind. Informationen zu unterstützten Browsern finden Sie im Artikel zu [unterstützten Browsern für Outlook im Web für Unternehmen](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
 Outlook im Web ist in zwei Clientversionen erhältlich, die beide mit Exchange Online verwendet werden können:
   
@@ -70,7 +70,7 @@ Exchange Online kann auch mit Geräten wie einem Blackberry verwendet werden.
 
 Outlook bietet Benutzern ein schnelles und intuitives E-Mail- und Kalender-Erlebnis, wie man es von einer modernen mobilen App erwartet, und ist dabei die einzige App, die die besten Features von Office 365 unterstützt. Outlook ist die einzige E-Mail-App, die speziell für das gesamte Office 365-Erlebnis entwickelt wurde, und bietet Benutzern ein einheitliches Erlebnis vom Desktop bis zum mobilen Gerät. Outlook bietet Intune, Enterprise Mobility + Security und Exchange-Steuerelemente, um Daten und Benutzer zu schützen.
   
-Möglichkeiten von Outlook:
+In Outlook können Benutzer Folgendes tun:
   
 - Verwalten Sie Ihren gesamten Tagesablauf über ein mobiles Gerät.
 
@@ -161,5 +161,5 @@ Weitere Informationen finden Sie unter [BlackBerry](../office-365-platform-servi
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   

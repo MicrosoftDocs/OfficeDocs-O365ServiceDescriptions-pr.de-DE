@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
-description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthält eine Liste von Plänen, die Exchange Online Protection sowie einen Vergleich der Features in diesen Plänen bereitstellt.
-ms.openlocfilehash: bc95415e4f348c326b36f300b39df3fe87f7e282
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Schutz bieten, sowie einen Vergleich der Features in diesen Plänen.
+ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334145"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581911"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
-Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthält eine Liste von Plänen, die Exchange Online Protection sowie einen Vergleich der Features in diesen Plänen bereitstellt.
+Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Schutz bieten, sowie einen Vergleich der Features in diesen Plänen.
 
 Microsoft Exchange Online Protection (EOP) ist ein cloudbasierter Dienst zum Filtern von E-Mails, mit dem Sie Ihre Organisation vor Spam und Schadsoftware schützen können. EOP kann die Verwaltung Ihrer Messagingumgebung und viele der beschwerlichen Aufgaben bei der Verwaltung lokaler Hardware und Software vereinfachen.
 

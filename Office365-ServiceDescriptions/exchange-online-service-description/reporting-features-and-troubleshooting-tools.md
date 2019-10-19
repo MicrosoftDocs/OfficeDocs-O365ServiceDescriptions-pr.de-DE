@@ -1,5 +1,5 @@
 ---
-title: Berichterstellungsfeatures und Tools zur Problembehandlung
+title: Berichtsfeatures und Tools zur Problembehandlung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online bietet eine Vielzahl von Berichtsfeatures sowohl in als auch außerhalb des Exchange Admin Center (EAC).
-ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442640"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581991"
 ---
-# <a name="reporting-features-and-troubleshooting-tools"></a>Berichterstellungsfeatures und Tools zur Problembehandlung
+# <a name="reporting-features-and-troubleshooting-tools"></a>Berichtsfeatures und Tools zur Problembehandlung
 
 Microsoft Exchange Online bietet eine Vielzahl von Berichtsfeatures sowohl in als auch außerhalb des Exchange Admin Center (EAC).
   
@@ -41,7 +41,7 @@ Sie können auch die Excel 2013-Berichtsarbeitsmappe verwenden, um Zusammenfassu
   
 ### <a name="reporting-using-web-services"></a>Reporting using web services
 
-Der Zugriff auf zusammenfassende und detaillierte Berichte zu Postfächern, Gruppen und Messagingdaten ist über den Rest/OData-Mandanten Berichterstattungswebdienst verfügbar, bei dem es sich um eine programmgesteuerte Schnittstelle handelt, mit der Sie benutzerdefinierte Berichte erstellen können. Weitere Informationen finden Sie unter [Office 365 Reporting-Webdienste](https://go.microsoft.com/fwlink/p/?LinkId=287041).
+Der Zugriff auf zusammenfassende und detaillierte Berichte über Postfächer, Gruppen und Messagingdaten ist mithilfe der Rest/OData-Mandanten Berichterstattungswebdienst, die eine programmgesteuerte Schnittstelle ist, mit der Sie benutzerdefinierte Berichte erstellen können, verfügbar. Weitere Informationen finden Sie unter [Office 365 Reporting-Webdienste](https://go.microsoft.com/fwlink/p/?LinkId=287041).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Berichtsfeatures und Problembehandlungstools in der Exchange-Verwaltungskonsole
 
@@ -49,7 +49,7 @@ Die folgenden Berichtsfeatures und Problembehandlungstools stehen in der Exchang
   
 ### <a name="trace-an-email-message"></a>Verfolgen einer E-Mail
 
-Mit dem Feature für die Nachrichtenablaufverfolgung können Sie als Administrator E-Mails verfolgen, während sie Ihren Exchange Online-Dienst durchlaufen. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. So können Sie in effizienter Weise Fragen der Benutzer beantworten und Probleme mit dem Nachrichtenfluss behandeln und müssen seltener den technischen Support um Unterstützung bitten.
+Mit dem Feature Nachrichtenablaufverfolgung können Sie als Administrator e-Mail-Nachrichten bei der Weitergabe Ihres Exchange Online Diensts befolgten. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. So können Sie in effizienter Weise Fragen der Benutzer beantworten und Probleme mit dem Nachrichtenfluss behandeln und müssen seltener den technischen Support um Unterstützung bitten.
   
 > [!IMPORTANT]
 > Verwenden Sie für die Behandlung allgemeiner Probleme und Trends die Berichtstools, um solche Daten abzurufen. Verwenden Sie bei speziellen Besonderheiten, bei denen Details zu einer Nachricht erforderlich sind, das Tool für die Nachrichtenablaufverfolgung. 
@@ -72,6 +72,6 @@ Mithilfe dieser Berichte können Sie Unified Messaging (UM) in Ihrer Exchange On
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
 

@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des Nachrichtenflusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor. '
-ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442600"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581451"
 ---
-# <a name="mail-flow"></a>Mail Flow
+# <a name="mail-flow"></a>Nachrichtenübermittlung
 
 Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des Nachrichtenflusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor.  
   
 ## <a name="custom-routing-of-outbound-email"></a>Benutzerdefiniertes Weiterleiten von ausgehenden E-Mails
 
-Microsoft Exchange Online kann von Ihrer Organisation gesendete E-Mails über einen lokalen Server oder einen gehosteten Dienst weiterleiten (gelegentlich als „Smarthost" bezeichnet). So kann Ihre Organisation spezielle Appliances zur Verhinderung von Datenverlust einsetzen, benutzerdefinierte Nachbearbeitungstasks auf ausgehende E-Mails anwenden und E-Mails an Geschäftspartner über private Netzwerke senden. Exchange Online unterstützt auch das Umschreiben von Adressen: Dabei werden ausgehende E-Mails über ein lokales Gateway weitergeleitet, das die Adressen ändert. Diese Funktion macht es möglich, Unterdomänen zu verbergen, E-Mails von einer Organisation mit mehreren Domänen wie E-Mails erscheinen zu lassen, die von einer Organisation mit nur einer einzigen Domäne gesendet wurden, oder von Partnern weitergeleitete E-Mails so erscheinen zu lassen, als ob sie von innerhalb Ihrer Organisation gesendet worden wären. Administratoren können das benutzerdefinierte E-Mail-Routing im Exchange Admin Center (EAC) konfigurieren.
+Microsoft Exchange Online kann von Ihrer Organisation gesendete E-Mails über einen lokalen Server oder einen gehosteten Dienst weiterleiten (gelegentlich als „Smarthost" bezeichnet). Auf diese Weise kann Ihre Organisation Datenverlust Verhinderung (DLP)-Appliances verwenden, benutzerdefinierte Post-Processing von ausgehenden e-Mails durchführen und e-Mails an Geschäftspartner über private Netzwerke zuzustellen. Exchange Online unterstützt auch das Umschreiben von Adressen: Dabei werden ausgehende E-Mails über ein lokales Gateway weitergeleitet, das die Adressen ändert. Mit diesem Feature können Sie Sub-Domains ausblenden, e-Mails aus einer Organisation mit mehreren Domänen als einzelne Domäne anzeigen oder Partner weitergeleitete e-Mails so erscheinen lassen, als ob Sie von innerhalb Ihrer Organisation gesendet würden. Administratoren können das benutzerdefinierte E-Mail-Routing im Exchange Admin Center (EAC) konfigurieren.
   
 Weitere Informationen finden Sie unter [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
@@ -96,5 +96,5 @@ Weitere Informationen zu den Anforderungen an Hybridbereitstellungen finden Sie 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Welche Funktionen in den einzelnen Office 365-Plänen, eigenständigen Optionen und lokalen Lösungen jeweils verfügbar sind, können Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md) nachlesen.
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie in der [Exchange Online Dienstbeschreibung](exchange-online-service-description.md).
   

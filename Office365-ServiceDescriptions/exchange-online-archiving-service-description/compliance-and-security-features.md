@@ -11,32 +11,30 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: a88ccb9ec0280b43d58c290210b569fb17e7f7a0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776476"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581881"
 ---
-# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Kompatibilitäts- und Sicherheitsfeatures der Exchange Online-Archivierung
+# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Kompatibilitäts-und Sicherheitsfeatures in Exchange Online Archivierung
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Kompatibilitätsfunktionen der Exchange Online-Archivierung
 
 Im folgenden Abschnitt werden die Kompatibilitätsfunktionen von Microsoft Exchange Online-Archivierung beschrieben.
   
 ### <a name="retention-policies"></a>Aufbewahrungsrichtlinien
-<a name="BKMK_Retentionpolicies"> </a>
 
-Exchange Online-Archivierung bietet Aufbewahrungsrichtlinien, die Organisationen dabei helfen, ihre Verpflichtungen hinsichtlich E-Mails und anderen Kommunikationsformen zu reduzieren. Mithilfe dieser Richtlinien haben Administratoren die Möglichkeit, Aufbewahrungseinstellungen für bestimmte Ordner des Posteingangs eines Benutzers anzuwenden. Administratoren können Benutzern auch ein Menü zu Aufbewahrungsrichtlinien zur Verfügung stellen, über das diese in Outlook 2010 oder Outlook Web App Richtlinien für bestimmte Elemente, Unterhaltungen oder Ordner aktivieren können. In Exchange Online-Archivierung verwalten Administratoren Aufbewahrungsrichtlinien aus der lokalen Infrastruktur.
+Exchange Online-Archivierung bietet Aufbewahrungsrichtlinien, die Organisationen dabei helfen, ihre Verpflichtungen hinsichtlich E-Mails und anderen Kommunikationsformen zu reduzieren. Mithilfe dieser Richtlinien haben Administratoren die Möglichkeit, Aufbewahrungseinstellungen für bestimmte Ordner des Posteingangs eines Benutzers anzuwenden. Administratoren können Benutzern auch ein Menü mit Aufbewahrungsrichtlinien erteilen und die Richtlinien auf bestimmte Elemente, Unterhaltungen oder Ordner anwenden, die Outlook 2010 oder höher oder Outlook im Internet verwenden sollen. In Exchange Online-Archivierung verwalten Administratoren Aufbewahrungsrichtlinien aus der lokalen Infrastruktur.
   
 Exchange Online-Archivierung bietet zwei Arten von Richtlinien: archivieren und löschen. Beide Typen können auf das gleiche Element oder den gleichen Ordner angewendet werden. Ein Benutzer kann beispielsweise eine E-Mail so markieren, dass sie nach einer bestimmten Anzahl von Tagen automatisch in das persönliche Archiv verschoben oder nach einer anderen festgelegten Anzahl von Tagen gelöscht wird.
   
-In Outlook 2010 und höher und Outlook Web App können Benutzer Aufbewahrungsrichtlinien auf Ordner, Unterhaltungen oder einzelne Nachrichten anwenden und außerdem die geltenden Aufbewahrungsrichtlinien und vorgesehenen Löschtermine von Nachrichten anzeigen. Benutzer von anderen E-Mail-Clients können E-Mails basierend auf vom Administrator bereitgestellten Aufbewahrungsrichtlinien löschen oder archivieren lassen, verfügen aber nicht über das gleiche Maß an Transparenz und Steuerung.
+Mit Outlook 2010 und höher und Outlook im Internet können Benutzer Aufbewahrungsrichtlinien auf Ordner, Unterhaltungen oder einzelne Nachrichten anwenden, und Sie können auch die angewendeten Aufbewahrungsrichtlinien und die erwarteten Löschungs Termine für Nachrichten anzeigen. Benutzer von anderen E-Mail-Clients können E-Mails basierend auf vom Administrator bereitgestellten Aufbewahrungsrichtlinien löschen oder archivieren lassen, verfügen aber nicht über das gleiche Maß an Transparenz und Steuerung.
   
 Die Aufbewahrungsrichtlinienfunktionen in Exchange Online-Archivierung entsprechen denen von Exchange Server 2010 Service Pack 2 (SP2) und höher. Administratoren können Aufbewahrungsrichtlinien aus lokalen Exchange Server 2010-Umgebungen (und höher) verwalten. Verwaltete Ordner, ein älterer Ansatz zur Verwaltung von Nachrichtendatensätzen, der in Exchange 2007 eingeführt wurde, stehen bei der Exchange Online-Archivierung nicht zur Verfügung und sind mit dieser nicht kompatibel. Weitere Informationen finden Sie unter [Aufbewahrungstags und Aufbewahrungsrichtlinien](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
-### <a name="in-place-hold-and-litigation-hold"></a>In-Situ-Speicher und Beweissicherungsverfahren
-<a name="BKMK_In_placehold"> </a>
+### <a name="in-place-hold-and-litigation-hold"></a>Compliance-Archiv und Aufbewahrung für eventuelle Rechtsstreitigkeiten
 
 Wenn Rechtsstreitigkeiten zu erwarten sind, sind Organisationen dazu verpflichtet, die für den Fall relevanten elektronisch gespeicherten Informationen einschließlich E-Mail aufzubewahren. Diese Erwartung kann eintreten, bevor die Details des Falls bekannt werden, und die Menge der aufzubewahrenden Daten ist häufig groß. Organisationen können alle E-Mails zu einem bestimmten Thema oder alle E-Mails für bestimmte Personen aufbewahren.
   
@@ -72,7 +70,6 @@ Weitere Informationen finden Sie unter [Compliance-Archiv](https://go.microsoft.
 > Das standardmäßige Kontingent für den Ordner „Wiederherstellbare Elemente" beträgt 100 GB für Exchange Online-Archivierung-Benutzer. 
   
 ### <a name="in-place-ediscovery"></a>Compliance-eDiscovery
-<a name="BKMK_In_placehold"> </a>
 
 Exchange Online-Archivierung unterstützt Compliance-eDiscovery für das Durchsuchen von Postfachinhalten in einer Organisation. Unter Verwendung der Exchange-Verwaltungskonsole oder von Remote Windows PowerShell von einem lokalen Exchange 2013-Server können Administratoren oder autorisierte Discovery-Manager verschiedene Postfachelemente durchsuchen, darunter E-Mails, Anhänge, Kalendertermine, Aufgaben und Kontakte. Mit der Compliance-eDiscovery-Funktion können primäre Postfächer und Archive gleichzeitig durchsucht werden. Die umfangreichen Filterfunktionen umfassen Absender, Empfänger, Nachrichtentyp, Sende-/Empfangsdatum und Cc/Bcc sowie die Verwendung der KQL(Keyword Query Language)-Syntax. Weitere Informationen finden Sie unter [Compliance-eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
@@ -100,7 +97,7 @@ TLS wird zum Verschlüsseln der Verbindung zwischen E-Mail-Servern verwendet, um
 
 Bei Clientverbindungen zu Exchange Online-Archivierung wird die Sicherheit anhand der folgenden Verschlüsselungsmethoden erhöht:
   
-- SSL wird zum Sichern von Outlook-, Outlook Web App- und Exchange Web Services-Datenverkehr über den TCP-Port 443 verwendet.
+- SSL wird zum Sichern von Outlook, Outlook im Internet und Exchange Webdienste-Datenverkehr mithilfe von TCP-Port 443 verwendet.
     
 - Clientverbindungen zu lokalen Servern ändern sich mit der Einführung von Exchange Online-Archivierung nicht.
     
@@ -110,17 +107,17 @@ Exchange Online-Archivierung speichert S/MIME(Secure/Multipurpose Internet Mail 
   
 In ähnlicher Weise speichert Exchange Online-Archivierung Nachrichten, die anhand von clientseitigen, Drittanbieter-Verschlüsselungslösungen wie Pretty Good Privacy (PGP) verschlüsselt wurden.
   
-### <a name="information-rights-management"></a>Verwaltung von Informationsrechten
+### <a name="information-rights-management"></a>Information Rights Management
 
 Exchange Online-Archivierung bietet keine gehosteten Dienste für die Verwaltung von Informationsrechten, doch Administratoren können lokale Active Directory-Rechteverwaltungsdienste nutzen. Wenn ein AD RMS-Server bereitgestellt wird, kann Outlook direkt mit dem Server kommunizieren und ermöglicht somit den Benutzern das Verfassen und Lesen von IRM-geschützten Nachrichten. Wenn die Interoperabilität zwischen AD RMS-Server und lokaler Exchange-Umgebung konfiguriert wurde, können Benutzer IRM-geschützte Nachrichten verfassen und lesen.
   
-#### <a name="support-for-irm-in-outlook-web-app"></a>Unterstützung der IRM-Verwaltung in Outlook Web App
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Unterstützung für IRM in Outlook im Internet
 
-Benutzer können in Outlook Web App wie in Outlook IRM-geschützte Nachrichten lesen und verfassen. IRM-geschützte Nachrichten in Outlook Web App können über die Browser Internet Explorer, Firefox, Safari und Chrome angezeigt werden (ohne erforderliches Plug-in). Die Nachrichten bieten die Volltextsuche, die Unterhaltungsansicht und das Vorschaufenster. Dafür muss die Interoperabilität zwischen dem AD RMS(Active Directory Rights Management Services)-Server und der lokalen Exchange-Umgebung konfiguriert werden.
+Benutzer können IRM-geschützte Nachrichten nativ in Outlook im Web lesen und erstellen, so wie Sie es in Outlook tun können. Auf IRM-geschützte Nachrichten in Outlook im Internet kann über Internet Explorer, Firefox, Safari und Chrome (ohne Plug-in erforderlich) zugegriffen werden. Die Nachrichten bieten die Volltextsuche, die Unterhaltungsansicht und das Vorschaufenster. Dafür muss die Interoperabilität zwischen dem AD RMS(Active Directory Rights Management Services)-Server und der lokalen Exchange-Umgebung konfiguriert werden.
   
 #### <a name="irm-search"></a>IRM-Suche
 
-IRM-geschützte Nachrichten werden indiziert und sind durchsuchbar, einschließlich Header, Betreff, Text und Anlagen. Benutzer können IRM-geschützte Elemente in Outlook und Outlook Web App durchsuchen. Administratoren können IRM-geschützte Elemente über In-Situ-eDiscovery oder unter Verwendung des **Search-Mailbox** -Cmdlets durchsuchen. 
+IRM-geschützte Nachrichten sind indiziert und durchsuchbar, einschließlich Kopfzeilen, Betreff, Text und Anlagen. Benutzer können IRM-geschützte Elemente in Outlook und Outlook im Internet durchsuchen, und Administratoren können IRM-geschützte Elemente mithilfe von in-Place eDiscovery oder mit dem Cmdlet **Search-Mailbox** durchsuchen.
   
 ### <a name="auditing"></a>Überwachung
 

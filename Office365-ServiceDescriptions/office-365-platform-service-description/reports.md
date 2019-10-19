@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Administratoren von Microsoft Office 365 können Berichte anzeigen, in denen gezeigt wird, wie Ihre Organisation Office 365 Dienste verwendet. Mithilfe dieser Berichte können Sie Probleme identifizieren, Daten filtern und Daten in Microsoft Excel herunterladen. Sie können auch Ihre eigenen Berichte mithilfe von Office 365-Berichterstellungswebdiensten erstellen. Exchange Online- und Exchange Online Protection-Administratoren (EOP) können E-Mail-Schutzberichte in Office 365 verwenden, um Daten über Schadsoftware, Spam und Regelerkennungen anzuzeigen.
-ms.openlocfilehash: 4d0592c9e232d4bdb5fd86904a8ca0d8c3ef7a74
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 3cc3423998b975a0bd5aaa61de48359ec29ca8aa
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777356"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582081"
 ---
 # <a name="reports"></a>Berichte
 
@@ -27,6 +27,6 @@ Weitere Informationen finden Sie unter [Anzeigen und Herunterladen von Berichten
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
   
 

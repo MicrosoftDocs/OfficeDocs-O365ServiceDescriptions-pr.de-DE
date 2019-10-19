@@ -1,5 +1,5 @@
 ---
-title: Beschränkungen von Exchange Online Protection
+title: Exchange Online Schutz Grenzwerte
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Beschränkungen sind nicht konfigurierbar, sofern nicht anders angegeben.
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+description: Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Grenzwertesind nicht konfigurierbar, sofern nicht anders angegeben.
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231393"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581465"
 ---
-# <a name="exchange-online-protection-limits"></a>Beschränkungen von Exchange Online Protection
+# <a name="exchange-online-protection-limits"></a>Exchange Online Schutz Grenzwerte
 
-Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Beschränkungen sind nicht konfigurierbar, sofern nicht anders angegeben. 
+Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Grenzwertesind nicht konfigurierbar, sofern nicht anders angegeben. 
   
 > [!TIP]
 > Weitere Informationen zu Beschränkungen in Exchange Online finden Sie unter [Exchange Online-Begrenzungen](../exchange-online-service-description/exchange-online-limits.md). Die Grenzwerte für Transportregeln gelten auch für Kunden der eigenständigen Lösung von EOP. Die Grenzwerte für Empfängerrate und Nachrichtenrate für Exchange Online gelten nicht für Kunden der eigenständigen Lösung von EOP. 

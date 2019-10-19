@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte an, mit deren Hilfe Sie den allgemeinen Status und die Integrität Ihrer Organisation ermitteln können. Einige Berichte stehen im Microsoft 365 Admin Center zur Verfügung, während andere im Exchange Admin Center (EAC) verfügbar sind.
-ms.openlocfilehash: b87d81210cce585d8e5ccf9d8d52456286bfab91
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b8afb8a404fb322d70ce5d393c5a5e70cc5af6aa
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442710"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581901"
 ---
 # <a name="reporting-and-message-trace"></a>Berichterstellung und Nachrichtenablaufverfolgung
 
@@ -40,8 +40,8 @@ Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Sie können de
 
 ## <a name="message-trace"></a>Nachrichtenablaufverfolgung
 
-Das Feature Nachrichtenablaufverfolgung in der Exchange-Verwaltungskonsole ermöglicht es Ihnen als Administrator, e-Mail-Nachrichten beim Durchlaufen des EoP zu verfolgen. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. Außerdem wird gezeigt, welche Aktionen in der Nachricht vorgenommen wurden, bevor der endgültige Status erreicht wurde. Wenn Sie detaillierte Informationen zu einer bestimmten Nachricht erhalten, können Sie Ihre Benutzer Fragen effizient beantworten, Probleme mit dem Nachrichtenfluss beheben, Richtlinienänderungen überprüfen und die Notwendigkeit entschärfen, den technischen Support um Unterstützung zu bitten. Weitere Informationen finden Sie unter [Ausführen einer Nachrichtenablaufverfolgung und Anzeigen der Ergebnisse im Exchange Admin Center](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
+Mit dem Feature Nachrichtenablaufverfolgung in der Exchange-Verwaltungskonsole können Sie als Administrator e-Mail-Nachrichten beim Durchlaufen des EoP verfolgen. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. Außerdem wird gezeigt, welche Aktionen in der Nachricht vorgenommen wurden, bevor der endgültige Status erreicht wurde. Wenn Sie detaillierte Informationen zu einer bestimmten Nachricht erhalten, können Sie Ihre Benutzer Fragen effizient beantworten, Probleme mit dem Nachrichtenfluss beheben, Richtlinienänderungen überprüfen und die Notwendigkeit entschärfen, den technischen Support um Unterstützung zu bitten. Weitere Informationen finden Sie unter [Ausführen einer Nachrichtenablaufverfolgung und Anzeigen der Ergebnisse im Exchange Admin Center](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).

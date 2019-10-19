@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online bietet umfangreiche Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
-ms.openlocfilehash: 17c53172e9b49661118c6e33754246c627e08540
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776826"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581971"
 ---
-# <a name="high-availability-and-business-continuity"></a>High Availability and Business Continuity
+# <a name="high-availability-and-business-continuity"></a>Hohe Verfügbarkeit und Geschäftskontinuität
 
 Microsoft Exchange Online bietet umfangreiche Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
   
@@ -35,9 +35,9 @@ Administratoren können Exchange Online Postfächer löschen, indem Sie das Micr
   
 ## <a name="deleted-item-recovery"></a>Wiederherstellung gelöschter Elemente
 
-In Exchange Online können Benutzer Elemente wiederherstellen, die sie aus einem E-Mail-Ordner, einschließlich des Ordners "Gelöschte Elemente", gelöscht haben. Wenn ein Element gelöscht wird, bleibt es im Ordner "Gelöschte Elemente" erhalten. Es wird dort aufbewahrt, bis es entweder manuell vom Benutzer oder automatisch durch Aufbewahrungsrichtlinien entfernt wird. Administratoren können Aufbewahrungsrichtlinien mit der Exchange-Verwaltungskonsole oder der Remote-Windows PowerShell anpassen.
+Exchange Online ermöglicht Benutzern das Wiederherstellen von Elementen, die aus einem beliebigen e-Mail-Ordner gelöscht wurden, einschließlich des Ordners "Gelöschte Elemente". Wenn ein Element gelöscht wird, bleibt es im Ordner "Gelöschte Elemente" erhalten. Es wird dort aufbewahrt, bis es entweder manuell vom Benutzer oder automatisch durch Aufbewahrungsrichtlinien entfernt wird. Administratoren können Aufbewahrungsrichtlinien mit der Exchange-Verwaltungskonsole oder der Remote-Windows PowerShell anpassen.
   
-Nach der Entfernung eines Elements aus dem Ordner "Gelöschte Elemente" wird es weitere 14 Tage lang im Ordner "Wiederherstellbare Elemente" aufbewahrt, bevor es dauerhaft entfernt wird. Administratoren können diese Zeitspanne jedoch auf maximal 30 Tage erhöhen, indem sie die Remote-Windows PowerShell verwenden. Mithilfe der Funktion "Gelöschte Elemente wiederherstellen" in Outlook Web App oder Outlook können Benutzer das Element während dieses Zeitraums wiederherstellen. [Hier können Sie nachlesen, wie Sie den Aufbewahrungszeitraum für gelöschte Elemente ändern](https://go.microsoft.com/fwlink/p/?LinkId=286940).
+Nachdem ein Element aus dem Ordner "Gelöschte Elemente" entfernt wurde, wird es in einem Ordner "Wiederherstellbare Elemente" für weitere 14 Tage aufbewahrt, bevor es endgültig entfernt wird, Administratoren können dies jedoch mit Remote Windows PowerShell auf maximal 30 Tage verlängern. Benutzer können das Element während dieses Zeitraums wiederherstellen, indem Sie das Feature Gelöschte Elemente wiederherstellen in Outlook im Internet oder Outlook verwenden. Hier erfahren Sie, wie Sie [den Aufbewahrungszeitraum für gelöschte Elemente ändern](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
 Wenn ein Benutzer ein Element manuell aus dem Ordner "Wiederherstellbare Elemente" gelöscht hat, kann ein Administrator das Element mit der Funktion zur Wiederherstellung einzelner Elemente und der Remote-Windows PowerShell innerhalb desselben Zeitraums wiederherstellen. Die Wiederherstellung einzelner Elemente wird bei der Erstellung eines Postfachs standardmäßig aktiviert. Weitere Informationen finden Sie unter [Aktivieren oder Deaktivieren der Wiederherstellung einzelner Elemente für ein Postfach](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
@@ -45,6 +45,5 @@ Sollen Nachrichten länger als 30 Tage im Ordner "Wiederherstellbare Elemente" a
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
-

@@ -1,5 +1,5 @@
 ---
-title: Sprachnachrichtendienste
+title: Sprachnachrichten Dienste
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442560"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581431"
 ---
-# <a name="voice-message-services"></a>Sprachnachrichtendienste
+# <a name="voice-message-services"></a>Sprachnachrichten Dienste
 
 ## <a name="voice-mail"></a>Voicemail
 
@@ -44,11 +44,11 @@ Die Features der Voicemessagingdienste in Exchange Online sind mit den Features 
     
 - Message Waiting Indicator (Details siehe [MWI in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271794)) 
     
-- Regeln für die Mailboxansage (Details siehe Artikel zum Thema [Ermöglichen der Anrufweiterleitung für Voicemailbenutzer](https://go.microsoft.com/fwlink/p/?LinkId=271795)) 
+- Mailboxansageregeln (Weitere Informationen finden Sie unter [Allow Voice Mail users to forward Calls](https://go.microsoft.com/fwlink/p/?LinkId=271795) for Details).
     
-- Geschützte Voicemail in Exchange Online (Details siehe [Schützen von Voicemail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796)) 
+- Geschützte Voicemail in Exchange Online (Weitere Informationen finden Sie unter [Protect Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796) for Details).
     
-- Voicemailvorschau (Liste unterstützter Sprachen siehe [Zulassen der Anzeige von Voicemailtranskriptionen für Benutzer](https://go.microsoft.com/fwlink/p/?LinkId=271797)) 
+- Voicemailvorschau (siehe [zulassen, dass Benutzer ein Voicemail-Transkript](https://go.microsoft.com/fwlink/p/?LinkId=271797) für eine Liste unterstützter Sprachen anzeigen können).
     
 - Sprachzugriff auf E-Mail, Voicemail, Kalender, persönliche Kontakte und persönliche Kontaktgruppen.
     
@@ -56,10 +56,16 @@ Die Features der Voicemessagingdienste in Exchange Online sind mit den Features 
     
 - Administratoren konfigurieren und verwalten die Interoperabilität von Voicemessagingdiensten mithilfe der Exchange-Verwaltungskonsole.
     
-Weitere Informationen zu Voicemailfeatures finden Sie im Artikel zum Thema [Voicemail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+Weitere Informationen zu Voicemail-Funktionen finden Sie unter [Voicemail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
   
 > [!IMPORTANT]
-> Die automatische Spracherkennung (ASR) ist nicht verfügbar in der Menünavigation oder Verzeichnissuche für Outlook Voice Access-Benutzer oder Anrufer bei der automatischen Telefonzentrale, die Sprachbefehle verwenden. > Der Kunde muss eine Telefonieverbindung zum öffentlichen Telefonnetz (PSTN) mithilfe eines VoIP-Gateways und einer Nebenstellenanlage, einer IP-Nebenstellenanlage oder Skype for Business Server 2015 bereitstellen. > Der Kunde muss die lokalen SBC-Hardwaregeräte bereitstellen und sicherstellen, dass die SBCs ordnungsgemäß konfiguriert sind, um eine Verbindung zu den Online-Voicemaildiensten herzustellen. Dazu gehört das Konfigurieren der entsprechenden Sicherheitsebene, indem Zertifikate sowie öffentliche und private IP-Schnittstellen verwendet und die richtigen TCP-Ports in den lokalen Firewalls aktiviert werden. > Gehostete Voicemail steht nur Abonnenten von Exchange Online Plan 2 und Office 365 Enterprise E3 zur Verfügung. 
+> Die automatische Spracherkennung (ASR) ist nicht verfügbar in der Menünavigation oder Verzeichnissuche für Outlook Voice Access-Benutzer oder Anrufer bei der automatischen Telefonzentrale, die Sprachbefehle verwenden. 
+>
+> Der Kunde muss eine telefonieverbindung aus dem Festnetz (Public Switched Telephone Network, PSTN) mit einem VoIP-Gateway und einer Nebenstellenanlage, einer IP-Nebenstellenanlage oder Skype for Business Server 2015 bereitstellen. 
+>
+> Der Kunde muss die lokalen SBC-Hardwaregeräte bereitstellen und sicherstellen, dass die SBCs ordnungsgemäß konfiguriert sind, um eine Verbindung zu den Online-Voicemaildiensten herzustellen. Dazu gehört das Konfigurieren der entsprechenden Sicherheitsebene, indem Zertifikate sowie öffentliche und private IP-Schnittstellen verwendet und die richtigen TCP-Ports in den lokalen Firewalls aktiviert werden. 
+>
+> Gehostete Voicemail steht nur Exchange Online Plan 2-und Office 365 Enterprise E3-Abonnenten zur Verfügung. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilität von Voicemails eines Drittanbieters
 
@@ -74,6 +80,6 @@ Organisationen können Skype for Business Online als eigenständigen Dienst oder
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
 

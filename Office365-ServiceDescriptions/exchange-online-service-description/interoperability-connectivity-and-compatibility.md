@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776796"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581831"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilität, Konnektivität und Kompatibilität
 
@@ -28,7 +28,7 @@ Bei Kunden, die Microsoft Lync Server 2010, Lync Server 2013 oder Microsoft Offi
   
 Lokale Bereitstellungen von Lync Server 2010 und Lync Server 2013 unterstützen die Interoperabilität mit Exchange Online auf zwei Arten:
   
-- Sofortnachrichten- und Anwesenheits-Interoperabilität in Outlook Web App
+- Interoperabilität von Sofortnachrichten und Anwesenheit in Outlook im Internet
     
 - Interoperabilität von Voicemails
     
@@ -50,7 +50,7 @@ Exchange Online bietet die folgenden Funktionen zum Herstellen einer Verbindung 
     
 ### <a name="exchange-web-services"></a>Exchange-Webdienste
 
-Exchange-Webdienste (Exchange Web Services, EWS) ist die bevorzugte Entwicklungs-API für Exchange Server und Exchange Online. Mit Exchange-Webdienste oder der Exchange-Webdienste-MAPI können Administratoren auf mit Exchange Online gespeicherte Daten aus Anwendungen zugreifen, die lokal in Azure oder in anderen gehosteten Diensten ausgeführt werden. Mit Exchange-Webdiensten können Administratoren spezielle Aktionen ausführen, z. B. Inhalte eines Postfachs abfragen, ein Kalenderereignis veröffentlichen, eine Aufgabe erstellen oder eine bestimmte Aktion basierend auf dem Inhalt einer E-Mail-Nachricht auslösen. Exchange Online aktiviert Exchange-Webdienste-Funktionen, indem Kundenkonten Anwendungsberechtigungen gewährt werden. Diese Berechtigungen ermöglichen es der Kundenanwendung, auf das Anwendungspostfach zuzugreifen und Inhalte hinzuzufügen. Exchange-Identitätswechsel ist eine Methode, um Anwendungsberechtigungen zu gewähren. Informationen dazu, wie Sie Exchange-Webdienste mit Exchange Online verwenden können, finden Sie in den technischen Artikeln im Exchange Online Developer Center.
+Exchange-Webdienste (Exchange Web Services, EWS) ist die bevorzugte Entwicklungs-API für Exchange Server und Exchange Online. Mithilfe von EWS oder der verwaltete EWS-API können Administratoren auf Daten zugreifen, die mit Exchange Online von Anwendungen gespeichert werden, die lokal, in Azure oder in anderen gehosteten Diensten ausgeführt werden. Mit EWS können Administratoren spezielle Aktionen durchführen, beispielsweise das Abfragen des Inhalts eines Postfachs, das Veröffentlichen eines Kalenderereignisses, das Erstellen einer Aufgabe oder das Auslösen einer bestimmten Aktion basierend auf dem Inhalt einer e-Mail-Nachricht. Exchange Online aktiviert Exchange-Webdienste-Funktionen, indem Kundenkonten Anwendungsberechtigungen gewährt werden. Diese Berechtigungen ermöglichen es der Kundenanwendung, auf das Anwendungspostfach zuzugreifen und Inhalte hinzuzufügen. Exchange-Identitätswechsel ist eine Methode, um Anwendungsberechtigungen zu gewähren. Informationen dazu, wie Sie Exchange-Webdienste mit Exchange Online verwenden können, finden Sie in den technischen Artikeln im Exchange Online Developer Center.
   
 ### <a name="smtp-relay"></a>SMTP-Relay
 
@@ -58,6 +58,6 @@ Exchange Online kann als ein SMTP-Zustelldienst verwendet werden, um von Fax-Gat
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
 

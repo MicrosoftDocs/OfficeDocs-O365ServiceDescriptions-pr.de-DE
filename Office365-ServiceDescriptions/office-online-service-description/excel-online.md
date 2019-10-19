@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442750"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595303"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -96,6 +96,10 @@ Um die Rechtschreibung für Text in Ihrem Arbeitsblatt zu**überprüfen,** wähl
 ## <a name="comment-creation"></a>Comment creation
 
 Sie können Kommentare in Excel für das Internet einfügen, bearbeiten und löschen. Sie können auch einen Kommentar Thread auflösen, der ihn in Bearbeitungen und neue Kommentare schließt, ihn jedoch an der richtigen Stelle lässt. Auf diese Weise können Sie den Thread erneut öffnen, um Kommentare bei Bedarf zu kommentieren. Erfahren Sie mehr über das [Hinzufügen von Kommentaren in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+
+## <a name="convert-a-table-to-a-range"></a>Konvertieren einer Tabelle in einen Bereich
+
+Nachdem Sie eine Excel-Tabelle erstellt haben, möchten Sie möglicherweise nur die Tabellenformatvorlage ohne die Tabellenfunktionalität. Wenn Sie die Arbeit mit Ihren Daten in einer Tabelle beenden möchten, ohne jegliche Formatierung von Tabellenformatvorlagen zu verlieren, können Sie die Tabelle in einen regulären Datenbereich im Arbeitsblatt umwandeln. Erfahren Sie mehr über das [Konvertieren einer Excel-Tabelle in einen Datenbereich](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
@@ -175,11 +179,15 @@ Navigieren Sie mit dem GoTo-Feature schnell in Ihrer Tabellenkalkulation. Geben 
  
 ## <a name="group-data"></a>Gruppendaten
 
-Sie können Zeilen und Spalten in Ihrer Excel-Tabelle für das webspreadsheet gruppieren oder gliedern. Erfahren Sie mehr über [das Gruppieren von Daten in Excel für das Internet](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
+Sie können Zeilen und Spalten in Ihrer Excel-Tabelle für das webspreadsheet gruppieren oder gliedern. Tastenkombinationen vereinfachen das schnelle erweitern oder reduzieren der von Ihnen erstellten Gruppen. Erfahren Sie mehr über [das Gruppieren von Daten in Excel für das Internet](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
 Sie können Zeilen, Spalten und Blätter in einer Arbeitsmappe in Excel für das Internet ausblenden und einblenden.
+
+## <a name="ideas"></a>Ideen
+
+Mithilfe von ideas in Excel können Sie Ihre Daten anhand von allgemeinen visuellen Zusammenfassungen, Trends und Mustern besser verstehen. Wählen Sie einfach eine Zelle in einem Datenbereich aus, und wählen Sie dann auf der Registerkarte **Start** die Schaltfläche **Ideen** aus. in Excel werden Ihre Daten analysiert und in einem Aufgabenbereich interessante visuelle Informationen zurückgegeben. Erfahren Sie mehr über die [Ideen in Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -287,7 +295,7 @@ Zeigen Sie datenschnitte in Ihrem Arbeitsblatt an, und Filtern Sie die Daten, in
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-In Excel für das Internet können Sie alle Arbeitsblätter anzeigen und neu anordnen, Daten sortieren und Filtern sowie die Details von PivotTables genauer ausführen. Erfahren Sie mehr über das [Sortieren und Filtern von Daten](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+In Excel für das Internet können Sie alle Arbeitsblätter anzeigen und neu anordnen, Daten sortieren und Filtern (von oben nach unten oder von links nach rechts) und in die Details von PivotTables einbohren. Erfahren Sie mehr über das [Sortieren und Filtern von Daten](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Überprüfung und Kompatibilität von Arbeitsmappen
 

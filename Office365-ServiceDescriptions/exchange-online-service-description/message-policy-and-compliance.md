@@ -1,5 +1,5 @@
 ---
-title: Messagingrichtlinie und -einhaltung
+title: Nachrichten Richtlinie und-Kompatibilität
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231423"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581961"
 ---
-# <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
+# <a name="message-policy-and-compliance"></a>Nachrichten Richtlinie und-Kompatibilität
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archivieren von Exchange Online-basierten Postfächern
 
 Exchange Online-Postfächer befinden sich in der Cloud und müssen unter Verwendung eindeutiger Hostingumgebungen archiviert werden. In manchen Fällen kann Exchange Online auch zur Archivierung von lokalen Postfächern in der Cloud verwendet werden. In diesem Abschnitt werden die Optionen für die Archivierung mit Exchange Online beschrieben.
   
-Exchange Online bietet integrierte Archivierungsfunktionen für cloudbasierte Postfächer, einschließlich eines Compliance-Archivs, dass Benutzern einen praktischen Speicherort für ältere E-Mails zur Verfügung stellt. Ein Compliance-Archiv ist ein spezieller Postfachtyp, der in Outlook und Outlook Web App neben den primären Postfachordnern eines Benutzers angezeigt wird. Benutzer können auf das Archiv genauso zugreifen und es durchsuchen, wie sie es von ihren primären Postfächern gewohnt sind. Die Verfügbarkeit der Funktionalität hängt vom jeweiligen Client ab:
+Exchange Online bietet integrierte Archivierungsfunktionen für cloudbasierte Postfächer, einschließlich eines Compliance-Archivs, dass Benutzern einen praktischen Speicherort für ältere E-Mails zur Verfügung stellt. Bei einem in-Place-Archiv handelt es sich um einen speziellen Typ von Postfach, der neben den primären Postfachordnern eines Benutzers in Outlook und Outlook im Internet angezeigt wird. Benutzer können auf das Archiv genauso zugreifen und es durchsuchen, wie sie es von ihren primären Postfächern gewohnt sind. Die Verfügbarkeit der Funktionalität hängt vom jeweiligen Client ab:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010 und Outlook Web App** Benutzer haben Zugriff auf sämtliche Features des Archivs sowie auf Features zur Einhaltung der Richtlinientreue, wie die Steuerung der Aufbewahrungs- und Archivierungsrichtlinien. 
+- **Outlook 2016, Outlook 2013, Outlook 2010 und Outlook im Internet** Benutzer haben Zugriff auf die vollständigen Features des Archivs sowie auf verwandte Compliance-Features wie die Steuerung der Aufbewahrungs-und archivrichtlinien. 
     
 - **Outlook 2007** Benutzer erhalten grundlegenden Support für das Compliance-Archiv. Nicht alle Features für die Archivierung und Richtlinientreue sind jedoch verfügbar. So können Benutzer beispielsweise keine Aufbewahrungs- und Archivierungsrichtlinien für Postfachelemente anwenden, sondern müssen stattdessen auf Richtlinien vertrauen, die vom Administrator bereitgestellt werden. 
     
@@ -45,7 +45,8 @@ In einem persönlichen Archiv können nur die Nachrichtendaten eines Benutzers g
 > [!IMPORTANT]
 > - Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung in Fällen zu verweigern, in denen ein Postfacharchiv nicht in einem persönlichen Szenario verwendet wird. 
 > - Das Compliance-Archiv hat spezielle Lizenzierungsanforderungen für Outlook-Benutzer. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das persönliche Archiv zugreifen zu können. 
-> - Exchange Online unterstützt das Cmdlet _New-MailboxImportRequest_ Windows PowerShell von Exchange Server 2010 Service Pack 1 oder höher für den Administrator gesteuerten Import von PST-Dateien in ein persönliches Archiv nicht. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren. 
+> - Exchange Online unterstützt das Cmdlet _New-MailboxImportRequest_ Windows PowerShell von Exchange Server 2010 Service Pack 1 oder höher für den Administrator gesteuerten Import von PST-Dateien in ein persönliches Archiv nicht. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren.
+
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Cloudbasierte Archivierung von lokalen Postfächern
 
 Mit der Microsoft Exchange Online-Archivierung, einer gehosteten Archivierungslösung von Microsoft, kann Exchange Online zur cloudbasierten Archivierung von Postfächern verwendet werden, die auf lokalen Postfachservern mit Exchange Server 2010 oder höher gehostet werden. Hierfür muss sich die lokale Organisation im Hybridmodus befinden oder für die Exchange Online-Archivierung eingerichtet werden.
@@ -55,13 +56,13 @@ Mit der Microsoft Exchange Online-Archivierung, einer gehosteten Archivierungsl�
   
 ## <a name="retention-tags-and-retention-policies"></a>Aufbewahrungstags und Aufbewahrungsrichtlinien
 
-Exchange Online bietet Aufbewahrungsrichtlinien, die Organisationen dabei helfen, ihre Verpflichtungen hinsichtlich E-Mails und anderen Kommunikationsformen zu reduzieren. Mithilfe dieser Richtlinien haben Administratoren die Möglichkeit, Aufbewahrungseinstellungen für bestimmte Ordner des Posteingangs eines Benutzers anzuwenden. Administratoren können Benutzern auch ein Menü zu Aufbewahrungsrichtlinien zur Verfügung stellen, über das diese in Outlook 2010 oder Outlook Web App Richtlinien für bestimmte Elemente, Unterhaltungen oder Ordner aktivieren können.
+Exchange Online bietet Aufbewahrungsrichtlinien, die Organisationen dabei helfen, ihre Verpflichtungen hinsichtlich E-Mails und anderen Kommunikationsformen zu reduzieren. Mithilfe dieser Richtlinien haben Administratoren die Möglichkeit, Aufbewahrungseinstellungen für bestimmte Ordner des Posteingangs eines Benutzers anzuwenden. Administratoren können Benutzern auch ein Menü mit Aufbewahrungsrichtlinien erteilen und die Richtlinien auf bestimmte Elemente, Unterhaltungen oder Ordner anwenden, die Outlook 2010 oder höher oder Outlook im Internet verwenden sollen.
   
 In Exchange Online können Administratoren die Aufbewahrungsrichtlinien mithilfe der Exchange-Verwaltungskonsole oder von Windows PowerShell-Remotesitzungen verwalten.
   
 Exchange Online bietet zwei Richtlinientypen: Archiv- und Löschrichtlinien. Beide Typen können für das gleiche Element oder den gleichen Ordner kombiniert werden. Ein Benutzer kann beispielsweise eine E-Mail so markieren, dass sie nach einer bestimmten Anzahl von Tagen automatisch in das Compliance-Archiv verschoben und nach einer anderen bestimmten Anzahl von Tagen gelöscht wird.
   
-In Outlook 2010 und Outlook Web App können Benutzer Aufbewahrungsrichtlinien flexibel auf Ordner, Unterhaltungen und einzelne Nachrichten anwenden. Außerdem können sie die geltenden Aufbewahrungsrichtlinien und vorgesehenen Löschtermine von Nachrichten anzeigen. Benutzer von anderen E-Mail-Clients können E-Mails nur basierend auf serverseitigen, vom Administrator definierten Aufbewahrungsrichtlinien löschen oder archivieren lassen.
+Mit Outlook 2010 oder höher und Outlook im Internet können Benutzer Aufbewahrungsrichtlinien auf Ordner, Unterhaltungen oder einzelne Nachrichten anwenden. Außerdem können sie die geltenden Aufbewahrungsrichtlinien und vorgesehenen Löschtermine von Nachrichten anzeigen. Benutzer von anderen E-Mail-Clients können E-Mails nur basierend auf serverseitigen, vom Administrator definierten Aufbewahrungsrichtlinien löschen oder archivieren lassen.
   
 Die Aufbewahrungsrichtlinienfunktionen in Exchange Online entsprechen denen von Exchange Server 2010 Service Pack 2 RU4. Administratoren können mithilfe von Windows PowerShell-Remotesitzungen Aufbewahrungsrichtlinien aus lokalen Umgebungen mit Exchange Server 2010 oder höher zu Exchange Online migrieren.
   
@@ -129,7 +130,7 @@ Weitere Informationen finden Sie unter [Compliance-Archiv](https://docs.microsof
   
 ## <a name="in-place-ediscovery"></a>Compliance-eDiscovery
 
-Exchange Online ermöglicht Kunden das Durchsuchen von Postfachinhalten innerhalb einer Organisation über eine webbasierte Benutzeroberfläche. Administratoren oder Verantwortliche für Richtlinientreue und Sicherheit, die autorisiert sind, eine Compliance-eDiscovery-Suche auszuführen (durch Zuweisen), können E-Mails, Anlagen, Kalendertermine, Aufgaben und Kontakte sowie andere Elemente durchsuchen. Mit der Compliance-eDiscovery-Funktion können primäre Postfächer und Archive gleichzeitig durchsucht werden. Die umfangreichen Filterfunktionen umfassen Absender, Empfänger, Nachrichtentyp, Sende-/Empfangsdatum und Cc/Bcc sowie die Verwendung der KQL-Syntax. Die Suchergebnisse beinhalten auch Elemente aus dem Ordner "Gelöschte Elemente", wenn sie mit der Suchabfrage übereinstimmen.
+Exchange Online können Kunden den Inhalt von Postfächern in einer Organisation mithilfe einer webbasierten Schnittstelle durchsuchen. Administratoren oder Verantwortliche für Richtlinientreue und Sicherheit, die autorisiert sind, eine Compliance-eDiscovery-Suche auszuführen (durch Zuweisen), können E-Mails, Anlagen, Kalendertermine, Aufgaben und Kontakte sowie andere Elemente durchsuchen. Mit der Compliance-eDiscovery-Funktion können primäre Postfächer und Archive gleichzeitig durchsucht werden. Die umfangreichen Filterfunktionen umfassen Absender, Empfänger, Nachrichtentyp, Sende-/Empfangsdatum und Cc/Bcc sowie die Verwendung der KQL-Syntax. Die Suchergebnisse beinhalten auch Elemente aus dem Ordner "Gelöschte Elemente", wenn sie mit der Suchabfrage übereinstimmen.
   
 Die Ergebnisse von Compliance-eDiscovery-Suchvorgängen können in einer Vorschau in der webbasierten Oberfläche angezeigt, in eine PST-Datei exportiert oder in einen speziellen Typ von Postfach mit der Bezeichnung Discoverypostfach kopiert werden. Ein Discoverypostfach verfügt über ein Kontingent von 50 GB für die Speicherung von Suchergebnissen. Administratoren können auch Outlook mit dem Discoverypostfach verbinden, sodass der Zugriff auf die Suchergebnisse möglich ist und diese in eine PST-Datei exportiert werden können.
   
@@ -174,7 +175,7 @@ Weitere Informationen zu Nachrichtenflussregeln finden Sie unter [Nachrichtenflu
   
 ## <a name="data-loss-prevention"></a>Verhinderung von Datenverlust
 
-Das Feature zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) hilft Ihnen dabei, vertrauliche Informationen in Ihrer Organisation über eine eingehende Inhaltsanalyse zu identifizieren, zu überwachen und zu schützen. DLP ist ein Premium-Feature, dessen Bedeutung für Nachrichtensysteme von Unternehmen ständig zunimmt, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Das DLP-Feature in Exchange Online ermöglicht es Ihnen, sensible Daten zu schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
+Das Feature zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) hilft Ihnen dabei, vertrauliche Informationen in Ihrer Organisation über eine eingehende Inhaltsanalyse zu identifizieren, zu überwachen und zu schützen. DLP ist ein Premium-Feature, dessen Bedeutung für Nachrichtensysteme von Unternehmen ständig zunimmt, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Mit der DLP-Funktion in Exchange Online können Sie vertrauliche Daten schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
   
 Sie können DLP-Richtlinien in der Verwaltungsschnittstelle der Exchange-Verwaltungskonsole konfigurieren, die Ihnen Folgendes ermöglicht: 
   
@@ -190,7 +191,7 @@ Sie können DLP-Richtlinien in der Verwaltungsschnittstelle der Exchange-Verwalt
     
 - Erkennen Sie vertrauliche Formulardaten mithilfe von Dokumentfingerabdrücken. Dokumentfingerabdrücke helfen Ihnen, problemlos benutzerdefinierte Typen vertraulicher Informationen auf Basis textbasierter Formulare zu erstellen, die Sie zum Definieren von Transportregeln und DLP-Richtlinien verwenden können.
     
-- Fügen Sie Richtlinientipps hinzu, die helfen können, Datenverluste zu vermeiden, indem Ihren Outlook 2016-, Outlook 2013-, Outlook Web App- und OWA for Devices-Benutzern ein Hinweis angezeigt wird, und die auch die Effektivität Ihrer Richtlinien verbessern können, indem falsch positive Ergebnisse gemeldet werden können. 
+- Fügen Sie Richtlinien Tipps hinzu, die zur Verringerung von Datenverlusten beitragen können, indem Sie einen Hinweis zu Outlook 2016, Outlook 2013, Outlook im Internet und OWA für mobile Geräte Benutzern anzeigen und die Effektivität Ihrer Richtlinien verbessern, indem Sie eine falsch positive Berichterstellung zulassen. 
     
 - Überprüfen Sie Vorfallsdaten in DLP-Berichten, oder fügen Sie Ihre eigene Berichterstellung mithilfe einer neuen Aktion zum Generieren eines Schadensberichts hinzu.
     
@@ -218,6 +219,6 @@ Weitere Informationen zum Journaling finden Sie unter [Journaling](https://docs.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
 

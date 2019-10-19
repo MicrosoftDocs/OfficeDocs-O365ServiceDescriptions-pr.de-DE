@@ -1,5 +1,5 @@
 ---
-title: Archivfunktionen in der Exchange Online-Archivierung
+title: Archivfunktionen in Exchange Online Archivierung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: In den folgenden Abschnitten werden die Archivfunktionen Microsoft Exchange Online Archivierung beschrieben.
-ms.openlocfilehash: 7cbaaf81106084795630ced11837f4f9a56dcf85
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 8e27ce238fa0aa7e2b670f6d991178c5f595908a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780674"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581401"
 ---
-# <a name="archive-features-in-exchange-online-archiving"></a>Archivfunktionen in der Exchange Online-Archivierung
+# <a name="archive-features-in-exchange-online-archiving"></a>Archivfunktionen in Exchange Online Archivierung
 
 In den folgenden Abschnitten werden die Archivfunktionen Microsoft Exchange Online Archivierung beschrieben.
   
 ## <a name="archive-mailbox"></a>Archivpostfach
 
-Exchange Online-Archivierung bietet Benutzern mit der Archivpostfachfunktion erweiterte Archivierungsfunktionen. Ein Archivpostfach ist ein spezielles Postfach, das in Outlook oder Outlook Web App neben den primären Postfachordnern eines Benutzers angezeigt wird. Benutzer können auf das Archiv auf die gleiche Weise zugreifen, wie sie auf ihre primären Postfachordner zugreifen. Darüber hinaus können sie ihre Archive und primären Postfächer durchsuchen.
+Exchange Online-Archivierung bietet Benutzern mit der Archivpostfachfunktion erweiterte Archivierungsfunktionen. Bei einem Archivpostfach handelt es sich um ein spezielles Postfach, das neben den primären Postfachordnern der Benutzer in Outlook oder Outlook im Internet angezeigt wird. Benutzer können auf das Archiv auf die gleiche Weise zugreifen, wie sie auf ihre primären Postfachordner zugreifen. Darüber hinaus können sie ihre Archive und primären Postfächer durchsuchen.
   
 Administratoren können die Archivfunktion mithilfe des Exchange Admin Center (EAC) oder der remote verwendeten Windows PowerShell für bestimmte Benutzer archivieren. Weitere Informationen finden Sie unter [Aktivieren und Deaktivieren von Archivpostfächern in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
   
@@ -58,7 +58,7 @@ Benutzer haben folgende Möglichkeiten, um Daten in das Archiv zu importieren:
 
 Benutzer können Elemente wiederherstellen, die sie aus einem E-Mail-Ordner in ihrem Archiv gelöscht haben. Wenn ein Element gelöscht wird, wird es im Ordner "Gelöschte Elemente" des Archivs aufbewahrt. Es wird dort so lange gespeichert, bis es vom Benutzer automatisch verschoben oder durch Aufbewahrungsrichtlinien automatisch entfernt wird.
   
-Nachdem ein Element aus dem Ordner "Gelöschte Elemente" des Archivs gelöscht wurde, wird das Element im Ordner "Wiederherstellbare Elemente" des Archivs weitere 14 Tage lang aufbewahrt, bevor es endgültig gelöscht wird. Benutzer können diese Elemente mithilfe der Funktion **Gelöschte Objekte wiederherstellen** in Microsoft Outlook oder Outlook Web App wiederherstellen. 
+Nachdem ein Element aus dem Ordner "Gelöschte Elemente" des Archivs gelöscht wurde, wird das Element im Ordner "Wiederherstellbare Elemente" des Archivs weitere 14 Tage lang aufbewahrt, bevor es endgültig gelöscht wird. Benutzer können diese Elemente mithilfe der Funktion **Gelöschte Elemente wiederherstellen** in Microsoft Outlook oder Outlook im Internet wiederherstellen. 
   
 Wenn ein Benutzer ein Element manuell aus dem Ordner „Wiederherstellbare Elemente" gelöscht hat, kann ein Administrator das Element innerhalb des gleichen 14-Tage-Zeitfensters mithilfe des Features „Wiederherstellung einzelner Elemente" wiederherstellen. Dieses Feature erlaubt Administratoren, eine Suche in mehreren Postfächern durchzuführen, um gelöschte Elemente zu finden, und dann mithilfe des Windows PowerShell-Cmdlets  `Search-Mailbox` die Elemente aus dem Discoverypostfach in die Postfächer von Benutzern zu verschieben. Weitere Informationen finden Sie unter [Aktivieren oder Deaktivieren der Wiederherstellung einzelner Elemente für ein Postfach](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
   
@@ -79,5 +79,5 @@ Archivpostfächer in Exchange Online-Archivierung werden in mehreren Datenbankko
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Beschreibung des Exchange Online-Archivierungsdiensts](exchange-online-archiving-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Archivierungsdienst Beschreibung](exchange-online-archiving-service-description.md).
   

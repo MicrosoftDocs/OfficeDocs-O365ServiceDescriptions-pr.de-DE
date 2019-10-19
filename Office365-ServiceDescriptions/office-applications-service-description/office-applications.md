@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office ist ein leistungsstarker Dienst, mit dem Sie Ihre besten Ideen umsetzen können und auch unterwegs stets angebunden sind. Melden Sie sich für ein personalisiertes Erlebnis und alle aktuellen Office-Anwendungen einfach an; neue und verbesserte Funktionen werden kontinuierlich hinzugefügt.
-ms.openlocfilehash: 82a6678d7a019740daf6e4f5c57e9cd02d677113
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: f4a99204cdd078a79bdf2ed4ff760dfe74e975a6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776376"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582161"
 ---
 # <a name="office-applications"></a>Office-Anwendungen
 
@@ -85,5 +85,5 @@ Office für Windows 10 Mobile Apps sind für Touch-und kleinere Bildschirme auf 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie unter [Dienstbeschreibung zu Office-Anwendungen](office-applications-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office Applications Service Description](office-applications-service-description.md).
   

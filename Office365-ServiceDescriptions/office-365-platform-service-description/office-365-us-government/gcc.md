@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Um den eindeutigen und sich entwickelnden Anforderungen der US-Bundesstaaten, Staaten, lokalen und Stammes Regierungen sowie Auftragnehmern gerecht zu werden, die Daten im Namen der US-Regierung halten oder verarbeiten, bietet Microsoft Office 365 Dienste der US Government Community (gcc) an. Verfügbar über mehrere Kanäle, einschließlich Volumenlizenzierung, durchlaufen interessierte Organisationen einen Validierungsprozess, um die Berechtigung vor der Einrichtung einer Umgebung sicherzustellen. Testversionen sind derzeit nur für US-Regierungseinrichtungen verfügbar.
-ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998507"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595283"
 ---
 # <a name="office-365-gcc"></a>Office 365 gcc
 
@@ -37,23 +37,24 @@ Exchange Online, SharePoint Online, Exchange Online Archivierung, Skype for Busi
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Überprüfte Mitarbeiter in Office 365 US Government Community
 
-Office 365-Mitarbeiter haben keinen Zugriff auf Kundeninhalte, die in Office 365 US Government Community gehostet werden. Alle Mitarbeiter, die eine temporäre Rechteerweiterung anfordern, die Zugriff auf Kundeninhalte gewähren würde, müssen zuerst die folgenden Hintergrundprüfungen bestanden haben: 
+Office 365-Mitarbeiter haben keinen Zugriff auf Kundeninhalte, die in Office 365 US Government Community gehostet werden. Alle Mitarbeiter, die eine temporäre Berechtigungserweiterung anfordern, die Zugriff auf Kunden Inhalte gewähren würde, müssen zuerst die folgenden Hintergrundprüfungen bestanden haben. 
   
 |||
 |:-----|:-----|
-|**Microsoft Personal Screening und Hintergrundprüfungen** <sup>1</sup> <br/> |**Beschreibung** <br/> |
-|US-amerikanische Staatsbürgerschaft  <br/> |Überprüfung der US-amerikanischen Staatsbürgerschaft  <br/> |
-|Prüfung des beruflichen Lebenslaufs  <br/> |Überprüfung von sieben (7) Jahren der bisherigen Berufstätigkeit  <br/> |
-|Überprüfung der Ausbildung  <br/> |Überprüfung der höchsten abgeschlossenen Ausbildung  <br/> |
-|Suchen der US-Sozialversicherungsnummer  <br/> |Überprüft, ob die bereitgestellte Versicherungsnummer gültig ist.  <br/> |
-|Überprüfen des Vorstrafenregisters  <br/> |Auszug aus dem Strafregister über sieben (7) Jahre im Hinblick auf Kapitalverbrechen oder geringfügige Vergehen auf Bundesstaats-, Bezirks- und lokaler Ebene sowie auf Bundesebene.  <br/> |
+|**Microsoft Personal Screening and Background Checks** <sup>1</sup> <br/> |**Beschreibung** <br/> |
+|US-Staatsbürgerschaft  <br/> |Überprüfung der US-amerikanischen Staatsbürgerschaft  <br/> |
+|Überprüfung des arbeitsverlaufs  <br/> |Überprüfung von sieben (7) Jahren der bisherigen Berufstätigkeit  <br/> |
+|Überprüfung der Schulung  <br/> |Überprüfung der höchsten abgeschlossenen Ausbildung  <br/> |
+|Suche in der Sozialversicherungsnummer (SSN)  <br/> |Überprüft, ob die bereitgestellte Versicherungsnummer gültig ist.  <br/> |
+|Check für kriminelle Geschichte  <br/> |Auszug aus dem Strafregister über sieben (7) Jahre im Hinblick auf Kapitalverbrechen oder geringfügige Vergehen auf Bundesstaats-, Bezirks- und lokaler Ebene sowie auf Bundesebene.  <br/> |
 |Liste des Office of Foreign Assets Control (OFAC, Amt für Kontrolle von Auslandsvermögen)  <br/> |Überprüfung der Liste von Gruppen des Bundesfinanzministeriums, mit denen US-Amerikaner keinen Handel oder finanzielle Transaktionen betreiben dürfen.  <br/> |
 |Liste des Bureau of Industry and Security (BIS, Amt für Industrie und Sicherheit)  <br/> |Überprüfung der Liste des Wirtschaftsministeriums mit Einzelpersonen und Entitäten, die keine Exportaktivitäten ausüben dürfen.  <br/> |
 |Office of Defense Trade Controls Debarred Persons List (DDTC, Liste gesperrter Personen des Kontrollgremiums für den Handel mit Verteidigungswaffen)  <br/> |Überprüfung der Liste von Einzelpersonen und Entitäten des Außenministeriums, die keine Exportaktivitäten im Zusammenhang mit der Verteidigungsindustrie ausüben dürfen.  <br/> |
 |Fingerabdrücke  <br/> |Hintergrundprüfung von Fingerabdrücken in FBI-Datenbanken  <br/> |
 |CJIS-Hintergrundprüfung  <br/> |Vom Bundesstaat zugesprochene Überprüfung des Vorstrafenregisters auf Bundes- und Bundesstaatebene, durchgeführt durch eine von der CSA ernannte Behörde in jedem Bundesstaat, der sich für die Teilnahme am Microsoft CJIS-IA-Programm registriert hat.  <br/> |
 
-<sup>1</sup> gilt nur für Mitarbeiter mit einem temporären oder ständigen Zugriff auf Kunden Inhalte, die in Office 365 US Government Community Cloud (gcc) gehostet werden.  
+<sup>1</sup> gilt nur für Mitarbeiter mit einem temporären oder ständigen Zugriff auf Kunden Inhalte, die in Office 365 US Government Community Cloud (gcc) gehostet werden.
+  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 US Government Community und Yammer
 
 Yammer Enterprise ist keine Komponente von Office 365 US Government, kann jedoch kostenlos als eigenständiges Angebot für jeden Benutzer angefordert werden, der für Office 365 US Government Plan E1 und E3 lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die Office 365 US Government über Enterprise Agreement und Enterprise Agreement Subscription kaufen. 

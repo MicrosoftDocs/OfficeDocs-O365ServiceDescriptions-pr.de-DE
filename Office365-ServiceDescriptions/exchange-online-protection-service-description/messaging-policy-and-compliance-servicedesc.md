@@ -1,5 +1,5 @@
 ---
-title: Messagingrichtlinien und -kompatibilität
+title: Messagingrichtlinie und -kompatibilität
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
-ms.openlocfilehash: af611b7124c85866bad5bec74f853d70f721e5ae
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334125"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581871"
 ---
-# <a name="messaging-policy-and-compliance"></a>Messagingrichtlinien und -kompatibilität
+# <a name="messaging-policy-and-compliance"></a>Messagingrichtlinie und -kompatibilität
 
 Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
 
@@ -35,7 +35,7 @@ Mit der Überwachungsprotokollierung können Sie bestimmte Änderungen von Admin
 
 ## <a name="data-loss-prevention-dlp"></a>Verhinderung von Datenverlusten (Data Loss Prevention, DLP)
 
-Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Verhinderung von Datenverlust (Data Loss Prevention, DLP) ermöglicht Ihnen das Bestimmen, Überwachen und Schützen vertraulicher Daten in Ihrer Organisation mittels einer eingehenden Inhaltsanalyse. DLP gewinnt für Nachrichtensysteme von Unternehmen zunehmend an Bedeutung, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Mit der DLP-Funktion können Sie sensible Daten schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
+Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Verhinderung von Datenverlust (Data Loss Prevention, DLP) ermöglicht Ihnen das Bestimmen, Überwachen und Schützen vertraulicher Daten in Ihrer Organisation mittels einer eingehenden Inhaltsanalyse. DLP gewinnt für Nachrichtensysteme von Unternehmen zunehmend an Bedeutung, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Mit dem DLP-Feature können Sie vertrauliche Daten schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
 
 Sie können DLP-Richtlinien in der Exchange-Verwaltungskonsole konfigurieren, wodurch sich folgende Möglichkeiten ergeben:
 
@@ -51,7 +51,7 @@ Sie können DLP-Richtlinien in der Exchange-Verwaltungskonsole konfigurieren, wo
 
 - Erkennen Sie vertrauliche Formulardaten mithilfe von Dokumentfingerabdrücken. Mit dem Dokument Fingerabdruck können Sie auf einfache Weise benutzerdefinierte Typen vertraulicher Informationen basierend auf textbasierten Formularen erstellen, die Sie zum Definieren von Nachrichtenfluss Regeln und DLP-Richtlinien verwenden können.
 
-- Fügen Sie Richtlinientipps hinzu, die helfen können, Datenverluste zu vermeiden, indem Ihren Outlook 2013-, Outlook Web App- und OWA for Devices-Benutzern ein Hinweis angezeigt wird, und die auch die Effektivität Ihrer Richtlinien verbessern können, indem falsch positive Ergebnisse gemeldet werden können.
+- Fügen Sie Richtlinien Tipps hinzu, die zur Verringerung von Datenverlusten beitragen können, indem Sie eine Mitteilung an Ihre Outlook 2013, Outlook im Internet und OWA für mobile Geräte Benutzer anzeigen und außerdem die Effektivität Ihrer Richtlinien verbessern, indem Sie eine falsch positive Berichterstellung zulassen.
 
 - Überprüfen Sie Vorfallsdaten in DLP-Berichten, oder fügen Sie Ihre eigene Berichterstellung mithilfe einer neuen Aktion zum Generieren eines Schadensberichts hinzu.
 
@@ -70,7 +70,7 @@ Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Pr
 |:-----|:-----|:-----|:-----|
 |Nachrichtenflussregeln|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1, 3</sup>|
 |Überwachungsprotokollierung|Ja<sup>2</sup>|Ja|Ja|
-|Verhinderung von Datenverlust (Data Loss Prevention, DLP)|Nein|Ja|Ja<sup>3</sup>|
+|Verhinderung von Datenverlusten (Data Loss Prevention, DLP)|Nein|Ja|Ja<sup>3</sup>|
 |Office 365-Nachrichtenverschlüsselung|Ja<sup>4</sup>|Ja|Ja<sup>4</sup>|
 
 > [!NOTE]

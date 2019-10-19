@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998517"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595234"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -57,7 +57,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |[Office Mobile für Android](office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup>  <br/>|Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |
 |[Office Mobile für Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Ja<sup>13</sup> <br/> |Ja <sup>13</sup> <br/>|Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup>  <br/> |Ja  <br/> |
 |Outlook für Android  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
-|**Unternehmenswert** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
+|**Enterprise-Wert** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**Microsoft 365 Business** <br/>
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Nein  <br/>| Nein  <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> | Ja<sup>7</sup> <br/> |
 |Automatisiertes Bereitstellen von Benutzerkonten  <br/> |Nicht zutreffend  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Mehrsprachige Benutzeroberfläche  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/> |
@@ -66,7 +66,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Client-Unterstützung für lokales SharePoint  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |Steuern von Softwareupdates  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/>  |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |Datenbankabgleich  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br> |
-|Desktop-Virtualisierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja<sup>8</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/> |
+|Desktop-Virtualisierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja<sup>8</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja <br/> |
 |Excel Spreadsheet Compare  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/> |
 |Excel Spreadsheet Inquire  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/>
 |Archivierung und Vorschrifteneinhaltung mit Exchange Online und SharePoint Online  <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/>|Ja<sup>1</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |

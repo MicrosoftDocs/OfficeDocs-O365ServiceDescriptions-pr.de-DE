@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365-Diensten auf Mandantenebene, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035131"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582031"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365-Dienste für die Lizenzierung auf Mandantenebene
 
@@ -80,6 +80,7 @@ Das AIP-Scanner-Feature klassifiziert, beschriftet und schützt Dateien, die sic
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
 In der Standardeinstellung werden AIP-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von AIP-Richtlinien für lizenzierte Benutzer finden Sie unter [Aktivieren von Azure Rights Management](https://docs.microsoft.com/azure/information-protection/activate-service).
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 AIP-Funktions Richtlinien (mit Ausnahme des Scanner-Features) können auf bestimmte Gruppen oder Benutzer beschränkt werden. Registrierungen können bearbeitet werden, um zu verhindern, dass nicht lizenzierte Benutzer AIP-Klassifikationen oder Kenn zeichnungfunktionen durchführen. Anweisungen zum Umfang von AIP-Bereitstellungen finden Sie unter [Konfigurieren der Azure Information Protection-Richtlinie](https://docs.microsoft.com/azure/information-protection/configure-policy).
@@ -322,7 +323,7 @@ Lizenzierte Benutzer von Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:
 
 | Szenario                                                                                                                                                                                                              | Wer benötigt eine Lizenz? |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |

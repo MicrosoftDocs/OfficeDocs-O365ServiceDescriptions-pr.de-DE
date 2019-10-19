@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: efab17a6513dac571abfd314549d0f90017564da
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 9485753dca545eda8e1407e69bedf58c3e113cc5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523450"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581931"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -251,7 +251,7 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 - **Größenbeschränkung für Dateianlagen**: die maximale Dateigröße einer einzelnen Anlage.
 
     > [!NOTE]
-    > Dies ist die maximale Dateigröße einer einzelnen Anlage. Einzelne Clientprogramme, u. a. Outlook Web App, schränken die Größe von Anlagen ggf. noch weiter ein. Exchange ActiveSync implementiert keine Anlagengrößenlimits für einzelne Anlagen. Die Gesamtgröße aller Anlagen einer Exchange ActiveSync-Nachricht muss kleiner sein als die Nachrichtengrößeneinschränkung.
+    > Dies ist die maximale Dateigröße einer einzelnen Anlage. Einzelne Clientprogramme, einschließlich Outlook im Internet, können die Größe von Anlagen unterhalb dieses Maximums begrenzen. In Exchange ActiveSync werden keine Anlagengrößen Beschränkungen auf einzelnen Anlagen Basis implementiert. Die Gesamtgröße aller Anlagen in einer Exchange ActiveSync-Nachricht muss kleiner sein als der Grenzwert für die Nachrichtengröße.
 
 - Mehr **teiliger Nachrichten Grenzwert**: die maximale Anzahl von Nachrichtentext teilen, die in einer MIME-multipart-Nachricht zulässig sind. Dieser Grenzwert steuert außerdem die maximale Anzahl Dateianlagen, die in einer Nachricht zulässig sind.
 
@@ -389,7 +389,7 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Aufbewahrungszeitraum des Ordners "Gelöschte Elemente"|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|
 |Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|
-|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|
+|Aufbewahrungszeitraum des Ordners "Junk-E-Mail"|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|
 
 > [!NOTE]
 > <sup>1</sup>Dies ist der Standardwert für Office 365-Organisationen. Ein Administrator kann diesen Grenzwert für Postfächer in seiner Organisation auf maximal 30 Tage ändern.
@@ -425,7 +425,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|
 |Obergrenze für Nachrichten an Verteilergruppen mit 5.000 bis 99.999 Mitgliedern|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Obergrenze für Nachrichten an Verteilergruppen mit 100.000 Mitgliedern|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Maximale Anzahl von Verteilergruppenbesitzern|10 |10 |10 |10 |10 |10 |
+|Maximale Anzahl von Verteilergruppenbesitzern|10|10|10|10|10|10|
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -436,17 +436,17 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
-|Maximale Anzahl Mitglieder einer Verteilergruppe|100.000 Mitglieder<sup>1</sup>|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|
+|Maximale Anzahl Mitglieder einer Verteilergruppe|100.000 Mitglieder<sup>1</sup>|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe|5.000 oder mehr Mitglieder<sup>1</sup>|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|
-|Maximale Anzahl von Verteilergruppenbesitzern|10 |10 |10 |10 |
+|Maximale Anzahl von Verteilergruppenbesitzern|10|10|10|10|
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
 > <sup>1</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. <br/> <sup>2</sup> Dieser Grenzwert gilt auch für Administratoren.
 
-## <a name="journal-transport-and-inbox-rule-limits"></a>Journal-, Transport- und Postfachregelgrenzen
+## <a name="journal-transport-and-inbox-rule-limits"></a>Journal-, Transport- und Posteingangsregelgrenzen
 
-Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln (auch als organisationsweite Regeln bezeichnet) sowie für Grenzwerte gelten, die für Posteingangsregeln gelten. Posteingangsregeln werden von einzelnen Benutzern festgelegt und auf Nachrichten angewendet, die vom Postfach des entsprechenden Benutzers gesendet und empfangen werden.
+Die folgende Liste enthält Grenzwerte für Journalregeln, Transportregeln (auch bekannt als organisationsweite Regeln) und Grenzwerte, die für Posteingangsregeln gelten. Posteingangsregeln werden von einzelnen Benutzern festgelegt und auf Nachrichten angewendet, die vom Postfach des entsprechenden Benutzers gesendet und empfangen werden.
 
 - **Maximale Anzahl von Journatregeln** Die maximale Anzahl von Journalregeln, die in der Organisation vorhanden sein können.
 
@@ -466,7 +466,7 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 
 - **Häufigkeit, mit der eine Nachricht von Transportregeln umgeleitet wird** Gibt an, wie oft eine Nachricht basierend auf Transportregeln umgeleitet wird. Beispielsweise verfügt die Exchange-Organisation Tailspin Toys über eine Transportregel zum Umleiten aller Nachrichten, die an den Benutzer a an den Benutzer B gesendet wurden, der sich in der Exchange-Organisation Contoso befindet. In der Exchange-Organisation "Contoso" ist eine Transportregel vorhanden, mit der alle Nachrichten, die an Benutzer B gesendet wurden, an den Benutzer C umgeleitet werden, der sich in der Exchange-Organisation a. Datum Corporation befindet. In diesem Fall wird die Nachricht gelöscht und ein Unzustellbarkeitsbericht (Non-Delivery Report, NDR) mit Statuscode und Nachricht zurückgewiesen *550 5.7.128 Transport. Regeln. RejectMessage Die Anzahl der Transport Regelschleifen wird überschritten, und die Nachricht* wird an den Benutzer A gesendet. Wir verwenden den X-MS-Exchange-Transport-Rules-Loop-Header, um zu bestimmen, wie oft eine Nachricht von Transport Regeln umgeleitet wurde. Diese Kopfzeile bleibt auch über die Exchange-Organisationsgrenzen hinweg.
 
-### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Grenzwerte für Journal-, Transport- und Postfachregeln in Office 365-Produkten
+### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Journal-, Transport-und Posteingangsregel Grenzen in Office 365 Optionen
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -481,7 +481,7 @@ Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln 
 |Anzahl der Umleitungen einer Nachricht|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|
 |Häufigkeit, mit der eine Nachricht von Transportregeln umgeleitet wird|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|
 
-### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Grenzwerte für Journal-, Transport- und Postfachregeln in eigenständigen Produkten
+### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Journal-, Transport-und Posteingangsregel Beschränkungen für eigenständige Optionen
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

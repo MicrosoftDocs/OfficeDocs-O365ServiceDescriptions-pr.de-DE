@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Office 365-Portal als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter Office 365 Support Options.
-ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854903"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582191"
 ---
 # <a name="support"></a>Support
 
@@ -201,4 +201,4 @@ Wenn Sie bereits Lizenzen von Microsoft im Rahmen eines Volumenlizenzprogramms e
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).

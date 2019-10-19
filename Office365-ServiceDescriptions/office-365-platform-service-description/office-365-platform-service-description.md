@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
-ms.openlocfilehash: 2547b3dfa0379ca0b0ba28830e5c3d9cf499131b
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 936c610438ddb7589352380d6adc33e1fbe4aef1
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998537"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582141"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365-Plattformdienstbeschreibung
 
@@ -188,7 +188,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Office 365 Advanced eDiscovery<sup>17</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Secure Score<sup>7</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|**[Compliance[ServiceDesc]](compliance-servicedesc.md)** <br/> ||||||||
+|**[Compliance](compliance-servicedesc.md)** <br/> ||||||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Informationen zu Office 365 Features, die soeben veröffentlicht wurden oder die veröffentlicht werden sollen, finden Sie in der Microsoft 365-Roadmap.
-ms.openlocfilehash: cd9de8191efb5d22644ba2901735c4be82f5ae62
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777496"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581351"
 ---
 # <a name="service-updates"></a>Dienstupdates
 
@@ -35,7 +35,7 @@ Mit der Zielrelease erhält Ihre Organisation oder ein Teil Ihrer Benutzer ungef
   
 ## <a name="update-notifications"></a>Updatebenachrichtigungen
 
-Kunden werden möglichst vor jeder Änderung von Office 365 benachrichtigt, nach der ein Administrator Maßnahmen ergreifen muss, damit der Dienst weiterhin ordnungsgemäß ausgeführt wird. Sofern nicht anders angegeben, benachrichtigt Microsoft Kunden mindestens 30 Tage vorab über das [Message Center](http://technet.microsoft.com/library/38FB3333-BFCC-4340-A37B-DEDA509C209.aspx), wenn für ein Update Administratoraktionen erforderlich sind. 
+Kunden werden möglichst vor jeder Änderung von Office 365 benachrichtigt, nach der ein Administrator Maßnahmen ergreifen muss, damit der Dienst weiterhin ordnungsgemäß ausgeführt wird. Sofern nicht anders angegeben, benachrichtigt Microsoft Kunden mindestens 30 Tage vorab über das [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide), wenn für ein Update Administratoraktionen erforderlich sind. 
   
 Die meisten Office 365-Dienstupdates sind Fehlerbehebungen, Leistungssteigerungen und Sicherheitsupdates, die keine Aktion seitens des Kunden erfordern. Neue und verbesserte Features finden Sie in der [Microsoft 365 for Business-Roadmap](http://roadmap.office.com/).
   
@@ -43,6 +43,6 @@ Beachten Sie, dass Office 365 der [Online Lifecycle-Richtlinie](https://support.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
+Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
   
 

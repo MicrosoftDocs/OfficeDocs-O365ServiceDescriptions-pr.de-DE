@@ -1,5 +1,5 @@
 ---
-title: Administration und Verwaltung[EOP]
+title: Verwaltung und Verwaltung [EoP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: In diesem Abschnitt werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online Protection (EoP)-Administratoren verfügbar sind.
-ms.openlocfilehash: 6a9e97d1c6ca59535ee76c1e8436b35899fba941
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442480"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581466"
 ---
-# <a name="administration-and-managementeop"></a>Administration und Verwaltung[EOP]
+# <a name="administration-and-managementeop"></a>Verwaltung und Verwaltung [EoP]
 
 In diesem Abschnitt werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online Protection (EoP)-Administratoren verfügbar sind.
   
@@ -39,5 +39,5 @@ Das Exchange Admin Center (EAC) ist eine einheitliche, benutzerfreundliche Verwa
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
   

@@ -1,5 +1,5 @@
 ---
-title: Hilfe und Schulungen
+title: Help and training
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
-ms.openlocfilehash: 8bd0fbb57d7555514f6aa58c8e1b95740d852f79
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 537388fdbd104591ee746cf5629b0b7e7e3355cb
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523413"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595214"
 ---
-# <a name="help-and-training"></a>Hilfe und Schulungen
+# <a name="help-and-training"></a>Help and training
 
 Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
   

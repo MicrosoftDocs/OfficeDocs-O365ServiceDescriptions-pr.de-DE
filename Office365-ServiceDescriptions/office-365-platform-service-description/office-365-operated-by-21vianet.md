@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: cf8bb19629e619304217aab4863f0ad4f34bbe5c
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: ad1ca8df3ff7726b45a23f530ef20884e3ce512e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334195"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582151"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -63,12 +63,10 @@ Jeder Office 365 Plan, der von 21Vianet betrieben wird, umfasst eine Reihe von e
 Informationen zu Systemanforderungen für Office 365 finden Sie unter [Systemanforderungen für Office](https://products.office.com/office-system-requirements/#Office365forBEG) auf der [office.com](https://www.office.com)-Produktwebsite.
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Verfügbarkeit des Security &amp; Compliance Center in Office 365, betrieben von 21Vianet
-<a name="BKMK_Security"> </a>
 
 Das Office 365 Security &amp; Compliance Center steht in keinem Plan für Office 365 betrieben von 21Vianet zur Verfügung.
 
 ## <a name="platform-features"></a>Plattformfeatures
-<a name="BM1_Platform"> </a>
 
 In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21Vianet betrieben werden, aufgeführt.
 
@@ -198,7 +196,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 <sup>2</sup> in Office 365 Enterprise F1, betrieben von 21Vianet, ist Office 365 Video auf die Anzeige beschränkt (keine Veröffentlichung oder Freigabe). <br/>
 <sup>3</sup> Wenn Sie die Verzeichnissynchronisierung mit einem lokalen Active Directory verwenden, müssen Sie Konten löschen oder Kennwörter ändern, indem Sie die lokale Active Directory anstelle des Office 365 Portals oder mithilfe des Azure Active Directory-Moduls für Windows verwenden. PowerShell. <br/>
 <sup>4</sup> noch nicht verfügbar in Office 365 betrieben von 21Vianet, aber in Kürze erhältlich. <br/>
-<sup>5</sup> Sie können nur eine öffentliche Website mit Office 365 haben, es sei denn, Sie haben ein Upgrade von einer früheren Version von Office 365 durchgeführt. In diesem Fall stehen Ihnen zwei öffentliche Websites zu, wobei nur eine mit einem benutzerdefinierten Domänennamen gehostet werden kann. Weitere Informationen zum Arbeiten mit den beiden Websites bei Business-Abonnements finden Sie unter [Arbeiten mit Ihren zwei öffentlichen Websites von Office 365](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5). Wenn Sie über ein anderes Abonnement verfügen, können Sie unter [Informationen zum Hosting von Partnerwebsites und öffentlichen Websites in Office 365](https://support.office.com/article/Use-a-public-website-with-Office-365-a8178510-501d-4bd8-9921-b04f2e9517a5) mehr über öffentliche Websites erfahren.<br/>
+<sup>5</sup> Sie können nur eine öffentliche Website mit Office 365 haben, es sei denn, Sie haben ein Upgrade von einer früheren Version von Office 365 durchgeführt. In diesem Fall stehen Ihnen zwei öffentliche Websites zu, wobei nur eine mit einem benutzerdefinierten Domänennamen gehostet werden kann. Weitere Informationen zum Arbeiten mit den beiden Websites für Geschäfts Abonnements finden Sie unter [Arbeiten mit ihren beiden Office 365 öffentlichen Websites](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5). Wenn Sie ein anderes Abonnement haben, erfahren Sie mehr über öffentliche Websites in der [Hilfe zur öffentlichen Website für Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5).<br/>
 <sup>6</sup> Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird.<br/>
 <sup>7</sup> Office 365 Bildungspläne unterstützen keine Änderungen am Lizenz Platz im Microsoft 365 Admin Center.<br/>
 <sup>8</sup> Microsoft Sway ist derzeit für Kunden in bestimmten Regionen nicht verfügbar. Einige ältere Office 365-Pläne, die ab August 2015 nicht mehr erhältlich sind, haben möglicherweise auch keinen Zugriff auf Microsoft Sway. <br/>
@@ -206,13 +204,12 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 <sup>10</sup> für Office 365, die von 21Vianet betrieben werden, finden Sie unter die [Online Services Standard Agreement for Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/).
 <br/>
 <sup>11</sup> China Internet Compliance Policy erfordert, dass Sie eine ICP-Nummer (Internet Content Provider) für eine öffentliche Website erhalten. Weitere Informationen finden Sie im entsprechenden ICP-Thema. <br/>
-<sup>12</sup> einige TechNet-Inhalte gelten möglicherweise nicht für Office 365, die von 21Vianet betrieben werden.<br/>
+<sup>12</sup> einige Inhalte gelten möglicherweise nicht für Office 365, die von 21Vianet betrieben werden.<br/>
 <sup>13</sup> verminderte Erfahrung. Wenn Ihre Organisation Internet Explorer 8 oder Internet Explorer 9 für den Zugriff auf ältere Web-Apps und -Dienste verwendet, sollten Sie ein Upgrade auf Internet Explorer 11 erwägen und den Artikel „Enterprise-Modus für Internet Explorer 11" lesen. Dieses Update ermöglicht eine bessere Abwärtskompatibilität für ältere Web-Apps. <br/>
 <sup>14</sup> mehrstufige Authentifizierung wird derzeit in Outlook Mobile (IOS und Android) nicht unterstützt. <br/>
 <sup>15</sup> OneNote-Klassen Notizbuch ist über 21Vianet verfügbar, aber die OneNote-Klasse Notizbuch-Symbolleiste steht für Windows 10-apps, iPad oder OneNote für das Internet nicht zur Verfügung.
 
 ## <a name="office-365-application-features"></a>Office 365-Anwendungsfeatures
-<a name="BM3_OfficeApp"> </a>
 
 In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die in der Office 365, die von 21Vianet-Plänen betrieben wird, verfügbar sind.
 
@@ -287,12 +284,11 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 <br/><sup>15</sup> Google-Dienste (einschließlich Play Store) sind innerhalb von China nicht zugänglich. Es gibt mehrere App-Stores, die von wichtigen Telefonherstellern oder Suchmaschinenunternehmen verwaltet werden und von denen Benutzer Mobile Apps installieren können.
 
 ## <a name="office-for-the-web-features"></a>Office für die Webfunktionen
-<a name="BM4_OfficeOnline"> </a>
 
 > [!NOTE]
 > Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell für China.
 
-Die folgende Tabelle enthält Links zu vergleichen von Office für die webfunktions Funktionen mit funktionsreichen Microsoft Office Desktop-Apps. Verwenden Sie die Vergleiche, um zu ermitteln, welche Features in Office für das Web zur Verfügung stehen, und klicken Sie dann auf den Featurenamen, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen.
+Die folgende Tabelle enthält Links zu vergleichen von Office für die webfunktions Funktionen mit funktionsreichen Microsoft Office Desktop-Apps. Verwenden Sie die Vergleiche, um zu ermitteln, welche Features in Office für das Web zur Verfügung stehen, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen.
 
 > [!NOTE]
 > - Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Bei den Vergleichstabellen handelt es sich nicht um eine umfassende Liste von Microsoft Office Features.
@@ -301,14 +297,13 @@ Die folgende Tabelle enthält Links zu vergleichen von Office für die webfunkti
 
 ||||
 |:-----|:-----|:-----|
-|**Application**|**Office für das Internet, betrieben von 21Vianet**|**Link zum detaillierten Funktionsvergleich**|
+|**Anwendung**|**Office für das Internet, betrieben von 21Vianet**|**Link zum detaillierten Funktionsvergleich**|
 |Word|Word für das Internet, betrieben von 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel für das Internet, betrieben von 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote für das Internet, betrieben von 21Vianet|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
 |PowerPoint|PowerPoint für das Internet, betrieben von 21Vianet|[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint)|
 
 ## <a name="exchange-online-features"></a>Exchange Online-Features
-<a name="BM5_ExchangeOnline"> </a>
 
 In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Office 365 von 21Vianet-Plänen betrieben verfügbar sind.
 
@@ -467,9 +462,8 @@ Informationen zu Exchange Online Beschränkungen finden Sie in den folgenden The
 > - Standardmäßig schützt Exchange Online Protection (EoP) Exchange Online Postfächern. Informationen zu Beschränkungen für EOP-Funktionen in Exchange Online finden Sie unter [Exchange Online Protection-Begrenzungen](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection-Features
-<a name="BM6_EOP"> </a>
 
-In der folgenden Tabelle sind Exchange Online Protection (EoP)-Features aufgeführt, die in Office 365 von 21Vianet-Plänen betrieben verfügbar sind. Detailliertere Informationen zu EOP-Funktionen finden Sie unter den Links in der Tabelle.
+In der folgenden Tabelle sind Exchange Online Protection (EoP)-Features aufgeführt, die in Office 365 von 21Vianet-Plänen betrieben verfügbar sind. Ausführlichere Informationen zu EoP-Features finden Sie unter den Links in der Tabelle.
 
 > [!NOTE]
 > Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell für China.
@@ -521,7 +515,6 @@ In der folgenden Tabelle sind Exchange Online Protection (EoP)-Features aufgefü
 <sup>12</sup> Hybrid Setup steht nicht über den Hybrid-Assistenten zur Verfügung, kann jedoch manuell eingerichtet werden, wenn Sie über Exchange SP1 verfügen.
 
 ## <a name="exchange-online-archiving-features"></a>Exchange Online Archivierungs Features
-<a name="BM7_EOArchiving"> </a>
 
 Exchange Online-Archivierung steht über die folgenden Pläne zur Verfügung.
 
@@ -566,7 +559,6 @@ In der folgenden Tabelle sind die Exchange Online Archivierungs Features aufgef�
 <sup>5</sup> Wenn Sie ein Postfach in das Compliance-Archiv oder das Beweissicherungsverfahren setzen, wird der Speicherplatz sowohl im primären als auch im Archivpostfach platziert.
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online-Features
-<a name="BM8_SPOnline"> </a>
 
 Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle Pläne unterstützen sämtliche SharePoint-Features. In der folgenden Tabelle wird gezeigt, ob ein Feature in einem Plan verfügbar ist.
 
@@ -820,7 +812,7 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 <br/><sup>5</sup> SharePoint Online Kunden müssen die ﻿kostenlose Rank Model Tuning-app herunterladen und installieren, um Bewertungsmodelle erstellen und anpassen zu können.
 <br/><sup>6</sup> Wenn Sie eDiscovery-Features verwenden, gilt die Lizenzierungsanforderung für einen Plan, der dieses Feature zulässt, für alle Endbenutzer, die Teil der eDiscovery-Aktion (suchen, halten, exportieren) sind.
 <br/><sup>7</sup> authentifiziert SharePoint Online Benutzer auf private Websitesammlungen mit Facetten Navigation zugreifen können.
-<br/><sup>8</sup> Kiosk Benutzer können keine Office-Dokumente mit Live Tiles erstellen. Zum Erstellen eines Dokuments müssen Kiosk Benutzer dies über eine SharePoint Online Website durchführen, indem Sie auf **neu** klicken und dann einen Dateityp – Word-Dokument, Excel-Arbeitsmappe, PowerPoint-Präsentation, OneNote-Notizbuch oder Excel-Umfrage – im Menü **neue Datei erstellen** auswählen.
+<br/><sup>8</sup> Kiosk Benutzer können keine Office-Dokumente mit Live Tiles erstellen. Um ein Dokument zu erstellen, müssen Kiosk-Benutzer dies von einer SharePoint Online Website aus durch Auswählen von " **neu** " und Auswählen eines Dateityps – Word-Dokument, Excel-Arbeitsmappe, PowerPoint-Präsentation, OneNote-Notizbuch oder Excel-Umfrage – aus dem Menü " **neue Datei erstellen** " auswählen.
 <br/><sup>9</sup> einige Anbieter werden möglicherweise in Ihrem Land/Ihrer Region blockiert.
 <br/><sup>10</sup> Freigeben eines Dokuments, einer Bibliothek oder einer Website per e-Mail an eine Person außerhalb Ihrer Organisation. Administratoren können diese Option aktivieren, es wird jedoch eine Warnmeldung angezeigt, die darauf hinweist, dass auf freigegebene Dateien dadurch möglicherweise außerhalb Ihres Landes zugegriffen werden kann. Benutzer, die versuchen, Dateien für Personen außerhalb der Organisation freizugeben, erhalten dieselbe Warnmeldung.
 <br/><sup>11</sup> Kiosk Konten weisen eine beschränkte OneDrive für Unternehmen Funktionalität auf. Kiosk Kunden können die OneDrive für Unternehmen-Ordner synchronisierungsclient Anwendung verwenden, um Teamwebsite-Dokumentbibliotheken mit einem gemeinsam genutzten Computer zu synchronisieren und offline auf Dokumente zuzugreifen. Kiosk Konten enthalten jedoch keine OneDrive für Unternehmen persönliche Website, sodass Sie nicht von einer OneDrive für Unternehmen persönlichen Bibliothek mit 1 TB oder 5 TB Online Speicher profitieren.
@@ -830,7 +822,6 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 <br/><sup>15</sup> K1-Benutzer können in einem hybriden Setup auf SharePoint Server zugreifen, aber Office 365 K1 enthält keine CAL-Rechte für den Zugriff auf den Server; Diese Rechte müssen separat erworben werden.
 
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
-<a name="BM9_Skype"> </a>
 
 In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, die in Office 365 betrieben von 21Vianet-Plänen zur Verfügung stehen.
 
@@ -1074,7 +1065,6 @@ In der folgenden Tabelle sind Office 365 Pläne aufgeführt, die den SharePoint 
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
 ## <a name="project-online-features"></a>Project Online-Features
-<a name="BM10_ProjectOnline"> </a>
 
 In der folgenden Tabelle sind die Project Online Features aufgeführt, die in Office 365 betrieben von 21Vianet-Plänen zur Verfügung stehen.
 
@@ -1179,7 +1169,6 @@ In der folgenden Tabelle sind die Project Online Features aufgeführt, die in Of
 <br/><sup>2</sup> es wird nur die Erweiterbarkeit für Teammitglieds Szenarien unterstützt.
 
 ## <a name="follow-on-wechat"></a>Befolgter WeChat
-<a name="BM10_ProjectOnline"> </a>
 
 Scannen Sie diesen QR-Code, um Diskussionen über WeChat zu führen und die neuesten Updates für Office 365 betrieben von 21Vianet zu erhalten.
 

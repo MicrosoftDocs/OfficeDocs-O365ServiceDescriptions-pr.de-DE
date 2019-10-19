@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839866"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595264"
 ---
 ---
 
@@ -117,10 +117,12 @@ In der folgenden Tabelle sind die Optionen aufgeführt, die die Anforderungen je
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Wie kaufe ich Microsoft 365 Government?
 
 Führen Sie die folgenden Schritte aus, um Microsoft 365 Government licenses zu erwerben:
+
 1. [Füllen Sie das Formular aus, und senden](https://products.office.com/government/eligibility-validation) Sie es, um die Berechtigung Ihrer Organisation zu überprüfen.
 2. Arbeiten Sie mit dem Microsoft-Konto Team oder einem qualifizierten Partner zusammen, um eine Bestellung aufzugeben. Kunden können Microsoft 365 für US-Regierungslizenzen nur über ausgewählte Partner erwerben.
 
 **Sprachdienstleister gcc und gcc hoch (+ 500 Sitze)**
+
 - CDW
 - Connection (ehemals PC-Verbindung)
 - Dell
@@ -145,7 +147,7 @@ Führen Sie die folgenden Schritte aus, um Microsoft 365 Government licenses zu 
 
 **Hinweis:** Alle Microsoft Licensing Solution Provider (Sprachdienstleister) in der vorstehenden Liste können sowohl gcc als auch gcc High through Enterprise Agreement (EA) zum Erstellen des Kunden Preis Blatts (CPS) abwickeln. Organisationen, die sich nicht für EA qualifizieren, können gcc-Lizenzen über die aufgeführten AOS-G-Partner oder das CSP-Partnerprogramm erwerben.
 
-**Wenn Sie mit einem CSP-Partner zusammenarbeiten, wenden Sie sich an diesen oder [Suchen Sie einen CSP.](https://www.microsoft.com/solution-providers/home)**
+**Wenn Sie mit einem CSP-Partner zusammenarbeiten, wenden Sie sich an diesen oder [Suchen Sie einen CSP](https://www.microsoft.com/solution-providers/home).**
 
 ## <a name="what-trials-are-available"></a>Welche Tests stehen zur Verfügung?
 

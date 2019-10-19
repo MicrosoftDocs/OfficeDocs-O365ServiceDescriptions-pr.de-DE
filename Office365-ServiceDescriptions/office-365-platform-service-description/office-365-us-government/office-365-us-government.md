@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Abschnitt enthält eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diesen zusätzlichen Abschnitt neben den Beschreibungen der Office 365-Dienste zu lesen.
-ms.openlocfilehash: 4765344c128f53057c75b55e9d79120b03d63942
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442740"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595242"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -178,7 +178,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Verwalten zentraler Diensteinstellungen über Office 365  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verwenden von Windows PowerShell zum Verwalten von Office 365  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>1</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup>  <br/> |Nr.<sup>1</sup> <br/> |
-|**[Office 365-Suitefeatures](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
+|**[Features der Office 365 Suite](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Flow  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |
 |Microsoft Forms  <br/> |Ja <br/> |Ja <br/> |Ja<br/> |Ja</sup> <br/> |
@@ -215,7 +215,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Hinzufügen von benutzerdefinierten Domänen der dritten Ebene, wie „marketing.fourthcoffee.com"  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Hinzufügen von bis zu 900 benutzerdefinierten Domänen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Überprüfung des Domänenbesitzes erforderlich für benutzerdefinierte Domänen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Dienststatus und Verfügbarkeit](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
+|**[Dienststatus und Kontinuität](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |
 |Status der einzelnen Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |
 |RSS-Feed **Dienststatus**  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -249,7 +249,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Senden von Benachrichtigungen an das Nachrichtencenter, wenn Aktion erforderlich  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Roadmap.office.com für Dienstupdates  <br/> |Nein<sup>10, 13</sup> <br/> |Nein<sup>10, 13</sup> <br/> |Nein<sup>10, 13</sup> <br/> |Nein<sup>10, 13</sup> <br/> |
 |Option zum Aktivieren des Zielrelease  <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |
-|**[Hilfe und Schulungen](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
+|**[Hilfe und Schulung](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
 |Onlinehilfe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Community  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Weitere Selbsthilferessourcen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -266,7 +266,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Secure Score<sup>14</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |
 |Office-Nachrichtenverschlüsselung  <br/> |Nein  <br/> |Ja <br/> |Ja <br/> |Nein  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nr.<sup>12</sup> <br/> |Nr.<sup>12</sup> <br/> |Ja <br/> |Nr.<sup>12</sup> <br/> |
-|**[Compliance[ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[Compliance](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -276,7 +276,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Microsoft-Datenverarbeitungsvertrag  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |PCI DSS, Stufe 1  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |PCI-geregelte PAN-Daten  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|**[Dienstverfügbarkeit](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|**[Dienstkontinuität](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
 |Verwenden von BlackBerry Internet Service (BIS)  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |
 |**[Partner](../../office-365-platform-service-description/partners.md)** <br/> |||||

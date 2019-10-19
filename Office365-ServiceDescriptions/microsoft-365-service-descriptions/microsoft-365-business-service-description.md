@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. . In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie unter Office 365 Service descriptions.
-ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05e2da6ede768120c0cde61eb28ca1deb7c2cbf5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442550"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582041"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business - Dienstbeschreibung
 
@@ -77,7 +77,7 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
    
 ||||
 |:-----|:-----|:-----|
-|[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Nachrichten Richtlinie und-Kompatibilität](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Archivieren von Exchange Online-basierten Postfächern  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |
 |Aufbewahrungstags und Aufbewahrungsrichtlinien für die Messaging-Datensatzverwaltung  <br/> |Ja  <br/> |Ja  <br/> |
 |Verschlüsselung von Daten im Ruhezustand (BitLocker)  <br/> |Ja  <br/> |Ja  <br/> |
@@ -96,8 +96,8 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
 |Kundenschlüssel für Office 365<sup>12</sup> <br/> |Nein  <br/> |Nein  <br/> |
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |Nein  <br/> |Nein  <br/> |
 |Secure Score<sup>14</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |
-|[Compliance[ServiceDesc]](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|Threat Intelligence  <br/> |Nein  <br/> |Nein  <br/> |
+|[Compliance](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |
@@ -117,7 +117,7 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Identitäts- und Zugriffsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|**Identitäts-und Zugriffsverwaltungsfeatures** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Administrative Einheiten  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Cloud App Discovery  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
@@ -138,7 +138,7 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
 |InTune Mobile Application Management (MAM) für Office-Apps und Branchen-apps<sup>17</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows Update Management, Defender, Firewall Policies<sup>15</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Datenschutz - Selektives Zurücksetzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Sicherheitsgruppenadressierung für Richtlinien  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|Security Group (SG) Targeting für Richtlinien  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Installieren von Office-Apps auf registrierten Windows 10-Geräten  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows Defender-Konfiguration  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Bereitstellen von Geräteprofilen und Sicherheitskonfiguration<sup>15</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
@@ -150,10 +150,10 @@ Unter [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-de
 |**Windows 10-Verwaltungsfeatures** - Microsoft 365 Business erleichtert das Verwalten von Geräten. Beim Einrichten Ihres Microsoft 365 Business-Mandanten wählen Sie App-Schutz und Geräteeinstellungen aus. Diese Einstellungen bestimmen die Richtlinien, die automatisch auf Geräte angewendet werden, wenn sie Azure Active Directory beitreten. Die Windows 10 Pro-Verwaltungsfunktionen umfassen:  <br/>|**Microsoft 365 Business** <br/> |
 |Vereinfachte Bereitstellung mit Windows AutoPilot  <br/> |Ja  <br/> |
 |Abonnementaktivierung  <br/> |Ja  <br/> |
-|Unternehmensweite Steuerung des Gerätebildschirms im Leerlauf  <br/> |Ja  <br/> |
-|Unternehmensweite Steuerung des Benutzerzugriffs auf Apps über den Microsoft Store  <br/> |Ja  <br/> |
-|Unternehmensweite Steuerung des Benutzerzugriffs auf Cortana  <br/> |Ja  <br/> |
-|Unternehmensweite Steuerung von Windows-Tipps und Werbung von Microsoft  <br/> |Ja  <br/> |
+|Organisationssteuerung des Gerätebildschirms im Leerlauf  <br/> |Ja  <br/> |
+|Organisationssteuerung des Benutzerzugriffs auf apps aus dem Microsoft Store  <br/> |Ja  <br/> |
+|Organisationssteuerung des Benutzerzugriffs auf Cortana  <br/> |Ja  <br/> |
+|Organisationssteuerung von Windows-Tipps und Werbung von Microsoft  <br/> |Ja  <br/> |
 |Windows 10-Geräte werden automatisch auf dem neuesten Stand gehalten  <br/> |Ja  <br/> |
 |**Windows 10-Sicherheitsfeatures** <br/> |**Microsoft 365 Business** <br/> |
 |Schützen von PCs mithilfe von Windows Defender Antivirus vor Viren und anderen Bedrohungen  <br/> |Ja  <br/> |
