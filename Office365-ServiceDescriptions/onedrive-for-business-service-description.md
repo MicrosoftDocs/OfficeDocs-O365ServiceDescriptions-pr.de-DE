@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie mehr über den OneDrive-Speicherplatz, der für jeden Abonnementplan bereitgestellt wird.
-ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
-ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
+ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36407719"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582201"
 ---
 # <a name="onedrive-for-business-service-description"></a>OneDrive for Business – Dienstbeschreibung
 
@@ -27,7 +27,7 @@ OneDrive ist ein Online-Speicherplatz in der Cloud, der für einzelne lizenziert
   
 OneDrive ist in den Microsoft 365-, Office 365- und SharePoint Online-Plänen enthalten und kann auch als eigenständiger Plan erworben werden. 
     
-Informationen zum Vergleichen von Plänen finden Sie unter [Vergleich von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) und [Vergleich von Plänen für OneDrive for Business](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans). 
+Informationen zum Vergleichen von Plänen finden Sie unter [Vergleich von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) und [Vergleich von Plänen für OneDrive for Business](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Eigenständige Pläne von OneDrive for Business enthalten Office im Web. 
@@ -38,11 +38,11 @@ Informationen zu den Anforderungen an den OneDrive-Synchronisierungsclient und d
   
 ## <a name="about-sync"></a>Informationen zur Synchronisierung
 
-Jeder, dessen Plan OneDrive umfasst, kann den OneDrive-Synchronisierungsclient verwenden, sofern die IT-Abteilung ihn nicht explizit deaktiviert hat. Um den neuesten Synchronisierungsclient zu installieren, gehen Sie auf [die OneDrive-Downloadseite](https://onedrive.live.com/about/download/). Weitere Informationen zum Synchronisierungsclient finden Sie unter [Synchronisieren von Dateien mit dem OneDrive-Synchronisierungsclient unter Windows](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49).
+Jeder, dessen Plan OneDrive umfasst, kann den OneDrive-Synchronisierungsclient verwenden, sofern die IT-Abteilung ihn nicht explizit deaktiviert hat. Um den neuesten Synchronisierungsclient zu installieren, gehen Sie auf [die OneDrive-Downloadseite](https://onedrive.live.com/about/download/). Weitere Informationen zum Synchronisierungsclient finden Sie unter [Synchronisieren von Dateien mit dem OneDrive-Synchronisierungsclient unter Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49).
   
 ## <a name="storage-space-per-user"></a>Speicherplatz pro Benutzer
 
-**2 GB**
+**5 GB**
 
 - Office 365 Enterprise F1
 
