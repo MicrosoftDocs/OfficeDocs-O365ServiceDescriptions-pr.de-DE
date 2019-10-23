@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
+ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631634"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637252"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -94,7 +94,7 @@ Um die Rechtschreibung für Text in Ihrem Arbeitsblatt zu**überprüfen,** wähl
 
 ## <a name="comment-creation"></a>Comment creation
 
-Sie können Kommentare in Excel für das Internet einfügen, bearbeiten und löschen. Sie können auch einen Kommentar Thread auflösen, der ihn in Bearbeitungen und neue Kommentare schließt, ihn jedoch an der richtigen Stelle lässt. Auf diese Weise können Sie den Thread erneut öffnen, um Kommentare bei Bedarf zu kommentieren. Verwenden Sie @Mentions in ihren Kommentaren, um e-Mails an die von Ihnen erwähnte Person zu senden. Erfahren Sie mehr über das [Hinzufügen von Kommentaren in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Sie können Kommentare in Excel für das Internet einfügen, bearbeiten und löschen. Sie können auch einen Kommentar Thread auflösen, der ihn in Bearbeitungen und neue Kommentare schließt, ihn jedoch an der richtigen Stelle lässt. Auf diese Weise können Sie den Thread erneut öffnen, um Kommentare bei Bedarf zu kommentieren. [Verwenden Sie @Mentions in ihren Kommentaren](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) , um e-Mails an die von Ihnen erwähnte Person zu senden. Erfahren Sie mehr über das [Hinzufügen von Kommentaren in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Konvertieren einer Tabelle in einen Bereich
 
