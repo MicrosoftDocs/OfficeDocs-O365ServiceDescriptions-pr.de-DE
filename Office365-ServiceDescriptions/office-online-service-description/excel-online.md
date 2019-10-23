@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595303"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631634"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -79,10 +79,9 @@ Sie können mit Excel eine Vielzahl von automatischen, manuellen und iterativen 
 
 ## <a name="cell-references-in-formulas"></a>Zellbezüge in Formeln
 
-Sie können Zellbezüge in Formeln verwenden. Wenn Sie auf eine Zelle oder einen Bereich in einer Formel verweisen, wird die referenzierte Zelle oder der Bereich mit einer Farbe hervorgehoben. Weitere Informationen finden Sie unter [use Cell References in a Formula](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+Sie können Zellbezüge in Formeln verwenden. Wenn Sie [auf eine Zelle oder einen Bereich in einer Formel verweisen](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa), wird die referenzierte Zelle oder der Bereich mit einer Farbe hervorgehoben. Weitere Informationen finden Sie unter [use Cell References in a Formula](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Automatisches Anpassen von Diagrammanimationen an neue Daten
-
 Erweiterte Diagrammfeatures werden nur in der Microsoft Excel-Desktop-App unterstützt. Erfahren Sie mehr über das [Animieren einer SmartArt-Grafik](https://go.microsoft.com/fwlink/p/?LinkId=271668).
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Diagramme und Tabellen, einschließlich PivotChart- und PivotTable-Berichte
@@ -95,7 +94,7 @@ Um die Rechtschreibung für Text in Ihrem Arbeitsblatt zu**überprüfen,** wähl
 
 ## <a name="comment-creation"></a>Comment creation
 
-Sie können Kommentare in Excel für das Internet einfügen, bearbeiten und löschen. Sie können auch einen Kommentar Thread auflösen, der ihn in Bearbeitungen und neue Kommentare schließt, ihn jedoch an der richtigen Stelle lässt. Auf diese Weise können Sie den Thread erneut öffnen, um Kommentare bei Bedarf zu kommentieren. Erfahren Sie mehr über das [Hinzufügen von Kommentaren in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Sie können Kommentare in Excel für das Internet einfügen, bearbeiten und löschen. Sie können auch einen Kommentar Thread auflösen, der ihn in Bearbeitungen und neue Kommentare schließt, ihn jedoch an der richtigen Stelle lässt. Auf diese Weise können Sie den Thread erneut öffnen, um Kommentare bei Bedarf zu kommentieren. Verwenden Sie @Mentions in ihren Kommentaren, um e-Mails an die von Ihnen erwähnte Person zu senden. Erfahren Sie mehr über das [Hinzufügen von Kommentaren in Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Konvertieren einer Tabelle in einen Bereich
 
@@ -103,7 +102,7 @@ Nachdem Sie eine Excel-Tabelle erstellt haben, möchten Sie möglicherweise nur 
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Um optimale Ergebnisse zu erzielen, verwenden Sie Tastenkombinationen, und nicht die Befehle im Kontextmenü oder Zwischenablage in Excel für das Internet, um Elemente an einen anderen Arbeitsblatt Speicherort zu kopieren. Erfahren Sie mehr über [die Verwendung von kopieren und Einfügen in Excel für das Internet](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816).
+Sie können Text, Zahlen, Formeln, Formen, Diagramme und Bilder ausschneiden, kopieren und einfügen. Wenn Sie Daten in Spalten haben, die Sie drehen müssen, um Sie in Zeilen neu anzuordnen, verwenden Sie das Feature **Transponieren** im Menü **Einfügen** .
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -124,6 +123,10 @@ Mithilfe der Datenüberprüfung können Sie den Datentyp oder die Werte einschr�
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
 Sie können den Zellenwert in Excel für das Internet verschieben, indem Sie Zellen von einer Stelle in eine andere ziehen und ablegen.
+
+## <a name="draw-cell-borders"></a>Zeichnen von Zellrahmen
+
+Sie können Rahmen um Zellen in einem Arbeitsblatt zeichnen, um die visuelle Strukturierung Ihrer Daten zu erleichtern. Erfahren Sie mehr über [Zellenränder in Excel](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web).
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -155,9 +158,9 @@ Passen Sie Ihre Daten an, um ihnen das gewünschte Aussehen zu verleihen. Ihnen 
   
 ## <a name="formula-bar"></a>Formula bar
 
-Sehen Sie sich die Formeln, die den Ergebnissen in einer Zelle zugrunde liegen, in der Bearbeitungsleiste an. Sie können Teile Ihrer Formel genau so im Browser hinzufügen, ändern und löschen, wie Sie es in der Excel-Desktop-App machen würden.
+Sehen Sie sich die Formeln, die den Ergebnissen in einer Zelle zugrunde liegen, in der Bearbeitungsleiste an. Sie können Teile Ihrer Formel genau so im Browser hinzufügen, ändern und löschen, wie Sie es in der Excel-Desktop-App machen würden. Excel für das Internet hebt die Argumente der Formel mit Farben hervor, die eine visuelle Zuordnung zwischen der Formel und den Daten im Arbeitsblatt ermöglichen.
   
-## <a name="formula-tools--advanced"></a>Erweiterte Formeltools
+## <a name="formula-tools-advanced"></a>Formeltools, erweitert
 
 Die Microsoft Excel-Desktop-App unterstützt fortschrittlichste Formeltools wie 3D-Bezugsarten und Matrixformeln. Excel für das Internet unterstützt nur die grundlegendsten Excel-Formeln. Erfahren Sie mehr über [Formeln](https://go.microsoft.com/fwlink/p/?LinkId=271665).
   
@@ -211,7 +214,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>Benannte Bereiche
 
-Es ist nicht möglich, benannte Bereiche in Excel für das Internet zu erstellen, aber Sie können die benannten Bereiche verwenden, die Sie in Excel Desktop in Ihrer Arbeitsmappe in Excel für das Internet erstellt haben.
+Es ist nicht möglich, benannte Bereiche in Excel für das Internet zu erstellen, aber Sie können die benannten Bereiche verwenden, die Sie in Excel Desktop in Ihrer Arbeitsmappe in Excel für das Internet erstellt haben. Wenn Sie einen benannten Bereich auswählen, wird der Name unmittelbar vor der Bearbeitungsleiste angezeigt.
 
 ## <a name="number-formatting"></a>Zahlenformatierung
 
@@ -295,7 +298,7 @@ Zeigen Sie datenschnitte in Ihrem Arbeitsblatt an, und Filtern Sie die Daten, in
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-In Excel für das Internet können Sie alle Arbeitsblätter anzeigen und neu anordnen, Daten sortieren und Filtern (von oben nach unten oder von links nach rechts) und in die Details von PivotTables einbohren. Erfahren Sie mehr über das [Sortieren und Filtern von Daten](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+In Excel für das Internet können Sie alle Arbeitsblätter anzeigen und neu anordnen, Daten sortieren und Filtern (von oben nach unten oder von links nach rechts, mehrere Ebenen) und in die Details von PivotTables einbohren. Erfahren Sie mehr über das [Sortieren und Filtern von Daten](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Überprüfung und Kompatibilität von Arbeitsmappen
 

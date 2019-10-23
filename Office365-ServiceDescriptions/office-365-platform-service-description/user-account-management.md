@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582171"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631654"
 ---
 # <a name="user-account-management"></a>Benutzerkontenverwaltung
 
@@ -104,7 +104,7 @@ Die Anmeldung hängt von der verwendeten Office 365-Identität ab:
 |Outlook 2010 oder Office Outlook 2007 auf Windows Vista  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
 |POP, IMAP, Outlook für Mac  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
-|Weberlebnisse: Office 365 Portal/Outlook Web App/SharePoint Online/Office für das Internet  <br/> |Jede Browsersitzung anmelden <sup>4</sup> <br/> |Jede Sitzung anmelden <sup>3</sup> <br/> |
+|Weberlebnisse: Office 365-Portal/Outlook im Internet/SharePoint Online/Office für das Internet  <br/> |Jede Browsersitzung anmelden <sup>4</sup> <br/> |Jede Sitzung anmelden <sup>3</sup> <br/> |
 |Office 2010 oder Office 2007 mit SharePoint Online  <br/> |Jede SharePoint Online-Sitzung anmelden <sup>4</sup> <br/> |Jede SharePoint Online-Sitzung anmelden <sup>3</sup> <br/> |
 |Skype for Business Online  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Keine Aufforderung  <br/> |
 |Outlook für Mac  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ Es gibt mehrere Tools zum Zurücksetzen von Kennwörtern für Benutzer mit Cloud
     
     Wenn Administratoren für Enterprise-Pläne ihre Kennwörter verlieren oder vergessen, kann ein anderer Administrator mit der globalen Administratorrolle die Kennwörter von Administratoren im Microsoft 365 Admin Center oder mithilfe von Windows PowerShell zurücksetzen. Weitere Informationen finden Sie im Artikel zum Thema [Zurücksetzen von Administratorkennwörtern](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **Benutzer ändert Kennwörter mit Outlook Web App** Auf der Outlook Web App-Optionsseite finden Sie den Link „Kennwort ändern", der Benutzer auf die Seite **Kennwort ändern** weiterleitet. Der Benutzer muss das bisherige Kennwort kennen. Weitere Informationen finden Sie im Artikel zum Thema [Ändern des Kennworts](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- **Benutzer ändert Kennwörter mit Outlook im Internet** Die Seite Outlook auf der Weboptionen enthält einen Hyperlink Kennwort ändern, mit dem Benutzer zur Seite **Kennwort ändern** umgeleitet werden. Der Benutzer muss das bisherige Kennwort kennen. Weitere Informationen finden Sie im Artikel zum Thema [Ändern des Kennworts](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
 - **Rollenbasierte Rechte zum Zurücksetzen von Kennwörtern** Bei Enterprise-Plänen kann autorisierten Benutzern wie Helpdeskmitarbeitern das Benutzerrecht **Kennwort zurücksetzen** und das Recht zum Ändern von Kennwörtern über die vordefinierten oder benutzerdefinierten Office 365-Rollen zugewiesen werden, ohne dass sie dadurch zu vollständigen Dienstadministratoren werden. Für Enterprise-Pläne ist standardmäßig vorgesehen, dass Administratoren mit der Rolle "Globaler Administrator", "Kennwortadministrator" oder "Benutzerverwaltungsadministrator" Kennwörter ändern können. Weitere Informationen finden Sie unter [Zuweisen von Adminrollen](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
     
@@ -157,7 +157,7 @@ Es gibt mehrere Tools zum Zurücksetzen von Kennwörtern für Benutzer mit Cloud
     
  **Kennwortverwaltung bei Verbundidentitäten:**
   
-Bei der Verwendung von Verbundidentitäten werden Kennwörter in Active Directory verwaltet. Der lokale Sicherheitstokendienst verhandelt die Authentifizierung mit Office 365 Verbund Gateway, ohne die lokalen Active Directory-Kennwörter der Benutzer über das Internet an Office 365 zu übergeben. Lokale Kennwortrichtlinien werden verwendet, oder für Webclients zweistufige Identifikation. Outlook Web App enthält keinen Hyperlink Kennwort ändern. Benutzer ändern ihre Kennwörter mit standardmäßigen, lokalen Tools oder mit Ihren Desktop-PC-Anmeldeoptionen.
+Bei der Verwendung von Verbundidentitäten werden Kennwörter in Active Directory verwaltet. Der lokale Sicherheitstokendienst verhandelt die Authentifizierung mit Office 365 Verbund Gateway, ohne die lokalen Active Directory-Kennwörter der Benutzer über das Internet an Office 365 zu übergeben. Lokale Kennwortrichtlinien werden verwendet, oder für Webclients zweistufige Identifikation. Outlook im Internet enthält keinen Link zum Ändern eines Kennworts. Benutzer ändern ihre Kennwörter mit standardmäßigen, lokalen Tools oder mit Ihren Desktop-PC-Anmeldeoptionen.
   
 Falls [Verzeichnissynchronisierung mit einmaligem Anmelden (SSO)](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100)) in Ihrer Office 365-Umgebung aktiviert ist und es zu einem Ausfall kommt, der Ihren Partneridentitätsanbieter beeinträchtigt, bietet die Kennwortsynchronisierungssicherung für die Verbundanmeldung die Möglichkeit, Ihre Domäne manuell auf Kennwortsynchronisierung umzuschalten. Mit der Kennwortsynchronisierung können Ihre Benutzer auf Office 365 zugreifen, während der Ausfall behoben wird. Erfahren Sie, [wie Sie vom einmaligen Anmelden auf Kennwortsynchronisierung umschalten](https://go.microsoft.com/fwlink/p/?LinkId=509832).
   

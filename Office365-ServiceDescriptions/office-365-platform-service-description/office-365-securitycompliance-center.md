@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Office 365 Security &amp; Compliance Center wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 6f522423fd635f08d6f752d345a6677372096a43
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 7f4aae6b65a81c682e2f27576cb3a65bbd9a0a5a
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523273"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633446"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -52,7 +52,7 @@ Das [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |[Aufsichtsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 ||||||||
    
-<sup>1</sup> die Datensteuerung ermöglicht Benutzern das Erstellen, veröffentlichen und manuelle Anwenden von Bezeichnungen auf Dokumente. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk.<br/>
+<sup>1</sup> mit der Datensteuerung können Benutzer Bezeichnungen erstellen, veröffentlichen und manuell auf Dokumente anwenden. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk.<br/>
 <sup>2</sup> mit Advanced Data Governance können Sie wichtige Informationen beibehalten und unwichtige Informationen löschen, indem Sie Informationen basierend auf einer Aufbewahrungs-oder Löschrichtlinie oder beides klassifizieren. Sie beinhaltet intelligente/automatisierte Aktionen wie z. B. Empfehlungen von Richtlinien, automatisches Anwenden von Bezeichnungen auf Daten, Anwenden von Bezeichnungen basierend auf vertraulichen Datentypen oder Abfragen, Dispositionsprüfung und Verwenden intelligenter Importfilter. Sie umfasst zudem das Supervisorfeature für die Überprüfung der Mitarbeiterkommunikation zu Sicherheits- und Compliancezwecken.<br/>
 Grenzwert von <sup>3</sup> 50 GB. <br/>
 <sup>4</sup> unbegrenzt. <br/>
@@ -91,7 +91,7 @@ Grenzwert von <sup>3</sup> 50 GB. <br/>
 |[Aufsichtsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |||||||||
    
-<sup>1</sup> die Datensteuerung ermöglicht Benutzern das Erstellen, veröffentlichen und manuelle Anwenden von Bezeichnungen auf Dokumente. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk. <br/>
+<sup>1</sup> mit der Datensteuerung können Benutzer Bezeichnungen erstellen, veröffentlichen und manuell auf Dokumente anwenden. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk. <br/>
 <sup>2</sup> erfordert den Kauf von Exchange Online Archivierungs-Add-on. <br/>
 <sup>3</sup> mit Advanced Data Governance können Sie wichtige Informationen beibehalten und unwichtige Informationen löschen, indem Sie Informationen basierend auf einer Aufbewahrungs-oder Löschrichtlinie oder beides klassifizieren. Sie beinhaltet intelligente/automatisierte Aktionen wie z. B. Empfehlungen von Richtlinien, automatisches Anwenden von Bezeichnungen auf Daten, Anwenden von Bezeichnungen basierend auf vertraulichen Datentypen oder Abfragen, Dispositionsprüfung und Verwenden intelligenter Importfilter. Sie umfasst zudem das Supervisorfeature für die Überprüfung der Mitarbeiterkommunikation zu Sicherheits- und Compliancezwecken.<br/>
 <sup>4</sup> Skype-Unterhaltungen werden als Teil des Postfachs gespeichert. <br/>

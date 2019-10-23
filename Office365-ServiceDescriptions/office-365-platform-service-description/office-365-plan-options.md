@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
-ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582061"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633500"
 ---
 # <a name="office-365-plan-options"></a>Optionen zum Office 365-Plan
 
@@ -33,9 +33,9 @@ In der folgenden Tabelle sind die verschiedenen in Office 365 verfügbaren Diens
   
 |**Office 365-Dienstfamilie**|**Pläne**|
 |:-----|:-----|
-|**Business (max. 300 Benutzer)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Business (maximal 300 Benutzer)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (unbegrenzte Anzahl von Benutzern)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F1](https://products.office.com/business/office-365-f1) <br/> |
-|**Education (unbegrenzte Anzahl von Benutzern)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
+|**Bildung (unbegrenzte Anzahl von Benutzern)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Government (unbegrenzte Anzahl von Benutzern)** <br/> |[Alle verfügbaren Unternehmenspläne anzeigen](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Office 365, betrieben von 21Vianet in China** <br/> |[Alle verfügbaren Geschäftspläne anzeigen](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Deutschland** <br/> |[Alle verfügbaren Unternehmenspläne anzeigen](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
@@ -84,6 +84,7 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 #### <a name="basic-client-limitations"></a>Einschränkungen für Basisclients
 
 Die folgenden Features stehen in der vollständigen Clientversion zur Verfügung, jedoch nicht in der Basisversion des Clients:
+
 - Einstellungen für Teamanruf verwalten
 - Verwalten von Stellvertretungen    
 - Anrufe im Namen eines anderen Kontakts tätigen (Vorgesetzter/Stellvertreter-Szenario)    
@@ -97,7 +98,7 @@ Die folgenden Features stehen in der vollständigen Clientversion zur Verfügung
 
 Da die Anforderungen Ihrer Organisation Änderungen unterliegen, müssen Sie Ihren Office 365-Plan unter Umständen ändern. Sie können von Ihrem aktuellen Office 365-Abonnement zu einem anderen Office 365-Abonnement wechseln: 
   
-- **Innerhalb derselben Dienstfamilie:** Sie können beispielsweise von Office 365 Business Essentials zu Office 365 Business Premium oder von Office 365 Enterprise E1 zu Office 365 Enterprise E3 wechseln.     
+- **Innerhalb derselben Dienstfamilie:** Sie können beispielsweise von Office 365 Business Essentials zu Office 365 Business Premium oder von Office 365 Enterprise E1 zu Office 365 Enterprise E3 wechseln.
 - **Von einem eigenständigen Plan:** Sie können beispielsweise von Exchange Online Plan 1 zu Office 365 Enterprise E1 wechseln.     
 - **Zu einer anderen Dienstfamilie:** Sie können beispielsweise von Office 365 Business Essentials zu Office 365 Enterprise E3 wechseln.     
 Weitere Informationen zu Abonnementänderungen wie dem Wechsel von einem Testabonnement zu einem kostenpflichtigen Abonnement finden Sie im Artikel zum Thema [Wechseln zu einem anderen Office 365-Plan oder -Abonnement](https://support.office.com/article/HA104031833).
@@ -105,7 +106,6 @@ Weitere Informationen zu Abonnementänderungen wie dem Wechsel von einem Testabo
 Enterprise-, Business und eigenständige Pläne (z. B. Exchange Online Plan 1) können in einem einzigen Konto kombiniert werden. Vorhandene Einschränkungen für die Anzahl der Sitze pro Plan ändern sich jedoch nicht. Sie können z. B. bis zu 300 Sitze pro Plan auf Office 365 Business Essentials und Office 365 Business Premium, aber eine unbegrenzte Anzahl an Benutzern auf Exchange Online Plan 1 haben.
   
 ## <a name="standalone-services"></a>Eigenständige Dienste
-<a name="bkmk_standaloneservices"> </a>
 
 Die folgenden Onlinedienste sind mit eigenständigen Plänen verfügbar. Sie dürfen auch zu Business- und Enterprise-Dienstfamilienplänen hinzugefügt werden, in denen sie noch nicht enthalten sind. Wählen Sie einen der in der folgenden Tabelle aufgeführten Pläne aus, um Preisinformationen zu erhalten oder um mit einem Online-Mitarbeiter zu chatten.
   
@@ -125,6 +125,5 @@ Die folgenden Onlinedienste sind mit eigenständigen Plänen verfügbar. Sie dü
 |Kaizala  <br/> |[Microsoft Kaizala pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
-<a name="bkmk_standaloneservices"> </a>
 
 Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).

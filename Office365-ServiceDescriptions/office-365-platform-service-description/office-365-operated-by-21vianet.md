@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: ad1ca8df3ff7726b45a23f530ef20884e3ce512e
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 4c2f6398f59bbb7045c3afa09193077975214170
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582151"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633534"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -76,11 +76,11 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|**[Office 365-Verwaltungsfeatures](https://docs.microsoft.com/previous-versions//jj819272(v=technet.10))**||||||||
+|**[Office 365-Verwaltungsfeatures](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**||||||||
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Schützen von Inhalten mit Azure Information Protection|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Manuelle Übersetzung von Nachrichten Center-Beiträgen über maschinelle Übersetzung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Office 365-Suitefeatures](office-365-suite-features.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Features der Office 365 Suite](office-365-suite-features.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Microsoft Bookings|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
 |Microsoft Flow|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Forms|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -95,7 +95,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Office 365-Gruppen|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |Office 365-Video|Nein|Nein|Nein|Ja|Ja|Ja|Ja<sup>2</sup>|
 |OneNote-Kursnotizbuch|Nein|Nein|Nein|Ja<sup>15<sup>|Nein|Nein|Nein|
-|**[Benutzerkontenverwaltung](user-account-management.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Benutzerkonto mManagement](user-account-management.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Cloud-Identität, Verbundidentität oder mehrstufige Authentifizierung<sup>14</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Office 365-Desktopsetup|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Massenupload mit CSV-Dateien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -157,7 +157,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |An das Nachrichten Center gesendete Benachrichtigungen, wenn eine Aktion erforderlich ist, ein Problem wurde behoben, Features werden bereitgestellt oder Ihre Dienständerungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) für einige dienstupdates|Ja|--|Ja|Ja|Ja|Ja|Ja|
 |Option zum Aktivieren des Zielrelease|Nein|--|Nein|Nein|Ja|Ja|Ja|
-|**[Hilfe und Schulungen](help-and-training.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Hilfe und Schulung](help-and-training.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Onlinehilfe|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Community|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Andere Self-Help-Ressourcen<sup>12</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -174,7 +174,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Office 365 Erweiterte eDiscovery|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Sicheres Ergebnis<sup>4</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Informationen zu Bedrohungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Compliance[ServiceDesc]](compliance-servicedesc.md)**||||||||
+|**[Einhaltung](compliance-servicedesc.md)**||||||||
 |SAS 70-/SSAE16-Bewertungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |ISO 27001-Zertifizierung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |EU-Standardvertragsklauseln|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -183,7 +183,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |FISMA Authority to Operate|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft-Datenverarbeitungsvertrag|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |PCI-geregelte PAN-Daten|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Dienstverfügbarkeit](service-health-and-continuity.md)**||||||||
+|**[Dienstkontinuität](service-health-and-continuity.md)**||||||||
 |**[BlackBerry](blackberry.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Verwenden von BlackBerry Internet Service (BIS)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Partner](partners.md)**||||||||
@@ -238,7 +238,7 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 |[Office Mobile für Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Nein|Ja|Nein|Nein|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
 |[Office Mobile für Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Nein|Ja|Nein|Nein|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
 |Outlook für Android|Nein|Ja|Ja|Ja|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
-|**Unternehmenswert**|**Office Professional Plus 2013 betrieben von 21Vianet**|**Office Professional Plus 2016 betrieben von 21Vianet**|**Office 365 ProPlus betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**Enterprise-Wert**|**Office Professional Plus 2013 betrieben von 21Vianet**|**Office Professional Plus 2016 betrieben von 21Vianet**|**Office 365 ProPlus betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |5 Installationen pro Benutzer auf PC oder Mac|Nein|Ja|Ja<sup>6</sup>|Ja<sup>6</sup>|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
 |Automatisiertes Bereitstellen von Benutzerkonten|Nicht zutreffend|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Mehrsprachige Benutzeroberfläche|Ja|Ja|Ja|Nein|Nein|Ja|Nein|Nein|Ja|Nein|
@@ -254,7 +254,7 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 |Unterstützung der Gruppenrichtlinie|Ja|Ja|Ja|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Verwaltung von Informationsrechten (IRM) mithilfe von Azure Information Protection<sup>11</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Verwaltung von Informationsrechten (IRM) mit Windows Server AD RMS<sup>2</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Unterstützung für Office-Add-In, ActiveX und BHO|Ja|Ja|Ja|Nein|Nein|Ja|Nein|Nein|Ja|Nein|
+|Unterstützung für Office-Add-Ins, ActiveX und BHO|Ja|Ja|Ja|Nein|Nein|Ja|Nein|Nein|Ja|Nein|
 |OneNote-Clientzugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive for Business und Office 365|Nein|Ja|Nein|Nein|Nein|Ja|Nein|Nein|Ja|Nein|
 |Office Lens|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Office-Telemetrie|Ja|Ja|Ja|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
@@ -322,7 +322,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Rollenbasierte Berechtigungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollengruppen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollenzuweisungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|**[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Nachrichten Richtlinie und-Kompatibilität](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Archivieren von Exchange Online-basierten Postfächern|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Cloudbasierte Archivierung von lokalen Postfächern|Nein|Nein|Nein|Ja|Nein|Nein|Nein|
 |Aufbewahrungstags und Aufbewahrungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -336,19 +336,19 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Nachrichtenflussregeln (Transportregeln)|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Schutz vor Spam und Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Antispam- und Antischadsoftwareschutz](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Anpassung von Antispamrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
+|Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|
-|Anpassung von Antischadsoftwarerichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
+|Customize anti-malware policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Nein|
-|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|Benutzerdefiniertes Weiterleiten von ausgehenden E-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Sichere Nachrichten mit einem vertrauenswürdigen Partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Bedingtes E-Mail-Routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Hinzufügen eines Partners zu einer Liste sicherer Adressen für eingehende E-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Hinzufügen eines Partners zu einer eingehenden Liste sicherer Adressen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Hybrides E-Mail-Routing|Ja<sup>9</sup>|--|Ja<sup>9</sup>|Ja|Ja|Ja|Ja|
 |**[Empfänger](../exchange-online-service-description/recipients.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Kapazitätswarnungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -371,15 +371,15 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Konferenzraumverwaltung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Abwesenheitsantworten|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Kalenderfreigabe|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|
-|**[Berichterstellungsfeatures und Tools zur Problembehandlung](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Berichtsfeatures und Tools zur Problembehandlung](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Microsoft 365 Admin Center-Berichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Excel-Arbeitsmappe mit Berichten|Nein|Ja|Nein|Nein|Ja|Ja|Ja|
-|Berichte von Webdiensten|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Nachrichtenablaufverfolgung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Excel-Berichtsarbeitsmappe|Nein|Ja|Nein|Nein|Ja|Ja|Ja|
+|Webdienste-Berichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Message trace|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Überwachungsberichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>2</sup>|
 |Unified Messaging-Berichte|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Freigabe und Zusammenarbeit](../exchange-online-service-description/sharing-and-collaboration.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|Verbundfreigabe (einschließlich Kalenderveröffentlichungen)|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|
+|Verbundfreigabe (einschließlich Kalenderveröffentlichung)|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|
 |Öffentliche Ordner|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |**[Clients und mobile Geräte](../exchange-online-service-description/clients-and-mobile-devices.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Microsoft Outlook|Ja|Ja|Ja|Ja|Ja|Ja| Nein <sup>6</sup>|
@@ -389,11 +389,11 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |SMTP|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Outlook für Mac|Ja|Ja|Ja|Ja|Ja|Ja| Nein|
-|**[Sprachnachrichtendienste](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Sprachnachrichten Dienste](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Voicemail|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Integration von Voicemail und Faxlösung eines Drittanbieters|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Integration von Voicemail und Fax eines Drittanbieters|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Interoperabilität von Voicemails eines Drittanbieters|Nein|Ja|Nein|Nein|Nein|Nein|Nein|
-|Skype for Business-Integration|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Skype for Business Integration|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Hohe Verfügbarkeit und Geschäftskontinuität](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Postfachreplikation in Datencentern|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Wiederherstellung gelöschter Postfächer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -402,17 +402,17 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |**[Interoperabilität, Konnektivität und Kompatibilität](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Skype for Business Anwesenheit in OWA und Outlook|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |SharePoint-Interoperabilität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Unterstützung der EWS-Konnektivität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Unterstützung für EWS-Konnektivität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für SMTP-Relay|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Einrichtung und Verwaltung in Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Exchange Online-Setup und-Verwaltung](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Zugriff auf das Microsoft Office 365-Portal|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Microsoft 365 Admin Center-Zugriff|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Zugriff auf die Exchange-Verwaltungskonsole|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Zugriff auf die remote verwendete Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |ActiveSync-Richtlinien für mobile Geräte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Verwendungsbericht|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Extending the Service - Customization, Add-ins, and Resources](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|Outlook-Add-Ins und Outlook MAPI|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Nein|
+|Verwendungsberichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|**[Erweitern des Diensts – Anpassung, Add-Ins und Ressourcen](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|Outlook-Add-Ins und Outlook-MAPI|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Nein|
 
 <sup>1</sup> einige Drittanbieter-Webparts und-Add-Ins sind möglicherweise nicht verfügbar.
 <br/><sup>2</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.
@@ -531,17 +531,17 @@ In der folgenden Tabelle sind die Exchange Online Archivierungs Features aufgef�
 ||||
 |:-----|:-----|:-----|
 |**Funktion**|**Exchange Online-Archivierung für Exchange Server<sup>1</sup>**|**Exchange Online-Archivierung für Exchange Online<sup>2</sup>**|
-|**[Archivfunktionen in der Exchange Online-Archivierung](../exchange-online-archiving-service-description/archive-features.md)**|||
+|**[Archivfunktionen in Exchange Online Archivierung](../exchange-online-archiving-service-description/archive-features.md)**|||
 |Archivpostfach|Nein|Ja|
 |Verschieben von Nachrichten mit der Archivrichtlinie|Nein|Ja|
 |Importieren von Daten in das Archiv|Nein|Ja|
 |Wiederherstellung gelöschter Elemente|Nein|Ja|
 |Wiederherstellung gelöschter Postfächer|Nein|Ja|
 |Postfach-Backup|Nein|Ja|
-|**[Clientfunktionen in der Exchange Online-Archivierung](../exchange-online-archiving-service-description/client-features.md)**|||
+|**[Client Features in Exchange Online Archivierung](../exchange-online-archiving-service-description/client-features.md)**|||
 |Outlook<sup>3</sup>|Nein|Ja|
 |Outlook im Web |Nein|Ja|
-|**[Kompatibilitäts- und Sicherheitsfeatures der Exchange Online-Archivierung](../exchange-online-archiving-service-description/compliance-and-security-features.md)**|||
+|**[Kompatibilitäts-und Sicherheitsfeatures in Exchange Online Archivierung](../exchange-online-archiving-service-description/compliance-and-security-features.md)**|||
 |Aufbewahrungsrichtlinien|Nein|Ja|
 |In-situ-Speicher und Beweissicherungsverfahren<sup>5</sup>|Nein|Ja|
 |Compliance-eDiscovery|Nein|Ja|
@@ -571,30 +571,30 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Entwicklerfeatures**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |[App-Katalog (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[App-Bereitstellung: In der Cloud gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[App-Bereitstellung: In SharePoint gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[App-Bereitstellung: in der Cloud gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[App-Bereitstellung: von SharePoint gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[App-Verwaltungsdienste](../sharepoint-online-service-description/developer.md#app-management-services)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|BCS: Alerts for External Lists|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|[BCS: Externe Inhaltstypen auf App-Ebene](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|BCS: Warnungen für externe Listen|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|[BCS: externe Inhaltstypen auf App-Ebene (ECTS)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |[BCS: Geschäftsdaten-Webparts](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|[BCS: Externe Liste](../sharepoint-online-service-description/developer.md#bcs-external-list)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|[BCS: externe Liste](../sharepoint-online-service-description/developer.md#bcs-external-list)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |[BCS: OData-Connector](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|BCS: Profile Pages|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|BCS: Profilseiten|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[BCS: Rich Client-Integration](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |BCS: Secure Store Service|Nein|Nein|Nein|Ja|Nein|Ja|Nein|
 |BCS: Tenant-level external data log|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Browser-based customizations|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Clientobjektmodell](../sharepoint-online-service-description/developer.md#client-object-model-om)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Client-side rendering (CSR)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Custom Site Definitions|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Seite zur Bereitstellung von benutzerdefinierten Websites](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Entwicklerwebsite](../sharepoint-online-service-description/developer.md#developer-site)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|Benutzerdefinierte Websitedefinitionen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Seite für die benutzerdefinierte Website Einrichtung](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Entwickler Website](../sharepoint-online-service-description/developer.md#developer-site)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Formularbasierte Anwendungen](../sharepoint-online-service-description/developer.md#forms-based-applications)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Voll vertrauenswürdige Lösungen](../sharepoint-online-service-description/developer.md#full-trust-solutions)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Nein|Nein|Nein|Nein|Nein|Nr.<sup>14</sup>|Nein|
 |[JavaScript-Objektmodell](../sharepoint-online-service-description/developer.md#javascript-object-model)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |List and Library APIs|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Remoteereignisempfänger](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|[Remote Ereignisempfänger](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[REST-APIs](../sharepoint-online-service-description/developer.md#rest-apis)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[SharePoint-Entwurfs-Manager](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
@@ -608,63 +608,63 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |**Features für IT-Experten**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |[Active Directory-Synchronisierung](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Alternative Zugriffszuordnung (AAM)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Analytics Platform|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Analyseplattform|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Schutz vor Schadsoftware](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Unterstützung für anspruchsbasierte Authentifizierung](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Configuration Wizards|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Deferred Site Collection upgrade|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Distributed Cache|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Unterstützung der anspruchsbasierten Authentifizierung](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Konfigurations-Assistenten|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Zurückgestelltes Websitesammlungsupgrade|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Verteilter Cache|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Verhinderung von Datenverlust](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Verschlüsselung im Ruhezustand](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Hostheader-Websitesammlungen](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Improved Permissions Management|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Improved Self-Service Site Creation|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
-|Managed Accounts|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Host Header-Websitesammlungen](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Verbesserte Berechtigungsverwaltung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Verbesserte Self-Service Site Creation|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
+|Verwaltete Konten|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Minimal Download Strategy (MDS)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|
 |[Patchverwaltung](../sharepoint-online-service-description/it-professional.md#patch-management)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Kontingentvorlagen](../sharepoint-online-service-description/it-professional.md#quota-templates)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Unterstützung schreibgeschützter Datenbanken](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Remote BLOB Storage](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Remote BLOB storage](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Anforderungsverwaltung](../sharepoint-online-service-description/it-professional.md#request-management)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Request throttling|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Ressourceneinschränkung](../sharepoint-online-service-description/it-professional.md#resource-throttling)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Dienstanwendungsplattform](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|[Dienst Anwendungsplattform](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[SharePoint-Integritätsanalyse](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[SharePoint Admin Center (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|Ja|Ja|Ja|Ja|Ja|Ja|Nr.<sup>4</sup>|
 |Shredded Storage|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Richtlinien für die Kompatibilität von Websitesammlungen](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Site Collection Health Checks|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|State Service|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Streamlined Central Administration|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|System Status Notifications|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Unattached Content Database Recovery|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Compliance-Richtlinien für Websitesammlungen](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Integritätsprüfung für Websitesammlungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Statusdienst|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Optimierte Zentraladministration|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|System Statusbenachrichtigungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Wiederherstellung nicht angefügter Inhaltsdatenbanken|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Upgrade evaluation site collections|Nein|Nein|Nein|Ja|Ja|Ja|Ja|
-|[Nutzung, Berichterstellung und Protokollierung](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Windows PowerShell-Unterstützung](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Verwendungsberichte und Protokollierung](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Windows PowerShell Support](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**Content-Features**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|[Unterstützung von Eingabehilfenstandards](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Verbesserungen an der Objektbibliothek/Unterstützung für Video](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Unterstützung von Zugänglichkeitsstandards](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Verbesserungen bei der Objektbibliothek/Videounterstützung](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Überwachung](../sharepoint-online-service-description/content.md#auditing)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Überwachung &amp; und Berichterstellung (z. B. Änderungen an Dokumenten und Richtlinien sowie Löschvorgänge)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Überwachungs &amp; Berichte (beispielsweise doc-Bearbeitungen, Richtlinien Bearbeitungen, Löschungen)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Inhaltsorganisation](../sharepoint-online-service-description/content.md#content-organizer)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Design-Manager](../sharepoint-online-service-description/content.md#design-manager)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Dokumentenmappen](../sharepoint-online-service-description/content.md#document-sets)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Dokument Übersetzung in Word für das Internet](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[eDiscovery-Suche](../sharepoint-online-service-description/content.md#ediscovery-search)|Ja<sup>6</sup>|Ja|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja<sup>6</sup>|
-|[eDiscovery-Sperre](../sharepoint-online-service-description/content.md#ediscovery-hold)|Nr.<sup>6</sup>|Nein|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Ja<sup>6</sup>|Nr.<sup>6</sup>|
+|[eDiscovery-Aufbewahrung](../sharepoint-online-service-description/content.md#ediscovery-hold)|Nr.<sup>6</sup>|Nein|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Ja<sup>6</sup>|Nr.<sup>6</sup>|
 |[eDiscovery-Export](../sharepoint-online-service-description/content.md#ediscovery-export)|Nr.<sup>6</sup>|Nein|Nr.<sup>6</sup>|Nein|Nr.<sup>6</sup>|Ja<sup>6</sup>|Nr.<sup>6</sup>|
-|Email enabled lists and libraries|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Externe Freigabe: Externer Zugriff](../sharepoint-online-service-description/content.md#external-sharing-external-access)|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|
-|[Externe Freigabe: Gastlink](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|
+|E-Mail-aktivierte Listen und Bibliotheken|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Externe Freigabe: externer Zugriff](../sharepoint-online-service-description/content.md#external-sharing-external-access)|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|
+|[Externe Freigabe: Gast Link](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|Ja<sup>10</sup>|
 |[Ordnersynchronisierung](../sharepoint-online-service-description/content.md#folder-sync)|Ja<sup>1, 10</sup>|Ja|Ja<sup>1, 10</sup>|Ja<sup>1, 10</sup>|Ja<sup>1</sup>|Ja|Ja<sup>2, 11</sup>|
 |Hybrid-Überwachung|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Hybridtaxonomie und Inhaltstypen|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>15</sup>|
+|Hybrid Taxonomie und Inhaltstypen|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>15</sup>|
 |[Verwaltung von Informationsrechten (Information Rights Management, IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Nein|Nein|Nein|Nein|Nein|Nein|Nr.<sup>4</sup>|
 |[Verwaltung von Informationsrechten (Information Rights Management, IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Verwalteter Metadatendienst](../sharepoint-online-service-description/content.md#managed-metadata-service)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Metadaten-gesteuerte Navigation](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|[Mehrstufige Aufbewahrung](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Mehrstufige Disposition](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Office für das Internet (erstellen/bearbeiten)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>8</sup>|
 |[Office für das Internet (Ansicht)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Office ProPlus (Osub)|Nein|Ja|Nein|Nein|Nein|Ja|Nein|
@@ -675,55 +675,55 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |[Datensatzverwaltung](../sharepoint-online-service-description/content.md#records-management)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Papierkorb (SharePoint Admin Center)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |[Papierkorb (Websitesammlung)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Related Items|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|Rich Media Management|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|Verwandte Elemente|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|Rich-Media-Verwaltung|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Freigegebene Inhaltstypen](../sharepoint-online-service-description/content.md#shared-content-types)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[SharePoint-Übersetzungsdienste](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Umfragen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Einzigartige Dokument-IDs](../sharepoint-online-service-description/content.md#unique-document-ids)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Video-Suche](../sharepoint-online-service-description/content.md#video-search)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|[Eindeutige Dokument-IDs](../sharepoint-online-service-description/content.md#unique-document-ids)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Video Suche](../sharepoint-online-service-description/content.md#video-search)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |[Veröffentlichungs Analyse](../sharepoint-online-service-description/content.md#publishing-analytics)|Ja|Nein|Ja|Ja|Nein|Ja|Nein|
 |[Katalog](../sharepoint-online-service-description/content.md#catalog)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |[Kategorie-und Katalogelement Seite](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |[Such-Webparts](../sharepoint-online-service-description/content.md#search-web-parts)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |[Websiteübergreifende Veröffentlichung](../sharepoint-online-service-description/content.md#cross-site-publishing)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|WCM: Designer Tools|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|WCM: Designer-Tools|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Facetten Navigation](../sharepoint-online-service-description/content.md#faceted-navigation)|Nein|Nein|Nein|Nein|Nein|Nr.<sup>7</sup>|Nein|
-|[Bildwiedergaben](../sharepoint-online-service-description/content.md#image-renditions)|Ja|Nein|Ja|Ja|Nein|Nein|Nein|
+|[Bilddarstellungen](../sharepoint-online-service-description/content.md#image-renditions)|Ja|Nein|Ja|Ja|Nein|Nein|Nein|
 |WCM: Managed navigation|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|WCM: Mobile and Device Rendering|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|WCM: Multiple Domains|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|WCM: mobiles und Geräte Rendering|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|WCM: mehrere Domänen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |WCM: Recommendations|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[WCM: Suchmaschinenoptimierungen (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**Insights-Features**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Berechnete Measures und Mitglieder](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|Nein|Nein|Nein|Ja|Nein|Ja|Nein|
+|[Berechnete Measures und Elemente](../sharepoint-online-service-description/insights.md#calculated-measures-and-members)|Nein|Nein|Nein|Ja|Nein|Ja|Nein|
 |[Datenverbindungsbibliothek](../sharepoint-online-service-description/insights.md#data-connection-library)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |[Entkoppelte PivotTables und PivotCharts](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Excel Services|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Field list and Field Support|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|[Filter-Erweiterungen](../sharepoint-online-service-description/insights.md#filter-enhancements)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|[Filtersuche](../sharepoint-online-service-description/insights.md#filter-search)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|Feldlisten-und Feld Unterstützung|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|[Filter Verbesserungen](../sharepoint-online-service-description/insights.md#filter-enhancements)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|[Filtern der Suche](../sharepoint-online-service-description/insights.md#filter-search)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |PerformancePoint Services (PPS) Dashboard Migration|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Power BI|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Power View für Excel in SharePoint](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Power View für Excel in SharePoint](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Schnelleinblick](../sharepoint-online-service-description/insights.md#quick-explore)|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|Scorecards & Dashboards|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Scorecards #a0 Dashboards|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[SQL Server Reporting Services (SSRS) - Integrierter Modus](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Zeitleistenschnitte](../sharepoint-online-service-description/insights.md#timeline-slicer)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Schnittfenster-datenschnitt](../sharepoint-online-service-description/insights.md#timeline-slicer)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Verwenden von und Interagieren mit Excel-Arbeitsmappen, die Datenmodelle enthalten](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Visio für das Internet](https://docs.microsoft.com/exchange/exchange-hybrid)<sup>14, 15</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>14</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**Such funktionen**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|Advanced Content Processing|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|Erweiterte Inhaltsverarbeitung|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Kontinuierliche Durchforstungen](../sharepoint-online-service-description/search.md#continuous-crawls)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Custom entity extraction|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Deep-Links](../sharepoint-online-service-description/search.md#deep-links)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Ereignisbasierte Relevanz](../sharepoint-online-service-description/search.md#event-based-relevancy)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Fachwissen-Suche](../sharepoint-online-service-description/search.md#expertise-search)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Fach Suche](../sharepoint-online-service-description/search.md#expertise-search)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Extensible content processing|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Grafische Einschränkungen](../sharepoint-online-service-description/search.md#graphical-refiners)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Hybridsuche](../sharepoint-online-service-description/search.md#hybrid-search)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -748,29 +748,29 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |["Diese Liste"-Suchvorgänge](../sharepoint-online-service-description/search.md#this-list-searches)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**Sites-Features**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Change the look|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|Connections to Microsoft Office Clients|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Verbindungen mit Microsoft Office Clients|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Browserübergreifende Unterstützung](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Benutzerdefinierte verwaltete Pfade](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Steuerung](../sharepoint-online-service-description/sites-servicedesc.md#governance)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Hybrid-App-Startfeld|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>15</sup>|
+|Hybrid-App-Startprogramm|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>15</sup>|
 |Hybrid OneDrive Business und Standorte|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>15</sup>|
 |[Skalierbarkeit und Verwaltung umfangreicher Listen](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Mobile Konnektivität](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Nein|Ja<sup>13</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|
 |[Mehrsprachige Benutzeroberfläche](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Ja<sup>13</sup>|Ja<sup>13</sup>|Ja<sup>13</sup>|Ja<sup>13</sup>|Ja<sup>13</sup>|Ja<sup>13</sup>|Ja<sup>13</sup>|
 |My Tasks|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[OOTB-Webparts](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|[Berechtigungsverwaltung](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Verwaltung von Berechtigungen](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Project functionality for team sites|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Vorlage für eine Projektwebsite](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |Project Summary web part|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |Project workspace|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[SharePoint-Listen](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|SharePoint Ribbon|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|SharePoint-Menüband|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Dokumentbibliotheken](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Aufgabenliste](../sharepoint-online-service-description/sites-servicedesc.md#task-list)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|Team Site: Drag & Drop|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|Team Website: Drag & Drop #a0|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Team Notizbuch](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
-|Team Site: Simplified Access|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
+|Team Website: vereinfachter Zugriff|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Website Designs](../sharepoint-online-service-description/sites-servicedesc.md#site-designs)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Website Designs (Erscheinungsbild ändern)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |[Seite „Websiteverwendung“](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -779,17 +779,17 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |**Soziale Features**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Ask Me About|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Persönliche Blogs](../sharepoint-online-service-description/social.md#personal-blogs)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Communities Reputation, Badging, and Moderation|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Reputation, Badges und Moderation von Communities|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Community](../sharepoint-online-service-description/social.md#community)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Unternehmens-Feed](../sharepoint-online-service-description/social.md#company-feed)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Document Conversations with Yammer|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Dokumentieren von Unterhaltungen mit jammern|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Folgen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Mikroblogging|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Newsfeed|Ja|Nein|Ja|Ja|Ja|Ja|Nein|
-|One Click Sharing|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|People, Sites, Document Recommendations|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Personal Site|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Photos and Presence|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Freigabe mit einem Mausklick|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Empfehlungen für Personen, Websites und Dokumente|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Persönliche Website|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Fotos und Anwesenheit|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Profil|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Bewertungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Shared with Me|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -797,13 +797,13 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |OneDrive for Business|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>2</sup>|
 |Tag profiles|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Tasks integrated with Outlook|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Trending Tags|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Trend-Tags|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Wikis](../sharepoint-online-service-description/social.md#wikis)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Yammer|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**Add-Ons**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |[Zusätzlicher Speicher](../sharepoint-online-service-description/add-ons.md#additional-storage)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |Azure-gestellte [apps: Access Services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)<sup>3</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Von Azure bereitgestellte Apps: Benutzerdefinierter Code in der Lightweight-Webrolle (LWR) in Azure](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[Azure-gestellte apps: benutzerdefinierter Code in der Azure Lightweight-webrolle (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 
 <sup>1</sup> Um die Ordnersynchronisierung verwenden zu können, müssen Sie Office 2013 oder höher (Standard oder Professional) installiert haben oder über ein Office 365-Abonnement verfügen, das Office-Anwendungen umfasst. Pläne für Office 365 Business Essentials, Office 365 Enterprise E1 und Office 365 Education-Pläne umfassen keine Abonnements für Office-Desktopanwendungen. Sie können allerdings die Ordnersynchronisierung verwenden, sofern Sie Office 2013 oder höher installiert haben und einen dieser Pläne abonnieren.
 <br/><sup>2</sup> Kiosk Konten weisen eine beschränkte OneDrive für Unternehmen Funktionalität auf. Kiosk Kunden können die OneDrive für Unternehmen-Ordner synchronisierungsclient Anwendung verwenden, um Teamwebsite-Dokumentbibliotheken mit einem gemeinsam genutzten Computer zu synchronisieren und offline auf Dokumente zuzugreifen. Kiosk Konten enthalten jedoch keine OneDrive für Unternehmen persönliche Website, sodass Sie nicht von einer OneDrive für Unternehmen persönlichen Bibliothek mit 1 TB Online Speicher profitieren.
@@ -840,17 +840,17 @@ In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, di
 |Skype for Business Mobile Clients|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Skype for Business Web App|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |**[Chat, Anwesenheit und Kontakte](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|Chat und Anwesenheit mit zwei PCs|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Chat und Anwesenheit mit mehr als zwei Teilnehmern|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Visitenkartenkonfiguration|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Konfiguration des eigenen Bilds|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Mein Bild: URL-Foto|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Kontaktlistenkonfiguration|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|PC-zu-PC-Chat und Anwesenheit|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Mehrteilige Sofortnachrichten und Anwesenheit|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Kontaktkarten Konfiguration|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Meine Bild Konfiguration|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Mein Bild: URL Photo Experience|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Kontaktlisten Konfiguration|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Einheitlicher Kontaktspeicher|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Adressbuchsuche|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Verteilerlistenaufgliederung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Verteilerlistenerweiterung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Beständiger Chat|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Fotos von Absender/Empfänger|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Fotos von Sender/Empfänger|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |**[Audio-, Video- und Medienanrufe von Skype zu Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Desktopfreigabe über Videobasierte Bildschirmübertragung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Desktop- und Anwendungsfreigabe über Remotedesktopprotokoll (RDP)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
@@ -863,31 +863,31 @@ In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, di
 | Skype-Partnerverbund|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Partnerverbund zwischen AOL und Yahoo!|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Skype for Business Online-Besprechungen](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|Ad-hoc- und geplante Audiokonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Ad-hoc- und geplante Videokonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Video des aktiven Sprechers|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|H.264-Codierung und -Decodierung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Video mit mehreren Teilnehmern|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|High-Definition-Video oder Bilder von allen Teilnehmern|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Funktionen für Referenten|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Vom Teilnehmer ausgewählte Ansicht|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Ad-hoc-und Zeitplanung für Audiokonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Ad hoc und Planen von Videokonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Video für aktive Lautsprecher|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|H. 264-Codierung und-Decodierung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Video mit mehreren Teilen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|High-Definition-Video oder Bilder aller Teilnehmer|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Presenter-Steuerelemente|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Ausgewählte Ansicht des Teilnehmers|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |OneNote-Freigabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Ad-hoc- und geplante Webkonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Skype for Business-Besprechungeinwahl über Audiokonferenzen (Erstanbieter)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Skype for Business-Besprechungseinwahl über zertifizierten Anbieter für Audiokonferenzen (ACP)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Ad-hoc-und Terminplan-Webkonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Skype for Business Besprechungs Einwahl über Audiokonferenzen (Erstanbieter)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Skype for Business Besprechungs Einwahl über zertifizierten Anbieter für Audiokonferenzen (ACP)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |PowerPoint-Freigabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Dateiübertragung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Whiteboard und Anmerkungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |PowerPoint-Upload|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Abrufen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Clientseitige Aufnahme und Wiedergabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Serverseitige Aufzeichnung und Wiedergabe|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Client seitige Aufzeichnung und Wiedergabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Server seitige Aufzeichnung und Wiedergabe|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Besprechungslobby|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Skype-Livekonferenz|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Gastzugriff auf Skype-Besprechungen mit Skype for Business-Web-App|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Planen von Skype for Business-Besprechungen in Outlook|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Planen von Skype for Business-Besprechungen in Outlook im Auftrag Dritter (Delegierung)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Planen von Skype for Business-Besprechungen mit dem Web Scheduler|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Gastzugriff auf Skype-Besprechungen mit Skype for Business-Webanwendung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Planen von Skype for Business Besprechungen in Outlook|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Planen von Skype for Business Besprechungen in Outlook im Namen anderer Personen (Delegierung)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Planen von Skype for Business Besprechungen mit dem Webplaner|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Planen von Online Besprechungen in Outlook im Internet|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Outlook-Delegierung zum Planen von Besprechungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Erstellen von öffentlichen Besprechungen mit statischen Besprechungs-IDs aus Outlook|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -931,24 +931,24 @@ In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, di
 |[Guthaben für Kommunikation](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Skype for Business Sprachanrufe|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Sicherheit und Archivierung](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|Chat- und Medienverschlüsselung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Chat- und Dateifilterung|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Clientversionskontrolle|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Archivierung von Chatinhalten|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|
-|Archivierung von Konferenzinhalten|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|
-|Archivieren von Anwendungs- oder Desktopfreigaben|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Konfiguration der Archivierung auf Benutzerebene|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|
-|Ablaufverfolgungsdateien der Anmeldung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Sofortnachrichten-und Medienverschlüsselung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Chat-und Dateifilterung|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Client Versionskontrolle|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Nachrichteninhalts Archivierung|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|
+|Archivieren von Konferenz Inhalten|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|
+|Archivierung von Anwendungsfreigaben und Desktopfreigaben|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Archivierungskonfiguration auf Benutzerebene|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|
+|Anmelde Ablaufverfolgungsdateien|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |**[Interoperabilität von Exchange und SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
-|Anwesenheitsinteroperabilität mit Exchange Server|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Anwesenheitsinteroperabilität mit Exchange Online|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Anwesenheits Interoperabilität mit Exchange Server|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Anwesenheits Interoperabilität mit Exchange Online|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Unified Messaging-Interoperabilität mit Exchange Server|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Unified Messaging-Interoperabilität mit Exchange Online|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Interoperabilität von Outlook im Internet|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Archivierungsinteroperabilität mit Exchange Server|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Archivierungsinteroperabilität mit Exchange Online|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Qualifikationssuche mit SharePoint Server|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Qualifikationssuche mit SharePoint Online|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Skill-Suche mit SharePoint Server|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Skill-Suche mit SharePoint Online|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Skype for Business Online-Administration und -Verwaltung](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Microsoft Office 365-Portal|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Microsoft 365 Admin Center|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
@@ -981,17 +981,17 @@ In der folgenden Tabelle sind Office 365 Pläne aufgeführt, die den SharePoint 
 |Skype for Business Mobile Clients|Ja|Ja|
 |Skype for Business Web App|Ja|Ja|
 |**[Chat, Anwesenheit und Kontakte](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**Skype for Business Online eigenständiger Plan 1 für Office 365 betrieben von 21Vianet**|**Skype for Business Online eigenständiger Plan 2 für Office 365 betrieben von 21Vianet**|
-|Chat und Anwesenheit mit zwei PCs|Ja|Ja|
-|Chat und Anwesenheit mit mehr als zwei Teilnehmern|Ja|Ja|
-|Visitenkartenkonfiguration|Ja|Ja|
-|Konfiguration des eigenen Bilds|Ja|Ja|
-|Mein Bild: URL-Foto|Nein|Nein|
-|Kontaktlistenkonfiguration|Ja|Ja|
+|PC-zu-PC-Chat und Anwesenheit|Ja|Ja|
+|Mehrteilige Sofortnachrichten und Anwesenheit|Ja|Ja|
+|Kontaktkarten Konfiguration|Ja|Ja|
+|Meine Bild Konfiguration|Ja|Ja|
+|Mein Bild: URL Photo Experience|Nein|Nein|
+|Kontaktlisten Konfiguration|Ja|Ja|
 |Einheitlicher Kontaktspeicher|Nein|Nein|
 |Adressbuchsuche|Ja|Ja|
-|Verteilerlistenaufgliederung|Ja|Ja|
+|Verteilerlistenerweiterung|Ja|Ja|
 |Beständiger Chat|Nein|Nein|
-|Fotos von Absender/Empfänger|Ja|Ja|
+|Fotos von Sender/Empfänger|Ja|Ja|
 |**[Audio-, Video- und Medienanrufe von Skype zu Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**Skype for Business Online eigenständiger Plan 1 für Office 365 betrieben von 21Vianet**|**Skype for Business Online eigenständiger Plan 2 für Office 365 betrieben von 21Vianet**|
 |Desktopfreigabe|Nr.<sup>2</sup>|Ja|
 |Anwendungsfreigabe|Nr.<sup>2</sup>|Ja|
@@ -1007,50 +1007,50 @@ In der folgenden Tabelle sind Office 365 Pläne aufgeführt, die den SharePoint 
 | Skype-Partnerverbund|Nein|Nein|
 |Partnerverbund zwischen AOL und Yahoo!|Nein|Nein|
 |**[Skype for Business Online-Besprechungen](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Skype for Business Online eigenständiger Plan 1 für Office 365 betrieben von 21Vianet**|**Skype for Business Online eigenständiger Plan 2 für Office 365 betrieben von 21Vianet**|
-|Ad-hoc- und geplante Audiokonferenzen|Nein|Ja|
-|Ad-hoc- und geplante Videokonferenzen|Nein|Ja|
-|Video des aktiven Sprechers|Nein|Ja|
-|H.264-Codierung und -Decodierung|Nein|Ja|
-|Video mit mehreren Teilnehmern|Nein|Ja|
-|High-Definition-Video oder Bilder von allen Teilnehmern|Nein|Ja|
-|Funktionen für Referenten|Nein|Ja|
-|Vom Teilnehmer ausgewählte Ansicht|Nein|Ja|
+|Ad-hoc-und Zeitplanung für Audiokonferenzen|Nein|Ja|
+|Ad hoc und Planen von Videokonferenzen|Nein|Ja|
+|Video für aktive Lautsprecher|Nein|Ja|
+|H. 264-Codierung und eecoding|Nein|Ja|
+|Video mit mehreren Teilen|Nein|Ja|
+|High-Definition-Video oder Bilder aller Teilnehmer|Nein|Ja|
+|Presenter-Steuerelemente|Nein|Ja|
+|Ausgewählte Ansicht des Teilnehmers|Nein|Ja|
 |OneNote-Freigabe|Nein|Ja|
-|Ad-hoc- und geplante Webkonferenzen|Nein|Ja|
-|Einwahl-Audiokonferenzen über zertifizierten Anbieter für Audiokonferenzen (ACP)|Nein|Nein|
+|Ad-hoc-und Terminplan-Webkonferenzen|Nein|Ja|
+|Einwahl-Audiokonferenzen über zertifizierten Audiokonferenz-Anbieter (ACP)|Nein|Nein|
 |PowerPoint-Freigabe|Nein|Ja|
 |Whiteboard und Anmerkungen|Nein|Ja|
 |PowerPoint-Upload|Nein|Ja|
 |Abrufen|Nein|Ja|
-|Clientseitige Aufnahme und Wiedergabe|Nein|Ja<sup>1</sup>|
-|Serverseitige Aufzeichnung und Wiedergabe|Nein|Nein|
+|Client seitige Aufzeichnung und Wiedergabe|Nein|Ja<sup>1</sup>|
+|Server seitige Aufzeichnung und Wiedergabe|Nein|Nein|
 |Besprechungslobby|Nein|Ja|
-|Gastzugriff auf Skype for Business-Besprechungen mit Skype for Business Web App|Nein|Ja|
-|Planen von Skype for Business-Besprechungen in Outlook|Nein|Ja|
-|Planen von Skype for Business-Besprechungen in Outlook im Auftrag Dritter (Delegierung)|Nein|Ja|
-|Planen von Skype for Business-Besprechungen mit dem Web Scheduler|Nein|Ja|
-|Planen von Online Besprechungen in Outlook im Internet|Nein|Ja|
+|Gastzugriff auf Skype for Business Besprechungen mit Skype for Business-Webanwendung|Nein|Ja|
+|Planen von Skype for Business Besprechungen in Outlook|Nein|Ja|
+|Planen von Skype for Business Besprechungen in Outlook im Namen anderer Personen (Delegierung)|Nein|Ja|
+|Planen von Skype for Business Besprechungen mit dem Webplaner|Nein|Ja|
+|Planen von Onlinebesprechungen in Outlook im Internet|Nein|Ja|
 |Outlook-Delegierung zum Planen von Besprechungen|Nein|Ja|
 |Erstellen von öffentlichen Besprechungen mit statischen Besprechungs-IDs aus Outlook|Nein|Nein|
 |**[Sicherheit und Archivierung](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Skype for Business Online eigenständiger Plan 1 für Office 365 betrieben von 21Vianet**|**Skype for Business Online eigenständiger Plan 2 für Office 365 betrieben von 21Vianet**|
-|Chat- und Medienverschlüsselung|Ja|Ja|
-|Chat- und Dateifilterung|Nein|Nein|
-|Clientversionskontrolle|Ja|Ja|
-|Archivierung von Chatinhalten|Nr.<sup>3</sup>|Nr.<sup>3</sup>|
-|Archivierung von Konferenzinhalten|Nr.<sup>3</sup>|Nr.<sup>3</sup>|
-|Archivieren von Anwendungs- oder Desktopfreigaben|Nein|Nein|
-|Konfiguration der Archivierung auf Benutzerebene|Nr.<sup>3</sup>|Nr.<sup>3</sup>|
-|Ablaufverfolgungsdateien der Anmeldung|Ja|Ja|
+|Sofortnachrichten-und Medienverschlüsselung|Ja|Ja|
+|Chat-und Dateifilterung|Nein|Nein|
+|Client Versionskontrolle|Ja|Ja|
+|Nachrichteninhalts Archivierung|Nr.<sup>3</sup>|Nr.<sup>3</sup>|
+|Archivieren von Konferenz Inhalten|Nr.<sup>3</sup>|Nr.<sup>3</sup>|
+|Archivierung von Anwendungsfreigaben und Desktopfreigaben|Nein|Nein|
+|Archivierungskonfiguration auf Benutzerebene|Nr.<sup>3</sup>|Nr.<sup>3</sup>|
+|Anmelde Ablaufverfolgungsdateien|Ja|Ja|
 |**[Interoperabilität von Exchange und SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Skype for Business Online eigenständiger Plan 1 für Office 365 betrieben von 21Vianet**|**Skype for Business Online eigenständiger Plan 2 für Office 365 betrieben von 21Vianet**|
-|Anwesenheitsinteroperabilität mit Exchange Server|Ja|Ja|
-|Anwesenheitsinteroperabilität mit Exchange Online|Ja<sup>5</sup>|Ja|
+|Anwesenheits Interoperabilität mit Exchange Server|Ja|Ja|
+|Anwesenheits Interoperabilität mit Exchange Online|Ja<sup>5</sup>|Ja|
 |Unified Messaging-Interoperabilität mit Exchange Server|Nein|Nein|
 |Unified Messaging-Interoperabilität mit Exchange Online|Nein|Nein|
 |Interoperabilität von Outlook im Internet|Ja<sup>5</sup>|Ja|
 |Archivierungsinteroperabilität mit Exchange Server|Nein|Nein|
 |Archivierungsinteroperabilität mit Exchange Online|Nein|Nein|
-|Qualifikationssuche mit SharePoint Server|Nein|Nein|
-|Qualifikationssuche mit SharePoint Online|Nein|Nein|
+|Skill-Suche mit SharePoint Server|Nein|Nein|
+|Skill-Suche mit SharePoint Online|Nein|Nein|
 |**[Skype for Business Online-Administration und -Verwaltung](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Skype for Business Online eigenständiger Plan 1 für Office 365 betrieben von 21Vianet**|**Skype for Business Online eigenständiger Plan 2 für Office 365 betrieben von 21Vianet**|
 |Microsoft Office 365-Portal|Ja|Ja|
 |Microsoft 365 Admin Center|Ja|Ja|
@@ -1084,7 +1084,7 @@ In der folgenden Tabelle sind die Project Online Features aufgeführt, die in Of
 |[Ansichten von Gantt-Diagrammen, Kalendern und Vorgangsblättern](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|Nein|Ja|Ja|Ja|Nein|
 |[Microsoft Fluent-Benutzeroberfläche, Menüband](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|Nein|Ja|Ja|Ja|Nein|
 |[Funktion für das Rückgängigmachen über mehrere Ebenen](../project-online-service-description/core-functionality.md#multiple-level-undo)|Nein|Ja|Ja|Ja|Nein|
-|[Ansicht "Netzplandiagramm"](../project-online-service-description/core-functionality.md#network-diagram-view)|Nein|Ja|Ja|Ja|Nein|
+|[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|Nein|Ja|Ja|Ja|Nein|
 |[Office Store](../project-online-service-description/core-functionality.md#office-store)|Nein|Nein|Nein|Nein|Nein|
 |[Onlinehilfe](../project-online-service-description/core-functionality.md#online-help)|Nein|Ja|Ja|Ja|Nein|
 |[Ausgabe von PDF und XPS](../project-online-service-description/core-functionality.md#pdf-and-xps-output)|Nein|Ja|Ja|Ja|Nein|
@@ -1111,7 +1111,7 @@ In der folgenden Tabelle sind die Project Online Features aufgeführt, die in Of
 |[Kalenderdatum verlängert bis 2149](../project-online-service-description/task-management.md#calendar-date-extended-to-2149)|Nein|Ja|Ja|Ja|Nein|
 |[Projektübergreifender kritischer Weg](../project-online-service-description/task-management.md#cross-project-critical-path)|Nein|Ja|Ja|Ja|Nein|
 |[Vorgangsinspektor](../project-online-service-description/task-management.md#task-inspector)|Nein|Ja|Ja|Ja|Nein|
-|[Aufgabenpfadanalyse](../project-online-service-description/task-management.md#task-path-analysis)|Nein|Ja|Ja|Ja|Nein|
+|[Aufgaben Pfadanalyse](../project-online-service-description/task-management.md#task-path-analysis)|Nein|Ja|Ja|Ja|Nein|
 |[Top-down-Sammelvorgänge](../project-online-service-description/task-management.md#top-down-summary-tasks)|Nein|Ja|Ja|Ja|Nein|
 |[Aktualisieren des Fortschritts](../project-online-service-description/task-management.md#update-progress)|Nein|Ja|Ja|Ja|Nein|
 |[Benutzergesteuerte und manuelle Planung](../project-online-service-description/task-management.md#user-controlled-and-manual-scheduling)|Nein|Ja|Ja|Ja|Nein|
@@ -1127,9 +1127,9 @@ In der folgenden Tabelle sind die Project Online Features aufgeführt, die in Of
 |[Erstellen einer Projektwebsite](../project-online-service-description/project-publishing.md#create-a-project-site)|Nein|Ja|Ja|Ja|Nein|
 |[Hauptprojekte in SharePoint](../project-online-service-description/project-publishing.md#master-projects-on-sharepoint)|Nein|Ja|Ja|Ja|Nein|
 |[Anwesenheit mit Skype for Business](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|Nein|Ja|Ja|Ja|Nein|
-|[Veröffentlichen von Projekten für Project Server oder Project Online](../project-online-service-description/project-publishing.md#publish-projects-to-project-server-or-project-online)|Nein|Ja|Ja|Ja|Nein|
-|[Speichern einer Project-MPP-Datei in SharePoint](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-to-sharepoint)|Nein|Ja|Ja|Ja|Nein|
-|[Synchronisieren von Aufgabenlisten mit SharePoint](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|Nein|Ja|Ja|Ja|Nein|
+|[Veröffentlichen von Projekten auf Project Server oder Project Online](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|Nein|Ja|Ja|Ja|Nein|
+|[Speichern einer Project-MPP-Datei in SharePoint](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|Nein|Ja|Ja|Ja|Nein|
+|[Aufgabenlisten Synchronisierung mit SharePoint](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|Nein|Ja|Ja|Ja|Nein|
 |**Hauptfunktionalitäten des Diensts**|**Project Online Essentials für Office 365 betrieben von 21Vianet**|**Project Online Professional für Office 365 betrieben von 21Vianet**|**Project Online Premium für Office 365 betrieben von 21Vianet**|**Project Professional 2016 für Office 365 betrieben von 21Vianet**|**Project Server 2016 für Office 365 betrieben von 21Vianet**|
 |[Active Directory-Integration](../project-online-service-description/core-services-functionality.md#active-directory-integration)|Ja<sup>1</sup>|Ja|Ja|Nein|Ja|
 |[Verwaltung, Bereitstellung und Erweiterbarkeit](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|Nr.<sup>2</sup>|Ja|Ja|Nein|Ja|
