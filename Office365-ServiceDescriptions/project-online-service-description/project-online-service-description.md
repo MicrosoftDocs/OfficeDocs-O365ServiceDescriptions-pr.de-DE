@@ -1,5 +1,5 @@
 ---
-title: Microsoft Project-Dienstbeschreibung
+title: Microsoft Project – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523257"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700247"
 ---
-# <a name="microsoft-project-service-description"></a>Microsoft Project-Dienstbeschreibung
+# <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
 ## <a name="overview"></a>Übersicht
 
@@ -50,7 +50,18 @@ Project Online ist eine flexible Online Lösung für das Projekt Portfolio Manag
 
 Project Online baut auf der SharePoint-Plattform auf und speichert Daten im SharePoint-Datenspeicher.
 
-Project Online ist über zwei Abonnements verfügbar: Project Online Professional und Project Online Premium. Die Funktionen der Team Mitglieder für Project online sind über ein [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) -Abonnement verfügbar. Die im Abschnitt [Project Online Features](#project-online-features) aufgeführten Features interagieren nur mit Daten im Project Online SharePoint-Datenspeicher.
+Project Online ist über zwei Abonnements verfügbar: Project Online Professional und Project Online Premium. Die im Abschnitt [Project Online Features](#project-online-features) aufgeführten Features interagieren nur mit Daten im Project Online SharePoint-Datenspeicher.
+
+Die Funktionen der Team Mitglieder für Project online sind über ein [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) -Abonnement verfügbar. Project Online Essentials ist ein *Add-on-* Abonnement für Teammitglieder für Kunden, die über Project Online Professional-oder Project Online Premium-Abonnements verfügen. Es gibt Teammitgliedern eine Weboberfläche zum Ausführen von Aufgaben-und Zeit Updates für in Project online verwaltete Projekte. 
+
+Team Mitglieder mit Project Online Essentials können die folgenden Project Online Funktionen ausführen:
+
+- Verwenden einer webbasierten Schnittstelle
+- Aktualisieren von Aufgaben, Problemen und Risiken
+- Übermitteln von Arbeitszeittabellen
+- Freigeben von Dokumenten und Zusammenarbeit mit Microsoft Teams oder Skype for Business Benutzern
+
+Project Online Essentials umfasst kein Project für das Internet.
 
 ### <a name="project-online-desktop-client"></a>Project Online-Desktop Client
 
@@ -107,7 +118,7 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt 
 |**Benutzerfreundlichkeit**||
 |Gemeinsame Dokumentenerstellung | Arbeiten Sie mit Beteiligten und Teammitgliedern zusammen, um Aufgabenlisten, Projektzeitpläne und vieles mehr gleichzeitig zu erstellen, zu bearbeiten und zu aktualisieren.|
 |Grafische Indikatoren | Grundlegendes zu Aufgabenstatus, Zuordnungen und mehr mit grafischen Indikatoren. |
-|**Mobilitäts**||
+|**Mobilität**||
 |Mobile Anwendungen | Erstellen Sie benutzerdefinierte Mobile Anwendungen mit PowerApps. <sup>4</sup> |
 |**Anpassung und Integration**||
 |PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile mit PowerApps. <sup>4</sup> |
@@ -180,7 +191,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung.  | Nein | Ja |
 
-#### <a name="notes"></a>Anmerkungen
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
@@ -247,7 +258,15 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 
 ### <a name="use-of-sharepoint-online"></a>Verwenden von SharePoint Online
 
-Project Online erfordert die Verwendung von SharePoint Online, die Ihnen als Teil Project online zur Verfügung gestellt wird. Rechte an der SharePoint Online Funktionalität, die mit Project Online Professional oder Premium bereitgestellt werden, sind auf das Speichern und Zugreifen auf Daten zur Unterstützung von Project Online limitiert.
+Project Online erfordert die Verwendung von SharePoint Online, die als Teil Project Onlines vorgesehen ist. Rechte an der SharePoint Online Funktionalität, die mit Project Online Professional oder Premium bereitgestellt werden, sind auf das Speichern und Zugreifen auf Daten zur Unterstützung von Project Online limitiert.
+
+### <a name="project-roadmap-and-microsoft-flow"></a>Projekt-Roadmap und Microsoft Flow
+
+Für die Projektplanung ist die Verwendung von Microsoft Flow erforderlich, die als Teil Ihres Projekt Abonnements bereitgestellt wird. Die Rechte an Microsoft Flow-Funktionen sind auf die von der Projektplanung benötigten Microsoft Flow-Funktionen limitiert. Die von Project-Roadmap erforderliche Microsoft Flow-Funktionalität wird im Microsoft 365 Admin Center im Abschnitt **apps** als **Daten Integration für Project mit Flow** -Dienstplan angezeigt.
+
+### <a name="project-for-the-web-and-common-data-service"></a>Projekt für das Internet und gemeinsamer Datendienst
+
+Für Project für das Internet ist die Verwendung des gemeinsamen Datendiensts (CDs) zum Speichern der Daten erforderlich. CDs werden im Rahmen Ihres Projekt Abonnements als Teil Ihres Projekts geplant. Die Rechte an CDs-Funktionen sind auf das Speichern und Zugreifen auf Daten zur Unterstützung von Project für das Internet limitiert. Für Project erforderliche CDs-Funktionalität wird im Microsoft 365 Admin Center im Abschnitt **apps** als **allgemeiner Datendienst für Projekt** Dienstplan angezeigt.
 
 ### <a name="data-backup-and-retention"></a>Datensicherung und-Aufbewahrung
 
@@ -266,7 +285,7 @@ Project für das Internet weist einige Einschränkungen auf, die in der folgende
 |Max. Dauer des Sammelvorgangs | 3650 Tage (10 Jahre) |
 |Max. Ressourcen, die einem Vorgang zugewiesen werden können | 20 Ressourcen |
 |Unterstützter Datumsbereich für Vorgang | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Projekt** ||
 |Max. Gesamtzahl der Vorgänge für das Projekt | 500 |
 |Max. Gesamtdauer des Projekts | 3650 Tage (10 Jahre) |
 |Max. Gesamtressourcen für das Projekt | 150 |

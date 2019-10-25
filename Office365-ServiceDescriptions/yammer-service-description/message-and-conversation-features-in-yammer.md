@@ -1,5 +1,5 @@
 ---
-title: Nachrichten- und Unterhaltungsfeatures in Yammer
+title: Nachrichten-und Unterhaltungsfeatures in "jammern"
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,60 +12,50 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
-ms.openlocfilehash: 23bef908e50cf68cfb9866e0f11031e1f808b16f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: c6f913a31250ce9291cf949f2a9098757afeaa21
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777926"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726506"
 ---
-# <a name="message-and-conversation-features-in-yammer"></a>Nachrichten- und Unterhaltungsfeatures in Yammer
+# <a name="message-and-conversation-features-in-yammer"></a>Nachrichten-und Unterhaltungsfeatures in "jammern"
 
 Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
   
-## <a name="publisher"></a>Publisher
-<a name="bkmk_Publisher"> </a>
-
-Mithilfe des Herausgebers können Sie ein Update freigeben, ein Dokument hinzufügen, eine Umfrage veröffentlichen, jemanden loben oder ein Ereignis posten.
-  
 ## <a name="mention"></a>@Mention
-<a name="bkmk_AtMention"> </a>
 
 Benachrichtigen Sie andere Kollegen, und beziehen Sie sie durch die Erwähnung ihres Namens in eine Unterhaltung ein.
-  
-## <a name="online-now"></a>Jetzt online
-<a name="bkmk_OnlineNow"> </a>
 
-Sie können sehen, wer online ist, und sofort eine private Diskussion mit einem oder mehreren Kollegen beginnen. Die Kontaktliste wird automatisch nach den Personen sortiert, mit denen Sie am meisten zu tun haben.
-  
-## <a name="private-messages"></a>Private Messages
-<a name="bkmk_PrivateMessages"> </a>
+## <a name="events"></a>Ereignisse
 
-Beginnen Sie mit einem oder mehreren Kollegen einen privaten Dialog. Sie können jederzeit weitere Teilnehmer hinzufügen.
-  
-## <a name="share-conversations"></a>Freigeben von Unterhaltungen
-<a name="bkmk_ShareConversations"> </a>
-
-Geben Sie Unterhaltungen für den Feed einer anderen Gruppe oder über eine private Nachricht frei, um Informationen und wichtige Nachrichten weiterzugeben.
+Organisieren Sie Besprechungen und Ereignisse, teilen Sie Sie mit Kollegen und verfolgen Sie die Teilnahme. Ereignisse können Outlook, Google, Yahoo! und iCal Kalendern hinzugefügt werden.
   
 ## <a name="office-for-the-web-support"></a>Unterstützung für Office für die Webdienste
-<a name="bkmk_ShareConversations"> </a>
 
-Mit Office für die Webunterstützung in "jammern" können Dokumente, die in "jammern" hochgeladen wurden, mit Office für das Internet direkt in jammern angezeigt und bearbeitet werden. Auf diese Weise können Dokumente mit Office für das Internet wunderbar gerendert werden, die gemeinsame Dokumenterstellung von verschiedenen Benutzern gleichzeitig ermöglicht und relevante Jammer Gespräche direkt in Ihrem Browser angezeigt werden.
-  
-## <a name="events"></a>Ereignisse
-<a name="bkmk_Events"> </a>
+Mit Office für die Webunterstützung in "jammern" können Dokumente, die in "jammern" hochgeladen wurden, mit Office für das Internet direkt in jammern angezeigt und bearbeitet werden. Auf diese Weise können Dokumente mit Office für das Internet wunderbar gerendert werden, die gemeinsame Dokumenterstellung von verschiedenen Benutzern gleichzeitig ermöglicht und relevante Jammer Gespräche direkt im Browser angezeigt werden.
 
-Organisieren Sie Besprechungen und Veranstaltungen, geben Sie sie für Kollegen frei, und verfolgen Sie die Teilnahme. Ereignisse können Outlook-, Google-, Yahoo!- und iCal-Kalendern hinzugefügt werden.
-  
+## <a name="online-now"></a>Jetzt Online
+
+Sie können sehen, wer online ist, und sofort eine private Diskussion mit einem oder mehreren Kollegen beginnen. Die Kontaktliste wird automatisch nach den Personen sortiert, mit denen Sie am meisten zu tun haben.
+
 ## <a name="polls"></a>Umfragen
-<a name="bkmk_Polls"> </a>
 
 Erstellen Sie im Handumdrehen eine Umfrage, um Kollegen zu befragen und Feedback von anderen zu sammeln und auf diese Weise fundierte Entscheidungen treffen zu können.
   
-## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
-<a name="bkmk_Polls"> </a>
+## <a name="private-messages"></a>Private Nachrichten
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Beschreibung des Yammer-Dienstes](yammer-service-description.md).
+Beginnen Sie mit einem oder mehreren Kollegen einen privaten Dialog. Sie können jederzeit weitere Teilnehmer hinzufügen.
+
+## <a name="publisher"></a>Publisher
+
+Verwenden Sie den Herausgeber, um ein Update freizugeben, ein Dokument hinzuzufügen, eine Umfrage bekanntzugeben, jemanden zu loben oder ein Ereignis zu veröffentlichen.
+    
+## <a name="share-conversations"></a>Freigeben von Unterhaltungen
+
+Geben Sie Unterhaltungen im Feed einer anderen Gruppe oder über eine private Nachricht weiter, um Informationen und wichtige Nachrichten weiterzuleiten.
   
+## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
+  

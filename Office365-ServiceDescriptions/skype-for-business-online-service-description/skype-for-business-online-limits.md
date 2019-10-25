@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategorien:'
-ms.openlocfilehash: 93a104be708fceae8664447cd1d61ef914dd7fba
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Die Grenzwerte in Skype for Business Online fallen in die folgenden Kategorien.
+ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777806"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726064"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -68,7 +68,6 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 > <sup>1</sup> ein Client kann einen Chat mit bis zu 99 Benutzern starten, indem er Sie entweder manuell hinzufügt oder eine Sofortnachricht aus dem Kontextmenü einer Gruppe oder Verteilerliste sendet. Weitere Informationen zu Chatnachrichten in Skype for Business Online finden Sie unter [Senden eines Chats in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Meeting-Grenzwerte
-<a name="bkmk_Meeting_LyncOnlineLimits"> </a>
 
 - **Grenzwert bei Dateiuploads** Die maximale Größe der Dateien, die zu einer Skype for Business-Besprechung hochgeladen werden können, einschließlich Handzetteln und PowerPoint-Präsentationen. 
     
@@ -112,7 +111,6 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 |Personen in einer Teamanrufgruppe  <br/> |25  <br/> |Nicht zutreffend  <br/> |25  <br/> |
    
 ## <a name="meeting-retention-limits"></a>Besprechungsaufbewahrungsgrenzwerte
-<a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
 
 - **Beibehaltungsdauer für Besprechungsinhalt** Die Dauer, nach der die letzte Person eine Besprechung verlassen hat, die der gesamte hochgeladene Inhalt in Skype for Business beibehalten wird, bevor er dauerhaft gelöscht wird. 
     
@@ -131,10 +129,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 |Wiederkehrende Besprechung ohne Enddatum| Auf die Besprechung kann immer zugegriffen werden, vorausgesetzt, es gibt neue Konferenz Beitritt (Aktivierungen) oder Zeitplanaktualisierungen mindestens einmal pro Jahr.
 |Jetzt treffen|Die Besprechung ist mindestens 8 Stunden lang verfügbar.
 
-
-  
 ## <a name="minute-limits"></a>Minutenlimits
-<a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-Informationen zu Minutenlimits im Plan für internationale Anrufe in Office 365 oder im Plan für Anrufe im Inland in Office 365 finden Sie unter [hier](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
+Informationen zu Minuten Einschränkungen im Office 365 Anrufplan für Inlandsanrufe oder zum Office 365 internationalen Anrufplan finden Sie unter [Verfügbarkeit von Ländern und Regionen für Audiokonferenz-und Anrufpläne](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
   

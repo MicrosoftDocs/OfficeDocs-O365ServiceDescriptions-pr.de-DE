@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Featurevergleich von Office 365-Abonnements, die Exchange Online umfassen? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581941"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701363"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -245,7 +245,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Unwichtige Elemente|Nein|Nein|Ja|Ja|Ja|
 |MailTips|Ja|Ja|Ja|Ja|Ja|
 |Stellvertretungszugriff|Ja|Ja|Ja\|ja|Nein|
-|Posteingangsregeln|Ja|Ja|Ja|Ja|Nein|
+|Posteingangsregeln|Ja|Ja|Ja|Ja|Ja|
 |Verbundene Konten|Ja|Ja|Ja<sup>19</sup>|Ja<sup>19</sup>|Ja<sup>19</sup>|
 |Inaktive Postfächer|Nein|Nein|Nein <sup>6</sup>|Ja|Nein <sup>6</sup>|
 |Offlineadressbuch|Ja|Ja|Ja|Ja|Ja|

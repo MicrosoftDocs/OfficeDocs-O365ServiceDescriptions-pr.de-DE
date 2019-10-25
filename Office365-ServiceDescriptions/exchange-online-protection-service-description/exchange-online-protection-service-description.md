@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Schutz bieten, sowie einen Vergleich der Features in diesen Plänen.
-ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581911"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700227"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
@@ -25,9 +25,9 @@ Abrufen von Informationen zu Features und Anforderungen für Exchange Online Pro
 
 Microsoft Exchange Online Protection (EOP) ist ein cloudbasierter Dienst zum Filtern von E-Mails, mit dem Sie Ihre Organisation vor Spam und Schadsoftware schützen können. EOP kann die Verwaltung Ihrer Messagingumgebung und viele der beschwerlichen Aufgaben bei der Verwaltung lokaler Hardware und Software vereinfachen.
 
-EOP kann in erster Linie über die folgenden Methoden für den Nachrichtenschutz eingesetzt werden:
+In der folgenden Liste werden die wichtigsten Methoden zur Verwendung von EoP für den Messagingschutz beschrieben:
 
-- **In einem eigenständigen Szenario**: EoP bietet cloudbasierten e-Mail-Schutz für Ihre lokale Umgebung Exchange Server 2013 oder höher, ältere Exchange Server Versionen oder für andere lokale SMTP-e-Mail-Lösungen.
+- **In einem eigenständigen Szenario**: EoP bietet Cloud-basierten e-Mail-Schutz für Ihre lokale e-Mail-Umgebung (Exchange Server oder andere lokale SMTP-e-Mail-Lösungen).
 
 - **Im Rahmen Microsoft Exchange Online**: standardmäßig schützt EoP Exchange Online in der Cloud gehosteten Postfächer. Weitere Informationen zu Exchange Online finden Sie in der [Exchange Online-Dienstbeschreibung](../exchange-online-service-description/exchange-online-service-description.md).
 
@@ -50,13 +50,13 @@ EOP ist über die folgenden Abonnementpläne verfügbar:
 
 |**Plan**|**Beschreibung**|
 |:-----|:-----|
-|[EOP als eigenständige Lösung](https://products.office.com/exchange/exchange-email-security-spam-protection)|Hier schützt EOP Ihre lokalen Postfächer.|
-|[EOP-Funktionen in Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Hier schützt EOP Ihre cloudgehosteten Exchange Online-Postfächer.|
-|[Exchange Enterprise CAL mit Diensten](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Hier schützt EOP Ihre lokalen Postfächer wie EOP als eigenständige Lösung. Außerdem sind DLP-Funktionen (Data Loss Prevention, Verhinderung von Datenverlust) und eine Berichterstellung mithilfe von Webdiensten verfügbar.|
+|[EOP als eigenständige Lösung](https://products.office.com/exchange/exchange-email-security-spam-protection)|Ein separater Cloud-basierter Dienst, der Ihre lokale e-Mail-Organisation schützt.|
+|[EOP-Funktionen in Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Der integrierte Schutz für Ihre Exchange Online in der Cloud gehosteten Postfächer.|
+|[Exchange Enterprise CAL mit Diensten](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Add-on-Lizenzen, die Sie für Ihre lokale Exchange-Organisation erwerben, die EoP und andere Cloud-basierte Features umfassen (Weitere Informationen finden Sie im nächsten Abschnitt).|
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Exchange Enterprise CAL mit Diensten
 
-Microsoft Exchange Enterprise CAL mit Diensten liefert den E-Mail-Schutz des EOP-Diensts für Ihre lokale Messaging-Umgebung sowie die folgenden Funktionen:
+Microsoft Exchange Enterprise-CAL mit Diensten stellt die e-Mail-Schutzfunktionen von EoP und die folgenden zusätzlichen cloudbasierten Features bereit:
 
 - [Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
@@ -64,7 +64,7 @@ Microsoft Exchange Enterprise CAL mit Diensten liefert den E-Mail-Schutz des EOP
 
 Weitere Informationen zur Lizenzierung von Exchange Enterprise CAL mit Diensten finden Sie unter [Exchange Server Lizenzierung](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
 
-Wenn Sie über Exchange Enterprise CAL mit Services-Lizenzen verfügen und den Dienst anbieten möchten, befolgen Sie die Anweisungen unter [Einrichten Ihres EoP-Diensts](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). Die Installationsschritte sind mit den Schritten für die Installation der eigenständigen EOP-Lösung identisch.
+Wenn Sie über Exchange Enterprise CAL mit Services-Lizenzen verfügen und EOP-Dienste anbieten möchten, befolgen Sie die Anweisungen unter [Einrichten Ihres EoP-Diensts](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). Die Installationsschritte sind mit den Schritten für die Installation der eigenständigen EOP-Lösung identisch.
 
 > [!NOTE]
 > Neue Funktionen für Exchange Enterprise CAL mit Diensten werden gleichzeitig mit Exchange Online bereitgestellt, nicht mit der eigenständigen Installation von EOP. Beachten Sie, dass sich die Bereitstellungszeitpläne für EOP als eigenständige Installation und Exchange Online/Exchange Enterprise CAL mit Diensten geringfügig unterscheiden können.

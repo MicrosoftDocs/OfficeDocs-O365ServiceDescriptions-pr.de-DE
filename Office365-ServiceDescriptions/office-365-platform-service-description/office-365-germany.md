@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: 0b975ca872e580cc8293fee0c0929d80edda0524
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 1c0882c54a90f2e5ec298c29fba5c6cfb4b00d2a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595293"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701687"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -551,7 +551,7 @@ In der folgenden Tabelle sind OneDrive for Business (eigenständige Option) und 
 |[App-Katalog (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Ja|Ja|Ja|Ja|
 |[App-Bereitstellung: in der Cloud gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Ja|Ja|Ja|Ja|
 |[App-Bereitstellung: von SharePoint gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Ja|Ja|Ja|Ja|
-|[App-Verwaltungsdienste](../sharepoint-online-service-description/developer.md#app-management-services)|Ja|Ja|Ja|Ja|
+|[App-Verwaltungsdienst](../sharepoint-online-service-description/developer.md#app-management-service)|Ja|Ja|Ja|Ja|
 |BCS: Warnungen für externe Listen|Nein|Nein|Nein|Ja|
 |[BCS: externe Inhaltstypen auf App-Ebene (ECTS)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Nein|Nein|Nein|Ja|
 |[BCS: Geschäftsdaten-Webparts](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Nein|Nein|Nein|Ja|
@@ -671,7 +671,7 @@ In der folgenden Tabelle sind OneDrive for Business (eigenständige Option) und 
 |WCM: mobiles und Geräte Rendering|Nein|Nein|Ja|Ja|
 |WCM: mehrere Domänen|Nein|Nein|Nein|Nein|
 |WCM: Recommendations|Nein|Nein|Ja|Ja|
-|[WCM: Suchmaschinenoptimierungen (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Nein|Nein|Ja|Ja|
+|[WCM: Suchmaschinenoptimierung (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Nein|Nein|Ja|Ja|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Nein|Nein|Nein|Nein|
 |**Insights-Features**|**OneDrive for Business Plan 1**|**OneDrive for Business Plan 2**|**SharePoint Online Plan 1**|**SharePoint Online Plan 2**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Nein|Nein|Nein|Ja|
@@ -731,7 +731,7 @@ In der folgenden Tabelle sind OneDrive for Business (eigenständige Option) und 
 |Hybrid OneDrive für Unternehmen und-Websites|Ja|Ja|Ja|Ja|
 |[Skalierbarkeit und Verwaltung umfangreicher Listen](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Ja|Ja|Ja|Ja|
 |[Mobile Konnektivität](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja|Ja|
-|[Mehrsprachige Benutzeroberfläche](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Ja|Ja|Ja|Ja|
+|[Mehrsprachige Benutzeroberfläche](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Ja|Ja|Ja|Ja|
 |My Tasks|Nein|Nein|Ja|Ja|
 |[OOTB-Webparts](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Nein|Nein|Ja|Ja|
 |[Verwaltung von Berechtigungen](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Ja|Ja|Ja|Ja|
@@ -808,7 +808,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |[App-Katalog (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[App-Bereitstellung: in der Cloud gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[App-Bereitstellung: von SharePoint gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[App-Verwaltungsdienste](../sharepoint-online-service-description/developer.md#app-management-services)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|[App-Verwaltungsdienst](../sharepoint-online-service-description/developer.md#app-management-service)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |BCS: Warnungen für externe Listen|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
 |[BCS: externe Inhaltstypen auf App-Ebene (ECTS)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
 |[BCS: Geschäftsdaten-Webparts](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
@@ -929,7 +929,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |WCM: mobiles und Geräte Rendering|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |WCM: mehrere Domänen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |WCM: Recommendations|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
-|[WCM: Suchmaschinenoptimierungen (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
+|[WCM: Suchmaschinenoptimierung (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**Insights-Features**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
@@ -991,7 +991,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |Hybrid OneDrive für Unternehmen und-Websites|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>19</sup>|
 |[Skalierbarkeit und Verwaltung umfangreicher Listen](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Mobile Konnektivität](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Nein|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|
-|[Mehrsprachige Benutzeroberfläche](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|
+|[Mehrsprachige Benutzeroberfläche](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|
 |My Tasks|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |[OOTB-Webparts](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Berechtigungsverwaltung](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|

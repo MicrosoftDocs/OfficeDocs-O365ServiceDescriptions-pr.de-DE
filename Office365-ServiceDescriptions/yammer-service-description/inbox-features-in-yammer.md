@@ -1,5 +1,5 @@
 ---
-title: Posteingangsfeatures in Yammer
+title: Posteingang-Features in "jammern"
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,30 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Die folgenden Posteingangs Funktionen stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: 8e259ece1629b536b3782df5b523acf5bb747eea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: b9f74486b923ca062bf47e3daceb199816726fa6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777946"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726338"
 ---
-# <a name="inbox-features-in-yammer"></a>Posteingangsfeatures in Yammer
+# <a name="inbox-features-in-yammer"></a>Posteingang-Features in "jammern"
 
 Die folgenden Posteingangs Funktionen stehen in "jammern" zur Verfügung.
   
 ## <a name="inbox"></a>Posteingang
-<a name="bkmk_Inbox"> </a>
 
-Im Posteingang werden Erwähnungen, Gruppenankündigungen, Unterhaltungen und private Nachrichten automatisch aggregiert, sodass Sie ganz einfach Prioritäten für die Antworten festlegen können.
+Der Posteingang aggregiert automatisch Ihre @Mentions, Gruppen Ansagen, Unterhaltungen und private Nachrichten, sodass Sie Antworten problemlos priorisieren können.
   
-## <a name="inbox-search"></a>Inbox Search
-<a name="bkmk_InboxSearch"> </a>
+## <a name="inbox-search"></a>Posteingangs Suche
 
-Durchsuchen Sie Ihren gesamten Posteingang, um Unterhaltungen, private Nachrichten und Ankündigungen schnell zu finden.
+Durchsuchen Sie den gesamten Posteingang, um Unterhaltungen, private Nachrichten und Ankündigungen schnell zu finden.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
-<a name="bkmk_InboxSearch"> </a>
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Beschreibung des Yammer-Dienstes](yammer-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
   
 

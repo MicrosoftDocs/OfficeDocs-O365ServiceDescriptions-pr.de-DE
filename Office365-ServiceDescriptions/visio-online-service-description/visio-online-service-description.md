@@ -1,5 +1,5 @@
 ---
-title: Visio für die Webdienstbeschreibung
+title: Visio für das Web – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,15 +9,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio für die Webbenutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
-ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+description: Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben.
+ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450299"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700237"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio für die Webdienstbeschreibung
+# <a name="visio-for-the-web-service-description"></a>Visio für das Web – Dienstbeschreibung
 
 Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio für die Webbenutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
   
@@ -27,11 +27,11 @@ Hilfe bei der Verwendung von Visio für das Internet finden Sie unter [Visio Hel
   
 ## <a name="feature-availability-and-comparison"></a>Verfügbarkeit und Vergleich von Features
 
-In der folgenden Tabelle werden Visio für die Funktionen des WebFeatures mit den funktionsreichen Visio-Desktop Apps verglichen. Verwenden Sie die Tabelle, um zu ermitteln, welche Features in Visio für das Web zur Verfügung stehen, und klicken Sie dann auf den Featurenamen, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie stellen möglicherweise fest, dass einige Personen in Ihrer Organisation die erweiterten Funktionen der Visio-Desktop-App benötigen, während andere nur Visio-Diagramme mit Visio für das Internet anzeigen und leicht bearbeiten müssen. 
+In der folgenden Tabelle werden Visio für die Funktionen des WebFeatures mit den funktionsreichen Visio-Desktop Apps verglichen. Verwenden Sie die Tabelle, um zu ermitteln, welche Features in Visio für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie stellen möglicherweise fest, dass einige Personen in Ihrer Organisation die erweiterten Funktionen der Visio-Desktop-App benötigen, während andere nur Visio-Diagramme mit Visio für das Internet anzeigen und leicht bearbeiten müssen. 
   
 ||||
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**Visio für das Internet** <br/> |**Visio-Desktop-App** <br/> |
+|**Anwendungsfeatures** <br/> |**Visio für das Web** <br/> |**Visio-Desktop-App** <br/> |
 |[Anwenden umfangreicher Formatierung auf Text und Shapes](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Ja  <br/> |Ja  <br/> |
 |[Anordnen von Objekten](visio-online.md#arrange-objects) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen von Mashup-Lösungen](visio-online.md#build-mashup-solutions) <br/> |Ja  <br/> |Ja  <br/> |

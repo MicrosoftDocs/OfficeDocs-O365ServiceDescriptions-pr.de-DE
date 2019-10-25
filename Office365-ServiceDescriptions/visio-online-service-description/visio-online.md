@@ -1,5 +1,5 @@
 ---
-title: Visio für das Internet
+title: Visio für das Web
 ms.author: sharik
 author: skjerland
 audience: ITPro
@@ -13,14 +13,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio für das Internet erweitert Ihre Microsoft Visio Erfahrung auf den Browser, in dem Sie in der Cloud gespeicherte Diagramme erstellen und bearbeiten können. Kunden von Microsoft Office 365 können Diagramme anzeigen, Drucken und freigeben sowie Kommentare zu den wechseln einfügen.
-ms.openlocfilehash: 6230cb61748d4e64614e9e2ea130c0495a092328
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450309"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700217"
 ---
-# <a name="visio-for-the-web"></a>Visio für das Internet
+# <a name="visio-for-the-web"></a>Visio für das Web
 
 Visio für das Internet erweitert Ihre Microsoft Visio Erfahrung auf den Browser, in dem Sie in der Cloud gespeicherte Diagramme erstellen und bearbeiten können. Kunden von Microsoft Office 365 können Diagramme anzeigen, Drucken und freigeben sowie Kommentare zu den wechseln einfügen. Wenn Sie über ein Visio-Abonnement verfügen, können Sie zusätzliche Features verwenden, beispielsweise die in den folgenden Abschnitten beschriebenen.
   
@@ -34,7 +34,7 @@ Sie können Formen und Textfelder bewegen, die Größe ändern, drehen, kippen o
   
 ## <a name="build-mashup-solutions"></a>Erstellen von Mashup-Lösungen
 
-Die Visio für die webjavascript-Mashup-API ermöglicht es Entwicklern, auf ein Visio-Webdiagramm, seine Seiten und seine Formen zuzugreifen und diese zu bearbeiten. Weitere Informationen finden Sie unter [Visio für das Internet: häufig gestellte Fragen](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
+Die Visio für die webjavascript-Mashup-API ermöglicht es Entwicklern, auf ein Visio-Webdiagramm, seine Seiten und seine Formen zuzugreifen und diese zu bearbeiten. Weitere Informationen finden Sie unter [Visio für das Internet: häufig gestellte Fragen](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
   
 ## <a name="create-diagrams"></a>Erstellen von Diagrammen
 
@@ -50,11 +50,11 @@ Visio für das Internet enthält umfangreiche Bearbeitungsfunktionen, die Sie ve
   
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>Einbetten von Diagrammen in eine SharePoint-, Web- oder Blogseite
 
-Sie können Visio für das Internet verwenden, um ein Visio-Diagramm (erstellt in der Visio-Desktopanwendung) auf einer SharePoint-, Website-oder Blogseite einzufügen. Weitere Informationen finden Sie unter [Visio für das Internet: häufig gestellte Fragen](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
+Sie können Visio für das Internet verwenden, um ein Visio-Diagramm (erstellt in der Visio-Desktopanwendung) auf einer SharePoint-, Website-oder Blogseite einzufügen. Weitere Informationen finden Sie unter [Visio für das Internet: häufig gestellte Fragen](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
   
 ## <a name="find"></a>Suchen
 
-In Visio für das Internet können Sie nach jedem Vorkommen eines Wortes, einer Zahl oder einer Phrase auf der Seite suchen, indem Sie auf die Schaltfläche Ellipsen (...) und dann auf Suchen klicken (oder STRG + F drücken). Die Ergebnisse werden neben Ihrem Diagramm angezeigt. Visio durchsucht Shapenamen, Shapetext, Shapedaten und benutzerdefinierte Zellen.
+In Visio für das Internet können Sie nach jedem Vorkommen eines Wortes, einer Zahl oder einer Phrase auf der Seite suchen, indem Sie **Weitere** auswählen (die Schaltfläche Ellipsen) und dann **Suchen** auswählen (oder STRG + F drücken). Die Ergebnisse werden neben Ihrem Diagramm angezeigt. Visio durchsucht Shapenamen, Shapetext, Shapedaten und benutzerdefinierte Zellen.
   
 ## <a name="font-formatting"></a>Schriftartformatierung
 
@@ -62,11 +62,11 @@ Sie können die Schriftart, den Schriftgrad und andere Schriftarten Darstellungs
   
 ## <a name="hyperlinks"></a>Hyperlinks
 
-In Visio für das Internet können Sie direkt auf Hyperlinks zugreifen, indem Sie auf das Shape klicken.
+In Visio für das Internet können Sie direkt auf Hyperlinks zugreifen, indem Sie das Shape auswählen.
   
 ## <a name="navigation"></a>Navigation
 
-In Visio für das Internet können Sie zu anderen Seiten wechseln, indem Sie auf die Registerkarten unten links klicken.
+In Visio für das Internet können Sie zu anderen Seiten wechseln, indem Sie die Registerkarten unten links auswählen.
   
 ## <a name="office-add-ins"></a>Office-Add-Ins
 
@@ -94,7 +94,7 @@ Mit Visio für das Internet können Sie "Speichern unter" verwenden oder eine Ko
   
 ## <a name="share-a-diagram"></a>Freigeben eines Diagramms
 
-Wenn Ihr Diagramm in einer SharePoint-Dokumentbibliothek oder in OneDrive for Business gespeichert ist, ist Ihr Diagramm online, und Sie können es freigeben, indem Sie den betreffenden Personen statt einer E-Mail-Anlage einen Link zu dem Diagramm senden. Personen mit den erforderlichen Berechtigungen können das Diagramm in ihrem Webbrowser oder auf ihrem mobilen Gerät anzeigen. Klicken Sie in der rechten oberen Ecke auf **Freigeben**. Es wird empfohlen, einen Link freizugeben, um das Erstellen doppelter Daten verbundener Diagramme zu vermeiden.
+Wenn Ihr Diagramm in einer SharePoint-Dokumentbibliothek oder in OneDrive for Business gespeichert ist, ist Ihr Diagramm online, und Sie können es freigeben, indem Sie den betreffenden Personen statt einer E-Mail-Anlage einen Link zu dem Diagramm senden. Personen mit den erforderlichen Berechtigungen können das Diagramm in ihrem Webbrowser oder auf ihrem mobilen Gerät anzeigen. Wählen Sie einfach **Freigeben** in der oberen rechten Ecke aus. Es wird empfohlen, einen Link freizugeben, um das Erstellen doppelter Daten verbundener Diagramme zu vermeiden.
   
 ## <a name="smartart"></a>SmartArt
 
@@ -102,9 +102,9 @@ Mit Visio für das Internet können Sie einem Diagramm keine SmartArt-Methode hi
   
 ## <a name="tell-me"></a>Sie wünschen...
 
-Das Feature "Tell Me" steht in Visio für das Internet nicht zur Verfügung. In der Visio-Desktopanwendung können Sie die Funktion „Sie wünschen...“ verwenden, um schnell Hilfe zu einer Aufgabe zu finden, die Sie ausführen möchten.
+Das Feature "Tell Me" steht in Visio für das Internet nicht zur Verfügung. In der Visio-Desktopanwendung können Sie die Funktion „Sie wünschen..." verwenden, um schnell Hilfe zu einer Aufgabe zu finden, die Sie ausführen möchten.
   
-## <a name="undo-and-redo"></a>"Rückgängig" und "Wiederholen"
+## <a name="undo-and-redo"></a>Rückgängigmachen und Wiederholen
 
 Die Funktionen "Rückgängig" und "Wiederholen" sind in Visio für das Internet verfügbar.
   
@@ -114,7 +114,7 @@ Die Funktionen "Rückgängig" und "Wiederholen" sind in Visio für das Internet 
   
 ## <a name="view-shape-data"></a>Anzeigen von Shapedaten
 
-Sie können Visio für das Internet verwenden, um die Metadaten für ein Diagramm anzuzeigen: Klicken Sie einfach auf das Shape, und klicken Sie dann auf **Shape Info**.
+Sie können Visio für das Internet verwenden, um die Metadaten für ein Diagramm anzuzeigen: Wählen Sie einfach das Shape aus, und wählen Sie dann **Shape Info**aus.
   
 ## <a name="view-visio-files-in-the-browser"></a>Anzeigen von Visio-Dateien im Browser
 

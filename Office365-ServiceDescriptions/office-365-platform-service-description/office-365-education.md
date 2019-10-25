@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit Cloud-basierten Versionen der Kommunikations-und Zusammenarbeitsdienste&mdash;der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für die Web und Microsoft Skype for Business Online&mdash;, damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595272"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701397"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -160,7 +160,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 |Advanced eDiscovery<sup>7</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Secure Score<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|**[Compliance](compliance-servicedesc.md)** <br/> ||||
+|**[Einhaltung](compliance-servicedesc.md)** <br/> ||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -829,7 +829,7 @@ In der folgenden Tabelle werden die SharePoint-Features beschrieben, die in den 
 |[App-Katalog (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[App-Bereitstellung: in der Cloud gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[App-Bereitstellung: von SharePoint gehostete Apps](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[App-Verwaltungsdienste](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[App-Verwaltungsdienst](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |BCS: Warnungen für externe Listen <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[BCS: externe Inhaltstypen auf App-Ebene (ECTS)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[BCS: Geschäftsdaten-Webparts](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -951,7 +951,7 @@ In der folgenden Tabelle werden die SharePoint-Features beschrieben, die in den 
 |WCM: mobiles und Geräte Rendering <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |WCM: mehrere Domänen <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |WCM: Recommendations <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[WCM: Suchmaschinenoptimierungen (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[WCM: Suchmaschinenoptimierung (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |**Insights-Features** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
@@ -1011,7 +1011,7 @@ In der folgenden Tabelle werden die SharePoint-Features beschrieben, die in den 
 |Hybrid OneDrive für Unternehmen und-Websites  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Skalierbarkeit und Verwaltung umfangreicher Listen](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Mobile Konnektivität](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |
-|[Mehrsprachige Benutzeroberfläche](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |
+|[Mehrsprachige Benutzeroberfläche](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |
 |My Tasks <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[OOTB-Webparts](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verwaltung von Berechtigungen](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
