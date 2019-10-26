@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582001"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733866"
 ---
 # <a name="planning-and-deployment"></a>Planung und Bereitstellung
 
@@ -38,7 +38,7 @@ Bei einer reinen Cloudbereitstellung ist Ihre Organisation im Exchange Online-Di
 
 Eine Hybridbereitstellung steht für lokale Microsoft Exchange 2003-, Exchange 2007-, Exchange 2010- und Exchange 2013-Organisationen zur Verfügung und stellt entweder eine langfristige Koexistenzkonfiguration mit einigen Postfächern bereit, bei denen einige Postfächer lokal und andere in Exchange Online gehostet werden, oder die Hybridbereitstellung bietet einen Migrationspfad zum Hosten aller Benutzerpostfächer in Exchange Online. Eine Hybridbereitstellung bietet Unternehmen die Möglichkeit, den Funktionsreichtum und die Verwaltungskontrolle, die die vorhandene, lokale Microsoft Exchange-Organisation bietet, auf die Cloud auszudehnen. Zu den Funktionen einer Hybridbereitstellung gehören der sichere E-Mail-Transport, gemeinsam genutzte Frei/Gebucht-Kalenderinformationen sowie eine Nachrichtenverfolgung zwischen den lokalen und den Exchange Online-Organisationen.
   
-Weitere Informationen zu Hybridbereitstellungen finden Sie im Artikel zum Thema [Hybridbereitstellungen in Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Wenn Sie Office 365 über 21Vianet nutzen, lesen Sie [Configuring Exchange hybrid deployment features with Office 365 operated by 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
+Weitere Informationen zu Hybridbereitstellungen finden Sie im Artikel zum Thema [Hybridbereitstellungen in Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Wenn Sie Office 365 über 21Vianet nutzen, lesen Sie [Configuring Exchange hybrid deployment features with Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
   
 > [!IMPORTANT]
 > In einer lokalen Exchange 2003-Organisation muss mindestens ein Exchange 2010-Clientzugriffs-/Postfachserver installiert werden, um eine Hybridbereitstellung mit Exchange Online zu konfigurieren. In einer lokalen Exchange 2007-Organisation muss mindestens ein Exchange 2010- oder Exchange 2013-Clientzugriffs- und -Postfachserver installiert werden, um eine Hybridbereitstellung mit Exchange Online zu konfigurieren. Lokale Exchange 2010- und Exchange 2013-Organisationen bieten systemeigene Unterstützung für Hybridbereitstellungen mit Exchange Online. Weitere Informationen zur Exchange-Serverkompatibilität in Hybridbereitstellungen finden Sie unter [Voraussetzungen für die Hybridbereitstellung](https://go.microsoft.com/fwlink/p/?LinkId=243541). > Lokale Exchange-Organisationen müssen ihre Organisation für eine Hybridbereitstellung konfigurieren. Es wird dringend empfohlen, dass Administratoren den Bereitstellungs-Assistenten für Exchange Server und den Assistenten für Hybridkonfigurationen nutzen, um die Hybridbereitstellung zu konfigurieren. Weitere Informationen finden Sie unter [Bereitstellungs-Assistent für Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036).

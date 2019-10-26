@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry®-Smartphones können in Office 365 auf E-Mails und Dokumente zugreifen.
-ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523470"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734163"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -38,11 +38,11 @@ Sie können Smartphones mit BlackBerry® Internet Service (BIS) verwenden, um ei
   
 Die meisten Mobilfunkanbieter haben BIS eingerichtet haben, daher müssen Endbenutzer die E-Mail-, Kalender- und Kontaktsynchronisierung mithilfe der Anweisungen in den folgenden Knowledge Base-Artikeln konfigurieren:
   
-- [KB31310 - BlackBerry Internet Service und Microsoft Office 365-Dienste](http://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
+- [KB31310 - BlackBerry Internet Service und Microsoft Office 365-Dienste](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
-- [KB00561 - Konfigurieren der drahtlosen Kalendersynchronisierung auf einem BlackBerry-Smartphone](http://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
+- [KB00561 - Konfigurieren der drahtlosen Kalendersynchronisierung auf einem BlackBerry-Smartphone](https://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
     
-- [KB22430 - Aktivieren und Deaktivieren der drahtlosen Kontaktsynchronisierung mit BlackBerry Internet Service](http://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
+- [KB22430 - Aktivieren und Deaktivieren der drahtlosen Kontaktsynchronisierung mit BlackBerry Internet Service](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
 > Benutzer, die per IMAP oder POP auf ihre Konten zugreifen, können ihre E-Mails ausschließlich über eine Drahtlosverbindung synchronisieren. Informationen für BIS-Benutzer zur Synchronisierung der Kontakte und Kalender zwischen ihrem BlackBerry-Smartphone und ihrem Konto mithilfe einer Kabelverbindung erhalten Sie vom BlackBerry-Support. 

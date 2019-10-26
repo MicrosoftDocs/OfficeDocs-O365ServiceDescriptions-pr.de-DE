@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 'Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.'
-ms.openlocfilehash: ee9aebc28f97756a5291ab8ad5f292d8b4659d18
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726452"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733576"
 ---
 # <a name="yammer-service-description"></a>Beschreibung des Yammer-Dienstes
 
@@ -25,7 +25,7 @@ Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unterneh
   
 Eine Liste der Office 365-Pläne, die Yammer einschließen, finden Sie unter [Office 365-Dienstfamilien und -Pläne](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
-Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 > [!TIP]
 > Sie können Seiten in den Office 365-Dienstbeschreibungen exportieren, speichern und drucken. Informationen zum [Exportieren mehrerer Seiten](https://go.microsoft.com/fwlink/?LinkId=403349). 
@@ -114,7 +114,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welcher Yammer-Plan am besten 
 |[Sitzungsverwaltung](administration-and-security-features-in-yammer.md#session-management) <br/> |Nein  <br/> |Ja  <br/> |
 |[Logische Firewall](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |Nein  <br/> |Ja  <br/> |
 |[Verwendungsrichtlinie](administration-and-security-features-in-yammer.md#usage-policy) <br/> |Nein  <br/> |Ja  <br/> |
-|[FastTrack Center](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |Nein  <br/> |Ja  <br/> |
+|[FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |Nein  <br/> |Ja  <br/> |
 |[Support für Kunden](support-features-in-yammer.md#customer-support) <br/> |Ja  <br/> |Ja  <br/> |
 |[Support für Administratoren](support-features-in-yammer.md#administrator-support) <br/> |Nein  <br/> |Ja  <br/> |
 |[Privater Administrator-Inhalts Modus](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |Nein  <br/> |Ja  <br/> |

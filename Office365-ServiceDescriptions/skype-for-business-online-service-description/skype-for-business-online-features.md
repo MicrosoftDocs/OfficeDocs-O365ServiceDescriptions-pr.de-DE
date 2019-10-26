@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online Features in einrichten Skype for Business Online.
-ms.openlocfilehash: b149dff807a32beced9bc5358435075229acda57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726081"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733796"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
@@ -113,11 +113,11 @@ Informationen zu den neuesten Skype for Business Online admin-Hilfethemen und Vo
 
 Als Audiokonferenz wird eine Konferenz bezeichnet, in der mindestens ein Teilnehmer sich per Telefon für den Audioteil einwählt. Die Möglichkeit zum Zugreifen auf eine Besprechung über ein Telefon ist für Personen hilfreich, die unterwegs sind oder nicht per Mobilgerät oder Computer an einer Besprechung teilnehmen können. Die Verwendung eines Telefons kann auch in anderen Szenarien die bessere Wahl sein, z. B. wenn die Internetverbindung begrenzt ist oder wenn eine Besprechung nur einen Audioteil umfasst.
   
-Mit Audiokonferenzen können Benutzer in Ihrer Organisation Besprechungen, die Einwahltelefonnummern enthalten, hosten oder erstellen. Anrufer können dann diese Telefonnummern zum Einwählen in eine Besprechung mit ihrem Telefon verwenden (Benutzer, die sich in eine Besprechung einwählen, erhalten nur Audio, keine Sofortnachrichten, freigegebenen Desktops oder in der Besprechung freigegebenen Dateien). Sie müssen Einwahlkonferenzen nur für Benutzer einrichten, die Besprechungen planen oder leiten möchten. Sofern der Organisator die Besprechung nicht gesperrt hat, kann jeder, der die Einwahlnummer und die Konferenz-ID hat, der Besprechung beitreten. Weitere Informationen finden Sie unter [Erste Schritte mit Audiokonferenzen](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) und [Für Audiokonferenzen verfügbare Einwahlnummern](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Mit Audiokonferenzen können Benutzer in Ihrer Organisation Besprechungen, die Einwahltelefonnummern enthalten, hosten oder erstellen. Anrufer können dann diese Telefonnummern zum Einwählen in eine Besprechung mit ihrem Telefon verwenden (Benutzer, die sich in eine Besprechung einwählen, erhalten nur Audio, keine Sofortnachrichten, freigegebenen Desktops oder in der Besprechung freigegebenen Dateien). Sie müssen Einwahlkonferenzen nur für Benutzer einrichten, die Besprechungen planen oder leiten möchten. Sofern der Organisator die Besprechung nicht gesperrt hat, kann jeder, der die Einwahlnummer und die Konferenz-ID hat, der Besprechung beitreten. Weitere Informationen finden Sie unter [Erste Schritte mit Audiokonferenzen](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) und [Für Audiokonferenzen verfügbare Einwahlnummern](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 In Office 365 können Sie Einwahlkonferenzen unter Verwendung von Office 365 als Einwahlkonferenzanbieter oder unter Verwendung eines Drittanbieters für Einwahlkonferenzen aktivieren (auch Audiokonferenzanbieter oder ACP genannt).
   
-Audiokonferenzen sind nicht in allen Ländern und Regionen verfügbar. Eine Liste der Länder und Regionen, in denen Sie Audiokonferenzen erwerben können, finden Sie unter [Länder und Regionen, in denen Audiokonferenzen unterstützt werden](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+Audiokonferenzen sind nicht in allen Ländern und Regionen verfügbar. Eine Liste der Länder und Regionen, in denen Sie Audiokonferenzen erwerben können, finden Sie unter [Länder und Regionen, in denen Audiokonferenzen unterstützt werden](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans-in-office-365"></a>Anrufpläne in Office 365
 

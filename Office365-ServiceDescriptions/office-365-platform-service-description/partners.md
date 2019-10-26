@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Als autorisierter Microsoft-Partner bietet Ihnen Microsoft Office 365 die Möglichkeit, Ihren Kundenstamm zu erweitern und dauerhafte Geschäftsbeziehungen zu Ihren Kunden aufzubauen. Für eine monatlich oder jährlich an Sie zu entrichtende Gebühr können Ihre Kunden cloudbasierte Dienste nutzen, sodass sie sich nicht um die Verwaltung von Datensicherungen, Serverhardware und Serverupdates kümmern müssen. Welche Dienste Ihnen zur Verfügung stehen, hängt von den Diensttypen ab, für deren Bereitstellung Sie autorisiert sind.
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582111"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734082"
 ---
 # <a name="partners"></a>Partner
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582111"
 Als autorisierter Microsoft-Partner bietet Ihnen Microsoft Office 365 die Möglichkeit, Ihren Kundenstamm zu erweitern und dauerhafte Geschäftsbeziehungen zu Ihren Kunden aufzubauen. Für eine monatlich oder jährlich an Sie zu entrichtende Gebühr können Ihre Kunden cloudbasierte Dienste nutzen, sodass sie sich nicht um die Verwaltung von Datensicherungen, Serverhardware und Serverupdates kümmern müssen. Welche Dienste Ihnen zur Verfügung stehen, hängt von den Diensttypen ab, für deren Bereitstellung Sie autorisiert sind.
   
 > [!NOTE]
-> Weitere Informationen zum Verwenden von Partnerfeatures finden Sie unter [Erweitern Ihrer Geschäftstätigkeit und Verwalten Ihres Office 365-Partnerabonnements](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) und in der Übersicht der Partnerfeatures. Um auf die Partnerfeatures zugreifen zu können, können Sie Cloud Essentials beitreten. Dazu müssen Sie die [Microsoft Online Services-Partnervereinbarung](https://go.microsoft.com/fwlink/p/?LinkId=285473) unterzeichnen. 
+> Weitere Informationen zum Verwenden von Partnerfeatures finden Sie unter [Erweitern Ihrer Geschäftstätigkeit und Verwalten Ihres Office 365-Partnerabonnements](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) und in der Übersicht der Partnerfeatures. Um auf die Partnerfeatures zugreifen zu können, können Sie Cloud Essentials beitreten. Dazu müssen Sie die [Microsoft Online Services-Partnervereinbarung](https://go.microsoft.com/fwlink/p/?LinkId=285473) unterzeichnen. 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>Erstellen von Einladungen und Bestellungen zu Testzwecken
 
@@ -47,9 +47,9 @@ Selbst wenn ein Kunde einen Partner autorisiert hat, Verwaltungsaufgaben in sein
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Herstellen von Verbindungen zu Kunden und anderen Partnern über den Office 365-Marktplatz
 
-Der Office 365-Marktplatz bietet Kunden die Möglichkeit, nach Partnerdiensten und -experten zu suchen. Weitere Informationen finden Sie unter [Profil auf dem Office 365-Marktplatz erstellen](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
+Der Office 365-Marktplatz bietet Kunden die Möglichkeit, nach Partnerdiensten und -experten zu suchen. Weitere Informationen finden Sie unter [Profil auf dem Office 365-Marktplatz erstellen](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
   
-Das Microsoft Partner Network engagiert sich dafür, den Anforderungen unserer Partner zu genügen. Weitere Information darüber, wie Sie dem Netzwerk beitreten können und wie Microsoft den Anforderungen der Partner gerecht wird, finden Sie unter [Microsoft Partner Network](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
+Das Microsoft Partner Network engagiert sich dafür, den Anforderungen unserer Partner zu genügen. Weitere Information darüber, wie Sie dem Netzwerk beitreten können und wie Microsoft den Anforderungen der Partner gerecht wird, finden Sie unter [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

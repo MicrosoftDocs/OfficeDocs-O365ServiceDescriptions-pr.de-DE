@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581921"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734223"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -47,7 +47,7 @@ Outlook im Web ist in zwei Clientversionen erhältlich, die beide mit Exchange O
 
 - **Die Light-Version von Outlook im Internet** Die Light-Version von Outlook im Internet bietet Exchange Online Benutzern den Zugriff auf das Postfach mit nahezu jedem Webbrowser. Benutzer können Nachrichten lesen und senden, Kontakte organisieren und Termine und Besprechungen planen. Das standardmäßige aktivitätsbasierte Timeout wird auf sechs Stunden festgelegt, kann aber [von einem Administrator in Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) von 5 Minuten auf 8 Stunden konfiguriert werden. Dieses Timeout hängt von den Benutzerinteraktionen innerhalb der Webanwendung ab, beispielsweise auswählen einer Schaltfläche oder Auswählen einer Nachricht. Es gibt auch ein separates Sicherheits gesteuertes Timeout, das nicht konfigurierbar ist und unabhängig von der Benutzeraktivität stattfindet. Wenn ein Benutzer 8 Stunden lang angemeldet ist, meldet die Light-Version von OWA den Benutzer automatisch ab und fragt nach der erneuten Authentifizierung. 
 
-Outlook im Web ist auch in mobilen Versionen verfügbar. Weitere Informationen finden Sie auf [dieser Seite](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
+Outlook im Web ist auch in mobilen Versionen verfügbar. Weitere Informationen finden Sie auf [dieser Seite](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
 ## <a name="outlook-for-mac"></a>Outlook für Mac
 

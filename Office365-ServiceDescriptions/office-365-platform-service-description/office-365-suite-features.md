@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633424"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734113"
 ---
 # <a name="office-365-suite-features"></a>Office 365-Suitefeatures
 
@@ -47,7 +47,7 @@ MyAnalytics bietet Einblicke in zwei der wichtigsten Faktoren in Ihrer persönli
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner ist ein Tool, mit dem Benutzer die Teamarbeit visuell organisieren können. Teams können neue Pläne erstellen, Aufgaben organisieren und zuweisen, Dateien freigeben, kommunizieren, woran sie gerade arbeiten, Termine festlegen und Status aktualisieren. Microsoft Planner bietet außerdem die Möglichkeit, Dokumente mit bestimmten Aufgaben zu verknüpfen, diese gemeinsam zu bearbeiten und Gespräche zu Aufgaben zu führen. Weitere Informationen finden Sie in der [Einführung in Microsoft Planner](http://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
+Microsoft Planner ist ein Tool, mit dem Benutzer die Teamarbeit visuell organisieren können. Teams können neue Pläne erstellen, Aufgaben organisieren und zuweisen, Dateien freigeben, kommunizieren, woran sie gerade arbeiten, Termine festlegen und Status aktualisieren. Microsoft Planner bietet außerdem die Möglichkeit, Dokumente mit bestimmten Aufgaben zu verknüpfen, diese gemeinsam zu bearbeiten und Gespräche zu Aufgaben zu führen. Weitere Informationen finden Sie in der [Einführung in Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
@@ -65,7 +65,7 @@ Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organ
 
 Microsoft Sway ist eine professionelle App zum digitalen Geschichtenerzählen für Unternehmen, mit der Sie und Ihre Kollegen Ideen auf einer interaktiven, webbasierten Leinwand ausdrücken können. Dank des integrierten Designmoduls von Microsoft Sway können Sie professionelle, visuell ansprechende Berichte, Präsentationen und mehr ohne komplizierte Formatierung oder zusätzliche Schulung erstellen. Sie können die Ergebnisse auch ändern, um das gewünschte einzigartige Aussehen und Verhalten zu erzielen. Microsoft Sway lässt Ihre Präsentation in jedem Browser auf jedem Bildschirm großartig aussehen, und Sie können sie mit Kollegen und Kunden teilen, indem Sie ihnen einfach einen Link senden. Microsoft Sway hilft Ihnen beim Suchen und Sammeln aller möglichen Inhalte, ohne die App zu verlassen. Sie können Bilder, Text, Videos und Diagramme direkt auf die Leinwand ziehen und dort ablegen. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft Teams ist ein chatbasierter Arbeitsbereich in Office 365, mit dem Teammitglieder gemeinsam mehr erreichen können. Microsoft Teams dient als Hub für Teamarbeit, sofortigen Zugriff auf Chatunterhaltungen für Teams, Inhalte und Tools von Office 365 in einem einzelnen Arbeitsbereich. SharePoint und OneNote sind integriert, und Teammitglieder können Office-Dokumente direkt in der App bearbeiten. Abgesehen von Chats unterstützt Microsoft Teams auch Videoanrufe und Besprechungen, damit Teams Live eintreffen können, ob bei Bedarf oder geplant. Teammitglieder können auf einfache Weise mit mehreren Teams zusammenarbeiten und jederzeit nach Personen suchen sowie Chats und Dateien durchsuchen. Microsoft Teams funktioniert auf Windows-, Mac-, Internet-, Android-und IOS-Plattformen. Weitere Informationen hierzu finden Sie in der [Onlinehilfe für Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   

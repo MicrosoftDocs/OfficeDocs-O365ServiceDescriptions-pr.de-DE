@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
-ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633436"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734052"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
 Microsoft Office 365 Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
   
 > [!NOTE]
-> Bei Verwendung von Office 365, betrieben von 21Vianet, treffen einige unten aufgeführten Informationen möglicherweise nicht zu. Lesen Sie stattdessen die [Vereinbarung zum Servicelevel von 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
+> Bei Verwendung von Office 365, betrieben von 21Vianet, treffen einige unten aufgeführten Informationen möglicherweise nicht zu. Lesen Sie stattdessen die [Vereinbarung zum Servicelevel von 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="view-status-of-services"></a>Anzeigen des Dienststatus
 
@@ -75,7 +75,7 @@ Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielger
 
 ### <a name="office-365-admin-app"></a>Office 365 Admin-App
 
-Die Admin-App für Office 365-Mandantenadministratoren bietet die Möglichkeit zum Herstellen einer Verbindung mit dem Office 365-Dienststatus Ihrer Organisation auch unterwegs. Office 365-Mandantenadministratoren haben die Möglichkeit, Dienstintegritätsinformationen und Wartungsstatusupdates von ihren mobilen Geräten aus anzuzeigen. Weitere Informationen finden Sie in den [FAQ zur Admin-App](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+Die Admin-App für Office 365-Mandantenadministratoren bietet die Möglichkeit zum Herstellen einer Verbindung mit dem Office 365-Dienststatus Ihrer Organisation auch unterwegs. Office 365-Mandantenadministratoren haben die Möglichkeit, Dienstintegritätsinformationen und Wartungsstatusupdates von ihren mobilen Geräten aus anzuzeigen. Weitere Informationen finden Sie in den [FAQ zur Admin-App](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack für Microsoft System Center 2012 R2
 
@@ -115,7 +115,7 @@ Bei allen anderen Dienstincidents stellt das Service Health Dashboard eine Zusam
 
 Microsoft Office 365-Angebote werden von sehr robusten Systemen bereitgestellt, um die maximale Leistung des Diensts zu bieten. Vorkehrungen für die Dienstverfügbarkeit sind Teil des Office 365-Systementwurfs. Durch diese Vorkehrungen kann Office 365 nach unerwarteten Ereignissen wie Hardware- oder Anwendungsfehlern, Datenbeschädigungen oder anderen Incidents mit Auswirkungen auf die Benutzer schnell wiederhergestellt werden. Diese Lösungen für die Dienstverfügbarkeit gelten auch bei schwerwiegenden Ausfällen (wie Naturkatastrophen oder einem Incident in einem Microsoft-Rechenzentrum, durch den das gesamte Rechenzentrum nicht mehr funktionsfähig ist).
   
-Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gewisse Zeit, bis die vollständige Rechenzentrumsredundanz für den Dienst wiederhergestellt ist. Beispiel: Wenn Rechenzentrum 1 ausfällt, werden die Dienste durch Ressourcen in Rechenzentrum 2 wiederhergestellt. Allerdings kann es u. U. eine gewisse Zeit dauern, bis die Dienste in Rechenzentrum 2 unterbrechungsfrei ausgeführt werden, sei es durch wiederhergestellte Ressourcen in Rechenzentrum 1 oder neue Ressourcen in Rechenzentrum 3. In dieser Zeit gilt die [Vereinbarung zum Servicelevel](service-level-agreement.md) (SLA) von Office 365. Für Office 365 betrieben von 21Vianet gilt eine andere Vereinbarung zum Servicelevel. Weitere Informationen finden Sie auf der [21Vianet-Website](http://www.21vbluecloud.com/office365/O365-SLA/). 
+Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gewisse Zeit, bis die vollständige Rechenzentrumsredundanz für den Dienst wiederhergestellt ist. Beispiel: Wenn Rechenzentrum 1 ausfällt, werden die Dienste durch Ressourcen in Rechenzentrum 2 wiederhergestellt. Allerdings kann es u. U. eine gewisse Zeit dauern, bis die Dienste in Rechenzentrum 2 unterbrechungsfrei ausgeführt werden, sei es durch wiederhergestellte Ressourcen in Rechenzentrum 1 oder neue Ressourcen in Rechenzentrum 3. In dieser Zeit gilt die [Vereinbarung zum Servicelevel](service-level-agreement.md) (SLA) von Office 365. Für Office 365 betrieben von 21Vianet gilt eine andere Vereinbarung zum Servicelevel. Weitere Informationen finden Sie auf der [21Vianet-Website](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Sicherstellen der Datenverfügbarkeit
 

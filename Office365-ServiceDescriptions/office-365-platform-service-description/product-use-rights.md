@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 4fd3b239b1cbc433b90b4aa44407f31b18698717
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d04e780f3d7308c978916fec5238037cbcb208d3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582091"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734072"
 ---
 # <a name="product-use-rights"></a>Produktnutzungsrechte
 
 ## <a name="microsoft-online-services-use-rights"></a>Nutzungsrechte für Microsoft-Onlinedienste
 
-Sofern Sie Ihren Microsoft Online-Abonnementvertrag einhalten, können Sie die Onlinedienste und dazugehörige Software gemäß der ausdrücklichen Erlaubnis unter [Nutzungsrechte für Microsoft-Onlinedienste](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true) nutzen.
+Sofern Sie Ihren Microsoft Online-Abonnementvertrag einhalten, können Sie die Onlinedienste und dazugehörige Software gemäß der ausdrücklichen Erlaubnis unter [Nutzungsrechte für Microsoft-Onlinedienste](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true) nutzen.
   
 ## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365, betrieben von 21Vianet – Nutzungsrechte
 
-Lesen Sie die [Standardvereinbarung für Onlinedienste](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) und die [Nutzungsbedingungen](http://www.21vbluecloud.com/office365/O365-TOU/).
+Lesen Sie die [Standardvereinbarung für Onlinedienste](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) und die [Nutzungsbedingungen](https://www.21vbluecloud.com/office365/O365-TOU/).
   
 ## <a name="licensing"></a>Lizenzierung
 

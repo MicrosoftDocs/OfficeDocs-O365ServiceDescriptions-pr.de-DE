@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Informationen zu Office 365 Features, die soeben veröffentlicht wurden oder die veröffentlicht werden sollen, finden Sie in der Microsoft 365-Roadmap.
-ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6c0b147a53e51303b072c89f8fab722fbadbec37
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581351"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734042"
 ---
 # <a name="service-updates"></a>Dienstupdates
 
 > [!NOTE]
-> Die Informationen in diesem Thema gelten nicht für Office 365, betrieben von 21Vianet. Weitere Informationen zu Dienstupdates finden Sie unter [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) 
+> Die Informationen in diesem Thema gelten nicht für Office 365, betrieben von 21Vianet. Weitere Informationen zu Dienstupdates finden Sie unter [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) 
   
 Informationen zu Office 365 Features, die soeben veröffentlicht wurden oder die veröffentlicht werden sollen, finden Sie in der [Microsoft 365-Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).
   
@@ -37,7 +37,7 @@ Mit der Zielrelease erhält Ihre Organisation oder ein Teil Ihrer Benutzer ungef
 
 Kunden werden möglichst vor jeder Änderung von Office 365 benachrichtigt, nach der ein Administrator Maßnahmen ergreifen muss, damit der Dienst weiterhin ordnungsgemäß ausgeführt wird. Sofern nicht anders angegeben, benachrichtigt Microsoft Kunden mindestens 30 Tage vorab über das [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide), wenn für ein Update Administratoraktionen erforderlich sind. 
   
-Die meisten Office 365-Dienstupdates sind Fehlerbehebungen, Leistungssteigerungen und Sicherheitsupdates, die keine Aktion seitens des Kunden erfordern. Neue und verbesserte Features finden Sie in der [Microsoft 365 for Business-Roadmap](http://roadmap.office.com/).
+Die meisten Office 365-Dienstupdates sind Fehlerbehebungen, Leistungssteigerungen und Sicherheitsupdates, die keine Aktion seitens des Kunden erfordern. Neue und verbesserte Features finden Sie in der [Microsoft 365 for Business-Roadmap](https://roadmap.office.com/).
   
 Beachten Sie, dass Office 365 der [Online Lifecycle-Richtlinie](https://support.microsoft.com/lifecycle#gp/osslpolicy) unterliegt.
   

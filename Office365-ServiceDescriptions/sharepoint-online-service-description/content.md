@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online ist eine Sammlung von webbasierten Tools und Technologien, mit denen Ihre Organisation digitale Informationen speichern, freigeben und verwalten kann. Basierend auf Microsoft SharePoint Server 2013 ist dieser gehostete Dienst ideal für die Arbeit an Projekten, das Speichern von Daten und Dokumenten in einem zentralen Verzeichnis und für die Freigabe von Informationen für andere. Die folgenden Inhaltsfunktionen erleichtern allen die Inhaltsverwaltung im Unternehmen (Enterprise Content Management, ECM). Das Geheimnis ist die Kombination aus traditionellem Content Management, sozialen Fähigkeiten und den leistungsstarken Suchfunktionen.
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726262"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733956"
 ---
 # <a name="content"></a>Inhalt
 
@@ -172,7 +172,7 @@ SharePoint-Benutzer verfügen über einen Papierkorb, wo gelöschte Inhalte abge
     
 Mit SharePoint Designer durchgeführte Website-Anpassungen werden vom Papierkorb nicht erfasst. 
   
-Weitere Informationen finden Sie unter [Verwalten des Papierkorbs einer SharePoint-Websitesammlung](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
+Weitere Informationen finden Sie unter [Verwalten des Papierkorbs einer SharePoint-Websitesammlung](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
   
 ## <a name="search-web-parts"></a>Such-Webparts
 
