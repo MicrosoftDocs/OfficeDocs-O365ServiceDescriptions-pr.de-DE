@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
+ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631654"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890054"
 ---
 # <a name="user-account-management"></a>Benutzerkontenverwaltung
 
@@ -64,9 +64,9 @@ Weitere Informationen zu Domänen in Office 365 finden Sie unter [Domänen](doma
 
 Mit der Ausnahme von Websites für anonymen Zugriff, die mit SharePoint Online erstellt wurden, müssen Benutzer authentifiziert werden, wenn sie auf Office 365-Dienste zugreifen. 
   
-- **Moderne Authentifizierung** Die moderne Authentifizierung ermöglicht eine auf der Active Directory-Authentifizierungsbibliothek (ADAL) basierende Anmeldung bei Office-Client-Apps über Plattformen hinweg. Dadurch werden Anmeldefeatures wie Multi-Factor Authentication (MFA, mehrstufige Authentifizierung), SAML-basierte Drittanbieter-Identitätsanbieter mit Office-Clientanwendungen sowie eine Smartcard- und zertifikatbasierte Authentifizierung ermöglicht. Außerdem muss Microsoft Outlook nicht mehr das grundlegende Authentifizierungsprotokoll verwenden. Weitere Informationen, einschließlich der Verfügbarkeit der modernen Authentifizierung in Office-Anwendungen, finden Sie unter [Wie die moderne Authentifizierung für Office 2013- und Office 2016-Client-Apps funktioniert](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) und [Verwenden der modernen Office 365-Authentifizierung bei Office-Clients](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
+- **Moderne Authentifizierung** Die moderne Authentifizierung ermöglicht eine auf der Active Directory-Authentifizierungsbibliothek (ADAL) basierende Anmeldung bei Office-Client-Apps über Plattformen hinweg. Dadurch werden Anmeldefeatures wie Multi-Factor Authentication (MFA, mehrstufige Authentifizierung), SAML-basierte Drittanbieter-Identitätsanbieter mit Office-Clientanwendungen sowie eine Smartcard- und zertifikatbasierte Authentifizierung ermöglicht. Außerdem muss Microsoft Outlook nicht mehr das grundlegende Authentifizierungsprotokoll verwenden. Weitere Informationen, einschließlich der Verfügbarkeit moderner Authentifizierung in Office-Anwendungen, finden Sie unter [Funktionsweise der modernen Authentifizierung für Office 2013-und Office 2016-Client-apps](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
     
-    Die moderne Authentifizierung ist für Exchange Online nicht standardmäßig aktiviert. Weitere Informationen zur Aktivierung finden Sie unter [Aktivieren von Exchange Online für die moderne Authentifizierung](https://docs.microsoft.com/Exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+    Die moderne Authentifizierung ist für Exchange Online standardmäßig aktiviert. Informationen zum Aktivieren oder Deaktivieren dieser Funktion finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
     
 - **Authentifizierung der Cloudidentität** Benutzer mit Cloudidentitäten werden mit herkömmlichen Methoden für Herausforderung/Rückmeldung authentifiziert. Der Webbrowser wird an den Office 365-Anmeldedienst weitergeleitet, bei dem Sie den Benutzernamen und das Kennwort für Ihr Arbeits- oder Schulkonto angeben. Der Anmeldedienst authentifiziert Ihre Anmeldeinformationen und generiert ein Diensttoken, das der Webbrowser dem angeforderten Dienst bereitstellt, und Sie werden angemeldet. 
     
