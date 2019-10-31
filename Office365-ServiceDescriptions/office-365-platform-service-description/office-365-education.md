@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit Cloud-basierten Versionen der Kommunikations-und Zusammenarbeitsdienste&mdash;der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für die Web und Microsoft Skype for Business Online&mdash;, damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.
-ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701397"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890441"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -191,7 +191,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Office 365 Security &amp; Compliance Center-Features
 
-Das [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/?redirectSourcePath=%252fen-us%252farticle%252fSecurity-and-Compliance-in-Office-365-for-business-Admin-Help-7fe448f7-49bd-4d3e-919d-0a6d1cf675bb) wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365. 
+Das [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365. 
   
 > [!NOTE]
 > Derzeit sind viele der Compliancefeatures noch über dienstspezifische Verwaltungsoberflächen erreichbar, z. B. über das Exchange Admin Center (EAC). Dies wird jedoch künftig geändert, wenn in Zukunft weitere dienstunabhängige Compliancefeatures zum Security &amp; Compliance Center hinzugefügt werden. 
@@ -199,14 +199,14 @@ Das [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Zugriff auf das Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Zugriff auf das Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Advanced Security Management](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Bedrohungsmanagement](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats)wie e-Mail-Filterung und Antischadsoftware  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Erweiterte Bedrohungs Verwaltung](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512), beispielsweise Threat Explorer für Phishing-Kampagnen <sup>5</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|[Erweiterte Bedrohungs Verwaltung](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti), beispielsweise Threat Explorer für Phishing-Kampagnen <sup>5</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Verwaltung mobiler Geräte](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verhinderung von Datenverlust](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Erweiterte Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Inhaltssuche](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[eDiscovery-Fälle](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -585,7 +585,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
   
 #### <a name="message-limits"></a>Nachrichtengrenzwerte
 
-- **Nachrichtengrößenbeschränkung** Nachrichtengrößenbeschränkungen sind notwendig, um zu verhindern, dass große Nachrichten die Zustellung von anderen Nachrichten blockieren und dass die Leistung des Diensts für alle Benutzer beeinträchtigt wird. Diese Beschränkungen umfassen auch Anlagen, und sie gelten organisationsweit für alle Nachrichten (eingehende, ausgehende und interne). Nachrichten, die größer sind, werden nicht zugestellt, und der Absender erhält einen Unzustellbarkeitsbericht. Während die Grenzwerte für die Nachrichtengröße nicht nach oben oder unten oder für die einzelnen Benutzer geändert werden können, können Administratoren auch Transportregeln einrichten, um die maximale Größe einzelner Anlagen zu beschränken. Weitere Informationen finden Sie unter [Office 365 unterstützt jetzt größere E-Mails](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Nachrichtengrößenbeschränkung** Nachrichtengrößenbeschränkungen sind notwendig, um zu verhindern, dass große Nachrichten die Zustellung von anderen Nachrichten blockieren und dass die Leistung des Diensts für alle Benutzer beeinträchtigt wird. Diese Beschränkungen umfassen auch Anlagen, und sie gelten organisationsweit für alle Nachrichten (eingehende, ausgehende und interne). Nachrichten, die größer sind, werden nicht zugestellt, und der Absender erhält einen Unzustellbarkeitsbericht. Während die Grenzwerte für die Nachrichtengröße nicht nach oben oder unten oder für die einzelnen Benutzer geändert werden können, können Administratoren auch Transportregeln einrichten, um die maximale Größe einzelner Anlagen zu beschränken. Weitere Informationen finden Sie unter [Office 365 unterstützt jetzt größere E-Mails](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
     
    > [!NOTE]
     > Einige e-Mail-Clients haben möglicherweise niedrigere Grenzwerte für die Nachrichtengröße oder können die Größe einer einzelnen Dateianlage auf einen Wert beschränken, der kleiner ist als der Grenzwert für die Nachrichtengröße Exchange Online. 
@@ -621,7 +621,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 |Grenzwert für die Tiefe der Nachrichteneinbettung  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |30 eingebettete Nachrichten  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB festlegen.. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen von der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Office 365 unterstützt jetzt größere E-Mail-Nachrichten](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).<br/> 
+> <sup>1</sup> Office 365-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB festlegen.. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen von der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Office 365 unterstützt jetzt größere E-Mail-Nachrichten](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).<br/> 
 <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Office 365-Benutzern senden und empfangen (wobei die Nachricht niemals die Office 365 Datencenter verlässt). Nachrichten, die außerhalb der Office 365-Datencenter weitergeleitet werden, werden aufgrund der Übersetzungscodierung noch einmal um 33 % größer. In diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> 
 <sup>3</sup> OWA-Konten für die Möglichkeit, dass Ihre Nachricht möglicherweise dem 33%-Codierungs Zuwachs unterliegt, und schränkt die Größe der Nachricht ein, die Sie senden können, auf 25% niedriger als die konfigurierte Einstellung. Wenn Sie beispielsweise die Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten mit bis zu 75 MB senden. <br/> 
 <sup>4</sup> die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, werden von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. Dieser Grenzwert gilt für auf Verschiebungen basierende Migrationen mit einem beliebigen unterstützten Exchange-Postfachreplikationsdienst. Andere Migrationsmethoden (einstufig, mehrstufig, IMAP, PST-Datei) und andere Tools von Drittanbietern werden durch allgemeine Nachrichtengröße begrenzt. <br/> 
@@ -1046,7 +1046,7 @@ In der folgenden Tabelle werden die SharePoint-Features beschrieben, die in den 
 |Persönliche Website <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Fotos und Anwesenheit <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Profil <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Bewertungen <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Ratings <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Für mich freigegeben <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Website Feed (klassische Teamwebsite mit SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |OneDrive for Business <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
