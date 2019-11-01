@@ -4,6 +4,11 @@
       "source_path": "office365-ServiceDescriptions/microsoft-365-business-service-description.md",
       "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description",
       "redirect_document_id": true
+   },
+   {
+    "source_path": "office365-ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md",
+    "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance",
+    "redirect_document_id": true
    }
-  ] 
-  }
+ ] 
+}
