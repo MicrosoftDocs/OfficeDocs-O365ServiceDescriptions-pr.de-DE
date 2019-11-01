@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: 619b8704f0c7e55f3a18adf33c9ef056bad13926
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765626"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911818"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -124,5 +124,5 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Nein  <br/> |Nein  <br/> |
    
 > <sup>1</sup> Office 2016 für Mac erfordert Mac OS X 10,10 oder höher. Kunden, die über Outlook für Mac eine Verbindung zu Exchange herstellen, benötigen das Connectivity to Microsoft Exchange Server 2010 Service Pack 2 oder höher. Weitere Informationen finden Sie unter [System Requirements for Office](https://products.office.com/en-US/office-system-requirements).<br/>
-<sup>2</sup> Im App Store als gesonderter Download verfügbar. Weitere Informationen finden Sie unter [OneNote für Mac](https://www.microsoft.com/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
+<sup>2</sup> Im App Store als gesonderter Download verfügbar. Weitere Informationen finden Sie unter [OneNote für Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
 <sup>3</sup> Office für Mac 2011 kann installiert, aber nicht aktiviert werden.

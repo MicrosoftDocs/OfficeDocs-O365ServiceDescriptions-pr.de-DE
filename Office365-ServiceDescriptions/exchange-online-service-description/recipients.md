@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In diesem Thema werden die empfängerbezogenen Features von Microsoft Exchange Online beschrieben. Dazu gehören E-Mail, Kontakte, Verteilergruppen sowie Kalender- und Terminplanungsfunktionen.
-ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734203"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911718"
 ---
 # <a name="recipients"></a>Empfänger
 
@@ -58,7 +58,7 @@ Exchange Online ermöglicht es Benutzern, Posteingangsregeln zu erstellen, die a
   
 ### <a name="clutter"></a>Unwichtige Elemente
 
-Die Funktion "Unwichtige Elemente" soll Ihnen helfen, sich auf die wichtigsten Nachrichten in Ihrem Posteingang zu konzentrieren. Sie verschiebt durch maschinelles Lernen Nachrichten mit niedriger Priorität in Ihrem Posteingang in einen neuen Ordner namens "Unwichtige Elemente". Dabei werden Ihre vorhandenen E-Mail-Regeln berücksichtigt. Wenn Sie also Regeln zum Organisieren Ihrer E-Mails festgelegt haben, gelten diese Regeln weiterhin, und die betreffenden Nachrichten werden durch "Unwichtige Elemente" nicht beeinflusst. "Unwichtige Elemente" ist für Ihren Posteingang standardmäßig deaktiviert. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [De-clutter your inbox in Office 365]( https://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/).
+Die Funktion "Unwichtige Elemente" soll Ihnen helfen, sich auf die wichtigsten Nachrichten in Ihrem Posteingang zu konzentrieren. Sie verschiebt durch maschinelles Lernen Nachrichten mit niedriger Priorität in Ihrem Posteingang in einen neuen Ordner namens "Unwichtige Elemente". Dabei werden Ihre vorhandenen E-Mail-Regeln berücksichtigt. Wenn Sie also Regeln zum Organisieren Ihrer E-Mails festgelegt haben, gelten diese Regeln weiterhin, und die betreffenden Nachrichten werden durch "Unwichtige Elemente" nicht beeinflusst. "Unwichtige Elemente" ist für Ihren Posteingang standardmäßig deaktiviert. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [De-clutter your inbox in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
   
 ### <a name="connected-accounts"></a>Verbundene Konten
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734113"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911708"
 ---
 # <a name="office-365-suite-features"></a>Office 365-Suitefeatures
 
@@ -55,7 +55,7 @@ Microsoft PowerApps ist ein Enterprise-Dienst, der Sie beim schnellen Erstellen,
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub ist eine cloudbasierte Anwendung, in der Mitarbeiter und deren Vorgesetzte ihre mobilen Geräte verwenden können, um Zeitpläne zu verwalten und in Kontakt zu bleiben. Mitarbeiter können StaffHub verwenden, um Abwesenheitszeiten anzufordern, Schichten zu tauschen und mit anderen Mitarbeitern zu kommunizieren. Mitarbeiter können Nachrichten direkt untereinander oder mit dem gesamten Team austauschen. Vorgesetzte können StaffHub verwenden, um Nachrichten zu senden, Zeitpläne zu erstellen und dem Team Neuigkeiten oder Ankündigungen über das Unternehmen zu senden. Weitere Informationen zu StaffHub finden Sie auf der Microsoft-Website zu [StaffHub](https://staffhub.office.com/) und im [Office 365-Teamblog](https://blogs.office.com/2017/01/12/microsoft-staffhub-is-here/).
+Microsoft StaffHub ist eine cloudbasierte Anwendung, in der Mitarbeiter und deren Vorgesetzte ihre mobilen Geräte verwenden können, um Zeitpläne zu verwalten und in Kontakt zu bleiben. Mitarbeiter können StaffHub verwenden, um Abwesenheitszeiten anzufordern, Schichten zu tauschen und mit anderen Mitarbeitern zu kommunizieren. Mitarbeiter können Nachrichten direkt untereinander oder mit dem gesamten Team austauschen. Vorgesetzte können StaffHub verwenden, um Nachrichten zu senden, Zeitpläne zu erstellen und dem Team Neuigkeiten oder Ankündigungen über das Unternehmen zu senden. Weitere Informationen zu StaffHub finden Sie auf der Microsoft-Website zu [StaffHub](https://staffhub.office.com/) und im [Office 365-Teamblog](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -79,7 +79,7 @@ Gruppen in Office 365 verbinden Benutzer mit Kollegen, Informationen und Anwendu
   
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video ist ein sicheres, unternehmensweites Ziel, auf das Sie Videos hochladen können. Diese können dann freigegeben werden und werden geräteübergreifend erkannt. Grundlage sind die Microsoft Azure Media Services. Office 365 Video hält Benutzer motiviert und informiert. Sie können Ideen einem breiten Publikum präsentieren. Zudem trägt das Tool dazu bei, eine organisationsweit einheitliche Strategie zu entwickeln. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [Introducing Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
+Office 365 Video ist ein sicheres, unternehmensweites Ziel, auf das Sie Videos hochladen können. Diese können dann freigegeben werden und werden geräteübergreifend erkannt. Grundlage sind die Microsoft Azure Media Services. Office 365 Video hält Benutzer motiviert und informiert. Sie können Ideen einem breiten Publikum präsentieren. Zudem trägt das Tool dazu bei, eine organisationsweit einheitliche Strategie zu entwickeln. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>OneNote-Kursnotizbuch
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 'Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.'
-ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733576"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911828"
 ---
 # <a name="yammer-service-description"></a>Beschreibung des Yammer-Dienstes
 
@@ -49,7 +49,7 @@ Yammer ist in den folgenden Plänen verfügbar:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Jammern der Unternehmensdienst-Kommunikationsrichtlinie
 <a name="YammerCommsPolicy"> </a>
 
-Jammern ist ein Bestandteil von Office 365 und entspricht der [Office 365 Change Management-Richtlinie](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), verwendet jedoch nicht die Zielversion zum Rollout von Updates. 
+Jammern ist ein Bestandteil von Office 365 und entspricht der [Office 365 Change Management-Richtlinie](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), verwendet jedoch nicht die Zielversion zum Rollout von Updates. 
   
 Mit allen Yammer-Benutzern werden A/B-Featuretests durchgeführt. Dies ermöglicht es Microsoft, Features in vielen Umgebungen und auf unterschiedlichen Geräten auf Stabilität, Leistung und verbesserte Benutzerfreundlichkeit zu testen. Aufgrund der Tests haben unter Umständen Benutzer im gleichen Netzwerk unterschiedliche Benutzererfahrungen. Kunden haben nicht die Möglichkeit, A/B-Tests abzuwählen.
   

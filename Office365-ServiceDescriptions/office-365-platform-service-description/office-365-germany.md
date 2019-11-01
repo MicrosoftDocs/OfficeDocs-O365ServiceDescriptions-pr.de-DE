@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734263"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911807"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -373,7 +373,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Nachrichtenflussregeln|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Anti-Spam und Schutz vor Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|
@@ -766,7 +766,7 @@ In der folgenden Tabelle sind OneDrive for Business (eigenständige Option) und 
 |Persönliche Website|Ja|Ja|Ja|Ja|
 |Fotos und Anwesenheit|Ja|Ja|Ja|Ja|
 |Profil|Ja|Ja|Ja|Ja|
-|Bewertungen|Ja|Ja|Ja|Ja|
+|Ratings|Ja|Ja|Ja|Ja|
 |Shared with Me|Ja|Ja|Ja|Ja|
 |[Website Feed (klassische Teamwebsite mit SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Nein|Nein|Ja|Ja|
 |OneDrive for Business|Ja|Ja|Ja|Ja|
@@ -787,7 +787,7 @@ In der folgenden Tabelle sind OneDrive for Business (eigenständige Option) und 
 
 ## <a name="project-online-features"></a>Project Online-Features
 
-In der folgenden Tabelle sind die Project Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+In der folgenden Tabelle sind die Project Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -1026,7 +1026,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |Persönliche Website|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Fotos und Anwesenheit|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Profil|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Bewertungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Ratings|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Shared with Me|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |[Website Feed (klassische Teamwebsite mit SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |OneDrive for Business|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>2</sup>|

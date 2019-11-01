@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
-ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
+ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890054"
+ms.locfileid: "37911791"
 ---
 # <a name="user-account-management"></a>Benutzerkontenverwaltung
 
@@ -184,7 +184,7 @@ Partner können zum Verwalten von Konten im Namen von Kunden autorisiert werden.
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory-Dienste
 
-Azure Active Directory (AD) bietet umfassende Identitäts- und Zugriffsverwaltungsfunktionen für Office 365. Es kombiniert Verzeichnisdienste, erweiterte Identity Governance, Anwendungszugriffsverwaltung und eine funktionsreiche standardbasierte Plattform für Entwickler. Weitere Informationen zu Active Directory-Features in Office 365 finden Sie in diesem Blogbeitrag zum Thema [Branding der Anmeldeseite und Self-Service-Kennwortzurücksetzung für Cloudbenutzer](https://blogs.office.com/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Hier erfahren Sie mehr über die [Azure Active Directory-Editionen Free, Basic und Premium](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) bietet umfassende Identitäts- und Zugriffsverwaltungsfunktionen für Office 365. Es kombiniert Verzeichnisdienste, erweiterte Identity Governance, Anwendungszugriffsverwaltung und eine funktionsreiche standardbasierte Plattform für Entwickler. Weitere Informationen zu Active Directory-Features in Office 365 finden Sie in diesem Blogbeitrag zum Thema [Branding der Anmeldeseite und Self-Service-Kennwortzurücksetzung für Cloudbenutzer](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Hier erfahren Sie mehr über die [Azure Active Directory-Editionen Free, Basic und Premium](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
