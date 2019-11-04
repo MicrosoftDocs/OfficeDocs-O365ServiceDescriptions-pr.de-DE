@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: 52ffb52601838a005ffaa6b05ba905590cd65e19
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5a75e3b8f51feb6b6dc7318355b09e3e3cc4909f
+ms.sourcegitcommit: fcfec093e77bafd9940d94c8c3439b2fa3e007f8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726184"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37932009"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Beschränkungen
 
@@ -27,7 +27,7 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 |**Feature** <br/> |**Office 365 Business Essentials oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint Online Plan 1 oder 2** <br/> | **Office 365 Enterprise F1** <br/> |
 |Gesamtspeicher pro Organisation<sup>1, 2</sup> <br/> |1 TB plus 10 GB pro erworbener Lizenz  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Max Storage pro Websitesammlung<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
-|Websitesammlungen pro Organisation  <br/> |1 Million<sup>6</sup> <br/> |1 Million<sup>6</sup> <br/> |1 Mio.<br/> |
+|Websitesammlungen pro Organisation  <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<br/> |
 |Anzahl der Benutzer  <br/> |Bis zu 300  <br/> |1-500.000<sup>7</sup> <br/> |1-500.000<sup>7</sup> <br/> |
    
 <sup>1</sup> [erfahren Sie, wie Sie den gesamten und den verfügbaren Speicher für Ihre Organisation ermitteln können](/sharepoint/manage-site-collection-storage-limits). Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher erwerben. Weitere Informationen finden Sie unter [Ändern von Speicherplatz für Ihr Abonnement](/office365/admin/subscriptions-and-billing/add-storage-space). 
