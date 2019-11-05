@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Abschnitt enthält eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diesen zusätzlichen Abschnitt neben den Beschreibungen der Office 365-Dienste zu lesen.
-ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: eeee52cb0c42cc654fff2a42c1f09243c45aebcf
+ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734233"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37971721"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -180,12 +180,12 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>1</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup>  <br/> |Nr.<sup>1</sup> <br/> |
 |**[Features der Office 365 Suite](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft Flow  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |
+|Microsoft Flow  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Ja <br/> |Ja <br/> |Ja<br/> |Ja</sup> <br/> |
 |Microsoft Graph-API  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft MyAnalytics  <br/> |Nein <br/> |Nein <br/> |Ja<sup>17</sup> <br/> |Nein <br/> |
-|Microsoft Planner  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
-|Microsoft PowerApps  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |
+|Microsoft Planner  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
+|Microsoft PowerApps  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |Nein <br/> |Nein <br/> |Nein <br/> |Nein<br/> |
 |Microsoft Stream  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Nein  <br/> |
 |Microsoft Sway  <br/> |Nein <br/> |Nein <br/> |Nein <br/> |Nein <br/> |
@@ -266,7 +266,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Secure Score<sup>14</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |
 |Office-Nachrichtenverschlüsselung  <br/> |Nein  <br/> |Ja <br/> |Ja <br/> |Nein  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nr.<sup>12</sup> <br/> |Nr.<sup>12</sup> <br/> |Ja <br/> |Nr.<sup>12</sup> <br/> |
-|**[Einhaltung](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[Compliance](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
