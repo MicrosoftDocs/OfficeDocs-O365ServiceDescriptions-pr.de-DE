@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
-ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
+ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
+ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637252"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38020262"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -150,7 +150,7 @@ Ziehen Sie das Ausfüllkästchen, das in der unteren rechten Ecke einer ausgewä
   
 ## <a name="find"></a>Suchen
 
-Suchen nach Zelleninhalten im aktiven Arbeitsblatt In einem benutzerfreundlichen Dialogfeld können Sie angeben, ob Sie das Arbeitsblatt ab der ausgewählten Zelle nach oben oder nach unten durchsuchen möchten.
+Zelleninhalt im aktiven Arbeitsblatt suchen. Ein einfaches Dialogfeld bietet die Möglichkeit, nach der aktuellen Auswahl im Arbeitsblatt nach oben oder nach unten zu suchen. Mit " **Alle suchen** " können Sie jede Instanz Ihres Suchbegriffs markieren.
   
 ## <a name="font-and-cell-formatting"></a>Schriftart und Zellformatierung
 
@@ -244,7 +244,7 @@ Excel für das Internet ermöglicht Ihnen das Anzeigen von PowerPivot-Tabellen u
 
 Sie können Power View-Blätter in einer Arbeitsmappe anzeigen und interagieren, aber Sie können Power View nicht mit Excel für das Internet erstellen. Das Erstellen von Power View ist nur mit der Desktopanwendung möglich. Mit Power View können Sie Daten in interaktiven, präsentationsbereiten Ansichten erstellen, freigeben und durchsuchen. Zeigen Sie Informationen in interaktiven Karten, Diagrammen und Tabellen an, die in einem einzigen Arbeitsblatt miteinander verknüpft sind. Erfahren Sie mehr über [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
-## <a name="print"></a>Print
+## <a name="print"></a>Drucken
 
 Verwenden Sie den Befehl Drucken in Excel für das Internet, um das gesamte Arbeitsblatt oder die aktuelle Auswahl an den Drucker zu senden. Erfahren Sie mehr über [das Drucken in Excel für das Internet](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
