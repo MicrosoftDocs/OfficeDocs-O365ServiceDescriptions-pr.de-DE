@@ -1,5 +1,5 @@
 ---
-title: Lizenzierung von Microsoft 365 für kleine und mittelständische Unternehmen
+title: Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business ist das beste Angebot von Microsoft für kleine und mittelständische Geschäftskunden. Microsoft 365 Business ist eine integrierte Lösung, die Office 365 Produktivität, erweiterte Sicherheit und Geräteverwaltung vereint.
-ms.openlocfilehash: 0c7d91293b65604183d67e24ab2490ca8032da3a
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020451"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289785"
 ---
-# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Lizenzierung von Microsoft 365 für kleine und mittelständische Unternehmen
+# <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
 
 Microsoft 365 Business ist das beste Angebot von Microsoft für kleine und mittelständische Unternehmen (SMB-Kunden). Microsoft 365 Business ist eine integrierte Lösung, die die **Produktivität** von Office 365 mit **erweiterter Sicherheit** und **Geräteverwaltung**verbindet.
 
@@ -148,7 +148,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Compliance** | Unbegrenzte e-Mail-Archivierung<sup>2</sup> | Nein | Ja | Ja | Ja |
 |   | Advanced eDiscovery, Customer Lockbox, Advanced Data Governance | Nein | Nein | Nein | Ja |
 |**Analysen** | Power BI Pro, MyAnalytics | Nein | Nein | Nein | Ja |
-|**VoIP** | PSTN-Konferenzen, Cloud-PBX | Nein | Nein | Nein | Ja |
+|**Stimme** | PSTN-Konferenzen, Cloud-PBX | Nein | Nein | Nein | Ja |
 
 **Notes**
 
@@ -202,7 +202,7 @@ Microsoft 365 Business umfasst den Office 365 Business-Client, der einige Unters
 
 <sup>1</sup> ermöglicht es der Organisation, bestimmte Konfigurationseinstellungen (Sicherheitseinstellungen, App-Einstellungen, Active Directory Roaming usw.) für Office auf Computer zu übertragen, die sich beim Unternehmensnetzwerk anmelden.
 
-<sup>2</sup> mit Office Standard 2016 und Office Professional Plus 2016 verfügt es über Vollzugriff auf Updates mithilfe des MSI-Modells. Mit Office 365 ProPlus werden Installation und Updates über Klick-und-Los verwaltet.
+<sup>2</sup> mit Office Standard 2016 und Office Professional Plus 2016 verfügt es über Vollzugriff auf Updates mithilfe des MSI-Modells. Mit Office 365 ProPlus und **Office 365 Business** werden Installation und Updates über Klick-und-Los verwaltet.
 
 <sup>3</sup> die Suites bieten unterschiedliche Integrationsstufen mit Geschäfts Produktivitäts Servern.
 

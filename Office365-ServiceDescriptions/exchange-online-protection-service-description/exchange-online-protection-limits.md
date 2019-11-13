@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Grenzwertesind nicht konfigurierbar, sofern nicht anders angegeben.
-ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581465"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289775"
 ---
 # <a name="exchange-online-protection-limits"></a>Exchange Online Schutz Grenzwerte
 
@@ -54,7 +54,7 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
 |Grenzwert sicherer Absender  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||
 |Grenzwert für blockierte Absender pro Richtlinie  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||
 |Beschränkung für zugelassene IP-Adressen oder IP-Block  <br/> |1273 Einträge  <br/> |1273 Einträge  <br/> |1273 Einträge  <br/> |
-|Beschränkung der Rückstellung  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |2 Tage, alle 15 Minuten wiederholt  <br/> |
+|Beschränkung der Rückstellung  <br/> |1 Tag, alle 15 Minuten erneut versucht  <br/> |1 Tag, alle 15 Minuten erneut versucht  <br/> |1 Tag, alle 15 Minuten erneut versucht  <br/> |
 |Aufbewahrungsdauer für Spam-Quarantäne  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |standardmäßig 30 Tage, kann jedoch gesenkt werden  <br/> |
 |Spamquarantänebenachrichtigungen für Endbenutzer  <br/> |3 Tage standardmäßig konfigurierbar von 1 bis 15 Tage  <br/> |3 Tage standardmäßig konfigurierbar von 1 bis 15 Tage  <br/> |3 Tage standardmäßig konfigurierbar von 1 bis 15 Tage  <br/> |
    
