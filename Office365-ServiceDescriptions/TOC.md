@@ -112,5 +112,8 @@
 
 ### [Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
 ### [Microsoft 365-Dienste auf Mandantenebene – Leitfaden zur Lizenzierung](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
+#### [Planen von Microsoft 365 Compliance – DoD-Bereitstellungen](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
+#### [Planen von Microsoft 365 Compliance – GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
+#### [Planen von Microsoft 365 Compliance – GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Dienstbeschreibung von Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
 
