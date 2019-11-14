@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in den US-Bundesstaaten, Ländern, lokalen, Stammes-oder Gebietskörperschaften oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government-gcc ist geeignet, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 50649287df37afe20b58f98333a10bc7885b417d
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890491"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319493"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Plan for Microsoft 365 Compliance – gcc
 
@@ -62,14 +61,14 @@ Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherhei
 
 **Entscheidungspunkt**: *entscheiden Sie, ob Sie die Standardsicherheitseinstellungen von Microsoft 365 Government-gcc ändern, um zunächst die Auswirkungen von Änderungen zu verstehen, die Sie möglicherweise vornehmen.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc"></a>Schritt 4: Grundlegendes zu den derzeit nicht verfügbaren oder standardmäßig in Microsoft 365 Government – gcc deaktivierten Funktionen
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Schritt 4: Grundlegendes zu den derzeit nicht verfügbaren oder deaktivierten Funktionen in Microsoft 365 Government – gcc<sup>1</sup>
 
 Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es einige Unterschiede zwischen Microsoft 365 Government-gcc und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features.
 
 |                                         | **Feature**                                     | **GCC-Status**         |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Informationsschutz #a0 Steuerung** | Archivierung                                       | Available              |
-|                                         | Manuelle Bezeichnungen und Richtlinien                      | Available              |
+|                                         | Manuelle Bezeichnungen und Richtlinien<sup>2</sup>          | Available              |
 |                                         | Automatische Anwendung von Beschriftungen                      | Im Entwicklungsrückstand |
 |                                         | Bezeichnungen basierend auf vertraulichen Datentypen            | Im Entwicklungsrückstand |
 |                                         | Bezeichnungen und zugeordnete Richtlinien basierend auf Abfragen | Im Entwicklungsrückstand |
@@ -80,9 +79,9 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Dispositions Überprüfung                              | Im Entwicklungsrückstand |
 |                                         | Informationsbarrieren                            | Available              |
 |                                         | Verhinderung von Datenverlust (DLP) für Dateien und e-Mail  | Available              |
-|                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen    | Available              |
+|                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen    | Im Entwicklungsrückstand |
 | **Insider Risikomanagement**             | Erweiterte Nachrichtenverschlüsselung                     | Available              |
-|                                         | Kommunikation Compliance                        | Im Entwicklungsrückstand |
+|                                         | Kommunikationscompliance                        | Im Entwicklungsrückstand |
 |                                         | Kunden-Lockbox                                | Available              |
 |                                         | Kundenschlüssel                                    | Available              |
 |                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
@@ -102,12 +101,16 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Kategorien                                         | Im Entwicklungsrückstand |
 |                                         | Anzeigende Benutzer                                         | Im Entwicklungsrückstand |
 |                                         | Redaktionen                                      | Im Entwicklungsrückstand |
-|                                         | Filterung                                       | Im Entwicklungsrückstand |
+|                                         | Filtern                                       | Im Entwicklungsrückstand |
 |                                         | Depot für Arbeits Auslastungs Zuordnung                   | Im Entwicklungsrückstand |
 |                                         | Depotbank-Kommunikation                        | Im Entwicklungsrückstand |
 |                                         | Überprüfungs Sätze                                     | Im Entwicklungsrückstand |
 |                                         | Überprüfen und kommentieren                             | Im Entwicklungsrückstand |
 |                                         | Nicht Office 365E Einnahme                        | Im Entwicklungsrückstand |
 |                                         | Suchausdrucks Bericht                              | Im Entwicklungsrückstand |
+
+<sup>1</sup> der Status "identifiziert" kann geändert werden, wenn Projektpläne und Prioritäten neu ausgewertet werden.<br/>
+<sup>2</sup> die manuelle Anwendung von Bezeichnungen erfordert den [Azure Information Protection (AIP)-Client, Version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
+
 
 **Entscheidungspunkt**: *entscheiden Sie, ob die Konformitäts Funktionen den Anforderungen Ihrer Organisation entsprechen.*

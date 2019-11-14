@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – DoD geeignet ist, Diese Anforderungen erfüllen.
-ms.openlocfilehash: 27f51c80b4d19f2ca42f0dc7f8b25c93d39dd5ca
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890492"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319483"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365-Compliance-DoD-Bereitstellungen
 
@@ -59,15 +58,15 @@ Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherhei
 
 **Entscheidungspunkt**: *entscheiden Sie, ob Sie die Standardsicherheitseinstellungen von Microsoft 365 Government-DoD ändern, um zunächst die Auswirkungen von Änderungen zu verstehen, die Sie möglicherweise vornehmen.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dod"></a>Schritt 4: Verstehen, welche Funktionen derzeit in Microsoft 365 Government – DoD standardmäßig nicht verfügbar oder deaktiviert sind
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Schritt 4: Verstehen, welche Funktionen derzeit in Microsoft 365 Government – DoD<sup>1</sup> standardmäßig nicht verfügbar oder deaktiviert sind
 
 Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einige Unterschiede zwischen Microsoft 365 Government-DoD und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features.
 
 
 |         |Feature  |DoD-Status  |
 |---------|---------|---------|
-|**Informationsschutz #a0 Steuerung** | Archivierung                                      |  Available             |
-|                                        |Manuelle Bezeichnungen und Richtlinien                      |  Available             |
+|**Informationsschutz #a0 Steuerung** |Archivierung                                       |  Available             |
+|                                        |Manuelle Bezeichnungen und Richtlinien<sup>2</sup>          |  Available             |
 |                                        |Automatische Anwendung von Beschriftungen                      | Im Entwicklungsrückstand |
 |                                        |Bezeichnungen basierend auf vertraulichen Datentypen            | Im Entwicklungsrückstand |
 |                                        |Bezeichnungen und zugeordnete Richtlinien basierend auf Abfragen | Im Entwicklungsrückstand |
@@ -80,7 +79,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                        |Verhinderung von Datenverlust (DLP) für Dateien und e-Mail  | Available              |
 |                                        |DLP für Microsoft Teams-Chat und Kanal Unterhaltungen    | Im Entwicklungsrückstand |
 |**Insider Risikomanagement**             |Erweiterte Nachrichtenverschlüsselung                     | Available              |
-|                                        |Kommunikation Compliance                        | Im Entwicklungsrückstand |
+|                                        |Kommunikationscompliance                        | Im Entwicklungsrückstand |
 |                                        |Kunden-Lockbox                                | Available              |
 |                                        |Kundenschlüssel                                    | Available              |
 |                                        |Privileged Access Management                    | Im Entwicklungsrückstand |
@@ -99,12 +98,16 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                        |Kategorien                                         | Im Entwicklungsrückstand |
 |                                        |Anzeigende Benutzer                                         | Im Entwicklungsrückstand |
 |                                        |Redaktionen                                      | Im Entwicklungsrückstand |
-|                                        |Filterung                                       | Im Entwicklungsrückstand |
+|                                        |Filtern                                       | Im Entwicklungsrückstand |
 |                                        |Depot für Arbeits Auslastungs Zuordnung                   | Im Entwicklungsrückstand |
 |                                        |Depotbank-Kommunikation                        | Im Entwicklungsrückstand |
 |                                        |Überprüfungs Sätze                                     | Im Entwicklungsrückstand |
 |                                        |Überprüfen und kommentieren                             | Im Entwicklungsrückstand |
 |                                        |Nicht Office 365E Einnahme                        | Im Entwicklungsrückstand |
 |                                        |Suchausdrucks Bericht                              | Im Entwicklungsrückstand |
+
+<sup>1</sup> der Status "identifiziert" kann geändert werden, wenn Projektpläne und Prioritäten neu ausgewertet werden.<br/>
+<sup>2</sup> die manuelle Anwendung von Bezeichnungen erfordert den [Azure Information Protection (AIP)-Client, Version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
+
 
 **Entscheidungspunkt**: *entscheiden Sie, ob die Konformitäts Funktionen den Anforderungen Ihrer Organisation entsprechen.*
