@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Office 365 Security &amp; Compliance Center wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 7f4aae6b65a81c682e2f27576cb3a65bbd9a0a5a
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 20a80d2c02155fa0f648d5027028ebe173bce020
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633446"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724753"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -36,7 +36,7 @@ Das [Office 365 Security &amp; Compliance Center](https://docs.microsoft.com/off
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |[Verwaltung mobiler Geräte](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup><br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|[Verhinderung von Datenverlust für Microsoft Teams-Chat und Kanal Nachrichten](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/>|
+|[Verhinderung von Datenverlust für Microsoft Teams-Chat und Kanal Nachrichten](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/>|
 |[Empfindlichkeits Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Nein <br/>| Nein <br/> | Nein <br/>| Ja <br/>| Ja <br/>| Nein <br/> |
 |[Informationsbarrieren](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/>|
 |[Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -76,7 +76,7 @@ Grenzwert von <sup>3</sup> 50 GB. <br/>
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |[Verwaltung mobiler Geräte](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja <sup>7<sup> <br/> |Nein  <br/> |Ja  <br/> |
-|[Verhinderung von Datenverlust für Microsoft Teams-Chat und Kanal Nachrichten](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|[Verhinderung von Datenverlust für Microsoft Teams-Chat und Kanal Nachrichten](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |[Informationsbarrieren](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |[Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Erweiterte Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |

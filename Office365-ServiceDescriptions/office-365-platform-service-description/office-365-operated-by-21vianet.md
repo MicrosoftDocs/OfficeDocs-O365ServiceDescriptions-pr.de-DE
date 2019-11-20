@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734143"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724763"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -82,6 +82,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Manuelle Übersetzung von Nachrichten Center-Beiträgen über maschinelle Übersetzung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Features der Office 365 Suite](office-365-suite-features.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Microsoft Bookings|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
+|Microsoft Briefing-e-Mail|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
 |Microsoft Flow|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Forms|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft MyAnalytics|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -174,7 +175,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Office 365 Erweiterte eDiscovery|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Sicheres Ergebnis<sup>4</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Informationen zu Bedrohungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Einhaltung](compliance-servicedesc.md)**||||||||
+|**[Compliance](compliance-servicedesc.md)**||||||||
 |SAS 70-/SSAE16-Bewertungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |ISO 27001-Zertifizierung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |EU-Standardvertragsklauseln|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -194,7 +195,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 
 <sup>1</sup> Office 365 und Office 365, die von 21Vianet betrieben werden, bieten keine Unterstützung für Betriebssysteme, die nicht von Ihrem Hersteller unterstützt werden.<br/>
 <sup>2</sup> in Office 365 Enterprise F1, betrieben von 21Vianet, ist Office 365 Video auf die Anzeige beschränkt (keine Veröffentlichung oder Freigabe). <br/>
-<sup>3</sup> Wenn Sie die Verzeichnissynchronisierung mit einem lokalen Active Directory verwenden, müssen Sie Konten löschen oder Kennwörter ändern, indem Sie die lokale Active Directory anstelle des Office 365 Portals oder mithilfe des Azure Active Directory-Moduls für Windows verwenden. PowerShell. <br/>
+<sup>3</sup> Wenn Sie die Verzeichnissynchronisierung mit einem lokalen Active Directory verwenden, müssen Sie Konten löschen oder Kennwörter ändern, indem Sie das lokale Active Directory anstelle des Office 365 Portals verwenden oder das Azure Active Directory-Modul für Windows PowerShell verwenden. <br/>
 <sup>4</sup> noch nicht verfügbar in Office 365 betrieben von 21Vianet, aber in Kürze erhältlich. <br/>
 <sup>5</sup> Sie können nur eine öffentliche Website mit Office 365 haben, es sei denn, Sie haben ein Upgrade von einer früheren Version von Office 365 durchgeführt. In diesem Fall stehen Ihnen zwei öffentliche Websites zu, wobei nur eine mit einem benutzerdefinierten Domänennamen gehostet werden kann. Weitere Informationen zum Arbeiten mit den beiden Websites für Geschäfts Abonnements finden Sie unter [Arbeiten mit ihren beiden Office 365 öffentlichen Websites](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5). Wenn Sie ein anderes Abonnement haben, erfahren Sie mehr über öffentliche Websites in der [Hilfe zur öffentlichen Website für Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5).<br/>
 <sup>6</sup> Die Verringerung von Arbeitsplätzen, die mit einem laufzeitbezogenen Rabatt erworben wurden, kann einer Gebühr bei frühzeitiger Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird.<br/>
@@ -274,7 +275,7 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 <br/><sup>2</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.
 <br/><sup>3</sup> Wenn Sie Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 haben, können Sie die [Power Map-Vorschau für Excel 2013](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409) als nicht unterstütztes Add-in herunterladen und verwenden.
 <br/><sup>4</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype_for_Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3  beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. Weitere Informationen zu lync Basic-Funktionen finden Sie unter [Desktop Client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
-<br/><sup>5</sup> einige Schulen sind für Education Plus berechtigt, einschließlich Office 365 ProPlus, und ermöglicht es Schülern, Dozenten und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC-oder Mac-Computern sowie auf anderen mobilen Geräten zu installieren, darunter Windows Tablets und die iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar.
+<br/><sup>5</sup> einige Schulen sind für Education Plus berechtigt, einschließlich Office 365 ProPlus, und ermöglicht es Schülern, Dozenten und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC-oder Mac-Computern sowie auf anderen mobilen Geräten wie Windows Tablets und dem iPad zu installieren. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar.
 <br/><sup>6</sup> Office 2011 für Mac kann installiert, aber nicht aktiviert werden.
 <br/><sup>7</sup> Office 365 ProPlus wird für die benutzerspezifische virtuelle Desktopinfrastruktur (VDI) unterstützt. Office 365 ProPlus unterstützt nur Remote Desktop Dienste (RDS), wenn Sie über ein Volumenlizenzierungsprogramm erworben werden.
 <br/><sup>8</sup> die Volumenaktivierung für Office 365 Enterprise E3 und Office 365 ProPlus sind auf Installationen auf Windows Server 2008 R2 und neuer mit der aktivierten RDS-Rolle oder Windows to go-Installationen limitiert. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Enterprise E3 oder Office 365 ProPlus sein.
@@ -791,7 +792,7 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |Persönliche Website|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Fotos und Anwesenheit|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Profil|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Bewertungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Ratings|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Shared with Me|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Website Feed (klassische Teamwebsite mit SharePoint Social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |OneDrive for Business|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>2</sup>|

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business ist das beste Angebot von Microsoft für kleine und mittelständische Geschäftskunden. Microsoft 365 Business ist eine integrierte Lösung, die Office 365 Produktivität, erweiterte Sicherheit und Geräteverwaltung vereint.
-ms.openlocfilehash: a02c6de6a1ffc46d5f1ea2b96ce864adfda56c11
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289785"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724663"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
 
@@ -59,7 +59,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |---|---------------|-------------------|----------------------------|
 |**Verfügbare Lizenzen** | Maximale Anzahl von Benutzern | Unbegrenzt | 300 |
 |**Office-Apps** | Installieren von Office auf bis zu 5 PCs/Macs + 5 Tablets + 5 Smartphones pro Benutzer (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
-|**E-Mail #a0 Kalender** | Outlook, Exchange Online | 100 GB | 50 GB |
+|**E-Mail #a0 Kalender** | Outlook, Exchange Online | 100 GB | 50 GB |
 |**Hub für Teamarbeit** | Chat basierter Arbeitsbereich, Onlinebesprechungen und mehr in Microsoft Teams | Ja | Ja |
 |**Dateispeicher** | OneDrive for Business | Unbegrenzt | 1 TB pro Benutzer |
 |**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Ja | Ja |
@@ -148,6 +148,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Compliance** | Unbegrenzte e-Mail-Archivierung<sup>2</sup> | Nein | Ja | Ja | Ja |
 |   | Advanced eDiscovery, Customer Lockbox, Advanced Data Governance | Nein | Nein | Nein | Ja |
 |**Analysen** | Power BI Pro, MyAnalytics | Nein | Nein | Nein | Ja |
+|**Assistance** | Briefing e-Mail | Ja | Ja | Ja | Ja |
 |**Stimme** | PSTN-Konferenzen, Cloud-PBX | Nein | Nein | Nein | Ja |
 
 **Notes**

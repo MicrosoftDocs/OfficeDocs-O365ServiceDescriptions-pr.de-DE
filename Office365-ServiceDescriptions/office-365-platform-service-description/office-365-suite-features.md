@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911708"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724733"
 ---
 # <a name="office-365-suite-features"></a>Office 365-Suitefeatures
 
@@ -28,7 +28,17 @@ Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten T
 Microsoft Bookings ist eine Online- und mobile App für Kleinunternehmen, die Dienste für Kunden auf Terminbasis bereitstellen. Beispiele für solche Unternehmen sind Friseursalons, Zahnarztpraxen, Bäder, Kanzleien, Finanzdienstleister, Berater und Autohändler. Microsoft Bookings steht für Kunden in den USA und Kanada zur Verfügung, die über ein Office 365 Business Premium-Abonnement verfügen. 
   
 Weitere Informationen zu Microsoft Bookings finden Sie unter [Willkommen bei Microsoft Bookings](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
-  
+
+## <a name="microsoft-briefing-email"></a>Microsoft Briefing-e-Mail
+
+Die Briefing-e-Mail hilft Benutzern, jeden Tag optimal zu nutzen:
+
+* Bereiten Sie sich auf Besprechungen vor, indem Sie zugehörige Vorgänge oder relevante Dokumente anzeigen.
+* Verwalten von in e-Mails identifizierten Aufgaben, die möglicherweise ausstehen.
+* Verbessern Sie den Fokus Zeit gemäß der Buchungszeit im Kalender und in den Muting-Benachrichtigungen.
+
+Die e-Mail-Anweisung wird automatisch allen Benutzern von Exchange Online bereitgestellt. Weitere Informationen finden Sie in der [Übersicht über die Briefing-e-Mail](https://docs.microsoft.com/Briefing/be-overview).
+
 ## <a name="microsoft-flow"></a>Microsoft Flow
 
 Mit Microsoft Flow können Sie Workflows über Anwendungen hinweg automatisieren. Sie können Flow verwenden, um E-Mails und Chatwarnungen zu verbinden, Dateien zwischen Anwendungen zu synchronisieren, Dateien von einem Dienst zu einem anderen zu kopieren, Daten aus einer App zu erfassen und sie in einer anderen zu speichern usw. Um Ihnen den Einstieg zu erleichtern, sind Vorlagen verfügbar. Weitere Informationen zu Flow-Funktionen und deren Verwendung finden Sie auf der Microsoft-Website zu [Flow](https://flow.microsoft.com/en-us/).
@@ -87,7 +97,7 @@ Das Kursnotizbuch ist Teil von OneNote und für Office 365 Education und Office 
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala ist eine einfache und sichere Mobile work Management-APP, die einzigartige Funktionen für Microsoft 365 mit ihrer Fähigkeit zur Verbindung und zum Einbinden von Personen innerhalb und außerhalb des Verzeichnisses einer Organisation bietet – einschließlich Vertragsarbeitern, Kreditoren, Partner, Zulieferer, Kunden und Bürger – mit großen und [flexiblen Gruppentypen](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710). Das Open Directory-Modell von Kaizala ermöglicht Telefonnummern basierte Identität für einfaches Onboarding und eine einfache Benutzeroberfläche für Messaging und Arbeitsverwaltung. Mit dem Kaizala Mobile App können Benutzer Sofortnachrichten und Anlagen wie Bilder, Dokumente, Videos, Audiodateien und vieles mehr senden sowie Aktionskarten für Umfragen, Umfragen, Auftragszuweisungen, Ankündigungen, Schulungen und vieles mehr verwenden. [Kaizala ist mit Office 365 verfügbar](https://products.office.com/en/business/microsoft-kaizala) und funktioniert auf iPhone und Android. Weitere Informationen finden Sie auf der [Kaizala-Website](https://products.office.com/en/business/microsoft-kaizala). 
+Microsoft Kaizala ist eine einfache und sichere Mobile work Management-APP, die einzigartige Funktionen für Microsoft 365 mit der Möglichkeit bietet, sowohl innerhalb als auch außerhalb des Verzeichnisses eines Unternehmens, einschließlich Vertragsarbeitern, Lieferanten, Partnern, Lieferanten, Kunden und Bürgern, eine Verbindung herzustellen und diese einzubinden, indem große und [flexible Gruppentypen](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)verwendet werden. Das Open Directory-Modell von Kaizala ermöglicht Telefonnummern basierte Identität für einfaches Onboarding und eine einfache Benutzeroberfläche für Messaging und Arbeitsverwaltung. Mit dem Kaizala Mobile App können Benutzer Sofortnachrichten und Anlagen wie Bilder, Dokumente, Videos, Audiodateien und vieles mehr senden sowie Aktionskarten für Umfragen, Umfragen, Auftragszuweisungen, Ankündigungen, Schulungen und vieles mehr verwenden. [Kaizala ist mit Office 365 verfügbar](https://products.office.com/en/business/microsoft-kaizala) und funktioniert auf iPhone und Android. Weitere Informationen finden Sie auf der [Kaizala-Website](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
