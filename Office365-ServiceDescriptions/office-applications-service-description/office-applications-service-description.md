@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
+ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911818"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748979"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -97,7 +97,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 <sup>3</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.<br/>
 <sup>4</sup> Wenn Sie Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 haben, können Sie die [Power Map-Vorschau für Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-in herunterladen und verwenden.<br/> 
 <sup>5</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype_for_Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3  beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. Einen Vergleich der Features und Funktionen finden Sie unter [Desktop Client comparison tables for lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
-<sup>6</sup> einige Schulen sind für Education Plus berechtigt, einschließlich Office 365 ProPlus, und ermöglicht es Schülern, Dozenten und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC-oder Mac-Computern sowie auf anderen mobilen Geräten zu installieren, darunter Windows Tablets und die iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. <br/>
+<sup>6</sup> einige Schulen sind für Education Plus berechtigt, einschließlich Office 365 ProPlus, und ermöglicht es Schülern, Dozenten und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC-oder Mac-Computern sowie auf anderen mobilen Geräten wie Windows Tablets und dem iPad zu installieren. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. <br/>
 <sup>7</sup> Office für Mac 2011 kann installiert, aber nicht aktiviert werden. <br/>
 <sup>8</sup> Office 365 ProPlus wird für die benutzerspezifische virtuelle Desktopinfrastruktur (VDI) unterstützt. Office 365 ProPlus unterstützt nur Remote Desktop Dienste (RDS), wenn Sie über ein Volumenlizenzierungsprogramm erworben werden.<br/>
 <sup>9</sup> die Volumenaktivierung für Office 365 Enterprise E3 und Office 365 ProPlus sind auf Installationen auf Windows Server 2008 R2 und neuer mit der aktivierten RDS-Rolle oder Windows to go-Installationen limitiert. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Enterprise E3 oder Office 365 ProPlus sein.<br/> 
@@ -126,3 +126,88 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 > <sup>1</sup> Office 2016 für Mac erfordert Mac OS X 10,10 oder höher. Kunden, die über Outlook für Mac eine Verbindung zu Exchange herstellen, benötigen das Connectivity to Microsoft Exchange Server 2010 Service Pack 2 oder höher. Weitere Informationen finden Sie unter [System Requirements for Office](https://products.office.com/en-US/office-system-requirements).<br/>
 <sup>2</sup> Im App Store als gesonderter Download verfügbar. Weitere Informationen finden Sie unter [OneNote für Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
 <sup>3</sup> Office für Mac 2011 kann installiert, aber nicht aktiviert werden.
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>Verfügbarkeit von Office-Anwendungen und-Features in Regierungsplänen
+
+Die folgenden Office-Anwendungen sind in den Government Clouds verfügbar; Einige Cloud-basierte Funktionen sind jedoch möglicherweise derzeit nicht verfügbar, wie in der Tabelle dargestellt.
+
+|||||
+|-----|-----|-----|-----|
+|**Office-Anwendungen** | **GCC** | **GCC hoch** | **DoD** |
+|**[Microsoft Excel](office-applications.md#microsoft-excel)** ist in den öffentlichen Clouds vollständig verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:| Ja | Ja | Ja |
+|eingebettete 3D-Animationen und 3D-Modelle | Nein | Nein | Nein |
+|Datentypen | Nein | Nein | Nein |
+|Blitz Füllung  | Nein | Nein | Nein |
+|Ideen (Insight Services) | Nein | Nein | Nein |
+|Verbesserte Integration in PowerBI (benutzerdefinierte Visuals, Erstellen von PBI-Diagrammen direkt aus Excel) | Nein | Nein | Nein |
+|Intelligente digitale Tinte | Nein | Nein | Nein |
+|Office 365-Gruppen | Nein | Nein | Nein |
+|PivotCharts-Daten, die mit PivotTables verbunden sind | Nein | Nein | Nein |
+|PowerPivot | Nein | Nein | Nein |
+|Veröffentlichen in PowerBI | Nein | Nein | Nein |
+|Echtzeitzusammenarbeit (Anwesenheit, regulärer Mitverfasser, in-Document-Chat) | Nein | Nein | Nein |
+|Shared with Me | Nein | Nein | Nein |
+|Intelligentes Nachschlagen | Nein | Nein | Nein |
+|Diagramme: Sunburst, TreeMap, Waterfall, Histogramm, Maps, Timeline, Trichter | Nein | Nein | Nein |
+|Versionsverlauf| Nein | Nein | Nein | 
+|**Microsoft Forms** ist in den öffentlichen Clouds vollständig verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind: | Ja | Ja | Nein |
+|E-Mail-Benachrichtigung | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nein |
+|Einfügen eines Bilds | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nein |
+|Einfügen eines Videos | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nein |
+|Mathematik | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nein |
+|Office-Integration | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nein |
+|Die letzten Gruppen Formulare | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nein |
+|Externe Freigabe |Ja | Nein | Nein |
+|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** ist in den öffentlichen Clouds vollständig verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:| Ja | Ja | Ja |
+|Recherche | Nein | Nein | Nein |
+|Intelligente digitale Tinte | Nein | Nein | Nein |
+|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** ist in den öffentlichen Clouds vollständig verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:| Ja | Ja | Ja |
+|Office-Sounds (einige) | Nein | Nein | Nein |
+|DDE standardmäßig deaktiviert  | Nein | Nein | Nein |
+|Diktat | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nr.<sup>1</sup> |
+|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** ist in den öffentlichen Clouds vollständig verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:| Ja | Ja | Ja |
+|Intelligentes Nachschlagen | Nein | Nein | Nein |
+|Office-Sounds (einige) | Nein | Nein | Nein |
+|3D-Modelle und eingebettete 3D-Animationen | Nein | Nein | Nein |
+Diagramme: Maps | Nein | Nein | Nein |
+|Intelligente digitale Tinte | Nein | Nein | Nein |
+|Live Beschriftungen #a0 Untertiteln in PowerPoint | Nein | Nein | Nein |
+|Referenten Coach | Nein | Nein | Nein |
+|Shared with Me| Nein | Nein | Nein |
+|Skype for Business Integration in die Freigabe| Nein | Nein | Nein |
+|Versionsverlauf | Nein | Nein | Nein |
+|Office 365-Gruppen | Nein | Nein | Nein |
+|Echtzeitzusammenarbeit (Anwesenheit, regulärer Mitverfasser, in-Document-Chat) | Nein | Nein | Nein |
+|Diktat | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nr.<sup>1</sup> |
+|**Microsoft Whiteboard** in Government Clouds ist derzeit nur auf Hub-Clients und nicht auf dem Desktop verfügbar. | Ja<sup>2</sup> | Ja<sup>2</sup> | Ja<sup>2</sup> |
+|Einfügen von Notiz Notizen, Text und Bildern |Ja<sup>2</sup> |Ja<sup>2</sup> |Ja<sup>2</sup> |
+|Freihand für Form und Freihand in Tabelle |Ja<sup>2</sup> |Ja<sup>2</sup> |Ja<sup>2</sup> |
+|Farb Verschönerung |Ja<sup>2</sup> |Ja<sup>2</sup> |Ja<sup>2</sup> |
+|Umwandeln von Bildern in Freihand |Ja<sup>2</sup> |Ja<sup>2</sup> |Ja<sup>2</sup> |
+|Barrierefreiheitsprüfung |Ja<sup>2</sup> |Ja<sup>2</sup> |Ja<sup>2</sup> |
+|Dynamische Vorlagen (Kanban, SWOT usw.) | Nein | Nein | Nein |
+|Echtzeitzusammenarbeit | Nein | Nein | Nein |
+|Echtzeitanwesenheit | Nein | Nein | Nein |
+|Reaktionen auf Inhalte | Nein | Nein | Nein |
+|Board Gallery of Whiteboards, einschließlich für Sie freigegeben | Nein | Nein | Nein |
+|**[Microsoft Word](office-applications.md#microsoft-word)** ist in den öffentlichen Clouds vollständig verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:| Ja | Ja | Ja |
+|Intelligentes Nachschlagen | Nein | Nein | Nein |
+|Recherche | Nein | Nein | Nein |
+|Office-Sounds | Nein | Nein | Nein |
+|3D-Modelle | Nein | Nein | Nein |
+|eingebettete 3D-Animationen | Nein | Nein | Nein |
+|Tippen | Nein | Nein | Nein |
+|Lebenslauf-Assistent | Nein | Nein | Nein |
+|Karten Diagramme | Nein | Nein | Nein |
+|Intelligente digitale Tinte | Nein | Nein | Nein |
+|Shared with Me | Nein | Nein | Nein |
+|Translation | Nein | Nein | Nein |
+|Skype for Business Integration in die Freigabe | Nein | Nein | Nein |
+|Versionsverlauf | Nein | Nein | Nein |
+|Office 365-Gruppen | Nein | Nein | Nein |
+|Kontext Chat mit Mitverfassern: Chat mit Co-Autoren im Dokument | Nein | Nein | Nein |
+|Diktat| Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nr.<sup>1</sup> |
+
+> [!NOTE]
+> <sup>1</sup> verfügbar im Dezember 2019. <br/>
+> <sup>2</sup> verfügbar auf dem Hub für lokale Oberflächen (nicht angemeldet).
