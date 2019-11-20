@@ -79,6 +79,7 @@
 ## [Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Skype for Business Online-Features](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Skype for Business Online-Beschränkungen](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [Briefing-e-Mail – Dienstbeschreibung](briefing-service-description.md)
 ## [Workplace Analytics-Dienstbeschreibung](workplace-analytics-service-description.md)
 ## [MyAnalytics-Dienstbeschreibung](mya-service-description.md)
 ## [Power BI - Dienstbeschreibung](power-bi-service-description.md)
