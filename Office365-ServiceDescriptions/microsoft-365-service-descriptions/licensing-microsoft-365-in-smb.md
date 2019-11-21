@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business ist das beste Angebot von Microsoft für kleine und mittelständische Geschäftskunden. Microsoft 365 Business ist eine integrierte Lösung, die Office 365 Produktivität, erweiterte Sicherheit und Geräteverwaltung vereint.
-ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
+ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724663"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38755473"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
 
@@ -148,6 +148,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Compliance** | Unbegrenzte e-Mail-Archivierung<sup>2</sup> | Nein | Ja | Ja | Ja |
 |   | Advanced eDiscovery, Customer Lockbox, Advanced Data Governance | Nein | Nein | Nein | Ja |
 |**Analysen** | Power BI Pro, MyAnalytics | Nein | Nein | Nein | Ja |
+| | Einblicke von myAnalytics | Ja | Ja | Ja | Ja |
 |**Assistance** | Briefing e-Mail | Ja | Ja | Ja | Ja |
 |**Stimme** | PSTN-Konferenzen, Cloud-PBX | Nein | Nein | Nein | Ja |
 
@@ -190,9 +191,9 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 | **Lizenzierung**                                   | **Office 365 Business** | **Office 365 ProPlus** |
 | Lizenzierungsmodell                                 | Pro Benutzer                | Pro Benutzer               |
 | Lizenztyp                                    | Abonnement            | Abonnement           |
-| PC/Mac installiert<sup>6</sup>                     | 5                       | 5                      |
-| IOS/Android-Smartphone installiert<sup>6</sup>     | 5                       | 5                      |
-| Tablet-Installation<sup>6</sup>                     | 5                       | 5                      |
+| PC/Mac installiert<sup>6</sup>                     | 5                        | 5                      |
+| IOS/Android-Smartphone installiert<sup>6</sup>     | 5                        | 5                      |
+| Tablet-Installation<sup>6</sup>                     | 5                        | 5                      |
 | Office RT-Geschäfts Rechte                     | Ja                     | Ja                    |
 | Office Online/Webanwendungen                          | Ja                     | Ja                    |
 | Kommerzielle Nutzungsrechte                           | Ja                     | Ja                    |
