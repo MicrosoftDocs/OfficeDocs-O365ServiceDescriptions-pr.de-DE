@@ -1,5 +1,5 @@
 ---
-title: Benutzerkontenverwaltung
+title: User account management
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 947030a8a0e04d5a5bc79cffed20cf054bb8d29e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911791"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262116"
 ---
-# <a name="user-account-management"></a>Benutzerkontenverwaltung
+# <a name="user-account-management"></a>User account management
 
 Microsoft Office 365 unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern. 
   
 > [!NOTE]
-> Dieses Thema enthält keine Informationen über Sicherheitsfunktionen, die den Zugriff auf einzelne Office 365-Ressourcen zulassen oder verhindern (z. B. rollenbasierte Zugriffssteuerung in Microsoft Exchange Online oder Konfigurieren von Sicherheit in Microsoft SharePoint Online). Weitere Informationen zu diesen Funktionen finden Sie in der [Exchange Online-Dienstbeschreibung](../exchange-online-service-description/exchange-online-service-description.md) und der [SharePoint Online-Dienstbeschreibung](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
+> Dieses Thema enthält keine Informationen zu Sicherheitsfeatures, die den Zugriff auf einzelne Office 365 Ressourcen zulassen oder verbieten (beispielsweise rollenbasierte Zugriffssteuerung in Microsoft Exchange Online oder Konfigurieren der Sicherheit in Microsoft SharePoint Online). Ausführliche Informationen zu diesen Features finden Sie unter [Exchange Online Dienstbeschreibung](../exchange-online-service-description/exchange-online-service-description.md) und [SharePoint Online Dienstbeschreibung](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
 Wenn Sie Informationen zu Tools benötigen, die Ihnen bei der Ausführung von Verwaltungsaufgaben helfen, gehen Sie zu [Tools zum Verwalten von Office 365-Konten](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Informationen zum Ausführen täglicher Verwaltungsaufgaben finden Sie unter [Allgemeine Verwaltungsaufgaben für Office 365](https://docs.microsoft.com/office365/admin/manage/manage).
   
@@ -127,7 +127,7 @@ Wie Sie Konten löschen, hängt davon ab, ob Sie die Verzeichnissynchronisierung
     
 - Wenn Sie die Verzeichnissynchronisierung nutzen, müssen Sie Benutzer aus der lokalen Active Directory-Instanz und nicht aus Office 365 löschen.
     
-Wenn ein Konto gelöscht wird, wird es inaktiv. Sie können das Konto für etwa 30 Tage nach dem Löschen wiederherstellen. Weitere Informationen zum Löschen und Wiederherstellen von Konten finden Sie unter [Löschen von Benutzern in Office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) und [Wiederherstellen von Benutzern in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) oder, wenn Sie Office 365 betrieben von 21Vianet in China verwenden, finden Sie unter [erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet-Administratorhilfe](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Wenn ein Konto gelöscht wird, wird es inaktiv. Sie können das Konto für etwa 30 Tage nach dem Löschen wiederherstellen. Weitere Informationen zum Löschen und Wiederherstellen von Konten finden Sie unter [Löschen von Benutzern in Office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) und [Wiederherstellen von Benutzern in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) oder, wenn Sie Office 365 betrieben von 21Vianet in China verwenden, finden Sie unter [erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet-admin Help](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="password-management"></a>Kennwortverwaltung
 

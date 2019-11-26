@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft Office 365 unterstützt die folgenden Netzwerkfunktionen.
-ms.openlocfilehash: 915736e704f3d3995993100a82515ee71113be5b
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f2343872faac2b1b289c37b8dc91240fa030482d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523423"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262898"
 ---
 # <a name="networking"></a>Netzwerk
 
@@ -64,6 +64,6 @@ Weitere Informationen finden Sie im [Office 365 Trust Center](https://www.micros
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des E-Mail-Flusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Mit Exchange Online Protection (EoP) können Sie dies tun und in der Cloud Antivirus-und Antispam-e-Mail-Verarbeitung bereitstellen.
-ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581851"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260940"
 ---
 # <a name="mail-floweop"></a>Nachrichtenfluss [EoP]
 
 Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des E-Mail-Flusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Mit Exchange Online Protection (EoP) können Sie dies tun und in der Cloud Antivirus-und Antispam-e-Mail-Verarbeitung bereitstellen. Weitere Informationen zu EOP und den entsprechenden Kaufmodalitäten finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-Sie suchen nach Informationen zu Domänenverwaltung oder verzeichnisbasierter Edge-Blockierung (Directory Based Edge Blocking, DBEB)? Siehe [Empfänger-, Domänen-und Unternehmensverwaltung](recipient-domain-and-company-management.md). Weitere Informationen zu allen EOP-Funktionen finden Sie unter [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu Domänenverwaltung oder verzeichnisbasierter Edge-Blockierung (Directory Based Edge Blocking, DBEB)? Siehe [Empfänger-, Domänen-und Unternehmensverwaltung](recipient-domain-and-company-management.md). Weitere Informationen zu allen EoP-Features finden Sie in der [Beschreibung des Exchange Online Protection-Diensts](exchange-online-protection-service-description.md).
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Weiterleiten von E-Mails zwischen Office 365 und eigenen E-Mail-Servern
 

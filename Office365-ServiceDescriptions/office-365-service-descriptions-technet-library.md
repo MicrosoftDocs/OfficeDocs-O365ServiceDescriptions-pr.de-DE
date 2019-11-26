@@ -1,5 +1,5 @@
 ---
-title: 'Office 365 – Dienstbeschreibung '
+title: 'Office 365 Dienstbeschreibungen '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 ist ein Cloud-basierter Dienst, der die Anforderungen Ihrer Organisation an eine robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität erfüllen soll.
-ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 45f666b7b3cf741bc101bf8dbfeef2a50dd85206
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38726083"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262036"
 ---
-# <a name="office-365-service-descriptions"></a>Office 365 – Dienstbeschreibung 
+# <a name="office-365-service-descriptions"></a>Office 365 Dienstbeschreibungen 
 
 Microsoft Office 365 ist ein Cloud-basierter Dienst, der die Anforderungen Ihrer Organisation an eine robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität erfüllen soll. 
   
@@ -30,17 +30,17 @@ Die Themen in dieser Bibliothek enthalten detaillierte Beschreibungen der Dienst
 Supportartikel und -informationen finden Sie unter [Support für Office](https://support.office.com/).
   
 > [!NOTE]
-> Falls Sie die Vergleichstabelle „Dienstbeschreibung" suchen, diese wurde eingestellt. Die Tabellen zur Verfügbarkeit von Produktfeatures wurden auf jeder Dienstbeschreibungsseite aktualisiert, um bessere Unterstützung bei der Wahl der Version von Office 365 zu bieten, die Ihren Bedürfnissen entspricht. 
+> Wenn Sie nach der Dienst Beschreibungs Vergleichstabelle suchen, wurde sie zurückgezogen. Die Tabellen zur Verfügbarkeit von Produktfeatures auf jeder dienstbeschreibungsseite wurden aktualisiert, um Ihnen die Auswahl der Office 365 Version zu erleichtern, die Ihren Anforderungen entspricht. 
   
 Microsoft bietet den Vorteil des Zentrums für Office 365 für berechtigte Dienste in berechtigten Plänen an. Der Vorteil besteht darin, dass Sie mit Microsoft-Experten Remote arbeiten können, um Ihre Office 365-Umgebung bereit zu nutzen. Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen:
   
-- [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Beschreibung des Office 365 Platt Form Diensts](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
     
-- [Dienstbeschreibung zu Office-Anwendungen](office-applications-service-description/office-applications-service-description.md)
+- [Office-Anwendungsdienst Beschreibung](office-applications-service-description/office-applications-service-description.md)
     
-- [Office für das Web – Dienstbeschreibung](office-online-service-description/office-online-service-description.md)
+- [Office für die Webdienstbeschreibung](office-online-service-description/office-online-service-description.md)
     
 - [Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -48,33 +48,33 @@ Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen
     
 - [Office 365 Advanced Threat Protection-Dienstbeschreibung](office-365-advanced-threat-protection-service-description.md)
     
-- [Beschreibung des Exchange Online-Archivierungsdiensts](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+- [Beschreibung des Exchange Online Archivierungsdiensts](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
-- [OneDrive for Business – Dienstbeschreibung](onedrive-for-business-service-description.md)
+- [OneDrive für Unternehmen Dienstbeschreibung](onedrive-for-business-service-description.md)
     
-- [SharePoint Online-Dienstbeschreibung](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [SharePoint Online Dienstbeschreibung](sharepoint-online-service-description/sharepoint-online-service-description.md)
     
-- [Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+- [Skype for Business Online Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
 - [Beschreibung des e-Mail-Diensts für Briefing](briefing-service-description.md)
 
-- [Workplace Analytics-Dienstbeschreibung](workplace-analytics-service-description.md)
+- [Beschreibung des Arbeitsplatzanalyse Diensts](workplace-analytics-service-description.md)
 
 - [MyAnalytics-Dienstbeschreibung](mya-service-description.md)
     
-- [Power BI - Dienstbeschreibung](power-bi-service-description.md)
+- [Power BI-Dienstbeschreibung](power-bi-service-description.md)
     
-- [Project Online-Dienstbeschreibung](project-online-service-description/project-online-service-description.md)
+- [Project Online Dienstbeschreibung](project-online-service-description/project-online-service-description.md)
     
-- [Visio für das Web – Dienstbeschreibung](visio-online-service-description/visio-online-service-description.md)
+- [Visio für die Webdienstbeschreibung](visio-online-service-description/visio-online-service-description.md)
     
-- [Beschreibung des Yammer-Dienstes](yammer-service-description/yammer-service-description.md)
+- [Beschreibung des Jammer Diensts](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 Business – Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 Business-Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365-Dienste auf Mandantenebene – Leitfaden zur Lizenzierung](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Microsoft 365-Dienste für die Lizenzierung auf Mandantenebene](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
-- [Dienstbeschreibung von Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
+- [Microsoft Dynamics 365 (Online)-Dienstbeschreibung](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
 > <sup>1</sup> Umfasst Verfügbarkeit von [Suitefeatures](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), z. B. Office Delve, Microsoft MyAnalytics, Microsoft Sway und Microsoft Teams.

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
-ms.openlocfilehash: 3dbeb76225c641cb57d5cbc849df2d56fcecf3cb
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 10d08047ae4e96ef5fac87bfe0a0f1f433e95014
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734153"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262888"
 ---
 # <a name="help-and-training"></a>Help and training
 

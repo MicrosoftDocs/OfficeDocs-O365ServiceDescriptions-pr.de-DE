@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Verwenden Sie OneNote für das Internet (ehemals OneNote-Webanwendung), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von überall aus hinzufügen und einfach für andere freigeben können. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 6dac216c117175f3f2842476a0aaebf2e99461c7
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631624"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263509"
 ---
 # <a name="onenote-for-the-web"></a>OneNote für das Web
 
@@ -122,7 +122,7 @@ Mit OneNote für das Internet können Sie die Absatzausrichtung ändern, den Ein
 
 Mit OneNote für das Internet können Sie ein Bild aus einer Datei oder aus Bing-Bildern einfügen. Sie können auch die Bildgröße ändern und Alternativtext hinzufügen. Für erweiterte Bildfunktionen wie Bildschirmausschnitte, gescannte Bilder oder Onlinebilder müssen Sie die OneNote-Desktop-App verwenden. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Notizbuchs im Browser und in der OneNote-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="print"></a>Print
+## <a name="print"></a>Drucken
 
 Sie können Notizen in OneNote für das Internetdrucken.
   

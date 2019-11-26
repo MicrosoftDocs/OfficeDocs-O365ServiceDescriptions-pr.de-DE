@@ -1,5 +1,5 @@
 ---
-title: Office 365-Suitefeatures
+title: Office 365 suite features
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724733"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263126"
 ---
-# <a name="office-365-suite-features"></a>Office 365-Suitefeatures
+# <a name="office-365-suite-features"></a>Office 365 suite features
 
 Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
   
@@ -75,7 +75,7 @@ Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organ
 
 Microsoft Sway ist eine professionelle App zum digitalen Geschichtenerzählen für Unternehmen, mit der Sie und Ihre Kollegen Ideen auf einer interaktiven, webbasierten Leinwand ausdrücken können. Dank des integrierten Designmoduls von Microsoft Sway können Sie professionelle, visuell ansprechende Berichte, Präsentationen und mehr ohne komplizierte Formatierung oder zusätzliche Schulung erstellen. Sie können die Ergebnisse auch ändern, um das gewünschte einzigartige Aussehen und Verhalten zu erzielen. Microsoft Sway lässt Ihre Präsentation in jedem Browser auf jedem Bildschirm großartig aussehen, und Sie können sie mit Kollegen und Kunden teilen, indem Sie ihnen einfach einen Link senden. Microsoft Sway hilft Ihnen beim Suchen und Sammeln aller möglichen Inhalte, ohne die App zu verlassen. Sie können Bilder, Text, Videos und Diagramme direkt auf die Leinwand ziehen und dort ablegen. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft Teams ist ein chatbasierter Arbeitsbereich in Office 365, mit dem Teammitglieder gemeinsam mehr erreichen können. Microsoft Teams dient als Hub für Teamarbeit, sofortigen Zugriff auf Chatunterhaltungen für Teams, Inhalte und Tools von Office 365 in einem einzelnen Arbeitsbereich. SharePoint und OneNote sind integriert, und Teammitglieder können Office-Dokumente direkt in der App bearbeiten. Abgesehen von Chats unterstützt Microsoft Teams auch Videoanrufe und Besprechungen, damit Teams Live eintreffen können, ob bei Bedarf oder geplant. Teammitglieder können auf einfache Weise mit mehreren Teams zusammenarbeiten und jederzeit nach Personen suchen sowie Chats und Dateien durchsuchen. Microsoft Teams funktioniert auf Windows-, Mac-, Internet-, Android-und IOS-Plattformen. Weitere Informationen hierzu finden Sie in der [Onlinehilfe für Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
@@ -101,6 +101,6 @@ Microsoft Kaizala ist eine einfache und sichere Mobile work Management-APP, die 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

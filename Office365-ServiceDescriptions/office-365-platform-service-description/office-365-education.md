@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste&mdash;der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und&mdash;Microsoft Skype for Business Online, damit Benutzer von praktisch überall über das Internet produktiv sein können.
-ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724643"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263036"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -23,7 +23,7 @@ Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die 
   
 In diesem Artikel werden die Features für Office 365 Bildungspläne (a1, a3 und A5) aufgeführt. Informationen zum Vergleich von Features für Unternehmens-und Unternehmenspläne finden Sie unter [Compare Office 365 for Business Plans](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) oder, eine ausführlichere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter [Office 365 Service](../office-365-service-descriptions-technet-library.md)descriptions.
   
-Supportartikel und -informationen finden Sie unter [Office-Hilfe und Schulungen](https://support.office.com/).
+Informationen zur Suche nach Supportartikeln finden Sie unter [Office- &amp; Hilfe-Schulung](https://support.office.com/).
   
 ## <a name="service-availability-for-each-plan"></a>Dienstverfügbarkeit nach Plan
 
@@ -32,7 +32,7 @@ Jeder Office 365 Bildungsplan umfasst eine Reihe von einzelnen Diensten, beispie
 |||||
 |:-----|:-----|:-----|:-----|
 |**Dienst** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
-|Office 365-Plattform  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office 365 Plattform  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online  <br/> |Ja<sup>5</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -338,7 +338,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |Transportregeln  <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |
 |Data loss prevention  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Journale  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Antispam- und Antischadsoftwareschutz](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Anti-Spam und Schutz vor Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Integrierter Antispamschutz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Customize anti-spam policies  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Integrierter Antischadsoftwareschutz  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |
@@ -346,7 +346,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |Quarantäne - Verwaltung durch Administrator  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Quarantäne - Selbstverwaltung durch Endbenutzer  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Advanced Threat Protection  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Benutzerdefiniertes Routing von ausgehenden e-Mails  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Secure messaging with a trusted partner  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Conditional mail routing  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -472,7 +472,7 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
 >  - Die Beschränkungen, die auf eine Microsoft Office 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
 >  - Die meisten dieser Grenzwerte können zwar nicht geändert werden, sie sollten Ihnen und den Benutzern jedoch bekannt sein. 
 > - Diese Grenzwerte gelten sowohl für interne als auch für externe Empfänger. 
-> - Standardmäßig schützt Exchange Online Protection (EoP) Exchange Online Postfächern. Informationen zu Beschränkungen für EOP-Funktionen in Exchange Online finden Sie unter [Exchange Online Protection-Begrenzungen](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - Standardmäßig schützt Exchange Online Protection (EoP) Exchange Online Postfächern. Informationen zu Grenzwerten, die für EoP-Features in Exchange Online gelten, finden Sie unter [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
 >  - Informationen zu Office 365 Gruppenbeschränkungen finden Sie unter "Wie verwalte ich meine Gruppen?" in [Weitere Informationen zu Office 365-Gruppen](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
   
 #### <a name="address-book-limits"></a>Adressbuchbeschränkungen
@@ -671,7 +671,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
    
 #### <a name="reporting-and-message-trace-limits"></a>Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung
 
-Weitere Informationen zu Grenzwerten für Berichterstellung und Nachrichtenablaufverfolgung finden Sie im Abschnitt "Datenverfügbarkeit und Latenz bei berichterstellung und Nachrichtenablaufverfolgung" in [Berichterstellung und Nachrichtenablaufverfolgung in Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
+Informationen zu Grenzwerten für Berichterstellung und Nachrichtenablaufverfolgung finden Sie im Abschnitt "Verfügbarkeit und Latenz von Berichten und Nachrichtenablauf Verfolgungsdaten" in [Berichterstellung und Nachrichtenablaufverfolgung in Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
   
 #### <a name="retention-limits"></a>Aufbewahrungsgrenzwerte
 
@@ -709,7 +709,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 |Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup> <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |100.000 Mitglieder  <br/> |
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |5.000 oder mehr Mitglieder  <br/> |
 |Obergrenze für Nachrichten an große Verteilergruppen  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|Maximale Anzahl von Verteilergruppenbesitzern  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -817,7 +817,7 @@ OneDrive for Business ist in SharePoint Online enthalten. Informationen zu zusä
   
 ### <a name="subscription-plans"></a>Abonnementpläne
 
-OneDrive für Unternehmen Plan 2 steht für Office 365 a1, a3 und A5 zur Verfügung. Die in dem Plan verfügbaren Features finden Sie in der [OneDrive for Business - Dienstbeschreibung](../onedrive-for-business-service-description.md).
+OneDrive für Unternehmen Plan 2 steht für Office 365 a1, a3 und A5 zur Verfügung. Informationen zum Anzeigen der im Plan verfügbaren Features finden Sie in der [OneDrive für Unternehmen Dienstbeschreibung](../onedrive-for-business-service-description.md).
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online-Features
 

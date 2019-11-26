@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 30d1c68976bf450a87ace792af0b219b0fce21d4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733866"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262738"
 ---
 # <a name="planning-and-deployment"></a>Planung und Bereitstellung
 

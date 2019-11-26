@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724763"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263066"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -124,7 +124,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Mehrere öffentliche SharePoint Online-Websites mit benutzerdefinierten Domänennamen hosten<sup>5</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Überprüfung des Domänenbesitzes erforderlich für benutzerdefinierte Domänen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Dienststatus und Kontinuität](service-health-and-continuity.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Status der einzelnen Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |RSS-Feed **Dienststatus**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -337,7 +337,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Nachrichtenflussregeln (Transportregeln)|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Anti-Spam und Schutz vor Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|
@@ -345,7 +345,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Nein|
-|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -460,7 +460,7 @@ Informationen zu Exchange Online Beschränkungen finden Sie in den folgenden The
 > - Die Beschränkungen, die auf eine Microsoft Office 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen.
 > - Die meisten dieser Grenzwerte können zwar nicht geändert werden, sie sollten Ihnen und den Benutzern jedoch bekannt sein.
 > - Diese Grenzwerte gelten sowohl für interne als auch für externe Empfänger.
-> - Standardmäßig schützt Exchange Online Protection (EoP) Exchange Online Postfächern. Informationen zu Beschränkungen für EOP-Funktionen in Exchange Online finden Sie unter [Exchange Online Protection-Begrenzungen](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - Standardmäßig schützt Exchange Online Protection (EoP) Exchange Online Postfächern. Informationen zu Grenzwerten, die für EoP-Features in Exchange Online gelten, finden Sie unter [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection-Features
 
@@ -1136,10 +1136,10 @@ In der folgenden Tabelle sind die Project Online Features aufgeführt, die in Of
 |[Verwaltung, Bereitstellung und Erweiterbarkeit](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|Nr.<sup>2</sup>|Ja|Ja|Nein|Ja|
 |[Erste Schritte](../project-online-service-description/core-services-functionality.md#getting-started)|Ja|Ja|Ja|Nein|Ja|
 |[Problem- und Risikoverwaltung (für Teammitglieder)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|Ja|Ja|Ja|Nein|Ja|
-|[Office 365-Trust Center](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Nein|Nein|Nein|N/V|k. A.|
+|[Office 365-Trust Center](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Nein|Nein|Nein|Nicht zutreffend|Nicht zutreffend|
 |[PPM-Partnerumgebung](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|Ja|Ja|Ja|Nein|Ja|
-|[Dienstzuverlässigkeit](../project-online-service-description/core-services-functionality.md#service-reliability)|Ja|Ja|Ja|N/V|k. A.|
-|[Dienstupdates](../project-online-service-description/core-services-functionality.md#service-updates)|Ja|Ja|Ja|N/V|Nicht zutreffend|
+|[Dienstzuverlässigkeit](../project-online-service-description/core-services-functionality.md#service-reliability)|Ja|Ja|Ja|Nicht zutreffend|Nicht zutreffend|
+|[Dienstupdates](../project-online-service-description/core-services-functionality.md#service-updates)|Ja|Ja|Ja|Nicht zutreffend|Nicht zutreffend|
 |[Zusammenarbeit von Teammitgliedern](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|Ja|Ja|Ja|Nein|Ja|
 |[Zeit- und Aufgabenverwaltung (für Teammitglieder)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|Ja|Ja|Ja|Nein|Ja|
 |**Projektmanagement**|**Project Online Essentials für Office 365 betrieben von 21Vianet**|**Project Online Professional für Office 365 betrieben von 21Vianet**|**Project Online Premium für Office 365 betrieben von 21Vianet**|**Project Professional 2016 für Office 365 betrieben von 21Vianet**|**Project Server 2016 für Office 365 betrieben von 21Vianet**|

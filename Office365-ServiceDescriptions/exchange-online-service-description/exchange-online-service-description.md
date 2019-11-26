@@ -1,5 +1,5 @@
 ---
-title: Exchange Online-Dienstbeschreibung
+title: Exchange Online Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Featurevergleich von Office 365-Abonnements, die Exchange Online umfassen? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701363"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262768"
 ---
-# <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
+# <a name="exchange-online-service-description"></a>Exchange Online Dienstbeschreibung
 
 Suchen Sie nach einem Featurevergleich von Office 365-Abonnements, die Exchange Online umfassen? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
   
@@ -48,7 +48,7 @@ Weitere Informationen zu neuen Funktionen in Exchange Online finden Sie unter [N
   
 ## <a name="office-365-plans-for-exchange-online"></a>Office 365-Pläne für Exchange Online
 
-Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Weitere Informationen über diese Pläne (einschließlich eigenständiger Pläne) sowie über den Wechsel von Plänen erhalten Sie unter [Optionen zum Office 365-Plan](../office-365-platform-service-description/office-365-plan-options.md).
+Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Informationen zu unterschiedlichen Plänen, einschließlich eigenständiger Planoptionen und Informationen zum Wechseln von einem Plan zu einem anderen, finden Sie unter [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
 Jeder Benutzer, der auf den Exchange Online-Dienst zugreift, muss einem Abonnementplan zugewiesen sein, und jedes Benutzerabonnement weist ein eigenes Postfach auf. Ordner und Nachrichten in diesen Postfächern befinden sich auf einem Computer mit Exchange Server in einem Microsoft-Datencenter.
   
@@ -60,7 +60,7 @@ Systemanforderungen für Office 365, den monatlichen abonnementbasierten Dienst 
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Speicher-und Empfänger Grenzwerte für Exchange Online
 
-Weitere Informationen zu Speicherbegrenzungen und Empfängergrenzwerten in den Exchange Online-Abonnementplänen finden Sie unter [Exchange Online-Begrenzungen](exchange-online-limits.md).
+Informationen zu den in den Exchange Online-Abonnement Plänen verfügbaren Speicher-und Empfänger Grenzwerten finden Sie unter [Exchange Online Limits](exchange-online-limits.md).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Verfügbarkeit von Features in Office 365-Plänen
 
@@ -93,7 +93,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Transport rules|Ja <sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|
 |Verhinderung von Datenverlust|Ja<sup>5, 14</sup>|Ja<sup>5, 14</sup>|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Anti-Spam und Schutz vor Schadsoftware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Integrierter Antispamschutz|Ja<sup>6</sup>|Ja <sup>6</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>8</sup>|Ja <sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|
@@ -101,7 +101,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|Ja|Nein|Nein|Nein|Nein|Ja|Nein|
-|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -212,7 +212,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Rollenbasierte Berechtigungen|Ja|Ja|Ja|Ja|Nein|
 |Rollengruppen|Ja|Ja|Ja|Ja|Nein|
 |Rollenzuweisungsrichtlinien|Ja|Ja|Ja|Ja|Nein|
-|**[Messagingrichtlinie und -einhaltung](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
+|**[Nachrichten Richtlinie und-Kompatibilität](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Archivieren von Exchange Online-basierten Postfächern|Ja|Nein|Ja|Ja|Nein|
 |Cloudbasierte Archivierung von lokalen Postfächern|Ja <sup>5</sup>|Ja <sup>5</sup>|Nein|Ja|Nein|
 |Messaging Records Management (MRM) |Ja|Ja|Ja|Ja|Ja|
@@ -227,14 +227,14 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Transportregeln|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|
 |Verhinderung von Datenverlust|Ja<sup>10, 14</sup>|Ja<sup>10, 14</sup>|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
+|**[Anti-Spam und Schutz vor Schadsoftware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Integrierter Antispamschutz|Ja <sup>2</sup>|Ja <sup>2</sup>|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja <sup>8</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>7</sup>|Ja <sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |Customize anti-malware policies|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|
-|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
+|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|
@@ -280,7 +280,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |SMTP|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja|Ja|Nein|
 |Outlook für Mac|Ja|Ja|Ja|Ja|Nein|
-|**[Sprachnachrichtendienste](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
+|**[Sprachnachrichten Dienste](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Voicemail|Ja|Ja|Nein|Ja|Nein|
 |Interoperabilität von Drittanbieter-VoIP-Diensten|Ja|Ja|Ja|Ja|Ja|
 |Skype for Business Integration|Ja|Ja|Ja|Ja|Ja|

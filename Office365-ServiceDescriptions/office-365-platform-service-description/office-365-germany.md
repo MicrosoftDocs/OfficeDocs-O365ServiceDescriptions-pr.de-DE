@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724693"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263056"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -32,7 +32,7 @@ Jeder Office 365 Deutschland-Plan umfasst eine Reihe von Einzeldiensten, wie Exc
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Dienst**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
-|Office 365-Platform<sup>1</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Office 365 Plattform <sup>1</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Exchange Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |SharePoint Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |OneDrive for Business|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
@@ -42,7 +42,7 @@ Jeder Office 365 Deutschland-Plan umfasst eine Reihe von Einzeldiensten, wie Exc
 |Project Online<sup>3</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Power BI<sup>3</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Visio für das Internet <sup>4</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Yammer Enterprise|Nicht zutreffend|N/V|N/V|N/V|N/V|N/V|N/V|N/V|
+|Yammer Enterprise|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|
 |Azure Information Protection|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 
 > [!NOTE]
@@ -75,7 +75,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |**[Office 365-Verwaltungsfeatures](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Schutz von Inhalten mit Azure Information Protection|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|Nr.<sup>2</sup>|
-|**[Office 365-Suitefeatures](office-365-suite-features.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Features der Office 365 Suite](office-365-suite-features.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Microsoft Bookings|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Briefing-e-Mail|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Flow|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -116,7 +116,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Verwenden eines anderen Anbieters für E-Mails und Chat|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Überprüfung des Domänenbesitzes erforderlich für benutzerdefinierte Domänen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Dienststatus und Kontinuität](service-health-and-continuity.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Status der einzelnen Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |RSS-Feed **Dienststatus**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -178,7 +178,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Erstellen von Einladungen und Bestellungen zu Testzwecken für einen Kunden, der den angegebenen Plan verwendet|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Bereitstellen delegierter Administration|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Vereinbarung zum Servicelevel](service-level-agreement.md)**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Produktnutzungsrechte](product-use-rights.md)**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|**[Produkt Nutzungsrechte](product-use-rights.md)**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Deutschland bietet keine Unterstützung für Betriebssysteme, die nicht vom Hersteller unterstützt werden.<br/>
@@ -374,7 +374,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Nachrichtenflussregeln|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Anti-Spam und Schutz vor Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|
@@ -382,7 +382,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Ja|Nein|
-|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|

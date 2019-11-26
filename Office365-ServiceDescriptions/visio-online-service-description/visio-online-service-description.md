@@ -1,5 +1,5 @@
 ---
-title: Visio für das Web – Dienstbeschreibung
+title: Visio für die Webdienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben.
-ms.openlocfilehash: d56a6dfa84925c9bacaabeae8280923cdb14a909
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700237"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263228"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio für das Web – Dienstbeschreibung
+# <a name="visio-for-the-web-service-description"></a>Visio für die Webdienstbeschreibung
 
 Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio für die Webbenutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
   

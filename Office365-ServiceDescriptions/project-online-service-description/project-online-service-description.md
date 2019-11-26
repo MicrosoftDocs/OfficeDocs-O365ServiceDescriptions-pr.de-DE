@@ -1,5 +1,5 @@
 ---
-title: Microsoft Project – Dienstbeschreibung
+title: Microsoft Project-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765636"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263419"
 ---
-# <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
+# <a name="microsoft-project-service-description"></a>Microsoft Project-Dienstbeschreibung
 
 ## <a name="overview"></a>Übersicht
 
@@ -283,7 +283,7 @@ Project für das Internet weist einige Einschränkungen auf, die in der folgende
 |Max. Dauer des Sammelvorgangs | 3650 Tage (10 Jahre) |
 |Max. Ressourcen, die einem Vorgang zugewiesen werden können | 20 Ressourcen |
 |Unterstützter Datumsbereich für Vorgang | 1/1/1984 &ndash; 12/31/2149 |
-|**Projekt** ||
+|**Project** ||
 |Max. Gesamtzahl der Vorgänge für das Projekt | 500 |
 |Max. Gesamtdauer des Projekts | 3650 Tage (10 Jahre) |
 |Max. Gesamtressourcen für das Projekt | 150 |

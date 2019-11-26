@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 88b02766477284ff46f69a6cedb2468ff08ff1b1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581961"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262578"
 ---
 # <a name="message-policy-and-compliance"></a>Nachrichten Richtlinie und-Kompatibilität
 
@@ -40,7 +40,7 @@ Weitere Informationen finden Sie unter:
     
 ### <a name="archive-sizes"></a>Größe des Archivs
 
-In einem persönlichen Archiv können nur die Nachrichtendaten eines Benutzers gespeichert werden. Die Zuweisung von Speicher hängt vom jeweiligen Abonnementplan ab. Weitere Informationen zur Größe von Archivpostfächern finden Sie im Abschnitt über die Speicherbegrenzung von Postfächern unter [Exchange Online-Begrenzungen](exchange-online-limits.md).
+In einem persönlichen Archiv können nur die Nachrichtendaten eines Benutzers gespeichert werden. Die Zuweisung von Speicher hängt vom jeweiligen Abonnementplan ab. Weitere Informationen zur Größe von archivpostfächern finden Sie im Abschnitt "Speichergrenzwerte für Postfächer" in [Exchange Online Grenzwerte](exchange-online-limits.md).
   
 > [!IMPORTANT]
 > - Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung in Fällen zu verweigern, in denen ein Postfacharchiv nicht in einem persönlichen Szenario verwendet wird. 

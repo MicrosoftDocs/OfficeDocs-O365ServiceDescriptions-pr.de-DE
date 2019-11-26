@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Abschnitt enthält eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diesen zusätzlichen Abschnitt neben den Beschreibungen der Office 365-Dienste zu lesen.
-ms.openlocfilehash: 25cd6a12a97b71166af5db0b9a982c261653d570
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 5676680e5285b7b825388e8140480a07bef047b6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724633"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262526"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -284,7 +284,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Erstellen von Einladungen und Bestellungen zu Testzwecken für einen Kunden, der den angegebenen Plan verwendet  <br/> |Nr.<sup>11</sup> <br/> |Nr.<sup>11</sup> <br/> |Nr.<sup>11</sup> <br/> |Nr.<sup>11</sup> <br/> |
 |Bereitstellen delegierter Administration  <br/> |Nr.<sup>11</sup> <br/> |Nr.<sup>11</sup> <br/> |Nr.<sup>11</sup> <br/> |Nr.<sup>11</sup> <br/> |
 |**[Vereinbarung zum Servicelevel](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Produktnutzungsrechte](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|**[Produkt Nutzungsrechte](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
    
 > <sup>1</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 ProPlus, das nicht in Office 365 Government G1 oder Office 365 Government F1 enthalten ist. > 
 <br/><sup>2</sup> vorhandene BBCs-und bis-Kunden können die Nutzung des Diensts fortsetzen. Es werden keine neuen Kunden angenommen. 

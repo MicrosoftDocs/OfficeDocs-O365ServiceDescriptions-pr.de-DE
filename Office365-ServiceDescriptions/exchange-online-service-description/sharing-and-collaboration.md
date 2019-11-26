@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582011"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262718"
 ---
 # <a name="sharing-and-collaboration"></a>Freigabe und Zusammenarbeit
 
 ## <a name="federated-sharing"></a>Verbundfreigabe
 
-Federation bezieht sich auf die zugrunde liegende Vertrauensstellungs Infrastruktur, die die Verbundfreigabe unterstützt, eine Methode für Microsoft Exchange Online Benutzer zum Freigeben von Frei/Gebucht-Kalenderdaten und Kontaktinformationen für Empfänger in anderen externen Verbundorganisationen oder mit Benutzer mit Internetzugriff. Dazu gehören auch Organisationen, die von Exchange Online oder externen Microsoft Exchange Server 2010 oder Exchange Server 2013 Organisationen gehostet werden. Mithilfe von Organisationsbeziehungen und Freigaberichtlinien können Exchange Online Administratoren Benutzern das Senden von Einladungen zur Kalenderfreigabe aus Microsoft Outlook im Internet oder Microsoft Outlook 2010 oder höher ermöglichen.
+Verbund bezieht sich auf die zugrunde liegende Vertrauensinfrastruktur, die die Verbundfreigabe unterstützt, eine Methode für Microsoft Exchange Online Benutzer zum Freigeben von Frei/Gebucht-Kalenderdaten und Kontaktinformationen für Empfänger in anderen externen Verbundorganisationen oder mit Benutzern, die über Internetzugriff verfügen. Dazu gehören auch Organisationen, die von Exchange Online oder externen Microsoft Exchange Server 2010 oder Exchange Server 2013 Organisationen gehostet werden. Mithilfe von Organisationsbeziehungen und Freigaberichtlinien können Exchange Online Administratoren Benutzern das Senden von Einladungen zur Kalenderfreigabe aus Microsoft Outlook im Internet oder Microsoft Outlook 2010 oder höher ermöglichen.
   
 > [!IMPORTANT]
 >  Externe Exchange 2010- und Exchange 2013-Organisationen müssen bei der Konfiguration der Verbundfreigabe eine Verbundvertrauensstellung mit Microsoft Federation Gateway konfigurieren. Exchange Online-Organisationen müssen keine Verbundvertrauensstellung konfigurieren, denn die Verbundvertrauensstellung mit Microsoft Federation Gateway wird automatisch bei der Erstellung des Office 365-Mandanten erstellt. 
@@ -46,7 +46,7 @@ Weitere Informationen zu Websitepostfächern finden Sie unter [Websitepostfäche
   
 ## <a name="public-folders"></a>Öffentliche Ordner
 
-Öffentliche Ordner in Exchange Online wurden modernisiert, um die vorhandenen Technologien für hohe Verfügbarkeit und Speicherung der Postfachdatenbank zu nutzen. Die Architektur für öffentliche Ordner verwendet speziell entworfene Postfächer, um sowohl die Hierarchie als auch die Inhalte öffentlicher Ordner zu speichern. Dies bedeutet, dass keine gesonderte Datenbank für öffentliche Ordner mehr vorhanden ist. Für die Replikation öffentlicher Ordner wird jetzt das Modell der fortlaufenden Replikation eingesetzt. Die hohe Verfügbarkeit der Hierarchie und der Inhaltspostfächer wird durch eine Database Availability Group (DAG) im Datencenter bereitgestellt. In Exchange Online sind Sie auf 1000 Postfächer für Öffentliche Ordner limitiert. Für jedes Postfach für öffentliche Ordner gilt außerdem eine maximale Speichergröße. Weitere Informationen finden Sie im Abschnitt "Begrenzungen für Postfachordner" unter [Exchange Online-Begrenzungen](exchange-online-limits.md). Postfächer mit öffentlichen Ordnern haben dieselben Warngrenzen bei Nachrichten-/Empfängeranzahl und Kapazität wie normale Postfächer. Weitere Informationen finden Sie unter [Empfänger](recipients.md). 
+Öffentliche Ordner in Exchange Online wurden modernisiert, um die vorhandenen Technologien für hohe Verfügbarkeit und Speicherung der Postfachdatenbank zu nutzen. Die Architektur für öffentliche Ordner verwendet speziell entworfene Postfächer, um sowohl die Hierarchie als auch die Inhalte öffentlicher Ordner zu speichern. Dies bedeutet, dass keine gesonderte Datenbank für öffentliche Ordner mehr vorhanden ist. Für die Replikation öffentlicher Ordner wird jetzt das Modell der fortlaufenden Replikation eingesetzt. Die hohe Verfügbarkeit der Hierarchie und der Inhaltspostfächer wird durch eine Database Availability Group (DAG) im Datencenter bereitgestellt. In Exchange Online sind Sie auf 1000 Postfächer für Öffentliche Ordner limitiert. Für jedes Postfach für öffentliche Ordner gilt außerdem eine maximale Speichergröße. Weitere Informationen finden Sie im Abschnitt "Grenzwerte für Postfachordner" in [Exchange Online Grenzwerte](exchange-online-limits.md). Postfächer mit öffentlichen Ordnern haben dieselben Warngrenzen bei Nachrichten-/Empfängeranzahl und Kapazität wie normale Postfächer. Weitere Informationen finden Sie unter [Empfänger](recipients.md). 
   
 Weitere Informationen zu öffentlichen Ordnern finden Sie im Artikel zum Thema [Öffentliche Ordner](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

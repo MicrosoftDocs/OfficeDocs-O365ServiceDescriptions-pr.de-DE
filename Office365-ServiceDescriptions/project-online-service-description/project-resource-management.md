@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Die folgenden Ressourcen Verwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: f1d7dd59dd9456172929dbad512161abbdc688ce
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631594"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263389"
 ---
 # <a name="project-resource-management"></a>Projektressourcenverwaltung
 
@@ -55,6 +55,6 @@ Fügen Sie dem Projekt Ressourcen hinzu, beispielsweise Arbeitsressourcen wie Pe
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project for Office 365 Service Description](project-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online Service Description](project-online-service-description.md).
   
 

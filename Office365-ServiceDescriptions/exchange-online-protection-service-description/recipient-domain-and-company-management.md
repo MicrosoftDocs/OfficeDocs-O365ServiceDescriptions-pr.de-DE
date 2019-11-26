@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EoP) bietet verschiedene Möglichkeiten zur Verwaltung Ihrer Empfänger-, Domänen-und Unternehmensinformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben im Exchange Admin Center (EAC) ausführen und andere Verwaltungsaufgaben überprüfen, die im Microsoft 365 Admin Center ausgeführt werden.
-ms.openlocfilehash: 84be0148636b4e345f59158af0a767e9cd2396c7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1183a90754edc2bab698fb4d8d8b97acff90370c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581841"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262638"
 ---
 # <a name="recipient-domain-and-company-management"></a>Empfänger-, Domänen-und Unternehmensverwaltung
 
 Microsoft Exchange Online Protection (EoP) bietet verschiedene Möglichkeiten zur Verwaltung Ihrer Empfänger-, Domänen-und Unternehmensinformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben im Exchange Admin Center (EAC) ausführen und andere Verwaltungsaufgaben überprüfen, die im Microsoft 365 Admin Center ausgeführt werden.
   
-Sie suchen nach Informationen zu allen EOP-Funktionen? Entsprechendes finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu allen EOP-Funktionen? Siehe [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
   
 ## <a name="mail-recipients"></a>Mail recipients
 

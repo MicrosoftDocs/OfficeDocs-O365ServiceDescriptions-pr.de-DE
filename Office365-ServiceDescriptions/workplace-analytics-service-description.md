@@ -1,5 +1,5 @@
 ---
-title: Beschreibung zu Workplace Analytics
+title: Beschreibung des Arbeitsplatzanalyse Diensts
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-midehm
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics bietet umfangreiche, umsetzbare Einblicke in die Kommunikations-und Zusammenarbeits Trends in Ihrer Organisation, damit Sie effektivere geschäftliche Entscheidungen treffen können.
-ms.openlocfilehash: f048b57a1a41137941fe80edbdcc3f683fd23718
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 55d452bb8fadf9ec4dd4a1f086f0835838184657
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733616"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263245"
 ---
-# <a name="workplace-analytics-service-description"></a>Beschreibung zu Workplace Analytics
+# <a name="workplace-analytics-service-description"></a>Beschreibung des Arbeitsplatzanalyse Diensts
 
 Microsoft Workplace Analytics bietet umfangreiche, umsetzbare Einblicke in die Kommunikations-und Zusammenarbeits Trends in Ihrer Organisation, damit Sie effektivere geschäftliche Entscheidungen treffen können.
 

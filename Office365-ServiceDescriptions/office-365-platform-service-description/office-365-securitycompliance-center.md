@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Office 365 Security &amp; Compliance Center wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 20a80d2c02155fa0f648d5027028ebe173bce020
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: deda84949994d65d025df9ae781d82827cf8518d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724753"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262568"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -68,27 +68,27 @@ Grenzwert von <sup>3</sup> 50 GB. <br/>
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Skype for Business Online Plan 1** <br/> |**Skype for Business Online Plan 2** <br/> |
-|[Zugriff auf das Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|[Bedrohungsmanagement](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)wie e-Mail-Filterung und Antischadsoftware  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Erweiterte Bedrohungs Verwaltung](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), beispielsweise Threat Explorer für Phishing-Kampagnen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|[Verwaltung mobiler Geräte](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja <sup>7<sup> <br/> |Nein  <br/> |Ja  <br/> |
-|[Verhinderung von Datenverlust für Microsoft Teams-Chat und Kanal Nachrichten](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|[Informationsbarrieren](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|[Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Erweiterte Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|[Inhaltssuche](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[eDiscovery-Fälle](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
-|[eDiscovery-Export](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nr.<sup>4</sup> <br/> |Nr.<sup>4</sup> <br/> |
-|[eDiscovery-Speicher (einschließlich abfragebasierte eDiscovery-Speicher)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nr.<sup>4</sup> <br/> |Nr.<sup>4</sup> <br/> |
-|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|[Archivierung](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
-|[Unified Auditing](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/>
-|[Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Aufsichtsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|**Feature** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online-Kiosk** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**OneDrive for Business Plan 1** <br/>|**OneDrive for Business Plan 2**<br/> |**Skype for Business Online Plan 1** <br/> |**Skype for Business Online Plan 2** <br/> |
+|[Zugriff auf das Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|[Bedrohungsmanagement](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)wie e-Mail-Filterung und Antischadsoftware  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Erweiterte Bedrohungs Verwaltung](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), beispielsweise Threat Explorer für Phishing-Kampagnen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|
+|[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|[Verwaltung mobiler Geräte](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja <sup>7<sup> <br/> |Nein <br/> |Ja<sup>10</sup> <br/>|Nein  <br/> |Ja  <br/> |
+|[Verhinderung von Datenverlust für Microsoft Teams-Chat und Kanal Nachrichten](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|[Informationsbarrieren](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|[Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Erweiterte Datenkontrolle](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|[Inhaltssuche](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>| Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[eDiscovery-Fälle](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Nein  <br/> |Nein  <br/> |
+|[eDiscovery-Export](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein <br/> |Ja<sup>10</sup> <br/>|Nr.<sup>4</sup> <br/> |Nr.<sup>4</sup> <br/> |
+|[eDiscovery-Speicher (einschließlich abfragebasierte eDiscovery-Speicher)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein <br/> |Ja<sup>10</sup> <br/>|Nr.<sup>4</sup> <br/> |Nr.<sup>4</sup> <br/> |
+|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|[Archivierung](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/>|Ja<sup>10</sup> <br/> |Nein  <br/> |Nein  <br/> |
+|[Unified Auditing](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/>|Ja<sup>10</sup> <br/> |Nein  <br/> |Nein  <br/> |
+|[Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/>|Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Aufsichtsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |||||||||
    
 <sup>1</sup> mit der Datensteuerung können Benutzer Bezeichnungen erstellen, veröffentlichen und manuell auf Dokumente anwenden. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk. <br/>
@@ -100,6 +100,7 @@ Grenzwert von <sup>3</sup> 50 GB. <br/>
 <sup>7</sup> enthält Dateien, die in Microsoft Teams-Repositorys gespeichert sind.<br/>
 <sup>8</sup> Sie können auch die API für die [Office 365 Verwaltungsaktivität](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen. <br/>
 <sup>9</sup> es steht ein DLP-Add-on zur Verfügung, das jeder SKU mit Exchange oder SharePoint/OneDrive hinzugefügt werden kann.<br/>
+<sup>10</sup> nur für Dateien, die in OneDrive für Unternehmen gespeichert sind.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Verfügbarkeit des Security &amp; Compliance Center in Office 365, betrieben von 21Vianet
 

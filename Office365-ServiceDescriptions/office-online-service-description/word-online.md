@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word für das Web (ehemals Word Web App) erweitert Ihre Microsoft Word Erfahrung auf den Webbrowser, wo Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist.
-ms.openlocfilehash: d814e18d80a9bb2a81644804c6afb7d489d36463
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631614"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263489"
 ---
 # <a name="word-for-the-web"></a>Word für das Web
 
@@ -125,7 +125,7 @@ Fügen Sie eine Kopf-und Fußzeile in das Dokument sowohl in Word für das Inter
 
 Mit Word für das Internet können Sie auf einfache Weise Links zu Textmarken in einem Dokument erstellen und eine Bildschirm Spitze festlegen, die angezeigt wird, wenn der Cursor auf den Link zeigt. Erfahren Sie mehr über [Hyperlinks in Word für das Internet](https://go.microsoft.com/fwlink/p/?LinkId=271863).
   
-## <a name="index"></a>Index 
+## <a name="index"></a>Index
 
 Ein Index enthält die Begriffe und Themen, die in einem Dokument erläutert werden, zusammen mit den Seiten, auf denen diese angezeigt werden. Um einen Index zu erstellen, markieren Sie die Indexeinträge, indem Sie den Namen des Haupteintrags und den Querverweis in Ihrem Dokument bereitstellen und dann den Index erstellen.
   

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint für das Web (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365 Kunden mit Office für das Internet können unterwegs Dateien anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 2a653ad8a56da4f2d601e7f56180f564b29336bd
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631604"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263499"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint für das Web
 

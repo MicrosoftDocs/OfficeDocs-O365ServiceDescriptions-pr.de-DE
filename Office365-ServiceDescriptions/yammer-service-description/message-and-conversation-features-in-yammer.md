@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
-ms.openlocfilehash: c6f913a31250ce9291cf949f2a9098757afeaa21
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726506"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263086"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Nachrichten-und Unterhaltungsfeatures in "jammern"
 

@@ -1,5 +1,5 @@
 ---
-title: Dienstbeschreibung von Microsoft Dynamics 365 (Online)
+title: Microsoft Dynamics 365 (Online)-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: Seit dem Update vom Dezember 2016 für Dynamics 365 (online und lokal) ist die Dynamics CRM-Funktionalität nun als Teil von Dynamics 365, einer Suite intelligenter Geschäftsanwendungen, enthalten. Dynamics 365 vereinheitlicht Kundenbeziehungsmanagement (CRM) und Enterprise Resource Planning (ERP) Funktionen durch die Bereitstellung von neuen Anwendungen zur Unterstützung der Verwaltung bestimmter Geschäftsfunktionen.
-ms.openlocfilehash: ae234baf353258f6d2158c2636a8139133a812ee
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 35a1dbe7eef9fed64ad1738d84687a39ca45bef9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734183"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262808"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Dienstbeschreibung von Microsoft Dynamics 365 (Online)
+# <a name="microsoft-dynamics-365-online-service-description"></a>Microsoft Dynamics 365 (Online)-Dienstbeschreibung
 
 Seit dem Update vom Dezember 2016 für Dynamics 365 (online und lokal) ist die Dynamics CRM-Funktionalität nun als Teil von Dynamics 365, einer Suite intelligenter Geschäftsanwendungen, enthalten. Dynamics 365 vereinheitlicht Kundenbeziehungsmanagement (CRM) und Enterprise Resource Planning (ERP) Funktionen durch die Bereitstellung von neuen Anwendungen zur Unterstützung der Verwaltung bestimmter Geschäftsfunktionen.
   

@@ -1,5 +1,5 @@
 ---
-title: Planen von Microsoft 365-Compliance-DoD-Bereitstellungen
+title: Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – DoD geeignet ist, Diese Anforderungen erfüllen.
-ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319483"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262838"
 ---
-# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365-Compliance-DoD-Bereitstellungen
+# <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 
 Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – DoD geeignet ist, Diese Anforderungen erfüllen.
 
@@ -78,7 +78,12 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                        |Informationsbarrieren                            | Available              |
 |                                        |Verhinderung von Datenverlust (DLP) für Dateien und e-Mail  | Available              |
 |                                        |DLP für Microsoft Teams-Chat und Kanal Unterhaltungen    | Im Entwicklungsrückstand |
+|                                        |Exakte DLP-Datenübereinstimmung                            | Im Entwicklungsrückstand |
+|                                        |Bezeichnungsaktivitäten-Explorer                         | Im Entwicklungsrückstand |
+|                                        |Schulungs Klassifizierer                           | Im Entwicklungsrückstand |
+|                                        |Einheitliche Beschriftungs-und Vertraulichkeits Bezeichnungen         | Im Entwicklungsrückstand |
 |**Insider Risikomanagement**             |Erweiterte Nachrichtenverschlüsselung                     | Available              |
+|                                        |Insider Risiko Management                         | Im Entwicklungsrückstand |
 |                                        |Kommunikationscompliance                        | Im Entwicklungsrückstand |
 |                                        |Kunden-Lockbox                                | Available              |
 |                                        |Kundenschlüssel                                    | Available              |

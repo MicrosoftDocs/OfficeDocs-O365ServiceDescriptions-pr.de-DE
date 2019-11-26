@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Assistent Schritt für Schritt beim Hinzufügen von Benutzern und beim Umstellen Ihrer Office 365-E-Mail-Adressen und anderer Dienste auf den Namen des Unternehmens. Nach dem Ausführen des Assistenten gehen Ihre geschäftlichen E-Mails an Office 365 statt an Ihren aktuellen E-Mail-Anbieter. Weitere Informationen finden Sie unter Hinzufügen Ihrer Benutzer und Domänen zu Office 365. Wenn Sie Office 365 betrieben von 21Vianet verwenden, finden Sie weitere Informationen unter Überprüfen Ihrer Domäne.
-ms.openlocfilehash: cc88aeb19573b089d06749df5ab6db5de4bbecfa
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: a1038e0ff6db0dc5def4fd5d50bd5798e45fde2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595222"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262788"
 ---
 # <a name="domains"></a>Domänen
 

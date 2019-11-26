@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Die nachfolgenden Gruppenfunktionen stehen in Yammer zur Verfügung.
-ms.openlocfilehash: f8b7d31dfee3b56f5bbf3edf3eda64f01fe7c2a6
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: d362905170141d3bd838b342971816168821106e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726348"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263177"
 ---
 # <a name="group-features-in-yammer"></a>Gruppen-Features in Yammer
 

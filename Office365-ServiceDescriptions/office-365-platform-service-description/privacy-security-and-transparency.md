@@ -1,5 +1,5 @@
 ---
-title: Datenschutz, Sicherheit und Transparenz
+title: Privacy, security, and transparency
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Wir bei Microsoft schätzen die Partnerschaft mit unseren Kunden und messen dem Schutz und der Sicherheit ihrer Daten höchste Bedeutung bei. Weitere Informationen finden Sie im Microsoft Trust Center.
-ms.openlocfilehash: d8eecc4a5f120832c9e55fab7a3887eced071136
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8eac5028858b7da2523031de087de92370288438
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734253"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262506"
 ---
-# <a name="privacy-security-and-transparency"></a>Datenschutz, Sicherheit und Transparenz
+# <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
 > Die Informationen in diesem Artikel gelten weltweit für Versionen von Office 365. Wenn Sie eine nationale Cloudinstanz von Office 365, einschließlich Office 365 US Government, Office 365 Deutschland und Office 365, betrieben von 21Vianet, verwenden, finden Sie unter [Microsoft National Wolken](https://go.microsoft.com/fwlink/?linkid=841582) weitere Informationen. 
@@ -58,5 +58,5 @@ Office 365 erweiterter Bedrohungsschutz schützt Ihre Organisation vor Schadsoft
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
   

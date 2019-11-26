@@ -1,5 +1,5 @@
 ---
-title: Kompatibilitäts- und Sicherheitsfeatures der Exchange Online-Archivierung
+title: Kompatibilitäts-und Sicherheitsfeatures in Exchange Online Archivierung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581881"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260730"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Kompatibilitäts-und Sicherheitsfeatures in Exchange Online Archivierung
 
@@ -133,6 +133,6 @@ Standardmäßig ist die Administrator-Überwachungsprotokollierung aktiviert und
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen, für eigenständige Produkte und lokale Lösungen finden Sie in der [Beschreibung des Exchange Online-Archivierungsdiensts](exchange-online-archiving-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Archivierungsdienst Beschreibung](exchange-online-archiving-service-description.md).
   
 

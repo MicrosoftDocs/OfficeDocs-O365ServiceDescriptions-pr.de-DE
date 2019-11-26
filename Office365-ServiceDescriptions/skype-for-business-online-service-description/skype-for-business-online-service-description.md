@@ -1,5 +1,5 @@
 ---
-title: Skype for Business Online-Dienstbeschreibung
+title: Skype for Business Online Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Möchten Sie wissen, welche Lizenzen Sie erwerben müssen, um bestimmte Skype for Business-Features nutzen zu können? Weitere Informationen finden Sie unter Übersicht über die Skype for Business Lizenzierung.
-ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733746"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263269"
 ---
-# <a name="skype-for-business-online-service-description"></a>Skype for Business Online-Dienstbeschreibung
+# <a name="skype-for-business-online-service-description"></a>Skype for Business Online Dienstbeschreibung
 
 > [!NOTE]
 > Microsoft Teams ist jetzt der primäre Client für Messaging, Besprechungen und Anrufe in Office 365. Neue Office 365 Kunden mit 500 oder weniger Arbeitsplätzen werden in Microsoft Teams integriert und haben keinen Zugriff auf Skype for Business Online. Mandanten, die bereits Skype for Business Online verwenden, können dies fortsetzen (einschließlich der Bereitstellungneuer Benutzer), bis Sie den Übergang zu Microsoft Teams abgeschlossen haben.
@@ -46,7 +46,7 @@ Informationen zu neuen Features in Skype for Business Online finden Sie unter [S
 
 Wir empfehlen die Verwendung unserer einfachen Vergleichsseite, um die richtige Version von Skype for Business Online auszuwählen. Weitere Informationen finden Sie auf der Seite zum [Vergleichen von Plänen mit Skype-Besprechungen](https://go.microsoft.com/fwlink/?linkid=798291). Einen ausführlicheren Vergleich finden Sie in den folgenden Featuretabellen. Wenn Sie zusätzliche Hilfe hierzu benötigen, rufen Sie den [Support](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support) an. Sie können Ihr Gebietsschema aus der Dropdownliste auswählen, um eine Nummer in Ihrer Region zu erhalten.
   
-Unter [Vergleichen von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) finden Sie alle Office 365-Pläne. Einen ausführlicheren Vergleich finden Sie unter [Optionen zum Office 365-Plan](https://go.microsoft.com/fwlink/?linkid=846972).
+Unter [Vergleichen von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) finden Sie alle Office 365-Pläne. Einen ausführlicheren Vergleich finden Sie unter [Office 365 Plan Options](https://go.microsoft.com/fwlink/?linkid=846972).
   
  Informationen zum Vergleich der einzelnen Features in Skype for Business-Desktopclients und -Webclients finden Sie unter [Clientvergleichstabellen für Skype for Business Online](https://go.microsoft.com/fwlink/?linkid=829754). Einen ausführlichen Vergleich der mobilen Skype for Business-Clients finden Sie unter [Vergleichstabellen für mobile Clients](https://go.microsoft.com/fwlink/?linkid=846932).
   

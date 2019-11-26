@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581831"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262658"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilität, Konnektivität und Kompatibilität
 

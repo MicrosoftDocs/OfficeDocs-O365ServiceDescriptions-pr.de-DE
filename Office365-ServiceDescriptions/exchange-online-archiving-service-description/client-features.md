@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Die gesamte Netzwerkverbindung mit dem Archiv des Benutzers erfolgt über das Internet, und es sind keine VPN-Verbindungen (virtuelles privates Netzwerk) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
-ms.openlocfilehash: 9bdf09711e571d6d75636bcebfd3572ecadfe670
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: db67bc6282d0267cce24ed1538aede81349e354d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581441"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260710"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Client Features in Exchange Online Archivierung
 
@@ -38,7 +38,7 @@ Outlook 2010 und höher und Outlook im Internet bieten Benutzern die vollständi
 Outlook 2007 bietet eine grundlegende Unterstützung des Archivs, jedoch nicht aller Features für Archivierung und Richtlinientreue, die in Outlook 2007 verfügbar sind. In Outlook 2007 können Benutzer beispielsweise auf Elemente in ihrem Postfach keine Aufbewahrungs- oder Archivierungsrichtlinien anwenden. Stattdessen muss der Administrator diese Richtlinien bereitstellen. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das Archiv zugreifen zu können.
   
 > [!NOTE]
-> Outlook ist nicht im Lieferumfang von Exchange Online-Archivierung enthalten. Microsoft Office 365 ProPlus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Weitere Informationen finden Sie unter [Optionen zum Office 365-Plan](../office-365-platform-service-description/office-365-plan-options.md). Weitere Informationen zu Office 365 ProPlus finden Sie unter [Dienstbeschreibung zu Office-Anwendungen](../office-applications-service-description/office-applications-service-description.md). 
+> Outlook ist nicht im Lieferumfang von Exchange Online-Archivierung enthalten. Microsoft Office 365 ProPlus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Weitere Informationen finden Sie unter [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md). Weitere Informationen zu Office 365 ProPlus finden Sie in der [Office Applications-Dienstbeschreibung](../office-applications-service-description/office-applications-service-description.md). 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clients, die von der Exchange Online-Archivierung unterstützt werden
 
@@ -53,7 +53,7 @@ Die folgende Tabelle enthält die von der Exchange Online-Archivierung unterstü
 |Outlook für Mac  <br/> |Unterstützt für die Verwendung mit Exchange Online-Archivierung.<sup>3</sup> <br/> |
 |Microsoft Office Entourage 2008 Web Services Edition  <br/> |Nicht unterstützt  <br/> |
 |IMAP und POP  <br/> |Nicht unterstützt  <br/> |
-|Exchange ActiveSync (mobile Geräte)  <br/> |Nicht unterstützt  <br/> |
+|Exchange ActiveSync (Mobile Geräte)  <br/> |Nicht unterstützt  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Die in Microsoft Office Standard enthaltene Outlook-Version wird nicht unterstützt. Weitere Informationen finden Sie im Artikel zum Thema [Lizenzanforderungen für persönliche Archive und Aufbewahrungsrichtlinien](https://support.office.com/article/Outlook-license-requirements-for-Exchange-features-46B6B7C5-C3CA-43E5-8424-1E2807917C99). <br/> 

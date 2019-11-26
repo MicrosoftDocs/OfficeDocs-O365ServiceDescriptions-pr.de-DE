@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: Die folgenden Features für externe Netzwerke sind in Yammer verfügbar.
-ms.openlocfilehash: 25a8bace73fdd1d8fddb5c0d16d846845eb687ba
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: a9def9e10eee6d6ceb5356ed748f6f700b9ec20a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726358"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263187"
 ---
 # <a name="external-network-features-in-yammer"></a>Externe Netzwerkfeatures in "jammern"
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Die nachfolgenden Profilfunktionen stehen in Yammer zur Verfügung.
-ms.openlocfilehash: 5c6acde9c620eb0f51263b121574266d67740b57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0f85007ec52bee13557f831c9f72029cc7fe93f5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726496"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263156"
 ---
 # <a name="profile-features-in-yammer"></a>Profilfeatures in "jammern"
 

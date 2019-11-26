@@ -1,5 +1,5 @@
 ---
-title: Beschreibung des Exchange Online-Archivierungsdiensts
+title: Beschreibung des Exchange Online Archivierungsdiensts
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Microsoft Exchange Online-Archivierung ist eine Microsoft Office 365 Cloud-basierte, Enterprise-Class-Archivierungslösung für Organisationen, die Exchange Server 2019, Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft bereitgestellt haben. Exchange Server 2010 (SP2 und höher) oder bestimmte Exchange Online-oder Office 365 Pläne abonnieren. Exchange Online Archivierung unterstützt diese Organisationen bei der Archivierung, Compliance, behördlichen und eDiscovery-Herausforderungen bei gleichzeitiger Vereinfachung der lokalen Infrastruktur und dadurch Kostenreduzierung und Entlastung.
-ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319473"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260520"
 ---
-# <a name="exchange-online-archiving-service-description"></a>Beschreibung des Exchange Online-Archivierungsdiensts
+# <a name="exchange-online-archiving-service-description"></a>Beschreibung des Exchange Online Archivierungsdiensts
 
 Microsoft Exchange Online-Archivierung ist eine Microsoft Office 365 Cloud-basierte, Enterprise-Class-Archivierungslösung für Organisationen, die Exchange Server 2019, Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft bereitgestellt haben. Exchange Server 2010 (SP2 und höher) oder bestimmte Exchange Online-oder Office 365 Pläne abonnieren. Exchange Online Archivierung unterstützt diese Organisationen bei der Archivierung, Compliance, behördlichen und eDiscovery-Herausforderungen bei gleichzeitiger Vereinfachung der lokalen Infrastruktur und dadurch Kostenreduzierung und Entlastung.
   
-Als Microsoft Office 365-Onlinedienst ist Exchange Online-Archivierung darauf ausgelegt, Anforderungen in puncto robuster Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen. Weitere Informationen zu Office 365, einschließlich Features, die allen Office 365-Onlinediensten gemeinsam sind, finden Sie in der [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-description/office-365-platform-service-description.md).
+Als Microsoft Office 365-Onlinedienst ist Exchange Online-Archivierung darauf ausgelegt, Anforderungen in puncto robuster Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen. Weitere Informationen zu Office 365, einschließlich der Features, die allen Office 365 Onlinediensten gemeinsam sind, finden Sie in der [Beschreibung des Office 365-Platt Form Diensts](../office-365-platform-service-description/office-365-platform-service-description.md).
   
 Erwerben können Sie die Exchange Online-Archivierung unter [Exchange Online-Archivierung](https://products.office.com/exchange/microsoft-exchange-online-archiving-email).
   
@@ -49,7 +49,7 @@ Exchange Online-Archivierung steht über die folgenden Pläne zur Verfügung.
 <br/>
 <sup>2</sup> Exchange Online Plan 1 und Office 365 Business-Pläne weisen eine [Größenbeschränkung für Postfächer und Archive auf](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits). Durch die Exchange Online-Archivierung wird Exchange Online um ein cloudbasiertes Archiv und [Compliance-Archiv und Aufbewahrung für eventuelle Rechtsstreitigkeiten](compliance-and-security-features.md#in-place-hold-and-litigation-hold) ergänzt, beides ohne Begrenzung.
   
-Sie benötigen Informationen zu allen Office 365-Plänen? Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Weitere Informationen über diese Pläne (einschließlich eigenständiger Pläne) sowie über den Wechsel von Plänen erhalten Sie unter [Optionen zum Office 365-Plan](../office-365-platform-service-description/office-365-plan-options.md).
+Sie benötigen Informationen zu allen Office 365-Plänen? Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Informationen zu unterschiedlichen Plänen, einschließlich eigenständiger Planoptionen und Informationen zum Wechseln von einem Plan zu einem anderen, finden Sie unter [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
 ## <a name="requirements"></a>Anforderungen
 

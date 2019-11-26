@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation von schädlichen Links in Echtzeit.
-ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 42695e03b95429f44c79b1ff5084f12cd5bd6da5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734173"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262798"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
@@ -27,7 +27,7 @@ Im folgenden finden Sie die wichtigsten Methoden zum Verwenden von ATP für den 
 
 - In einem Szenario mit Office 365 reinen ATP-Filterung bietet ATP Cloud-basierten e-Mail-Schutz für Ihre lokale Exchange Server Umgebung oder eine andere lokale SMTP-e-Mail-Lösung.
 
-- Office 365 ATP kann aktiviert werden, um über die Exchange Online-Cloud gehostete Postfächer zu schützen. Weitere Informationen über Exchange Online finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md).
+- Office 365 ATP kann aktiviert werden, um über die Exchange Online-Cloud gehostete Postfächer zu schützen. Weitere Informationen zu Exchange Online finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md).
 
 - In einer Hybridbereitstellung kann ATP für den Schutz Ihrer Messaging-Umgebung und für die Steuerung von E-Mail-Routing konfiguriert werden, wenn Sie sowohl über lokale als auch über Cloud-Postfächer mit Exchange Online Protection für die eingehende E-Mail-Filterung verfügen.
 
@@ -131,7 +131,7 @@ Sichere links stehen für URLs in den folgenden Apps zur Verfügung:
 
 ### <a name="real-time-reports"></a>Echtzeitberichte
 
-Die im Office 365 Security #a0 Compliance Center verfügbaren Überwachungsfunktionen umfassen [Echtzeitberichte und Einblicke](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) , mit denen sich Ihre Sicherheits-und Compliance-Administratoren auf Probleme mit hoher Priorität konzentrieren können, beispielsweise Sicherheitsangriffe oder erhöhte verdächtige Aktivitäten. Neben der Hervorhebung von Problembereichen enthalten Smart Reports und Einblicke auch Empfehlungen und Links zum Anzeigen und Durchsuchen von Daten sowie zum Ausführen von schnell Aktionen.
+Zu den im Office 365 Security #a0 Compliance Center verfügbaren Überwachungsfunktionen gehören [Echtzeitberichte und Einblicke](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) , mit denen sich Ihre Sicherheits-und Compliance-Administratoren auf Probleme mit hoher Priorität konzentrieren können, beispielsweise Sicherheitsangriffe oder erhöhte verdächtige Aktivitäten. Neben der Hervorhebung von Problembereichen enthalten Smart Reports und Einblicke auch Empfehlungen und Links zum Anzeigen und Durchsuchen von Daten sowie zum Ausführen von schnell Aktionen.
 
 ### <a name="threat-trackers"></a>Nachverfolgungslisten für Bedrohungen
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In diesem Thema werden die empfängerbezogenen Features von Microsoft Exchange Online beschrieben. Dazu gehören E-Mail, Kontakte, Verteilergruppen sowie Kalender- und Terminplanungsfunktionen.
-ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911718"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262728"
 ---
 # <a name="recipients"></a>Empfänger
 
@@ -34,7 +34,7 @@ Jeder Microsoft Exchange Online-Abonnent erhält ein Postfach; für die Planung 
 
 Die Größe des verfügbaren Postfachspeichers für einen Benutzer und die Standardpostfachgröße werden durch den Postfachtyp sowie die Abonnementlizenz des Benutzers bestimmt. Administratoren können die maximale Postfachgröße pro Benutzer oder global reduzieren. Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eines Benutzers seine Kapazität fast oder vollständig erreicht hat:
   
-Weitere Informationen erhalten sie in den Abschnitten zu den Speicherbegrenzungen für Postfächer und zu Kapazitätswarnungen im Thema [Exchange Online-Begrenzungen](exchange-online-limits.md).
+Weitere Informationen finden Sie in den Abschnitten "Speichergrenzwerte für Postfächer" und "Kapazitäts Warnungen" im Thema [Exchange Online Limits](exchange-online-limits.md).
   
 ### <a name="mailtips"></a>MailTips
 

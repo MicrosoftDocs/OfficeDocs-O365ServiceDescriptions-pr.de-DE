@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581431"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262688"
 ---
 # <a name="voice-message-services"></a>Sprachnachrichten Dienste
 
@@ -76,7 +76,7 @@ Lokale Voicemaillösungen von Drittanbietern können mit Exchange Online zusamme
   
 ## <a name="skype-for-business-integration"></a>Skype for Business-Integration
 
-Organisationen können Skype for Business Online als eigenständigen Dienst oder als Teil von Microsoft Office 365 erwerben. Lokales Skype for Business 2015 wird ebenfalls unterstützt. Weitere Einzelheiten zu Skype for Business Online finden Sie unter [Skype for Business Online-Dienstbeschreibung](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Organisationen können Skype for Business Online als eigenständigen Dienst oder als Teil von Microsoft Office 365 erwerben. Lokales Skype for Business 2015 wird ebenfalls unterstützt. Weitere Informationen zu Skype for Business Online finden Sie unter [Skype for Business Online-Dienstbeschreibung](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

@@ -1,5 +1,5 @@
 ---
-title: Office für das Web – Dienstbeschreibung
+title: Office für die Webdienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: df6a4d09a970968a8c83cb5864b96af0f3e6f5db
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633881"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263519"
 ---
-# <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
+# <a name="office-for-the-web-service-description"></a>Office für die Webdienstbeschreibung
 
 Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
   

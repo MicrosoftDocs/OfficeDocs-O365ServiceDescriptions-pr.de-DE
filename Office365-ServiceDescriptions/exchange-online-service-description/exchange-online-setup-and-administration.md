@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: In diesem Artikel werden die Verwaltungssteuerelemente und-Unterstützung beschrieben, die zum Anpassen Exchange Online Einstellungen und zum aufrecht erhalten der Exchange Online Umgebung eines Unternehmens eingerichtet, aktiv und aktuell verfügbar sind. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581981"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262608"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Exchange Online-Setup und-Verwaltung
 
@@ -74,7 +74,7 @@ Exchange Online unterstützt die gleichen ActiveSync-Richtlinien für mobile Ger
   
 ### <a name="message-tracking-for-exchange-online"></a>Nachrichtenverfolgung für Exchange Online
 
-Das Feature zur Nachrichtenverfolgung über Zustellungsberichte wird im folgenden Thema beschrieben: [Berichterstellungsfeatures und Tools zur Problembehandlung](reporting-features-and-troubleshooting-tools.md).
+Die Nachrichtenverfolgung über das Feature Zustellungsberichte wird im folgenden Thema beschrieben: [Berichterstellungsfeatures und Tools zur Problembehandlung](reporting-features-and-troubleshooting-tools.md).
   
 ### <a name="usage-reporting-for-exchange-online"></a>Verwendungsberichte für Exchange Online
 

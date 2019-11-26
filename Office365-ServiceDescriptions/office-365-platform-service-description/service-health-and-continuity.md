@@ -1,5 +1,5 @@
 ---
-title: Dienststatus und Verfügbarkeit
+title: Service health and continuity
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft Office 365 Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
-ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
-ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
+ms.openlocfilehash: 4707d3eb79072e28e82aa565f50f6d0cf5d3c05c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38752714"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262476"
 ---
-# <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
+# <a name="service-health-and-continuity"></a>Service health and continuity
 
 Microsoft Office 365 Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen stehen jederzeit zur Verfügung, sobald Sie sich bei Office 365 anmelden.
   
@@ -153,5 +153,5 @@ Weitere Informationen zum Support finden Sie unter [Unterstützung](support.md).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md) finden Sie die Featureverfügbarkeit in Office 365-Plänen.
+Informationen zum Anzeigen der Verfügbarkeit von Funktionen in Office 365 Plänen finden Sie in der [Beschreibung des Office 365-Platt Form Diensts](office-365-platform-service-description.md).
   

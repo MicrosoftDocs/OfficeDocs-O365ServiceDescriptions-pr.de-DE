@@ -1,5 +1,5 @@
 ---
-title: Optionen zum Office 365-Plan
+title: Office 365 Planoptionen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,14 +16,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
-ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633500"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263046"
 ---
-# <a name="office-365-plan-options"></a>Optionen zum Office 365-Plan
+# <a name="office-365-plan-options"></a>Office 365 Planoptionen
 
 Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
   
@@ -50,7 +50,7 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Dienst** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
-|Office 365-Plattform  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Office 365 Plattform  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online  <br/> |Ja<sup>6</sup> <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>5</sup> <br/> |
@@ -126,4 +126,4 @@ Die folgenden Onlinedienste sind mit eigenständigen Plänen verfügbar. Sie dü
    
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Schutz bieten, sowie einen Vergleich der Features in diesen Plänen.
-ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700227"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260920"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
@@ -75,7 +75,7 @@ EoP kann mit einem beliebigen SMTP-e-Mail-Übertragungs-Agent verwendet werden, 
 
 ## <a name="limits"></a>Grenzwerte
 
-Beschränkungen in EOP finden Sie unter [Beschränkungen von Exchange Online Protection](exchange-online-protection-limits.md).
+Informationen zu Grenzwerten in EoP finden Sie unter [Exchange Online Protection Limits](exchange-online-protection-limits.md).
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Verfügbarkeit von Features in EOP-Plänen (Exchange Online Protection)
 

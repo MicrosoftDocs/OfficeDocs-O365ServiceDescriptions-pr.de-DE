@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
-ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581871"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262648"
 ---
 # <a name="messaging-policy-and-compliance"></a>Messagingrichtlinie und -kompatibilität
 
 Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
 
-Sie suchen nach Informationen zu allen EOP-Funktionen? Entsprechendes finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu allen EOP-Funktionen? Siehe [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
 
 ## <a name="mail-flow-rules"></a>Nachrichtenflussregeln
 
@@ -62,7 +62,7 @@ Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust in 
 
 ## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
 
-Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Protection, ist ein Onlinedienst, der es E-Mail-Benutzern erlaubt, an beliebige Personen verschlüsselte E-Mail-Nachrichten zu senden. Lokale Kunden können auf Office 365-Nachrichtenverschlüsselung zugreifen, indem sie Azure Information Protection erwerben und Exchange Online Protection zum Einrichten der Nachrichtenübermittlung über Exchange Online verwenden. Weitere Informationen zu Office 365-Nachrichtenverschlüsselung in Exchange Online finden Sie unter [Office 365-Nachrichtenverschlüsselung](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) in der Exchange Online-Dienstbeschreibung.
+Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Protection, ist ein Onlinedienst, der es E-Mail-Benutzern erlaubt, an beliebige Personen verschlüsselte E-Mail-Nachrichten zu senden. Lokale Kunden können auf Office 365-Nachrichtenverschlüsselung zugreifen, indem sie Azure Information Protection erwerben und Exchange Online Protection zum Einrichten der Nachrichtenübermittlung über Exchange Online verwenden. Weitere Informationen zur Office 365 Nachrichtenverschlüsselung in Exchange Online finden Sie unter [Office 365 Nachrichtenverschlüsselung](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) in der Exchange Online-Dienstbeschreibung.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Features zu Messagingrichtlinien und -einhaltung in EOP-Optionen
 

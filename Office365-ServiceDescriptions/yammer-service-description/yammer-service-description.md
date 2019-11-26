@@ -1,5 +1,5 @@
 ---
-title: Beschreibung des Yammer-Dienstes
+title: Beschreibung des Jammer Diensts
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 'Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.'
-ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911828"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263136"
 ---
-# <a name="yammer-service-description"></a>Beschreibung des Yammer-Dienstes
+# <a name="yammer-service-description"></a>Beschreibung des Jammer Diensts
 
 Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.
   
@@ -44,7 +44,7 @@ Yammer ist in den folgenden Plänen verfügbar:
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |Social Networking im Unternehmen mit erweiterter Sicherheit, verbesserter Administration und optimierten Integrationen.  <br/> |
    
 > [!NOTE]
-> Die Funktionen und Richtlinien in der [Office 365-Plattformdienstbeschreibung](../office-365-platform-service-description/office-365-platform-service-description.md) gelten nicht für den Yammer-Dienst. 
+> Die in der Beschreibung des Office 365- [Platt Form Diensts](../office-365-platform-service-description/office-365-platform-service-description.md) beschriebenen Features und Richtlinien gelten nicht für den Jammer Dienst. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Jammern der Unternehmensdienst-Kommunikationsrichtlinie
 <a name="YammerCommsPolicy"> </a>

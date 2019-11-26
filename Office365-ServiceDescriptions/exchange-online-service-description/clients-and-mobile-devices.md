@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 0a94e61fb7721861df57c72bb52f71b25848ba85
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734223"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262758"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -35,7 +35,7 @@ Outlook-Zugriff ist standardmäßig für alle Benutzer aktiviert. Über Windows 
 Informationen zu den in Exchange 2016 und Exchange Online unterstützten Outlook-Clients finden Sie im Abschnitt „Unterstützte Clients" unter [Exchange 2016 - Systemanforderungen](https://go.microsoft.com/fwlink/?LinkID=828972).
   
 > [!IMPORTANT]
->  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft Office Pro Plus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie mit Pop eine Verbindung mit einem Exchange Online e-Mail-Konto herstellen: #a0 keine Kalenderinformationen #a1 keine Frei/Gebucht-Informationen #a2 keine globale Adressliste #a3 keine Push-e-Mail-> beim Verbinden über Pop werden alle Nachrichten heruntergeladen t o der Client und es wird keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon) erfolgen. 
+>  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft Office Pro Plus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie mit Pop eine Verbindung mit einem Exchange Online e-Mail-Konto herstellen: #a0 keine Kalenderinformationen #a1 keine Frei/Gebucht-Informationen #a2 keine globale Adressliste #a3 keine Push-e-Mail-> beim Verbinden über Pop werden alle Nachrichten auf den Client heruntergeladen, und es wird keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon 
   
 ## <a name="outlook-on-the-web"></a>Outlook im Web
 

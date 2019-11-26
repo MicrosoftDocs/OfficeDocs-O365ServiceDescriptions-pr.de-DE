@@ -1,5 +1,5 @@
 ---
-title: Power BI - Dienstbeschreibung
+title: Power BI-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI ist eine Cloud-basierte Suite von Business Analytics-Tools, mit deren Hilfe Benutzerdaten mit größerer Geschwindigkeit, Effizienz und besseren Informationen verbinden, visualisieren und analysieren können. Er bietet Benutzern Zugriff auf eine Vielzahl von Echtzeitdaten über benutzerfreundliche Dashboards, stellt interaktive Berichte zur Verfügung und ermöglicht überzeugende Visualisierungen, die Daten zum Leben erwecken.
-ms.openlocfilehash: 1190c6af728f3f09c023f59673372a7ddf30adce
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: eca434b58fb379c025a44073fdea23a40a746861
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733992"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263469"
 ---
-# <a name="power-bi-service-description"></a>Power BI - Dienstbeschreibung
+# <a name="power-bi-service-description"></a>Power BI-Dienstbeschreibung
 
 Power BI ist eine Cloud-basierte Suite von Business Analytics-Tools, mit deren Hilfe Benutzerdaten mit größerer Geschwindigkeit, Effizienz und besseren Informationen verbinden, visualisieren und analysieren können. Er bietet Benutzern Zugriff auf eine Vielzahl von Echtzeitdaten über benutzerfreundliche Dashboards, stellt interaktive Berichte zur Verfügung und ermöglicht überzeugende Visualisierungen, die Daten zum Leben erwecken.
   

@@ -1,5 +1,5 @@
 ---
-title: Planen von Microsoft 365 Compliance – gcc
+title: Planen von Microsoft 365 Compliance – GCC
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in den US-Bundesstaaten, Ländern, lokalen, Stammes-oder Gebietskörperschaften oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government-gcc ist geeignet, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319493"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262818"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Plan for Microsoft 365 Compliance – gcc
 
@@ -69,18 +69,23 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Informationsschutz #a0 Steuerung** | Archivierung                                       | Available              |
 |                                         | Manuelle Bezeichnungen und Richtlinien<sup>2</sup>          | Available              |
-|                                         | Automatische Anwendung von Beschriftungen                      | Im Entwicklungsrückstand |
+|                                         | Automatische Anwendung von Beschriftungen                      | Available              |
 |                                         | Bezeichnungen basierend auf vertraulichen Datentypen            | Im Entwicklungsrückstand |
-|                                         | Bezeichnungen und zugeordnete Richtlinien basierend auf Abfragen | Im Entwicklungsrückstand |
-|                                         | Dateiplan                                       | Im Entwicklungsrückstand |
+|                                         | Bezeichnungen und zugeordnete Richtlinien basierend auf Abfragen | Available              |
+|                                         | Dateiplan                                       | Available              |
 |                                         | Empfohlene Richtlinien                            | Im Entwicklungsrückstand |
 |                                         | Intelligente Importfilter                            | Im Entwicklungsrückstand |
-|                                         | Ereignisbasierte Aufbewahrung                           | Im Entwicklungsrückstand |
-|                                         | Dispositions Überprüfung                              | Im Entwicklungsrückstand |
+|                                         | Ereignisbasierte Aufbewahrung                           | Available              |
+|                                         | Dispositions Überprüfung                              | Available              |
 |                                         | Informationsbarrieren                            | Available              |
 |                                         | Verhinderung von Datenverlust (DLP) für Dateien und e-Mail  | Available              |
 |                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen    | Im Entwicklungsrückstand |
+|                                         | Exakte DLP-Datenübereinstimmung                            | Im Entwicklungsrückstand |
+|                                         | Bezeichnungsaktivitäten-Explorer                         | Im Entwicklungsrückstand |
+|                                         | Schulungs Klassifizierer                           | Im Entwicklungsrückstand |
+|                                         | Einheitliche Beschriftungs-und Vertraulichkeits Bezeichnungen         | Im Entwicklungsrückstand |
 | **Insider Risikomanagement**             | Erweiterte Nachrichtenverschlüsselung                     | Available              |
+|                                         | Insider Risiko Management                         | Im Entwicklungsrückstand |
 |                                         | Kommunikationscompliance                        | Im Entwicklungsrückstand |
 |                                         | Kunden-Lockbox                                | Available              |
 |                                         | Kundenschlüssel                                    | Available              |

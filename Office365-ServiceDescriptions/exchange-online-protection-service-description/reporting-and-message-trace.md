@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte an, mit deren Hilfe Sie den allgemeinen Status und die Integrität Ihrer Organisation ermitteln können. Einige Berichte stehen im Microsoft 365 Admin Center zur Verfügung, während andere im Exchange Admin Center (EAC) verfügbar sind.
-ms.openlocfilehash: b8afb8a404fb322d70ce5d393c5a5e70cc5af6aa
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d4e0f1104bfc87f5641cc241d2a526e8d56f0d1a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581901"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262668"
 ---
 # <a name="reporting-and-message-trace"></a>Berichterstellung und Nachrichtenablaufverfolgung
 
 Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte an, mit deren Hilfe Sie den allgemeinen Status und die Integrität Ihrer Organisation ermitteln können. Einige Berichte stehen im Microsoft 365 Admin Center zur Verfügung, während andere im Exchange Admin Center (EAC) verfügbar sind.
 
-Sie suchen nach Informationen zu allen EOP-Funktionen? Entsprechendes finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu allen EOP-Funktionen? Siehe [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
 
 ## <a name="microsoft-365-admin-center-reports"></a>Microsoft 365 Admin Center-Berichte
 

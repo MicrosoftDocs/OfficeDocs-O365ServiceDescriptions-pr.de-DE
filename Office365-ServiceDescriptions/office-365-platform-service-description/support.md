@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Office 365-Portal als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter Office 365 Support Options.
-ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582191"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262216"
 ---
 # <a name="support"></a>Support
 
@@ -31,7 +31,7 @@ Das technische Supportteam für Office 365 behebt nur Probleme im Zusammenhang m
   
 ## <a name="community-and-self-service-support-options"></a>Community- und Self-Service-Support
 
-Self-Service-Support ist für alle Office 365-Pläne verfügbar. Er umfasst Problembehandlungstools und -videos, Hilfeartikel und Videos sowie Foren und Wikis in der [Office 365-Community](https://go.microsoft.com/fwlink/p/?LinkID=279811). Weitere Informationen zu Self-Service-Supportressourcen finden Sie in der Dienstbeschreibung unter [Hilfe und Schulungen](help-and-training.md).
+Self-Service-Support steht für alle Office 365 Pläne zur Verfügung und umfasst die Problembehandlungstools und Videos, Hilfeartikel und Videos sowie Foren und Wikis in der [Office 365 Community](https://go.microsoft.com/fwlink/p/?LinkID=279811). Weitere Informationen zu Self-Service-Supportressourcen finden Sie in der [Hilfe-und Schulungs](help-and-training.md) Dienstbeschreibung.
   
 ## <a name="pre-sales-support"></a>Support für den Bereich Presales
 
@@ -201,4 +201,4 @@ Wenn Sie bereits Lizenzen von Microsoft im Rahmen eines Volumenlizenzprogramms e
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Weitere Informationen zur Verfügbarkeit von Funktionen in Office 365-Plänen finden Sie unter [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).

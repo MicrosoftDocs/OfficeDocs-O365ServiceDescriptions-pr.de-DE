@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020262"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261916"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -102,7 +102,7 @@ Nachdem Sie eine Excel-Tabelle erstellt haben, möchten Sie möglicherweise nur 
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Sie können Text, Zahlen, Formeln, Formen, Diagramme und Bilder ausschneiden, kopieren und einfügen. Wenn Sie Daten in Spalten haben, die Sie drehen müssen, um Sie in Zeilen neu anzuordnen, verwenden Sie das Feature **Transponieren** im Menü **Einfügen** .
+Sie können Text, Hyperlinks, Zahlen, Formeln, Formen, Diagramme und Bilder ausschneiden, kopieren und einfügen. Wenn Sie Daten in Spalten haben, die Sie drehen müssen, um Sie in Zeilen neu anzuordnen, verwenden Sie das Feature **Transponieren** im Menü **Einfügen** . Erfahren Sie mehr über [Kopieren und Einfügen in Excel für das Internet](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 

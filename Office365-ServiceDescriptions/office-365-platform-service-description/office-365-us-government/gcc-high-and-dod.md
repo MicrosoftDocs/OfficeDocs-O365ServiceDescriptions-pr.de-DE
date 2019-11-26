@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
-ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568118"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262546"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
 
@@ -23,9 +23,9 @@ Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderu
   
 Bitten Sie Ihr Team oder einen bevorzugten Partner, sich weiter zu informieren oder den Überprüfungsprozess zu initiieren. Weitere Informationen zum Kauf finden Sie unter [Microsoft 365 Government-How to Buy](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
-## <a name="how-to-use-this-service-description-section"></a>Verwenden des Abschnitts zur Dienstbeschreibung
+## <a name="how-to-use-this-service-description-section"></a>Vorgehensweise zum Verwenden dieses Dienst Beschreibungsabschnitts
 
-Die Dienstbeschreibung zu Office 365 US Government dient zur Überlagerung der allgemeinen Office 365-Dienstbeschreibung. Sie definiert die eindeutigen Versprechen und Unterschiede im Vergleich zu Office 365 Enterprise-Angeboten.
+Die Office 365 US Government-Dienstbeschreibung dient als Overlay zur allgemeinen Office 365 Dienstbeschreibung. Sie definiert die eindeutigen Versprechen und Unterschiede im Vergleich zu Office 365 Enterprise-Angeboten.
   
 ## <a name="compliance"></a>Compliance
 
@@ -43,7 +43,7 @@ Office 365-Mitarbeiter haben keinen Zugriff auf die GCC High and DoD-Produktion.
   
 |||
 |:-----|:-----|
-|**Microsoft Personal Screening und Hintergrundprüfungen** <sup>1</sup> <br/> |**Beschreibung** <br/> |
+|**Microsoft Personal Screening and Background Checks**<sup>1</sup> <br/> |**Beschreibung** <br/> |
 |US-amerikanische Staatsbürgerschaft  <br/> |Überprüfung der US-amerikanischen Staatsbürgerschaft  <br/> |
 |Prüfung des beruflichen Lebenslaufs  <br/> |Überprüfung von sieben (7) Jahren der bisherigen Berufstätigkeit  <br/> |
 |Überprüfung der Ausbildung  <br/> |Überprüfung der höchsten abgeschlossenen Ausbildung  <br/> |
@@ -94,7 +94,7 @@ Darüber hinaus werden nicht-gcc hohe e-Mail-Adressen, die an Benutzerprofile an
   
  Die **Business Connectivity Services** -BCS-Funktionalität wird für Verbindungsszenarien unterstützt, in denen die Datenquellen innerhalb der Sicherheitsgrenze Ihres Cloud-Diensts erreichbar bleiben. 
   
- **Sandkastenlösungen** - Dieses Feature ist veraltet und nicht verfügbar. Alle Sandkastenlösungen sollten zum [Erweiterungsmodell für SharePoint-Add-ins ]( https://msdn.microsoft.com/library/office/fp179930.aspx)migriert werden.
+ **Sandkastenlösungen** - Dieses Feature ist veraltet und nicht verfügbar. Alle Sandkastenlösungen sollten zum [SharePoint-Add-in Erweiterbarkeitsmodell ]( https://msdn.microsoft.com/library/office/fp179930.aspx)migriert werden.
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
@@ -110,6 +110,6 @@ Jammern Enterprise ist in den gcc-High-und DoD-Umgebungen nicht verfügbar.
   
 ## <a name="customer-support"></a>Kundensupport
 
-Microsoft erinnert Sie daran, keine kontrollierten, vertraulichen oder vertraulichen Informationen mit dem Kundensupportmitarbeiter im Rahmen Ihres Support-Vorfalls bei Verwendung Office 365 gcc High/DoD freizugeben, zumindest bis Sie die Autorisierung des Support-Agents bestätigen, anzeigen oder greifen Sie auf solche Daten zu.
+Microsoft erinnert Sie daran, keine kontrollierten, vertraulichen oder vertraulichen Informationen mit dem Kundensupportmitarbeiter im Rahmen Ihres Support-Vorfalls bei Verwendung Office 365 gcc High/DoD freizugeben, zumindest bis Sie die Autorisierung des Support-Agents zur Anzeige oder zum Zugriff auf solche Daten bestätigt haben.
 
 Microsoft verpflichtet sich zum Schutz Ihrer [Privatsphäre](https://privacy.microsoft.com/privacystatement)). Office 365 gcc High/DoD-Unterstützung ist jedoch nicht in der Dienst Akkreditierungs Grenze enthalten und stellt keine FedRAMP-, DoD-, ITAR-, IRS 1075-oder CJIS-Datenverarbeitung zur Einhaltung von Vorschriften zur Verfügung.

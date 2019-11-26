@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Die folgenden Features der Jammer Plattform stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: 80918999bd9f6e42aa1b966b900b70d4410731d2
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: bbae95e2284cac39e8e4bbfbb08faeac5c4b3fad
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726469"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263146"
 ---
 # <a name="yammer-platform-features"></a>Features für die Jammer Plattform
 

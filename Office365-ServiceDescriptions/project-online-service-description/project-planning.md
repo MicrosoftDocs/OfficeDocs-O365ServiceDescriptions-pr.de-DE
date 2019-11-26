@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Die folgenden Projekt Planungsfeatures stehen in Project online zur Verfügung.
-ms.openlocfilehash: 3db03307450ef29a6bddc055cea8df845b648f87
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631584"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263409"
 ---
 # <a name="project-planning"></a>Projektplanung
 
@@ -41,7 +41,7 @@ Vergleichen Sie zwei Versionen eines Projekts. In einem Bericht werden die Ände
 
 Kennzeichnen Sie wichtige Ziele des Projekts mit einem Meilenstein. Erfahren Sie mehr über das [Hinzufügen eines Meilensteins](https://go.microsoft.com/fwlink/p/?LinkId=271339).
   
-## <a name="filtering"></a>Filterung
+## <a name="filtering"></a>Filtern
 
 Sie können Projektpläne anhand eines beliebigen Werts im Plan filtern. Erfahren Sie mehr über das [Erstellen eines benutzerdefinierten Filters](https://go.microsoft.com/fwlink/p/?LinkId=271341).
   

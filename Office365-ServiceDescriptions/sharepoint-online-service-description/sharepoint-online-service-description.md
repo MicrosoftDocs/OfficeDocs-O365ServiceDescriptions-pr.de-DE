@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online-Dienstbeschreibung
+title: SharePoint Online Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online in Office 365 ermöglicht es den Teilnehmern, miteinander zu teilen und zusammenzuarbeiten, andere unternehmensübergreifend zu informieren und zu engagieren, Geschäftsprozesse zu transformieren und kollektives Wissen nutzbar zu machen. Darüber hinaus bietet SharePoint Funktionen für Organisationen zum Schutz und zur Verwaltung von Daten sowie zum Erstellen benutzerdefinierter Lösungen.
-ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890411"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263309"
 ---
-# <a name="sharepoint-online-service-description"></a>SharePoint Online-Dienstbeschreibung
+# <a name="sharepoint-online-service-description"></a>SharePoint Online Dienstbeschreibung
 
 Microsoft SharePoint Online in Office 365 ermöglicht es den Teilnehmern, miteinander zu teilen und zusammenzuarbeiten, andere unternehmensübergreifend zu informieren und zu engagieren, Geschäftsprozesse zu transformieren und kollektives Wissen nutzbar zu machen. Darüber hinaus bietet SharePoint Funktionen für Organisationen zum Schutz und zur Verwaltung von Daten sowie zum Erstellen benutzerdefinierter Lösungen. Eine schnelle Übersicht finden Sie unter [Was ist SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
@@ -40,13 +40,13 @@ Systemanforderungen für Office 365, den monatlichen abonnementbasierten Dienst 
   
 ## <a name="sharepoint-online-boundaries-and-limits"></a>Grenzen und Einschränkungen von SharePoint Online
 
-Es gibt einige Einschränkungen für den von Microsoft verwalteten SharePoint Online Dienst, beispielsweise Kontingente für Websitesammlungen, Grenzwerte für Dateiuploads und Speichergrenzwerte. Weitere Informationen finden Sie unter [SharePoint Online-Grenzwerte](sharepoint-online-limits.md).
+Es gibt einige Einschränkungen für den von Microsoft verwalteten SharePoint Online Dienst, beispielsweise Kontingente für Websitesammlungen, Grenzwerte für Dateiuploads und Speichergrenzwerte. Ausführliche Informationen finden Sie unter [SharePoint Online Limits](sharepoint-online-limits.md).
   
 Weitere Informationen zur Unterstützung von Mobilgeräten finden Sie unter [Verwenden eines mobilen Geräts für die Arbeit mit SharePoint Online-Websites](https://support.office.com/article/a99f2acf-381a-442c-b305-3e74c251bcb6).
   
 ## <a name="subscription-options"></a>Abonnementoptionen
 
-Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Weitere Informationen über diese Pläne (einschließlich eigenständiger Pläne) sowie über den Wechsel von Plänen erhalten Sie unter [Optionen zum Office 365-Plan](../office-365-platform-service-description/office-365-plan-options.md).
+Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Informationen zu unterschiedlichen Plänen, einschließlich eigenständiger Planoptionen und Informationen zum Wechseln von einem Plan zu einem anderen, finden Sie unter [Office 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
 Jede Person, die auf SharePoint Online zugreift, muss einem Office 365 Plan oder SharePoint Online Plan 1 oder SharePoint Online Plan 2 Standalone Service zugewiesen sein. Ein Firstplan-Plan wird jedoch nicht als eigenständiges Angebot verkauft, sondern nur als Teil des First-Abonnement-Abonnements, wie beispielsweise SharePoint Online ersten. Da First-Workers keine Administratoren sein können, benötigen Mandanten mit First-Mitarbeitern mindestens einen Unternehmensadministrator zum Verwalten von SharePoint. Die Mitarbeiter von First-work werden keine SharePoint-Navigationsmenüs sehen, sodass die Mitarbeiter von First-Workers direkt über die URL zu SharePoint-Websites navigieren müssen.
   
@@ -105,16 +105,16 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Host Header-Websitesammlungen](it-professional.md#host-header-site-collections) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verwaltung mobiler Geräte in Office 365](it-professional.md#mobile-device-management-for-office-365) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
 |[OAuth](it-professional.md#oauth) <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|[Patchverwaltung](it-professional.md#patch-management) <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
+|[Patchverwaltung](it-professional.md#patch-management) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
 |[Kontingentvorlagen](it-professional.md#quota-templates) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|[Unterstützung schreibgeschützter Datenbanken](it-professional.md#read-only-database-support) <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
-|[Remote BLOB Storage](it-professional.md#remote-blob-storage) <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
-|[Anforderungsverwaltung](it-professional.md#request-management) <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
-|[Ressourceneinschränkung](it-professional.md#resource-throttling) <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
+|[Unterstützung schreibgeschützter Datenbanken](it-professional.md#read-only-database-support) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
+|[Remote BLOB Storage](it-professional.md#remote-blob-storage) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
+|[Anforderungsverwaltung](it-professional.md#request-management) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
+|[Ressourceneinschränkung](it-professional.md#resource-throttling) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
 |[Dienst Anwendungsplattform](it-professional.md#service-application-platform) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[SharePoint-Integritätsanalyse](it-professional.md#sharepoint-health-analyzer) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|[SharePoint Admin Center (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>4</sup> <br/> |N/V  <br/> |Nicht zutreffend  <br/> |
-|SharePoint-Zentraladministration Center  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |N/V  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
+|[SharePoint Admin Center (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>4</sup> <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
+|SharePoint-Zentraladministration Center  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
 |[Richtlinien für die Kompatibilität von Websitesammlungen](it-professional.md#site-collection-compliance-policies) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verwendungsberichte und Protokollierung](it-professional.md#usage-reporting-and-logging) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Windows PowerShell Support](it-professional.md#windows-powershell-support) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
