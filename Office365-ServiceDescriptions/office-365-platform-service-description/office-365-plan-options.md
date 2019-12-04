@@ -1,5 +1,5 @@
 ---
-title: Office 365 Planoptionen
+title: Optionen zum Office 365-Plan
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,14 +16,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263046"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810814"
 ---
-# <a name="office-365-plan-options"></a>Office 365 Planoptionen
+# <a name="office-365-plan-options"></a>Optionen zum Office 365-Plan
 
 Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
   
@@ -67,7 +67,7 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 <sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist.<br/>
 <sup>3</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>4</sup> Office 365 Enterprise E5 enthält Telefon System-, Audiokonferenz-und Anruf Plan Funktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan).<br/>
-<sup>5</sup> Umfasst 2 GB Speicher. Umfasst keine Desktopsynchronisierungsfunktionalität. <br/>
+<sup>5</sup> Umfasst 2 GB Speicher. <br/>
 <sup>6</sup> Umfasst Exchange Online-Plan 1. <br/>
 <sup>7</sup> Umfasst Exchange Online-Plan 2. <br/>
 <sup>8</sup> Umfasst Exchange Online-Plan 1 sowie zusätzliche Features. <br/>

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business-Dienstbeschreibung
+title: Microsoft 365 Business – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben.
-ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262848"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810804"
 ---
-# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business-Dienstbeschreibung
+# <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business – Dienstbeschreibung
 
 Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterter Sicherheit und Geräteverwaltung zusammenbringt, um Ihr Unternehmen vor fortgeschrittenen Bedrohungen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben. Weitere Informationen zu Office 365 finden Sie unter [Office 365 Service descriptions](../office-365-service-descriptions-technet-library.md).
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Featureverfügbarkeit in Office 365 Business Premium- und Microsoft 365 Business-Plänen
 
 Microsoft 365 Business umfasst im Wesentlichen alle Features, die in Office 365 Business Premium zusammen mit zusätzlichen Office 365 Sicherheitsfeatures verfügbar sind.
+
+Microsoft 365 Business umfasst die folgenden Azure AD Premium P1-Funktionen: Self-Service Password Reset mit AD Write-Back, Azure Multi-Factor Authentication (MFA) und bedingtem Zugriff. Es enthält nicht die Gesamtheit Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|
@@ -46,7 +48,7 @@ Microsoft 365 Business umfasst im Wesentlichen alle Features, die in Office 365 
 |[Office 365-Verwaltung](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Azure AD Connect-Synchronisierungstool<br/> |Ja  <br/> |Ja  <br/> |
 |Aktivierung gemeinsam genutzter Computer <br/> |Nein <br/> |Ja  <br/> |
-|[Nachrichten Richtlinie und-Kompatibilität](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Langzeitarchivierung von Exchange Online basierten Postfächern  <br/> |Nein  <br/> |Ja<sup>3</sup> <br/> |
 |Azure Information Protection-Plan 1 |Nein <br/>|Ja<sup>2</sup> </br>|
 |Office 365-Nachrichtenverschlüsselung  <br/> |Nein  <br/> |Ja<sup>2</sup> <br/> |
@@ -76,9 +78,9 @@ Microsoft 365 Business umfasst im Wesentlichen alle Features, die in Office 365 
 |SLA 99,9 %  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Advanced Threat Analytics  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Geräte-und Anwendungsverwaltung](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business umfasst vollständige InTune-Funktionen für IOS, Android, Mac OS und andere plattformübergreifende Geräteverwaltung. <sup>9</sup> <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|InTune-Mobile Geräteverwaltung (MDM) für PCs, Macs und mobile Geräte<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|InTune-Mobile Geräteverwaltung (MDM) für PCs, Macs und mobile Geräte<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Automatische Registrierung bei mobiler Geräteverwaltung (MDM)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|InTune Mobile Application Management (MAM) für Office-Apps und Branchen-apps<sup>17</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|InTune Mobile Application Management (MAM) für Office-Apps und Branchen-apps<sup>9</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows Update Management, Defender, Firewall Policies<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Datenschutz - Selektives Zurücksetzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Security Group (SG) Targeting für Richtlinien  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
@@ -106,7 +108,7 @@ Microsoft 365 Business umfasst im Wesentlichen alle Features, die in Office 365 
 |Ordner vor Bedrohungen wie Ransomware schützen <br/> |Ja  <br/> |
 |Schützen von Dateien und Ordnern auf PCs vor nicht autorisiertem Zugriff mit BitLocker <br/> |Ja  <br/> |
 
-### <a name="notes"></a>Notes
+### <a name="notes"></a>Anmerkungen
 <sup>1</sup> enthält Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) aktiviert die unterstützten Funktionen für die Verwaltung von Informationsrechten (Information Rights Management, IRM). AIP-Plan 1 ist in Microsoft 365 Business enthalten. <br/>
 <sup>3</sup> Microsoft 365 Business umfasst Exchange Online Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>

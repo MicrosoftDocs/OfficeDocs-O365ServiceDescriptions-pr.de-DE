@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261916"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810824"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
 Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
   
 > [!NOTE]
-> Arbeitsmappen, die mehr als 30 Megabyte (MB) überschreiten, können in Excel für das Internet nicht in Microsoft SharePoint Online angezeigt werden. Zum Anzeigen größerer Dateien muss auf Ihrem Computer die Excel-Desktop-App installiert sein. 
+> Arbeitsmappen, die mehr als 50 Megabyte (MB) überschreiten, können in Excel für das Internet nicht in Microsoft SharePoint Online angezeigt werden. Zum Anzeigen größerer Dateien muss auf Ihrem Computer die Excel-Desktop-App installiert sein. 
 
 > [!NOTE]
 > Um Ihnen den Angebotsvergleich zu vereinfachen, umfassen die in diesem Artikel aufgeführten erweiterten Features Excel-Desktop-App-Funktionen, die nur in der Office-Suite verfügbar sind (z. B. Office Professional Plus, Office Standard oder Office 365 ProPlus). Eine Liste aller Office-Features für die Webfunktionen, wie Word für das Internet und PowerPoint für das Internet, finden Sie unter [Feature-Verfügbarkeit in Office für die webpläne](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
