@@ -1,5 +1,5 @@
 ---
-title: Office-Anwendungsdienst Beschreibung
+title: Dienstbeschreibung zu Office-Anwendungen
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261956"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969952"
 ---
-# <a name="office-applications-service-description"></a>Office-Anwendungsdienst Beschreibung
+# <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
 Microsoft Office 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen zur Verfügung stellt, mit denen Sie bereits vertraut sind, beispielsweise Word, Excel und PowerPoint.
   
@@ -71,7 +71,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Archivierung und Vorschrifteneinhaltung mit Exchange Online und SharePoint Online  <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/>|Ja<sup>1</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
 |Unterstützung der Gruppenrichtlinie  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/> |
 |Unterstützung von Office-Cloud-Richtlinien  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein <br/> |
-|Verwaltung von Informationsrechten (Information Rights Management, IRM) mithilfe von Azure Information Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |
+|Verwaltung von Informationsrechten (Information Rights Management, IRM) mithilfe von Azure Information Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |Ja <br/> |
 |Information Rights Management mit Windows Server AD RMS  <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja <br/>| Ja<sup>3</sup> <br/>|Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |
 |Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>+++<sup> <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja <br/> |
 |OneNote-Clientzugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive for Business und Office 365  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>++</sup> <br/> |Ja <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Ja <br/> |
@@ -169,7 +169,7 @@ Die folgenden Office-Anwendungen sind in den Government Clouds verfügbar; Einig
 |Intelligentes Nachschlagen | Nein | Nein | Nein |
 |Office-Sounds (einige) | Nein | Nein | Nein |
 |3D-Modelle und eingebettete 3D-Animationen | Nein | Nein | Nein |
-Diagramme: Maps | Nein | Nein | Nein |
+|Diagramme: Maps | Nein | Nein | Nein |
 |Intelligente digitale Tinte | Nein | Nein | Nein |
 |Live Beschriftungen #a0 Untertiteln in PowerPoint | Nein | Nein | Nein |
 |Referenten Coach | Nein | Nein | Nein |
@@ -179,6 +179,7 @@ Diagramme: Maps | Nein | Nein | Nein |
 |Office 365-Gruppen | Nein | Nein | Nein |
 |Echtzeitzusammenarbeit (Anwesenheit, regulärer Mitverfasser, in-Document-Chat) | Nein | Nein | Nein |
 |Diktat | Nr.<sup>1</sup> | Nr.<sup>1</sup> | Nr.<sup>1</sup> |
+|Wieder verwenden von Folien | Nein | Nein | Nein |
 |**Microsoft Whiteboard** in Government Clouds ist derzeit nur auf Hub-Clients und nicht auf dem Desktop verfügbar. | Ja<sup>2</sup> | Ja<sup>2</sup> | Ja<sup>2</sup> |
 |Einfügen von Notiz Notizen, Text und Bildern |Ja<sup>2</sup> |Ja<sup>2</sup> |Ja<sup>2</sup> |
 |Freihand für Form und Freihand in Tabelle |Ja<sup>2</sup> |Ja<sup>2</sup> |Ja<sup>2</sup> |

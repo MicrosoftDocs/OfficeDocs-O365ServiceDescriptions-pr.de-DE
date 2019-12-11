@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online Dienstbeschreibung
+title: SharePoint Online-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online in Office 365 ermöglicht es den Teilnehmern, miteinander zu teilen und zusammenzuarbeiten, andere unternehmensübergreifend zu informieren und zu engagieren, Geschäftsprozesse zu transformieren und kollektives Wissen nutzbar zu machen. Darüber hinaus bietet SharePoint Funktionen für Organisationen zum Schutz und zur Verwaltung von Daten sowie zum Erstellen benutzerdefinierter Lösungen.
-ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: c6719ec7efc2caea5a7190d55ae9da0c535f72a5
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263309"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969961"
 ---
-# <a name="sharepoint-online-service-description"></a>SharePoint Online Dienstbeschreibung
+# <a name="sharepoint-online-service-description"></a>SharePoint Online-Dienstbeschreibung
 
 Microsoft SharePoint Online in Office 365 ermöglicht es den Teilnehmern, miteinander zu teilen und zusammenzuarbeiten, andere unternehmensübergreifend zu informieren und zu engagieren, Geschäftsprozesse zu transformieren und kollektives Wissen nutzbar zu machen. Darüber hinaus bietet SharePoint Funktionen für Organisationen zum Schutz und zur Verwaltung von Daten sowie zum Erstellen benutzerdefinierter Lösungen. Eine schnelle Übersicht finden Sie unter [Was ist SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
@@ -84,7 +84,7 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Entwickler Website](developer.md#developer-site) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
 |[Formularbasierte Anwendungen](developer.md#infopath-forms-services) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Voll vertrauenswürdige Lösungen](developer.md#full-trust-solutions) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja<sup>16</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|[InfoPath Forms Services](developer.md#infopath-forms-services) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[JavaScript-Objektmodell](developer.md#javascript-object-model) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Remote Ereignisempfänger](developer.md#remote-event-receiver) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[REST-APIs](developer.md#rest-apis) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -92,19 +92,19 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[SharePoint 2010-Workflows (sofort einsetzbar)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[SharePoint 2013- und SharePoint 2016-Workflows](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|[SharePoint 2013- und SharePoint 2016-Workflows](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**Features für IT-Experten** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Active Directory-Synchronisierung](it-professional.md#active-directory-synchronization) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Alternative Zugriffszuordnung (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Schutz vor Schadsoftware](it-professional.md#anti-malware-protection) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
 |[Unterstützung der anspruchsbasierten Authentifizierung](it-professional.md#claims-based-authentication-support) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|[Kundenschlüssel für Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nr.<sup>19</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|[Kundenschlüssel für Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nr.<sup>18</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |[Verhinderung von Datenverlust](it-professional.md#data-loss-prevention) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Verschlüsselung im Ruhezustand](it-professional.md#encryption-at-rest) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
 |Verschlüsselung bei der Übertragung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
 |[Host Header-Websitesammlungen](it-professional.md#host-header-site-collections) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verwaltung mobiler Geräte in Office 365](it-professional.md#mobile-device-management-for-office-365) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
-|[OAuth](it-professional.md#oauth) <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[OAuth](it-professional.md#oauth) <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Patchverwaltung](it-professional.md#patch-management) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
 |[Kontingentvorlagen](it-professional.md#quota-templates) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Unterstützung schreibgeschützter Datenbanken](it-professional.md#read-only-database-support) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
@@ -113,7 +113,7 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Ressourceneinschränkung](it-professional.md#resource-throttling) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
 |[Dienst Anwendungsplattform](it-professional.md#service-application-platform) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[SharePoint-Integritätsanalyse](it-professional.md#sharepoint-health-analyzer) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|[SharePoint Admin Center (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>4</sup> <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
+|[SharePoint Admin Center (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>3</sup> <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |SharePoint-Zentraladministration Center  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Ja  <br/> |Ja  <br/> |
 |[Richtlinien für die Kompatibilität von Websitesammlungen](it-professional.md#site-collection-compliance-policies) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verwendungsberichte und Protokollierung](it-professional.md#usage-reporting-and-logging) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -130,21 +130,20 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Design-Manager](content.md#design-manager) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Dokumentenmappen](content.md#document-sets) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Dokument Übersetzung in Word für das Internet](content.md#document-translation-in-word-for-the-web) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[eDiscovery-Suche](content.md#ediscovery-search) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|[eDiscovery-Aufbewahrung](content.md#ediscovery-hold) <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nein  <br/> |Ja  <br/> |
-|[eDiscovery-Export](content.md#ediscovery-export) <br/> |Nr.<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Nr.<sup>6</sup> <br/> |Nein  <br/> |Ja  <br/> |
-|[Externe Freigabe: externer Zugriff](content.md#external-sharing-external-access) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Konfigurierbar für Extranet  <br/> |Konfigurierbar für Extranet  <br/> |
-|[Externe Freigabe: Gast Link](content.md#external-sharing-guest-link) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Nein  <br/> |Nein  <br/> |
-|[Facetten Navigation](content.md#faceted-navigation) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Nein  <br/> |Ja<sup>7</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|[Ordnersynchronisierung](content.md#folder-sync) <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|Hybrid-Überwachung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Yes<sup>18</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|Hybrid Taxonomie und Inhaltstypen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Yes<sup>18</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[eDiscovery-Suche](content.md#ediscovery-search) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[eDiscovery-Aufbewahrung](content.md#ediscovery-hold) <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nein  <br/> |Ja<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |
+|[eDiscovery-Export](content.md#ediscovery-export) <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nein  <br/> |Ja<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |
+|[Externe Freigabe: externer Zugriff](content.md#external-sharing-external-access) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Konfigurierbar für Extranet  <br/> |Konfigurierbar für Extranet  <br/> |
+|[Externe Freigabe: Gast Link](content.md#external-sharing-guest-link) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Nein  <br/> |Nein  <br/> |
+|[Facetten Navigation](content.md#faceted-navigation) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>5</sup> <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|[Ordnersynchronisierung](content.md#folder-sync) <br/> |Ja <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> |Ja  <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|Hybrid Taxonomie und Inhaltstypen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>17</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Bilddarstellungen](content.md#image-renditions) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Verwaltung von Informationsrechten (Information Rights Management, IRM)](content.md#information-rights-management-irm) <br/> |Nr.<sup>3</sup> <br/> |Nr.<sup>3</sup> <br/> |Nr.<sup>3</sup> <br/> |Nr.<sup>3</sup> <br/> |Nr.<sup>3</sup> <br/> |Ja  <br/> |Nein<sup>3, 4</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Verwaltung von Informationsrechten (Information Rights Management, IRM)](content.md#information-rights-management-irm) <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Nein<sup>3, 4</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Verwalteter Metadatendienst](content.md#managed-metadata-service) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Metadaten-gesteuerte Navigation](content.md#metadata-driven-navigation) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Mehrstufige Disposition](content.md#multi-stage-disposition) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Office für das Internet (erstellen/bearbeiten)](content.md#office-for-the-web-createedit) <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>15</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Office für das Internet (erstellen/bearbeiten)](content.md#office-for-the-web-createedit) <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Office für das Internet (Ansicht)](content.md#office-for-the-web-view) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office ProPlus  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |[Office Web Apps Server-Integration](content.md#office-web-apps-server-integration) <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Enthalten  <br/> |Ja  <br/> |Ja  <br/> |
@@ -176,8 +175,8 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Schnelleinblick](insights.md#quick-explore) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |[Integrierter Modus für SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Schnittfenster-datenschnitt](insights.md#timeline-slicer) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|[Visio für das Netz](../visio-online-service-description/visio-online-service-description.md)<sup>17</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
-|[Visio Services](insights.md#visio-services)<sup>17</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|[Visio für das Internet](../visio-online-service-description/visio-online-service-description.md)<sup>16</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |
+|[Visio Services](insights.md#visio-services)<sup>16</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |**Suchfeatures** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Kontinuierliche Durchforstungen](search.md#continuous-crawls) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Deep-Links](search.md#deep-links) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -195,7 +194,7 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |[Rechtschreibkorrektur für Abfrage](search.md#query-spelling-correction) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Vorschläge für Abfragen](search.md#query-suggestions) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Vorschau auf dem Hover](search.md#on-hover-preview) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Bewertungsmodelle](search.md#ranking-models) <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Bewertungsmodelle](search.md#ranking-models) <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Einschränkungen](search.md#refiners) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[RESTful-Abfrage-API/Abfrage-OM](search.md#restful-query-apiquery-om) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Sortieren der Suchergebnisse](search.md#search-results-sorting) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -203,21 +202,21 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |["Diese Liste"-Suchvorgänge](search.md#this-list-searches) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**Sites-Features** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |Kommunikationswebsites  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
-|[Community](social.md#community) <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|[Community](social.md#community) <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Unternehmens-Feed](social.md#company-feed) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |[Browserübergreifende Unterstützung](sites-servicedesc.md#cross-browser-support) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Benutzerdefinierte verwaltete Pfade](sites-servicedesc.md#custom-managed-paths) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Dokumentbibliotheken  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Steuerung](sites-servicedesc.md#governance) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Hubwebsites  <br/> |Nr.<sup>20</sup> <br/> |Nr.<sup>20</sup> <br/> |Nr.<sup>20</sup> <br/> |Nr.<sup>20</sup> <br/> |Nr.<sup>20</sup> <br/> |Nr.<sup>20</sup> <br/> |Nr.<sup>20</sup> <br/> |Nein  <br/> |Nein  <br/> |
-|Hybrid-App-Startfeld  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Yes<sup>18</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|Hybrid OneDrive für Unternehmen und-Websites  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Yes<sup>18</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|Hubwebsites  <br/> |Nr.<sup>19</sup> <br/> |Nr.<sup>19</sup> <br/> |Nr.<sup>19</sup> <br/> |Nr.<sup>19</sup> <br/> |Nr.<sup>19</sup> <br/> |Nr.<sup>19</sup> <br/> |Nr.<sup>19</sup> <br/> |Nein  <br/> |Nein  <br/> |
+|Hybrid-App-Startfeld  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>17</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|Hybrid OneDrive für Unternehmen und-Websites  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>17</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Skalierbarkeit und Verwaltung umfangreicher Listen](sites-servicedesc.md#large-list-scalability-and-management) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Mobile Konnektivität](sites-servicedesc.md#mobile-connectivity) <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|[Mehrsprachige Benutzeroberfläche](sites-servicedesc.md#multilingual-user-interface) <br/> |Ja<sup>11</sup> <br/> |Ja<sup>11</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |Ja<sup>11</sup> <br/> |Ja<sup>11</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Mobile Konnektivität](sites-servicedesc.md#mobile-connectivity) <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Mehrsprachige Benutzeroberfläche](sites-servicedesc.md#multilingual-user-interface) <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[OOTB-Webparts](sites-servicedesc.md#ootb-web-parts) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[Verwaltung von Berechtigungen](sites-servicedesc.md#permissions-management) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Persönliche Blogs](social.md#personal-blogs) <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Ja<sup>12</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Persönliche Blogs](social.md#personal-blogs) <br/> |Ja<sup>11</sup> <br/> |Ja<sup>11</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |Ja<sup>11</sup> <br/> |Ja<sup>11</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Vorlage für eine Projektwebsite](sites-servicedesc.md#project-site-template) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |[SharePoint-Listen](sites-servicedesc.md#sharepoint-lists) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |SharePoint-Menüband <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -233,26 +232,25 @@ Mithilfe der folgenden Tabelle können Sie ermitteln, ob ein SharePoint-Feature 
 |Yammer-Integration  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |||
 |**Add-Ons** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Zusätzlicher Speicher](add-ons.md#additional-storage) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Azure-apps: Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |Ja<sup>14</sup> <br/> |Ja<sup>14</sup> <br/> |Ja<sup>14</sup> <br/> |Ja<sup>14</sup> <br/> |Ja<sup>14</sup> <br/> |Ja<sup>14</sup> <br/> |Ja<sup>14</sup> <br/> |Nein  <br/> |Nein  <br/> |
+|[Azure-apps: Access Services](add-ons.md#azure-provisioned-apps-access-services) <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |Nein  <br/> |Nein  <br/> |
 |[Azure-gestellte apps: benutzerdefinierter Code in der Azure Lightweight-webrolle (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |
 
-<sup>1</sup> Um die Ordnersynchronisierung verwenden zu können, müssen Sie Office 2013 oder höher (Standard oder Professional) installiert haben oder über ein Office 365-Abonnement verfügen, das Office-Anwendungen umfasst. Pläne für Office 365 Business Essentials, Office 365 Enterprise E1 und Office 365 Education-Pläne umfassen keine Abonnements für Office-Desktopanwendungen. Sie können allerdings die Ordnersynchronisierung verwenden, sofern Sie Office 2013 oder höher installiert haben und einen dieser Pläne abonnieren. <br/>
-<sup>2</sup> Mitarbeiter von First-work haben OneDrive für Unternehmen Funktionalität beschränkt. Erste Mitarbeiter erhalten 2 GB Speicher.<br/> 
-<sup>3</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. <br/>
-<sup>4</sup> da Mitarbeiter von First-work nicht Administratoren sein können, benötigen Mandanten mit First-Mitarbeitern mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können. <br/>
-<sup>5</sup> SharePoint Online Kunden müssen die ﻿kostenlose Rank Model Tuning-app herunterladen und installieren, um Bewertungsmodelle zu erstellen und anzupassen. <br/> 
-<sup>6</sup> Wenn Sie eDiscovery-Features verwenden, gilt die Lizenzierungsanforderung für einen Plan, der dieses Feature zulässt, für alle Endbenutzer, die Teil der eDiscovery-Aktion (suchen, halten, exportieren) sind. <br/>
-<sup>7</sup> authentifiziert SharePoint Online Benutzer auf private Websitesammlungen mit Facetten Navigation zugreifen können. <br/>
-<sup>8</sup> einige Anbieter sind möglicherweise in Ihrem Land/Ihrer Region blockiert. <br/> 
-<sup>9</sup> Freigeben eines Dokuments, einer Bibliothek oder einer Website per e-Mail an eine Person außerhalb Ihrer Organisation. Administratoren können diese Option aktivieren, es wird jedoch eine Warnmeldung angezeigt, die darauf hinweist, dass auf freigegebene Dateien dadurch möglicherweise außerhalb Ihres Landes zugegriffen werden kann. Benutzer, die versuchen, Dateien für Personen außerhalb der Organisation freizugeben, erhalten dieselbe Warnmeldung. <br/>
-<sup>10</sup> Sie können Dokumente in einem beliebigen mobilen Browser anzeigen. Sie müssen die Office Mobile App zum Bearbeiten von Dokumenten installieren. Office Mobile ist derzeit für Windows Phone und Tablets, Android-Mobiltelefone und Tablets, iPhone und iPad verfügbar. <br/>
-<sup>11</sup> Hilfe steht nur in vereinfachtem Chinesisch und auf Englisch zur Verfügung. <br/> 
-<sup>12</sup> Kommentare zu Blogs können nicht hinzugefügt werden. <br/> 
-<sup>13</sup> die Community-Website der Organisation ist verfügbar, die von der öffentlichen Community bereitgestellte Hilfe ist jedoch nicht verfügbar. <br/>
-<sup>14</sup> Access 2010 wird nicht unterstützt. <br/> 
-<sup>15</sup> für Office für das Internet sollten F1-Benutzer Zugriff auf Office für das Internet (Live Tiles) für die Erstellung von Inhalten haben. Es bestehen für sie jedoch Einschränkungen hinsichtlich der kommerziellen mobilen Haupt-Apps. Folgende sind enthalten: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint und Gruppen. Die folgenden sind **nicht** enthalten: Outlook, Word, Excel, PowerPoint und OneNote.<br/> 
-<sup>16</sup> InfoPath-Formulare, die Benutzercode (Sandkasten) enthalten, können nur in InfoPath Rich Client verwendet werden. <br/>
-<sup>17</sup> Visio für den webverbrauch (Ansicht-Funktion) ist kostenlos verfügbar. Für Visio-Funktionen zum Erstellen und Bearbeiten von Webdiensten ist eine Lizenz erforderlich. Weitere Informationen zu Visio für das Internet finden Sie in der [Beschreibung des Webdiensts in Visio](../visio-online-service-description/visio-online-service-description.md).  <br/>
-<sup>18</sup> F1-Benutzer können in einem Hybrid Setup auf SharePoint Server zugreifen, aber Office 365 F1 enthält keine CAL-Rechte für den Zugriff auf den Server; Diese Rechte müssen separat erworben werden. <br/>
-<sup>19</sup> Kundenschlüssel ist in Office 365 Enterprise E5 verfügbar. Mit dem Kundenschlüssel können Sie die Verschlüsselungsschlüssel in Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in den Microsoft-Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Mit dem Kundenschlüssel können Sie Auflagen erfüllen, da Sie die Verschlüsselungsschlüssel steuern, mit denen Office 365 die Daten entschlüsselt. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>20</sup> kommt bald. 
+<sup>1</sup> Mitarbeiter von First-work haben OneDrive für Unternehmen Funktionalitäten beschränkt. Erste Mitarbeiter erhalten 2 GB Speicher.<br/> 
+<sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Für einige Features von Azure Information Protection ist ein Abonnement von Office 365 ProPlus erforderlich, das nicht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education oder Office 365 Enterprise F1 enthalten ist. <br/>
+<sup>3</sup> da Mitarbeiter von First-work nicht Administratoren sein können, benötigen Mandanten mit First-Mitarbeitern mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können. <br/>
+<sup>4</sup> SharePoint Online Kunden müssen die ﻿kostenlose Rank Model Tuning-app herunterladen und installieren, um Bewertungsmodelle zu erstellen und anzupassen. <br/> 
+<sup>5</sup> Wenn Sie eDiscovery-Features verwenden, gilt die Lizenzierungsanforderung für einen Plan, der dieses Feature zulässt, für alle Endbenutzer, die Teil der eDiscovery-Aktion (suchen, halten, exportieren) sind. <br/>
+<sup>6</sup> Authentifizierte SharePoint Online-Benutzer können auf private Websitesammlungen mit Facettennavigation zugreifen. <br/>
+<sup>7</sup> Einige Anbieter wurden möglicherweise in Ihrem Land/Ihrer Region blockiert. <br/> 
+<sup>8</sup> Freigeben von Dokumenten, Bibliotheken oder Websites per E-Mail für Personen außerhalb Ihrer Organisation. Administratoren können diese Option aktivieren, es wird jedoch eine Warnmeldung angezeigt, die darauf hinweist, dass auf freigegebene Dateien dadurch möglicherweise außerhalb Ihres Landes zugegriffen werden kann. Benutzer, die versuchen, Dateien für Personen außerhalb der Organisation freizugeben, erhalten dieselbe Warnmeldung. <br/>
+<sup>9</sup> Die Dokumente können in einem beliebigen mobilen Browser angezeigt werden. Sie müssen die Office Mobile App zum Bearbeiten von Dokumenten installieren. Office Mobile ist derzeit für Windows Phone und Tablets, Android-Mobiltelefone und Tablets, iPhone und iPad verfügbar. <br/>
+<sup>10</sup> Hilfe steht nur in vereinfachtem Chinesisch und auf Englisch zur Verfügung. <br/> 
+<sup>11</sup> Kommentare zu Blogs werden nicht hinzugefügt. <br/> 
+<sup>12</sup> Die Community-Website der Organisation ist verfügbar, von der öffentlichen Community bereitgestellte Hilfe ist jedoch nicht verfügbar. <br/>
+<sup>13</sup> Access 2010 wird nicht unterstützt. <br/> 
+<sup>14</sup> für Office für das Internet sollten F1-Benutzer Zugriff auf Office für das Internet (Live Tiles) für die Erstellung von Inhalten haben. Es bestehen für sie jedoch Einschränkungen hinsichtlich der kommerziellen mobilen Haupt-Apps. Folgende sind enthalten: Yammer, StaffHub, Microsoft Teams, Skype for Business, SharePoint und Gruppen. Die folgenden sind **nicht** enthalten: Outlook, Word, Excel, PowerPoint und OneNote.<br/> 
+<sup>15</sup> InfoPath-Formulare, die Benutzercode (Sandkasten) enthalten, können nur in InfoPath Rich Client verwendet werden. <br/>
+<sup>16</sup> Visio für den webverbrauch (Ansicht-Funktion) ist kostenlos verfügbar. Für Visio-Funktionen zum Erstellen und Bearbeiten von Webdiensten ist eine Lizenz erforderlich. Weitere Informationen zu Visio für das Internet finden Sie in der [Beschreibung des Webdiensts in Visio](../visio-online-service-description/visio-online-service-description.md).  <br/>
+<sup>17</sup> F1-Benutzer können in einem Hybrid Setup auf SharePoint Server zugreifen, aber Office 365 F1 enthält keine CAL-Rechte für den Zugriff auf den Server; Diese Rechte müssen separat erworben werden. <br/>
+<sup>18</sup> Kundenschlüssel ist in Office 365 Enterprise E5 verfügbar. Mit dem Kundenschlüssel können Sie die Verschlüsselungsschlüssel in Ihrer Organisation steuern und dann Office 365 konfigurieren, um Ihre Daten im Ruhezustand in den Microsoft-Rechenzentren zu verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Mit dem Kundenschlüssel können Sie Auflagen erfüllen, da Sie die Verschlüsselungsschlüssel steuern, mit denen Office 365 die Daten entschlüsselt. Weitere Informationen finden Sie unter [Kontrolle über Daten in Office 365 mithilfe von Kundenschlüsseln](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
+<sup>19</sup> kommt bald.
