@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar. '
-ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
+ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262546"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40003960"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
 
@@ -98,8 +98,15 @@ Darüber hinaus werden nicht-gcc hohe e-Mail-Adressen, die an Benutzerprofile an
   
 ### <a name="skype-for-business-online"></a>Skype for Business Online
 
- **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
-  
+ **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+
+**Telefonsystem und Audiokonferenzen (über direktes Routing)**: Telefonsystem und Audiokonferenzen für gcc High-und DoD-Umgebungen werden über Direct Routing zugestellt. Weitere Informationen finden Sie in der Dokumentation zum Service Level hier:
+
+- [Telefon System über direktes Routing](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
+- [Audiokonferenzen mit direktem Routing für gcc High und DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+
 ### <a name="identity"></a>Identität
 
 Die mehrstufige Authentifizierung unter Verwendung eines Identitätsmodells ermöglicht die Verwendung von PIV- und CAC-Karten.
