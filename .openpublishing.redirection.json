@@ -4,11 +4,76 @@
       "source_path": "office365-ServiceDescriptions/microsoft-365-business-service-description.md",
       "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description",
       "redirect_document_id": true
-   },
-   {
-    "source_path": "office365-ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md",
-    "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance",
-    "redirect_document_id": true
-   }
- ] 
+    },
+    {
+      "source_path": "office365-ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/exchange-online-archiving-service-description/index.md",
+      "redirect_url": "exchange-online-archiving-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/exchange-online-protection-service-description/index.md",
+      "redirect_url": "exchange-online-protection-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/exchange-online-service-description/index.md",
+      "redirect_url": "exchange-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/index.md",
+      "redirect_url": "office-365-service-descriptions-technet-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/office-365-platform-service-description/index.md",
+      "redirect_url": "office-365-platform-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/office-365-platform-service-description/office-365-us-government/index.md",
+      "redirect_url": "office-365-us-government",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/office-applications-service-description/index.md",
+      "redirect_url": "office-applications-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/office-online-service-description/index.md",
+      "redirect_url": "office-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/project-online-service-description/index.md",
+      "redirect_url": "project-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/index.md",
+      "redirect_url": "sharepoint-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/skype-for-business-online-service-description/index.md",
+      "redirect_url": "skype-for-business-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/visio-online-service-description/index.md",
+      "redirect_url": "visio-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/yammer-service-description/index.md",
+      "redirect_url": "yammer-service-description",
+      "redirect_document_id": false
+    }
+  ]
 }
