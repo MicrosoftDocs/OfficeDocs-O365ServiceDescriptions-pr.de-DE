@@ -1,5 +1,5 @@
 ---
-title: Microsoft Project-Dienstbeschreibung
+title: Microsoft Project – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263419"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614824"
 ---
-# <a name="microsoft-project-service-description"></a>Microsoft Project-Dienstbeschreibung
+# <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
 ## <a name="overview"></a>Übersicht
 
@@ -247,6 +247,11 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 
 ## <a name="service-considerations"></a>Dienst Überlegungen
 
+> [!NOTE]
+> - Frankreich und Südkorea- &ndash; Projekt für das Internet ist derzeit nicht verfügbar. Wir arbeiten an der Bereitstellung von Project für das Internet in Ihrer Region und informieren Sie über die unten angegebenen Kommunikationskanäle über die Verfügbarkeit.
+> - Education &ndash; -Projekt für das Internet kommt bald zu unseren Bildungskunden. Ein genauer Zeitrahmen ist ausstehend.
+> - Gcc, gcc High, DoD &ndash; derzeit ist Project für das Internet für gcc, gcc High und DoD nicht verfügbar. Wir arbeiten an der Bereitstellung des Projekts für das Internet, können jedoch derzeit keinen festen Zeitrahmen freigeben.
+
 ### <a name="licensing-considerations"></a>Hinweise zur Lizenzierung
 
 - Für alle Interaktionen auf einer Project Online Website ist ein Project Plan 3-oder Project Plan 5-Abonnement erforderlich.
@@ -283,7 +288,7 @@ Project für das Internet weist einige Einschränkungen auf, die in der folgende
 |Max. Dauer des Sammelvorgangs | 3650 Tage (10 Jahre) |
 |Max. Ressourcen, die einem Vorgang zugewiesen werden können | 20 Ressourcen |
 |Unterstützter Datumsbereich für Vorgang | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Projekt** ||
 |Max. Gesamtzahl der Vorgänge für das Projekt | 500 |
 |Max. Gesamtdauer des Projekts | 3650 Tage (10 Jahre) |
 |Max. Gesamtressourcen für das Projekt | 150 |
