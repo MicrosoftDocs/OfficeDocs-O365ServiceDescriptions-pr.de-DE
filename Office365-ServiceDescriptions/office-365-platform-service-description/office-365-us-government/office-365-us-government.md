@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Abschnitt enthält eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diesen zusätzlichen Abschnitt neben den Beschreibungen der Office 365-Dienste zu lesen.
-ms.openlocfilehash: ca251b876b2cc69d1f35524471e089003e71c4de
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 836f7aae584d4a878acaeddc068beff9a08131e8
+ms.sourcegitcommit: 08b15860a56f5c9fbf61fca54b0b2878bb9f9956
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614834"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "40749411"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -357,7 +357,7 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |Power Query für Excel  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
 |Power View für Excel  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
 |Roaming-Einstellungen  <br/> |Nein  <br/> |Ja<sup></sup> <br/> |Ja<sup></sup> <br/> |Nein  <br/> |
-|Aktivierung gemeinsam genutzter Computer  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
+|Aktivierung gemeinsam genutzter Computer  <br/> |Ja  <br/> |Ja <br/> |Ja <br/> |Ja  <br/> |
 |Unterstützung für das Blockieren von Cloud-basierten Dateispeichern  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Versionsupgrades  <br/> |Nein  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Nein  <br/> |
 |Volume activation (KMS/MAK)  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
