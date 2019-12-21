@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0a94e61fb7721861df57c72bb52f71b25848ba85
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 065154bb8447bbe38f5cd8319fea4fdc6883cb70
+ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262758"
+ms.lasthandoff: 12/21/2019
+ms.locfileid: "40840244"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -30,10 +30,15 @@ Microsoft Outlook ist ein E-Mail-Programm, das Unterstützung für Kalender, Kon
 
 - **Exchange-Cache-Modus** Das Feature für den Exchange-Cache-Modus ermöglicht Outlook-Benutzern den Zugriff auf lokale Kopien Ihrer Exchange Online Postfächer, wenn Sie nicht mit dem Internet verbunden sind. Der Exchange-Cache-Modus behält eine clientseitige Kopie der Exchange-Benutzerpostfächer in Outlook bei und synchronisiert diese Kopie automatisch mit dem E-Mail-Server. Es empfiehlt sich, Outlook im Exchange-Cache-Modus zu verwenden, da auf diese Weise Offlinezugriff bereitgestellt und auch dann Reaktionsfähigkeit ermöglicht wird, wenn zwischen dem Client und dem Server keine idealen die Netzwerkbedingungen bestehen. 
 
-Outlook-Zugriff ist standardmäßig für alle Benutzer aktiviert. Über Windows PowerShell können Administratoren den Zugriff für bestimmte Benutzer oder Gruppen deaktivieren. Es empfiehlt sich, die neueste Version von Outlook - mit Installation des neuesten Service Packs - für den Zugriff auf Exchange Online zu verwenden. 
+Outlook-Zugriff ist standardmäßig für alle Benutzer aktiviert. Über Windows PowerShell können Administratoren den Zugriff für bestimmte Benutzer oder Gruppen deaktivieren. Es empfiehlt sich, die neueste Version von Outlook – mit Installation des neuesten Service Packs – für den Zugriff auf Exchange Online zu verwenden. 
   
-Informationen zu den in Exchange 2016 und Exchange Online unterstützten Outlook-Clients finden Sie im Abschnitt „Unterstützte Clients" unter [Exchange 2016 - Systemanforderungen](https://go.microsoft.com/fwlink/?LinkID=828972).
-  
+Informationen dazu, welche Outlook-Clients von Exchange 2016 und Exchange Online unterstützt werden, finden Sie unter [System Requirements for Office](https://products.office.com/office-system-requirements). 
+
+Office 365 wurde für die Verwendung der neuesten Browser und Versionen von Office entwickelt. Wenn Sie ältere Browser und Office-Versionen verwenden, die nicht im Mainstream-Support unterstützt werden:
+
+- Microsoft hindert Sie nicht absichtlich daran, eine Verbindung mit dem Dienst herzustellen, aber die Qualität Ihrer Office 365 Erfahrung kann sich im Laufe der Zeit verringern.
+- Microsoft stellt keine Softwareupdates bereit, um nicht sicherheitsrelevante Probleme zu beheben.
+
 > [!IMPORTANT]
 >  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft Office Pro Plus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie mit Pop eine Verbindung mit einem Exchange Online e-Mail-Konto herstellen: #a0 keine Kalenderinformationen #a1 keine Frei/Gebucht-Informationen #a2 keine globale Adressliste #a3 keine Push-e-Mail-> beim Verbinden über Pop werden alle Nachrichten auf den Client heruntergeladen, und es wird keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon 
   
