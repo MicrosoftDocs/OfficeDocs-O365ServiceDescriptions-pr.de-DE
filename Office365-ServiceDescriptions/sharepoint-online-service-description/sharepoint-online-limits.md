@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: 5a75e3b8f51feb6b6dc7318355b09e3e3cc4909f
-ms.sourcegitcommit: fcfec093e77bafd9940d94c8c3439b2fa3e007f8
+ms.openlocfilehash: acf9731e4515a345f0cc9e0ac676c5ac8ed13ed4
+ms.sourcegitcommit: 3417565ac5e101726865f3f6cfb8d13317350693
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2019
-ms.locfileid: "37932009"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40952036"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Beschränkungen
 
@@ -25,7 +25,7 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 Business Essentials oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint Online Plan 1 oder 2** <br/> | **Office 365 Enterprise F1** <br/> |
-|Gesamtspeicher pro Organisation<sup>1, 2</sup> <br/> |1 TB plus 10 GB pro erworbener Lizenz  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
+|Gesamtspeicher pro Organisation<sup>1, 2, 6</sup> <br/> |1 TB plus 10 GB pro erworbener Lizenz  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Max Storage pro Websitesammlung<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Websitesammlungen pro Organisation  <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<br/> |
 |Anzahl der Benutzer  <br/> |Bis zu 300  <br/> |1-500.000<sup>7</sup> <br/> |1-500.000<sup>7</sup> <br/> |
