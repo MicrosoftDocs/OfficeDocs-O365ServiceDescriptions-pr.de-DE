@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: In den folgenden Abschnitten werden die Archivfunktionen Microsoft Exchange Online Archivierung beschrieben.
-ms.openlocfilehash: 9cf2084f947e20f02c40c1bd5e7485d10bcb6416
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260500"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987577"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Archivfunktionen in Exchange Online Archivierung
 
@@ -33,7 +33,7 @@ Administratoren können die Archivfunktion mithilfe des Exchange Admin Center (E
   
 > [!IMPORTANT]
 >  Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung zu Exchange Online-Archivierung zu kopieren. <br/>
->  Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung dann zu verweigern, wenn das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer verwendet wird. 
+>  Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, eine unbegrenzte Archivierung in Fällen zu verweigern, in denen das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer oder in anderen Fällen ungeeigneter Verwendung verwendet wird.
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Verschieben von Nachrichten zur Exchange Online-Archivierung
 

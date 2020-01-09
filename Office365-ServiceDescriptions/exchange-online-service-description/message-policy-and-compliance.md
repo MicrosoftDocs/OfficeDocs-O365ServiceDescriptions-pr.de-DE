@@ -1,5 +1,5 @@
 ---
-title: Nachrichten Richtlinie und-Kompatibilität
+title: Messagingrichtlinie und -einhaltung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 88b02766477284ff46f69a6cedb2468ff08ff1b1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 03f282d6458c763fc362d2ea680d12f4cf5e2861
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262578"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987627"
 ---
-# <a name="message-policy-and-compliance"></a>Nachrichten Richtlinie und-Kompatibilität
+# <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archivieren von Exchange Online-basierten Postfächern
 
@@ -43,7 +43,7 @@ Weitere Informationen finden Sie unter:
 In einem persönlichen Archiv können nur die Nachrichtendaten eines Benutzers gespeichert werden. Die Zuweisung von Speicher hängt vom jeweiligen Abonnementplan ab. Weitere Informationen zur Größe von archivpostfächern finden Sie im Abschnitt "Speichergrenzwerte für Postfächer" in [Exchange Online Grenzwerte](exchange-online-limits.md).
   
 > [!IMPORTANT]
-> - Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung in Fällen zu verweigern, in denen ein Postfacharchiv nicht in einem persönlichen Szenario verwendet wird. 
+> - Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, eine unbegrenzte Archivierung in Fällen zu verweigern, in denen ein Post Fach Archiv nicht in einem persönlichen Szenario oder in anderen Fällen ungeeigneter Verwendung verwendet wird.
 > - Das Compliance-Archiv hat spezielle Lizenzierungsanforderungen für Outlook-Benutzer. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das persönliche Archiv zugreifen zu können. 
 > - Exchange Online unterstützt das Cmdlet _New-MailboxImportRequest_ Windows PowerShell von Exchange Server 2010 Service Pack 1 oder höher für den Administrator gesteuerten Import von PST-Dateien in ein persönliches Archiv nicht. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren.
 

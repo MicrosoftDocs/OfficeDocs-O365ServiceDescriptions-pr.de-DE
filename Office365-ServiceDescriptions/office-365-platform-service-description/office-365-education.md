@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste&mdash;der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und&mdash;Microsoft Skype for Business Online, damit Benutzer von praktisch überall über das Internet produktiv sein können.
-ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263036"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987647"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -69,7 +69,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 |**[Office 365-Verwaltungsfeatures](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Features der Office 365 Suite](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Funktionen der Office 365-Suite](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft-Briefing-e-Mail<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Flow  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -112,7 +112,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 |Verwenden eines anderen Anbieters für E-Mails und Chat  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Überprüfung des Domänenbesitzes erforderlich für benutzerdefinierte Domänen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Dienststatus und Kontinuität](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Status der einzelnen Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |RSS-Feed **Dienststatus**  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -146,7 +146,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 |Senden von Benachrichtigungen an das Nachrichtencenter, wenn Aktion erforderlich  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Roadmap.office.com für einige Dienst- Updates  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Option zum Aktivieren des Zielrelease  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Hilfe und Schulung](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Hilfe und Schulungen](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Onlinehilfe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Community  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Weitere Selbsthilferessourcen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -177,7 +177,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 |Erstellen von Einladungen und Bestellungen zu Testzwecken für einen Kunden, der den angegebenen Plan verwendet  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Bereitstellen delegierter Administration  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Vereinbarung zum Servicelevel](service-level-agreement.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Produkt Nutzungsrechte](product-use-rights.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|**[Produktnutzungsrechte](product-use-rights.md)** <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Office 365 bietet keine Unterstützung für Betriebssysteme, die nicht von Ihrem Hersteller unterstützt werden.<br/> 
@@ -324,7 +324,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |Rollenbasierte Berechtigungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Rollengruppen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Rollenzuweisungsrichtlinien  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Nachrichten Richtlinie und-Kompatibilität](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Archivieren von Exchange Online-basierten Postfächern  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Cloudbasierte Archivierung von lokalen Postfächern  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Aufbewahrungstags für Messaging-Datensatzverwaltung (MRM) und Aufbewahrungsrichtlinien  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -338,7 +338,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |Transportregeln  <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |
 |Data loss prevention  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Journale  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Anti-Spam und Schutz vor Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Schutz vor Spam und Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Integrierter Antispamschutz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Customize anti-spam policies  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Integrierter Antischadsoftwareschutz  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |
@@ -373,7 +373,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |Konferenzraumverwaltung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Abwesenheitsantworten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Kalenderfreigabe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Berichtsfeatures und Tools zur Problembehandlung](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Berichterstellungsfeatures und Tools zur Problembehandlung](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft 365 Admin Center-Berichte  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Excel-Berichtsarbeitsmappe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Webdienste-Berichte  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -394,7 +394,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |POP und IMAP  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |SMTP  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unterstützung für EWS-Anwendungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Sprachnachrichten Dienste](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Sprachnachrichtendienste](../exchange-online-service-description/voice-message-services.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Voicemail  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Integration von Voicemail und Fax eines Drittanbieters  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Interoperabilität von Voicemails eines Drittanbieters  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -409,7 +409,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |SharePoint-Interoperabilität  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unterstützung für EWS-Konnektivität  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unterstützung für SMTP-Relay  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|**[Exchange Online-Setup und-Verwaltung](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Einrichtung und Verwaltung in Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Zugriff auf das Microsoft Office 365-Portal  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft 365 Admin Center-Zugriff  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Zugriff auf die Exchange-Verwaltungskonsole  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -498,7 +498,7 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
 Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und Abonnementlizenz des Benutzers. Administratoren können die maximale Postfachgröße pro Benutzer oder global reduzieren.
   
 > [!NOTE]
-> Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, die uneingeschränkte Archivierung dann zu verweigern, wenn das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer verwendet wird. 
+> Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, eine unbegrenzte Archivierung in Fällen zu verweigern, in denen das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer oder in anderen Fällen ungeeigneter Verwendung verwendet wird.
   
 |||||
 |:-----|:-----|:-----|:-----|
