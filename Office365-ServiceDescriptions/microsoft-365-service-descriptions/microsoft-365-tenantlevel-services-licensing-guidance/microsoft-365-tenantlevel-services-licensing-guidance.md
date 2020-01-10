@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-Dienste für die Lizenzierung auf Mandantenebene
+title: Microsoft 365-Dienste auf Mandantenebene – Leitfaden zur Lizenzierung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365-Diensten auf Mandantenebene, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890493"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000865"
 ---
-# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365-Dienste für die Lizenzierung auf Mandantenebene
+# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365-Dienste auf Mandantenebene – Leitfaden zur Lizenzierung
 
 Für die Zwecke dieses Artikels handelt es sich bei einem Dienst auf Mandantenebene um einen&mdash;Onlinedienst, der beim Kauf für einen beliebigen Benutzer im Mandanten (eigenständig oder als Teil von&mdash;Office 365-oder Microsoft 365-Plänen) für alle Benutzer im Mandanten vollständig aktiviert wird. Auch wenn einige nicht lizenzierte Benutzer technisch möglicherweise auf den Dienst zugreifen können, ist eine Lizenz für jeden Benutzer erforderlich, den Sie vom Dienst nutzen möchten.
 
@@ -39,7 +39,7 @@ Analysten und Sicherheitsexperten von seepolizisten profitieren von konsolidiert
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind AADIP-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von AADIP finden Sie unter [Aktivieren von Azure Active Directory Identity Protection](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
+Standardmäßig sind AADIP-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zu AADIP finden Sie unter [Was ist Azure Active Directory Identity Protection?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -141,7 +141,7 @@ Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie 
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zum Identifizieren und bekämpfen von Cyber-Bedrohungen bietet und Ihnen die Kontrolle darüber ermöglicht, wie Daten reist&mdash;über eine Cloud-app.
+Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet&mdash;und Ihnen die Steuerung der Datenübertragung über eine Cloud-App ermöglicht.
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
@@ -149,7 +149,7 @@ Lizenzierte Benutzer von MCAS, Enterprise Mobility + Security E5/A5/G5, Microsof
 
 Lizenzierte Benutzer von Azure AD P1 können von den Ermittlungsfunktionen in MCAS profitieren.
 
-Um von den [bedingten Zugriffsfunktionen für App-Steuerelemente](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) in MCAS profitieren zu können, müssen die Benutzer auch für Azure Active Directory P1 lizenziert werden, die in Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5-Sicherheit.
+Um von den [bedingten Zugriffsfunktionen für App-Steuerelemente](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) in MCAS profitieren zu können, müssen die Benutzer auch für Azure Active Directory P1, die in Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5 Security enthalten ist,
 
 Um von der [automatischen Kennzeichnung](https://docs.microsoft.com/cloud-app-security/data-protection-policies)profitieren zu können, müssen die Benutzer für Azure Information Protection P2 lizenziert sein, die in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5 Compliance enthalten ist.
 
@@ -344,7 +344,7 @@ Administratoren können Standorte (Arbeitslasten), eingeschlossene Benutzer und 
 
 Office 365-Nachrichtenverschlüsselung (Office Message Encryption, OME) ist ein Dienst, der auf Azure Rights Management (Azure RMS) aufbaut und mit dem Sie verschlüsselte E-Mails an Personen innerhalb oder außerhalb Ihrer Organisation senden können, unabhängig von der E-Mail-Zieladresse (Gmail, Yahoo! Mail, Outlook.com usw.).
 
-Zum Anzeigen verschlüsselter Nachrichten können Empfänger entweder eine einmalige Kennung abrufen, sich mit einem Microsoft-Konto anmelden oder sich mit einem Geschäfts- oder Schulkonto anmelden, das Office 365 zugeordnet ist. Empfänger können auch verschlüsselte Antworten senden. Sie benötigen kein Office 365-Abonnement, um verschlüsselte Nachrichten anzuzeigen oder verschlüsselte Antworten zu senden.
+Zum Anzeigen verschlüsselter Nachrichten können Empfänger eine einmalige Kennung abrufen, sich mit einem Microsoft-Konto anmelden oder sich mit einem Geschäfts-, Schul- oder Unikonto, das Office 365 zugeordnet ist, anmelden. Empfänger können auch verschlüsselte Antworten senden. Sie benötigen kein Office 365-Abonnement, um verschlüsselte Nachrichten anzuzeigen oder verschlüsselte Antworten zu senden.
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
@@ -361,7 +361,6 @@ Administratoren erstellen und verwalten Office 365 Nachrichten Verschlüsselungs
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 Administratoren sollten Nachrichtenfluss Regeln für Office 365 Nachrichtenverschlüsselung nur für lizenzierte Benutzer anwenden. Weitere Informationen zum Definieren von Nachrichtenfluss Regeln finden Sie unter [Definieren von Nachrichtenfluss Regeln zum Verschlüsseln von e-Mail-Nachrichten in Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
-
 
 ## <a name="office-365-advanced-message-encryption"></a>Erweiterte Office 365-Nachrichtenverschlüsselung
 
@@ -402,3 +401,23 @@ Administratoren erstellen Aufsichtsrichtlinien im Security #a0 Compliance Center
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 Administratoren wählen bestimmte Benutzer oder Gruppen aus, die in eine Aufsichtsrichtlinie eingeschlossen werden sollen. Bei der Auswahl einer Gruppe können Sie auch bestimmte Benutzer in der Gruppe auswählen, die von der Aufsichtsrichtlinie ausgeschlossen werden sollen. Weitere Informationen zur Aufsichtsrichtlinie finden Sie unter [Aufsichtsrichtlinien in Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
+
+## <a name="conditional-access-policies"></a>Richtlinien für bedingten Zugriff
+
+Bedingter Zugriff ist das Tool, das von Azure Active Directory verwendet wird, um Signale zusammenzuführen, Entscheidungen zu treffen und Organisationsrichtlinien durchzusetzen. Der bedingte Zugriff steht im Mittelpunkt der Identitäts gesteuerten Steuerungsebene. Richtlinien für den bedingten Zugriff am einfachsten sind If-Then-Anweisungen. Wenn ein Benutzer auf eine Ressource zugreifen möchte, muss er eine Aktion abschließen. Beispiel: ein Abrechnungs Manager möchte auf die Lohn-und Gehaltsabrechnung zugreifen und muss mehrstufige Authentifizierung für den Zugriff auf die Anwendung ausführen.
+
+### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
+
+Lizenzierte Benutzer von Enterprise Mobility + Security E3/A3/G3, Microsoft 365 F1/E3/A3/G3 und Azure Active Directory Premium-Plan 1 können von bedingten Zugriffsrichtlinien profitieren. Lizenzierte Benutzer von Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security und Azure Active Directory Premium Plan 2 können vom Identitätsschutz (risikobasierte Richtlinien für bedingten Zugriff) profitieren.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
+
+Security Operations Analysten und Sicherheitsexperten profitieren von der Möglichkeit, Organisationsrichtlinien für Benutzer durchzusetzen, sodass Sie bestimmte Kriterien erfüllen müssen, bevor Sie Zugriff auf Unternehmensinhalte gewähren. Endbenutzer profitieren davon, dass Sie jederzeit und überall auf Ihre Arbeit zugreifen können, während Sie die Ressourcen des Unternehmens schützen.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
+
+Standardmäßig sind die Funktionen für bedingten Zugriff auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
+
+Für den Identitätsschutz und den bedingten Zugriff muss ein Benutzer in einer Gruppe enthalten sein oder einer Richtlinie für bedingten Zugriff hinzugefügt werden. Die Bedingung "Benutzer und Gruppen" ist in einer Richtlinie für den bedingten Zugriff obligatorisch. In Ihrer Richtlinie können Sie entweder **alle Benutzer** oder bestimmte Benutzer und Gruppen auswählen. Sie sollten nur entsprechend lizenzierte Benutzer und Gruppen auswählen. Weitere Informationen finden Sie unter [Was sind Bedingungen in Azure Active Directory bedingter Zugriff?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
