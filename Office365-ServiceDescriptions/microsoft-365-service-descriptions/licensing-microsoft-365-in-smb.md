@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business ist das beste Angebot von Microsoft für kleine und mittelständische Geschäftskunden. Microsoft 365 Business ist eine integrierte Lösung, die Office 365 Produktivität, erweiterte Sicherheit und Geräteverwaltung vereint.
-ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
-ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
+ms.openlocfilehash: 70e649c0aa66390e3e84da2ff517bfef9a5dbc8f
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38755473"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216464"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
 
@@ -31,7 +31,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**E-Mail #a0 Kalender** | Outlook, Exchange Online| 50 GB | 50 GB |
 |**Hub für Teamarbeit** | Chat basierter Arbeitsbereich, Onlinebesprechungen und mehr in Microsoft Teams | Ja |Ja |
 |**Dateispeicher** | OneDrive for Business  | 1 TB pro Benutzer | 1 TB pro Benutzer |
-|**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online, PowerApps, Microsoft Flow | Ja | Ja |
+|**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online, PowerApps, Power Automation | Ja | Ja |
 |**Business-Apps** | Planen von &ndash; apps Buchungen<sup>1</sup> | Ja | Ja |
 |   | Business- &ndash; apps MileIQ<sup>1</sup> | Ja | Ja |
 |**Bedrohungsschutz** | Office 365 Advanced Threat Protection | Nein | Ja |
@@ -42,7 +42,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |   | Aktivierung gemeinsam genutzter Computer | Nein | Ja |
 |   | Windows Autopilot, Windows pro-Verwaltung | Nein | Ja |
 |   | Aktualisieren von Berechtigungen für Windows 10 pro für Win 7/8.1 pro-Lizenzen | Nein | Ja |
-|   | Virtueller Windows-Desktop | Nein | Ja |
+|   | Windows Virtual Desktop | Nein | Ja |
 |**Informationsschutz** | Office 365 Verhinderung von Datenverlust | Nein | Ja |
 |   | Azure Information Protection Plan 1, BitLocker-Erzwingung | Nein | Ja |
 |**Compliance** | Unbegrenzte e-Mail-Archivierung<sup>2</sup> | Nein | Ja |
@@ -59,10 +59,10 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |---|---------------|-------------------|----------------------------|
 |**Verfügbare Lizenzen** | Maximale Anzahl von Benutzern | Unbegrenzt | 300 |
 |**Office-Apps** | Installieren von Office auf bis zu 5 PCs/Macs + 5 Tablets + 5 Smartphones pro Benutzer (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
-|**E-Mail #a0 Kalender** | Outlook, Exchange Online | 100 GB | 50 GB |
+|**E-Mail #a0 Kalender** | Outlook, Exchange Online | 100 GB | 50 GB |
 |**Hub für Teamarbeit** | Chat basierter Arbeitsbereich, Onlinebesprechungen und mehr in Microsoft Teams | Ja | Ja |
 |**Dateispeicher** | OneDrive for Business | Unbegrenzt | 1 TB pro Benutzer |
-|**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Ja | Ja |
+|**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automation<sup>1</sup> | Ja | Ja |
 |**Business-Apps** | Planen von &ndash; apps Buchungen<sup>2</sup> | Ja | Ja |
 |   | Business- &ndash; apps MileIQ<sup>2</sup> | Nein | Ja |
 |**Bedrohungsschutz** | Office 365 Advanced Threat Protection | Nein | Ja |
@@ -72,7 +72,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Geräte #a0-App-Verwaltung** | Microsoft InTune, Windows Autopilot, Windows pro-Verwaltung | Nein | Ja |
 |   | Aktivierung gemeinsam genutzter Computer | Ja | Ja |
 |   | Aktualisieren von Rechten auf Windows 10 pro für Win 7/8.1 pro | Nein | Ja |
-|   | Virtueller Windows-Desktop | Nein | Ja |
+|   | Windows Virtual Desktop | Nein | Ja |
 |**Schutz von Daten** | Office 365 Verhinderung von Datenverlust | Ja | Ja |
 |   | Azure Information Protection Plan 1, BitLocker-Erzwingung | Nein | Ja |
 |**Lokale Cal-Rechte** | ECAL-Suite (Exchange, SharePoint, Skype) | Ja | Nein |
@@ -95,7 +95,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**E-Mail #a0 Kalender** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
 |**Hub für Teamarbeit** | Chat basierter Arbeitsbereich, Onlinebesprechungen und mehr in Microsoft Teams | Ja | Ja | Ja |
 |**Dateispeicher** | OneDrive for Business | 1 TB pro Benutzer | 1 TB pro Benutzer | Unbegrenzt |
-|**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Ja | Ja | Ja |
+|**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automation<sup>1</sup> | Ja | Ja | Ja |
 |**Business-Apps** | Planen von &ndash; apps Buchungen<sup>2</sup> | Ja | Ja | Ja |
 |   | Business- &ndash; apps MileIQ<sup>2</sup> | Ja | Ja | Nein |
 |**Bedrohungsschutz** | Office 365 Advanced Threat Protection | Nein | Ja | Nein |
@@ -105,7 +105,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Geräte #a0-App-Verwaltung** | Microsoft InTune, Windows Autopilot, Windows pro-Verwaltung | Nein | Ja | Nein |
 |   | Aktivierung gemeinsam genutzter Computer | Nein | Ja | Ja |
 |   | Aktualisieren von Berechtigungen für Windows 10 pro für Win 7/8.1 pro-Lizenzen | Nein | Ja | Nein |
-|   | Virtueller Windows-Desktop | Nein | Ja | Nein |
+|   | Windows Virtual Desktop | Nein | Ja | Nein |
 |**Schutz von Daten**  | Office 365 Verhinderung von Datenverlust | Nein | Ja | Ja |
 |   | Azure Information Protection Plan 1, BitLocker-Erzwingung | Nein | Ja | Nein |
 |**Lokale Cal-Rechte** | ECAL-Suite (Exchange, SharePoint, Skype) | Nein | Nein | Ja |
@@ -144,13 +144,13 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |   | Microsoft Desktop Optimization Pack, VDA | Nein | Nein | Ja | Ja |
 | **Schutz von Daten** | Office 365 Verhinderung von Datenverlust, Azure Information Protection-Plan 1 | Nein | Ja | Ja | Ja |
 |   | Azure Information Protection-Plan 2, Microsoft Cloud-App-Sicherheit, Office 365 Cloud-App-Sicherheit | Nein | Nein | Nein | Ja |
-|**Lokale Cal-Rechte** | ECAL Suite (Exchange, SharePoint, Skype, Windows, SCCM, Windows Rights Management) | Nein | Nein | Ja | Ja |
+|**Lokale Cal-Rechte** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | Nein | Nein | Ja | Ja |
 |**Compliance** | Unbegrenzte e-Mail-Archivierung<sup>2</sup> | Nein | Ja | Ja | Ja |
 |   | Advanced eDiscovery, Customer Lockbox, Advanced Data Governance | Nein | Nein | Nein | Ja |
 |**Analysen** | Power BI Pro, MyAnalytics | Nein | Nein | Nein | Ja |
 | | Einblicke von myAnalytics | Ja | Ja | Ja | Ja |
 |**Assistance** | Briefing e-Mail | Ja | Ja | Ja | Ja |
-|**Stimme** | PSTN-Konferenzen, Cloud-PBX | Nein | Nein | Nein | Ja |
+|**VoIP** | PSTN-Konferenzen, Cloud-PBX | Nein | Nein | Nein | Ja |
 
 **Notes**
 

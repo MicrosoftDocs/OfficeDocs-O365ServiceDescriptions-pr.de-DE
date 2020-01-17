@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben.
-ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 3ef3e018d8768fe63239a83c9aeb20d0b4fb3098
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810804"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216634"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business – Dienstbeschreibung
 
@@ -39,7 +39,7 @@ Microsoft 365 Business umfasst die folgenden Azure AD Premium P1-Funktionen: Sel
 |[Office-Anwendungen](../office-applications-service-description/office-applications-service-description.md)  <br/> |Ja  <br/> |Ja  <br/> |
 |Yammer Enterprise  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Bookings  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Flow  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft Power Automation  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Forms  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Planner  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft PowerApps  <br/> |Ja  <br/> |Ja  <br/> |
@@ -62,7 +62,7 @@ Microsoft 365 Business umfasst die folgenden Azure AD Premium P1-Funktionen: Sel
 |Office 365 Advanced Threat Protection-Plan 1 <br/> |Nein  <br/> |Ja<sup>7</sup> <br/> |
 |Sicheres Ergebnis<sup>4</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365 Advanced Threat Protection Plan 2 <br/> |Nein  <br/> |Nein <br/> |
-|[Identitäts- und Zugriffsverwaltung](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 Business umfasst Select Azure AD Premium P1 (AADP P1)-Features. Enthält nicht die Gesamtheit von AADP1. <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Identitäts-und Zugriffsverwaltung](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 Business umfasst Select Azure AD Premium P1 (AADP P1)-Features. Enthält nicht die Gesamtheit von AADP1. <sup>8</sup> <br/>|**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Administrative Einheiten  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Cloud App Discovery  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
@@ -89,7 +89,7 @@ Microsoft 365 Business umfasst die folgenden Azure AD Premium P1-Funktionen: Sel
 |Bereitstellen von Geräteprofilen und Sicherheitskonfiguration<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Enterprise State Roaming für Windows 10 mit Azure AD-Verknüpfung  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Self-Service-BitLocker-Wiederherstellung  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Virtueller Windows-Desktop <br/> |Nein <br/> |Ja <br/> |Ja <br/> |
+|Windows Virtual Desktop <br/> |Nein <br/> |Ja <br/> |Ja <br/> |
 
 |||
 |:-----|:-----|
@@ -108,7 +108,7 @@ Microsoft 365 Business umfasst die folgenden Azure AD Premium P1-Funktionen: Sel
 |Ordner vor Bedrohungen wie Ransomware schützen <br/> |Ja  <br/> |
 |Schützen von Dateien und Ordnern auf PCs vor nicht autorisiertem Zugriff mit BitLocker <br/> |Ja  <br/> |
 
-### <a name="notes"></a>Anmerkungen
+### <a name="notes"></a>Notes
 <sup>1</sup> enthält Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) aktiviert die unterstützten Funktionen für die Verwaltung von Informationsrechten (Information Rights Management, IRM). AIP-Plan 1 ist in Microsoft 365 Business enthalten. <br/>
 <sup>3</sup> Microsoft 365 Business umfasst Exchange Online Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>

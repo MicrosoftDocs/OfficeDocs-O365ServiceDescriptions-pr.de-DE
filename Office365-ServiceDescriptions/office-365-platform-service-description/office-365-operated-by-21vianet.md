@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5de46f8188a936ceadc36caf1cf76c2a4eb4bab7
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263066"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216624"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -80,10 +80,10 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Schützen von Inhalten mit Azure Information Protection|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Manuelle Übersetzung von Nachrichten Center-Beiträgen über maschinelle Übersetzung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Features der Office 365 Suite](office-365-suite-features.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Funktionen der Office 365-Suite](office-365-suite-features.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Microsoft Bookings|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
 |Microsoft Briefing-e-Mail|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
-|Microsoft Flow|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Microsoft Power Automation|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Forms|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft MyAnalytics|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Planner|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -124,7 +124,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Mehrere öffentliche SharePoint Online-Websites mit benutzerdefinierten Domänennamen hosten<sup>5</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Überprüfung des Domänenbesitzes erforderlich für benutzerdefinierte Domänen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Dienststatus und Kontinuität](service-health-and-continuity.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Status der einzelnen Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |RSS-Feed **Dienststatus**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -158,7 +158,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |An das Nachrichten Center gesendete Benachrichtigungen, wenn eine Aktion erforderlich ist, ein Problem wurde behoben, Features werden bereitgestellt oder Ihre Dienständerungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) für einige dienstupdates|Ja|--|Ja|Ja|Ja|Ja|Ja|
 |Option zum Aktivieren des Zielrelease|Nein|--|Nein|Nein|Ja|Ja|Ja|
-|**[Hilfe und Schulung](help-and-training.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Hilfe und Schulungen](help-and-training.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Onlinehilfe|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Community|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Andere Self-Help-Ressourcen<sup>12</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -323,7 +323,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Rollenbasierte Berechtigungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollengruppen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollenzuweisungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|**[Nachrichten Richtlinie und-Kompatibilität](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Archivieren von Exchange Online-basierten Postfächern|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Cloudbasierte Archivierung von lokalen Postfächern|Nein|Nein|Nein|Ja|Nein|Nein|Nein|
 |Aufbewahrungstags und Aufbewahrungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -337,7 +337,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Nachrichtenflussregeln (Transportregeln)|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Anti-Spam und Schutz vor Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Schutz vor Spam und Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|
@@ -372,7 +372,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Konferenzraumverwaltung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Abwesenheitsantworten|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Kalenderfreigabe|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|
-|**[Berichtsfeatures und Tools zur Problembehandlung](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Berichterstellungsfeatures und Tools zur Problembehandlung](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Microsoft 365 Admin Center-Berichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Excel-Berichtsarbeitsmappe|Nein|Ja|Nein|Nein|Ja|Ja|Ja|
 |Webdienste-Berichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -390,7 +390,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |SMTP|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Outlook für Mac|Ja|Ja|Ja|Ja|Ja|Ja| Nein|
-|**[Sprachnachrichten Dienste](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Sprachnachrichtendienste](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Voicemail|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Integration von Voicemail und Fax eines Drittanbieters|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Interoperabilität von Voicemails eines Drittanbieters|Nein|Ja|Nein|Nein|Nein|Nein|Nein|
@@ -405,7 +405,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |SharePoint-Interoperabilität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für EWS-Konnektivität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für SMTP-Relay|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Exchange Online-Setup und-Verwaltung](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Einrichtung und Verwaltung in Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Zugriff auf das Microsoft Office 365-Portal|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Microsoft 365 Admin Center-Zugriff|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Zugriff auf die Exchange-Verwaltungskonsole|Ja|Ja|Ja|Ja|Ja|Ja|Ja|

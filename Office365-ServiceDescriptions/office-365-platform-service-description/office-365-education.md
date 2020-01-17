@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste&mdash;der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und&mdash;Microsoft Skype for Business Online, damit Benutzer von praktisch überall über das Internet produktiv sein können.
-ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: 7e3ad5731e5a0346314617247bc61ed3bc2dc318
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987647"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216524"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -72,7 +72,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 |**[Funktionen der Office 365-Suite](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft-Briefing-e-Mail<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Flow  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft Power Automation  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Forms  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Graph-API  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft MyAnalytics<sup>9</sup>  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
@@ -503,7 +503,7 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Benutzerpostfächer  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Benutzerpostfächer  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |Websitepostfächer<sup>6, 7</sup> <br/> |Unbegrenzt<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Freigegebene Postfächer  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |Ressourcenpostfächer  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
@@ -535,7 +535,7 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
 |**Feature** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Warnung  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
 |Senden verbieten  <br/> |49.5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
-|Senden/Empfangen verbieten  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Senden/Empfangen verbieten  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
    
 #### <a name="mailbox-folder-limits"></a>Begrenzungen für Postfachordner
 

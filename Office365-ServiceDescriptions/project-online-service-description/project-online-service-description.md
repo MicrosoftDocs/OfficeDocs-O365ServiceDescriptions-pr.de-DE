@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614824"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216664"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -27,17 +27,17 @@ ms.locfileid: "40614824"
 
 In Microsoft Project stehen die folgenden Anwendungen zur Verfügung, um die Anforderungen Ihrer Organisation an die Projekt-und Arbeitsverwaltung zu erfüllen:
 
-- Project für das Internet
+- Project für das Web
 - Project Online 
 - Project Online-Desktop Client
 
 Dieser Artikel hilft Ihnen, zu verstehen, welche Anwendungen in jedem Projekt Abonnement bereitgestellt werden und welche Funktionen jede Anwendung bietet.
 
-### <a name="project-for-the-web"></a>Project für das Internet
+### <a name="project-for-the-web"></a>Project für das Web
 
 Project für das Internet ist das neueste Microsoft-Angebot für Cloud-basierte Arbeit und Projektmanagement. Project für das Internet bietet einfache, leistungsstarke Funktionen zur Verwaltung der Arbeit, um die meisten Anforderungen und Rollen zu erfüllen. Projektmanager und Teammitglieder können Project für das Internet verwenden, um Arbeit beliebiger Größe zu planen und zu verwalten.
 
-Project für das Internet ist auf der Microsoft Power-Plattform aufgebaut. Die Power-Plattform besteht aus PowerApps, Microsoft Flow, Power BI und dem Common Data Service (CDs). Das Projekt für die Webdaten wird in CDs gespeichert. 
+Project für das Internet ist auf der Microsoft Power-Plattform aufgebaut. Die Power-Plattform besteht aus PowerApps, Power Automation, Power BI und dem Common Data Service (CDs). Das Projekt für die Webdaten wird in CDs gespeichert. 
 
 Project für das Internet ist über drei Abonnements verfügbar: Projektplan 1, Project Plan 3 und Project Plan 5. Die im Abschnitt [Projekt für Webfunktionen](#project-for-the-web-features) aufgeführten Features interagieren nur mit Daten im Projekt für den Webdaten Speicher.
 
@@ -80,7 +80,7 @@ Microsoft Project steht über drei verschiedene Abonnements zur Verfügung, um d
 
 |Produkt | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project für das Internet |**x**  | **x x** | **x x** |
+|Project für das Web |**x**  | **x x** | **x x** |
 |Project Online | |**x x**| **x x x** |
 |Project Online-Desktop Client | |**x**|**x**|
 
@@ -119,7 +119,7 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt 
 |Mobile Anwendungen | Erstellen Sie benutzerdefinierte Mobile Anwendungen mit PowerApps. <sup>4</sup> |
 |**Anpassung und Integration**||
 |PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile mit PowerApps. <sup>4</sup> |
-|Workflows | Automatisieren und integrieren von Geschäftsprozessen mit Microsoft Flow. <sup>5</sup> |
+|Workflows | Automatisieren und integrieren von Geschäftsprozessen mit Power Automation. <sup>5</sup> |
 |Microsoft Office 365-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Office 365-Tools und-Anwendungen. <sup>1</sup> |
 |**Sicherheit und Benutzerverwaltung**||
 |Moderne Office-Gruppen | Erstellen Sie ein Projektteam, mit dem Sie zusammenarbeiten und eine Sammlung von Ressourcen für Teammitglieder einrichten können, die Sie freigeben möchten.|
@@ -180,7 +180,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Custom fields | Fügen Sie benutzerdefinierte Felder auf Projekt-, Vorgangs-und Ressourcenebene hinzu, um Daten zu verfolgen, die für Ihre Organisation und ihre Projekte wichtig sind. | Ja | Ja |
 |Formeln | Berechnen und Erfassen wichtiger Daten mithilfe von Formeln für Vorgänge und Projekte. | Ja | Ja |
 |PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile (über OData) mit PowerApps. <sup>4</sup> | Ja | Ja |
-|Workflows | Automatisieren und integrieren von Geschäftsprozessen (über OData) mit Microsoft Flow. <sup>5</sup> | Ja | Ja |
+|Workflows | Automatisieren und integrieren von Geschäftsprozessen (über OData) mit Power Automation. <sup>5</sup> | Ja | Ja |
 |Microsoft Office 365-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Office 365-Tools und-Anwendungen. <sup>1</sup> | Ja | Ja |
 |Microsoft Planner-Integration | Verbinden Sie Projektvorgänge mit einem planerplan, und verfolgen Sie detaillierte Arbeit in Planner. <sup>1</sup> | Ja | Ja |
 |**Sicherheit, Benutzer-und Dienstverwaltung**||||
@@ -194,7 +194,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
 <sup>3</sup> die Berichterstellung für Project für das Internet und Project Online ist mit Power BI verfügbar. Das anzeigen, bearbeiten und Erstellen von Berichten erfordert ein Power BI pro-Abonnement. Microsoft stellt eine vordefinierte Gruppe von Power BI-Berichten bereit. Benutzer können diese Berichte anpassen oder zusätzliche Berichte mit Power BI erstellen.</br> 
 <sup>4</sup> das Erstellen von benutzerdefinierten PowerApps-mobilen Anwendungen, die auf Project für die Webdaten zugreifen, erfordert ein PowerApps-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
-<sup>5</sup> das Automatisieren und integrieren von Geschäftsprozessen mit Microsoft Flow mit Project für die Webdaten erfordert ein Microsoft Flow-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
+<sup>5</sup> das Automatisieren und integrieren von Geschäftsprozessen mit Power Automation mit Project für die Webdaten erfordert ein Power automatisieren-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
 <sup>6</sup> Project Online Lizenzierung für externe Benutzer entspricht der Richtlinie für interne Benutzer. Für alle Interaktionen auf einer Project Online Website ist ein Project Plan 3-oder Project Plan 5-Abonnement erforderlich.</br>
 <sup>7</sup> Benutzer mit einem Projektplan 3-oder Project Plan 5-Abonnement können Ressourceneinsatz Anforderungen übermitteln. Sie können keine Ressourceneinsatz Anforderungen überprüfen, erfüllen oder genehmigen.</br>
 <sup>8</sup> Benutzer mit einem Project Plan 5-Abonnement können Ressourceneinsatz Anforderungen überprüfen, erfüllen und genehmigen.</br>
@@ -239,7 +239,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Sortieren und gruppieren | Verwenden Sie benutzerdefinierte Sortierung und Gruppierung, um eine fokussierte Ansicht Ihres Projekts, ihrer Aufgaben und Ressourcen zu erhalten.|
 |**Anpassung und Integration**||
 |Benutzerdefinierte Felder | Fügen Sie benutzerdefinierte Felder auf Projekt-, Vorgangs-und Ressourcenebene hinzu, um Daten zu verfolgen, die für Ihre Organisation und ihre Projekte wichtig sind. |
-|Formulare | Erstellen und Bereitstellen von benutzerdefinierten Formularen zur Erfassung wichtiger Projektdaten. |
+|Forms | Erstellen und Bereitstellen von benutzerdefinierten Formularen zur Erfassung wichtiger Projektdaten. |
 |Formeln | Berechnen und Erfassen wichtiger Daten mithilfe von Formeln für Vorgänge und Projekte. |
 |Vorlagen | Erstellen Sie Vorlagen für allgemeine Projekte, einschließlich Projektpläne, Teams und Zuordnungen. |
 |MPP-Import/-Export | Erstellen Sie neue Projekte aus vorhandenen MPP-Dateien, oder erstellen Sie eine MPP-Datei eines vorhandenen Projekts. |
@@ -263,9 +263,9 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 
 Project Online erfordert die Verwendung von SharePoint Online, die als Teil Project Onlines vorgesehen ist. Rechte an der SharePoint Online Funktionalität, die mit Project Plan 3-oder Project Plan 5-Abonnements bereitgestellt werden, sind auf das Speichern und Zugreifen auf Daten zur Unterstützung von Project Online limitiert.
 
-### <a name="project-roadmap-and-microsoft-flow"></a>Projekt-Roadmap und Microsoft Flow
+### <a name="project-roadmap-and-power-automate"></a>Projekt Roadmap und Power Automation
 
-Für die Projektplanung ist die Verwendung von Microsoft Flow erforderlich, die als Teil Ihres Projekt Abonnements bereitgestellt wird. Die Rechte an Microsoft Flow-Funktionen sind auf die von der Projektplanung benötigten Microsoft Flow-Funktionen limitiert. Die von Project-Roadmap erforderliche Microsoft Flow-Funktionalität wird im Microsoft 365 Admin Center im Abschnitt **apps** als **Daten Integration für Project mit Flow** -Dienstplan angezeigt.
+Für die Projektplanung ist die Verwendung von Power Automation erforderlich, die als Teil Ihres Projekt Abonnements bereitgestellt wird. Power-Automatisierungsfunktionen sind auf die von der Projektplanung benötigten Leistungs Automatisierungsfunktionen limitiert. Power Automation-Funktionen, die für die Projektplanung erforderlich sind, werden als **Daten Integration für Project mit Flow** -Dienstplan im Abschnitt **apps** des Microsoft 365 Admin Center angezeigt.
 
 ### <a name="project-for-the-web-and-common-data-service"></a>Projekt für das Internet und gemeinsamer Datendienst
 

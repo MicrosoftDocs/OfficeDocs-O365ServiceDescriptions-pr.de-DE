@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: acf9731e4515a345f0cc9e0ac676c5ac8ed13ed4
-ms.sourcegitcommit: 3417565ac5e101726865f3f6cfb8d13317350693
+ms.openlocfilehash: c1ece223f90b14c73de6240d042d95701c443c0a
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40952036"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216644"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Beschränkungen
 
@@ -66,7 +66,7 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 
 - **Gehostete SharePoint-Anwendungen** -20.000 Instanzen pro Organisation.
 
-- **Eindeutige Sicherheitsbereiche pro Liste oder Bibliothek** – 5.000. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
+- **Eindeutige Sicherheitsbereiche pro Liste oder Bibliothek** – der erzwungene Grenzwert ist 50.000, der empfohlene allgemeine Grenzwert lautet jedoch 5.000. Oberhalb von 5.000 beginnt die Größe der Zugriffssteuerungsliste (Access Control List, ACL) mit der Materie. Obwohl Sie Bereiche bis zum erzwungenen Grenzwert von 50.000 hinzufügen können, wird Sie von Microsoft nicht empfohlen, es sei denn, Sie haben ein sehr spezielles Szenario im Hinterkopf. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
 
 - **Users** -2 Millionen pro Websitesammlung.
     > [!NOTE]

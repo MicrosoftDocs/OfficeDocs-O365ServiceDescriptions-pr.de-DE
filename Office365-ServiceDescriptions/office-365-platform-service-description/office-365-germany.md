@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a62211889e0b7830f4aa00fec16a0da207e1a654
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263056"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216654"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -75,10 +75,10 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |**[Office 365-Verwaltungsfeatures](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Schutz von Inhalten mit Azure Information Protection|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|Nr.<sup>2</sup>|
-|**[Features der Office 365 Suite](office-365-suite-features.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Funktionen der Office 365-Suite](office-365-suite-features.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Microsoft Bookings|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Briefing-e-Mail|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Microsoft Flow|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Microsoft Power Automation|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Forms|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft MyAnalytics|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Microsoft Planner|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -116,7 +116,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Verwenden eines anderen Anbieters für E-Mails und Chat|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Überprüfung des Domänenbesitzes erforderlich für benutzerdefinierte Domänen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Dienststatus und Kontinuität](service-health-and-continuity.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Status der einzelnen Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |RSS-Feed **Dienststatus**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -149,7 +149,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Senden von Benachrichtigungen an das Nachrichtencenter, wenn Aktion erforderlich|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Roadmap.office.com für einige Dienst- Updates|Ja|--|Ja|Ja|Ja|Ja|Ja|Ja|
 |Option zum Aktivieren des Zielrelease|Ja|--|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Hilfe und Schulung](help-and-training.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Hilfe und Schulungen](help-and-training.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Onlinehilfe|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Community|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Weitere Selbsthilferessourcen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -178,7 +178,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Erstellen von Einladungen und Bestellungen zu Testzwecken für einen Kunden, der den angegebenen Plan verwendet|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Bereitstellen delegierter Administration|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Vereinbarung zum Servicelevel](service-level-agreement.md)**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Produkt Nutzungsrechte](product-use-rights.md)**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|**[Produktnutzungsrechte](product-use-rights.md)**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Deutschland bietet keine Unterstützung für Betriebssysteme, die nicht vom Hersteller unterstützt werden.<br/>
@@ -360,7 +360,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Rollenbasierte Berechtigungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollengruppen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollenzuweisungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|**[Nachrichten Richtlinie und-Kompatibilität](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Archivieren von Exchange Online-basierten Postfächern|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Cloudbasierte Archivierung von lokalen Postfächern|Nein|Nein|Nein|Ja|Ja|Ja|Ja|Nein|
 |Aufbewahrungstags und Aufbewahrungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -374,7 +374,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Nachrichtenflussregeln|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Anti-Spam und Schutz vor Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Schutz vor Spam und Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|
@@ -409,7 +409,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Konferenzraumverwaltung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Abwesenheitsantworten|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Kalenderfreigabe|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Berichtsfeatures und Tools zur Problembehandlung](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Berichterstellungsfeatures und Tools zur Problembehandlung](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Microsoft 365 Admin Center-Berichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Webdienste-Berichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Message trace|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -428,7 +428,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |SMTP|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Outlook für Mac|Ja|Ja|Ja|Ja|Ja|Ja|Ja| Nein|
-|**[Sprachnachrichten Dienste](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Sprachnachrichtendienste](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Voicemail|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Integration von Voicemail und Fax eines Drittanbieters|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Interoperabilität von Voicemails eines Drittanbieters|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -443,7 +443,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |SharePoint-Interoperabilität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für EWS-Konnektivität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für SMTP-Relay|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Exchange Online-Setup und-Verwaltung](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Einrichtung und Verwaltung in Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Zugriff auf das Microsoft Office 365-Portal|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Microsoft 365 Admin Center-Zugriff|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Zugriff auf die Exchange-Verwaltungskonsole|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|

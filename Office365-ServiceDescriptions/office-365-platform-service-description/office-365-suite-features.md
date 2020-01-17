@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263126"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216730"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -39,9 +39,9 @@ Die Briefing-e-Mail hilft Benutzern, jeden Tag optimal zu nutzen:
 
 Die e-Mail-Anweisung wird automatisch allen Benutzern von Exchange Online bereitgestellt. Weitere Informationen finden Sie in der [Übersicht über die Briefing-e-Mail](https://docs.microsoft.com/Briefing/be-overview).
 
-## <a name="microsoft-flow"></a>Microsoft Flow
+## <a name="microsoft-power-automate"></a>Microsoft Power Automation
 
-Mit Microsoft Flow können Sie Workflows über Anwendungen hinweg automatisieren. Sie können Flow verwenden, um E-Mails und Chatwarnungen zu verbinden, Dateien zwischen Anwendungen zu synchronisieren, Dateien von einem Dienst zu einem anderen zu kopieren, Daten aus einer App zu erfassen und sie in einer anderen zu speichern usw. Um Ihnen den Einstieg zu erleichtern, sind Vorlagen verfügbar. Weitere Informationen zu Flow-Funktionen und deren Verwendung finden Sie auf der Microsoft-Website zu [Flow](https://flow.microsoft.com/en-us/).
+Mit Microsoft Power Automation können Sie Workflows anwendungsübergreifend automatisieren. Sie können Flow verwenden, um E-Mails und Chatwarnungen zu verbinden, Dateien zwischen Anwendungen zu synchronisieren, Dateien von einem Dienst zu einem anderen zu kopieren, Daten aus einer App zu erfassen und sie in einer anderen zu speichern usw. Um Ihnen den Einstieg zu erleichtern, sind Vorlagen verfügbar. Weitere Informationen zu Flow-Funktionen und deren Verwendung finden Sie auf der Microsoft-Website zu [Flow](https://flow.microsoft.com/en-us/).
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 

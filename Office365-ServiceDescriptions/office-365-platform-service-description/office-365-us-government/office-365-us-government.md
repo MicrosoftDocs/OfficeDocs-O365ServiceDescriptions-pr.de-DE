@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Abschnitt enthält eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diesen zusätzlichen Abschnitt neben den Beschreibungen der Office 365-Dienste zu lesen.
-ms.openlocfilehash: d305fa31fa63d24b0f42f91f2f82085b0ea375eb
-ms.sourcegitcommit: e80ced3148cb7d281d7270f36380578a8dc21f42
+ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40884330"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216740"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -63,7 +63,7 @@ Office 365 US Government-Dienste werden von Rechenzentren bereitgestellt, die si
   
 - Exchange Online Postfachinhalt (e-Mail-Text, Kalendereinträge und der Inhalt von e-Mail-Anlagen)
     
-- SharePoint Online Websiteinhalt und die Dateien, die auf dieser Website gespeichert sind
+- SharePoint Online-Websiteinhalte und die auf der Website gespeicherten Dateien
     
 - Skype for Business Archivierte Unterhaltungen, hochgeladene Dokumente und Whiteboard-Sitzungen
 
@@ -182,7 +182,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |**[Funktionen der Office 365-Suite](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Briefing-e-Mail  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft Flow  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
+|Microsoft Power Automation  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Ja <br/> |Ja <br/> |Ja<br/> |Ja</sup> <br/> |
 |Microsoft Graph-API  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft MyAnalytics  <br/> |Nein <br/> |Nein <br/> |Ja<sup>17</sup> <br/> |Nein <br/> |
