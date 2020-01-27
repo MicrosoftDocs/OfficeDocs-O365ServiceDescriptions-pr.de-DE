@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Suchen Sie nach SharePoint Online-Grenzwerten für Office 365 Enterprise-Pläne und eigenständige Pläne.
-ms.openlocfilehash: c1ece223f90b14c73de6240d042d95701c443c0a
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b5ba34d3a1ebd80d7833e09e70a76b57882ae6fd
+ms.sourcegitcommit: 81ba764537d6bfb99fe6f96cdbd0c0ac1534cae1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216644"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519196"
 ---
 # <a name="sharepoint-online-limits"></a>SharePoint Online-Beschränkungen
 
@@ -66,7 +66,7 @@ Hier finden Sie die SharePoint-Grenzwerte für Office 365 Pläne und SharePoint 
 
 - **Gehostete SharePoint-Anwendungen** -20.000 Instanzen pro Organisation.
 
-- **Eindeutige Sicherheitsbereiche pro Liste oder Bibliothek** – der erzwungene Grenzwert ist 50.000, der empfohlene allgemeine Grenzwert lautet jedoch 5.000. Oberhalb von 5.000 beginnt die Größe der Zugriffssteuerungsliste (Access Control List, ACL) mit der Materie. Obwohl Sie Bereiche bis zum erzwungenen Grenzwert von 50.000 hinzufügen können, wird Sie von Microsoft nicht empfohlen, es sei denn, Sie haben ein sehr spezielles Szenario im Hinterkopf. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
+- **Eindeutige Sicherheitsbereiche pro Liste oder Bibliothek** – der unterstützte Grenzwert ist 50.000, die empfohlene allgemeine Grenze liegt jedoch bei 5.000. Oberhalb von 5.000 beginnt die Größe der Zugriffssteuerungsliste (Access Control List, ACL) mit der Materie. Obwohl Sie Bereiche bis zum unterstützten Grenzwert von 50.000 hinzufügen können, wird Microsoft dieses Feature nicht empfohlen, es sei denn, Sie haben ein sehr spezielles Szenario im Hinterkopf. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
 
 - **Users** -2 Millionen pro Websitesammlung.
     > [!NOTE]
