@@ -1,5 +1,5 @@
 ---
-title: Office für die Webdienstbeschreibung
+title: Office für das Web – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263519"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711905"
 ---
-# <a name="office-for-the-web-service-description"></a>Office für die Webdienstbeschreibung
+# <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
 Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
   
@@ -192,7 +192,7 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
 > [!NOTE] 
 > <sup>1</sup> kann keine PivotCharts erstellen, nur anzeigen.
  <br/><sup>2</sup> je nachdem, wie Ihre Umgebung konfiguriert ist, werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die in Excel für das Internet angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
- <br/><sup>3</sup> Sie können keine Makros mit VBA in Excel für das Internet erstellen, aber Sie können VBA-fähige Arbeitsblätter öffnen und bearbeiten, ohne das in der Datei enthaltene VBA zu entfernen (oder zu beschädigen).
+ <br/><sup>3</sup> Sie können keine Makros mit VBA in Excel für das Internet erstellen oder ausführen, aber Sie können VBA-fähige Arbeitsblätter öffnen und bearbeiten, ohne das in der Datei enthaltene VBA zu entfernen (oder zu beschädigen).
  <br/><sup>4</sup> in Excel für das Internet wird der letzte bekannte Referenzwert im Browserfenster angezeigt; Es muss jedoch mit der Excel-Desktop-App aktualisiert werden. 
  <br/><sup>5</sup> einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. 
   
