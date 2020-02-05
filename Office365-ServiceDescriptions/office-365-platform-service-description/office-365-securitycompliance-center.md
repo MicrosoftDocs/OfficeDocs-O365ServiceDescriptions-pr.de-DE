@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Office 365 Security &amp; Compliance Center wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: deda84949994d65d025df9ae781d82827cf8518d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
+ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262568"
+ms.lasthandoff: 02/05/2020
+ms.locfileid: "41773775"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -62,7 +62,7 @@ Grenzwert von <sup>3</sup> 50 GB. <br/>
 <sup>8</sup> Sie können auch die API für die [Office 365 Verwaltungsaktivität](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen. <br/>
 <sup>9</sup> es steht ein DLP-Add-on zur Verfügung, das jeder SKU mit Exchange oder SharePoint/OneDrive hinzugefügt werden kann.<br/>
 <sup>10</sup> Sensitivitäts Bezeichnungen sind auch in Azure Information Protection P1 und P2 enthalten.<br/>
-<sup>11</sup> eine Exchange Online Plan 2-Lizenz ist erforderlich, um eine Aufbewahrungsrichtlinie auf ein Benutzerpostfach anzuwenden. 
+<sup>11</sup> eine Exchange Online Plan 2-Lizenz ist erforderlich, um ein Benutzerpostfach mithilfe einer Aufbewahrungsrichtlinie aufzubewahren.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center: Verfügbarkeit für eigenständige Pläne
 
@@ -87,7 +87,7 @@ Grenzwert von <sup>3</sup> 50 GB. <br/>
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |[Archivierung](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/>|Ja<sup>10</sup> <br/> |Nein  <br/> |Nein  <br/> |
 |[Unified Auditing](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/>|Ja<sup>10</sup> <br/> |Nein  <br/> |Nein  <br/> |
-|[Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/>|Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |
+|[Aufbewahrungsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Ja<sup>11</sup>  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>10</sup> <br/>|Ja<sup>10</sup> <br/> |Ja  <br/> |Ja  <br/> |
 |[Aufsichtsrichtlinien](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |||||||||
    
@@ -100,7 +100,8 @@ Grenzwert von <sup>3</sup> 50 GB. <br/>
 <sup>7</sup> enthält Dateien, die in Microsoft Teams-Repositorys gespeichert sind.<br/>
 <sup>8</sup> Sie können auch die API für die [Office 365 Verwaltungsaktivität](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen. <br/>
 <sup>9</sup> es steht ein DLP-Add-on zur Verfügung, das jeder SKU mit Exchange oder SharePoint/OneDrive hinzugefügt werden kann.<br/>
-<sup>10</sup> nur für Dateien, die in OneDrive für Unternehmen gespeichert sind.
+<sup>10</sup> nur für Dateien, die in OneDrive für Unternehmen gespeichert sind.<br/>
+<sup>11</sup> eine Exchange Online Plan 2-Lizenz ist erforderlich, um ein Benutzerpostfach mithilfe einer Aufbewahrungsrichtlinie aufzubewahren.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Verfügbarkeit des Security &amp; Compliance Center in Office 365, betrieben von 21Vianet
 
