@@ -1,6 +1,4 @@
 
-  
-
 # [Office 365-Dienstbeschreibungen](office-365-service-descriptions-technet-library.md)
 ## [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Optionen zum Office 365-Plan](office-365-platform-service-description/office-365-plan-options.md)
@@ -111,10 +109,10 @@
 ### [Microsoft 365 Business Voice – Dienstbeschreibung](microsoft-365-business-voice-service-description.md)
 ### [Microsoft 365 Business – Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-### [Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md) 
-### [Microsoft 365-Dienste auf Mandantenebene – Leitfaden zur Lizenzierung](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md) 
+### [Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+### [Microsoft 365-Lizenzierungsleitfaden für Sicherheit und Compliance](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 #### [Planen von Microsoft 365 Compliance – DoD-Bereitstellungen](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
 #### [Planen von Microsoft 365 Compliance – GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Planen von Microsoft 365 Compliance – GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
 ## [Dienstbeschreibung von Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
-
+ 
