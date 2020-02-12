@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216664"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931941"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -62,7 +62,7 @@ Project Online Essentials umfasst kein Project für das Internet.
 
 ### <a name="project-online-desktop-client"></a>Project Online-Desktop Client
 
-Microsoft Project Online Desktop Client ist ein Projektverwaltungsprogramm, das automatisiertes planen, Projektressourcenverwaltung und integrierte Berichterstellung umfasst. Project Online Desktop Client kann als eigenständige Anwendung verwendet werden oder kann eine Verbindung mit Project Online herstellen. Project Online Desktop Client ist die Abonnementversion des Project Online-Desktop Clients und steht in den Abonnements Project Plan 3 und Project Plan 5 zur Verfügung.
+Microsoft Project Online Desktop Client ist ein Projektverwaltungsprogramm, das automatisiertes planen, Projektressourcenverwaltung und integrierte Berichterstellung umfasst. Project Online Desktop Client kann als eigenständige Anwendung verwendet werden oder kann eine Verbindung mit Project Online herstellen. Project Online Desktop Client ist die Abonnementversion des Project Professional-Desktop Clients und steht in den Abonnements Project Plan 3 und Project Plan 5 zur Verfügung.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Verwenden von Project für das Internet und Project Online zusammen
 
@@ -188,7 +188,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung.  | Nein | Ja |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>Hinweise
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
@@ -288,7 +288,7 @@ Project für das Internet weist einige Einschränkungen auf, die in der folgende
 |Max. Dauer des Sammelvorgangs | 3650 Tage (10 Jahre) |
 |Max. Ressourcen, die einem Vorgang zugewiesen werden können | 20 Ressourcen |
 |Unterstützter Datumsbereich für Vorgang | 1/1/1984 &ndash; 12/31/2149 |
-|**Projekt** ||
+|**Project** ||
 |Max. Gesamtzahl der Vorgänge für das Projekt | 500 |
 |Max. Gesamtdauer des Projekts | 3650 Tage (10 Jahre) |
 |Max. Gesamtressourcen für das Projekt | 150 |
