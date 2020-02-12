@@ -79,6 +79,46 @@
       "source_path": "Office365-ServiceDescriptions/yammer-service-description/index.md",
       "redirect_url": "yammer-service-description",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/developer.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/it-professional.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/content.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/insights.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/search.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/social.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/add-ons.md",
+      "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
+      "redirect_document_id": false
     }
   ]
 }
