@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Office 365 Security &amp; Compliance Center wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931921"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279808"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -64,7 +64,7 @@ Grenzwert von <sup>3</sup> 50 GB. <br/>
 <sup>9</sup> es steht ein DLP-Add-on zur Verfügung, das jeder SKU mit Exchange oder SharePoint/OneDrive hinzugefügt werden kann.<br/>
 <sup>10</sup> Sensitivitäts Bezeichnungen sind auch in Azure Information Protection P1 und P2 enthalten.<br/>
 <sup>11</sup> eine Exchange Online Plan 2-Lizenz ist erforderlich, um Inhalte in einem Benutzerpostfach mithilfe einer Aufbewahrungsrichtlinie beizubehalten.<br/>
-<sup>12</sup> Advanced Audit bietet eine einjährige Aufbewahrung von Überwachungsprotokollen für Aktivitäten in Azure Active Directory, Exchange und SharePoint und bietet die Möglichkeit, benutzerdefinierte Aufbewahrungsrichtlinien für Überwachungsprotokolle zu erstellen, um die Überwachungsprotokoll Aufbewahrung für andere Office 365 Dienste zu verwalten. Außerdem wird die Überwachung von Ereignissen mit hohem Wert und ein hoher Bandbreiten Zugriff auf die API für die Office 365-Verwaltungsaktivität bereitgestellt.
+<sup>12</sup> Advanced Audit bietet eine einjährige Aufbewahrung von Überwachungsprotokollen für Aktivitäten in Azure Active Directory, Exchange und SharePoint und bietet die Möglichkeit, benutzerdefinierte Aufbewahrungsrichtlinien für Überwachungsprotokolle zu erstellen, um die Überwachungsprotokoll Aufbewahrung für andere Office 365 Dienste zu verwalten. Es bietet auch Zugriff auf wichtige Ereignisse für Untersuchungen und Zugriff auf die Office 365 Verwaltungs Aktivitäts-API mit hoher Bandbreite.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center: Verfügbarkeit für eigenständige Pläne
 

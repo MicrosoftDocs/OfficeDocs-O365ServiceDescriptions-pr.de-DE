@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft 365-Lizenzierungs Leit Faden für Sicherheits #a0 Compliance'
+title: Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,15 +10,15 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: 'Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365 Security #a0 Compliance, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.'
-ms.openlocfilehash: ead339254c57c4bd9f682159f54f235279f7c362
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365 Security & Compliance, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
+ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787031"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279858"
 ---
-# <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits #a0 Compliance
+# <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
 Für die Zwecke dieses Artikels handelt es sich bei einem Dienst auf Mandantenebene um einen&mdash;Onlinedienst, der beim Kauf für einen beliebigen Benutzer im Mandanten (eigenständig oder als Teil von&mdash;Office 365-oder Microsoft 365-Plänen) für alle Benutzer im Mandanten vollständig aktiviert wird. Auch wenn einige nicht lizenzierte Benutzer technisch möglicherweise auf den Dienst zugreifen können, ist eine Lizenz für jeden Benutzer erforderlich, den Sie vom Dienst nutzen möchten.
 
@@ -203,7 +203,7 @@ Ein Benutzer profitiert von Advanced eDiscovery, wenn der Benutzer als Datenverw
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig werden erweiterte eDiscovery-Funktionen auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert, wenn Administratoren eDiscovery-Berechtigungen im Security #a0 Compliance Center zuweisen.
+Standardmäßig werden erweiterte eDiscovery-Funktionen auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert, wenn Administratoren eDiscovery-Berechtigungen im Security & Compliance Center zuweisen.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -291,7 +291,7 @@ Standardmäßig sind Exchange Online-e-Mails, SharePoint-Websites und OneDrive-K
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security #a0 Compliance Center unter **Verhinderung von Datenverlust**anpassen.
+Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen.
 
 ## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Verhinderung von Datenverlust für Chat-und Kanal Nachrichten in Microsoft Teams
 
@@ -311,7 +311,7 @@ Standardmäßig sind Microsoft Teams-Chat und Kanal Nachrichten ein *aktivierter
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security #a0 Compliance Center unter **Verhinderung von Datenverlust**anpassen.
+Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen.
 
 ## <a name="information-barriers"></a>Informationsbarrieren
 
@@ -323,7 +323,7 @@ Lizenzierte Benutzer von Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:
 
 | Szenario                                                                                                                                                                                                              | Wer benötigt eine Lizenz? |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -334,11 +334,11 @@ Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informat
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren erstellen und verwalten Richtlinien für Informationsbarrieren mithilfe von PowerShell-Cmdlets im Security #a0 Compliance Center. Administratoren muss die Rolle Microsoft 365 Enterprise Global Administrator, Office 365 globaler Administrator oder Administrator für die Konformitätsrichtlinie zugewiesen sein, um eine Informations Barriere-Richtlinie zu erstellen. Standardmäßig gelten diese Richtlinien für alle Benutzer im Mandanten. Weitere Informationen zu Informationsbarrieren finden Sie unter [Information Barriers in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+Administratoren erstellen und verwalten Richtlinien für Informationsbarrieren mithilfe von PowerShell-Cmdlets im Security & Compliance Center. Administratoren muss die Rolle Microsoft 365 Enterprise Global Administrator, Office 365 globaler Administrator oder Administrator für die Konformitätsrichtlinie zugewiesen sein, um eine Informations Barriere-Richtlinie zu erstellen. Standardmäßig gelten diese Richtlinien für alle Benutzer im Mandanten. Weitere Informationen zu Informationsbarrieren finden Sie unter [Information Barriers in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können Standorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security #a0 Compliance Center anpassen. Wenn beispielsweise alle Benutzer für Office 365 E3 lizenziert sind und keine für Office 365 Advanced Compliance/E5 lizenziert ist, müssen keine Richtlinien für Informationsbarrieren für die Organisation erstellt werden. Weitere Informationen finden Sie unter [Information Barriers in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+Administratoren können Standorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security & Compliance Center anpassen. Wenn beispielsweise alle Benutzer für Office 365 E3 lizenziert sind und keine für Office 365 Advanced Compliance/E5 lizenziert ist, müssen keine Richtlinien für Informationsbarrieren für die Organisation erstellt werden. Weitere Informationen finden Sie unter [Information Barriers in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
 
 ## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
 
@@ -396,7 +396,7 @@ Benutzer profitieren vom Dienst, indem ihre Kommunikation durch Aufsichtsrichtli
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren erstellen Aufsichtsrichtlinien im Security #a0 Compliance Center. Diese Richtlinien definieren, welche Kommunikation und welche Benutzer in der Organisation überprüft werden sollen, definieren benutzerdefinierte Bedingungen, denen die Kommunikation entsprechen muss, und geben an, wer Überprüfungen durchführen soll.
+Administratoren erstellen Aufsichtsrichtlinien im Security & Compliance Center. Diese Richtlinien definieren, welche Kommunikation und welche Benutzer in der Organisation überprüft werden sollen, definieren benutzerdefinierte Bedingungen, denen die Kommunikation entsprechen muss, und geben an, wer Überprüfungen durchführen soll.
  
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -421,3 +421,23 @@ Standardmäßig sind die Funktionen für bedingten Zugriff auf Mandantenebene f�
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 Für den Identitätsschutz und den bedingten Zugriff muss ein Benutzer in einer Gruppe enthalten sein oder einer Richtlinie für bedingten Zugriff hinzugefügt werden. Die Bedingung "Benutzer und Gruppen" ist in einer Richtlinie für den bedingten Zugriff obligatorisch. In Ihrer Richtlinie können Sie entweder **alle Benutzer** oder bestimmte Benutzer und Gruppen auswählen. Sie sollten nur entsprechend lizenzierte Benutzer und Gruppen auswählen. Weitere Informationen finden Sie unter [Was sind Bedingungen in Azure Active Directory bedingter Zugriff?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
+
+## <a name="advanced-audit"></a>Erweiterte Überwachung
+
+Advanced Audit in Microsoft 365 bietet eine einjährige Aufbewahrung von Überwachungsprotokollen für Benutzer-und Administratoraktivitäten und bietet die Möglichkeit, benutzerdefinierte Aufbewahrungsrichtlinien für Überwachungsprotokolle zu erstellen, um die Überwachungsprotokoll Aufbewahrung für andere Microsoft 365-Dienste zu verwalten. Es bietet auch Zugriff auf wichtige Ereignisse für Untersuchungen und Zugriff auf die Office 365 Verwaltungs Aktivitäts-API mit hoher Bandbreite. Weitere Informationen finden Sie unter [Advanced Audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
+
+### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
+
+Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5 und die Kompatibilität mit Microsoft 365 E5 können von der erweiterten Überwachung profitieren.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
+
+Ein Benutzer profitiert von der erweiterten Überwachung, da Überwachungseinträge im Zusammenhang mit Benutzeraktivitäten in Microsoft 365-Diensten bis zu einem Jahr aufbewahrt werden können. Darüber hinaus werden hochwertige Überwachungsereignisse protokolliert, beispielsweise wenn auf Elemente im Postfach eines Benutzers zugegriffen oder gelesen wird. Weitere Informationen finden Sie unter [High-Value-Überwachungsereignisse](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
+
+Standardmäßig ist die erweiterte Überwachung auf Mandantenebene für alle Organisationen aktiviert, die über ein Office 365-oder Microsoft 365 E5-Abonnement verfügen, und bietet automatisch eine einjährige Aufbewahrung der Überwachungsprotokolle für Aktivitäten (durchgeführt von Benutzern mit der entsprechenden Lizenz) in Azure Active Directory, Exchange und SharePoint. Darüber hinaus können Organisationen Überwachungsprotokoll-Aufbewahrungsrichtlinien verwenden, um den Aufbewahrungszeitraum für Überwachungsdatensätze zu verwalten, die von Aktivitäten in anderen Microsoft 365-Diensten generiert werden. Weitere Informationen finden Sie unter [Verwalten der Aufbewahrungsrichtlinien für Überwachungsprotokolle](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
+
+Die einjährige Aufbewahrung von Überwachungsprotokollen und die Überwachung von hochwertigen Ereignissen gilt nur für Benutzer mit der entsprechenden Lizenz. Darüber hinaus können Administratoren Überwachungsprotokoll-Aufbewahrungsrichtlinien verwenden, um kürzere Aufbewahrungsdauer für die Überwachungsprotokolle bestimmter Benutzer anzugeben.
