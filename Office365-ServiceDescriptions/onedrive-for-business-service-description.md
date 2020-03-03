@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie, welche OneDrive-Features in welchen Plänen zur Verfügung stehen.
-ms.openlocfilehash: d1a8efd1cb01ae2f7643f673b66b6c0204ddde73
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172087"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374172"
 ---
 # <a name="onedrive-service-description"></a>OneDrive-Dienstbeschreibung
 
@@ -88,7 +88,7 @@ Wenn Sie über die anfänglichen 5 TB hinaus Cloud-Speicherplatz für einzelne B
   
 - Wenn ein Benutzer seine 5 TB OneDrive-Speicher zu mindestens 90 % ausgeschöpft hat, erhöht Microsoft Ihren Standardspeicherplatz in OneDrive auf bis zu 25 TB pro Benutzer (Administratoren können bei Bedarf eine niedrigere Grenze pro Benutzer festlegen). 
     
-- Allen Benutzern, die mindestens 90 % der 25 TB OneDrive-Speicherplatz ausgeschöpft haben, erhalten zusätzlichen Cloud-Speicherplatz in Form von SharePoint-Teamwebsites mit 25 TB. Dieser zusätzliche Speicherplatz wird der Organisation in Form einer Gutschrift bereitgestellt.
+- Allen Benutzern, die mindestens 90 % der 25 TB OneDrive-Speicherplatz ausgeschöpft haben, erhalten zusätzlichen Cloud-Speicherplatz in Form von SharePoint-Teamwebsites mit 25 TB.
     
 Um den Speicherplatz und die Nutzung für einen einzelnen Benutzer anzuzeigen, gehen Sie zu [Speicherplatz verwalten](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) in der OneDrive-Synchronisierungsc-App. Um anzuzeigen, wie viel Speicherplatz Benutzer in der gesamten Organisation nutzen, gehen Sie zum [OneDrive-Nutzungsbericht](/office365/admin/activity-reports/onedrive-for-business-usage) im Microsoft 365 Admin Center. 
    
