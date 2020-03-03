@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 1456d280f07dc6997cd8c8366fd4ff5f601cb197
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279838"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374192"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -52,11 +52,12 @@ Jeder Office 365 Plan, der von 21Vianet betrieben wird, umfasst eine Reihe von e
 |Power BI|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Visio für das Internet<sup>3</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Yammer Enterprise|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Azure Information Protection|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Azure Information Protection|Nein|Nein|Nein|Nein|Nein|Ja<sup>4</sup>|Nein|
 
 <sup>1</sup> umfasst Features wie Office 365 Verwaltung, Office 365 Suite-apps, Benutzerkontenverwaltung, Domänen, Dienststatus und Kontinuität, Berichterstellung, dienstupdates, Hilfe und Schulung, Netzwerke usw. Weitere Informationen finden Sie in der Tabelle [Plattformfeatures](office-365-operated-by-21vianet.md#platform-features) .
 <br/><sup>2</sup> Project Online ist nicht enthalten, kann jedoch als separater Add-on-Dienst erworben oder kostenlos zum Office 365 a1-Plan hinzugefügt werden.
 <br/><sup>3</sup> Visio für den webverbrauch (Ansicht-Funktion) ist kostenlos verfügbar. Für Visio-Funktionen zum Erstellen und Bearbeiten von Webdiensten ist eine Lizenz erforderlich. Weitere Informationen zu Visio für das Internet finden Sie in der [Beschreibung des Webdiensts in Visio](../visio-online-service-description/visio-online-service-description.md).
+<br/><sup>4</sup> Azure Information Protection (AIP) wird teilweise in Office 365 betrieben von 21Vianet unterstützt. Weitere Informationen finden Sie unter [Parity zwischen Azure Information Protection für Office 365 betrieben von 21Vianet und kommerziellen Angeboten](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet).
 
 ## <a name="system-requirements"></a>Systemanforderungen
 
@@ -337,7 +338,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Nachrichtenflussregeln (Transportregeln)|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Schutz vor Spam und Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Antispam- und Antischadsoftwareschutz](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|
@@ -345,7 +346,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Nein|
-|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
+|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|

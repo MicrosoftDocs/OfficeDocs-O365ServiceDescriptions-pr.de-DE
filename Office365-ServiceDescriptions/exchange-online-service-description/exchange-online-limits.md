@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: a1f83239d3ac63ea8b8ef2559fe962f131c96110
-ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
+ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41000855"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374182"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -355,12 +355,12 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Grenzwert für Empfängerrate<sup>1</sup>|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|
-|Empfängergrenzwert|500 Empfänger|500 Empfänger|500 Empfänger|500 Empfänger|500 Empfänger|500 Empfänger|
+|Empfängergrenzwert|500 Empfänger|1000 Empfänger|1000 Empfänger|1000 Empfänger|1000 Empfänger|1000 Empfänger|
 |Grenzwert für Empfängerproxyadresse|400|400|400|400|400|400|
 |Nachrichtenratengrenzwert|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|
 
 > [!NOTE]
-> <sup>1</sup> nach dem Erreichen des Empfänger Raten Grenzwerts können Nachrichten nicht aus dem Postfach gesendet werden, bis die Anzahl der Empfänger, die Nachrichten in den letzten 24 Stunden gesendet haben, unterschritten wird. Ein Benutzer sendet beispielsweise eine e-Mail-Nachricht an 5.000 Empfänger um 09:00 Uhr, sendet dann eine weitere Nachricht an 2.500 Empfänger um 10:00 Uhr und sendet dann eine weitere Nachricht an 2.500 Empfänger bei 11:00 am, wobei der Grenzwert von 10.000 Nachrichten erreicht wird. Der Benutzer kann Nachrichten erst wieder senden, wenn 09:00 am nächsten Tag ist.
+> <sup>1</sup> nach dem Erreichen des Empfänger Raten Grenzwerts können Nachrichten nicht aus dem Postfach gesendet werden, bis die Anzahl der Empfänger, die Nachrichten in den letzten 24 Stunden gesendet haben, unterschritten wird. Ein Benutzer sendet beispielsweise eine e-Mail-Nachricht an 5.000 Empfänger um 09:00 Uhr, sendet dann eine weitere Nachricht an 2, 1000 Empfänger um 10:00 Uhr und sendet dann eine weitere Nachricht an 2.500 Empfänger bei 11:00 am, wobei die Grenze von 10.000 Nachrichten erreicht wird. Der Benutzer kann Nachrichten erst wieder senden, wenn 09:00 am nächsten Tag ist.
 
 #### <a name="sending-limits-across-standalone-options"></a>Sendegrenzwerte bei Optionen für eigenständige Pläne
 
@@ -368,7 +368,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 |:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Empfängerratengrenzwert|Keine Beschränkung<sup>1</sup>|10.000 Empfänger pro Tag<sup>2</sup>|10.000 Empfänger pro Tag<sup>2</sup>|10.000 Empfänger pro Tag<sup>2</sup>|
-|Empfängergrenzwert|500 Empfänger<sup>1</sup>|500 Empfänger|500 Empfänger|500 Empfänger|
+|Empfängergrenzwert|1000 Empfänger<sup>1</sup>|1000 Empfänger|1000 Empfänger|1000 Empfänger|
 |Grenzwert für Empfängerproxyadresse|400|400|400|400|
 |Nachrichtenratengrenzwert|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|
 

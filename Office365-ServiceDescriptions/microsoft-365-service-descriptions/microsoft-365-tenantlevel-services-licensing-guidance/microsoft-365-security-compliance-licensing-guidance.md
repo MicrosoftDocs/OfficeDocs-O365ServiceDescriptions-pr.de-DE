@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365 Security & Compliance, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279858"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374162"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -189,9 +189,9 @@ Standardmäßig sind ADG-Features auf Mandantenebene für alle Benutzer innerhal
 
 ADG-Aufbewahrungsrichtlinien können über die automatische Klassifizierung auf lizenzierte Benutzer an bestimmten Orten (Teamwebsites, Gruppen Websites usw.) angewendet werden. Anweisungen zum Anwenden von ADG-Aufbewahrungsrichtlinien finden Sie unter [Anwenden einer Aufbewahrungsrichtlinie auf eine gesamte Organisation oder bestimmte Standorte](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).
 
-## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
+## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
-Office 365 Advanced eDiscovery stellt Ermittlungs-und eDiscovery-Lösungen für IT-Abteilungen und Rechtsabteilungen in Unternehmen bereit, um Inhalte im Zusammenhang mit einer Untersuchung oder eines Rechtsstreits vor dem Export aus dem zu ermitteln, zu sammeln, aufzubewahren, zu reduzieren Office 365 System.
+Advanced eDiscovery bietet Ermittlungs-und eDiscovery-Lösungen für IT-Abteilungen und Rechtsabteilungen in Unternehmen, um Inhalte im Zusammenhang mit einer Untersuchung oder einem Rechtsstreit vor dem Export aus dem Office 365 zu identifizieren, zu sammeln, aufzubewahren, zu reduzieren und zu überprüfen. System.
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
@@ -323,7 +323,7 @@ Lizenzierte Benutzer von Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:
 
 | Szenario                                                                                                                                                                                                              | Wer benötigt eine Lizenz? |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -440,4 +440,4 @@ Standardmäßig ist die erweiterte Überwachung auf Mandantenebene für alle Org
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Die einjährige Aufbewahrung von Überwachungsprotokollen und die Überwachung von hochwertigen Ereignissen gilt nur für Benutzer mit der entsprechenden Lizenz. Darüber hinaus können Administratoren Überwachungsprotokoll-Aufbewahrungsrichtlinien verwenden, um kürzere Aufbewahrungsdauer für die Überwachungsprotokolle bestimmter Benutzer anzugeben.
+Das einjährige aufbewahren von Überwachungsprotokollen und die Überwachung wichtiger Ereignisse gelten nur für Benutzer mit der entsprechenden Lizenz. Darüber hinaus können Administratoren Überwachungsprotokoll-Aufbewahrungsrichtlinien verwenden, um kürzere Aufbewahrungsdauer für die Überwachungsprotokolle bestimmter Benutzer anzugeben.
