@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
 description: Die folgenden Ressourcen Verwaltungsfeatures sind in Project online verfügbar.
 ms.openlocfilehash: 187bea0dad7dd099d1697b44c53c41d7d8c3ec8f
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733966"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546088"
 ---
 # <a name="resource-management"></a>Ressourcenmanagement
 

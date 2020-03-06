@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Verwenden Sie OneNote für das Internet (ehemals OneNote-Webanwendung), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von überall aus hinzufügen und einfach für andere freigeben können. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
 ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263509"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545768"
 ---
 # <a name="onenote-for-the-web"></a>OneNote für das Web
 

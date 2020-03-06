@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft Office 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
 ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711905"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545788"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
@@ -87,7 +87,7 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
 |[Gemeinsame Dokumenterstellung in Echtzeit](word-online.md#real-time-co-authoring) <br/> |Ja  <br/> |Ja  <br/> |
 |[Referenztools](word-online.md#reference-tools) <br/> |Nein  <br/> |Ja  <br/> |
 |[Darstellen von Textfeldern/Formen](word-online.md#rendering-of-text-boxesshapes) <br/> |Ja  <br/> |Ja  <br/> |
-|[Recherche](word-online.md#researcher) <br/> |Nein  <br/> |Ja  <br/> |
+|[Forscher](word-online.md#researcher) <br/> |Nein  <br/> |Ja  <br/> |
 |[Rich-Media](word-online.md#rich-media) <br/> |Nein  <br/> |Ja  <br/> |
 |[Umfassende Tabellenformatierung](word-online.md#rich-table-formatting) <br/> |Ja  <br/> |Ja  <br/> |
 |["Speichern unter" und "Kopie herunterladen"](word-online.md#save-as-and-download-a-copy) <br/> |Ja  <br/> |Ja  <br/> |

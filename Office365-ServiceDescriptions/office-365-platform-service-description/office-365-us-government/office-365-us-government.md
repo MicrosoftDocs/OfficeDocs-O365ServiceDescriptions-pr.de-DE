@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Artikel bietet eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind.
-ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
-ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
+ms.openlocfilehash: d94134443ffa106fa162690908825ab295d733e5
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2020
-ms.locfileid: "41233358"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545718"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -167,14 +167,14 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |**[Funktionen der Office 365-Suite](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Government G1** <br/> |**Office 365 Government G3** <br/> |**Office 365 Government G5** <br/> |**Office 365 Regierung F1** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Microsoft Briefing-e-Mail  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Microsoft Power Automation  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
+|Microsoft Power Automate  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Ja <br/> |Ja <br/> |Ja<br/> |Ja</sup> <br/> |
 |Microsoft Graph-API  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft MyAnalytics  <br/> |Nein <br/> |Nein <br/> |Ja<sup>17</sup> <br/> |Nein <br/> |
 |Microsoft Planner  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
 |Microsoft PowerApps  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |Nein <br/> |Nein <br/> |Nein <br/> |Nein<br/> |
-|Microsoft Stream  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Nein  <br/> |
+|Microsoft Stream  <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15</sup> <br/> |Ja<sup>9, 15, 20</sup>  <br/> |
 |Microsoft Sway  <br/> |Nein <br/> |Nein <br/> |Nein <br/> |Nein <br/> |
 |Microsoft Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> |
 |Office Delve  <br/> |Ja<sup>17</sup> <br/> |Ja<sup>17</sup> <br/> |Ja  <br/> |Ja<sup>17</sup> <br/> |
@@ -219,10 +219,10 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Häufigste Schadsoftware per E-Mail  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Regelübereinstimmungen bei E-Mails  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Häufigste Regelübereinstimmungen bei E-Mails  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
-|Häufigste Übereinstimmungen mit DLP-Richtlinien bei E-Mails  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
-|Übereinstimmungen mit DLP-Richtlinien bei E-Mails nach Schweregrad  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
-|DLP-Richtlinienübereinstimmungen, Außerkraftsetzungen und falsch positive Ergebnisse bei E-Mails  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
-|Häufigste DLP-Regelübereinstimmungen bei E-Mails  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
+|Häufigste Übereinstimmungen mit DLP-Richtlinien bei E-Mails  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Nein <br/> |
+|Übereinstimmungen mit DLP-Richtlinien bei E-Mails nach Schweregrad  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Nein <br/> |
+|DLP-Richtlinienübereinstimmungen, Außerkraftsetzungen und falsch positive Ergebnisse bei E-Mails  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Nein <br/> |
+|Häufigste DLP-Regelübereinstimmungen bei E-Mails  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Nein <br/> |
 |Sofortnachrichten und Audiositzungen  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Anwendungsfreigabe, Web und Einwahlkonferenzen  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
 |Video, Anwendungsfreigabe und Dateiübertragungssitzungen  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |
@@ -285,12 +285,14 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 <br/><sup>11</sup> noch nicht verfügbar in Office 365 staatlichen angeboten, aber in Kürze erhältlich. 
 <br/><sup>12</sup> nicht enthalten, kann aber als separates Add-on in gcc erworben werden. 
 <br/><sup>13</sup> wird für Office 365 Government-Angebote nicht unterstützt. 
-<br/><sup>14</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](https://go.microsoft.com/fwlink/?linkid=836894). 
+<br/><sup>14</sup> verfügbar unter [https://securescore.office.com](https://securescore.office.com). Erfordert Administratorberechtigungen. Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
+). 
 <br/><sup>15</sup> noch nicht in der DoD-Umgebung verfügbar, aber in Kürze erhältlich. 
 <br/><sup>16</sup> Admin Center enthält keine Nutzungsanalysen in DoD-oder gcc-Umgebungen.
 <br/><sup>17</sup> wird für gcc-hoch-oder DoD-Umgebungen nicht unterstützt.
 <br/><sup>18</sup> Anti-Phishing für Benutzer-und Domänen Identitätswechsel und Spoof Intelligence stehen in gcc High und DoD noch nicht zur Verfügung.
 <br/><sup>19</sup> in der gcc-Umgebung noch nicht verfügbar, aber in Kürze erhältlich.
+<br/><sup>20</sup> Verbrauch nur für Microsoft Stream: keine Veröffentlichung oder Freigabe. 
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Verfügbarkeit von Office-Anwendungen und Unternehmenswert
 
@@ -378,14 +380,14 @@ Die folgenden Office-Anwendungen sind in den Government Clouds verfügbar; Einig
 |Intelligentes Nachschlagen | Nein <br/> | Nein <br/> | Nein <br/> |
 |Diagramme: Sunburst TreeMap, Waterfall, Histogramm, Maps, Timeline, Trichter | Nein <br/> | Nein <br/> | Nein <br/> |
 |Versionsverlauf | Nein <br/> | Nein <br/> | Nein <br/> |
-|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) steht in den Government Clouds mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind, vollständig zur Verfügung: | **GCC** <br/> | **GCC hoch** <br/> | **DoD**<sup>3</sup> <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) steht in den Government Clouds mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind, vollständig zur Verfügung: | **GCC** <br/> | **GCC hoch** <br/> | **DoD** <br/> |
 |E-Mail-Benachrichtigung | Nr.<sup>1</sup> <br/> | Nr.<sup>1</sup> <br/> | Nein <br/> | 
 |Einfügen eines Bilds | Nr.<sup>1</sup> <br/> | Nr.<sup>1</sup> <br/> | Nein <br/> |
 |Einfügen eines Videos | Nr.<sup>1</sup> <br/> | Nr.<sup>1</sup> <br/> | Nein <br/> |
 |Mathematik | Nr.<sup>1</sup> <br/> | Nr.<sup>1</sup> <br/> | Nein <br/> |
 |Office-Integration | Nr.<sup>1</sup> <br/> | Nr.<sup>1</sup> <br/> | Nein <br/> |
-|Die letzten Gruppen Formulare | Ja <br/> | Ja <br/> | Nein <br/> |
-|Externe Freigabe <sup>4</sup> | Ja <br/> | Nein <br/> | Nein <br/> |
+|Die letzten Gruppen Formulare | Nr.<sup>4</sup> <br/> | Ja <br/> | Ja <br/> |
+|Externe Freigabe <sup>3</sup> | Ja <br/> | Nein <br/> | Nein <br/> |
 |Formulare pro | Nein | Nein | Nein |
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) ist in den öffentlichen Clouds vollständig verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind: | **GCC** <br/> | **GCC hoch** <br/> | **DoD** <br/> |
 |Recherche | Nein <br/> | Nein <br/> | Nein <br/> |
@@ -438,7 +440,7 @@ Die folgenden Office-Anwendungen sind in den Government Clouds verfügbar; Einig
 |Kontext Chat mit Mitverfassern: Chat mit Co-Autoren im Dokument | Nein <br/> | Nein <br/> | Nein <br/> |
 |Diktat | Nr.<sup>1</sup> <br/> | Nr.<sup>1</sup> <br/> | Nr.<sup>1</sup> <br/> |
 
-> <sup>1</sup> Verfügbarkeit demnächst.<br/>
-<sup>2</sup> Verfügbarkeit auf dem Hub für lokale Oberflächen (nicht angemeldet)<br/>
-<sup>3</sup> die Anwendung ist derzeit in der DoD-Cloud nicht verfügbar.<br/>
-<sup>4</sup> externe Freigabe ist für die gcc-Umgebung verfügbar. Erfahren Sie mehr über das [deaktivieren oder Aktivieren von Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) für Ihre Organisation. Die externe Freigabe ist für gcc-High-und DoD-Umgebungen deaktiviert; Benutzer in Ihrer Organisation können folgende Aufgaben ausführen: Ausfüllen eines Formulars und Übermitteln von Antworten, [duplizieren und Freigeben eines Formulars als Vorlage](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [Mitverfasser oder Zusammenarbeit an einem Formular](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)und [zugreifen auf Formularergebnisse](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
+><sup>1</sup> Verfügbarkeit demnächst.
+<br/><sup>2</sup> Verfügbarkeit auf dem Hub für lokale Oberflächen (nicht angemeldet)
+<br/><sup>3</sup> die externe Freigabe steht für die gcc-Umgebung zur Verfügung. Erfahren Sie mehr über das [deaktivieren oder Aktivieren von Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) für Ihre Organisation. Die externe Freigabe ist für gcc-High-und DoD-Umgebungen deaktiviert; Benutzer in Ihrer Organisation können folgende Aufgaben ausführen: Ausfüllen eines Formulars und Übermitteln von Antworten, [duplizieren und Freigeben eines Formulars als Vorlage](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [Mitverfasser oder Zusammenarbeit an einem Formular](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)und [zugreifen auf Formularergebnisse](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
+<br/><sup>4</sup> das Feature "zuletzt verwendete Gruppen Formulare" ist für die gcc-Umgebung deaktiviert. Benutzer können jedoch weiterhin auf Gruppen Formulare zugreifen, indem Sie auf der Registerkarte Gruppen Formulare eine bestimmte Gruppe auswählen.

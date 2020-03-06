@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 0e07a9958800c56c6c6ccfc3e3e3bf964b7c74a8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374192"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545998"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -234,9 +234,11 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Nein|Nein|Nein|Nein|Nein|Nein|Nr.<sup>5</sup>|Nein|Nein|Nein|
 |[Windows 10-apps](../office-applications-service-description/office-applications.md#windows-10-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Nein|Ja|Nein|Nein|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
+|Microsoft Office-App für Android|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Microsoft Office-App für IOS|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Office Mobile für iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>5</sup>|Ja|Ja|Ja|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Office Mobile für Android] <sup>15</sup>(.. /Office-Applications-Service-Description/Office-Applications.MD # Office-Mobile-for-Android)|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>5</sup>|Ja|Ja|Ja|
+|[Office Mobile für Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)<sup>15</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>5</sup>|Ja|Ja|Ja|
 |[Office Mobile für Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Nein|Ja|Nein|Nein|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
 |[Office Mobile für Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Nein|Ja|Nein|Nein|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
 |Outlook für Android|Nein|Ja|Ja|Ja|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
@@ -746,9 +748,9 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |Result sources|Ja|Ja|Ja|Nein|Nein|Nein|Nein|
 |Search connector framework|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Search results sorting|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Search vertical: “Conversations”|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Search vertical: “People”|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Search vertical: “Video”|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|Vertikale Suche: "Unterhaltungen"|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Vertikale Suche: "Personen"|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Vertikale Suche: "Video"|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |"Diese Liste"-Suchvorgänge|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**Sites-Features**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F1, betrieben von 21Vianet**|
 |Change the look|Ja|Nein|Ja|Ja|Ja|Ja|Ja|

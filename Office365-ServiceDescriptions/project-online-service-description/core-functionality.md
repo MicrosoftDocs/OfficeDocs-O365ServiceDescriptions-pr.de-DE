@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Die folgenden Hauptfunktionen stehen in Project online zur Verfügung.
 ms.openlocfilehash: 2e0b026933c9fbe1da8f015251c93833822a8d71
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263459"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42546018"
 ---
 # <a name="core-functionality"></a>Hauptfunktionalität
 
