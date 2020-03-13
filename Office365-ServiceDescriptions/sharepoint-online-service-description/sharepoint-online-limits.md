@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Office 365 und eigenständige Pläne.
-ms.openlocfilehash: 03cf3a792bb88d1a6c6d6048752fe2caaf695f35
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279868"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609976"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -24,7 +24,7 @@ Erfahren Sie mehr über die Grenzwerte für Dienste in SharePoint für Microsoft
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 Business Essentials oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint-Plan 1 oder 2** <br/> | **Office 365 Enterprise F1** <br/> |
+|**Feature** <br/> |**Office 365 Business Essentials oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint-Plan 1 oder 2** <br/> | **Office 365 Enterprise F3** <br/> |
 |Gesamtspeicher pro Organisation<sup>1, 2, 6</sup> <br/> |1 TB plus 10 GB pro erworbener Lizenz  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Maximaler Speicherplatz pro Website (Websitesammlung)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Websites (Websitesammlungen) pro Organisation  <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<br/> |
@@ -105,6 +105,6 @@ Ein Benutzer kann zu 5.000 Gruppen gehören, und jede Gruppe kann bis zu 5.000 B
 > [!NOTE]
 > Es gibt keine Begrenzung für die Anzahl der Gäste, die Sie zu SharePoint-Websites einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [External Sharing Overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Artikel
 
 [Such Grenzwerte für SharePoint](/sharepoint/search-limits)

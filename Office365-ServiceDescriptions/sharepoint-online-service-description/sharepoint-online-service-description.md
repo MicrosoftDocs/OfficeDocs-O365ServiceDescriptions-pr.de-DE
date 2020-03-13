@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Hier erfahren Sie, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172852"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609866"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -43,7 +43,7 @@ Informationen zu den neuesten Features, die veröffentlicht werden, finden Sie u
 
 Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Weitere Informationen über diese Pläne (einschließlich eigenständiger Pläne) sowie über den Wechsel von Plänen erhalten Sie unter [Optionen zum Office 365-Plan](../office-365-platform-service-description/office-365-plan-options.md).
   
-Um auf SharePoint zuzugreifen, müssen Benutzern in Ihrer Organisation eine Lizenz zugewiesen werden, die SharePoint umfasst. Ein Firstplan-Plan wird nicht als eigenständiges Angebot verkauft, sondern nur als Teil des First-Abonnement-Abonnements. Die Mitarbeiter von First-work werden keine SharePoint-Navigationsmenüs sehen, sodass die Mitarbeiter von First-Workers direkt über die URL zu SharePoint-Websites navigieren müssen.
+Um auf SharePoint zuzugreifen, müssen Benutzern in Ihrer Organisation eine Lizenz zugewiesen werden, die SharePoint umfasst. Ein Firstplan-Plan wird nicht als eigenständiges Angebot verkauft, sondern nur als Teil des [First-Abonnement-Abonnements](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
 ## <a name="rights-of-guests"></a>Rechte von Gästen
 
@@ -152,7 +152,7 @@ Informationen zur Verfügbarkeit von Kunden Schlüsseln finden Sie unter [How is
 Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Pläne, die SharePoint enthalten, und für alle SharePoint-eigenständigen Pläne verfügbar:
 
 - [Barrierefreiheit](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Hinzufügen von Microsoft Teams zu Websites](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Erfordert ein Abonnement, das Office 365 enthält, und erfordert, dass der Benutzer für Teams lizenziert ist.
+- [Hinzufügen von Microsoft Teams zu Websites](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Erfordert ein Abonnement, das Office 365 enthält, und setzt voraus, dass der Benutzer für Teams lizenziert ist.
 - [Zielgruppenadressierung](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [Verbinden Sie klassische Teamwebsites mit neuen Office 365 Gruppen](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Erfordert ein Abonnement, das Office 365 enthält.
 - [Erstellen Sie einen Plan (Planner Integration)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Erfordert ein Abonnement, das Office 365 enthält, und erfordert, dass der Benutzer für den Planer lizenziert ist.
@@ -163,12 +163,12 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Mega-Menüs](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms-Integration](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). Erfordert ein Abonnement, das Office 365 enthält, und erfordert, dass der Benutzer für Formulare lizenziert ist.
 - [Neuigkeiten](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- Office-Desktop-App-Integration. Erfordert ein Abonnement, das die Office-Desktop-Apps enthält.
+- Office-Desktop-App-Integration. Erfordert ein-Abonnement, das die Office-Desktop-Apps enthält.
 - Office für die Integration von Webdiensten. Erfordert ein Abonnement, das Office 365 enthält.
 - [Bibliothek für Organisationsobjekte](/sharepoint/organization-assets-library)
 - [Organisations Nachrichten](/sharepoint/organization-news-site)
 - [Seiten Genehmigung](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Seiten](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Datensatzverwaltung
 - [Papierkorb](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint-Mobile App](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -185,11 +185,11 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Team OneNote-Notizbuch](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Designs (Ändern des Erscheinungsbild)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Webparts](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Arbeiten mit SharePoint-Inhalten in Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Erfordert ein Abonnement, das Office 365 enthält, und erfordert, dass der Benutzer für Teams lizenziert ist.
+- [Arbeiten mit SharePoint-Inhalten in Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Erfordert ein Abonnement, das Office 365 enthält, und setzt voraus, dass der Benutzer für Teams lizenziert ist.
 
 Weitere Informationen zur Verfügbarkeit von Microsoft Power apps und Power Automation finden Sie in den [FAQs zu Power apps und Power Automatisieren der Lizenzierung](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description).
+Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features).
 
 ## <a name="search-features"></a>Suchfeatures
 
