@@ -65,6 +65,7 @@
 ### [Clientfunktionen](exchange-online-archiving-service-description/client-features.md)
 ### [Kompatibilitäts- und Sicherheitsfeatures](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Office 365 Advanced Threat Protection-Dienstbeschreibung](office-365-advanced-threat-protection-service-description.md)
+## [Microsoft Teams Dienstbeschreibung](teams-service-description.md)
 ## [OneDrive-Dienstbeschreibung](onedrive-for-business-service-description.md)
 ## [SharePoint-Dienstbeschreibung](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint-Beschränkungen](sharepoint-online-service-description/sharepoint-online-limits.md)
