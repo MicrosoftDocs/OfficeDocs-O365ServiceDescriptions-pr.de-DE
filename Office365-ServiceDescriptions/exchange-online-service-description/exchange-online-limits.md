@@ -18,8 +18,8 @@ ms.openlocfilehash: 243e43803c7b9932491da75e64173433fb831309
 ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609926"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688101"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 64c73c3f14e4afb57a459592eba18b2fd6a38870
 ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42614533"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688148"
 ---
 # <a name="office-365-plan-options"></a>Optionen zum Office 365-Plan
 
