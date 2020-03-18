@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 243e43803c7b9932491da75e64173433fb831309
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 31042c0cb80a844502ab77208c9684f47835f4cf
+ms.sourcegitcommit: 346e5482d49a354a48fc69c57b55d21a31a70f51
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688101"
+ms.locfileid: "42707066"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -479,7 +479,7 @@ Die folgende Liste enthält Grenzwerte für Journalregeln, Transportregeln (auch
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Maximale Anzahl von Journalregeln|50 Regeln|50 Regeln|50 Regeln|50 Regeln|50 Regeln|50 Regeln|
+|Maximale Anzahl von Journalregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Anzahl Transportregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Größe einer einzelnen Transportregel|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
