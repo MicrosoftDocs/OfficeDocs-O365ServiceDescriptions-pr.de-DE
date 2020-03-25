@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365 Security & Compliance, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
+ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609916"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926338"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -168,6 +168,29 @@ Informationen zum Konfigurieren von Microsoft Cloud App-Sicherheitsrichtlinien f
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 Administratoren können MCAS-Bereitstellungen für lizenzierte Benutzer mithilfe der im Dienst verfügbaren Bereitstellungsfunktionen für Bereiche bereitstellen. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
+
+
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+Microsoft Defender ATP ist eine Endpunkt Sicherheitslösung, die risikobasierte Schwachstellen Verwaltung und-Bewertung umfasst. Funktionen zur angreifenden Oberflächenreduzierung; verhaltensbasierte und Cloud-gesteuerte Schutz für die nächste Generation; Endpunkterkennung und-Antwort (EDR); Automatische Untersuchung und Korrektur; und verwaltete Jagd Dienste. Weitere Informationen finden Sie unter [Microsoft Defender ATP](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1) -Seite. 
+
+
+### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
+
+Lizenzierte Benutzer von Windows 10 Enterprise E5, Windows 10 Education A5, Microsoft 365 E5 (M365 E5), einschließlich Windows 10 Enterprise E5, Microsoft 365 E5 Security, Microsoft 365 A5 (M365 a5) können von Microsoft Defender ATP profitieren.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
+
+Analysten und Sicherheitsexperten von seepolizisten profitieren von Endpoint Security-Funktionen von Microsoft Defender ATP für vorbeugenden Schutz, Erkennung nach einem Verstoß, automatische Untersuchung und Reaktion auf Erweiterte Bedrohungen. Endbenutzer profitieren davon, dass böswillige Ereignisse von Microsoft Defender ATP überwacht werden.
+
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
+
+Standardmäßig sind die Microsoft Defender ATP-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zur Bereitstellung finden Sie unter [Bereitstellungshandbuch](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
+
+Microsoft Defender ATP-Administratoren können Rollen [basierte Zugriffssteuerung (Role-Based Access Control, RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) zum Erstellen von Rollen und Gruppen im Sicherheits Betriebsteam verwenden, um den entsprechenden Zugriff auf das Microsoft Defender-Sicherheits Center zu gewähren.
+
 
 ## <a name="office-365-advanced-data-governance"></a>Office 365 Advanced Data Governance
 
