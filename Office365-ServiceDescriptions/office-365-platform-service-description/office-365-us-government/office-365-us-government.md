@@ -10,14 +10,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Artikel bietet eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind.
-ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609896"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954812"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
+
+> [!IMPORTANT]
+> Microsoft Teams erlebt aufgrund der Pandemie Coronavirus (COVID-19) eine enorme Menge an Online anrufen und Audio/Videokonferenzen.<br/>
+> 
+>Als Reaktion auf die beispiellose steigende Anzahl von Anrufen und zur Sicherstellung der Kontinuität und Verfügbarkeit ermöglicht Microsoft Microsoft Teams gcc-Audio/Video-Server die Nutzung von Verarbeitungskapazität in unseren kommerziellen Rechenzentren sowie in unseren Regierungs Rechenzentren.<br/>
+> 
+>Diese Audio/Video-Server befinden sich innerhalb der Microsoft Azure FedRAMP-Grenzserver mit hoher Akkreditierung in den Vereinigten Staaten und speichern keine Kunden Inhalte. Allerdings verarbeiten diese Server Audio und Video für Anrufe und Konferenzen und werden während dieser Übergangsperiode unter unserer kommerziellen Belegschaft betrieben.<br/>
+> 
+>Qualifizierte, geprüfte Mitarbeiter überwachen diese Server für den potenziellen Zugriff auf Kundendaten, indem Sie alle interaktiven Protokolldateien auf diese Server überprüfen. Qualifiziertes Personal erfüllt gcc-Anforderungen für den Zugriff auf Kunden Inhalte. Ausführliche Informationen zu Screening-Anforderungen finden Sie in der [gcc-Dienstbeschreibung](gcc.md).<br/>
+> 
+>Vielen Dank für Ihre Unterstützung, da wir Maßnahmen ergreifen, um sicherzustellen, dass unsere Dienste in diesen außergewöhnlichen Zeiten verfügbar und zuverlässig bleiben.<br/> 
 
 Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Abschnitt enthält eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diesen zusätzlichen Abschnitt neben den [Beschreibungen der Office 365-Dienste ](../../office-365-service-descriptions-technet-library.md)zu lesen.
   

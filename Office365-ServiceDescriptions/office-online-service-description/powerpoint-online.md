@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint für das Web (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft Office 365 Kunden mit Office für das Internet können unterwegs Dateien anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545748"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959323"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint für das Web
 
@@ -117,7 +117,7 @@ Nicht verfügbar in PowerPoint für das Internet. Mit PowerPoint für das Intern
   
 ## <a name="navigation---slide-sorter"></a>Navigation-Foliensortierung
 
-Nicht verfügbar in PowerPoint für das Internet. Foliensortierungsansicht mit einer Ansicht Ihrer Folien in Miniaturansicht, sodass das Sortieren und organisieren der Folien vereinfacht wird, ist in PowerPoint für das Internet nicht verfügbar. Mithilfe der PowerPoint-Desktop-App können Sie die Foliensortierungsansicht verwenden, um Ihre Folien zu organisieren, Abschnitte hinzuzufügen und Folien in verschiedene Kategorien zu sortieren.
+Die Foliensortierungsansicht, die eine Ansicht der Folien in der Miniaturansicht bietet, erleichtert das Sortieren und organisieren der Folien. Sie können die Foliensortierungsansicht verwenden, um Ihre Folien zu organisieren, Abschnitte hinzuzufügen und Folien in unterschiedliche Kategorien zu sortieren.
   
 ## <a name="offline-viewing-and-authoring"></a>Offlineansicht und -erstellung
 

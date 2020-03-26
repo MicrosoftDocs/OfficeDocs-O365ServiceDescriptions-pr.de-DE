@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel.
-ms.openlocfilehash: 8cae1e6407ff99472d039872b82c220a338c03b4
-ms.sourcegitcommit: c7388a31056b4053ff094ff0e96f6ae891e069d7
+ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41839768"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959313"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -37,7 +37,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Teams  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Project Online  <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |
+|Project  <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |Nr.<sup>5</sup> <br/> |
 |Yammer-Academic  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**Schulungsraum Tools** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Schulungsraum Erfahrungen in Microsoft Teams  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -100,7 +100,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 > <sup>2</sup> Umfasst Exchange Online-Plan 2. <br/>
 > <sup>3</sup> Umfasst SharePoint Online-Plan 1 sowie zusätzliche Features. <br/>
 > <sup>4</sup> Umfasst SharePoint Online-Plan 2. <br/>
-> <sup>5</sup> Project Online Essentials ist nicht enthalten, kann jedoch kostenlos dem Office 365 Education-Plan hinzugefügt werden. <br/>
+> <sup>5</sup> Microsoft Project ist nicht in Office 365 enthalten, kann jedoch separat erworben werden. Project Online Essentials ist kostenlos. Wenn Sie ein Schüler oder eine Bildungseinrichtung sind, können Sie Projektplan 3 und Plan 5 zu Schulungspreisen erwerben.   <br/>
 > <sup>6</sup> Microsoft 365 Education A5 enthält Telefonsystem-, Audiokonferenz- und Anrufplanfunktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). <br/>
 > <sup>7</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
 > <sup>8</sup> Umfasst Intune. <br/>

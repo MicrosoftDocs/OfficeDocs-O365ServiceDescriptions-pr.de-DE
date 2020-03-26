@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, erfahren Sie in diesem Artikel, welche Funktionen in den einzelnen Features enthalten sind. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste&mdash;der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und&mdash;Microsoft Skype for Business Online, damit Benutzer von praktisch überall über das Internet produktiv sein können.
-ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 949fe15b1bb6f0d8823aeb2156975636149e2b4e
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609966"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959293"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
@@ -39,13 +39,13 @@ Jeder Office 365 Bildungsplan umfasst eine Reihe von einzelnen Diensten, beispie
 |Skype for Business Online  <br/> |Ja<sup>7</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |
 |Office für das Web  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office-Anwendungen  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Project Online  <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |
+|Project  <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |Nr.<sup>1</sup> <br/> |
 |Power BI  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
 |Yammer-Academic  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Azure Information Protection<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project Online ist nicht enthalten, kann jedoch kostenlos dem Office 365 Education-Plan hinzugefügt werden. <br/> 
+> <sup>1</sup> Microsoft Project ist nicht in Office 365 enthalten, kann jedoch separat erworben werden. Project Online Essentials ist kostenlos. Wenn Sie ein Schüler oder eine Bildungseinrichtung sind, können Sie Projektplan 3 und Plan 5 zu Schulungspreisen erwerben.   <br/> 
 <sup>2</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/> 
 <sup>3</sup> Office 365 a5 enthält Telefon System-, Audiokonferenz-und Anruf Plan Funktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). <br/> <sup>4</sup> Umfasst Exchange Online Plan 2. <br/> 
 <sup>5</sup> Umfasst Exchange Online Plan 1 sowie zusätzliche Features.<br/> 
@@ -346,7 +346,7 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |Quarantäne - Verwaltung durch Administrator  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Quarantäne - Selbstverwaltung durch Endbenutzer  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Advanced Threat Protection  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Benutzerdefiniertes Routing von ausgehenden e-Mails  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Secure messaging with a trusted partner  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Conditional mail routing  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
