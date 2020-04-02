@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
-ms.openlocfilehash: c1e424939962ab4d106bfdc3c3e8a335810ffdb0
-ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
+ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954802"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093572"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365-Plattformdienstbeschreibung
 
 Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
   
-Microsoft Office 365 bietet die Leistungsfähigkeit von Cloud-Produktivität für Unternehmen jeder Größe, wodurch Zeit, Geld gespart und wertvolle Ressourcen freigegeben werden. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft – einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Internet und Microsoft Skype for Business Online: damit Benutzer von praktisch überall über das Internet produktiv arbeiten können.
+Microsoft Office 365 bietet die Leistungsfähigkeit von Cloud-Produktivität für Unternehmen jeder Größe, wodurch Zeit, Geld gespart und wertvolle Ressourcen freigegeben werden. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und Microsoft Skype for Business Online, damit Benutzer von praktisch überall über das Internet produktiv sein können.
   
 Informationen zum Vergleichen von Features in den Plänen finden Sie unter [Compare Office 365 for Business Plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oder, eine ausführlichere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter [Office 365 Service ](../office-365-service-descriptions-technet-library.md)descriptions.
   
@@ -96,23 +96,23 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Nr.<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>2</sup> <br/> |
 |**[Funktionen der Office 365-Suite](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
-|Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nr.<sup>20</sup>  <br/> |Nr.<sup>20</sup>  <br/> |Nein  <br/> |
-|Microsoft Briefing e-Mail<sup>23</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Power Automate  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>14</sup> <br/> |
+|Microsoft Bookings  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |Nr.<sup>19</sup>  <br/> |Nr.<sup>19</sup>  <br/> |Nein  <br/> |
+|Microsoft-Briefing-e-Mail<sup>22</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft Power Automate  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup> <br/> |
 |Microsoft Forms  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Graph-API  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft myAnalytics<sup>21</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Microsoft myAnalytics<sup>20</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Microsoft Planner  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft PowerApps  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup> <br/> |
+|Microsoft PowerApps  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |
 |Microsoft StaffHub  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Stream  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Yes<sup>18</sup> <br/> |
+|Microsoft Stream  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |
-|Microsoft Teams<sup>10</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>12</sup> <br/> |
+|Microsoft Teams<sup>10</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> |
 |Office Delve  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Office 365-Gruppen  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365-Video  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>11</sup> <br/> |
-|OneNote-Kursnotizbuch  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>15</sup> <br/> |Nein  <br/> |
-|Microsoft Kaizala<sup>19</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> |
+|OneNote-Kursnotizbuch  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>14</sup> <br/> |Nein  <br/> |
+|Microsoft Kaizala<sup>18</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> |
 |**[Benutzerkontenverwaltung](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Cloudidentität, Verbundidentität oder mehrstufige Authentifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office 365-Desktopsetup  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -125,7 +125,7 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Verwalten von Sicherheitsgruppen mit Office 365  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Mehrere Administratorrollen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Zulassen, dass ein Partner Office 365 für Sie verwaltet  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Azure Active Directory-Dienste<sup>22</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Azure Active Directory Services<sup>21</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Domänen](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Hinzufügen von benutzerdefinierten Domänen der zweiten Ebene, wie „fourthcoffee.com"  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Hinzufügen von benutzerdefinierten Domänen der dritten Ebene, wie „marketing.fourthcoffee.com"  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -185,8 +185,8 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 |Office 365 Cloud App Security  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Advanced Threat Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Kunden-Lockbox  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|Kundenschlüssel für Office 365<sup>16</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|Office 365 Advanced eDiscovery<sup>17</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Kundenschlüssel für Office 365<sup>15</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Office 365 Advanced eDiscovery<sup>16</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Secure Score<sup>7</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |**[Compliance](compliance-servicedesc.md)** <br/> ||||||||
@@ -217,15 +217,14 @@ Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für
 <br/><sup>9</sup> Eingeschränkte Browsererfahrung. Wenn Ihre Organisation Internet Explorer 8 oder Internet Explorer 9 für den Zugriff auf ältere Web-Apps und -Dienste verwendet, sollten Sie ein Upgrade auf Internet Explorer 11 erwägen und den Artikel „Enterprise-Modus für Internet Explorer 11" lesen. Dieses Update ermöglicht eine bessere Abwärtskompatibilität für ältere Web-Apps. 
 <br/><sup>10</sup> Microsoft Teams steht in Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise (E1, E3, E5, F3) und den Office 365 Education-Plänen zur Verfügung. 
 <br/><sup>11</sup> in Office 365 Enterprise F3 ist Office 365 Video auf die Anzeige beschränkt (keine Veröffentlichung oder Freigabe). 
-<br/><sup>12</sup> inOffice 365 Enterprise F3, 1:1-Audio/visuelle Anrufe werden unterstützt. Besprechungsrechte sind auf „Beitreten" beschränkt (kein Erstellen oder Initiieren). 
-<br/><sup>13</sup> in Office 365 Enterprise F3 ist PowerApps nur auf die Verwendung beschränkt (keine Veröffentlichung oder Freigabe). 
-<br/><sup>14</sup> in Office 365 Enterprise F3 ist Flow nur auf die Verwendung beschränkt, und die Ausführung wird auf 750 pro Benutzer pro Monat beschränkt. 
-<br/><sup>15</sup> Steht nur in Office 365 Education-Plänen einschließlich Office 365 E5 Education zur Verfügung. In Office 365 Enterprise E5 ist die Anwendung nicht verfügbar. 
-<br/><sup>16</sup> Weitere Informationen finden Sie unter [Steuern Ihrer Daten in Office 365 mithilfe des Kundenschlüssels](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.)
-<br/><sup>18</sup> Verbrauch nur für Microsoft Stream: keine Veröffentlichung oder Freigabe.
-<br/><sup>19</sup> ab Mai 2019 werden vorhandene SKUs von Office 365 und Microsoft 365 mit Kaizala pro wieder gefüllt. Ab dem 1. Juni 2019 wird Kaizala pro in allen berechtigten Office 365 und Microsoft 365-SKUs enthalten sein.
-<br/><sup>20</sup> als kostenloses Add-on verfügbar. Weitere Informationen finden Sie unter [Get Access to Microsoft Booking](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
-<br/><sup>21</sup> Weitere Informationen finden Sie unter [myAnalytics-Pläne und-Umgebungen](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
-<br/><sup>22</sup> enthält die Azure Active Directory-Features, die in der Spalte **Office 365 apps** auf der [Seite Azure Active Directory Pricing](https://azure.microsoft.com/pricing/details/active-directory/)beschrieben werden. Sie müssen Azure Active Directory Plan 1 oder Plan 2, Enterprise Mobile Security oder Microsoft 365 E3 oder E5 hinzufügen, um die Premium-Azure AD Funktionen zu erhalten.<br/>
-<sup>23</sup> die Briefing-e-Mail wird automatisch allen Benutzern von Exchange Online zur Verfügung gestellt. Weitere Informationen finden Sie unter [Konfigurieren der Briefing-e-Mail](https://docs.microsoft.com/Briefing/be-admin).<br>
+<br/><sup>12</sup> in Office 365 Enterprise F3 ist PowerApps auf die Verwendung beschränkt (keine Veröffentlichung oder Freigabe). 
+<br/><sup>13</sup> in Office 365 Enterprise F3 ist Flow nur auf die Verwendung beschränkt, und die Ausführung wird auf 750 pro Benutzer pro Monat beschränkt. 
+<br/><sup>14</sup> nur verfügbar in Office 365 Bildungsplänen, einschließlich Office 365 E5 Education. In Office 365 Enterprise E5 ist die Anwendung nicht verfügbar. 
+<br/><sup>15</sup> Weitere Informationen finden Sie unter [Steuern der Daten in Office 365 mit dem Kundenschlüssel](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>16</sup> Advanced eDiscovery wird in den Vereinigten Staaten und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.)
+<br/><sup>17</sup> Verbrauch nur für Microsoft Stream: keine Veröffentlichung oder Freigabe.
+<br/><sup>18</sup> ab Mai 2019 werden die vorhandenen berechtigten SKUs Office 365 und Microsoft 365 mit Kaizala pro wieder gefüllt. Ab dem 1. Juni 2019 wird Kaizala pro in allen berechtigten Office 365 und Microsoft 365-SKUs enthalten sein.
+<br/><sup>19</sup> als kostenloses Add-on verfügbar. Weitere Informationen finden Sie unter [Get Access to Microsoft Booking](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
+<br/><sup>20</sup> Weitere Informationen finden Sie unter [myAnalytics-Pläne und-Umgebungen](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
+<br/><sup>21</sup> enthält die Azure Active Directory-Features, die in der Spalte **Office 365 apps** auf der [Seite Azure Active Directory Pricing](https://azure.microsoft.com/pricing/details/active-directory/)beschrieben werden. Sie müssen Azure Active Directory Plan 1 oder Plan 2, Enterprise Mobile Security oder Microsoft 365 E3 oder E5 hinzufügen, um die Premium-Azure AD Funktionen zu erhalten.<br/>
+<sup>22</sup> die Briefing-e-Mail wird automatisch allen Benutzern von Exchange Online zur Verfügung gestellt. Weitere Informationen finden Sie unter [Konfigurieren der Briefing-e-Mail](https://docs.microsoft.com/Briefing/be-admin).<br>

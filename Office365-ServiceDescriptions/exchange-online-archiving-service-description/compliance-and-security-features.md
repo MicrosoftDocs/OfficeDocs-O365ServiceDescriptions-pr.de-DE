@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260730"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093562"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Kompatibilitäts-und Sicherheitsfeatures in Exchange Online Archivierung
 
@@ -37,9 +37,6 @@ Die Aufbewahrungsrichtlinienfunktionen in Exchange Online-Archivierung entsprech
 ### <a name="in-place-hold-and-litigation-hold"></a>Compliance-Archiv und Aufbewahrung für eventuelle Rechtsstreitigkeiten
 
 Wenn Rechtsstreitigkeiten zu erwarten sind, sind Organisationen dazu verpflichtet, die für den Fall relevanten elektronisch gespeicherten Informationen einschließlich E-Mail aufzubewahren. Diese Erwartung kann eintreten, bevor die Details des Falls bekannt werden, und die Menge der aufzubewahrenden Daten ist häufig groß. Organisationen können alle E-Mails zu einem bestimmten Thema oder alle E-Mails für bestimmte Personen aufbewahren.
-  
-> [!NOTE]
-> Compliance-Archiv und Beweissicherungsverfahren gelten nicht für E-Mails, die mithilfe von POP- oder IMAP-Clients oder von benutzerdefinierten Anwendungen gesendet werden, die das SMTP-Protokoll verwenden. 
   
 In Exchange Online können Sie das Compliance-Archiv oder die Aufbewahrung für eventuelle Rechtsstreitigkeiten verwenden, um folgende Ziele zu erreichen:
   
@@ -107,7 +104,7 @@ Exchange Online-Archivierung speichert S/MIME(Secure/Multipurpose Internet Mail 
   
 In ähnlicher Weise speichert Exchange Online-Archivierung Nachrichten, die anhand von clientseitigen, Drittanbieter-Verschlüsselungslösungen wie Pretty Good Privacy (PGP) verschlüsselt wurden.
   
-### <a name="information-rights-management"></a>Information Rights Management
+### <a name="information-rights-management"></a>Verwaltung von Informationsrechten
 
 Exchange Online-Archivierung bietet keine gehosteten Dienste für die Verwaltung von Informationsrechten, doch Administratoren können lokale Active Directory-Rechteverwaltungsdienste nutzen. Wenn ein AD RMS-Server bereitgestellt wird, kann Outlook direkt mit dem Server kommunizieren und ermöglicht somit den Benutzern das Verfassen und Lesen von IRM-geschützten Nachrichten. Wenn die Interoperabilität zwischen AD RMS-Server und lokaler Exchange-Umgebung konfiguriert wurde, können Benutzer IRM-geschützte Nachrichten verfassen und lesen.
   
