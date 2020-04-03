@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Office 365 Security &amp; Compliance Center wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101124"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109435"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -75,11 +75,11 @@ Grenzwert von <sup>3</sup> 50 GB.
 
 <sup>8</sup> Sie können auch die API für die [Office 365 Verwaltungsaktivität](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen.
 
-<sup>9</sup> es steht ein DLP-Add-on zur Verfügung, das jeder SKU mit Exchange oder SharePoint/OneDrive hinzugefügt werden kann.
+<sup>9</sup> erfordert Office 365-Add-on zur Verhinderung von Datenverlust.
 
 <sup>10</sup> Sensitivitäts Bezeichnungen sind auch in Azure Information Protection P1 und P2 enthalten.
 
-<sup>11</sup> eine Exchange Online Plan 2-Lizenz ist erforderlich, um Inhalte in einem Benutzerpostfach mithilfe einer Aufbewahrungsrichtlinie beizubehalten.
+<sup>11</sup> eine Exchange Online Plan 2-oder Exchange Online-Archivierungslizenz ist erforderlich, um Inhalte in einem Benutzerpostfach mithilfe einer Aufbewahrungsrichtlinie beizubehalten.
 
 <sup>12</sup> Advanced Audit bietet eine einjährige Aufbewahrung von Überwachungsprotokollen für Aktivitäten in Azure Active Directory, Exchange und SharePoint und bietet die Möglichkeit, benutzerdefinierte Aufbewahrungsrichtlinien für Überwachungsprotokolle zu erstellen, um die Überwachungsprotokoll Aufbewahrung für andere Office 365 Dienste zu verwalten. Es bietet auch Zugriff auf wichtige Ereignisse für Untersuchungen und Zugriff auf die Office 365 Verwaltungs Aktivitäts-API mit hoher Bandbreite.
 
@@ -131,7 +131,7 @@ Grenzwert von <sup>3</sup> 50 GB.
 
 <sup>8</sup> Sie können auch die API für die [Office 365 Verwaltungsaktivität](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen.
 
-<sup>9</sup> es steht ein DLP-Add-on zur Verfügung, das jeder SKU mit Exchange oder SharePoint/OneDrive hinzugefügt werden kann.
+<sup>9</sup> erfordert Office 365-Add-on zur Verhinderung von Datenverlust.
 
 <sup>10</sup> nur für Dateien, die in OneDrive für Unternehmen gespeichert sind.
 
