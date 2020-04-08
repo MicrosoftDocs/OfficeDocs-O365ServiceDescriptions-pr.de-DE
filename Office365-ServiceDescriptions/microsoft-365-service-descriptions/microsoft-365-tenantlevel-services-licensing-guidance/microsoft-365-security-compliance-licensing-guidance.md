@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365 Security & Compliance, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101114"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171141"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -323,7 +323,7 @@ Durch die Aktivierung von PAM können Organisationen mit NULL stehenden rechten 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können? 
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/A5/G5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von PAM zu profitieren.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance und das Insider Risiko Management von Microsoft 365 E5/A5 bieten die Rechte für einen Benutzer, von PAM zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -379,7 +379,7 @@ Informationsbarrieren sind Richtlinien, die ein Administrator konfigurieren kann
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:
 
 | Szenario | Wer benötigt eine Lizenz? |
 |:-------|:------|
@@ -444,23 +444,23 @@ Administratoren sollten Nachrichtenfluss Regeln für erweiterte Nachrichtenversc
 
 ## <a name="communication-compliance"></a>Kommunikation Compliance
 
-Mit der Kommunikation Compliance in Office 365 können Sie Aufsichtsrichtlinien erstellen, um Mitarbeiter Kommunikationen zur Untersuchung durch designierte Bearbeiter zu erfassen. Sie können bestimmte Richtlinien definieren, die interne und externe e-Mails, Microsoft Teams oder Drittanbieter Kommunikationen in Ihrer Organisation erfassen. Bearbeiter können dann die Nachrichten überprüfen, um sicherzustellen, dass Sie mit den Nachrichtenstandards Ihrer Organisation übereinstimmen und diese mit dem Klassifizierungs lösen.
+Die Kommunikations Kompatibilität in Microsoft 365 hilft, Kommunikationsrisiken zu minimieren, indem Sie Sie bei der Erkennung, Erfassung und Durchführung von Korrekturaktionen für ungeeignete Nachrichten in Ihrer Organisation unterstützen. Sie können bestimmte Richtlinien definieren, die interne und externe e-Mails, Microsoft Teams oder Drittanbieter Kommunikationen in Ihrer Organisation erfassen. Bearbeiter können geeignete Korrekturaktionen durchführen, um sicherzustellen, dass Sie mit den Nachrichtenstandards Ihrer Organisation konform sind.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren vom Dienst, indem ihre Kommunikation durch Aufsichtsrichtlinien überwacht wird.
+Compliance-Experten profitieren vom Dienst, indem Sie die Organisationskommunikation durch Kommunikationsrichtlinien überwachen lassen.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5 Information Protection and Governance und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, um von der Kommunikations Konformität zu profitieren.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Compliance und das Insider-Risiko Management von Microsoft 365 E5/A5 bieten die Rechte für einen Benutzer, der von der Kommunikations Konformität profitiert.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren erstellen Aufsichtsrichtlinien im Security & Compliance Center. Diese Richtlinien definieren, welche Kommunikation und welche Benutzer in der Organisation überprüft werden sollen, definieren benutzerdefinierte Bedingungen, denen die Kommunikation entsprechen muss, und geben an, wer Überprüfungen durchführen soll.
+Administratoren und Compliance-Experten erstellen Kommunikationsrichtlinien für Compliance im Microsoft 365 Compliance Center. Diese Richtlinien definieren, welche Kommunikationen und Benutzer in der Organisation überprüft werden sollen, definieren benutzerdefinierte Bedingungen, denen die Kommunikation entsprechen muss, und geben an, wer Überprüfungen durchführen soll.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren wählen bestimmte Benutzer oder Gruppen aus, die in eine Aufsichtsrichtlinie eingeschlossen werden sollen. Bei der Auswahl einer Gruppe können Sie auch bestimmte Benutzer in der Gruppe auswählen, die von der Aufsichtsrichtlinie ausgeschlossen werden sollen. Weitere Informationen zur Aufsichtsrichtlinie finden Sie unter [Aufsichtsrichtlinien in Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies).
+Administratoren wählen bestimmte Benutzer oder Gruppen aus, die in eine Kommunikations Konformitätsrichtlinie eingeschlossen werden sollen. Bei der Auswahl einer Gruppe können Sie auch bestimmte Benutzer in der Gruppe auswählen, die von der Kommunikations Konformitätsrichtlinie ausgeschlossen werden sollen. Weitere Informationen zur Kommunikation Compliance Policies finden Sie unter [Communication Compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
 ## <a name="insider-risk-management"></a>Insider Risiko Management
 
