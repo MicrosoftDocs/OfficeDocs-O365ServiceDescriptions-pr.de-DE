@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produktivität von Office 365 mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben.
-ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
+ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109445"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206622"
 ---
 # <a name="microsoft-365-business-service-description"></a>Microsoft 365 Business – Dienstbeschreibung
 
@@ -25,7 +25,6 @@ Microsoft 365 Business ist eine integrierte Lösung, die die erstklassige Produk
 
 Microsoft 365 Business umfasst im Wesentlichen alle Features, die in Office 365 Business Premium zusammen mit zusätzlichen Office 365 Sicherheitsfeatures verfügbar sind.
 
-Microsoft 365 Business umfasst die folgenden Azure AD Premium P1-Funktionen: Self-Service Password Reset mit AD Write-Back, Azure Multi-Factor Authentication (MFA) und bedingtem Zugriff. Es enthält nicht die Gesamtheit Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|
@@ -107,7 +106,7 @@ Microsoft 365 Business umfasst die folgenden Azure AD Premium P1-Funktionen: Sel
 |Ordner vor Bedrohungen wie Ransomware schützen <br/> |Ja  <br/> |
 |Schützen von Dateien und Ordnern auf PCs vor nicht autorisiertem Zugriff mit BitLocker <br/> |Ja  <br/> |
 
-### <a name="notes"></a>Hinweise
+### <a name="notes"></a>Notes
 <sup>1</sup> enthält Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) aktiviert die unterstützten Funktionen für die Verwaltung von Informationsrechten (Information Rights Management, IRM). AIP-Plan 1 ist in Microsoft 365 Business enthalten. <br/>
 <sup>3</sup> Microsoft 365 Business umfasst Exchange Online Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>
