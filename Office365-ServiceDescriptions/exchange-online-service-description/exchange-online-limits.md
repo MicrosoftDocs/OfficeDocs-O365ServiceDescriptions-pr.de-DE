@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: High
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 31042c0cb80a844502ab77208c9684f47835f4cf
-ms.sourcegitcommit: 346e5482d49a354a48fc69c57b55d21a31a70f51
+ms.openlocfilehash: cc3abf1d5b2efa529a40851b1b8e536dcc3bc944
+ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707066"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43285531"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -354,13 +354,14 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Grenzwert für Empfängerrate<sup>1</sup>|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|
-|Empfängergrenzwert|500 Empfänger|1000 Empfänger|1000 Empfänger|1000 Empfänger|1000 Empfänger|1000 Empfänger|
+|Grenzwert für Empfängerrate<sup>1</sup>|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|
+|Empfängergrenzwert<sup>2</sup>|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|
 |Grenzwert für Empfängerproxyadresse|400|400|400|400|400|400|
 |Nachrichtenratengrenzwert|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|
 
 > [!NOTE]
 > <sup>1</sup> nach dem Erreichen des Empfänger Raten Grenzwerts können Nachrichten nicht aus dem Postfach gesendet werden, bis die Anzahl der Empfänger, die Nachrichten in den letzten 24 Stunden gesendet haben, unterschritten wird. Ein Benutzer sendet beispielsweise eine e-Mail-Nachricht an 5.000 Empfänger um 09:00 Uhr, sendet dann eine weitere Nachricht an 2, 1000 Empfänger um 10:00 Uhr und sendet dann eine weitere Nachricht an 2.500 Empfänger bei 11:00 am, wobei die Grenze von 10.000 Nachrichten erreicht wird. Der Benutzer kann Nachrichten erst wieder senden, wenn 09:00 am nächsten Tag ist.
+> <sup>2</sup> Sie können Empfänger Grenzwerte zwischen 1 und 1000 für vorhandene Postfächer und für neue Postfächer anpassen, die in Zukunft erstellt werden. Bearbeiten Sie den Empfängergrenzwert für vorhandene Postfächer einzeln oder in Massen mit dem Exchange Admin Center, und passen Sie die Standardeinstellung für neue Postfächerüber Remote-PowerShell an. Weitere Informationen finden Sie unter [anpassbare Empfänger Grenzwerte in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
 
 #### <a name="sending-limits-across-standalone-options"></a>Sendegrenzwerte bei Optionen für eigenständige Pläne
 
@@ -481,7 +482,7 @@ Die folgende Liste enthält Grenzwerte für Journalregeln, Transportregeln (auch
 |**Feature**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Maximale Anzahl von Journalregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Anzahl Transportregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
-|Maximale Größe einer einzelnen Transportregel|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
+|Maximale Größe einer einzelnen Transportregel|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |Überprüfungsgrenzwerte für Anlageninhalt|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|
