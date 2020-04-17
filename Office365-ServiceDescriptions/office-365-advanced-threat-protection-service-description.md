@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: 5c604eac3079946c5b6fc2a02b44f4870a99a69f
-ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
+ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
+ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43285551"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529218"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
@@ -87,7 +87,7 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 |[Sichere Links](#safe-links)|Ja|Ja|Ja|
 |Sichere Links in Teams|Ja|Ja|Ja|
 |[ATP für SharePoint, OneDrive und Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Ja|Ja|Ja|
-|[Anti-Phishing-Richtlinien](#anti-phishing-policies)|Ja|Ja|Ja|
+|[Antiphishing-Richtlinien](#anti-phishing-policies)|Ja|Ja|Ja|
 |[Echtzeitberichte](#real-time-reports)|Ja|Ja|Ja|
 |*Automatisierung, Untersuchung, Korrektur und Schulung*|
 |[Nachverfolgungslisten für Bedrohungen](#threat-trackers)|Nein|Ja|Ja|
@@ -96,7 +96,7 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 |[Angriffssimulator](#attack-simulator)|Nein|Ja|Ja|
 
 > [!TIP]
-> Möchten Sie eine herunterladbare Liste der Unterschiede zwischen Office 365 ATP-Plan 1 und Plan 2? [Rufen Sie die PDF-Datei](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf)ab. 
+> Möchten Sie eine herunterladbare Liste der Unterschiede zwischen Office 365 ATP-Plan 1 und Plan 2? [Rufen Sie die PDF-Datei](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)ab. 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Funktionen für Advanced Threat Protection (ATP)
 
@@ -132,7 +132,7 @@ Sichere links stehen für URLs in den folgenden Apps zur Verfügung:
 
 [ATP für SharePoint, OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) unterstützt das erkennen und Blockieren von Dateien, die als bösartig identifiziert werden, in Teamwebsites und Dokumentbibliotheken. Darüber hinaus ist der Schutz für ATP-sichere Links jetzt in Microsoft Teams-Kanälen und-Chats verfügbar.
 
-### <a name="anti-phishing-policies"></a>Anti-Phishing-Richtlinien
+### <a name="anti-phishing-policies"></a>Antiphishing-Richtlinien
 
 [ATP-Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) prüft eingehende Nachrichten auf Indikatoren, bei denen es sich möglicherweise um einen Phishing-Versuch handelt. Wenn Benutzer durch ATP-Richtlinien (sichere Anlagen, sichere Links oder Anti-Phishing) abgedeckt werden, werden eingehende Nachrichten von mehreren maschinellen Lernmodellen ausgewertet, die Nachrichten analysieren, und die entsprechende Aktion wird basierend auf den konfigurierten Richtlinien ausgeführt.
 
@@ -144,7 +144,7 @@ Zu den im Office 365 Security & Compliance Center verfügbaren Überwachungsfunk
 
 Explorer (auch als Threat Explorer bezeichnet) ist ein Echtzeitbericht, mit dem autorisierte Benutzer die aktuellen Bedrohungen identifizieren und analysieren können. Standardmäßig werden in diesem Berichtdaten für die letzten 7 Tage angezeigt; Ansichten können jedoch geändert werden, um Daten für die letzten 30 Tage anzuzeigen.
 
-Der Explorer enthält Ansichten wie Schadsoftware (für e-Mails und Inhalte), Übermittlungen, Phishing und alle e-Mails. Um zu sehen, wie Explorer mit Echt Zeit Erkennungen vergleicht, [Laden Sie dieses PDF-Dokument herunter](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
+Der Explorer enthält Ansichten wie Schadsoftware (für e-Mails und Inhalte), Übermittlungen, Phishing und alle e-Mails. Um zu sehen, wie Explorer mit Echt Zeit Erkennungen vergleicht, [Laden Sie dieses PDF-Dokument herunter](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 
 Weitere Informationen zum Explorer (in Office 365 Advanced Threat Protection Plan 2) und zur Echtzeiterkennung (in Office 365 Advanced Threat Protection Plan 1) finden Sie unter [Threat Explorer (und Real-Time Detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
@@ -152,7 +152,7 @@ Weitere Informationen zum Explorer (in Office 365 Advanced Threat Protection Pla
 
 Echtzeiterkennung ist ein Echtzeitbericht, mit dem autorisierte Benutzer die aktuellen Bedrohungen identifizieren und analysieren können. Ähnlich wie der Explorer werden in diesem Bericht standardmäßig Daten für die letzten 7 Tage angezeigt.
 
-Echt Zeit Erkennungen enthalten Ansichten wie Schadsoftware (für e-Mails und Inhalte), Übermittlungen und Phishing. Um zu sehen, wie echt Zeit Erkennungen mit Explorer verglichen werden, [Laden Sie diese PDF herunter](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
+Echt Zeit Erkennungen enthalten Ansichten wie Schadsoftware (für e-Mails und Inhalte), Übermittlungen und Phishing. Um zu sehen, wie echt Zeit Erkennungen mit Explorer verglichen werden, [Laden Sie diese PDF herunter](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 
 Weitere Informationen zum Explorer (in Office 365 Advanced Threat Protection Plan 2) und zur Echtzeiterkennung (in Office 365 Advanced Threat Protection Plan 1) finden Sie unter [Threat Explorer (und Real-Time Detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 

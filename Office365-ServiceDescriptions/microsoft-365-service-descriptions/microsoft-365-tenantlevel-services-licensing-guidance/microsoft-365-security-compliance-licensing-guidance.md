@@ -5,19 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
-ms.date: 4/10/2020
+ms.date: 4/13/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365 Security & Compliance, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
-ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
+description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
+ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
+ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43230795"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529208"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -26,7 +26,7 @@ Für die Zwecke dieses Artikels handelt es sich bei einem Dienst auf Mandanteneb
 > [!NOTE]
 > Einige Mandanten Dienste können derzeit keine Vorteile für bestimmte Benutzer einschränken. Es sollten Anstrengungen unternommen werden, um die Dienst Vorteile für lizenzierte Benutzer zu begrenzen. Auf diese Weise können potenzielle Dienstunterbrechungen in Ihrer Organisation vermieden werden, sobald die Zielfunktionen verfügbar sind.
 
-Um die Optionen für die Lizenzierung Ihrer Benutzer zu erhalten, um vom 1. April 2020 von den Microsoft 365-Kompatibilitätsfunktionen zu profitieren, laden Sie diesen [detaillierten Microsoft 365-Kompatibilitäts Lizenz Vergleich herunter (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Microsoft 365-Kompatibilitätsfunktionen ab dem 1. April 2020 profitieren, laden Sie den detaillierten Vergleich der Microsoft 365-Kompatibilitäts Lizenzierung herunter. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -207,11 +207,11 @@ Benutzer profitieren davon, dass Sie Daten zu Aufbewahrungszwecken klassifiziere
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Office 365 E5/A5/E3/A3/F3/E1 stellen die Rechte für einen Benutzer zur Verfügung, um von einer einzelnen organisationsweiten oder standortweiten Aufbewahrungsrichtlinie und/oder manuellen Aufbewahrungs Bezeichnungen zu profitieren.
+Microsoft 365 E5/A5/E3/A3/F1/F3/Business Premium, Office 365 E5/A5/E3/A3/F3/E1 stellen die Rechte für einen Benutzer zur Verfügung, um von einer einzigen organisationsweiten oder standortweiten Aufbewahrungsrichtlinie und/oder manuellen Aufbewahrungs Bezeichnungen zu profitieren.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/a5 und Office 365 erweiterte Kompatibilität bieten die Rechte für einen Benutzer, von der automatischen Anwendung von Aufbewahrungs Bezeichnungen oder Richtlinien zu profitieren, beginnend mit dem Aufbewahrungszeitraum einer Aufbewahrungs Bezeichnung basierend auf einem benutzerdefinierten Ereignis, wobei eine manuelle Dispositions Überprüfung am Ende des Aufbewahrungszeitraums des Etiketts, das Importieren von drittanbieterdaten über systemeigene Daten Konnektoren, das Erkennen von
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/a5 und Office 365 erweiterte Kompatibilität bieten die Rechte für einen Benutzer, von der automatischen Anwendung von Aufbewahrungs Bezeichnungen oder Richtlinien zu profitieren, beginnend mit dem Aufbewahrungszeitraum einer Aufbewahrungs Bezeichnung basierend auf einem benutzerdefinierten Ereignis, wobei eine manuelle Dispositions Überprüfung am Ende des Aufbewahrungszeitraums des Etiketts, das Importieren von drittanbieterdaten über systemeigene Daten Konnektoren, das Erkennen von
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5-Informationsschutz und-Steuerung bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs Bezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 E5/A5 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs Bezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
 Spezifische Rechte nach Lizenz finden Sie im [ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
 
@@ -231,9 +231,9 @@ Die Datensatzverwaltung unterstützt Organisationen bei der Erfüllung ihrer ges
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/A5, Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von der Datensatzverwaltung zu profitieren, einschließlich Deklarieren von Elementen als Datensätze, automatisches Anwenden von Aufbewahrungs-oder Daten Satzbezeichnungen und Ausführen der Prozesse zur Dispositions Überprüfung (ohne automatisches Anwenden einer Aufbewahrungs Bezeichnung auf
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/A5, Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von der Datensatzverwaltung zu profitieren, einschließlich Deklarieren von Elementen als Datensätze, automatisches Anwenden von Aufbewahrungs-oder Daten Satzbezeichnungen und Ausführen der Prozesse zur Dispositions Überprüfung (ohne automatisches Anwenden einer Aufbewahrung
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5-Informationsschutz und-Steuerung bieten den Benutzern die Rechte, von der automatischen Aufbewahrung oder von Daten Satz Beschriftungen basierend auf Schulungs Klassifizierern profitieren zu können.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 E5/A5 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Aufbewahrung oder von Daten Satz Beschriftungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
 Spezifische Rechte nach Lizenz finden Sie im [ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
 
@@ -280,7 +280,7 @@ Benutzer profitieren vom Kundenschlüssel, indem Sie Ihre Daten auf der Anwendun
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/A5/G5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, vom Kundenschlüssel zu profitieren. Um den vollen Nutzen aus dem Kundenschlüssel zu ziehen, müssen Sie auch über ein Abonnement für Azure Key Vault verfügen.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/a5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, vom Kundenschlüssel zu profitieren. Um den vollen Nutzen aus dem Kundenschlüssel zu ziehen, müssen Sie auch über ein Abonnement für Azure Key Vault verfügen.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -344,7 +344,7 @@ Benutzer profitieren von DLP für Exchange Online, SharePoint Online und OneDriv
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 a1/E3/A3/G3/Business, Office 365 E3/A3/G3 und Office 365 Verhinderung von Datenverlust bieten die Rechte für einen Benutzer, der von Office 365 DLP für Exchange Online, SharePoint Online und OneDrive für Unternehmen profitieren kann.
+Microsoft 365 a1/E3/A3/Business, Office 365 E3/a3 und Office 365 Verhinderung von Datenverlust bieten die Rechte für einen Benutzer, der von Office 365 DLP für Exchange Online, SharePoint Online und OneDrive für Unternehmen profitieren kann.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -391,7 +391,7 @@ Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informat
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/A5/G5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von Informationsbarrieren zu profitieren.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 E5/A5 Information Protection and Governance, Office 365 E5/a5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von Informationsbarrieren zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -413,7 +413,7 @@ Nachrichtenabsender profitieren von der zusätzlichen Kontrolle über vertraulic
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 und Azure Information Protection Plan 1 bieten die Rechte für einen Benutzer, um von Office 365 Nachrichtenverschlüsselung zu profitieren.
+Microsoft 365 E3/A3, Office 365 E3/a3 und Azure Information Protection Plan 1 bieten die Rechte für einen Benutzer, um von Office 365 Nachrichtenverschlüsselung zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -433,7 +433,7 @@ Nachrichtenabsender profitieren von der zusätzlichen Kontrolle über vertraulic
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 E5/A5 Information Protection and Governance und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, um von der erweiterten Nachrichtenverschlüsselung zu profitieren.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365 E5/A5 Information Protection and Governance und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, um von der erweiterten Nachrichtenverschlüsselung zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -443,7 +443,7 @@ Administratoren erstellen und verwalten erweiterte Nachrichten Verschlüsselungs
 
 Administratoren sollten Nachrichtenfluss Regeln für erweiterte Nachrichtenverschlüsselung nur für lizenzierte Benutzer anwenden. Weitere Informationen zum Definieren von Nachrichtenfluss Regeln finden Sie unter [Definieren von Nachrichtenfluss Regeln zum Verschlüsseln von e-Mail-Nachrichten in Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
 
-## <a name="communication-compliance"></a>Kommunikation Compliance
+## <a name="communication-compliance"></a>Kommunikationscompliance
 
 Die Kommunikations Kompatibilität in Microsoft 365 hilft, Kommunikationsrisiken zu minimieren, indem Sie Sie bei der Erkennung, Erfassung und Durchführung von Korrekturaktionen für ungeeignete Nachrichten in Ihrer Organisation unterstützen. Sie können bestimmte Richtlinien definieren, die interne und externe e-Mails, Microsoft Teams oder Drittanbieter Kommunikationen in Ihrer Organisation erfassen. Bearbeiter können geeignete Korrekturaktionen durchführen, um sicherzustellen, dass Sie mit den Nachrichtenstandards Ihrer Organisation konform sind.
 
@@ -453,7 +453,7 @@ Compliance-Experten profitieren vom Dienst, indem Sie die Organisationskommunika
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Compliance und das Insider-Risiko Management von Microsoft 365 E5/A5 bieten die Rechte für einen Benutzer, der von der Kommunikations Konformität profitiert.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance und das Insider Risiko Management von Microsoft 365 E5/A5 bieten die Rechte für einen Benutzer, um von der Kommunikations Konformität zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -463,7 +463,7 @@ Administratoren und Compliance-Experten erstellen Kommunikationsrichtlinien für
 
 Administratoren wählen bestimmte Benutzer oder Gruppen aus, die in eine Kommunikations Konformitätsrichtlinie eingeschlossen werden sollen. Bei der Auswahl einer Gruppe können Sie auch bestimmte Benutzer in der Gruppe auswählen, die von der Kommunikations Konformitätsrichtlinie ausgeschlossen werden sollen. Weitere Informationen zur Kommunikation Compliance Policies finden Sie unter [Communication Compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-## <a name="insider-risk-management"></a>Insider Risiko Management
+## <a name="insider-risk-management"></a>Insider-Risikomanagement
 
 Das Insider Risk Management ist eine Lösung in Microsoft 365, mit der interne Risiken minimiert werden, indem Sie riskante Aktivitäten in Ihrer Organisation erkennen, untersuchen und Maßnahmen ergreifen können.
 Mit benutzerdefinierten Richtlinien können Sie böswillige und versehentlich riskante Aktivitäten in Ihrer Organisation erkennen und Maßnahmen ergreifen, einschließlich eskalierenden Fällen an Microsoft Advanced eDiscovery bei Bedarf. Risikoanalysten in Ihrer Organisation können schnell geeignete Maßnahmen ergreifen, um sicherzustellen, dass Benutzer mit den Compliance-Standards Ihrer Organisation konform sind.
@@ -474,7 +474,7 @@ Benutzer profitieren davon, dass ihre Aktivitäten auf das Risiko überwacht wer
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Compliance und das Insider-Risikomanagement von Microsoft 365 E5/A5 bieten den Benutzern die Rechte, vom Insider-Risikomanagement zu profitieren.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance und das Insider Risikomanagement von Microsoft 365 E5/A5 bieten die Rechte für einen Benutzer, um vom Insider Risikomanagement zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -490,7 +490,7 @@ Bedingter Zugriff ist das Tool, das von Azure Active Directory verwendet wird, u
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
-Lizenzierte Benutzer von Enterprise Mobility + Security E3/A3/G3, Microsoft 365 F3/E3/A3/G3 und Azure Active Directory Premium-Plan 1 können von bedingten Zugriffsrichtlinien profitieren. Lizenzierte Benutzer von Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security und Azure Active Directory Premium Plan 2 können vom Identitätsschutz (risikobasierte Richtlinien für bedingten Zugriff) profitieren.
+Lizenzierte Benutzer von Enterprise Mobility + Security E3/A3, Microsoft 365 F3/E3/a3 und Azure Active Directory Premium-Plan 1 können von bedingten Zugriffsrichtlinien profitieren. Lizenzierte Benutzer von Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security und Azure Active Directory Premium-Plan 2 können vom Identitätsschutz (risikobasierte Richtlinien für bedingten Zugriff) profitieren.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
