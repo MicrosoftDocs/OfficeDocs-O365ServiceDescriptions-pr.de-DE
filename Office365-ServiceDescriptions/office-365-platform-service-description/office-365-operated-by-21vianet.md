@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609936"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581977"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -40,7 +40,7 @@ Jeder Office 365 Plan, der von 21Vianet betrieben wird, umfasst eine Reihe von e
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Service**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
+|**Dienst**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Office 365 Plattform<sup>1</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Exchange Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |SharePoint Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
@@ -348,7 +348,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Nein|
-|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
+|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -1070,41 +1070,31 @@ In der folgenden Tabelle sind Office 365 Pläne aufgeführt, die den SharePoint 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
-## <a name="outlook-mobile-features"></a>Outlook Mobile-Features
+## <a name="outlook-features-for-ios-and-android"></a>Outlook-Funktionen für IOS und Android
 
-In den folgenden Tabellen sind die mobilen Outlook-Plattformen und-Features aufgeführt, die in allen Office 365 von 21Vianet betriebenen Diensten verfügbar sind.
+Office 365 betrieben von 21Vianet unterstützt sowohl Outlook für IOS als auch Outlook für Android.
 
-### <a name="mobile-platforms-supported"></a>Unterstützte mobile Plattformen
+Die folgenden mobilen Features werden nicht unterstützt:
 
-|||
-|:-----|:-----|:-----|
-| |**Outlook für IOS (iPhone & iPad)**|**Outlook für Android**|
-|Office 365, betrieben von 21Vianet|Ja|Nein|
-
-### <a name="mobile-features-supported"></a>Unterstützte mobile Features
-
-|||
-|:-----|:-----|:-----|
-|**Feature**|**Outlook für IOS (iPhone & iPad)**|**Outlook für Android**|
-|OneDrive for Business|Nein|NA|
-|Personen & Kalender Suche|Nein|NA|
-|Konferenzraum Suche & Buchung|Nein|NA|
-|Karte "Orte"|Nein|NA|
-|"LinkedIn" & "Berichte an" Daten auf Personen Karte|Nein|NA|
-|Favoriten|Nein|NA|
-|Meine e-Mails abspielen|Nein|NA|
-|Add-ins|Nein|NA|
-|Gruppen|Nein|NA|
-|Intelligente Antwort|Nein|NA|
-|Office-Feed|Nein|NA|
-|Zeit zum verlassen|Nein|NA|
-|CLP/MIL|Nein|NA|
-|Dropbox-Speicher|Nein|NA|
-|Google Drive-Speicher|Nein|NA|
-|Schachtel Speicher|Nein|NA|
-|Facebook-Kalender|Nein|NA|
-|Helpshift|Nein|NA|
-|UserVoice|Nein|NA|
+- OneDrive für Unternehmen (nur unterstützt auf Android)
+- Personen & Kalender Suche
+- Konferenzraum Suche & Buchung
+- Karte "Orte"
+- "LinkedIn" & "Berichte an" Daten auf Personen Karte
+- Favoriten
+- Meine e-Mails abspielen
+- Add-ins
+- Gruppen
+- Intelligente Antwort
+- Office-Feed
+- Zeit zum verlassen
+- Microsoft Information Protection-Vertraulichkeits Kennzeichnung
+- Dropbox-Speicher
+- Google Drive-Speicher
+- Schachtel Speicher
+- Facebook-Kalender
+- Helpshift
+- UserVoice
 
 ## <a name="project-online-features"></a>Project Online-Features
 
