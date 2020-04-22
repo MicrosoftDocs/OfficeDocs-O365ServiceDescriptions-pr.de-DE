@@ -1,5 +1,5 @@
 ---
-title: Office 365-Plattformdienstbeschreibung
+title: Microsoft 365-und Office 365-Plattformdienst Beschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
-ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: 2e706ea6dcb85b03a40fb6790b058ceb2c23be20
+ms.sourcegitcommit: 5a76557af16611192b978d84c0b01f23edaab746
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093572"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43725134"
 ---
 # <a name="office-365-platform-service-description"></a>Office 365-Plattformdienstbeschreibung
 
-Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie die Unterschiede zwischen den Office 365-Plänen, einschließlich der Exchange Online-Pläne, suchen, wird in diesem Artikel gezeigt, welche Features in beiden enthalten sind.
+Microsoft 365 und Office 365 sind in einer Vielzahl von Plänen verfügbar, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Plänen suchen, einschließlich Exchange Online Pläne, werden Sie in diesem Artikel erfahren, welche Features in jedem dieser Pläne enthalten sind.
   
-Microsoft Office 365 bietet die Leistungsfähigkeit von Cloud-Produktivität für Unternehmen jeder Größe, wodurch Zeit, Geld gespart und wertvolle Ressourcen freigegeben werden. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und Microsoft Skype for Business Online, damit Benutzer von praktisch überall über das Internet produktiv sein können.
+Microsoft 365 und Office 365 liefern die Leistungsfähigkeit von Cloud-Produktivität für Unternehmen jeder Größe, wodurch Zeit, Geld gespart und wertvolle Ressourcen freigegeben werden. Office 365 kombiniert die vertraute Microsoft Office Desktop Suite mit cloudbasierten Versionen der Kommunikations-und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und Microsoft Skype for Business Online, damit Benutzer von praktisch überall über das Internet produktiv sein können.
   
-Informationen zum Vergleichen von Features in den Plänen finden Sie unter [Compare Office 365 for Business Plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oder, eine ausführlichere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter [Office 365 Service ](../office-365-service-descriptions-technet-library.md)descriptions.
+Informationen zum Vergleich der Features in den Plänen finden Sie unter [Compare Plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oder, eine ausführlichere Liste der Funktionen finden Sie in der entsprechenden Dienstbeschreibung unter [Office 365 Dienstbeschreibungen ](../office-365-service-descriptions-technet-library.md).
   
 - Eine erste Anlaufstelle für Informationen zu Office 365 Education ist die Seite [Office 365 Education](office-365-education.md). 
     
@@ -55,7 +55,7 @@ Systemanforderungen für Office 365, den monatlichen abonnementbasierten Dienst 
 
 Informationen über Vereinbarungen zum Servicelevel finden Sie unter [Vereinbarung zum Servicelevel](https://go.microsoft.com/fwlink/?linkid=843153). Informationen zu aktuellen Betriebszeiten für Office 365 finden Sie unter [Transparente Vorgänge in Office 365](https://go.microsoft.com/fwlink/?linkid=848695).
   
-## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
+## <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
 Informationen über das Security &amp; Compliance Center und Links zu zusätzlichen Informationen und Verfügbarkeit finden Sie unter [Office 365 Security &amp; Compliance Center](office-365-securitycompliance-center.md).
   
@@ -65,7 +65,7 @@ Informationen darüber, wo Ihre Daten gespeichert werden, finden Sie in der [Dat
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Multi-Geo-Funktionen in Office 365
 
-Multi-Geo ermöglicht es einem einzelnen Office 365 Mandanten, mehrere Office 365 Rechenzentrums Geographien zu überspannen, und bietet Ihnen die Möglichkeit, Office 365 Daten für Exchange Online und OneDrive für Unternehmen, in der Ruhe auf Benutzerebene, in der ausgewählten Geographie zu speichern. 
+Multi-Geo ermöglicht es einer einzelnen Organisation, mehrere Office 365 Rechenzentrums Geographien zu überspannen, und ermöglicht es Ihnen, Office 365 Daten für Exchange Online und OneDrive für Unternehmen in ihrer gewählten geografischen Lage pro Benutzer zu speichern. 
   
 Verfügbar in GEOS: asiatisch-pazifischer Raum, Australien, Kanada, Europäische Union, Indien, Japan, Korea, Vereinigtes Königreich, Vereinigte Staaten. 
   
@@ -77,7 +77,7 @@ In der folgenden Tabelle sind alle Features der Office 365-Plattform aufgeführt
   
 Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene Organisationsformen finden Sie auf den folgenden Seiten:
   
-- Business: [Pläne und Preise für Office 365 Business](https://go.microsoft.com/fwlink/?LinkID=827896)
+- Business: [Microsoft 365 for Business-Pläne und-Preise](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - Education: [Pläne und Preise für Office 365 Education](https://go.microsoft.com/fwlink/?LinkID=827897)
     
