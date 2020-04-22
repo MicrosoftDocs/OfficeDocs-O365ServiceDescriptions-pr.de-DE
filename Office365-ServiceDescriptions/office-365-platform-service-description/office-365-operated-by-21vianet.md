@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
-ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
+ms.openlocfilehash: cd5ddf01b3075d1538470d1f352d5da4e51baacd
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43581977"
+ms.locfileid: "43639853"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -153,7 +153,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Herunterladbare Berichte zum E-Mail-Schutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verwendeter Browser|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verwendetes Betriebssystem|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Erstellen eigener Berichte mit Office 365-Webdiensten für Berichte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Erstellen eigener Berichte mit Microsoft 365-Bericht Erstellungs Webdiensten|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Dienstupdates](service-updates.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Bereitstellen regelmäßiger Updates für alle Kunden|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |An das Nachrichten Center gesendete Benachrichtigungen, wenn eine Aktion erforderlich ist, ein Problem wurde behoben, Features werden bereitgestellt oder Ihre Dienständerungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -173,7 +173,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Advanced Security Management|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Advanced Threat Protection|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Kunden-Lockbox|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Office 365 Erweiterte eDiscovery|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Erweiterte eDiscovery|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Sicheres Ergebnis<sup>4</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Informationen zu Bedrohungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Compliance](compliance-servicedesc.md)**||||||||
@@ -326,7 +326,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Rollenbasierte Berechtigungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollengruppen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollenzuweisungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|**[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
+|**[Nachrichten Richtlinie und-Kompatibilität](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Archivieren von Exchange Online-basierten Postfächern|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Cloudbasierte Archivierung von lokalen Postfächern|Nein|Nein|Nein|Ja|Nein|Nein|Nein|
 |Aufbewahrungstags und Aufbewahrungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -348,7 +348,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Nein|
-|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
+|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -461,7 +461,7 @@ Informationen zu Exchange Online Beschränkungen finden Sie in den folgenden The
 - [Grenzwerte für Exchange ActiveSync](../exchange-online-service-description/exchange-online-limits.md#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> - Die Beschränkungen, die auf eine Microsoft Office 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen.
+> - Die Beschränkungen, die auf eine Microsoft 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen.
 > - Die meisten dieser Grenzwerte können zwar nicht geändert werden, sie sollten Ihnen und den Benutzern jedoch bekannt sein.
 > - Diese Grenzwerte gelten sowohl für interne als auch für externe Empfänger.
 > - Standardmäßig schützt Exchange Online Protection (EoP) Exchange Online Postfächern. Informationen zu Grenzwerten, die für EoP-Features in Exchange Online gelten, finden Sie unter [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
@@ -493,7 +493,7 @@ In der folgenden Tabelle sind Exchange Online Protection (EoP)-Features aufgefü
 |[Quarantäne](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer|Ja|Ja|
 |[Berichtsnachrichten-Add-in für Outlook](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Ja|Ja|
 |[Junk-e-Mail-Berichterstellung in Outlook im Internet](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Nr.<sup>7</sup>|Nr.<sup>7</sup>|
-|[Weiterleiten von E-Mails zwischen Office 365 und eigenen E-Mail-Servern](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Ja|Ja|
+|[Weiterleiten von e-Mails zwischen Microsoft und ihren eigenen e-Mail-Servern](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Ja|Ja|
 |[Sichere Nachrichten mit einem vertrauenswürdigen Partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Ja|Ja|
 |[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Ja|Ja|
 |[Bedingtes E-Mail-Routing](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|Ja|Ja|
@@ -811,7 +811,7 @@ Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell 
 |Azure-gestellte apps: Access Services<sup>3</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Azure-gestellte apps: benutzerdefinierter Code in der Azure Lightweight-webrolle (LWR)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 
-<sup>1</sup> Um die Ordnersynchronisierung verwenden zu können, müssen Sie Office 2013 oder höher (Standard oder Professional) installiert haben oder über ein Office 365-Abonnement verfügen, das Office-Anwendungen umfasst. Pläne für Office 365 Business Essentials, Office 365 Enterprise E1 und Office 365 Education-Pläne umfassen keine Abonnements für Office-Desktopanwendungen. Sie können allerdings die Ordnersynchronisierung verwenden, sofern Sie Office 2013 oder höher installiert haben und einen dieser Pläne abonnieren.
+<sup>1</sup> um die Ordnersynchronisierung verwenden zu können, benötigen Sie Office 2013 oder höher (Standard oder Professional Edition) oder ein Abonnement mit Office-Anwendungen. Pläne für Office 365 Business Essentials, Office 365 Enterprise E1 und Office 365 Education-Pläne umfassen keine Abonnements für Office-Desktopanwendungen. Sie können allerdings die Ordnersynchronisierung verwenden, sofern Sie Office 2013 oder höher installiert haben und einen dieser Pläne abonnieren.
 <br/><sup>2</sup> Kiosk Konten weisen eine beschränkte OneDrive für Unternehmen Funktionalität auf. Kiosk Kunden können die OneDrive für Unternehmen-Ordner synchronisierungsclient Anwendung verwenden, um Teamwebsite-Dokumentbibliotheken mit einem gemeinsam genutzten Computer zu synchronisieren und offline auf Dokumente zuzugreifen. Kiosk Konten enthalten jedoch keine OneDrive für Unternehmen persönliche Website, sodass Sie nicht von einer OneDrive für Unternehmen persönlichen Bibliothek mit 1 TB Online Speicher profitieren.
 <br/><sup>3</sup> Access 2010 wird nicht unterstützt.
 <br/><sup>4</sup> da Kiosk-Benutzer keine Administratoren sein können, benötigen Mandanten mit Kiosk-Benutzern mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können.
@@ -932,8 +932,8 @@ In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, di
 |Teamanrufe|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Videoanrufmonitor|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Voicemail|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Aufrufpläne in Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Anrufplan Inland, mit erforderlichem Add-On-Erwerb)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|[Aufrufpläne in Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Anrufplan Ausland, mit erforderlichem Add-On-Erwerb)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Anrufpläne](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Anrufplan Inland, mit erforderlichem Add-On-Erwerb)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|[Anrufpläne](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (Anrufplan Ausland, mit erforderlichem Add-On-Erwerb)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Guthaben für Kommunikation](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Skype for Business Sprachanrufe|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Sicherheit und Archivierung](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|

@@ -1,5 +1,5 @@
 ---
-title: Power BI-Dienstbeschreibung
+title: Power BI – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI ist eine Cloud-basierte Suite von Business Analytics-Tools, mit deren Hilfe Benutzerdaten mit größerer Geschwindigkeit, Effizienz und besseren Informationen verbinden, visualisieren und analysieren können. Er bietet Benutzern Zugriff auf eine Vielzahl von Echtzeitdaten über benutzerfreundliche Dashboards, stellt interaktive Berichte zur Verfügung und ermöglicht überzeugende Visualisierungen, die Daten zum Leben erwecken.
-ms.openlocfilehash: eca434b58fb379c025a44073fdea23a40a746861
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 896ee5a2cb9f43698d35d1744e6810f72c12a0be
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263469"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638973"
 ---
-# <a name="power-bi-service-description"></a>Power BI-Dienstbeschreibung
+# <a name="power-bi-service-description"></a>Power BI – Dienstbeschreibung
 
 Power BI ist eine Cloud-basierte Suite von Business Analytics-Tools, mit deren Hilfe Benutzerdaten mit größerer Geschwindigkeit, Effizienz und besseren Informationen verbinden, visualisieren und analysieren können. Er bietet Benutzern Zugriff auf eine Vielzahl von Echtzeitdaten über benutzerfreundliche Dashboards, stellt interaktive Berichte zur Verfügung und ermöglicht überzeugende Visualisierungen, die Daten zum Leben erwecken.
   
 Power BI ist derzeit im Rahmen der Office 365 Enterprise E5-Version verfügbar. Weitere Informationen hierzu finden Sie unter [Power BI](https://powerbi.microsoft.com/).
   
-Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Informationen zum Vergleich der Features in den Plänen finden Sie unter [Compare Microsoft 365 for Business Plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="power-bi-plans"></a>Power BI-Tarife
 

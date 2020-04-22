@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Die Grenzwerte in Skype for Business Online fallen in die folgenden Kategorien.
-ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609956"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639703"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -34,7 +34,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 - [Minutenlimits](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Die für eine Office 365-Organisation geltenden Grenzwerte können anders lauten, abhängig davon, wie lange Ihre Organisation bei dem Dienst registriert ist. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
+> Die Beschränkungen, die auf eine Microsoft 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
   
 ## <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
@@ -43,11 +43,11 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 - **Beschränkung der Anzahl von als Registerkarten geöffneten Unterhaltungen** Die maximale Anzahl der Unterhaltungsregisterkarten, die ein Skype for Business-Benutzer gleichzeitig öffnen kann 
     
-### <a name="peer-to-peer-limits-across-office-365-options"></a>Peer-to-Peer-Grenzen über Office 365-Optionen
+### <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Nicht zutreffend  <br/> |
 |Konversations Grenzwert<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Nicht zutreffend  <br/> |
@@ -81,11 +81,11 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 - **Gäste, die per Telefon beitreten** Die maximale Anzahl von Gästen, die per Telefon einer Besprechung beitreten können. 
     
-### <a name="meeting-limits-across-office-365-options"></a>Besprechungsgrenzwerte für Office 365-Optionen
+### <a name="meeting-limits"></a>Meeting-Grenzwerte
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |Nicht zutreffend  <br/> |
 |Teilnehmer an einer Skype for Business-Besprechung<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
 |Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
@@ -116,7 +116,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
     
 - **Besprechungsablaufzeitraum** Die Dauer nach dem Ende einer Besprechung, in der Benutzer auf die Besprechung zugreifen können. 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Treffen von Aufbewahrungs Grenzwerten für Office 365 Optionen und eigenständige Pläne
+### <a name="meeting-retention-limits-across-plans"></a>Treffen von Aufbewahrungs Grenzwerten in allen Plänen
 
 > [!NOTE]
 > Jede Person kann in der Datenbank jederzeit über maximal 1000 Konferenzen verfügen. 
@@ -131,5 +131,5 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 
 ## <a name="minute-limits"></a>Minutenlimits
 
-Informationen zu Minuten Einschränkungen im Office 365 Anrufplan für Inlandsanrufe oder zum Office 365 internationalen Anrufplan finden Sie unter [Verfügbarkeit von Ländern und Regionen für Audiokonferenz-und Anrufpläne](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
+Informationen zu Minuten Einschränkungen im Plan für Inlandsanrufe oder zum internationalen Anrufplan finden Sie unter [Verfügbarkeit von Ländern und Regionen für Audiokonferenz-und Anrufpläne](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
   

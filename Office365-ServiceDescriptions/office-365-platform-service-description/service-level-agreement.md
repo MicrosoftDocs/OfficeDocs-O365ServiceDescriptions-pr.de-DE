@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: cd9b8aad786cb23a4b6ad4dfdae64e2be5c28dc7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 03c1b613404033b38b9898ac2f3c979882f96845
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262416"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640293"
 ---
 # <a name="service-level-agreement"></a>Vereinbarung zum Servicelevel
 
@@ -35,5 +35,5 @@ Weitere Informationen finden Sie unter [Vereinbarung zum Servicelevel zu 21Viane
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
   

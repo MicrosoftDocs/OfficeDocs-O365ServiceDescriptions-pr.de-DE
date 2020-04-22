@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529218"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640143"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
@@ -33,9 +33,9 @@ Im folgenden finden Sie die wichtigsten Methoden zum Verwenden von ATP für den 
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Verfügbarkeit von Office 365 Advanced Threat Protection (ATP)
 
-ATP ist in Office 365 Enterprise E5, Office 365 Education a5 und Microsoft 365 Business enthalten.
+ATP ist in Office 365 Enterprise E5, Office 365 Education a5 und Microsoft 365 Business Premium enthalten.
 
-Sie können ATP zu den folgenden Exchange- und Office 365-Abonnementplänen hinzufügen:
+Sie können ATP zu den folgenden Exchange-und Microsoft 365-Abonnement Plänen hinzufügen:
 
 - Exchange Online Plan 1
 
@@ -45,9 +45,9 @@ Sie können ATP zu den folgenden Exchange- und Office 365-Abonnementplänen hinz
 
 - Exchange Online Protection
 
-- Office 365 Business Essentials
+- Microsoft 365 Business Basic
 
-- Office 365 Business Premium
+- Microsoft 365 Business Standard
 
 - Office 365 Enterprise E1
 
@@ -61,7 +61,7 @@ Sie können ATP zu den folgenden Exchange- und Office 365-Abonnementplänen hinz
 
 Informationen dazu, wie Sie Office 365 Advanced Threat Protection erwerben können, finden Sie unter [Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Informationen zum Vergleichen von Features in den Plänen finden Sie unter [Vergleichen von Office 365 for Business-Plänen](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) und [Ermitteln der richtigen Lösung für Microsoft 365 Enterprise](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Informationen zum Vergleichen der Features in den Plänen finden Sie unter [Vergleichen von Microsoft 365 apps for Business-Plänen](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) und [Ermitteln der richtigen Lösung für Microsoft 365 Enterprise](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Neues in Office 365 Advanced Threat Protection (ATP)
 
@@ -113,7 +113,7 @@ Das Feature " [ATP-sichere Links](https://docs.microsoft.com/microsoft-365/secur
 
 Sichere links stehen für URLs in den folgenden Apps zur Verfügung:
 
-- Office 365 ProPlus unter Windows oder Mac
+- Microsoft 365-Apps für Unternehmen unter Windows oder Mac
 
 - Office für das Internet (Word für das Internet, Excel für das Internet, PowerPoint für das Internet und OneNote für das Internet)
 
@@ -138,7 +138,7 @@ Sichere links stehen für URLs in den folgenden Apps zur Verfügung:
 
 ### <a name="real-time-reports"></a>Echtzeitberichte
 
-Zu den im Office 365 Security & Compliance Center verfügbaren Überwachungsfunktionen gehören [Echtzeitberichte und Einblicke](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) , mit denen sich Ihre Sicherheits-und Compliance-Administratoren auf Probleme mit hoher Priorität konzentrieren können, beispielsweise Sicherheitsangriffe oder erhöhte verdächtige Aktivitäten. Neben der Hervorhebung von Problembereichen enthalten Smart Reports und Einblicke auch Empfehlungen und Links zum Anzeigen und Durchsuchen von Daten sowie zum Ausführen von schnell Aktionen.
+Zu den im Security & Compliance Center verfügbaren Überwachungsfunktionen gehören [Echtzeitberichte und Einblicke](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) , mit denen sich Ihre Sicherheits-und Compliance-Administratoren auf Probleme mit hoher Priorität konzentrieren können, beispielsweise Sicherheitsangriffe oder erhöhte verdächtige Aktivitäten. Neben der Hervorhebung von Problembereichen enthalten Smart Reports und Einblicke auch Empfehlungen und Links zum Anzeigen und Durchsuchen von Daten sowie zum Ausführen von schnell Aktionen.
 
 ### <a name="explorer"></a>Explorer
 

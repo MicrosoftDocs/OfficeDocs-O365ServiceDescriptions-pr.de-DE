@@ -1,5 +1,5 @@
 ---
-title: Posteingang-Features in "jammern"
+title: Posteingangsfeatures in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Die folgenden Posteingangs Funktionen stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: 11bf4f2d8eb46e3b18b22720c584fbf7f748bc60
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 391792d166313f0119b9b50de9a7d89180f57084
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263166"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640043"
 ---
-# <a name="inbox-features-in-yammer"></a>Posteingang-Features in "jammern"
+# <a name="inbox-features-in-yammer"></a>Posteingangsfeatures in Yammer
 
 Die folgenden Posteingangs Funktionen stehen in "jammern" zur Verfügung.
   
@@ -33,6 +33,6 @@ Durchsuchen Sie den gesamten Posteingang, um Unterhaltungen, private Nachrichten
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
   
 

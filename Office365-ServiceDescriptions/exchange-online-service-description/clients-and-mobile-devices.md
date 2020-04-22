@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 065154bb8447bbe38f5cd8319fea4fdc6883cb70
-ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
+ms.openlocfilehash: 83c8c9081ac78c51ee02fb951f7d2c80d6d9ede9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/21/2019
-ms.locfileid: "40840244"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639713"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -34,13 +34,13 @@ Outlook-Zugriff ist standardmäßig für alle Benutzer aktiviert. Über Windows 
   
 Informationen dazu, welche Outlook-Clients von Exchange 2016 und Exchange Online unterstützt werden, finden Sie unter [System Requirements for Office](https://products.office.com/office-system-requirements). 
 
-Office 365 wurde für die Verwendung der neuesten Browser und Versionen von Office entwickelt. Wenn Sie ältere Browser und Office-Versionen verwenden, die nicht im Mainstream-Support unterstützt werden:
+Microsoft 365 wurde für die Verwendung der neuesten Browser und Versionen von Office entwickelt. Wenn Sie ältere Browser und Office-Versionen verwenden, die nicht im Mainstream-Support unterstützt werden:
 
-- Microsoft hindert Sie nicht absichtlich daran, eine Verbindung mit dem Dienst herzustellen, aber die Qualität Ihrer Office 365 Erfahrung kann sich im Laufe der Zeit verringern.
+- Microsoft hindert Sie nicht absichtlich daran, eine Verbindung mit dem Dienst herzustellen, aber die Qualität ihrer Erfahrung kann sich im Laufe der Zeit verringern.
 - Microsoft stellt keine Softwareupdates bereit, um nicht sicherheitsrelevante Probleme zu beheben.
 
 > [!IMPORTANT]
->  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft Office Pro Plus (welches Microsoft Outlook umfasst) ist in manchen Office 365-Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie mit Pop eine Verbindung mit einem Exchange Online e-Mail-Konto herstellen: #a0 keine Kalenderinformationen #a1 keine Frei/Gebucht-Informationen #a2 keine globale Adressliste #a3 keine Push-e-Mail-> beim Verbinden über Pop werden alle Nachrichten auf den Client heruntergeladen, und es wird keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon 
+>  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft 365 apps for Enterprise (einschließlich Microsoft Outlook) ist in einigen Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie mit Pop eine Verbindung mit einem Exchange Online e-Mail-Konto herstellen: > keine Kalenderinformationen > keine Frei/Gebucht-Informationen > keine globale Adressliste > keine Push-e-Mail-> beim Verbinden über Pop werden alle Nachrichten auf den Client heruntergeladen, und es wird keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon 
   
 ## <a name="outlook-on-the-web"></a>Outlook im Web
 
@@ -73,7 +73,7 @@ Exchange Online kann auch mit Geräten wie einem Blackberry verwendet werden.
   
 ### <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Outlook bietet Benutzern ein schnelles und intuitives E-Mail- und Kalender-Erlebnis, wie man es von einer modernen mobilen App erwartet, und ist dabei die einzige App, die die besten Features von Office 365 unterstützt. Outlook ist die einzige E-Mail-App, die speziell für das gesamte Office 365-Erlebnis entwickelt wurde, und bietet Benutzern ein einheitliches Erlebnis vom Desktop bis zum mobilen Gerät. Outlook bietet Intune, Enterprise Mobility + Security und Exchange-Steuerelemente, um Daten und Benutzer zu schützen.
+Outlook bietet Benutzern die schnelle, intuitive e-Mail-und Kalender Erfahrung, die Sie von einer modernen Mobile App erwarten, während Sie die einzige APP ist, die Unterstützung für die besten Funktionen bereitstellt. Es ist die einzige e-Mail-APP, die speziell für die Unterstützung der gesamten Microsoft-Umgebung entwickelt wurde und Benutzern eine kohärente Benutzeroberfläche von Desktop zu Mobile bietet. Outlook bietet Intune, Enterprise Mobility + Security und Exchange-Steuerelemente, um Daten und Benutzer zu schützen.
   
 In Outlook können Benutzer Folgendes tun:
   
@@ -151,9 +151,9 @@ Das Simple Mail Transfer Protocol (SMTP) wird zum Senden ausgehender E-Mails fü
 > [!IMPORTANT]
 > IP-Adressen für autorisierte Quellserver müssen SMTP-Relay erlauben. TLS-Verschlüsselung (Transport Layer Security) und Authentifizierung sind erforderlich, wenn SMTP zum Senden von E-Mail verwendet wird. 
   
-## <a name="blackberry-devices"></a>BlackBerry®-Geräte
+## <a name="blackberryreg-devices"></a>BlackBerry&reg; -Geräte
 
-Office 365-E-Mail steht auf BlackBerry®-Geräten über Exchange ActiveSync zur Verfügung. Die verfügbaren Optionen finden Sie in den folgenden Themen:
+E-Mail ist auf BlackBerry&reg; -Geräten über Exchange ActiveSync verfügbar. Die verfügbaren Optionen finden Sie in den folgenden Themen:
   
 - [Einrichten von E-Mails auf einem BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394).
 
@@ -166,5 +166,5 @@ Weitere Informationen finden Sie unter [BlackBerry](../office-365-platform-servi
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   

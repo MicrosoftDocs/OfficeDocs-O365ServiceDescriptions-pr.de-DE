@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word für das Web (ehemals Word Web App) erweitert Ihre Microsoft Word Erfahrung auf den Webbrowser, wo Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist.
-ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545738"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640213"
 ---
 # <a name="word-for-the-web"></a>Word für das Web
 
@@ -47,7 +47,7 @@ Mithilfe von AutoText können Sie aus dem AutoText-Katalog Bausteine aus vorform
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Suchen nach und Verwenden von professionell gestalteten Vorlagen
 
-Nicht verfügbar in Word für das Internet. Erweiterte Designfeatures, z. B. zum Erstellen von Dokumenten auf Grundlage einer der zahlreichen professionell gestalteten Vorlagen von Office.com, sind nur in der Word-Desktop-App verfügbar. Office 365 Kunden können jedoch eine Dokumentbibliothek so konfigurieren, dass eine benutzerdefinierte Vorlage gestartet wird, wenn ein Benutzer ein neues Dokument erstellt. Weitere Informationen finden Sie unter [Hinzufügen eines Inhaltstyps zu einer Liste oder Bibliothek](https://go.microsoft.com/fwlink/p/?LinkId=391446).
+Nicht verfügbar in Word für das Internet. Erweiterte Designfeatures, z. B. zum Erstellen von Dokumenten auf Grundlage einer der zahlreichen professionell gestalteten Vorlagen von Office.com, sind nur in der Word-Desktop-App verfügbar. Kunden können jedoch eine Dokumentbibliothek so konfigurieren, dass eine benutzerdefinierte Vorlage gestartet wird, wenn ein Benutzer ein neues Dokument erstellt. Weitere Informationen finden Sie unter [Hinzufügen eines Inhaltstyps zu einer Liste oder Bibliothek](https://go.microsoft.com/fwlink/p/?LinkId=391446).
   
 ## <a name="bullets-and-numbering"></a>Aufzählung und Nummerierung
 
@@ -297,5 +297,5 @@ Die Zoomfunktion ist im Ansichtsmodus verfügbar. Verwenden Sie in Word für das
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office for the Webdienst Description](office-online-service-description.md). 
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office for the Webdienst Description](office-online-service-description.md). 
   

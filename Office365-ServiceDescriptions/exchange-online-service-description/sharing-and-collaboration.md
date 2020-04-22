@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262718"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638893"
 ---
 # <a name="sharing-and-collaboration"></a>Freigabe und Zusammenarbeit
 
@@ -25,11 +25,11 @@ ms.locfileid: "39262718"
 Verbund bezieht sich auf die zugrunde liegende Vertrauensinfrastruktur, die die Verbundfreigabe unterstützt, eine Methode für Microsoft Exchange Online Benutzer zum Freigeben von Frei/Gebucht-Kalenderdaten und Kontaktinformationen für Empfänger in anderen externen Verbundorganisationen oder mit Benutzern, die über Internetzugriff verfügen. Dazu gehören auch Organisationen, die von Exchange Online oder externen Microsoft Exchange Server 2010 oder Exchange Server 2013 Organisationen gehostet werden. Mithilfe von Organisationsbeziehungen und Freigaberichtlinien können Exchange Online Administratoren Benutzern das Senden von Einladungen zur Kalenderfreigabe aus Microsoft Outlook im Internet oder Microsoft Outlook 2010 oder höher ermöglichen.
   
 > [!IMPORTANT]
->  Externe Exchange 2010- und Exchange 2013-Organisationen müssen bei der Konfiguration der Verbundfreigabe eine Verbundvertrauensstellung mit Microsoft Federation Gateway konfigurieren. Exchange Online-Organisationen müssen keine Verbundvertrauensstellung konfigurieren, denn die Verbundvertrauensstellung mit Microsoft Federation Gateway wird automatisch bei der Erstellung des Office 365-Mandanten erstellt. 
+>  Externe Exchange 2010- und Exchange 2013-Organisationen müssen bei der Konfiguration der Verbundfreigabe eine Verbundvertrauensstellung mit Microsoft Federation Gateway konfigurieren. Exchange Online Organisationen keine Verbundvertrauensstellung konfigurieren müssen – die Verbundvertrauensstellung mit dem Microsoft Federation Gateway wird automatisch erstellt, wenn die Microsoft 365-Organisation erstellt wird. 
 >
 >  Exchange Online Organisationen müssen entweder eine Organisationsbeziehung oder eine Freigaberichtlinie konfigurieren, um die Verbundfreigabe zu aktivieren. 
 >
->  Die Freigabe von globalen Zugriffslisten (GAL) oder das Verschieben von Benutzerpostfächern zwischen Exchange Online Organisationen in unterschiedlichen Office 365 Mandanten wird in der Verbundfreigabe nicht unterstützt. 
+>  Die Freigabe von globalen Zugriffslisten (GAL) oder das Verschieben von Benutzerpostfächern zwischen Exchange Online Organisationen in unterschiedlichen Microsoft-Plänen wird in der Verbundfreigabe nicht unterstützt. 
   
 Weitere Informationen zur Verbundfreigabe finden Sie unter [Freigabe in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -40,7 +40,7 @@ E-Mails und Dokumente werden herkömmlicherweise in zwei voneinander getrennten 
 Das Websitepostfach ist ein neues Konzept in Exchange 2013, mit dem dieses Problem gelöst werden soll. Mit Websitepostfächern werden die Zusammenarbeit und die Benutzerproduktivität verbessert, indem die Benutzer über die gleiche Clientoberfläche auf Microsoft SharePoint 2013-Dokumente und Exchange-E-Mails zugreifen können. Ein Websitepostfach besteht funktional aus der Mitgliedschaft in einer SharePoint 2013-Website (Besitzer und Mitglieder), gemeinsam genutztem Speicher in einem Exchange 2013-Postfach für E-Mails und einer SharePoint 2013-Website für Dokumente sowie einer Verwaltungsoberfläche für Bereitstellungs- und Lebenszyklusanforderungen.
   
 > [!IMPORTANT]
-> Ihr Office 365-Plan muss SharePoint umfassen. Für Websitepostfächer ist es erforderlich, dass Benutzer über SharePoint- und Exchange-Lizenzen verfügen. 
+> Ihr Plan muss SharePoint enthalten. Für Websitepostfächer ist es erforderlich, dass Benutzer über SharePoint- und Exchange-Lizenzen verfügen. 
   
 Weitere Informationen zu Websitepostfächern finden Sie unter [Websitepostfächer](https://go.microsoft.com/fwlink/p/?LinkId=271789).
   
@@ -60,6 +60,6 @@ Das in-Place-Archiv kann nur zum Archivieren von e-Mails für einen einzelnen Be
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
 

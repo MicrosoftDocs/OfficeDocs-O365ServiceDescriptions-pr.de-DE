@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529208"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639803"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -78,7 +78,7 @@ ATP schützt Benutzer vor ausgeklügelten Angriffen wie Phishing und Zero-Day-Sc
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können? 
 
-Office 365 Advanced Threat Protection, Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security, Microsoft 365 Business und Office 365 ATP-Pläne 1 und 2 stellen die Rechte für einen Benutzer zur Verfügung, um von Office 365 erweitertem Bedrohungsschutz zu profitieren.
+Office 365 Advanced Threat Protection, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Sicherheit, Microsoft 365 Business Premium und Office 365 ATP-Pläne 1 und 2 bieten die Rechte für einen Benutzer, um von Advanced Threat Protection profitieren zu können.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -102,7 +102,7 @@ Informationen zum Vergleichen von Features finden Sie unter [Differences of Micr
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Ocas erkennt Shadow IT, bietet Schutz vor Bedrohungen in Office 365 und kann steuern, welche apps über die Berechtigung zum Zugriff auf Office 365 Daten verfügen.
+Ocas erkennt Shadow IT, bietet Schutz vor Bedrohungen in Office 365 und kann steuern, welche apps über die Berechtigung zum Zugriff auf Daten verfügen.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
@@ -288,7 +288,7 @@ Office 365 Verschlüsselungsschlüssel für Kundenschlüssel können für alle D
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Wenn Sie Daten in einem Office 365-und/oder Microsoft 365-Mandanten für lizenzierte Benutzer mit Verschlüsselungsschlüsseln versehen möchten, befolgen Sie die Bereitstellungsanweisungen für die Schlüssel zur Verschlüsselung der Kunden.
+Wenn Sie Daten in einer Office 365-und/oder Microsoft 365-Organisation für lizenzierte Benutzer mit Verschlüsselungsschlüsseln versehen möchten, befolgen Sie die Bereitstellungsanweisungen für die Schlüssel zur Verschlüsselung der Kunden.
 
 - Für SharePoint Online-, OneDrive für Unternehmen-und Microsoft Teams-Dateien können Dateien auf mindestens einer Website mit dem Kundenschlüssel verschlüsselt werden.
 
@@ -312,7 +312,7 @@ Administratoren können Kunden-Lockbox-Steuerelemente im Microsoft 365 Admin Cen
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Microsoft bietet Kunden sperrbox-Zugriffs Steuerungs Genehmigungsanforderungen für Benutzer in Ihrer Office 365 Organisation.
+Microsoft bietet Kunden sperrbox-Zugriffs Steuerungs Genehmigungsanforderungen für Benutzer in Ihrer Organisation.
 
 ## <a name="privileged-access-management-in-office-365"></a>Privileged Access Management in Office 365
 
@@ -352,7 +352,7 @@ Standardmäßig sind Exchange Online-e-Mails, SharePoint-Websites und OneDrive-K
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen.
+Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Verhinderung von Kommunikationsdaten Verlust für Teams
 
@@ -372,7 +372,7 @@ Standardmäßig sind Microsoft Teams-Chat und Kanal Nachrichten ein *aktivierter
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen.
+Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen.
 
 ## <a name="information-barriers"></a>Informationsbarrieren
 
@@ -399,13 +399,13 @@ Administratoren erstellen und verwalten Richtlinien für Informationsbarrieren m
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können Standorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Office 365 Security & Compliance Center anpassen. Wenn beispielsweise alle Benutzer für Office 365 E3 lizenziert sind und keine für Office 365 Advanced Compliance/E5 lizenziert ist, müssen keine Richtlinien für Informationsbarrieren für die Organisation erstellt werden. Weitere Informationen finden Sie unter [Information Barriers in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+Administratoren können Standorte (Arbeitsauslastungen), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center anpassen. Wenn beispielsweise alle Benutzer für Office 365 E3 lizenziert sind und keine für Office 365 Advanced Compliance/E5 lizenziert ist, müssen keine Richtlinien für Informationsbarrieren für die Organisation erstellt werden. Weitere Informationen finden Sie unter [Information Barriers in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
 
 ## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
 
 Office 365-Nachrichtenverschlüsselung (Office Message Encryption, OME) ist ein Dienst, der auf Azure Rights Management (Azure RMS) aufbaut und mit dem Sie verschlüsselte E-Mails an Personen innerhalb oder außerhalb Ihrer Organisation senden können, unabhängig von der E-Mail-Zieladresse (Gmail, Yahoo! Mail, Outlook.com usw.).
 
-Zum Anzeigen verschlüsselter Nachrichten können Empfänger eine einmalige Kennung abrufen, sich mit einem Microsoft-Konto anmelden oder sich mit einem Geschäfts-, Schul- oder Unikonto, das Office 365 zugeordnet ist, anmelden. Empfänger können auch verschlüsselte Antworten senden. Sie benötigen kein Office 365-Abonnement, um verschlüsselte Nachrichten anzuzeigen oder verschlüsselte Antworten zu senden.
+Zum Anzeigen verschlüsselter Nachrichten können Empfänger eine einmalige Kennung abrufen, sich mit einem Microsoft-Konto anmelden oder sich mit einem Geschäfts-, Schul- oder Unikonto, das Office 365 zugeordnet ist, anmelden. Empfänger können auch verschlüsselte Antworten senden. Sie benötigen kein Abonnement, um verschlüsselte Nachrichten anzuzeigen oder verschlüsselte Antworten zu senden.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 

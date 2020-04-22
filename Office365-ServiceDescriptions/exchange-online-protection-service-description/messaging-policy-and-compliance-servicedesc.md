@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
-ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545838"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640163"
 ---
 # <a name="messaging-policy-and-compliance"></a>Messagingrichtlinie und -kompatibilität
 
@@ -33,7 +33,7 @@ Nachrichtenfluss Regeln (auch als Transportregeln bezeichnet) bieten Ihnen die F
 
 Mit der Überwachungsprotokollierung können Sie bestimmte Änderungen von Administratoren an Ihrer Organisation protokollieren. Dank dieser Berichte können Sie gesetzliche Bestimmungen einhalten und Daten, die für Rechtsstreitigkeiten erforderlich sind, aufbewahren. Weitere Informationen finden Sie unter [Überwachungsberichte in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/auditing-reports-in-eop).
 
-## <a name="data-loss-prevention-dlp"></a>Verhinderung von Datenverlusten (Data Loss Prevention, DLP)
+## <a name="data-loss-prevention-dlp"></a>Verhinderung von Datenverlust (Data Loss Prevention, DLP)
 
 Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Verhinderung von Datenverlust (Data Loss Prevention, DLP) ermöglicht Ihnen das Bestimmen, Überwachen und Schützen vertraulicher Daten in Ihrer Organisation mittels einer eingehenden Inhaltsanalyse. DLP gewinnt für Nachrichtensysteme von Unternehmen zunehmend an Bedeutung, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Mit dem DLP-Feature können Sie vertrauliche Daten schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
 
@@ -70,11 +70,11 @@ Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Pr
 |:-----|:-----|:-----|:-----|
 |Nachrichtenflussregeln|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1, 3</sup>|
 |Überwachungsprotokollierung|Ja<sup>2</sup>|Ja|Ja|
-|Verhinderung von Datenverlusten (Data Loss Prevention, DLP)|Nein|Ja|Ja<sup>3</sup>|
+|Verhinderung von Datenverlust (Data Loss Prevention, DLP)|Nein|Ja|Ja<sup>3</sup>|
 |Office 365-Nachrichtenverschlüsselung|Ja<sup>4</sup>|Ja|Ja<sup>4</sup>|
 
 > [!NOTE]
 > <sup>1</sup> die verfügbaren Nachrichtenfluss Regelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EoP und Exchange Online. Diese Unterschiede werden in [Nachrichtenfluss Regel-Bedingungen und-Ausnahmen (Prädikate) in Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) -und [Nachrichtenfluss Regelaktionen in Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)aufgeführt. <br/>
 > <sup>2</sup> Die EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern. <br/>
 > <sup>3</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar. <br/>
-> <sup>4</sup> Wird für lokale Kunden unterstützt, die das Add-On Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. Für die Desktopdarstellung muss zusätzlich zum Add-On Azure Information ProtectionOffice 365 ProPlus erworben werden. <br/>
+> <sup>4</sup> Wird für lokale Kunden unterstützt, die das Add-On Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. Für die Desktopumgebung müssen zusätzlich zum Azure Information Protection-Add-on Microsoft 365-Apps für Unternehmen erworben werden. <br/>

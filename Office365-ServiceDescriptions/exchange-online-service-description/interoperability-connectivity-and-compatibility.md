@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262658"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639993"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilität, Konnektivität und Kompatibilität
 
@@ -36,7 +36,7 @@ Weitere Informationen zum Konfigurieren von Skype for Business Server 2015 mit E
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Bei Kunden, die Microsoft SharePoint Server oder SharePoint Online als Teil eines Office 365-Abonnementplans bereitgestellt haben, kann SharePoint für integrierte Dienste eine Verbindung zu Exchange Online herstellen.
+Für Kunden, die Microsoft SharePoint Server oder SharePoint Online im Rahmen eines Abonnementplans bereitgestellt haben, kann SharePoint eine Verbindung mit Exchange Online für integrierte Dienste herstellen.
   
 Weitere Informationen zum Verbinden von SharePoint mit Exchange Online finden Sie unter [Verwenden von SharePoint Online zusammen mit anderen Diensten in einer benutzerdefinierten Domäne](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -58,6 +58,6 @@ Exchange Online kann als ein SMTP-Zustelldienst verwendet werden, um von Fax-Gat
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
 

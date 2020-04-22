@@ -9,29 +9,29 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel.
-ms.openlocfilehash: fa3bf6e0795913861b3c4a4bc7a0a021c8ca05a1
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+ms.openlocfilehash: bd4204538838b448c1cdb33dfa2903af113b098d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959313"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639783"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
 Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel. 
   
-Microsoft 365 bietet ein vollständiges System, einschließlich Office 365, Windows 10 und Enterprise-Mobilität und-Sicherheit. In der folgenden Tabelle sind die Office 365 für Bildungseinrichtungen a1, a3 und A5 zusammen mit den entsprechenden Features von Microsoft 365 für Education a3 und A5 aufgeführt. Informationen zum Vergleich von Office 365 Features in Unternehmens-und Unternehmensplänen finden Sie unter [Compare Office 365 for Business Plans](https://go.microsoft.com/fwlink/?linkid=799177)oder für eine ausführlichere Liste der Features die entsprechende Dienstbeschreibung unter [Office 365-Dienstbeschreibungen](../office-365-service-descriptions-technet-library.md). Informationen zur Suche nach Supportartikeln finden Sie unter [Office- &amp; Hilfe-Schulung](https://support.office.com/).
+Microsoft 365 bietet ein vollständiges System, einschließlich Office 365, Windows 10 und Enterprise-Mobilität und-Sicherheit. In der folgenden Tabelle sind die Office 365 für Bildungseinrichtungen a1, a3 und A5 zusammen mit den entsprechenden Features von Microsoft 365 für Education a3 und A5 aufgeführt. Informationen zum Vergleich von Features in Unternehmens-und Unternehmensplänen finden Sie unter [Vergleich von Microsoft 365 for Business-Plänen](https://go.microsoft.com/fwlink/?linkid=799177)oder, eine ausführlichere Liste der Funktionen finden Sie in der entsprechenden Dienstbeschreibung unter [Microsoft 365-Dienstbeschreibungen](../office-365-service-descriptions-technet-library.md). Informationen zur Suche nach Supportartikeln finden Sie unter [Office- &amp; Hilfe-Schulung](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Dienste und Features
 
-Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. Die folgende Tabelle enthält die in den jeweiligen Office 365- und Microsoft 365-Plänen verfügbaren Dienste, damit Sie die Lösung wählen können, die Ihren Anforderungen am besten entspricht. Detaillierte Informationen zu den Office 365-Diensten und Features finden Sie in der [Office 365 Education-Dienstbeschreibung](office-365-education.md).
+Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. Die folgende Tabelle enthält die in den jeweiligen Office 365- und Microsoft 365-Plänen verfügbaren Dienste, damit Sie die Lösung wählen können, die Ihren Anforderungen am besten entspricht. Informationen zur ausführlicheren Überprüfung von Diensten und Features finden Sie in der Beschreibung des [Office 365 Education](office-365-education.md) -Diensts.
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Dienste** <br/> |**Office 365 Education A1** <br/> |**Office 365 Education A3** <br/> |**Office 365 Education A5** <br/> |**Microsoft 365 Education A3** <br/> |**Microsoft 365 Education A5** <br/> |
 |Office 365 Plattform  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Office für das Web  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Office 365 ProPlus  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft 365-Apps für Unternehmen  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online  <br/> |Ja<sup>1</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |Ja<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |
 |OneDrive for Business  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -102,7 +102,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 > <sup>4</sup> Umfasst SharePoint Online-Plan 2. <br/>
 > <sup>5</sup> Microsoft Project ist nicht in Office 365 enthalten, kann jedoch separat erworben werden. Project Online Essentials ist kostenlos. Wenn Sie ein Schüler oder eine Bildungseinrichtung sind, können Sie Projektplan 3 und Plan 5 zu Schulungspreisen erwerben.   <br/>
 > <sup>6</sup> Microsoft 365 Education A5 enthält Telefonsystem-, Audiokonferenz- und Anrufplanfunktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). <br/>
-> <sup>7</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
+> <sup>7</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Microsoft-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
 > <sup>8</sup> Umfasst Intune. <br/>
 > <sup>9</sup> Server und CALs für Exchange, SharePoint und Skype for Business enthalten. <br/>
 > <sup>10</sup> ECAL oder Core CAL, je nach der erworbenen Version von A3, mit A5 sind die ECAL-Rechte enthalten. <br/>

@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Office 365 und eigenständige Pläne.
-ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
+ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609976"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638929"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -24,7 +24,7 @@ Erfahren Sie mehr über die Grenzwerte für Dienste in SharePoint für Microsoft
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Office 365 Business Essentials oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint-Plan 1 oder 2** <br/> | **Office 365 Enterprise F3** <br/> |
+|**Feature** <br/> |**Microsoft 365 Business Basic oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint-Plan 1 oder 2** <br/> | **Office 365 Enterprise F3** <br/> |
 |Gesamtspeicher pro Organisation<sup>1, 2, 6</sup> <br/> |1 TB plus 10 GB pro erworbener Lizenz  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Maximaler Speicherplatz pro Website (Websitesammlung)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Websites (Websitesammlungen) pro Organisation  <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<br/> |
@@ -32,7 +32,7 @@ Erfahren Sie mehr über die Grenzwerte für Dienste in SharePoint für Microsoft
    
 <sup>1</sup> [erfahren Sie, wie Sie den gesamten und den verfügbaren Speicher für Ihre Organisation ermitteln können](/sharepoint/manage-site-collection-storage-limits). Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher erwerben. Weitere Informationen finden Sie unter [Ändern von Speicherplatz für Ihr Abonnement](/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der verwendete Speicherplatz ist Teil des gesamten Speichergrenzwerts der Organisation. 
-<br/> <sup>3</sup> Wenn Sie über ein Office 365-Abonnement und ein Office 365 zusätzliches Dateispeicher-Add-on verfügen, werden die Speicher Beträge hinzugefügt. 
+<br/> <sup>3</sup> Wenn Sie über ein Microsoft 365-Abonnement und ein Office 365 zusätzliches Dateispeicher-Add-on verfügen, werden die Speicher Beträge hinzugefügt. 
 <br/> <sup>4</sup> hierbei handelt es sich um die Speicher *Grenze* für einen einzelnen Standort (zuvor als "Websitesammlung" bezeichnet), nicht für den Speicherplatz, der für die einzelnen Standorte *bereitgestellt* wird. Dieser Grenzwert gilt für alle Arten von Websites, einschließlich Office 365 Gruppen verbundenen Teamwebsites und OneDrive. SharePoint-Administratoren können [niedrigere Speichergrenzwerte manuell festlegen](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
 <br/> <sup>5</sup> Mitarbeiter von First-Work können SharePoint-Websites nicht verwalten. 
 <br/> <sup>6</sup> nicht einschließlich der OneDrive, die für jeden lizenzierten Benutzer erstellt wurden. 
@@ -105,6 +105,6 @@ Ein Benutzer kann zu 5.000 Gruppen gehören, und jede Gruppe kann bis zu 5.000 B
 > [!NOTE]
 > Es gibt keine Begrenzung für die Anzahl der Gäste, die Sie zu SharePoint-Websites einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [External Sharing Overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Weitere Artikel
+## <a name="see-also"></a>Siehe auch
 
 [Such Grenzwerte für SharePoint](/sharepoint/search-limits)

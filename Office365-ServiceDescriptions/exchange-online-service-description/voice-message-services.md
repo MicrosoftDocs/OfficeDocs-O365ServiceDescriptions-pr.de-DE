@@ -1,5 +1,5 @@
 ---
-title: Sprachnachrichten Dienste
+title: Sprachnachrichtendienste
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1bf261e002eb7c8a637266c3b243ad728c63be3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262688"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640313"
 ---
-# <a name="voice-message-services"></a>Sprachnachrichten Dienste
+# <a name="voice-message-services"></a>Sprachnachrichtendienste
 
 ## <a name="voice-mail"></a>Voicemail
 
@@ -80,6 +80,6 @@ Organisationen können Skype for Business Online als eigenständigen Dienst oder
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
 

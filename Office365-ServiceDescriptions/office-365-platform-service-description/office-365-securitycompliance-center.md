@@ -1,5 +1,5 @@
 ---
-title: Office 365 Security & Compliance Center
+title: Security & Compliance Center
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Das Office 365 Security &amp; Compliance Center wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
+ms.openlocfilehash: a63a6b925ca65438a8a760e502e0cc777f354387
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109435"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639683"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
+# <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
-Das [Office 365 Security &amp; Compliance Center](https://protection.office.com/) wurde entwickelt, um die Verwaltung von Compliance-Features in Office 365 für Ihre Organisation zu erleichtern. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
+Das [Security &amp; Compliance Center](https://protection.office.com/) unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
   
 > [!NOTE]
-> Derzeit sind viele der Compliancefeatures noch über dienstspezifische Verwaltungsoberflächen erreichbar, z. B. über das Exchange Admin Center (EAC). Dies wird jedoch künftig geändert, wenn in Zukunft weitere dienstunabhängige Compliancefeatures zum Security &amp; Compliance Center hinzugefügt werden.
+> Derzeit sind viele der Compliancefeatures noch über dienstspezifische Verwaltungsschnittstellen erreichbar, z. B. das Exchange Admin Center (EAC). Dies wird jedoch künftig geändert, wenn weitere dienstunabhängige Compliancefeatures zum Security &amp; Compliance Center hinzugefügt werden.
 
 Um die Optionen für die Lizenzierung Ihrer Benutzer zu erhalten, um vom 1. April 2020 von den Microsoft 365-Kompatibilitätsfunktionen zu profitieren, laden Sie diesen [detaillierten Microsoft 365-Kompatibilitäts Lizenz Vergleich herunter (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
   
@@ -30,7 +30,7 @@ Um die Optionen für die Lizenzierung Ihrer Benutzer zu erhalten, um vom 1. Apri
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**  |**Office 365 Business Essentials**  |**Office 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
+|**Feature**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
 |[Zugriff auf das Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Nein   |Nein   |Nein|Nein   |Ja   |Nein   |
 |[Bedrohungsverwaltung](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) wie z. B. E-Mail-Filterung und Antischadsoftware     |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
@@ -56,7 +56,7 @@ Um die Optionen für die Lizenzierung Ihrer Benutzer zu erhalten, um vom 1. Apri
 |[Office 365-Nachrichtenverschlüsselung (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Erweiterte Office 365-Nachrichtenverschlüsselung](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Privilegierte Zugriffsverwaltung](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
-|[Office 365-Kundenschlüssel](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
+|[Kundenschlüssel](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 ||||||||
 
 <sup>1</sup> mit Information Governance können Benutzer Bezeichnungen erstellen, veröffentlichen und manuell auf Dokumente anwenden. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk.

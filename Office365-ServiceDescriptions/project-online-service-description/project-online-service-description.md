@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931941"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638733"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -120,7 +120,7 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt 
 |**Anpassung und Integration**||
 |PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile mit PowerApps. <sup>4</sup> |
 |Workflows | Automatisieren und integrieren von Geschäftsprozessen mit Power Automation. <sup>5</sup> |
-|Microsoft Office 365-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Office 365-Tools und-Anwendungen. <sup>1</sup> |
+|Microsoft-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Microsoft-Tools und-Anwendungen. <sup>1</sup> |
 |**Sicherheit und Benutzerverwaltung**||
 |Moderne Office-Gruppen | Erstellen Sie ein Projektteam, mit dem Sie zusammenarbeiten und eine Sammlung von Ressourcen für Teammitglieder einrichten können, die Sie freigeben möchten.|
 
@@ -181,14 +181,14 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Formeln | Berechnen und Erfassen wichtiger Daten mithilfe von Formeln für Vorgänge und Projekte. | Ja | Ja |
 |PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile (über OData) mit PowerApps. <sup>4</sup> | Ja | Ja |
 |Workflows | Automatisieren und integrieren von Geschäftsprozessen (über OData) mit Power Automation. <sup>5</sup> | Ja | Ja |
-|Microsoft Office 365-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Office 365-Tools und-Anwendungen. <sup>1</sup> | Ja | Ja |
+|Microsoft 365-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Microsoft-Tools und-Anwendungen. <sup>1</sup> | Ja | Ja |
 |Microsoft Planner-Integration | Verbinden Sie Projektvorgänge mit einem planerplan, und verfolgen Sie detaillierte Arbeit in Planner. <sup>1</sup> | Ja | Ja |
 |**Sicherheit, Benutzer-und Dienstverwaltung**||||
 |Active Directory-Integration | Erstellen Sie Teams von einem beliebigen Mitglied der Active Directory Ihres Unternehmens. <sup>9</sup> | Ja | Ja |
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung.  | Nein | Ja |
 
-#### <a name="notes"></a>Hinweise
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>

@@ -1,5 +1,5 @@
 ---
-title: Beschreibung des Arbeitsplatzanalyse Diensts
+title: Workplace Analytics-Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-midehm
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics bietet umfangreiche, umsetzbare Einblicke in die Kommunikations-und Zusammenarbeits Trends in Ihrer Organisation, damit Sie effektivere geschäftliche Entscheidungen treffen können.
-ms.openlocfilehash: 55d452bb8fadf9ec4dd4a1f086f0835838184657
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: fd114e7c56a2bb9427a2f45c06706ad902b27644
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263245"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640103"
 ---
-# <a name="workplace-analytics-service-description"></a>Beschreibung des Arbeitsplatzanalyse Diensts
+# <a name="workplace-analytics-service-description"></a>Workplace Analytics-Dienstbeschreibung
 
 Microsoft Workplace Analytics bietet umfangreiche, umsetzbare Einblicke in die Kommunikations-und Zusammenarbeits Trends in Ihrer Organisation, damit Sie effektivere geschäftliche Entscheidungen treffen können.
 
@@ -38,11 +38,11 @@ Erfahren Sie, wie Ihre Organisation Zeit verbringt und intern und extern mit bei
 
 ## <a name="drive-organizational-change-with-data"></a>Steuern der organisatorischen Änderung mit Daten
 
-Die Arbeitsplatzanalyse bietet umfangreiche objektive Daten, um bessere geschäftliche Entscheidungen zu treffen. Geführte Explorations-Dashboards markieren potenzielle Problembereiche, während flexible Abfragen gezielte geschäftliche Fragen zu Einstellungsstrategien, neuen Organisationsstrukturen und Geschäftsprogrammen beantworten. Erweitern Sie Office 365 Daten mit Geschäftsergebnis Informationen, um bewährte Methoden, Vorhersagemodelle und Benchmarks festzulegen. Einführung von Änderungsinitiativen basierend auf Verhaltensdaten und Messen des Erfolgs von Programmen im Laufe der Zeit. Wenden Sie sich an Ihren Microsoft-Kundendienstmitarbeiter, um mehr über die verfügbaren Beratungsdienste zu erfahren, mit denen Sie geschäftliche Herausforderungen quantifizieren und Änderungen umsetzen können.
+Die Arbeitsplatzanalyse bietet umfangreiche objektive Daten, um bessere geschäftliche Entscheidungen zu treffen. Geführte Explorations-Dashboards markieren potenzielle Problembereiche, während flexible Abfragen gezielte geschäftliche Fragen zu Einstellungsstrategien, neuen Organisationsstrukturen und Geschäftsprogrammen beantworten. Erweitern Sie Daten mit Geschäftsergebnis Informationen, um bewährte Methoden, Vorhersagemodelle und Benchmarks festzulegen. Einführung von Änderungsinitiativen basierend auf Verhaltensdaten und Messen des Erfolgs von Programmen im Laufe der Zeit. Wenden Sie sich an Ihren Microsoft-Kundendienstmitarbeiter, um mehr über die verfügbaren Beratungsdienste zu erfahren, mit denen Sie geschäftliche Herausforderungen quantifizieren und Änderungen umsetzen können.
 
 ## <a name="privacy-and-compliance-designed-for-you"></a>Datenschutz und Compliance für Sie entwickelt
 
-Die Arbeitsplatzanalyse bietet Datenschutz-Steuerelemente, die Ihren Anforderungen und ihrer Einhaltung entsprechen, um Ihre Daten zu schützen. Kunden entscheiden, welche Populationen analysiert werden sollen, und behalten die Kontrolle über Datenaggregation und deidentifikations Standards. In der Arbeitsplatzanalyse werden nur Office 365 Metadaten analysiert. Datenanzeige und Aggregationsebenen basieren auf Rollen-und Kundeneinstellungen.
+Die Arbeitsplatzanalyse bietet Datenschutz-Steuerelemente, die Ihren Anforderungen und ihrer Einhaltung entsprechen, um Ihre Daten zu schützen. Kunden entscheiden, welche Populationen analysiert werden sollen, und behalten die Kontrolle über Datenaggregation und deidentifikations Standards. Die Analyse am Arbeitsplatz analysiert nur Microsoft-Metadaten. Datenanzeige und Aggregationsebenen basieren auf Rollen-und Kundeneinstellungen.
 
 Weitere Informationen finden Sie unter [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Weitere Informationen zur Verwendung der Arbeitsplatzanalyse finden Sie in der [Dokumentation zur Arbeitsplatzanalyse](https://docs.microsoft.com/workplace-analytics/).
   

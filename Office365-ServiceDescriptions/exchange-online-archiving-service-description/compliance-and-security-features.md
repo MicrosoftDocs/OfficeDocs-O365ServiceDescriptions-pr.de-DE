@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093562"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638693"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Kompatibilitäts-und Sicherheitsfeatures in Exchange Online Archivierung
 
@@ -88,7 +88,7 @@ Im folgenden Abschnitt werden die Sicherheitsfunktionen von Microsoft Exchange O
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>Verschlüsselung zwischen lokalen Servern und Exchange Online-Archivierung
 
-TLS wird zum Verschlüsseln der Verbindung zwischen E-Mail-Servern verwendet, um Spoofing zu verhindern und die Vertraulichkeit von in der Übertragung befindlichen Nachrichten zu ermöglichen. TLS dient auch zum Schutz des Datenverkehrs des lokalen E-Mail-Servers zu Office 365-Datenzentren für Exchange Online-Archivierung.
+TLS wird zum Verschlüsseln der Verbindung zwischen E-Mail-Servern verwendet, um Spoofing zu verhindern und die Vertraulichkeit von in der Übertragung befindlichen Nachrichten zu ermöglichen. TLS wird auch verwendet, um den lokalen e-Mail-Server Datenverkehr für Exchange Online Archivierung an Microsoft-Rechenzentren zu sichern.
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>Verschlüsselung zwischen Clients und Exchange Online-Archivierung
 
@@ -130,6 +130,6 @@ Standardmäßig ist die Administrator-Überwachungsprotokollierung aktiviert und
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Archivierungsdienst Beschreibung](exchange-online-archiving-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Archivierungsdienst Beschreibung](exchange-online-archiving-service-description.md).
   
 

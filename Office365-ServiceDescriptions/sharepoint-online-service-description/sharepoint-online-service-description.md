@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Hier erfahren Sie, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609866"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639843"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -31,7 +31,7 @@ SharePoint in Microsoft 365 unterstützt Organisationen beim Freigeben und Verwa
 
 Eine schnelle Übersicht finden Sie unter [Was ist SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Um zu sehen, welche Office 365 Pläne SharePoint enthalten, [vergleichen Sie Office 365 for Business-Pläne](https://products.office.com/business/compare-more-office-365-for-business-plans). Informationen zu Office 365 Systemanforderungen finden Sie unter [System Requirements for Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
+Um zu sehen, welche Pläne SharePoint enthalten, [vergleichen Sie Microsoft 365 for Business-Pläne](https://products.office.com/business/compare-more-office-365-for-business-plans). Informationen zu den Systemanforderungen von Microsoft 365 finden Sie unter [System Requirements for Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
 
 Informationen zu den Unterschieden bei SharePoint-Features für US Government Cloud-Kunden finden Sie unter [SharePoint für US Government Environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
@@ -41,7 +41,7 @@ Informationen zu den neuesten Features, die veröffentlicht werden, finden Sie u
   
 ## <a name="subscription-options"></a>Abonnementoptionen
 
-Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Organisation am besten geeigneten auswählen können. Weitere Informationen über diese Pläne (einschließlich eigenständiger Pläne) sowie über den Wechsel von Plänen erhalten Sie unter [Optionen zum Office 365-Plan](../office-365-platform-service-description/office-365-plan-options.md).
+Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu unterschiedlichen Plänen, einschließlich eigenständiger Planoptionen und Informationen zum Wechseln von einem Plan zu einem anderen, finden Sie unter [Microsoft 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
 Um auf SharePoint zuzugreifen, müssen Benutzern in Ihrer Organisation eine Lizenz zugewiesen werden, die SharePoint umfasst. Ein Firstplan-Plan wird nicht als eigenständiges Angebot verkauft, sondern nur als Teil des [First-Abonnement-Abonnements](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
@@ -99,7 +99,7 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Migration: Migrations-Manager](/sharepointmigration/mm-get-started)
 - [Migration: SharePoint Migration Assessment Tool](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
 - [Migration: Mover.IO](https://mover.io/). Derzeit nur für Kunden in Nordamerika verfügbar.
-- [Multi-Geo (Daten Wohnsitz)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Mit einem Add-on, das mindestens 500 Office 365 Lizenzen erfordert. Weitere Informationen erhalten Sie von Ihrem Microsoft-Repräsentanten.
+- [Multi-Geo (Daten Wohnsitz)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Mit einem Add-on, das mindestens 500 Microsoft-Lizenzen erfordert. Weitere Informationen erhalten Sie von Ihrem Microsoft-Repräsentanten.
 - [Programmatische Website-prozielierung](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Ersetzen der Stammwebsite](/sharepoint/modern-root-site)
 - [Wiederherstellen von gelöschten Websites](/sharepoint/restore-deleted-site-collection)
@@ -124,7 +124,7 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Verschlüsselung bei der Übertragung und im Ruhezustand](/office365/securitycompliance/data-encryption-in-odb-and-spo)
 - [Sitzungsabmeldung im Leerlauf](/sharepoint/sign-out-inactive-users)
 - [Informationsverwaltungsrichtlinien](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
-- [Verwaltung von Informationsrechten (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Erfordert Azure Information Protection Standalone oder als Teil einer Suite. Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 ProPlus.
+- [Verwaltung von Informationsrechten (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Erfordert Azure Information Protection Standalone oder als Teil einer Suite. Einige Azure Information Protection-Features erfordern ein Abonnement für Microsoft 365-Apps für Unternehmen.
 - [Wiederherstellen einer Dokumentbibliothek zu einem vorherigen Zeitpunkt](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Virenprüfung](/office365/securitycompliance/virus-detection-in-spo)
 
@@ -138,7 +138,7 @@ SharePoint integriert sich in die erweiterten Sicherheits-und Kompatibilitätsfu
 - [Informationsbarrieren](/microsoft-365/compliance/information-barriers)
 - [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Aufbewahrungs Bezeichnungen und-Richtlinien](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [Vertraulichkeitsbezeichnungen](/microsoft-365/compliance/sensitivity-labels)
+- [Vertraulichkeitskennzeichnungen](/microsoft-365/compliance/sensitivity-labels)
 - [Einheitliche Überwachung](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (Überwachung von SharePoint-Benutzer-und-Administratoraktivitäten)
 
 Informationen zum [Schutz von Azure Information](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)finden Sie unter den [Anforderungen für Azure Information Protection](/azure/information-protection/requirements) .

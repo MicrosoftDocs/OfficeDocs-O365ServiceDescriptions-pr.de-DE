@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online Features in einrichten Skype for Business Online.
-ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 90d5e7ab138d3bb2098cd279dcf7431043107a57
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545758"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638803"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
@@ -34,13 +34,13 @@ Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einric
     
 Um den Client für Ihr mobiles Gerät, Ihren PC oder Mac herunterzuladen, wechseln Sie zu [Download Skype for Business auf allen Geräten](https://go.microsoft.com/fwlink/?linkid=846929).
   
-Skype for Business bietet Unterstützung für die hier aufgeführten Geräte für den Konferenzraum. Weitere Informationen erhalten Sie von Ihrem Kontoteam oder telefonisch vom [Office 365-Support](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b). Um eine Nummer in Ihrer Region zu erhalten, können Sie Ihr Gebietsschema in der Dropdownliste auswählen.
+Skype for Business bietet Unterstützung für die hier aufgeführten Geräte für den Konferenzraum. Um weitere Informationen zu erhalten, arbeiten Sie mit Ihrem Konto Team oder rufen Sie den [Microsoft-Support](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)an. Um eine Nummer in Ihrer Region zu erhalten, können Sie Ihr Gebietsschema in der Dropdownliste auswählen.
   
 ## <a name="instant-messaging-presence-and-contacts"></a>Chat, Anwesenheit und Kontakte
 
 Funktionen, die Skype for Business-Benutzern zur Verfügung stehen:
   
-- Zeigen Sie den Anwesenheitsstatus&mdash;an, beispielsweise verfügbar, abwesend, nicht stören oder&mdash;offline, um anderen Personen die Verfügbarkeit mitzuteilen. Die Skype for Business-Anwesenheitsinformationen werden mithilfe der Office 365-Suite dargestellt.
+- Zeigen Sie den Anwesenheitsstatus&mdash;an, beispielsweise verfügbar, abwesend, nicht stören oder&mdash;offline, um anderen Personen die Verfügbarkeit mitzuteilen. Skype for Business Anwesenheitsinformationen werden in der gesamten Suite angezeigt.
     
 - Senden und empfangen von Textnachrichten in Echtzeit über ein Internetprotokoll (IP) Netzwerk wie das Internet oder das Unternehmensnetzwerk einer Organisation. Sofortnachrichten stehen für die Skype-zu-Skype- und Mehrparteienkommunikation zur Verfügung. Text in Sofortnachrichten wird aus Sicherheitsgründen verschlüsselt.
     
@@ -58,7 +58,7 @@ Weitere Informationen zum Festlegen von Optionen für Audiogeräte in Skype for 
 
 Skype for Business External Connectivity (Verbund) können Skype for Business Benutzer eine Verbindung mit Benutzern in anderen Organisationen herstellen, die Skype for Business verwenden, sowie solche, die ihre eigenen Skype for Business Server lokal hosten. Verbundkontakte können die Anwesenheit anzeigen, mittels Sofortnachrichten kommunizieren und Audio- und Videoanrufe von Skype zu Skype durchführen. Die Verbundkommunikation zwischen Sofortnachrichtensystemen über Zugriffsproxyserver findet verschlüsselt statt. Microsoft steuert nicht die Verschlüsselung, nachdem Nachrichten an das Netzwerk des Verbundpartners übertragen wurden (sofern sich der Partner in einem Verbund mit einem lokalen Skype for Business-Server oder Drittanbieternetzwerk befindet).
   
-Für die externe Skype for Business-Konnektivität müssen beide Seiten des Verbunds ihr Einverständnis gegeben haben und ordnungsgemäß eingerichtet sein. Nachdem der Partnerverbund von den Administratoren beider Seiten eingerichtet wurde, können Benutzer in jeder Organisation die Anwesenheitsinformationen sehen und mit Benutzern in der anderen Organisation kommunizieren. Ein Verbund in Office 365 wird nur zwischen Skype for Business-Umgebungen mit entsprechend konfigurierten Zugriffsproxy- oder Edgeservern unterstützt. Weitere Informationen zur Edge-Server-Konfiguration finden Sie unter [für den Zugriff durch externe Benutzer in lync Server 2013 erforderliche Komponenten](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access).
+Für die externe Skype for Business-Konnektivität müssen beide Seiten des Verbunds ihr Einverständnis gegeben haben und ordnungsgemäß eingerichtet sein. Nachdem der Partnerverbund von den Administratoren beider Seiten eingerichtet wurde, können Benutzer in jeder Organisation die Anwesenheitsinformationen sehen und mit Benutzern in der anderen Organisation kommunizieren. Der Verbund wird nur zwischen anderen Skype for Business Umgebungen mit entsprechend konfiguriertem Zugriffs Proxy oder Edgeserver unterstützt. Weitere Informationen zur Edge-Server-Konfiguration finden Sie unter [für den Zugriff durch externe Benutzer in lync Server 2013 erforderliche Komponenten](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access).
   
 ## <a name="skype-for-business-online-meetings"></a>Skype for Business Online-Besprechungen
 
@@ -75,7 +75,7 @@ Weitere Informationen zu Skype for Business Onlinebesprechungen finden Sie unter
   
 ## <a name="security-and-archiving"></a>Sicherheit und Archivierung
 
-Microsoft Office 365-Datenverkehr (Signal- und Mediendatenverkehr) wird mit dem TLS-Protokoll (Transport Layer Security) verschlüsselt. Jeder, der eine Übertragung abfängt, sieht nur verschlüsselten Text. Wenn beispielsweise ein Benutzer auf Chatnachrichten, Anrufe und Präsentationen in Skype_for_Business Online zugreift, während er ein öffentliches WLAN-Netzwerk z. B. an einem Flughafen nutzt, werden die Mitteilungen des Benutzers zum Schutz vor einem möglichen Abfangen durch "Netzwerksniffer" verschlüsselt.
+Der Microsoft-Datenverkehr (sowohl der Signal-als auch der Mediendatenverkehr) wird mithilfe des TLS-Protokolls (Transport Layer Security) verschlüsselt. Jeder, der eine Übertragung abfängt, sieht nur verschlüsselten Text. Wenn ein Benutzer beispielsweise auf Skype for Business Online Chat, Anrufe und Präsentationen zugreift, während er ein öffentliches Wi-Fi-Netzwerk verwendet, beispielsweise an einem Flughafen, werden die Kommunikationen des Benutzers verschlüsselt, um potenzielle Abfangvorgänge mit dem Netzwerk "Sniffers" zu übernehmen.
   
 Skype for Business ermöglicht das Archivieren von Peer-zu-Peer-Chatnachrichten, Chatnachrichten mit mehreren Teilnehmern und das Hochladen von Inhalt in Besprechungen. Zum Archivieren ist Exchange erforderlich, und die Funktion wird vom Compliance-Archiv-Attribut für das Exchange-Postfach des Benutzers gesteuert, mit dem sowohl E-Mails als auch Skype for Business-Inhalte archiviert werden.
   
@@ -95,7 +95,7 @@ Skype for Business bietet Interoperabilität mit einem lokalen Microsoft SharePo
   
 ## <a name="skype-for-business-online-administration-and-management"></a>Skype for Business Online-Administration und -Verwaltung
 
-Zwar kontrolliert Microsoft direkt alle Skype for Business Online-Datencenter und ist für die Leistung des gesamten Systems zuständig, Microsoft kann aber nur einen Teil der Elemente steuern, die zusammen das Gesamterlebnis für Office 365-Benutzer ausmachen. Die Organisationen selbst sind für die Netzwerkverbindungen mit den Datencentern, das Fernnetz (WAN, Wide Area Network) des Kunden und die lokalen Netzwerke (LANs, Local Area Networks) des Kunden zuständig. Darüber hinaus verwalten sie Benutzergeräte und deren Konfiguration. Sie sind auch für die Verwaltung der erforderlichen Lizenzierung pro Benutzer für alle gewünschten Features zuständig, einschließlich der Fähigkeit, diese Features zu verwalten, solange der Benutzer Zugriff auf die Funktion benötigt.
+Obwohl Microsoft alle Skype for Business Online Rechenzentren direkt steuert und für die Gesamtsystem Leistung verantwortlich ist, kann nur ein Teil der Elemente gesteuert werden, die kombiniert werden, um die Gesamtbenutzer Erfahrung zu ermöglichen. Die Organisationen selbst sind für die Netzwerkverbindungen mit den Datencentern, das Fernnetz (WAN, Wide Area Network) des Kunden und die lokalen Netzwerke (LANs, Local Area Networks) des Kunden zuständig. Darüber hinaus verwalten sie Benutzergeräte und deren Konfiguration.Sie sind auch für die Verwaltung der erforderlichen Lizenzierung pro Benutzer für alle gewünschten Features zuständig, einschließlich der Fähigkeit, diese Features zu verwalten, solange der Benutzer Zugriff auf die Funktion benötigt.
   
 Skype for Business Online bietet daher den Kundenadministratoren die folgenden Tools, um zahlreiche Aufgaben im Zusammenhang mit Nachrichten zu bewältigen:
   
@@ -107,7 +107,7 @@ Skype for Business Online bietet daher den Kundenadministratoren die folgenden T
     
 - Windows PowerShell
     
-Informationen zu den neuesten Skype for Business Online admin-Hilfethemen und Vorgehensweisen finden Sie unter [Skype for Business Online in Office 365-admin Help](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59).
+Informationen zu den neuesten Skype for Business Online admin-Hilfethemen und Vorgehensweisen finden Sie in der [Hilfe zu Skype for Business Online-admin](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59).
   
 ## <a name="audio-conferencing-in-office-365"></a>Audiokonferenzen in Office 365
 
@@ -115,25 +115,25 @@ Als Audiokonferenz wird eine Konferenz bezeichnet, in der mindestens ein Teilneh
   
 Mit Audiokonferenzen können Benutzer in Ihrer Organisation Besprechungen, die Einwahltelefonnummern enthalten, hosten oder erstellen. Anrufer können dann diese Telefonnummern zum Einwählen in eine Besprechung mit ihrem Telefon verwenden (Benutzer, die sich in eine Besprechung einwählen, erhalten nur Audio, keine Sofortnachrichten, freigegebenen Desktops oder in der Besprechung freigegebenen Dateien). Sie müssen Einwahlkonferenzen nur für Benutzer einrichten, die Besprechungen planen oder leiten möchten. Sofern der Organisator die Besprechung nicht gesperrt hat, kann jeder, der die Einwahlnummer und die Konferenz-ID hat, der Besprechung beitreten. Weitere Informationen finden Sie unter [Erste Schritte mit Audiokonferenzen](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) und [Für Audiokonferenzen verfügbare Einwahlnummern](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
-In Office 365 können Sie Einwahlkonferenzen unter Verwendung von Office 365 als Einwahlkonferenzanbieter oder unter Verwendung eines Drittanbieters für Einwahlkonferenzen aktivieren (auch Audiokonferenzanbieter oder ACP genannt).
+Sie können Einwahlkonferenzen entweder mithilfe von Microsoft als Einwahlkonferenz Anbieter oder mithilfe eines Drittanbieters für Einwahlkonferenzen (auch als Audiokonferenz-Anbieter oder ACP bezeichnet) aktivieren.
   
 Audiokonferenzen sind nicht in allen Ländern und Regionen verfügbar. Eine Liste der Länder und Regionen, in denen Sie Audiokonferenzen erwerben können, finden Sie unter [Länder und Regionen, in denen Audiokonferenzen unterstützt werden](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
-## <a name="calling-plans-in-office-365"></a>Anrufpläne in Office 365
+## <a name="calling-plans"></a>Anrufpläne
 
-Skype for Business umfasst Anruffunktionen im Telefonfestnetz (Public Switched Telephone Network, PSTN). Anrufpläne sind ein Add-On für das [Telefonsystem in Office 365](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365), mit dem Sie Telefonnummern durchsuchen, abrufen und Benutzern in Ihrer Organisation zuweisen können, damit sie Anrufe innerhalb und außerhalb der Organisation tätigen und diese von Benutzern innerhalb und außerhalb der Organisation entgegennehmen können, direkt über Office 365. Benutzer, denen Telefonnummern zugewiesen sind, können alle Skype for Business-Geräte anrufen, einschließlich VoIP-Telefone, PCs und Mobilgeräte. Sie können ihre Anrufe auch mithilfe der Features zum Stummschalten/Aufheben der Stummschaltung, Anhalten/Fortsetzen, für die Anrufdurchstellung und Anrufweiterleitung steuern, und bei Bedarf einen Notruf tätigen. 
+Skype for Business umfasst Anruffunktionen im Telefonfestnetz (Public Switched Telephone Network, PSTN). Anrufpläne sind ein Add-on für das [Telefon System](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365) , mit dem Sie Benutzer in Ihrer Organisation Telefonnummern suchen, erwerben und zuweisen können, um Anrufe von Personen innerhalb und außerhalb der Organisation direkt von Office 365 aus zu tätigen und Anrufe entgegenzunehmen. Benutzer, denen Telefonnummern zugewiesen sind, können alle Skype for Business-Geräte anrufen, einschließlich VoIP-Telefone, PCs und Mobilgeräte. Sie können ihre Anrufe auch mithilfe der Features zum Stummschalten/Aufheben der Stummschaltung, Anhalten/Fortsetzen, für die Anrufdurchstellung und Anrufweiterleitung steuern, und bei Bedarf einen Notruf tätigen. 
   
 Informationen zu den verfügbaren Anrufplänen erhalten Sie unter [Anrufpläne für Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Weitere Informationen zum Einrichten eines Anruf Plans finden Sie unter [welcher Anrufplan ist für Sie geeignet?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   
-## <a name="phone-system-in-office-365"></a>Telefonsystem in Office 365
+## <a name="phone-system"></a>Telefonsystem
 
-Mit dem Telefonsystem in Office 365 können Sie Skype for Business und entweder die vorhandenen Telefonleitungen Ihrer Organisation oder das Telefonsystem für eingehende und ausgehende Anrufe verwenden. Mit dem Telefon System in Office 365 können Ihre Benutzer Skype for Business verwenden, um grundlegende Aufgaben wie das platzieren, empfangen, übertragen und stumm schalten oder stumm schalten von Anrufen von fast überall mit Internetzugriff abzuschließen.
+Mit dem Telefonsystem können Sie Skype for Business und entweder die vorhandenen Telefonleitungen Ihrer Organisation oder das Telefonsystem für eingehende und ausgehende Anrufe verwenden. Mit dem Telefon System in Office 365 können Ihre Benutzer Skype for Business verwenden, um grundlegende Aufgaben wie das platzieren, empfangen, übertragen und stumm schalten oder stumm schalten von Anrufen von fast überall mit Internetzugriff abzuschließen.
   
-Mit dem Telefonsystem können Sie Ihr vorhandenes PBX-System durch eine Reihe von Features ersetzen, die direkt von Office 365 bereitgestellt werden und eng in die Cloud-Produktivität von Microsoft integriert sind. Sie können eine vollständig in der Cloud-Umgebung oder eine hybridbereitstellung auswählen, die das Telefon System nutzt und gleichzeitig einige Funktionen in Ihrem Unternehmen hält.
+Mit dem Telefonsystem können Sie Ihr vorhandenes PBX-System durch eine Reihe von Features ersetzen, die direkt von Microsoft bereitgestellt und eng in die Cloud-Produktivität von Microsoft integriert wurden. Sie können eine vollständig in der Cloud-Umgebung oder eine hybridbereitstellung auswählen, die das Telefon System nutzt und gleichzeitig einige Funktionen in Ihrem Unternehmen hält.
   
 ## <a name="skype-meeting-broadcast"></a>Skype-Livekonferenz
 
-Mit der Skype-Besprechungs Übertragung können Office 365 Benutzer eine Besprechung im Internet an bis zu 10.000 Teilnehmer erstellen und senden, die von einem Browser auf nahezu jedem Gerät aus teilnehmen können. Mit Skype-Livekonferenz können große virtuelle Konferenzen gehostet werden, z. B. interne Rathausbesprechungen und öffentliche Webinare. Sie können Besprechungen aufzeichnen und anpassen, um die Beteiligung und Zufriedenheit der Zielgruppe abschätzen zu können. 
+Mit Skype Meeting Broadcast können Benutzer eine Besprechung im Internet für bis zu 10.000 Teilnehmer erstellen und übertragen, die von einem Browser auf nahezu jedem Gerät aus teilnehmen können. Mit Skype-Livekonferenz können große virtuelle Konferenzen gehostet werden, z. B. interne Rathausbesprechungen und öffentliche Webinare. Sie können Besprechungen aufzeichnen und anpassen, um die Beteiligung und Zufriedenheit der Zielgruppe abschätzen zu können. 
   
 > [!NOTE]
 > Skype-Livekonferenzen sind derzeit nicht für Bildungseinrichtungen und gemeinnützige Organisationen verfügbar. 

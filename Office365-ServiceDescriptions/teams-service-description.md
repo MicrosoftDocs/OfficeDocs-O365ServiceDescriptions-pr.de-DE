@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams-Dienstbeschreibung
+title: Microsoft Teams Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -8,14 +8,14 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: cd16f511c5bd0af7c8e64cf4efd383ca48f74b30
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 260710e9f794c4c59447ceabd37626162e24ecbf
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609986"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640113"
 ---
-# <a name="microsoft-teams-service-description"></a>Microsoft Teams-Dienstbeschreibung
+# <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
 Microsoft Teams ist der Hub für die Zusammenarbeit in Microsoft 365. Der Microsoft Teams-Dienst ermöglicht Chatnachrichten, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen. Darüber hinaus stellt Microsoft Teams Dateien und Daten zur Zusammenarbeit und Erweiterbarkeit bereit und integriert sich in Microsoft 365 und andere Microsoft-und Partner-apps.
 
@@ -23,18 +23,18 @@ Skype for Business Online wird am 31. Juli 2021, das am 30. Juli 2019 [angekünd
 
 Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und im [Office Accessibility Center](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Als Referenz haben wir diese Mastertabelle mit den Office 365-Abonnements aufgenommen, mit denen Benutzer für Microsoft Teams aktiviert werden können. Ausführliche Informationen finden Sie unter [Office 365 Lizenzierung für Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing). Weitere Office 365 im Government-Plan finden Sie unter [Office 365 Government Plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 bis G5 bieten den Zugriff auf die Microsoft Teams-Features.
+Als Referenz haben wir diese Mastertabelle mit den Abonnements aufgenommen, mit denen Benutzer für Microsoft Teams aktiviert werden können. Ausführliche Informationen finden Sie unter [Lizenzierung für Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-licensing). Weitere Office 365 im Government-Plan finden Sie unter [Office 365 Government Plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 bis G5 bieten den Zugriff auf die Microsoft Teams-Features.
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Pläne für kleine Unternehmen** <br/> |**Enterprise-Pläne** <br/> |**Bildungspläne** <br/> |**Entwickler Pläne** <br/> |
-|Office 365 Business Essentials  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Office 365 Entwickler  <br/> |
-|Office 365 Business Premium  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
+|Microsoft 365 Business Basic  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Office 365 Entwickler  <br/> |
+|Microsoft 365 Business Standard  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
 |Microsoft 365 for Business  <br/> |Office 365 Enterprise E4 (veraltet)  <br/> |Office 365 Education E3 (veraltet)  <br/> |  <br/> |
 |  <br/> |Office 365 Enterprise E5  <br/> |Office 365 Education E5  <br/> |  <br/> |
 |  <br/> |Office 365 Enterprise F1  <br/> |  <br/> |  <br/> |
 
-Ausführliche Anleitungen zur Implementierung von Produktfeatures finden Sie in der [Microsoft Teams-Administratordokumentation](https://docs.microsoft.com/MicrosoftTeams). In dieser Dienstbeschreibung werden die wesentlichen Unterschiede zwischen den in den verschiedenen Cloud-Installationen bereitgestellten Diensten erläutert. Die Kernfunktionen von Microsoft Teams unterscheiden sich nicht zwischen den Office 365 Abonnements. Die Verfügbarkeit der Compliance-Funktionen hängt von Ihrer Abonnementstufe ab. Weitere Informationen finden Sie unter [Security and Compliance in Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Eine detaillierte Liste der in den einzelnen Abonnements verfügbaren Features finden Sie in der [Beschreibung des Office 365-Platt Form Diensts](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Ausführliche Anleitungen zur Implementierung von Produktfeatures finden Sie in der [Microsoft Teams-Administratordokumentation](https://docs.microsoft.com/MicrosoftTeams). In dieser Dienstbeschreibung werden die wesentlichen Unterschiede zwischen den in den verschiedenen Cloud-Installationen bereitgestellten Diensten erläutert. Die Kernfunktionen von Microsoft Teams unterscheiden sich nicht zwischen den Abonnements. Die Verfügbarkeit der Compliance-Funktionen hängt von Ihrer Abonnementstufe ab. Weitere Informationen finden Sie unter [Security and Compliance in Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Eine detaillierte Liste der in den einzelnen Abonnements verfügbaren Features finden Sie in der [Beschreibung des Office 365-Platt Form Diensts](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
 **Cloud-VoIP-Funktionen**: für Audiokonferenzen muss Ihre Organisation jedem Benutzer, der Einwahl Besprechungen einrichten wird, eine Lizenz für Audiokonferenzen kaufen und zuweisen. Für Teams-Features, die Anrufpläne erfordern, benötigt jeder Benutzer ein Telefonsystem sowie einen Plan für Inlands-, Inlands-und internationale Anrufe. Weitere Informationen finden Sie unter [Microsoft Teams-Add-on-Lizenzierung](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 

@@ -1,5 +1,5 @@
 ---
-title: Nachrichten-und Unterhaltungsfeatures in "jammern"
+title: Nachrichten- und Unterhaltungsfeatures in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
-ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263086"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640033"
 ---
-# <a name="message-and-conversation-features-in-yammer"></a>Nachrichten-und Unterhaltungsfeatures in "jammern"
+# <a name="message-and-conversation-features-in-yammer"></a>Nachrichten- und Unterhaltungsfeatures in Yammer
 
 Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
   
@@ -57,5 +57,5 @@ Geben Sie Unterhaltungen im Feed einer anderen Gruppe oder über eine private Na
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
+Informationen zum Anzeigen von Funktions Verfügbarkeits Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
   

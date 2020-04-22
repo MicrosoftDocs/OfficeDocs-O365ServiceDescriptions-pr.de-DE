@@ -13,30 +13,30 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: 'Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des Nachrichtenflusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor. '
-ms.openlocfilehash: 48e989c0aa0a84bea7f3f18fb80f225e5f645981
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Für die meisten Organisationen hosten wir Ihre Postfächer und kümmern uns um den Nachrichtenfluss. Dies ist die einfachste Konfiguration und bedeutet, dass Microsoft alle Postfächer und Filterung verwaltet. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor.
+ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262588"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640323"
 ---
 # <a name="mail-flow"></a>Nachrichtenübermittlung
 
-Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des Nachrichtenflusses. Das ist die einfachste Konfiguration und bedeutet, dass alle Postfächer und die gesamte Filterung von Office 365 verwaltet werden. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor.  
+Für die meisten Organisationen hosten wir Ihre Postfächer und kümmern uns um den Nachrichtenfluss. Dies ist die einfachste Konfiguration und bedeutet, dass Microsoft alle Postfächer und Filterung verwaltet. Einige Organisationen benötigen jedoch komplexere Setups für den Nachrichtenfluss, um spezifischen gesetzlichen Bestimmungen oder Unternehmensvorgaben gerecht zu werden. Dieser Artikel stellt die verschiedenen Optionen vor. 
   
 ## <a name="custom-routing-of-outbound-email"></a>Benutzerdefiniertes Weiterleiten von ausgehenden E-Mails
 
 Microsoft Exchange Online kann von Ihrer Organisation gesendete E-Mails über einen lokalen Server oder einen gehosteten Dienst weiterleiten (gelegentlich als „Smarthost" bezeichnet). Auf diese Weise kann Ihre Organisation Datenverlust Verhinderung (DLP)-Appliances verwenden, benutzerdefinierte Post-Processing von ausgehenden e-Mails durchführen und e-Mails an Geschäftspartner über private Netzwerke zuzustellen. Exchange Online unterstützt auch das Umschreiben von Adressen: Dabei werden ausgehende E-Mails über ein lokales Gateway weitergeleitet, das die Adressen ändert. Mit diesem Feature können Sie Sub-Domains ausblenden, e-Mails aus einer Organisation mit mehreren Domänen als einzelne Domäne anzeigen oder Partner weitergeleitete e-Mails so erscheinen lassen, als ob Sie von innerhalb Ihrer Organisation gesendet würden. Administratoren können das benutzerdefinierte E-Mail-Routing im Exchange Admin Center (EAC) konfigurieren.
   
-Weitere Informationen finden Sie unter [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
+Weitere Informationen finden Sie unter [Einrichten von Connectors zum Weiterleiten von e-Mails zwischen Microsoft und ihren eigenen e-Mail-Servern](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
 > [!IMPORTANT]
 > Exchange Online kann eingehende und ausgehende E-Mails zustellen. Wenn Ihre Empfängerdomäne in Exchange Online gehostet wird und DNS MX-Einträge auf Exchange Online Schutz hindeuten, wird der e-Mail-Fluss von Ihrem Mandanten an den Empfänger nicht über das Internet übertragen.
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Sichere Nachrichten mit einem vertrauenswürdigen Partner
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Als Exchange Onlineer Kunde können Sie einen sicheren Nachrichtenfluss mit einem vertrauenswürdigen Partner mithilfe von Office 365-Konnektoren einrichten. Office 365 unterstützt die sichere Kommunikation über TLS (Transport Layer Security) und Sie können einen Connector erstellen, um die Verschlüsselung über TLS zu erzwingen. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) ist ein kryptografisches Protokoll, das Sicherheit für die Kommunikation über das Internet bietet. Mithilfe von Connectors können Sie sowohl erzwungene eingehende als auch ausgehende TLS-Zertifikate mit selbstsignierten oder Zertifizierungsstellen validierten Zertifikaten konfigurieren. Sie können auch andere Sicherheitseinschränkungen anwenden, beispielsweise die Angabe von Domänennamen oder IP-Adressbereichen, aus denen Ihre Partnerorganisation e-Mails sendet. 
+Als Exchange Onlineer Kunde können Sie einen sicheren Nachrichtenfluss mit einem vertrauenswürdigen Partner mithilfe von Microsoft-Connectors einrichten. Microsoft unterstützt die sichere Kommunikation über TLS (Transport Layer Security) und Sie können einen Connector erstellen, um die Verschlüsselung über TLS zu erzwingen. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) ist ein kryptografisches Protokoll, das Sicherheit für die Kommunikation über das Internet bietet. Mithilfe von Connectors können Sie sowohl erzwungene eingehende als auch ausgehende TLS-Zertifikate mit selbstsignierten oder Zertifizierungsstellen validierten Zertifikaten konfigurieren. Sie können auch andere Sicherheitseinschränkungen anwenden, beispielsweise die Angabe von Domänennamen oder IP-Adressbereichen, aus denen Ihre Partnerorganisation e-Mails sendet. 
   
 Weitere Informationen finden Sie unter [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -65,13 +65,13 @@ Im [Bereitstellungs-Assistent für Microsoft Exchange Server](https://go.microso
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>Freigegebener Adressraum mit lokaler Routingsteuerung (MX zeigt auf Lokal)
 
-Freigegebener Adressraum mit lokaler Routing Steuerung (MX Points to on-premises) ist ein e-Mail-Routingszenario für die hybridbereitstellung, in dem ihre Postfächer teilweise in Exchange Online und teilweise lokalen sowie in-und ausgehenden Internet nachrichtenflüssen gehostet werden. wird über die lokale Exchange-Organisation weitergeleitet. Dieses Szenario wird auch als zentralisierter e-Mail-Transport bezeichnet. In diesem Szenario wird Exchange Online mit EoP bereitgestellt und eingehende Internet-e-Mail-Nachrichten werden an den lokalen e-Mail-Server weitergeleitet, bevor Sie an EoP und schließlich an Postfächer weitergeleitet werden, die in Exchange Online gehostet werden. Darüber hinaus werden ausgehende e-Mails von Exchange Online Postfächern über die lokale Exchange-Organisation für Nachrichten weitergeleitet, die an externe Empfänger gesendet werden. Mit dieser Konfiguration können Sie einen einzelnen SMTP-Domänennamespace für alle Postfächer sowohl in Ihrer lokalen Exchange-Organisation als auch in Ihrer Exchange Online Organisation verwenden. 
+Freigegebener Adressraum mit lokaler Routing Steuerung (MX Points to on-premises) ist ein e-Mail-Routingszenario für die hybridbereitstellung, in dem ihre Postfächer teilweise in Exchange Online und teilweise lokal gehostet werden und ein-und ausgehende Internetnachrichtenfluss über die lokale Exchange-Organisation weitergeleitet wird. Dieses Szenario wird auch als zentralisierter e-Mail-Transport bezeichnet. In diesem Szenario wird Exchange Online mit EoP bereitgestellt und eingehende Internet-e-Mail-Nachrichten werden an den lokalen e-Mail-Server weitergeleitet, bevor Sie an EoP und schließlich an Postfächer weitergeleitet werden, die in Exchange Online gehostet werden. Darüber hinaus werden ausgehende e-Mails von Exchange Online Postfächern über die lokale Exchange-Organisation für Nachrichten weitergeleitet, die an externe Empfänger gesendet werden. Mit dieser Konfiguration können Sie einen einzelnen SMTP-Domänennamespace für alle Postfächer sowohl in Ihrer lokalen Exchange-Organisation als auch in Ihrer Exchange Online Organisation verwenden. 
   
 Weitere Informationen zu Transportoptionen in einer Hybridbereitstellung finden Sie im Artikel [Transportoptionen in Exchange-Hybridbereitstellungen](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   
 ### <a name="shared-address-space-without-on-premises-routing-control-mx-points-to-eop"></a>Freigegebener Adressraum mit lokaler Routingsteuerung (MX zeigt auf EOP)
 
-Freigegebener Adressraum ohne lokale Routingsteuerung (MX zeigt auf EOP) ist ein Hybridszenario für das E-Mail-Routing, in dem Ihre Postfächer teilweise cloudbasiert in Exchange Online und teilweise lokal gehostet werden und Ihr MX-Eintrag auf EOP zeigt. Dieses Szenario empfiehlt sich, wenn Sie den Office 365-Dienst verwenden, um bestimmte Postfächer Ihrer Organisation zu hosten, und sowohl Ihre lokalen als auch Ihre cloudbasierten Postfächer mit EOP schützen möchten. In diesem Szenario werden E-Mails an Empfänger innerhalb Ihrer Organisation zuerst über EOP weitergeleitet. Dort findet die Spam- und Richtlinienfilterung statt, bevor die E-Mails schließlich an die lokalen und cloudbasierten Postfächer übermittelt werden. 
+Freigegebener Adressraum ohne lokale Routing Steuerung (MX Points to EoP) ist ein hybrides e-Mail-Routing-Szenario, in dem ihre Postfächer teilweise in der Cloud mit Exchange Online und teilweise lokal gehostet werden, und Ihr MX-Eintrag zeigt auf EoP. Dieses Szenario ist sinnvoll, wenn Sie Microsoft zum Hosten einiger Postfächer Ihrer Organisation verwenden, und Sie möchten, dass EoP sowohl Ihre lokalen als auch die Cloud-Postfächer schützt. In diesem Szenario werden e-Mails, die an Empfänger in Ihrer Organisation gesendet werden, anfänglich über EoP weitergeleitet, wobei Spam-und Richtlinienfilterung auftreten, bevor Sie Ihre lokalen Postfächer und Cloud-Postfächer erreichen. 
   
 Weitere Informationen zu Transportoptionen in einer Hybridbereitstellung finden Sie im Artikel [Transportoptionen in Exchange-Hybridbereitstellungen](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   
@@ -96,5 +96,5 @@ Weitere Informationen zu den Anforderungen an Hybridbereitstellungen finden Sie 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie in der [Exchange Online Dienstbeschreibung](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie in der [Beschreibung des Exchange Online Diensts](exchange-online-service-description.md).
   

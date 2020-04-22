@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Verwenden Sie OneNote für das Internet (ehemals OneNote-Webanwendung), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von überall aus hinzufügen und einfach für andere freigeben können. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Verwenden Sie OneNote für das Internet (ehemals OneNote-Webanwendung), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von überall aus hinzufügen und einfach für andere freigeben können. Alle Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
+ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545768"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640223"
 ---
 # <a name="onenote-for-the-web"></a>OneNote für das Web
 
-Verwenden Sie OneNote für das Internet (ehemals OneNote-Webanwendung), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von überall aus hinzufügen und einfach für andere freigeben können. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten. 
+Verwenden Sie OneNote für das Internet (ehemals OneNote-Webanwendung), um Notizen online in einem OneNote-Notizbuch zu erstellen, das Sie von überall aus hinzufügen und einfach für andere freigeben können. Alle Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 
@@ -176,6 +176,6 @@ Mit OneNote für das Internet können Sie frühere Seitenversionen einer Seite a
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office for the Webdienst Description](office-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office for the Webdienst Description](office-online-service-description.md).
   
 

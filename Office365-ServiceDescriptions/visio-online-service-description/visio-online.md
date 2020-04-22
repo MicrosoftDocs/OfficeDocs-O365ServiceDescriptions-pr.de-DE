@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio für das Internet erweitert Ihre Microsoft Visio Erfahrung auf den Browser, in dem Sie in der Cloud gespeicherte Diagramme erstellen und bearbeiten können. Kunden von Microsoft Office 365 können Diagramme anzeigen, Drucken und freigeben sowie Kommentare zu den wechseln einfügen.
-ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+description: Visio für das Internet erweitert Ihre Microsoft Visio Erfahrung auf den Browser, in dem Sie in der Cloud gespeicherte Diagramme erstellen und bearbeiten können. Kunden von Microsoft 365 können Diagramme anzeigen, Drucken und freigeben sowie Kommentare zu den wechseln einfügen.
+ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700217"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640093"
 ---
 # <a name="visio-for-the-web"></a>Visio für das Web
 
-Visio für das Internet erweitert Ihre Microsoft Visio Erfahrung auf den Browser, in dem Sie in der Cloud gespeicherte Diagramme erstellen und bearbeiten können. Kunden von Microsoft Office 365 können Diagramme anzeigen, Drucken und freigeben sowie Kommentare zu den wechseln einfügen. Wenn Sie über ein Visio-Abonnement verfügen, können Sie zusätzliche Features verwenden, beispielsweise die in den folgenden Abschnitten beschriebenen.
+Visio für das Internet erweitert Ihre Microsoft Visio Erfahrung auf den Browser, in dem Sie in der Cloud gespeicherte Diagramme erstellen und bearbeiten können. Kunden von Microsoft 365 können Diagramme anzeigen, Drucken und freigeben sowie Kommentare zu den wechseln einfügen. Wenn Sie über ein Visio-Abonnement verfügen, können Sie zusätzliche Features verwenden, beispielsweise die in den folgenden Abschnitten beschriebenen.
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>Anwenden umfangreicher Formatierung auf Text und Shapes
 

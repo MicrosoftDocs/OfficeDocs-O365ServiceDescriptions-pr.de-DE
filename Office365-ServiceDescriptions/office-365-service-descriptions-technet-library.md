@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 ist ein Cloud-basierter Dienst, der die Anforderungen Ihrer Organisation an eine robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität erfüllen soll.
-ms.openlocfilehash: d07435954bb46a8e38b69415f70f3c194473cdaa
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787017"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638723"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365-Dienstbeschreibungen 
 
@@ -70,9 +70,9 @@ Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen
 
 - [Beschreibung des Yammer-Dienstes](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 Business – Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 Business Premium-Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Leitfaden zur Lizenzierung von Microsoft 365 Security #a0 Compliance](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Leitfaden zur Lizenzierung von Microsoft 365 Security & Compliance](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
 - [Dienstbeschreibung von Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
 
@@ -81,5 +81,5 @@ Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen
   
 ## <a name="disclaimer"></a>Verzichtserklärung
 
-© 2018 Microsoft Corporation. Alle Rechte vorbehalten. Microsoft, Office 365 und andere Produkt-und Dienstnamen sind oder können eingetragene Marken und/oder Marken in den USA und/oder anderen Ländern sein. Die hier bereitgestellten Informationen dienen nur zu Informationszwecken und stellen die aktuelle Ansicht der Microsoft Corporation ab dem aktuellen Veröffentlichungs-oder Überarbeitungsdatum dieses Dokuments dar. Es handelt sich nicht um einen Dienstvertrag und begeht weder Microsoft noch den Kunden an den hier erwähnten Features, Funktionen oder Verantwortlichkeiten. Microsoft übernimmt keine ausdrücklichen, impliziten oder gesetzlichen Garantien hinsichtlich der Informationen in diesem Dokument.
+&copy;2018 Microsoft Corporation. Alle Rechte vorbehalten. Microsoft, Office 365 und andere Produkt-und Dienstnamen sind oder können eingetragene Marken und/oder Marken in den USA und/oder anderen Ländern sein. Die hier bereitgestellten Informationen dienen nur zu Informationszwecken und stellen die aktuelle Ansicht der Microsoft Corporation ab dem aktuellen Veröffentlichungs-oder Überarbeitungsdatum dieses Dokuments dar. Es handelt sich nicht um einen Dienstvertrag und begeht weder Microsoft noch den Kunden an den hier erwähnten Features, Funktionen oder Verantwortlichkeiten. Microsoft übernimmt keine ausdrücklichen, impliziten oder gesetzlichen Garantien hinsichtlich der Informationen in diesem Dokument.
  

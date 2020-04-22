@@ -1,5 +1,5 @@
 ---
-title: Verwaltungs-und Sicherheitsfeatures in "jammern"
+title: Verwaltungs- und Sicherheitsfunktionen in Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Die folgenden Verwaltungs-und Sicherheitsfeatures stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e177cbdfa4c34aba68970e26cec2c72d7780afef
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263197"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640083"
 ---
-# <a name="administration-and-security-features-in-yammer"></a>Verwaltungs-und Sicherheitsfeatures in "jammern"
+# <a name="administration-and-security-features-in-yammer"></a>Verwaltungs- und Sicherheitsfunktionen in Yammer
 
 Die folgenden Verwaltungs-und Sicherheitsfeatures stehen in "jammern" zur Verfügung.
   
@@ -58,7 +58,7 @@ Begrenzen Sie Ihr Yammer-Netzwerk auf einen bestimmten IP-Bereich, sodass Yammer
 Konsolidieren Sie mehrere Yammer-Netzwerke in einem einzigen Netzwerk. Weitere Informationen finden Sie unter [Netzwerkmigration: Konsolidieren von mehreren Yammer-Netzwerken](https://go.microsoft.com/fwlink/?LinkID=617488).
   
 > [!NOTE]
-> Das Migrieren von Yammer-Netzwerken über das Office 365-Mandanten hinweg wird nicht unterstützt. 
+> Das Migrieren von Jammer Netzen in Plänen wird nicht unterstützt. 
 
 ## <a name="organization-resources"></a>Organisationsressourcen
 
@@ -74,7 +74,7 @@ Stellen Sie fest, auf welchen Geräten die Benutzer angemeldet sind, und melden 
 
 ## <a name="single-identity"></a>Einzelne Identität
 
-Wenn Sie sich für Yammer als die standardmäßige soziale Plattform in Office 365 für Ihre Organisation entscheiden, werden Mitarbeiter ihren bestehenden Yammer-Konten zugeordnet. Das bedeutet, dass sie sich nicht erneut anmelden müssen, wenn sie zu Yammer in Office 365 navigieren. Wenn Mitarbeiter auf jammern&mdash;zugreifen, ob von Office 365 über eine Jammer Mobile App oder durch Browsen&mdash;zu Yammer.com, werden Sie automatisch basierend auf vorhandenen Anmeldeinformationen der Organisation angemeldet.
+Wenn Sie "jammern" als standardmäßige soziale Erfahrung für Ihre Organisation auswählen, werden Mitarbeiter Ihren vorhandenen Jammer Konten zugeordnet. Das bedeutet, dass sie sich nicht erneut anmelden müssen, wenn sie zu Yammer in Office 365 navigieren. Wenn Mitarbeiter auf jammern&mdash;zugreifen, ob von Office 365 über eine Jammer Mobile App oder durch Browsen&mdash;zu Yammer.com, werden Sie automatisch basierend auf vorhandenen Anmeldeinformationen der Organisation angemeldet.
 
 ## <a name="usage-policy"></a>Verwendungsrichtlinie
 
@@ -86,6 +86,6 @@ Einfaches Verwalten des Zugriffs auf das Netzwerk Ihrer Organisation. Mithilfe v
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
   
 

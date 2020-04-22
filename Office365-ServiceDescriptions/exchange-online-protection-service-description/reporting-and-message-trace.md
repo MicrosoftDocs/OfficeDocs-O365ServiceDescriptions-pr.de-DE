@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte an, mit deren Hilfe Sie den allgemeinen Status und die Integrität Ihrer Organisation ermitteln können. Einige Berichte stehen im Microsoft 365 Admin Center zur Verfügung, während andere im Exchange Admin Center (EAC) verfügbar sind.
-ms.openlocfilehash: d4e0f1104bfc87f5641cc241d2a526e8d56f0d1a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 58e1c33b331c9bb05bd45893357bba9b5cca9945
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545858"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638945"
 ---
 # <a name="reporting-and-message-trace"></a>Berichterstellung und Nachrichtenablaufverfolgung
 
@@ -29,12 +29,12 @@ Sie suchen nach Informationen zu allen EOP-Funktionen? Siehe [Exchange Online Pr
 
 Die Seite Berichte im Microsoft 365 Admin Center enthält Informationen zum Nachrichten Datenverkehr, zu Spam-und Schadsoftware-Erkennungen sowie zu Nachrichten, die von Nachrichtenfluss Regeln (auch bekannt als Transportregeln) oder von DLP-Richtlinien (Data Loss Prevention) betroffen sind. Die erweiterten Berichte zu Schutz, Regeln und DLP bieten eine interaktive Berichterstellungserfahrung für EOP-Administratoren. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
 
-Ausführlichere Informationen zu diesen Berichten finden Sie unter [Verwenden von e-Mail-Schutz Berichten in Office 365 zum Anzeigen von Daten über Schadsoftware, Spam und Regel Erkennungen](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports).
+Ausführlichere Informationen zu diesen Berichten finden Sie unter [Verwenden von e-Mail-Schutz Berichten zum Anzeigen von Daten über Schadsoftware, Spam und Regel Erkennungen](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports).
 
 ## <a name="reporting-using-web-services"></a>Reporting using web services
 
 > [!NOTE]
-> Viele der Rest-basierten Berichtsfeatures und zugehörigen Cmdlets wurden im Januar 2018 veraltet. Informationen zu den verfügbaren Ersatz-Microsoft Graph-Berichten in Office 365 finden Sie in den Unterthemen zum [Arbeiten mit Office 365-Verwendungsberichten in Microsoft Graph](https://go.microsoft.com/fwlink/p/?LinkID=865135).
+> Viele der Rest-basierten Berichtsfeatures und zugehörigen Cmdlets wurden im Januar 2018 veraltet. Informationen zu den verfügbaren Ersatz-Microsoft Graph-Berichten in Office 365 finden Sie in den Unterthemen [Arbeiten mit Verwendungsberichten in Microsoft Graph](https://go.microsoft.com/fwlink/p/?LinkID=865135).
 
 Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Sie können den Rest/OData-Mandanten Berichterstattungswebdienst verwenden, um zusammenfassende und detaillierte Berichte zu Messagingdaten programmgesteuert zu sammeln, und Sie können die Daten auf einer Webseite in einem benutzerdefinierten Webverwaltungs Portal anzeigen.
 
@@ -44,4 +44,4 @@ Mit dem Feature Nachrichtenablaufverfolgung in der Exchange-Verwaltungskonsole k
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).

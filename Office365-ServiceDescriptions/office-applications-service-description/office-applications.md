@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office ist ein leistungsstarker Dienst, mit dem Sie Ihre besten Ideen umsetzen können und auch unterwegs stets angebunden sind. Melden Sie sich für ein personalisiertes Erlebnis und alle aktuellen Office-Anwendungen einfach an; neue und verbesserte Funktionen werden kontinuierlich hinzugefügt.
-ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688077"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639673"
 ---
 # <a name="office-applications"></a>Office-Anwendungen
 
 Microsoft Office ist ein leistungsstarker Dienst, mit dem Sie Ihre besten Ideen umsetzen können und auch unterwegs stets angebunden sind. Melden Sie sich für ein personalisiertes Erlebnis und alle aktuellen Office-Anwendungen einfach an; neue und verbesserte Funktionen werden kontinuierlich hinzugefügt.
   
-Informationen zu den Systemanforderungen für Office 365, dem monatlichen Abonnement basierten Dienst für Unternehmen, Bildungseinrichtungen und Behörden, finden Sie unter [Office 365 System Requirements](https://products.office.com/office-system-requirements/#Office365forBEG).
+Informationen zu Systemanforderungen, dem monatlichen Abonnement basierten Dienst für Unternehmen, Bildungseinrichtungen und Behörden, finden Sie unter [Microsoft 365 System Requirements](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -69,15 +69,15 @@ In einigen Office-Anwendungen wie Excel und Word sind Kacheln auf dem Start Bild
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-Office Mobile für iPad und iPhone enthält Ihre bevorzugten Office-Apps wie Word für iPad/iPhone, Excel für iPad/iPhone und PowerPoint für iPad/iPhone. Die apps können kostenlos heruntergeladen werden, und mit zutreffender Office 365 Pläne können Sie Dokumente auf Ihrem iPad oder iPhone erstellen und bearbeiten. Weitere Informationen finden Sie unter [Einrichten von Office-Apps und e-Mail auf IOS-Geräten](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
+Office Mobile für iPad und iPhone enthält Ihre bevorzugten Office-Apps wie Word für iPad/iPhone, Excel für iPad/iPhone und PowerPoint für iPad/iPhone. Die apps können kostenlos heruntergeladen werden, und mit entsprechenden Plänen können Sie Dokumente auf Ihrem iPad oder iPhone erstellen und bearbeiten. Weitere Informationen finden Sie unter [Einrichten von Office-Apps und e-Mail auf IOS-Geräten](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-Office Mobile für Android enthält Ihre bevorzugten Office-Apps wie Word für Android, Excel für Android und PowerPoint für Android. Die apps können kostenlos heruntergeladen werden, und mit zutreffender Office 365 Pläne können Sie Dokumente auf Ihren Android-Geräten erstellen und bearbeiten. Weitere Informationen finden Sie unter [Einrichten von Office-Apps und e-Mail auf Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
+Office Mobile für Android enthält Ihre bevorzugten Office-Apps wie Word für Android, Excel für Android und PowerPoint für Android. Die apps können kostenlos heruntergeladen werden, und mit entsprechenden Plänen können Sie Dokumente auf Ihren Android-Geräten erstellen und bearbeiten. Weitere Informationen finden Sie unter [Einrichten von Office-Apps und e-Mail auf Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Office Mobile für Windows Phone enthält Ihre bevorzugten Office-Apps wie Word für Windows Phone, Excel für Windows Phone und PowerPoint für Windows phone. Die apps können kostenlos heruntergeladen werden, und mit zutreffender Office 365 Pläne können Sie Dokumente auf Ihrem Windows Phone erstellen und bearbeiten. Weitere Informationen finden Sie unter [Einrichten von Office-Apps und e-Mail auf Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
+Office Mobile für Windows Phone enthält Ihre bevorzugten Office-Apps wie Word für Windows Phone, Excel für Windows Phone und PowerPoint für Windows phone. Die apps können kostenlos heruntergeladen werden, und mit entsprechenden Plänen können Sie Dokumente auf Ihrem Windows Phone erstellen und bearbeiten. Weitere Informationen finden Sie unter [Einrichten von Office-Apps und e-Mail auf Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-for-windows-10-mobile"></a>Office für Windows 10 Mobile
 
@@ -85,5 +85,5 @@ Office für Windows 10 Mobile Apps sind für Touch-und kleinere Bildschirme auf 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office Applications Service Description](office-applications-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office Applications Service Description](office-applications-service-description.md).
   

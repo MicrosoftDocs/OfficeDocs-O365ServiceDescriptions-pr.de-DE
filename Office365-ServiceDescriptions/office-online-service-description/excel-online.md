@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545798"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639883"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
-Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Office 365 Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
+Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
   
 > [!NOTE]
 > Arbeitsmappen, die mehr als 50 Megabyte (MB) überschreiten, können in Excel für das Internet nicht in Microsoft SharePoint Online angezeigt werden. Zum Anzeigen größerer Dateien muss auf Ihrem Computer die Excel-Desktop-App installiert sein. 
 
 > [!NOTE]
-> Um Ihnen den Angebotsvergleich zu vereinfachen, umfassen die in diesem Artikel aufgeführten erweiterten Features Excel-Desktop-App-Funktionen, die nur in der Office-Suite verfügbar sind (z. B. Office Professional Plus, Office Standard oder Office 365 ProPlus). Eine Liste aller Office-Features für die Webfunktionen, wie Word für das Internet und PowerPoint für das Internet, finden Sie unter [Feature-Verfügbarkeit in Office für die webpläne](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+> Damit Sie Angebote vergleichen können, umfassen die in diesem Artikel aufgelisteten erweiterten Features Excel-Desktop-App-Funktionen, die nur in der Office-Suite verfügbar sind (wie Office Professional Plus, Office Standard oder Microsoft 365 apps for Enterprise). Eine Liste aller Office-Features für die Webfunktionen, wie Word für das Internet und PowerPoint für das Internet, finden Sie unter [Feature-Verfügbarkeit in Office für die webpläne](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
 
 Informationen dazu, welcher Dateityp von Excel für das Internet unterstützt wird, finden Sie unter [Supported file types for Office for the Internet](office-online-service-description.md#supported-file-types-for-office-for-the-web). Weitere Informationen zu den Unterschieden zwischen Excel für das Internet und der Excel-Desktop-App finden Sie unter [Unterschiede zwischen der Verwendung einer Arbeitsmappe im Browser und in Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
@@ -342,4 +342,4 @@ Nicht verfügbar in Excel für das Internet. Sie können "Was wäre, wenn"-Analy
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office for the Webdienst Description](office-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office for the Webdienst Description](office-online-service-description.md).

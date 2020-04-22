@@ -1,5 +1,5 @@
 ---
-title: Beschreibung des Jammer Diensts
+title: Beschreibung des Yammer-Dienstes
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: 'Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.'
-ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263136"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640183"
 ---
-# <a name="yammer-service-description"></a>Beschreibung des Jammer Diensts
+# <a name="yammer-service-description"></a>Beschreibung des Yammer-Dienstes
 
 Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.
   
-Eine Liste der Office 365-Pläne, die Yammer einschließen, finden Sie unter [Office 365-Dienstfamilien und -Pläne](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
+Eine Liste der Pläne, die jammern einschließen, finden Sie unter [Microsoft-Dienst Familien und-Pläne](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
-Informationen zum Vergleichen der Features für die verschiedenen Pläne finden Sie unter [Vergleichen der Pläne für Office 365 for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Informationen zum Vergleich der Features in den Plänen finden Sie unter [Compare Microsoft 365 for Business Plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 > [!TIP]
-> Sie können Seiten in den Office 365-Dienstbeschreibungen exportieren, speichern und drucken. Informationen zum [Exportieren mehrerer Seiten](https://go.microsoft.com/fwlink/?LinkId=403349). 
+> Sie können Seiten in den Microsoft-Dienstbeschreibungen exportieren, speichern und drucken. Informationen zum [Exportieren mehrerer Seiten](https://go.microsoft.com/fwlink/?LinkId=403349). 
   
 ## <a name="system-requirements"></a>Systemanforderungen
 
-Systemanforderungen für Office 365, den monatlichen abonnementbasierten Dienst für Unternehmen, Bildungseinrichtungen und Behörden, finden Sie unter [Systemanforderungen für Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
+Die Systemanforderungen für Office 365, den monatlichen Abonnement basierten Dienst für Unternehmen, Bildungseinrichtungen und Behörden, finden Sie unter [Microsoft 365 System Requirements](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="yammer-plans"></a>Yammer-Pläne
 
@@ -49,7 +49,7 @@ Yammer ist in den folgenden Plänen verfügbar:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Jammern der Unternehmensdienst-Kommunikationsrichtlinie
 <a name="YammerCommsPolicy"> </a>
 
-Jammern ist ein Bestandteil von Office 365 und entspricht der [Office 365 Change Management-Richtlinie](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), verwendet jedoch nicht die Zielversion zum Rollout von Updates. 
+Jammern hält sich an die [Änderungs Verwaltungsrichtlinie von Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), verwendet jedoch nicht die Zielversion zum Rollout von Updates. 
   
 Mit allen Yammer-Benutzern werden A/B-Featuretests durchgeführt. Dies ermöglicht es Microsoft, Features in vielen Umgebungen und auf unterschiedlichen Geräten auf Stabilität, Leistung und verbesserte Benutzerfreundlichkeit zu testen. Aufgrund der Tests haben unter Umständen Benutzer im gleichen Netzwerk unterschiedliche Benutzererfahrungen. Kunden haben nicht die Möglichkeit, A/B-Tests abzuwählen.
   
@@ -59,8 +59,8 @@ Die verwendeten Kommunikationskanäle hängen von den Auswirkungen ab:
   
 |||
 |:-----|:-----|
-|**Änderungen, die eine Aktion erfordern (Änderungsplan)** <br/>Administrator erforderlich, um Änderungen vorzunehmen, damit der Dienst aktiv bleibt, Updates, die sich möglicherweise auf die Compliance Ihrer Organisation auswirken.  <br/> |-Office 365 Nachrichtencenter-e-Mails direkt an Gejammer verifizierte Administratoren <br/>-Office 365-Roadmap<br/>-Jammern von dienstupdates<br/>-Externe Gruppe<br/>Bei Änderungen, die eine spezielle Benutzergruppe betreffen, können wir diese Benutzer auch direkt benachrichtigen. |
-|**Änderungen, die sensibilisiert werden müssen (informiert bleiben)**<br/>Änderungen, die keine Administratoraktion erfordern, Änderungen beim visuellen Design  <br/> |-Office 365 Nachrichtencenter<br/>-Office 365-Roadmap<br/>-Jammern von dienstupdates<br/>-Externe Gruppe<br/>Bei Änderungen, die eine spezielle Benutzergruppe betreffen, können wir diese Benutzer auch direkt benachrichtigen. |
+|**Änderungen, die eine Aktion erfordern (Änderungsplan)** <br/>Administrator erforderlich, um Änderungen vorzunehmen, damit der Dienst aktiv bleibt, Updates, die sich möglicherweise auf die Compliance Ihrer Organisation auswirken.  <br/> |-Office 365 Nachrichtencenter-e-Mails direkt an Gejammer verifizierte Administratoren <br/>-Microsoft 365-Roadmap<br/>-Jammern von dienstupdates<br/>-Externe Gruppe<br/>Bei Änderungen, die eine spezielle Benutzergruppe betreffen, können wir diese Benutzer auch direkt benachrichtigen. |
+|**Änderungen, die sensibilisiert werden müssen (informiert bleiben)**<br/>Änderungen, die keine Administratoraktion erfordern, Änderungen beim visuellen Design  <br/> |-Office 365 Nachrichtencenter<br/>-Microsoft 365-Roadmap<br/>-Jammern von dienstupdates<br/>-Externe Gruppe<br/>Bei Änderungen, die eine spezielle Benutzergruppe betreffen, können wir diese Benutzer auch direkt benachrichtigen. |
 |**Nicht kritisch** <br/>Änderungen, die nicht kritisch sind und keine Aktion oder Sensibilisierung erfordern, auch wenn Sie von einigen Benutzern möglicherweise beobachtbar sind.  <br/> |Keine allgemeine Mitteilung |
    
 ## <a name="feature-availability-across-yammer-plans"></a>Verfügbarkeit von Features in Yammer-Plänen

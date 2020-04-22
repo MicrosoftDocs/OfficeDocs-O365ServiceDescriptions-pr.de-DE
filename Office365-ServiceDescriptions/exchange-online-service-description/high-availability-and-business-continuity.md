@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online bietet umfangreiche Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
-ms.openlocfilehash: b52345ce9287f0f28187df8efdb89c2eb6a7d9c8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6a0da1d74c74e1e301ab728e81ca884fc9edffc6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262598"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639793"
 ---
 # <a name="high-availability-and-business-continuity"></a>Hohe Verfügbarkeit und Geschäftskontinuität
 
@@ -31,7 +31,7 @@ Weitere Informationen dazu, wie Microsoft Ihre Daten schützt, finden Sie im [Of
   
 ## <a name="deleted-mailbox-recovery"></a>Wiederherstellung gelöschter Postfächer
 
-Administratoren können Exchange Online Postfächer löschen, indem Sie das Microsoft 365 Admin Center verwenden, um das entsprechende Benutzerkonto zu löschen oder die Exchange Online Lizenz zu entfernen, oder indem Sie das Cmdlet **Remove-Mailbox** in Remote Windows PowerShell verwenden. Wenn ein Postfach gelöscht wird, behält Exchange Online das Postfach und dessen Inhalte standardmäßig 30 Tage lang bei. Nach 30 Tagen kann das Postfach nicht mehr hergestellt werden. Ein wieder hergestelltes Postfach enthält alle darin gespeicherten Daten zu dem Zeitpunkt, zu dem es gelöscht wurde. Administratoren können ein gelöschtes Postfach innerhalb des Aufbewahrungszeitraums mithilfe des Microsoft 365 Admin Center wiederherstellen. Um ein gelöschtes Postfach wiederherzustellen, müssen Administratoren das entsprechende Office 365 Benutzerkonto wiederherstellen oder dem Benutzerkonto eine Exchange Online Lizenz zuweisen. Weitere Informationen finden Sie unter [Exchange Online-Benutzerpostfächer löschen oder wiederherstellen](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+Administratoren können Exchange Online Postfächer löschen, indem Sie das Microsoft 365 Admin Center verwenden, um das entsprechende Benutzerkonto zu löschen oder die Exchange Online Lizenz zu entfernen, oder indem Sie das Cmdlet **Remove-Mailbox** in Remote Windows PowerShell verwenden. Wenn ein Postfach gelöscht wird, behält Exchange Online das Postfach und dessen Inhalte standardmäßig 30 Tage lang bei. Nach 30 Tagen kann das Postfach nicht mehr hergestellt werden. Ein wieder hergestelltes Postfach enthält alle darin gespeicherten Daten zu dem Zeitpunkt, zu dem es gelöscht wurde. Administratoren können ein gelöschtes Postfach innerhalb des Aufbewahrungszeitraums mithilfe des Microsoft 365 Admin Center wiederherstellen. Um ein gelöschtes Postfach wiederherzustellen, müssen Administratoren das entsprechende Benutzerkonto wiederherstellen oder dem Benutzerkonto eine Exchange Online Lizenz zuweisen. Weitere Informationen finden Sie unter [Exchange Online-Benutzerpostfächer löschen oder wiederherstellen](https://go.microsoft.com/fwlink/p/?LinkId=286992).
   
 ## <a name="deleted-item-recovery"></a>Wiederherstellung gelöschter Elemente
 
@@ -45,5 +45,5 @@ Sollen Nachrichten länger als 30 Tage im Ordner "Wiederherstellbare Elemente" a
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
   
