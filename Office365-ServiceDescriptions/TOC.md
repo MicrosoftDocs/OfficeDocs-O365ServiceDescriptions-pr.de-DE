@@ -3,7 +3,7 @@
 ## [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Optionen zum Office 365-Plan](office-365-platform-service-description/office-365-plan-options.md)
 ### [Systemanforderungen für Office 365](office-365-platform-service-description/office-365-system-requirements.md)
-### [Office 365 Security & Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md)
+### [Security & Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Funktionen der Office 365-Suite](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
@@ -102,7 +102,7 @@
 ### [Supportfunktionen in Yammer](yammer-service-description/support-features-in-yammer.md)
 ## Microsoft 365 – Dienstbeschreibungen
 ### [Microsoft 365 Business Voice – Dienstbeschreibung](microsoft-365-business-voice-service-description.md)
-### [Microsoft 365 Business – Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Microsoft 365 Business Premium – Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [Microsoft 365-Lizenzierungsleitfaden für Sicherheit und Compliance](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
