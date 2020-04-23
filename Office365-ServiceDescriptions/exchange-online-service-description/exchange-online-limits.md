@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 327a33935e78288ec9c74174d5876a90805fcede
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
+ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640003"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43790456"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -360,7 +360,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 |Nachrichtenratengrenzwert|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|
 
 > [!NOTE]
-> <sup>1</sup> nach dem Erreichen des Empfänger Raten Grenzwerts können Nachrichten nicht aus dem Postfach gesendet werden, bis die Anzahl der Empfänger, die Nachrichten in den letzten 24 Stunden gesendet haben, unterschritten wird. Ein Benutzer sendet beispielsweise eine e-Mail-Nachricht an 5.000 Empfänger um 09:00 Uhr, sendet dann eine weitere Nachricht an 2, 1000 Empfänger um 10:00 Uhr und sendet dann eine weitere Nachricht an 2.500 Empfänger bei 11:00 am, wobei die Grenze von 10.000 Nachrichten erreicht wird. Der Benutzer kann Nachrichten erst wieder senden, wenn 09:00 am nächsten Tag ist.
+> <sup>1</sup> nach dem Erreichen des Empfänger Raten Grenzwerts können Nachrichten nicht aus dem Postfach gesendet werden, bis die Anzahl der Empfänger, die Nachrichten in den letzten 24 Stunden gesendet haben, unterschritten wird. Ein Benutzer sendet beispielsweise eine e-Mail-Nachricht an 5000 Empfänger um 09:00 Uhr, sendet dann eine weitere Nachricht an 2500 Empfänger um 10:00 Uhr und sendet dann eine weitere Nachricht an 2500 Empfänger bei 11:00 am, wobei der Grenzwert von 10.000 Nachrichten erreicht wird. Der Benutzer kann Nachrichten erst wieder senden, wenn 09:00 am nächsten Tag ist.
 > <sup>2</sup> Sie können Empfänger Grenzwerte zwischen 1 und 1000 für vorhandene Postfächer und für neue Postfächer anpassen, die in Zukunft erstellt werden. Bearbeiten Sie den Empfängergrenzwert für vorhandene Postfächer einzeln oder in Massen mit dem Exchange Admin Center, und passen Sie die Standardeinstellung für neue Postfächerüber Remote-PowerShell an. Weitere Informationen finden Sie unter [anpassbare Empfänger Grenzwerte in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
 
 #### <a name="sending-limits-across-standalone-options"></a>Sendegrenzwerte bei Optionen für eigenständige Pläne
@@ -375,7 +375,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 
 > [!NOTE]
 > <sup>1</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern.<br/>
-<sup>2</sup> nach dem Erreichen des Empfänger Raten Grenzwerts können Nachrichten nicht aus dem Postfach gesendet werden, bis die Anzahl der Empfänger, die Nachrichten in den letzten 24 Stunden gesendet haben, unterschritten wird. Ein Benutzer sendet beispielsweise eine e-Mail-Nachricht an 5.000 Empfänger um 09:00 Uhr, sendet dann eine weitere Nachricht an 2.500 Empfänger um 10:00 Uhr und sendet dann eine weitere Nachricht an 2.500 Empfänger bei 11:00 am, wobei der Grenzwert von 10.000 Nachrichten erreicht wird. Der Benutzer kann Nachrichten erst wieder senden, wenn 09:00 am nächsten Tag ist.
+<sup>2</sup> nach dem Erreichen des Empfänger Raten Grenzwerts können Nachrichten nicht aus dem Postfach gesendet werden, bis die Anzahl der Empfänger, die Nachrichten in den letzten 24 Stunden gesendet haben, unterschritten wird. Ein Benutzer sendet beispielsweise eine e-Mail-Nachricht an 5000 Empfänger um 09:00 Uhr, sendet dann eine weitere Nachricht an 2500 Empfänger um 10:00 Uhr und sendet dann eine weitere Nachricht an 2500 Empfänger bei 11:00 am, wobei der Grenzwert von 10.000 Nachrichten erreicht wird. Der Benutzer kann Nachrichten erst wieder senden, wenn 09:00 am nächsten Tag ist.
 
 ## <a name="reporting-and-message-trace-limits"></a>Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung
 
