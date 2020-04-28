@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Hier finden Sie Informationen zu den eindeutigen Verpflichtungen und Unterschieden der Office 365 gcc High-und DoD-Umgebungen im Vergleich zur Office 365 kommerziellen Umgebung.
-ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639053"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914781"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
 
@@ -31,7 +31,7 @@ Die Office 365 US Government-Dienstbeschreibung dient als Overlay zur allgemeine
 
 GCC High and DoD sorgt für die Einhaltung der Complianceanforderungen für die folgenden Zertifizierungen und Akkreditierungen: 
   
-- Das FedRAMP Moderate-Programm (Federal Risk and Authorization Management), einschließlich Sicherheitskontrollen und Kontrollverbesserungen, wie in der NIST-Sonderveröffentlichung (National Institute of Standards and Technology) 800-53 beschrieben
+- Das Bundesprogramm zur Risiko-und Autorisierungs Verwaltung bei FedRAMP High, einschließlich der Sicherheitskontrollen und-Verbesserungen, wie in der speziellen Publikation National Institute of Standards and Technology (NIST) 800-53 beschrieben.
     
 - Die Sicherheitskontrollen und Kontrollverbesserungen für den Leitfaden zu Sicherheitsanforderungen (SRG) für Cloud-Computing des Verteidigungsministeriums der Vereinigten Staaten für Informationen bis zu Wirkungsebene 5 (L5).
     
