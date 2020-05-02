@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft-Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen sind jederzeit verfügbar, wenn Sie sich anmelden.
-ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
-ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
+ms.openlocfilehash: eb2368030148423301d21d7644561028b1fbcec2
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796716"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001951"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -86,19 +86,17 @@ Die Administrator-App für Organisationsadministratoren gibt Ihnen die Möglichk
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack für Microsoft System Center 2012 R2
 
-Microsoft System Center ist eine integrierte Verwaltungsplattform, die Ihnen hilft, Ihr Rechenzentrum, Ihre Clientgeräte und Hybrid Cloud-IT-Umgebungen zu verwalten. Microsoft-Administratoren, die System Center verwenden, haben jetzt die Möglichkeit, das Office 365 Management Pack zu importieren, mit dem Sie alle Dienst Kommunikationen in Operations Manager in System Center anzeigen können. Dieses Tool ermöglicht den Zugriff auf den Status Ihrer abonnierten Dienste, aktive und abgeschlossene Dienstereignisse sowie die Message Center-Kommunikation. Weitere Informationen finden Sie im Blogbeitrag [Neue Office 365-Verwaltungstools](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/). 
+Microsoft System Center ist eine integrierte Verwaltungsplattform, die Ihnen hilft, Ihr Rechenzentrum, Ihre Clientgeräte und Hybrid Cloud-IT-Umgebungen zu verwalten. Microsoft-Administratoren, die System Center verwenden, haben jetzt die Möglichkeit, das Office 365 Management Pack zu importieren, mit dem Sie alle Dienst Kommunikationen in Operations Manager in System Center anzeigen können. Dieses Tool ermöglicht den Zugriff auf den Status Ihrer abonnierten Dienste, aktive und abgeschlossene Dienstereignisse sowie die Message Center-Kommunikation. Weitere Informationen finden Sie im Microsoft Download Center unter [Microsoft System Center Management Pack für Office 365](https://www.microsoft.com/download/details.aspx?id=43708) . 
   
 ### <a name="office-365-service-communications-api"></a>Office 365-Dienstkommunikations-API
 
-Mit dem Office 365-Dienstkommunikations-API können Sie auf die Dienst Kommunikation zugreifen, wie Sie möchten. Mit diesem neuen Verwaltungstool haben Sie nun die Möglichkeit, ihre Tools für die Dienst Kommunikation zu erstellen oder zu verbinden, wodurch die Überwachung Ihrer Umgebung möglicherweise vereinfacht wird. Mit der Dienst Kommunikations-API können Sie Folgendes in Ihrer Umgebung überwachen:
+Mit dem Office 365-Dienstkommunikations-API können Sie auf die Dienst Kommunikation zugreifen, wie Sie möchten. Mit dieser API haben Sie die Möglichkeit, ihre Tools für die Dienst Kommunikation zu erstellen oder zu verbinden, wodurch die Überwachung Ihrer Umgebung möglicherweise vereinfacht wird. Mit der Dienst Kommunikations-API können Sie Folgendes in Ihrer Umgebung überwachen:
   
 - Dienststatus in Echtzeit
     
 - Message Center-Kommunikation
     
-- Benachrichtigungen für geplante Wartungen
-    
-Weitere Informationen finden Sie im Blogbeitrag [neue Verwaltungstools](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) . 
+Weitere Informationen finden Sie in der [Office 365-Dienstkommunikations-API Referenz](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference). 
   
 ## <a name="post-incident-reviews"></a>Bewertungen nach Vorfällen
 

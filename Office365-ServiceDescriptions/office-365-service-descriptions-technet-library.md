@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 ist ein Cloud-basierter Dienst, der die Anforderungen Ihrer Organisation an eine robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität erfüllen soll.
-ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638723"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002065"
 ---
 # <a name="office-365-service-descriptions"></a>Office 365-Dienstbeschreibungen 
 
@@ -36,7 +36,7 @@ Microsoft bietet den Vorteil des Zentrums für Office 365 für berechtigte Diens
   
 Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen:
   
-- [Beschreibung des Office 365 Platt Form Diensts](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 und Office 365 Plattformdienst Beschreibung](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Dienstbeschreibung zu Office-Anwendungen](office-applications-service-description/office-applications-service-description.md)
 
@@ -70,7 +70,7 @@ Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen
 
 - [Beschreibung des Yammer-Dienstes](yammer-service-description/yammer-service-description.md)
 
-- [Microsoft 365 Business Premium-Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Microsoft 365 Business Premium – Dienstbeschreibung](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 - [Leitfaden zur Lizenzierung von Microsoft 365 Security & Compliance](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 

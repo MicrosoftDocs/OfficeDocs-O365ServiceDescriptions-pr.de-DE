@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 4eee250ce5d4ae2855c7ec1f26775bab73089676
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 58dbf4f8071a6d2663470b077370b25cf282d56d
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639913"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001966"
 ---
 # <a name="product-use-rights"></a>Produktnutzungsrechte
 
@@ -34,6 +34,6 @@ Weitere Informationen zu den Lizenzierungsprogrammen für Organisationen finden 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

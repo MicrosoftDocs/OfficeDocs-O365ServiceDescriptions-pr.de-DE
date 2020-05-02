@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Microsoft365 Admin Center als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter Microsoft Support Options.
-ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639903"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002322"
 ---
 # <a name="support"></a>Support
 
@@ -27,11 +27,11 @@ Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government
   
 Autorisierte Administratoren können das Microsoft 365 Admin Center verwenden, um Dienstanforderungen online zu übermitteln, auf Support-Telefonnummern zuzugreifen und alle geöffneten und zuletzt geschlossenen Dienstanforderungen anzuzeigen. Im Admin Center übermittelte Dienstanforderungen können bis zu 14 Tage nach dem Schließen der Anforderung erneut geöffnet werden. Weitere Informationen finden Sie unter [Support für Contact Microsoft 365 for Business](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
-Das technische Supportteam für Office 365 behebt nur Probleme im Zusammenhang mit Office 365. Probleme, die aus Kundennetzwerken stammen, fallen außerhalb der Support Grenzen, und in diesen Fällen müssen Kunden entweder mit Ihrem Netzwerkteam zusammenarbeiten oder das [Microsoft-Netzwerkteam](https://support.microsoft.com/gp/contactus81?Audience=Commercial) für Unterstützung kontaktieren.
+Der Microsoft 365 Technical Support-Team behandelt nur die Probleme im Zusammenhang mit Microsoft 365 und Office 365. Probleme, die aus Kundennetzwerken stammen, fallen außerhalb der Support Grenzen, und in diesen Fällen müssen Kunden entweder mit Ihrem Netzwerkteam zusammenarbeiten oder das [Microsoft-Netzwerkteam](https://support.microsoft.com/gp/contactus81?Audience=Commercial) für Unterstützung kontaktieren.
   
 ## <a name="community-and-self-service-support-options"></a>Community- und Self-Service-Support
 
-Self-Service-Support steht für alle Pläne zur Verfügung und umfasst Tools und Videos zur Problembehandlung, Hilfeartikel und Videos sowie Foren und Wikis in der [Office 365 Community](https://go.microsoft.com/fwlink/p/?LinkID=279811). Weitere Informationen zu Self-Service-Supportressourcen finden Sie in der [Hilfe-und Schulungs](help-and-training.md) Dienstbeschreibung.
+Self-Service-Support steht für alle Pläne zur Verfügung und umfasst Tools und Videos zur Problembehandlung, Hilfeartikel und Videos sowie Foren und Wikis in der [Microsoft 365-Community](https://go.microsoft.com/fwlink/p/?LinkID=279811). Weitere Informationen zu Self-Service-Supportressourcen finden Sie in der [Hilfe-und Schulungs](help-and-training.md) Dienstbeschreibung.
   
 ## <a name="pre-sales-support"></a>Support für den Bereich Presales
 
@@ -201,4 +201,4 @@ Wenn Sie bereits Lizenzen von Microsoft im Rahmen eines Volumenlizenzprogramms e
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638733"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002332"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -188,12 +188,12 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung.  | Nein | Ja |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>Anmerkungen
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
 <sup>3</sup> die Berichterstellung für Project für das Internet und Project Online ist mit Power BI verfügbar. Das anzeigen, bearbeiten und Erstellen von Berichten erfordert ein Power BI pro-Abonnement. Microsoft stellt eine vordefinierte Gruppe von Power BI-Berichten bereit. Benutzer können diese Berichte anpassen oder zusätzliche Berichte mit Power BI erstellen.</br> 
-<sup>4</sup> das Erstellen von benutzerdefinierten PowerApps-mobilen Anwendungen, die auf Project für die Webdaten zugreifen, erfordert ein PowerApps-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
+<sup>4</sup> das Erstellen und Verwenden von benutzerdefinierten PowerApps-mobilen Anwendungen, die auf Project für die Webdaten zugreifen, erfordert ein PowerApps-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
 <sup>5</sup> das Automatisieren und integrieren von Geschäftsprozessen mit Power Automation mit Project für die Webdaten erfordert ein Power automatisieren-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
 <sup>6</sup> Project Online Lizenzierung für externe Benutzer entspricht der Richtlinie für interne Benutzer. Für alle Interaktionen auf einer Project Online Website ist ein Project Plan 3-oder Project Plan 5-Abonnement erforderlich.</br>
 <sup>7</sup> Benutzer mit einem Projektplan 3-oder Project Plan 5-Abonnement können Ressourceneinsatz Anforderungen übermitteln. Sie können keine Ressourceneinsatz Anforderungen überprüfen, erfüllen oder genehmigen.</br>

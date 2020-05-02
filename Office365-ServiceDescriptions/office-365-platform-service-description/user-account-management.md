@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: 2de28edc6e85e2ac0f849d797639e29fdc62d5f9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639823"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002312"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -28,11 +28,11 @@ Microsoft unterstützt die folgenden Methoden zum Erstellen, verwalten und Authe
 > [!NOTE]
 > Dieses Thema enthält keine Informationen zu Sicherheitsfeatures, die den Zugriff auf einzelne Microsoft-Ressourcen zulassen oder verbieten (beispielsweise rollenbasierte Zugriffssteuerung in Microsoft Exchange Online oder Konfigurieren der Sicherheit in Microsoft SharePoint Online). Ausführliche Informationen zu diesen Features finden Sie unter [Exchange Online Dienstbeschreibung](../exchange-online-service-description/exchange-online-service-description.md) und [SharePoint Online Dienstbeschreibung](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
-Wenn Sie Informationen zu Tools benötigen, die Ihnen bei der Ausführung von Verwaltungsaufgaben helfen können, finden Sie unter [Tools to manage Microsoft Accounts](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Informationen zum Ausführen täglicher Verwaltungsaufgaben finden Sie unter [Allgemeine Verwaltungsaufgaben für Office 365](https://docs.microsoft.com/office365/admin/manage/manage).
+Wenn Sie Informationen zu Tools benötigen, die Ihnen bei der Ausführung von Verwaltungsaufgaben helfen können, finden Sie unter [Tools to manage Microsoft Accounts](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Informationen zum Ausführen von alltäglichen Verwaltungsaufgaben finden Sie unter [allgemeine Verwaltungsaufgaben](https://docs.microsoft.com/office365/admin/manage/manage).
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Benötigen Sie Hilfe bei der Anmeldung, Installation, Deinstallation oder der Kündigung Ihres Abonnements?
 
-Hier finden Sie Unterstützung: [Anmelden bei Office 365](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [Installieren oder Deinstallieren von Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [Kündigen von Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Erhalten Sie Hilfe beim [Anmelden beim](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [installieren oder Deinstallieren von Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | -[Abbruch Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 Weitere Probleme finden Sie im [Microsoft Support Center](https://support.microsoft.com/contactus/). Support für Office 365 betrieb von 21Vianet in China erhalten Sie vom [21Vianet-Supportteam](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Ansprechpartner für Office 365 Deutschland ist das [Office 365 Deutschland-Supportteam](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
   
@@ -48,7 +48,7 @@ Die Art der Identität hat Auswirkungen auf die Benutzerfreundlichkeit, Verwaltu
   
 ### <a name="custom-domains-and-identity-options"></a>Benutzerdefinierte Domänen und Identitätsoptionen
 
-Wenn Sie einen neuen Benutzer erstellen, werden der Anmeldename und die e-Mail-Adresse des Benutzers der Standarddomäne zugewiesen, die im Microsoft 365 Admin Center festgelegt ist. Weitere Informationen finden Sie unter [Hinzufügen Ihrer Benutzer und Domänen zu Office 365](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
+Wenn Sie einen neuen Benutzer erstellen, werden der Anmeldename und die e-Mail-Adresse des Benutzers der Standarddomäne zugewiesen, die im Microsoft 365 Admin Center festgelegt ist. Weitere Informationen finden Sie unter [Hinzufügen Ihrer Benutzer und Domäne](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
 Standardmäßig verwendet das Abonnement die Domäne \< " _Company Name_ \> **. onmicrosoft.com** ", die mit dem Konto erstellt wurde. \* Sie können eine oder mehrere benutzerdefinierte Domänen zu Microsoft hinzufügen, anstatt die onmicrosoft.com-Domäne beizubehalten, und Sie können Benutzern zuweisen, sich mit einer der überprüften Domänen anzumelden. Die einem Benutzer zugewiesene Domäne ist die E-Mail-Adresse, die in gesendeten und empfangenen E-Mails angezeigt wird. 
   
@@ -74,9 +74,9 @@ Mit Ausnahme von Internetwebsites für anonymen Zugriff, die mit SharePoint Onli
     
 Microsoft verwendet die formularbasierte Authentifizierung, und der Authentifizierungsdatenverkehr über das Netzwerk wird immer mit TLS/SSL mit Port 443 verschlüsselt. Der Authentifizierungsdatenverkehr verwendet einen vernachlässigbaren Prozentsatz an Bandbreite für Microsoft-Dienste. 
   
-### <a name="multi-factor-authentication-for-office-365"></a>Mehrstufige Authentifizierung für Office 365
+### <a name="multi-factor-authentication"></a>Mehrstufige Authentifizierung
 
-Bei der mehrstufigen Authentifizierung für Office 365 müssen Benutzer nach der korrekten Eingabe Ihres Kennworts einen Telefonanruf, eine Textnachricht oder eine APP-Benachrichtigung auf dem Smartphone bestätigen. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Microsoft-Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Erfahren Sie mehr über die mehrstufige [Authentifizierung für Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Bei der mehrstufigen Authentifizierung müssen Benutzer nach der korrekten Eingabe Ihres Kennworts einen Telefonanruf, eine Textnachricht oder eine APP-Benachrichtigung auf dem Smartphone bestätigen. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Microsoft-Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Erfahren Sie mehr über die mehrstufige [Authentifizierung](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
   
 ### <a name="rich-client-authentication"></a>Rich-Client-Authentifizierung
 
@@ -117,7 +117,7 @@ Die Anmelde Erfahrung ändert sich abhängig vom verwendeten Identitätstyp:
   
 ## <a name="creating-user-accounts"></a>Erstellen von Benutzerkonten
 
-Es gibt mehrere Methoden zum Hinzufügen von Benutzern zu Office 365. Weitere Informationen finden Sie unter [Hinzufügen von Benutzern einzeln oder in der Hilfe zum Massen Administrator](https://docs.microsoft.com/office365/admin/add-users/add-users) sowie [hinzufügen, entfernen und Verwalten von Benutzern in der Microsoft 365 Admin Center-Vorschau](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Wenn Sie Office 365 im Betrieb durch 21Vianet in China verwenden, finden Sie Informationen unter [Erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet - Admininstratorhilfe](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Es gibt mehrere Möglichkeiten zum Hinzufügen von Benutzern. Weitere Informationen finden Sie unter [Hinzufügen von Benutzern einzeln oder in der Hilfe zum Massen Administrator](https://docs.microsoft.com/office365/admin/add-users/add-users) sowie [hinzufügen, entfernen und Verwalten von Benutzern in der Microsoft 365 Admin Center-Vorschau](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Wenn Sie Office 365 im Betrieb durch 21Vianet in China verwenden, finden Sie Informationen unter [Erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet - Admininstratorhilfe](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="deleting-accounts"></a>Löschen von Konten
 
@@ -127,7 +127,7 @@ Wie Sie Konten löschen, hängt davon ab, ob Sie die Verzeichnissynchronisierung
     
 - Wenn Sie die Verzeichnissynchronisierung nutzen, müssen Sie Benutzer aus der lokalen Active Directory-Instanz und nicht aus Office 365 löschen.
     
-Wenn ein Konto gelöscht wird, wird es inaktiv. Sie können das Konto für etwa 30 Tage nach dem Löschen wiederherstellen. Weitere Informationen zum Löschen und Wiederherstellen von Konten finden Sie unter [Löschen von Benutzern in Office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) und [Wiederherstellen von Benutzern in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) oder, wenn Sie Office 365 betrieben von 21Vianet in China verwenden, finden Sie unter [erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet-admin Help](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Wenn ein Konto gelöscht wird, wird es inaktiv. Sie können das Konto für etwa 30 Tage nach dem Löschen wiederherstellen. Weitere Informationen zum Löschen und Wiederherstellen von Konten finden Sie unter [Löschen von Benutzern](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) und [Wiederherstellen von Benutzern](https://docs.microsoft.com/office365/admin/add-users/restore-user) oder, wenn Sie Office 365 betrieben von 21Vianet in China verwenden, finden Sie unter [erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet-admin Help](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="password-management"></a>Kennwortverwaltung
 
@@ -188,5 +188,5 @@ Azure Active Directory (AD) bietet umfassende Identitäts- und Zugriffsverwaltun
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie in der [Microsoft 365-und Office 365 Platform-Dienstbeschreibung](office-365-platform-service-description.md).
   

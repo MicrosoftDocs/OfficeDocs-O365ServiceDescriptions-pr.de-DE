@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 02c87e8fdaea848a7743b6ee010c3f2634cfe1c8
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813388"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001991"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
@@ -32,7 +32,7 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Feature**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
 |[Zugriff auf das Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
-|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Nein   |Nein   |Nein|Nein   |Ja   |Nein   |
+|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Nein   |Nein   |Nein|Nein   |Nein   |Ja   |
 |[Bedrohungsverwaltung](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) wie z. B. E-Mail-Filterung und Antischadsoftware     |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
 |[Erweiterte Bedrohungs Verwaltung](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), beispielsweise Threat Explorer für Phishing-Kampagnen<sup>6</sup>  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |

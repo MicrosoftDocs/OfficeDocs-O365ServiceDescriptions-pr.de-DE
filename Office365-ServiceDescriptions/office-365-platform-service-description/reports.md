@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Administratoren von Microsoft können Berichte anzeigen, in denen gezeigt wird, wie Ihre Organisation Microsoft-Dienste verwendet. Mithilfe dieser Berichte können Sie Probleme identifizieren, Daten filtern und Daten in Microsoft Excel herunterladen. Sie können auch eigene Berichte mithilfe der Microsoft 365-Berichterstellungsdienste erstellen. Administratoren von Exchange Online und Exchange Online Protection (EoP) können e-Mail-Schutz Berichte verwenden, um Daten über Schadsoftware, Spam und Regel Erkennungen anzuzeigen.
-ms.openlocfilehash: 1bfe5ed3b9cc85e890eedea6358db7a70114d14d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4b2ca6916cf0f47c1eb973480e5eb2752d22d7fe
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638983"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001962"
 ---
 # <a name="reports"></a>Berichte
 
@@ -27,6 +27,6 @@ Weitere Informationen finden Sie unter [anzeigen und Herunterladen von Berichten
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

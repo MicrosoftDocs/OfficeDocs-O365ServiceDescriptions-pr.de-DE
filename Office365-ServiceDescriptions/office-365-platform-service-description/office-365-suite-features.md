@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639933"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002001"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -75,7 +75,7 @@ Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organ
 
 Microsoft Sway ist eine professionelle App zum digitalen Geschichtenerzählen für Unternehmen, mit der Sie und Ihre Kollegen Ideen auf einer interaktiven, webbasierten Leinwand ausdrücken können. Dank des integrierten Designmoduls von Microsoft Sway können Sie professionelle, visuell ansprechende Berichte, Präsentationen und mehr ohne komplizierte Formatierung oder zusätzliche Schulung erstellen. Sie können die Ergebnisse auch ändern, um das gewünschte einzigartige Aussehen und Verhalten zu erzielen. Microsoft Sway lässt Ihre Präsentation in jedem Browser auf jedem Bildschirm großartig aussehen, und Sie können sie mit Kollegen und Kunden teilen, indem Sie ihnen einfach einen Link senden. Microsoft Sway hilft Ihnen beim Suchen und Sammeln aller möglichen Inhalte, ohne die App zu verlassen. Sie können Bilder, Text, Videos und Diagramme direkt auf die Leinwand ziehen und dort ablegen. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft Teams ist ein chatbasierter Arbeitsbereich in Office 365, mit dem Teammitglieder gemeinsam mehr erreichen können. Microsoft Teams dient als Hub für Teamarbeit, sofortigen Zugriff auf Chatunterhaltungen für Teams, Inhalte und Tools von Office 365 in einem einzelnen Arbeitsbereich. SharePoint und OneNote sind integriert, und Teammitglieder können Office-Dokumente direkt in der App bearbeiten. Abgesehen von Chats unterstützt Microsoft Teams auch Videoanrufe und Besprechungen, damit Teams Live eintreffen können, ob bei Bedarf oder geplant. Teammitglieder können auf einfache Weise mit mehreren Teams zusammenarbeiten und jederzeit nach Personen suchen sowie Chats und Dateien durchsuchen. Microsoft Teams funktioniert auf Windows-, Mac-, Internet-, Android-und IOS-Plattformen. Weitere Informationen hierzu finden Sie in der [Onlinehilfe für Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
@@ -83,9 +83,9 @@ Microsoft Teams ist ein chatbasierter Arbeitsbereich in Office 365, mit dem Team
 
 In Office vertieft können Benutzer Inhalte in Office 365 auf der Grundlage personalisierter Einblicke suchen und ermitteln. Delve ist die erste Lösung auf Grundlage von Office Graph. Weitere Informationen zu Office Delve finden Sie unter [Was ist Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
   
-## <a name="office-365-groups"></a>Office 365-Gruppen
+## <a name="microsoft-365-groups"></a>Microsoft 365-Gruppen
 
-Gruppen in Office 365 verbinden Benutzer mit Kollegen, Informationen und Anwendungen, die sie benötigen, um gemeinsam mehr zu schaffen. Gruppen sind standardmäßig offen, damit sie leichter aufgefunden und freigegeben werden können, Benutzer können aber auch private Gruppen für vertrauliche Inhalte erstellen. Weitere Informationen zu Gruppen finden Sie unter [Gruppen in Office 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Informationen zu den Gruppenbeschränkungen finden Sie unter Wie verwalte ich meine Gruppen?" in [Weitere Informationen zu Office 365-Gruppen](https://go.microsoft.com/fwlink/?linkid=846714).
+Gruppen in Microsoft 365 verbindet Benutzer mit den Kollegen, Informationen und Anwendungen, die Sie benötigen, um eine bessere Zusammenarbeit zu erreichen. Gruppen sind standardmäßig offen, damit sie leichter aufgefunden und freigegeben werden können, Benutzer können aber auch private Gruppen für vertrauliche Inhalte erstellen. Weitere Informationen zu Gruppen finden Sie unter [Gruppen in Microsoft 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Informationen zu Gruppen Grenzwerten finden Sie unter "How do I Manage My Groups" in [Learn about Microsoft 365 Groups](https://go.microsoft.com/fwlink/?linkid=846714).
   
 ## <a name="office-365-video"></a>Office 365 Video
 
