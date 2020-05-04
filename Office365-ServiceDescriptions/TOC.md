@@ -1,6 +1,6 @@
 
-# [Office 365-Dienstbeschreibungen](office-365-service-descriptions-technet-library.md)
-## [Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)
+# [Microsoft 365- und Office 365-Dienstbeschreibungen](office-365-service-descriptions-technet-library.md)
+## [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Optionen zum Office 365-Plan](office-365-platform-service-description/office-365-plan-options.md)
 ### [Systemanforderungen für Office 365](office-365-platform-service-description/office-365-system-requirements.md)
 ### [Security & Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md)
