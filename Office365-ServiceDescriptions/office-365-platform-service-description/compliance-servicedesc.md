@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 stimmt mit den Bestimmungen und Industriestandards überein, und wurde dafür konzipiert, Sie bei der Einhaltung der gesetzlichen Bestimmungen Ihres Geschäfts zu unterstützen. Weitere Informationen finden Sie unter Complianceangebote.
-ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a88255e948deab39e10116463130e2e8087abec5
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262868"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044777"
 ---
 # <a name="compliance"></a>Compliance
 
@@ -111,5 +111,5 @@ Beachten Sie außerdem die folgenden Fragen für PCI-DSS:
     
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Funktionen in Office 365 Plänen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
   

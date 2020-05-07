@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: abeb93c0eee7f783601ae755f40f6f8cf8163d11
-ms.sourcegitcommit: a475f562af23f1591b4962651affef8c23c8051d
+ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
+ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005961"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44090138"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -129,13 +129,13 @@ MCAS erkennt und beurteilt Shadow IT, bietet Schutz vor Bedrohungen für First-u
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Sicherheit und Microsoft 365 Insider Risk Management bieten die Rechte für einen Benutzer, von MCAS zu profitieren.
+MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Sicherheit und Microsoft 365 Information Protection and Governance stellen die Rechte für einen Benutzer zur Verfügung, um von MCAS zu profitieren.
 
 Azure AD P1 stellt die Rechte für einen Benutzer zur Verfügung, um von den Ermittlungsfunktionen in MCAS zu profitieren.
 
 Um von den bedingten Zugriffsfunktionen für App-Steuerelemente in MCAS profitieren zu können, müssen die Benutzer auch für Azure Active Directory P1, die in Enterprise Mobility + Security E3/A3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/A3/G3, Microsoft 365 E5/A5/G5 und Microsoft 365 E5/A5/G5 Security enthalten ist,
 
-Um von der automatischen Kennzeichnung profitieren zu können, müssen die Benutzer für Azure Information Protection P2 lizenziert sein, die in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance und Microsoft 365 Insider Risk Management enthalten ist.
+Um von der automatischen Kennzeichnung profitieren zu können, müssen die Benutzer für Azure Information Protection P2 lizenziert sein, die in Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance und Microsoft 365 Information Protection and Governance enthalten ist.
 
 Weitere Informationen finden Sie im [Microsoft Cloud App Security Licensing-Datenblatt](https://www.aka.ms/mcaslicensing).
 
@@ -181,7 +181,7 @@ Benutzer profitieren davon, dass Sie die Vertraulichkeits Bezeichnungen manuell 
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP Plan 1 und AIP Plan 2 bieten die Rechte für einen Benutzer, der von der manuellen Sensitivitäts Kennzeichnung profitiert.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 Insider-Risiko Management, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 und AIP Plan 2 bieten die Rechte für einen Benutzer, der von der automatischen Sensitivitäts Kennzeichnung profitiert.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 und AIP Plan 2 bieten die Rechte für einen Benutzer, der von der automatischen Sensitivitäts Kennzeichnung profitiert.
 
 Spezifische Rechte nach Lizenz finden Sie im [ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
 
@@ -209,9 +209,9 @@ Benutzer profitieren davon, dass Sie Daten zu Aufbewahrungszwecken klassifiziere
 
 Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/a3 bieten die Rechte für einen Benutzer, der von einer einzigen organisationsweiten oder standortweiten Aufbewahrungsrichtlinie und/oder manuellen Aufbewahrungs Bezeichnungen profitiert.
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Insider Risk Management, Office 365 E5/a5 und Office 365 erweiterte Kompatibilität bieten die Rechte für einen Benutzer, von der automatischen Anwendung von Aufbewahrungs Bezeichnungen oder Richtlinien zu profitieren, beginnend mit dem Aufbewahrungszeitraum einer Aufbewahrungs Bezeichnung basierend auf einem benutzerdefinierten Ereignis, wobei eine manuelle Dispositions Überprüfung am Ende des Aufbewahrungszeitraums des Etiketts, das Importieren von drittanbieterdaten über systemeigene Daten Konnektoren, das Erkennen von
+Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365-Informationsschutz und-Steuerung Office 365 E5/a5 und Office 365 erweiterte Kompatibilität bieten die Rechte für einen Benutzer, von der automatischen Anwendung von Aufbewahrungs Bezeichnungen oder Richtlinien zu profitieren, beginnend mit dem Aufbewahrungszeitraum einer Aufbewahrungs Bezeichnung basierend auf einem benutzerdefinierten Ereignis, wobei eine manuelle Dispositions Überprüfung am Ende des Aufbewahrungszeitraums des Etiketts, das Importieren von drittanbieterdaten über systemeigene Daten Konnektoren, das Erkennen von
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Insider Risk Management bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs Bezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs Bezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
 Spezifische Rechte nach Lizenz finden Sie im [ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
 
@@ -231,9 +231,9 @@ Die Datensatzverwaltung unterstützt Organisationen bei der Erfüllung ihrer ges
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Insider Risk Management, Office 365 E5/A5, Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von der Datensatzverwaltung zu profitieren, einschließlich Deklarieren von Elementen als Datensätze, automatisches Anwenden von Aufbewahrungs-oder Daten Satzbezeichnungen und Ausführen der Prozesse zur Dispositions Überprüfung (ohne automatisches Anwenden einer Aufbewahrungs Bezeichnung basierend auf
+Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365 Information Protection and Governance, Office 365 E5/A5, Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von der Datensatzverwaltung zu profitieren, einschließlich Deklarieren von Elementen als Datensätze, automatisches Anwenden von Aufbewahrungs-oder Daten Satzbezeichnungen und Ausführen der Prozesse zur Dispositions Überprüfung (ohne automatisches Anwenden einer Aufbewahrungs Bezeichnung
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Insider Risk Management bieten den Benutzern die Rechte, von der automatischen Aufbewahrung oder von Daten Satzbezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs-oder Daten Satzbezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
 Spezifische Rechte nach Lizenz finden Sie im [ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
 
@@ -280,7 +280,7 @@ Benutzer profitieren vom Kundenschlüssel, indem Sie Ihre Daten auf der Anwendun
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Insider Risk Management, Office 365 E5/a5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, vom Kundenschlüssel zu profitieren. Um den vollen Nutzen aus dem Kundenschlüssel zu ziehen, müssen Sie auch über ein Abonnement für Azure Key Vault verfügen.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/a5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, vom Kundenschlüssel zu profitieren. Um den vollen Nutzen aus dem Kundenschlüssel zu ziehen, müssen Sie auch über ein Abonnement für Azure Key Vault verfügen.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -324,7 +324,7 @@ Durch die Aktivierung von PAM können Organisationen mit NULL stehenden rechten 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können? 
 
-Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance und das Insider Risiko Management von Microsoft 365 E5/A5 bieten die Rechte für einen Benutzer, von PAM zu profitieren.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance und Microsoft 365 E5/A5 Information Protection and Governance bieten die Rechte für einen Benutzer, von PAM zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -344,7 +344,7 @@ Benutzer profitieren von DLP für Exchange Online, SharePoint Online und OneDriv
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Microsoft 365 a1/E3/A3/Business, Office 365 E3/a3 und Verhinderung von Datenverlust stellen die Rechte dar, mit denen ein Benutzer von Office 365 DLP für Exchange Online, SharePoint Online und OneDrive für Unternehmen profitieren kann.
+Microsoft 365 a1/E3/A3/Business, Office 365 E3/a3 und Office 365 Verhinderung von Datenverlust bieten die Rechte für einen Benutzer, der von Office 365 DLP für Exchange Online, SharePoint Online und OneDrive für Unternehmen profitieren kann.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -360,7 +360,7 @@ Mit der Kommunikation DLP für Teams können Organisationen Chats und Kanal Nach
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
-Lizenzierte Benutzer von Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 Insider Risk Management und Office 365 Advanced Compliance können von der Kommunikations-DLP für Teams profitieren.
+Lizenzierte Benutzer von Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 Information Protection and Governance und Office 365 Advanced Compliance können von der Kommunikations-DLP für Teams profitieren.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
@@ -433,7 +433,7 @@ Nachrichtenabsender profitieren von der zusätzlichen Kontrolle über vertraulic
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Insider Risk Management und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, um von der erweiterten Nachrichtenverschlüsselung zu profitieren.
+Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, um von der erweiterten Nachrichtenverschlüsselung zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -510,7 +510,7 @@ Advanced Audit in Microsoft 365 bietet eine einjährige Aufbewahrung von Überwa
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
-Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5 und die Kompatibilität mit Microsoft 365 E5 können von der erweiterten Überwachung profitieren.
+Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 Compliance und Microsoft 365 eDiscovery und Audit können von der erweiterten Überwachung profitieren.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 

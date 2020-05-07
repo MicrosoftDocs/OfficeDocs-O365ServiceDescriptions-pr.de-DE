@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Als autorisierter Microsoft-Partner bietet Ihnen Microsoft Office 365 die Möglichkeit, Ihren Kundenstamm zu erweitern und dauerhafte Geschäftsbeziehungen zu Ihren Kunden aufzubauen. Für eine monatlich oder jährlich an Sie zu entrichtende Gebühr können Ihre Kunden cloudbasierte Dienste nutzen, sodass sie sich nicht um die Verwaltung von Datensicherungen, Serverhardware und Serverupdates kümmern müssen. Welche Dienste Ihnen zur Verfügung stehen, hängt von den Diensttypen ab, für deren Bereitstellung Sie autorisiert sind.
-ms.openlocfilehash: 58d0b09222457ecb7f5c1fb31ad511608c66fadc
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: d9c907fc214e992d7ab30ed5a77452c2c0b5053e
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638753"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044967"
 ---
 # <a name="partners"></a>Partner
 
@@ -53,5 +53,5 @@ Das Microsoft Partner Network engagiert sich dafür, den Anforderungen unserer P
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in den Plänen von Microsoft 365 und Office 365 finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
   

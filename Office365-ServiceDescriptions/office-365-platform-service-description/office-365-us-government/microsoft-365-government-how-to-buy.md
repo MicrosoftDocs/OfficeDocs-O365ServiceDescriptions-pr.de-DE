@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172257"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045047"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-How to Buy
 
-Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoftspezifische Microsoft 365 Government-Umgebungen für US-Kunden im öffentlichen Sektor erstellt. Dieser Abschnitt enthält eine Übersicht über die Umgebungen und weitere Informationen zum Kauf. Es wird empfohlen, dass Sie diesen zusätzlichen Abschnitt neben den [Office 365-Dienstbeschreibungen ](../../office-365-service-descriptions-technet-library.md)lesen.
+Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoftspezifische Microsoft 365 Government-Umgebungen für US-Kunden im öffentlichen Sektor erstellt. Dieser Abschnitt enthält eine Übersicht über die Umgebungen und weitere Informationen zum Kauf. Es wird empfohlen, diesen zusätzlichen Abschnitt neben [Microsoft 365 und Office 365-Dienstbeschreibungen zu](../../office-365-service-descriptions-technet-library.md)lesen.
   
 ## <a name="whats-microsoft-365-government"></a>Was ist Microsoft 365 Government?
 
-Microsoft 365 Government ist eine Reihe von Produktivitäts-, Sicherheits-und Mobilitätssoftware-Funktionen, die speziell für US-Regierungsbehörden und Auftragnehmer entwickelt wurden, die unterstützt werden, um kontrollierte, nicht klassifizierte Informationen zu halten. Bereitgestellt durch eindeutige Umgebungen, die die strengsten Compliance-Anforderungen erfüllen, ist Microsoft 365 Government ein Cloud-Angebot für US-Regierungskunden, die die Features und Funktionen von Microsoft Commercial Cloud so genau wie möglich abgleichen. Enterprise-Angebote. 
+Microsoft 365 Government ist eine Reihe von Produktivitäts-, Sicherheits-und Mobilitätssoftware-Funktionen, die speziell für US-Regierungsbehörden und Auftragnehmer entwickelt wurden, die unterstützt werden, um kontrollierte, nicht klassifizierte Informationen zu halten. Bereitgestellt durch eindeutige Umgebungen, die die strengsten Compliance-Anforderungen erfüllen, ist die Microsoft 365 Government ein Cloud-Angebot für US-Regierungskunden, das die Features und Funktionen von Microsoft Commercial Cloud Enterprise-angeboten so genau wie möglich erfüllt. 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Was ist der Wert von Microsoft 365 Government?
 
-Die Regierung von Microsoft 365 hilft US-Regierungschefs und Arbeitskräften, jederzeit und überall produktiv zu sein, indem Sie die mobile Produktivität und die sichere Zusammenarbeit mit der Compliance sicherstellen, indem Sie Agenturen dabei unterstützen, regulatorische Daten effektiv Anforderungen. Die folgende Tabelle enthält Beispiele für wichtige Regierungs Rollen.
+Die Regierung von Microsoft 365 hilft US-Regierungschefs und Arbeitskräften, jederzeit und überall produktiv zu sein, indem Sie die mobile Produktivität und die sichere Zusammenarbeit mit der Compliance sicherstellen, indem Sie Agenturen dabei helfen, Vorschriften zur Einhaltung behördlicher Daten Die folgende Tabelle enthält Beispiele für wichtige Regierungs Rollen.
 
  
 ||||||
@@ -69,7 +69,7 @@ Ein berechtigter Regierungs Kunde wird durch einen folgenden definiert:
 - Eine föderale Stelle, die als Büro, Büro, Agentur, Abteilung oder andere Entität der US-Regierung definiert ist
 - Eine Status/lokale Entität, die als eine der folgenden Definitionen definiert ist:
     1. Jede Agentur eines Staates oder einer lokalen Regierung in den USA
-    2. Jedes beliebige U.S. County, Borough, Commonwealth, Stadt, Gemeinde, Stadt, Township, ein spezieller Zweck Distrikt oder eine andere ähnliche Art von staatlicher Instrumentalität, die durch die Gesetze des Kunden Staates festgelegt wurde und innerhalb der state's Jurisdiktion des Kunden liegt und geografische Grenzen
+    2. Jedes beliebige U.S. County, Borough, Commonwealth, Stadt, Gemeinde, Stadt, Township, ein spezieller Zweck Distrikt oder eine andere ähnliche Art von staatlicher Instrumentalität, die durch die Gesetze des Kunden Staates festgelegt wurde und innerhalb der state's Jurisdiktion und geografischen Grenzen des Kunden liegt
     3. Der District of Columbia, das Commonwealth von Puerto Rico, Guam, Amerikanisch-Samoa, die amerikanischen Jungferninseln und die nördlichen Mariana Inseln
 - Eine Stammes Entität, definiert als eine staatlich anerkannte Stammes Entität, die für die Finanzierung und Dienstleistungen vom US-Innenministerium aufgrund ihres Status als Indianerstamm berechtigt ist, oder in Alaska, einem einheimischen Dorf oder einer regionalen nativen Corporation in Alaska
 

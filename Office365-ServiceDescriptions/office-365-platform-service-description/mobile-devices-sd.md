@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Viele Mobiltelefone, Tablets und andere mobile Geräte können mit Microsoft Office 365 verwendet werden.
-ms.openlocfilehash: fa168b8074c86dde99cf761986d0a2df3ca35ffd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: b06c9769841cca8f08ff2e8dfa9abc16bde7bb72
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262908"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045017"
 ---
 # <a name="mobile-devices-sd"></a>Mobile Geräte [SD]
 
@@ -31,6 +31,6 @@ Viele Mobiltelefone, Tablets und andere mobile Geräte können mit Microsoft Off
     
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in den Plänen von Microsoft 365 und Office 365 finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

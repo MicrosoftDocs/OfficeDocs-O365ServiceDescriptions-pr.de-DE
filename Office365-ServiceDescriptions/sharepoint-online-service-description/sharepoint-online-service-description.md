@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Hier erfahren Sie, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639843"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044787"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -82,7 +82,7 @@ Eine Übersicht über Anpassungsoptionen finden Sie unter [Customizing SharePoin
 
 Weitere Informationen zur Verfügbarkeit von Microsoft Power apps und Power Automation finden Sie in den [FAQs zu Power apps und Power Automatisieren der Lizenzierung](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Weitere Informationen zur Verfügbarkeit von Microsoft Graph finden Sie in der [Beschreibung des Office 365-Platt Form Diensts](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Weitere Informationen zur Verfügbarkeit von Microsoft Graph finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans).
 
 ## <a name="it-admin-features"></a>IT-Administrator Features
 
@@ -138,7 +138,7 @@ SharePoint integriert sich in die erweiterten Sicherheits-und Kompatibilitätsfu
 - [Informationsbarrieren](/microsoft-365/compliance/information-barriers)
 - [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Aufbewahrungs Bezeichnungen und-Richtlinien](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
-- [Vertraulichkeitskennzeichnungen](/microsoft-365/compliance/sensitivity-labels)
+- [Vertraulichkeitsbezeichnungen](/microsoft-365/compliance/sensitivity-labels)
 - [Einheitliche Überwachung](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (Überwachung von SharePoint-Benutzer-und-Administratoraktivitäten)
 
 Informationen zum [Schutz von Azure Information](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)finden Sie unter den [Anforderungen für Azure Information Protection](/azure/information-protection/requirements) .
@@ -203,6 +203,6 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Suchcenter (klassische Suche)](/sharepoint/manage-search-center)
 - [Suchschema (klassische und moderne Suche)](/sharepoint/manage-search-schema)
 
-Informationen zu vertiefen finden Sie in der [Beschreibung des Office 365-Platt Form Diensts](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
+Informationen zum Thema "vertiefen" finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
 
 

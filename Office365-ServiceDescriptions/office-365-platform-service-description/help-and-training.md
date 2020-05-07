@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
-ms.openlocfilehash: 10d08047ae4e96ef5fac87bfe0a0f1f433e95014
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 34f840a23b197ae5268b6dc1208fb8052d984ffd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262888"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045027"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -27,7 +27,7 @@ Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
 
 Hilfeartikel und Videos sind über einen beliebigen Inline-Hilfe-Link im Dienst verfügbar, einschließlich des Hilfe Symbols in der oberen Navigationsleiste des Office 365-Portals und des Microsoft 365 admin Centers. Außerdem können Sie die gesamte Office 365-Hilfe unter [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) durchsuchen. 
   
-## <a name="training"></a>Schulung
+## <a name="training"></a>Schulungen
 
 Zur Zertifizierung stehen Schulungen per Video und Webinar sowie in Form von Kursen zur Verfügung. Weitere Informationen finden Sie unter:
   
@@ -149,4 +149,4 @@ Hilfe- und Schulungsressourcen stehen in folgenden Sprachen zur Verfügung.
    
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Office 365 Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie in der [Microsoft 365-und Office 365 Platform-Dienstbeschreibung](office-365-platform-service-description.md).
