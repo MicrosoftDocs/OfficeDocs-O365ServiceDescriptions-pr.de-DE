@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie, welche OneDrive-Features in welchen Plänen zur Verfügung stehen.
-ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639873"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213927"
 ---
 # <a name="onedrive-service-description"></a>OneDrive-Dienstbeschreibung
 
@@ -27,7 +27,7 @@ OneDrive für Geschäfts-, Schul- oder Unikonten ist ein Onlinespeicherplatz in 
   
 OneDrive ist in den Microsoft 365-, Office 365- und SharePoint-Plänen enthalten und kann auch als eigenständiger Plan erworben werden. 
     
-Informationen zum Vergleichen von Plänen finden Sie unter [Vergleich von Plänen für Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=799177) und [Vergleich von Plänen für OneDrive for Business](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Wenn Sie Pläne vergleichen möchten, lesen Sie [Leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://go.microsoft.com/fwlink/?linkid=799177) und [OneDrive for Business-Pläne vergleichen](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Eigenständige Pläne von OneDrive enthalten Office im Web. 
