@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
-ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
+ms.openlocfilehash: 8dec4101dae6af37e4001481d6651fac959b60c6
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790456"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213867"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -145,7 +145,7 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
 |**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Warnung|49 GB|49 GB|49 GB|98 GB|98 GB|1,96 GB|
 |Senden verbieten|49,5 GB|49.5 GB|49.5 GB|99 GB|99 GB|1.98 GB|
-|Senden/Empfangen verbieten|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
+|Senden/Empfangen verbieten|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>Kapazitätswarnungen in eigenständigen Plänen
 
@@ -194,7 +194,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 |Warnung zur Anzahl der Nachrichten pro Postfachordner|900,000|900,000|900,000|900,000|900,000|900,000|
 |Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"|3 Million|3 Million|3 Million|3 Million|3 Million|3 Million|
 |Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (keine Aufbewahrung aktiviert)|30 GB|30 GB|30 GB|30 GB|30 GB|30 GB|
-|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (Aufbewahrung aktiviert)|100 GB|100 GB|100 GB|100 GB|100 GB|100 GB|
+|Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im primären Postfach (Aufbewahrung aktiviert)|100 GB|100 GB|100 GB|100 GB|100 GB|100 GB|
 |Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (keine Aufbewahrung aktiviert)|30 GB|30 GB|30 GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 GB|
 |Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (Aufbewahrung aktiviert)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"|2,75 Million|2.75 Million|2.75 Million|2.75 Million|2.75 Million|2.75 Million|
@@ -391,6 +391,9 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
 
 - **Aufbewahrungszeitraum für Junk-e-Mail-Ordner**: die maximale Anzahl von Tagen, die Elemente im Junk-e-Mail-Ordner verbleiben können, bevor Sie automatisch entfernt werden.
 
+> [!NOTE]
+> Ein vorläufig gelöschtes Benutzerpostfach &mdash; ein Postfach, das mit dem Microsoft 365 Admin Center oder dem Cmdlet Remove-Mailbox in Exchange Online PowerShell gelöscht wurde und das sich noch im Azure Active Directory Papierkorb befindet, &mdash; kann innerhalb von 30 Tagen wiederhergestellt werden.
+
 ### <a name="retention-limits"></a>Aufbewahrungsgrenzwerte
 
 ||||||||
@@ -482,7 +485,7 @@ Die folgende Liste enthält Grenzwerte für Journalregeln, Transportregeln (auch
 |**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Maximale Anzahl von Journalregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Anzahl Transportregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
-|Maximale Größe einer einzelnen Transportregel|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
+|Maximale Größe einer einzelnen Transportregel|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Zeichenbegrenzung für reguläre Ausdrücke in allen Transportregeln|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |Überprüfungsgrenzwerte für Anlageninhalt|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |Maximale Anzahl der aufgrund alle Transportregeln zu einer Nachricht hinzugefügten Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|100 Empfänger|

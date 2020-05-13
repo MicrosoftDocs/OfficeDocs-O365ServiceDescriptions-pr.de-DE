@@ -1,5 +1,5 @@
 ---
-title: Visio für die Webdienstbeschreibung
+title: Visio für das Web – Dienstbeschreibung
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben.
-ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263228"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213651"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio für die Webdienstbeschreibung
+# <a name="visio-for-the-web-service-description"></a>Visio für das Web – Dienstbeschreibung
 
 Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio für die Webbenutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
   
-Weitere Informationen und erste Schritte finden Sie unter [Visio für das Internet](https://products.office.com/en-US/visio/visio-online).
+Weitere Informationen und erste Schritte finden Sie unter [Visio Plan 1](https://products.office.com/en-US/visio/visio-online).
   
-Hilfe bei der Verwendung von Visio für das Internet finden Sie unter [Visio Help Center](https://support.office.com/visio).
+Hilfe bei der Verwendung von Visio für das Internet finden Sie unter [Visio Help & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Verfügbarkeit und Vergleich von Features
 

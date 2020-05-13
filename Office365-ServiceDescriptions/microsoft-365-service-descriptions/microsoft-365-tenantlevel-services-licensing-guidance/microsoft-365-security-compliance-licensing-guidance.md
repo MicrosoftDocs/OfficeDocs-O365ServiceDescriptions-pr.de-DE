@@ -12,16 +12,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090138"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214017"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
-Für die Zwecke dieses Artikels handelt es sich bei einem Dienst auf Mandantenebene um einen&mdash;Onlinedienst, der beim Kauf für einen beliebigen Benutzer im Mandanten (eigenständig oder als Teil von&mdash;Office 365-oder Microsoft 365-Plänen) für alle Benutzer im Mandanten vollständig aktiviert wird. Auch wenn einige nicht lizenzierte Benutzer technisch möglicherweise auf den Dienst zugreifen können, ist eine Lizenz für jeden Benutzer erforderlich, den Sie vom Dienst nutzen möchten.
+Für die Zwecke dieses Artikels handelt es sich bei einem Dienst auf Mandantenebene um einen Onlinedienst, der &mdash; beim Kauf für einen beliebigen Benutzer im Mandanten (eigenständig oder als Teil von Office 365-oder Microsoft 365-Plänen) &mdash; für alle Benutzer im Mandanten vollständig aktiviert wird. Auch wenn einige nicht lizenzierte Benutzer technisch möglicherweise auf den Dienst zugreifen können, ist eine Lizenz für jeden Benutzer erforderlich, den Sie vom Dienst nutzen möchten.
 
 > [!NOTE]
 > Einige Mandanten Dienste können derzeit keine Vorteile für bestimmte Benutzer einschränken. Es sollten Anstrengungen unternommen werden, um die Dienst Vorteile für lizenzierte Benutzer zu begrenzen. Auf diese Weise können potenzielle Dienstunterbrechungen in Ihrer Organisation vermieden werden, sobald die Zielfunktionen verfügbar sind.
@@ -96,7 +96,7 @@ Für den Bereich ATP befolgten die Bereitstellungsrichtlinien für sichere Links
 
 Office 365 Cloud-App-Sicherheit (Ocas) ist eine Teilmenge der Microsoft Cloud-App-Sicherheit, wobei Features auf Office 365 und ohne zusätzliche Sicherheit für Cloud-apps von Drittanbietern und IaaS-Dienste eingeschränkt sind.
 
-Ocas gibt Organisationen Einblick in Ihre Produktivitäts Cloud-apps und-Dienste, stellt ausgefeilte Analysen zum Identifizieren und bekämpfen von Cyber-Bedrohungen bereit und&mdash;lässt Sie steuern, wie Daten über Office 365 transportiert werden.
+Ocas gibt Organisationen Einblick in Ihre Produktivitäts Cloud-apps und-Dienste, stellt ausgefeilte Analysen zum Identifizieren und bekämpfen von Cyber-Bedrohungen bereit und lässt Sie steuern, wie Daten &mdash; über Office 365 transportiert werden.
 
 Informationen zum Vergleichen von Features finden Sie unter [Differences of Microsoft Cloud App Security and Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365).
 
@@ -121,7 +121,7 @@ Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie 
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet&mdash;und Ihnen die Steuerung der Datenübertragung über eine Cloud-App ermöglicht.
+Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet und Ihnen die Steuerung der Datenübertragung &mdash; über eine Cloud-App ermöglicht.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
@@ -352,7 +352,7 @@ Standardmäßig sind Exchange Online-e-Mails, SharePoint-Websites und OneDrive-K
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen.
+Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Verhinderung von Kommunikationsdaten Verlust für Teams
 
@@ -372,7 +372,7 @@ Standardmäßig sind Microsoft Teams-Chat und Kanal Nachrichten ein *aktivierter
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können > **Speicherorte (** Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen.
+Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust**anpassen  >  **Locations**.
 
 ## <a name="information-barriers"></a>Informationsbarrieren
 
@@ -417,7 +417,7 @@ Microsoft 365 E3/A3, Office 365 E3/a3 und Azure Information Protection Plan 1 bi
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren erstellen und verwalten Office 365 Nachrichten Verschlüsselungsrichtlinien im Exchange Admin Center unter **Nachrichtenfluss** > **Regeln**. Diese Regeln gelten standardmäßig für alle Benutzer im Mandanten. Weitere Informationen zum Einrichten neuer Office 365 Nachrichten Verschlüsselungsfunktionen finden Sie unter [Einrichten neuer Office 365 Nachrichten Verschlüsselungsfunktionen](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Administratoren erstellen und verwalten Office 365 Nachrichten Verschlüsselungsrichtlinien im Exchange Admin Center unter **Nachrichtenfluss**  >  **Regeln**. Diese Regeln gelten standardmäßig für alle Benutzer im Mandanten. Weitere Informationen zum Einrichten neuer Office 365 Nachrichten Verschlüsselungsfunktionen finden Sie unter [Einrichten neuer Office 365 Nachrichten Verschlüsselungsfunktionen](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -514,7 +514,7 @@ Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 Compl
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Ein Benutzer profitiert von der erweiterten Überwachung, da Überwachungseinträge im Zusammenhang mit Benutzeraktivitäten in Microsoft 365-Diensten bis zu einem Jahr aufbewahrt werden können. Darüber hinaus werden hochwertige Überwachungsereignisse protokolliert, beispielsweise wenn auf Elemente im Postfach eines Benutzers zugegriffen oder gelesen wird. Weitere Informationen finden Sie unter [High-Value-Überwachungsereignisse](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+Ein Benutzer profitiert von der erweiterten Überwachung, da Überwachungseinträge im Zusammenhang mit Benutzeraktivitäten in Microsoft 365-Diensten bis zu einem Jahr aufbewahrt werden können. Darüber hinaus werden hochwertige Überwachungsereignisse protokolliert, beispielsweise wenn auf Elemente im Postfach eines Benutzers zugegriffen oder gelesen wird. Weitere Informationen finden Sie unter [Advanced Audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der US Government-Cloud und der kommerziellen Cloud, wie in der Exchange Online-Dienstbeschreibung aufgeführt.
-ms.openlocfilehash: f104f072a74707f46528d9b111d8af46103a919e
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813401"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213697"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online für Umgebungen in der US-Regierung
 
@@ -22,7 +22,7 @@ Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der U
 
 Weitere Informationen zur Government-Cloud, einschließlich der Berechtigung und des Kaufs, finden Sie unter [Microsoft 365 Government-How to Buy](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Informationen zum Vergleich Office 365er Regierungspläne finden Sie unter [Office 365 Government Plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
-Informationen zu den erforderlichen Endpunkten beim Verwalten der Netzwerkkonnektivität finden Sie unter [Office 365 US Government gcc High Endpoint](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) oder [Office 365 US Government DoD Endpoints](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Informationen zu den erforderlichen Endpunkten beim Verwalten der Netzwerkkonnektivität finden Sie unter [Office 365 US Government gcc High Endpoint](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   oder [Office 365 US Government DoD Endpoints](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 Neben den Features und Funktionen von Office 365 profitieren Organisationen von den folgenden Features, die für die US Government Cloud-Umgebungen einzigartig sind:
 
@@ -65,7 +65,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |In-Situ-Speicher und Beweissicherungsverfahren|Ja|Ja|Ja|Erfordert G3-oder G5-Dienstplan.|
 |Compliance-eDiscovery|Ja|Ja|Ja||
 |Nachrichtenflussregeln|Ja|Ja|Ja||
-|Verhinderung von Datenverlust|Nein|Ja|Ja|Erfordert G3-oder G5-Dienstplan.|
+|Data loss prevention|Ja|Ja|Ja|Erfordert G3-oder G5-Dienstplan.|
 |Journale|Ja|Ja|Ja||
 |**[Antispam- und Antischadsoftwareschutz](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
 |Integrierter Antispamschutz|Ja|Ja|Ja||
@@ -154,9 +154,9 @@ Sowohl gcc High-als auch DoD-Umgebungen sind eingeschränkte Umgebungen, die ein
 
 Aufgrund dieser Einschränkungen werden Features, die von dieser ausgehenden Verbindung von den gcc-High/DoD-Umgebungen abhängen, in der Regel nicht unterstützt, einschließlich: 
 
-- Verbundene Konten&mdash;Benutzer können keine Konten hinzufügen/synchronisieren (Google, POP/IMAP usw.). 
+- Verbundene Konten &mdash; Benutzer können keine Konten hinzufügen/synchronisieren (Google, POP/IMAP usw.). 
 
-- Unterstützung für Dateispeicher Anbieter&mdash;von Drittanbietern nur das OneDrive for Business-Konto des Benutzers innerhalb von *gcc High/DoD* kann über die verschiedenen Outlook-Clients in Verbindung mit dem Anfügen/Freigeben von Dateien auf diese zugreifen. Speicherkonten von Drittanbietern (Dropbox, Box, Google Drive) können nicht hinzugefügt werden. 
+- Unterstützung für Dateispeicher Anbieter von Drittanbietern &mdash; nur das OneDrive for Business-Konto des Benutzers *innerhalb von gcc High/DoD*   kann über die verschiedenen Outlook-Clients in Verbindung mit dem Anfügen/Freigeben von Dateien auf diese zugreifen. Speicherkonten von Drittanbietern (Dropbox, Box, Google Drive) können nicht hinzugefügt werden. 
 
 - Konnektivität mit sozialen Netzwerken wie Facebook oder LinkedIn. 
 

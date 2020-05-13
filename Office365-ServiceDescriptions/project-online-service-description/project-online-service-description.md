@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002332"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213877"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -43,13 +43,13 @@ Project für das Internet ist über drei Abonnements verfügbar: Projektplan 1, 
 
 ### <a name="project-online"></a>Project Online
  
-Project Online ist eine flexible Online Lösung für das Projekt Portfolio Management (ppm) und die tägliche Arbeit. Project Online bietet leistungsstarke Projektmanagementfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projekt&mdash;Portfolioinvestitionen von fast überall auf nahezu jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
+Project Online ist eine flexible Online Lösung für das Projekt Portfolio Management (ppm) und die tägliche Arbeit. Project Online bietet leistungsstarke Projektmanagementfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolio Investitionen &mdash; von fast überall auf nahezu jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
 
 Project Online baut auf der SharePoint-Plattform auf und speichert Daten im SharePoint-Datenspeicher.
 
 Project Online ist über zwei Abonnements verfügbar: Project Plan 3 und Project Plan 5. Die im Abschnitt [Project Online Features](#project-online-features) aufgeführten Features interagieren nur mit Daten im Project Online SharePoint-Datenspeicher.
 
-Die Funktionen der Team Mitglieder für Project online sind über ein Project Online Essentials-Abonnement verfügbar. Project Online Essentials ist ein *Add-on* -Abonnement für Teammitglieder für Kunden, die über Project Plan 3-oder Project Plan 5-Abonnements verfügen. Es gibt Teammitgliedern eine Weboberfläche zum Ausführen von Aufgaben-und Zeit Updates für in Project online verwaltete Projekte.
+Die Funktionen der Team Mitglieder für Project online sind über ein Project Online Essentials-Abonnement verfügbar. Project Online Essentials ist ein *Add-on-*   Abonnement für Teammitglieder für Kunden, die über Project Plan 3-oder Project Plan 5-Abonnements verfügen. Es gibt Teammitgliedern eine Weboberfläche zum Ausführen von Aufgaben-und Zeit Updates für in Project online verwaltete Projekte.
 
 Team Mitglieder mit Project Online Essentials können die folgenden Project Online Funktionen ausführen:
 
@@ -188,7 +188,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung.  | Nein | Ja |
 
-#### <a name="notes"></a>Anmerkungen
+#### <a name="notes"></a>Hinweise
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
@@ -239,7 +239,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Sortieren und gruppieren | Verwenden Sie benutzerdefinierte Sortierung und Gruppierung, um eine fokussierte Ansicht Ihres Projekts, ihrer Aufgaben und Ressourcen zu erhalten.|
 |**Anpassung und Integration**||
 |Benutzerdefinierte Felder | Fügen Sie benutzerdefinierte Felder auf Projekt-, Vorgangs-und Ressourcenebene hinzu, um Daten zu verfolgen, die für Ihre Organisation und ihre Projekte wichtig sind. |
-|Forms | Erstellen und Bereitstellen von benutzerdefinierten Formularen zur Erfassung wichtiger Projektdaten. |
+|Formulare | Erstellen und Bereitstellen von benutzerdefinierten Formularen zur Erfassung wichtiger Projektdaten. |
 |Formeln | Berechnen und Erfassen wichtiger Daten mithilfe von Formeln für Vorgänge und Projekte. |
 |Vorlagen | Erstellen Sie Vorlagen für allgemeine Projekte, einschließlich Projektpläne, Teams und Zuordnungen. |
 |MPP-Import/-Export | Erstellen Sie neue Projekte aus vorhandenen MPP-Dateien, oder erstellen Sie eine MPP-Datei eines vorhandenen Projekts. |
@@ -248,9 +248,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 ## <a name="service-considerations"></a>Dienst Überlegungen
 
 > [!NOTE]
-> - Frankreich und Südkorea- &ndash; Projekt für das Internet ist derzeit nicht verfügbar. Wir arbeiten an der Bereitstellung von Project für das Internet in Ihrer Region und informieren Sie über die unten angegebenen Kommunikationskanäle über die Verfügbarkeit.
-> - Education &ndash; -Projekt für das Internet kommt bald zu unseren Bildungskunden. Ein genauer Zeitrahmen ist ausstehend.
-> - Gcc, gcc High, DoD &ndash; derzeit ist Project für das Internet für gcc, gcc High und DoD nicht verfügbar. Wir arbeiten an der Bereitstellung des Projekts für das Internet, können jedoch derzeit keinen festen Zeitrahmen freigeben.
+> Project für das Internet ist derzeit für gcc, gcc High und DoD nicht verfügbar. Wir arbeiten an der Bereitstellung des Projekts für das Internet, können aber zu diesem Zeitpunkt keinen festen Zeitrahmen freigeben.
 
 ### <a name="licensing-considerations"></a>Hinweise zur Lizenzierung
 

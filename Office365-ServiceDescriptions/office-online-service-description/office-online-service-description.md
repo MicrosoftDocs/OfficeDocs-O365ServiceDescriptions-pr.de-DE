@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640133"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213987"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
 Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
   
-Informationen zum Vergleich der Features in den Plänen finden Sie unter [Compare Microsoft 365 for Business Plans](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Informationen zum Vergleich der Features in den Plänen finden Sie unter [leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Feature-Verfügbarkeit in Office für die webpläne
 

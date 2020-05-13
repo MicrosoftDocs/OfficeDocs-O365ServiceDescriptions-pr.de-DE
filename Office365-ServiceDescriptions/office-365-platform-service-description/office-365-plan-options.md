@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
-ms.openlocfilehash: cf077a9065d2c65ab2ab81a03437cc2b5296cfbe
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044987"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213907"
 ---
 # <a name="office-365-plan-options"></a>Optionen zum Office 365-Plan
 
@@ -33,12 +33,12 @@ In der folgenden Tabelle sind die verschiedenen in Office 365 verfügbaren Diens
   
 |**Office 365-Dienstfamilie**|**Pläne**|
 |:-----|:-----|
-|**Business (maximal 300 Benutzer)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 apps for Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Business (maximal 300 Benutzer)** <br/> |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Microsoft 365 Apps for Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (unbegrenzte Anzahl von Benutzern)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Bildung (unbegrenzte Anzahl von Benutzern)** <br/> |[Office 365 Education](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Education E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Government (unbegrenzte Anzahl von Benutzern)** <br/> |[Alle verfügbaren Unternehmenspläne anzeigen](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Office 365, betrieben von 21Vianet in China** <br/> |[Alle verfügbaren Geschäftspläne anzeigen](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Deutschland** <br/> |[Alle verfügbaren Unternehmenspläne anzeigen](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
+|**Office 365 Deutschland** <br/> |[Weitere Informationen zu Office 365 Deutschland](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Dienstverfügbarkeit in einem Office 365-Plan
 
@@ -49,7 +49,7 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Dienst** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 apps for Business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Dienst** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for Business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Office 365 Plattform  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Exchange Online  <br/> |Ja<sup>6</sup> <br/> |Nein  <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -115,7 +115,7 @@ Die folgenden Onlinedienste sind mit eigenständigen Plänen verfügbar. Sie dü
 |SharePoint Online  <br/> |[SharePoint Online Plan 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online Plan 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business-Plan 1](https://onedrive.live.com/about/business/) <br/> [OneDrive for Business-Plan 2](https://onedrive.live.com/about/business/) <br/> |
 |Skype for Business Online  <br/> |[Skype for Business Online Plan 1](https://products.office.com/microsoft-teams/group-chat-software) <br/> [Skype for Business Online Plan 2](https://products.office.com/microsoft-teams/group-chat-software) <br/> |
-|Office-Anwendungen  <br/> |[Microsoft 365 Apps for Enterprise](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 apps for Business](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|Office-Anwendungen  <br/> |[Microsoft 365 Apps for Enterprise](https://www.microsoft.com/p/office-365-proplus/CFQ7TTC0K8R0) <br/> [Microsoft 365 Apps for Business](https://office.microsoft.com/office-365-business-FX104355718.aspx) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |Projektportfoliomanagement  <br/> |[Project Online](https://products.office.com/project/project-and-portfolio-management-software) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://products.office.com/yammer/) <br/> |
 |Einblicke in die Organisation  <br/> |[Workplace Analytics](https://products.office.com/business/workplace-analytics) <br/> |

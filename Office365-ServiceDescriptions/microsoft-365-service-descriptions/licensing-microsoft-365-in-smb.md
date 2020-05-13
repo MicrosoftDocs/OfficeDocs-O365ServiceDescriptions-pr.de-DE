@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium ist das beste Angebot von Microsoft für kleine und mittelständische Geschäftskunden. Microsoft 365 Business Premium ist eine integrierte Lösung, die Microsoft 365-Produktivität, erweiterte Sicherheit und Geräteverwaltung vereint.
-ms.openlocfilehash: b608aaa2f0ba113c504b72bec38ce0ba07a93031
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640303"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213957"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
 
@@ -32,8 +32,8 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Hub für Teamarbeit** | Chat basierter Arbeitsbereich, Onlinebesprechungen und mehr in Microsoft Teams | Ja |Ja |
 |**Dateispeicher** | OneDrive for Business  | 1 TB pro Benutzer | 1 TB pro Benutzer |
 |**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online, PowerApps, Power Automation | Ja | Ja |
-|**Business-Apps** | Planen von &ndash; apps Buchungen<sup>1</sup> | Ja | Ja |
-|   | Business- &ndash; apps MileIQ<sup>1</sup> | Ja | Ja |
+|**Business-Apps** | Planen von apps &ndash; Buchungen<sup>1</sup> | Ja | Ja |
+|   | Business-Apps &ndash; MileIQ<sup>1</sup> | Ja | Ja |
 |**Bedrohungsschutz** | Office 365 Advanced Threat Protection | Nein | Ja |
 |   | Windows Exploit Guard-Erzwingung | Nein | Ja  |
 |**Identitätsverwaltung** | Self-Service Password Reset für hybride Azure Active Directory-Konten | Nein | Ja |
@@ -59,12 +59,12 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |---|---------------|-------------------|----------------------------|
 |**Verfügbare Lizenzen** | Maximale Anzahl von Benutzern | Unbegrenzt | 300 |
 |**Office-Apps** | Installieren von Office auf bis zu 5 PCs/Macs + 5 Tablets + 5 Smartphones pro Benutzer (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
-|**E-Mail & Kalender** | Outlook, Exchange Online | 100 GB | 50 GB |
+|**E-Mail & Kalender** | Outlook, Exchange Online | 100 GB | 50 GB |
 |**Hub für Teamarbeit** | Chat basierter Arbeitsbereich, Onlinebesprechungen und mehr in Microsoft Teams | Ja | Ja |
 |**Dateispeicher** | OneDrive for Business | Unbegrenzt | 1 TB pro Benutzer |
 |**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automation<sup>1</sup> | Ja | Ja |
-|**Business-Apps** | Planen von &ndash; apps Buchungen<sup>2</sup> | Ja | Ja |
-|   | Business- &ndash; apps MileIQ<sup>2</sup> | Nein | Ja |
+|**Business-Apps** | Planen von apps &ndash; Buchungen<sup>2</sup> | Ja | Ja |
+|   | Business-Apps &ndash; MileIQ<sup>2</sup> | Nein | Ja |
 |**Bedrohungsschutz** | Office 365 Advanced Threat Protection | Nein | Ja |
 |   | Windows Exploit Guard-Erzwingung | Nein | Ja |
 |**Identitätsverwaltung** | Self-Service Password Reset für hybride Azure Active Directory-Konten | Nein | Ja |
@@ -96,8 +96,8 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Hub für Teamarbeit** | Chat basierter Arbeitsbereich, Onlinebesprechungen und mehr in Microsoft Teams | Ja | Ja | Ja |
 |**Dateispeicher** | OneDrive for Business | 1 TB pro Benutzer | 1 TB pro Benutzer | Unbegrenzt |
 |**Soziale Netzwerke, Videos, Websites** | Stream, jammern, Planer, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automation<sup>1</sup> | Ja | Ja | Ja |
-|**Business-Apps** | Planen von &ndash; apps Buchungen<sup>2</sup> | Ja | Ja | Ja |
-|   | Business- &ndash; apps MileIQ<sup>2</sup> | Ja | Ja | Nein |
+|**Business-Apps** | Planen von apps &ndash; Buchungen<sup>2</sup> | Ja | Ja | Ja |
+|   | Business-Apps &ndash; MileIQ<sup>2</sup> | Ja | Ja | Nein |
 |**Bedrohungsschutz** | Office 365 Advanced Threat Protection | Nein | Ja | Nein |
 |   | Windows Exploit Guard-Erzwingung | Nein | Ja | Nein |
 |**Identitätsverwaltung** | Self-Service Password Reset für hybride Azure Active Directory-Konten | Nein | Ja | Nein |
@@ -130,8 +130,8 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Dateispeicher** | OneDrive for Business | 1 TB pro Benutzer | 1 TB pro Benutzer | Unbeschränkt | Unbeschränkt |
 |**Soziale Netzwerke, Videos, Websites** | Jammern, SharePoint Online, Planer | Ja | Ja | Ja | Ja |
 |   | Stream | | Ja | Ja | Ja |
-|**Business-Apps** | Planen von &ndash; apps Buchungen<sup>1</sup> | Ja | Ja | Ja | Ja |
-|   | Business- &ndash; apps MileIQ<sup>1</sup> | Ja | Ja | Nein | Nein |
+|**Business-Apps** | Planen von apps &ndash; Buchungen<sup>1</sup> | Ja | Ja | Ja | Ja |
+|   | Business-Apps &ndash; MileIQ<sup>1</sup> | Ja | Ja | Nein | Nein |
 |**Bedrohungsschutz** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, Enterprise Data Protection | Nein | Nein | Ja | Ja |
 |   | Office 365 Advanced Threat Protection | Nein | Ja | Nein | Ja |
 |   | Windows Defender Advanced Threat Protection | Nein | Nein | Nein | Ja |
@@ -160,7 +160,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 
 ## <a name="office-client-commercial-plans"></a>Geschäftspläne für Office-Clients
 
-| **Anwendungen** | **Microsoft 365 apps for Business** | **Microsoft 365-Apps für Unternehmen** |
+| **Anwendungen** | **Microsoft 365 Apps for Business** | **Microsoft 365 Apps for Enterprise** |
 |------------------|-------------------------|------------------------|
 | Word             | Ja                     | Ja                    |
 | Excel            | Ja                     | Ja                    |
@@ -170,7 +170,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 | Publisher        | Ja                     | Ja                    |
 | Access           | Ja                     | Ja                    |
 | Microsoft Teams  | Ja                     | Ja                    |
-| **Premium-Wert**                             | **Microsoft 365 apps for Business** | **Microsoft 365-Apps für Unternehmen** |
+| **Premium-Wert**                             | **Microsoft 365 Apps for Business** | **Microsoft 365 Apps for Enterprise** |
 | Volumenaktivierung                             | Nein                      | Nein                     |
 | Gruppenrichtlinie<sup>1</sup>                      | Nein                      | Ja                    |
 | Aktivierung gemeinsam genutzter Computer                    | Ja<sup>7</sup>        | Ja                    |
@@ -183,12 +183,12 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 | Business Intelligence                         | Nein                      | Ja<sup>5</sup>        |
 | Erstellen von IRM<sup>3</sup>                        | Ja<sup>7</sup>        | Ja                    |
 | Verhinderung von Datenverlust<sup>3</sup>              | Ja<sup>7</sup>        | Ja<sup>5</sup>        |
-| **Wolken Wert**                  | **Microsoft 365 apps for Business** | **Microsoft 365-Apps für Unternehmen** |
+| **Wolken Wert**                  | **Microsoft 365 Apps for Business** | **Microsoft 365 Apps for Enterprise** |
 | Gruppen                           | Ja                     | Ja                    |
 | Office-Bereitstellungstool           | Ja                     | Ja                    |
 | & Einstellungen für Roaming-Dokumente     | Ja                     | Ja                    |
 | 1 TB OneDrive für Unternehmen       | Ja                     | Ja                    |
-| **Lizenzierung**                                   | **Microsoft 365 apps for Business** | **Microsoft 365-Apps für Unternehmen** |
+| **Lizenzierung**                                   | **Microsoft 365 Apps for Business** | **Microsoft 365 Apps for Enterprise** |
 | Lizenzierungsmodell                                 | Pro Benutzer                | Pro Benutzer               |
 | Lizenztyp                                    | Abonnement            | Abonnement           |
 | PC/Mac installiert<sup>6</sup>                     | 5                        | 5                      |
@@ -204,11 +204,11 @@ Microsoft 365 Business Premium umfasst den Microsoft 365 apps for Business-Clien
 
 <sup>1</sup> ermöglicht es der Organisation, bestimmte Konfigurationseinstellungen (Sicherheitseinstellungen, App-Einstellungen, Active Directory Roaming usw.) für Office auf Computer zu übertragen, die sich beim Unternehmensnetzwerk anmelden.
 
-<sup>2</sup> mit Office Standard 2016 und Office Professional Plus 2016 verfügt es über Vollzugriff auf Updates mithilfe des MSI-Modells. Mit Microsoft 365 apps for Enterprise und **Microsoft 365 apps for Business** werden Installation und Updates über Klick-und-Los verwaltet.
+<sup>2</sup> mit Office Standard 2016 und Office Professional Plus 2016 verfügt es über Vollzugriff auf Updates mithilfe des MSI-Modells. Mit Microsoft 365 apps for Enterprise und Microsoft 365 apps for Business werden Installation und Updates über Klick-und-Los verwaltet.
 
 <sup>3</sup> die Suites bieten unterschiedliche Integrationsstufen mit Geschäfts Produktivitäts Servern.
 
-<sup>4</sup> Archivieren von e-Mails&mdash;aus Outlook keine PST-&mdash;Dateien erforderlich und Festlegen von Aufbewahrungsrichtlinien, die e-Mails automatisch archivieren oder löschen. IT-Administratoren können das in-Place-Archiv zentral verwalten.
+<sup>4</sup> Archivieren von e-Mails aus Outlook &mdash; keine PST-Dateien erforderlich &mdash; und Festlegen von Aufbewahrungsrichtlinien, die e-Mails automatisch archivieren oder löschen. IT-Administratoren können das in-Place-Archiv zentral verwalten.
 
 <sup>5</sup> erfordert zusätzlichen Onlinedienst (e).
 

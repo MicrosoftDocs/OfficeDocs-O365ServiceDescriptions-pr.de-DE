@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI ist eine Cloud-basierte Suite von Business Analytics-Tools, mit deren Hilfe Benutzerdaten mit größerer Geschwindigkeit, Effizienz und besseren Informationen verbinden, visualisieren und analysieren können. Er bietet Benutzern Zugriff auf eine Vielzahl von Echtzeitdaten über benutzerfreundliche Dashboards, stellt interaktive Berichte zur Verfügung und ermöglicht überzeugende Visualisierungen, die Daten zum Leben erwecken.
-ms.openlocfilehash: 896ee5a2cb9f43698d35d1744e6810f72c12a0be
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0e73585454ad28c79253c2ccd860969313c7790d
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638973"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213937"
 ---
 # <a name="power-bi-service-description"></a>Power BI – Dienstbeschreibung
 
@@ -25,7 +25,7 @@ Power BI ist eine Cloud-basierte Suite von Business Analytics-Tools, mit deren H
   
 Power BI ist derzeit im Rahmen der Office 365 Enterprise E5-Version verfügbar. Weitere Informationen hierzu finden Sie unter [Power BI](https://powerbi.microsoft.com/).
   
-Informationen zum Vergleich der Features in den Plänen finden Sie unter [Compare Microsoft 365 for Business Plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Informationen zum Vergleich der Features in den Plänen finden Sie unter [leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="power-bi-plans"></a>Power BI-Tarife
 

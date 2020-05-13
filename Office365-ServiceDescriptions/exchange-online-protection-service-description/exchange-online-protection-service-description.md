@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Schutz bieten, sowie einen Vergleich der Features in diesen Plänen.
-ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3a52d682c4aa181c549e3e2d96ea8645ccae6260
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640173"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213977"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
@@ -33,7 +33,7 @@ In der folgenden Liste werden die wichtigsten Methoden zur Verwendung von EoP f�
 
 - **In einer hybridbereitstellung**: EoP kann konfiguriert werden, um Ihre Messaging-Umgebung zu schützen und das e-Mail-Routing zu steuern, wenn Sie eine Mischung aus lokalen und Cloud-Postfächern haben.
 
-Informationen zum Vergleich der Features in den Plänen finden Sie unter [Compare Microsoft 365 for Business Plans](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Informationen zum Vergleich der Features in den Plänen finden Sie unter [leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://products.office.com/business/compare-more-office-365-for-business-plans).
 
 Weitere Informationen zum Kauf von Exchange Online Protection finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -42,7 +42,7 @@ Weitere Informationen zum Kauf von Exchange Online Protection finden Sie unter [
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Neues in Exchange Online Protection (EOP)
 
-Die [Microsoft 365 for Business-Roadmap](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) ist eine gute Ressource für die Suche nach Informationen über kommende neue Features.
+Die [Microsoft 365-Roadmap](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) ist eine gute Ressource für die Suche nach Informationen über kommende neue Features.
 
 ## <a name="exchange-online-protection-eop-plans"></a>Exchange Online Protection-Pläne (EOP)
 
@@ -62,7 +62,7 @@ Microsoft Exchange Enterprise-CAL mit Diensten stellt die e-Mail-Schutzfunktione
 
 - [Berichterstellung mit Webdiensten](reporting-and-message-trace.md#reporting-using-web-services)
 
-Weitere Informationen zur Lizenzierung von Exchange Enterprise CAL mit Diensten finden Sie unter [Exchange Server Lizenzierung](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
+Weitere Informationen zur Lizenzierung von Exchange Enterprise CAL mit Diensten finden Sie unter [FAQs zur Exchange-Lizenzierung](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
 
 Wenn Sie über Exchange Enterprise CAL mit Services-Lizenzen verfügen und EOP-Dienste anbieten möchten, befolgen Sie die Anweisungen unter [Einrichten Ihres EoP-Diensts](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). Die Installationsschritte sind mit den Schritten für die Installation der eigenständigen EOP-Lösung identisch.
 
@@ -83,7 +83,7 @@ Jedes Funktion ist unten aufgeführt. Detailliertere Informationen zu EOP-Funkti
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Funktion**|**EOP als eigenständige Lösung**|**EoP-Features <br/> in Exchange Online**|**Exchange Enter <br/> Prise CAL mit Diensten**|
+|**Funktion**|**EOP als eigenständige Lösung**|**EoP-Features in <br/> Exchange Online**|**Exchange Enterprise <br/> CAL mit Diensten**|
 |[E-Mail-Empfänger](recipient-domain-and-company-management.md#mail-recipients)|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja|
 |[Berechtigungen für Administratorrollengruppen](recipient-domain-and-company-management.md#admin-role-group-permissions)|Ja<sup>2</sup>|Ja|Ja|
 |[Domänenverwaltung](recipient-domain-and-company-management.md#domain-management)|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|
@@ -119,7 +119,7 @@ Jedes Funktion ist unten aufgeführt. Detailliertere Informationen zu EOP-Funkti
 <sup>4</sup> Nachrichtenfluss Regeln (auch als Transportregeln bezeichnet) in EoP werden unter [Nachrichtenfluss Regeln (Transportregeln) in Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)beschrieben. Die verfügbaren Nachrichtenfluss Regelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EoP und Exchange Online. Diese Unterschiede werden in [Nachrichtenfluss Regel-Bedingungen und-Ausnahmen (Prädikate) in Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) -und [Nachrichtenfluss Regelaktionen in Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)aufgeführt.<br/>
 <sup>5</sup> EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern. <br/>
 <sup>6</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar.  <br/>
-<sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit dies mit lokalen Exchange-Postfächern funktioniert, müssen Sie auch zwei Transportregeln in Ihrer lokalen Exchange-Organisation konfigurieren, um von EoP hinzugefügte Spam Kopfzeilen zu erkennen. Weitere Informationen finden Sie unter [sicherstellen, dass Spam an die Junk-e-Mail-Ordner der einzelnen Benutzer weitergeleitet wird](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
+<sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit dies mit lokalen Exchange-Postfächern funktioniert, müssen Sie auch zwei Transportregeln in Ihrer lokalen Exchange-Organisation konfigurieren, um von EoP hinzugefügte Spam Kopfzeilen zu erkennen. Weitere Informationen finden Sie unter [Konfigurieren von eigenständigen EoP zur Zustellung von Spam an den Junk-e-Mail-Ordner in Hybrid Umgebungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
 <sup>9</sup> Die EOP-Berichte sind eine Teilmenge der Exchange Online-Berichte und enthalten keine Informationen zu Postfächern.<br/>
 <sup>10</sup> Enthält DLP-Berichte. <br/>
 <sup>12</sup> Wird für lokale Kunden unterstützt, die Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. <br/>

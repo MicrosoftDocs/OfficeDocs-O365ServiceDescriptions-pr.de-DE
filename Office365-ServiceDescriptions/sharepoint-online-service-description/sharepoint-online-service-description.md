@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Hier erfahren Sie, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044787"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214037"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -31,7 +31,7 @@ SharePoint in Microsoft 365 unterstützt Organisationen beim Freigeben und Verwa
 
 Eine schnelle Übersicht finden Sie unter [Was ist SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Um zu sehen, welche Pläne SharePoint enthalten, [vergleichen Sie Microsoft 365 for Business-Pläne](https://products.office.com/business/compare-more-office-365-for-business-plans). Informationen zu den Systemanforderungen von Microsoft 365 finden Sie unter [System Requirements for Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
+Um zu sehen, welche Pläne SharePoint beinhalten, [leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://products.office.com/business/compare-more-office-365-for-business-plans). Informationen zu den Systemanforderungen von Microsoft 365 finden Sie unter [Microsoft 365 und Office-Ressourcen](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
 
 Informationen zu den Unterschieden bei SharePoint-Features für US Government Cloud-Kunden finden Sie unter [SharePoint für US Government Environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
@@ -43,7 +43,7 @@ Informationen zu den neuesten Features, die veröffentlicht werden, finden Sie u
 
 Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu unterschiedlichen Plänen, einschließlich eigenständiger Planoptionen und Informationen zum Wechseln von einem Plan zu einem anderen, finden Sie unter [Microsoft 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
-Um auf SharePoint zuzugreifen, müssen Benutzern in Ihrer Organisation eine Lizenz zugewiesen werden, die SharePoint umfasst. Ein Firstplan-Plan wird nicht als eigenständiges Angebot verkauft, sondern nur als Teil des [First-Abonnement-Abonnements](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
+Um auf SharePoint zuzugreifen, müssen Benutzern in Ihrer Organisation eine Lizenz zugewiesen werden, die SharePoint umfasst. Ein Firstplan-Plan wird nicht als eigenständiges Angebot verkauft, sondern nur im Rahmen von [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
 ## <a name="rights-of-guests"></a>Rechte von Gästen
 
@@ -55,7 +55,7 @@ OneDrive in Microsoft 365 ist Online Speicher für einzelne Benutzer in einer Or
 
 ## <a name="apps"></a>Apps
 
-Zum Synchronisieren von SharePoint-Dateien auf einem Computer können Benutzer die [OneDrive-Synchronisierungs-App](https://onedrive.live.com/about/download/) für Windows oder Mac verwenden. Informationen zur Verfügbarkeit von Funktionen in der Sync-App finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description). 
+Zum Synchronisieren von SharePoint-Dateien auf einem Computer können Benutzer die [OneDrive-Synchronisierungs-App](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) für Windows oder Mac verwenden. Informationen zur Verfügbarkeit von Funktionen in der Sync-App finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description). 
 
 Wenn Sie mit SharePoint-Websites auf einem mobilen Gerät arbeiten möchten, können Sie [die SharePoint-Mobile App für IOS, Android oder Windows installieren](https://products.office.com/sharepoint/mobile-app). 
   
@@ -109,7 +109,7 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Website Steuerung](/sharepoint/governance-overview) 
 - [Terminologiespeicher – verwaltete Metadaten](/sharepoint/managed-metadata)
 
-Informationen zur Verfügbarkeit von kurzmigrations-Diensten finden Sie im [Leistungsangebot für Microsoft 365](/fasttrack/m365-eligible-services-and-plans). 
+Informationen zur Verfügbarkeit von kurzmigrations-Diensten finden Sie in den [berechtigten Diensten und Plänen](/fasttrack/m365-eligible-services-and-plans). 
 
 Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description).
 
@@ -143,7 +143,7 @@ SharePoint integriert sich in die erweiterten Sicherheits-und Kompatibilitätsfu
 
 Informationen zum [Schutz von Azure Information](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection)finden Sie unter den [Anforderungen für Azure Information Protection](/azure/information-protection/requirements) .
 
-Informationen zur Verfügbarkeit von Kunden Schlüsseln finden Sie unter [How is Customer Key Licensed?](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed). 
+Informationen zur Verfügbarkeit von Kunden Schlüsseln finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed). 
 
 
 
@@ -168,7 +168,7 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Bibliothek für Organisationsobjekte](/sharepoint/organization-assets-library)
 - [Organisations Nachrichten](/sharepoint/organization-news-site)
 - [Seiten Genehmigung](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Seiten](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Datensatzverwaltung
 - [Papierkorb](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint-Mobile App](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -179,8 +179,8 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Websites: Kommunikationswebsites](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [Websites: Startseite](/sharepoint/home-site)
 - [Websites: Hub-Standorte](/sharepoint/planning-hub-sites)
-- Websites: moderne Teamwebsites (keine Office 365 Gruppe)
-- [Websites: Office 365 Gruppen verbundene Teamwebsites](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e). Erfordert ein Abonnement, das Office 365 enthält.
+- Websites: moderne Teamwebsites (keine Microsoft 365-Gruppe)
+- [Websites: Microsoft 365 Gruppen verbundene Teamwebsites](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e). Erfordert ein Abonnement, das Office 365 enthält.
 - [Websites: Stammwebsite](/sharepoint/modern-root-site)
 - [Team OneNote-Notizbuch](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Designs (Ändern des Erscheinungsbild)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)

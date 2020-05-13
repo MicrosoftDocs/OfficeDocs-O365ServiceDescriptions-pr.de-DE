@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: Seit dem Update vom Dezember 2016 für Dynamics 365 (online und lokal) ist die Dynamics CRM-Funktionalität nun als Teil von Dynamics 365, einer Suite intelligenter Geschäftsanwendungen, enthalten. Dynamics 365 vereinheitlicht Kundenbeziehungsmanagement (CRM) und Enterprise Resource Planning (ERP) Funktionen durch die Bereitstellung von neuen Anwendungen zur Unterstützung der Verwaltung bestimmter Geschäftsfunktionen.
-ms.openlocfilehash: fac2e8a70cb3063c26827c4878009b4e9ad1d0f6
-ms.sourcegitcommit: cb70d69d8b563db91923be371b0307db91219030
+ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "41857304"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213917"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Dienstbeschreibung von Microsoft Dynamics 365 (Online)
 
@@ -47,7 +47,7 @@ Weitere Informationen zu den Funktionen von Dynamics 365 finden Sie unter [Micro
   
 ## <a name="application-availability-across-dynamics-365-plans"></a>Anwendungsverfügbarkeit in verschiedenen Dynamics 365-Plänen
 
-In der folgenden Tabelle sind alle Dynamics 365-Anwendungen und ihre Verfügbarkeit in den verschiedenen Enterprise- und Business-Plänen aufgelistet. Spezielle Informationen zu den Preisen, zur Lizenzierung, zu Benutzerrechten usw. finden Sie im folgenden Download: [Dynamics 365-Lizenzierungsleitfaden](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
+In der folgenden Tabelle sind alle Dynamics 365-Anwendungen und deren Verfügbarkeit im gesamten Unternehmen und Business-Plänen aufgeführt. Spezifische Informationen zu Preisen, Lizenzierung, Benutzerrechten und mehr finden Sie im folgenden Download: [Dynamics 365 Licensing Guide (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -67,7 +67,7 @@ In der folgenden Tabelle sind alle Dynamics 365-Anwendungen und ihre Verfügbark
   
 ## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>Abonnementlizenzvergleich von Dynamics 365 for Sales, Customer Service, Field Service und Project Service Automation
 
-Im folgenden finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte, die den einzelnen fünf Benutzer Dienstebenen zugeordnet sind. Einen ausführlichen Vergleich finden Sie unter **Anhang B** im Download: [Dynamics 365-Lizenzierungsleitfaden](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
+Im folgenden finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte, die den einzelnen fünf Benutzer Dienstebenen zugeordnet sind. Einen detaillierten Vergleich finden Sie in **Anhang B** im Download: [Dynamics 365 Licensing Guide (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -108,7 +108,7 @@ Im folgenden finden Sie eine allgemeine Zusammenfassung der Nutzungsrechte, die 
   
 ## <a name="dynamics-365-service-level-agreement"></a>Vereinbarung zum Servicelevel für Dynamics 365
 
-Informationen zu den Lizenzbedingungen und Bedingungen sowie weitere Informationen zur Verwendung von Produkten und Diensten, die über die Microsoft-Volumenlizenzierungsprogramme lizenziert sind, finden Sie unter [Vereinbarung zum Servicelevel für Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
+Informationen zu den Lizenzbedingungen und ergänzenden Informationen für die Verwendung von Produkten und Diensten, die über Microsoft-Volumenlizenzprogramme lizenziert sind, finden Sie unter [Vereinbarung zum Service Level für Microsoft Online Services (PDF)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Zeitfenster für Ausfallzeiten für Dynamics 365
 
@@ -122,11 +122,11 @@ Zeitfenster für Ausfallzeiten für Dynamics 365 werden wie folgt definiert:
 |Updaterollup  <br/> |Keine Auswirkung/Keine Ausfallzeiten  <br/> |Nachrichtencenter  <br/> |48 Stunden  <br/> |
 |Größeres Upgrade  <br/> |Geplant vom Kunden und innerhalb des ausgewählten Zeitfensters abgeschlossen  <br/> |Nachrichtencenter  <br/> |90 Tage  <br/> |
    
-Im Download [Vereinbarung zum Servicelevel für Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) finden Sie die neuesten Informationen zu den Zeitfenstern von Ausfallzeiten. 
+Überprüfen Sie die [Vereinbarung zum Service Level für Microsoft Online Services (PDF)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) herunterladen, um die neuesten Informationen zu Dienst Downtime-Fenstern zu erhalten. 
   
 \* **Vereinbarung zum Betriebslevel** = Die Zeit, die dem Betriebsteam zur Verfügung steht, um eine Reihe von Dienstleistungen zu liefern, die in der Vereinbarung zum Servicelevel definiert sind. 
   
-## <a name="dynamics-365-trust-center"></a>Dynamics 365 Trust Center
+## <a name="microsoft-trust-center"></a>Microsoft Trust Center
 
-Informationen zur Sicherheit, zum Datenschutz und zur Compliance in Dynamics 365 finden Sie im [Microsoft Dynamics 365 Trust Center](https://www.microsoft.com/TrustCenter/CloudServices/Dynamics365).
+Informationen zur Sicherheit, zum Datenschutz und zur Kompatibilität von Dynamics 365 finden Sie im [Microsoft Trust Center](https://www.microsoft.com/TrustCenter/CloudServices/Dynamics365).
   
