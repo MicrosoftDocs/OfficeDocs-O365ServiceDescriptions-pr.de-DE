@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Schritt-für-Schritt-Assistent beim Hinzufügen von Benutzern und beim Konvertieren Ihrer e-Mail-Adressen und anderer Dienste in den Namen Ihres Unternehmens. Wenn Sie den Assistenten abgeschlossen haben, wird Ihre geschäftliche e-Mail-Adresse an Microsoft gesendet, anstatt zu Ihrem aktuellen e-Mail-Anbieter zu wechseln. Weitere Informationen finden Sie unter Hinzufügen von Benutzern und Domänen zu Microsoft. Wenn Sie Office 365, betrieben von 21Vianet verwenden, lesen Sie Prüfen der Domäne.
-ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638863"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044827"
 ---
 # <a name="domains"></a>Domänen
 
@@ -57,6 +57,6 @@ Sie können einige e-Mail-Adressen für eine Domäne in Microsoft und einige in 
     
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Microsoft 365 for Business-Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Microsoft 365 for Business-Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

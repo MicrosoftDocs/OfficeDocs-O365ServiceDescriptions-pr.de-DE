@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Informationen zu Office 365 Features, die soeben veröffentlicht wurden oder die veröffentlicht werden sollen, finden Sie in der Microsoft 365-Roadmap.
-ms.openlocfilehash: 70236f8d0600e5a614524fb1842d1fd62764655d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639773"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044807"
 ---
 # <a name="service-updates"></a>Dienstupdates
 
@@ -43,6 +43,6 @@ Beachten Sie, dass Microsoft die [Online-Lebenszyklusrichtlinie](https://support
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen finden Sie unter [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 
