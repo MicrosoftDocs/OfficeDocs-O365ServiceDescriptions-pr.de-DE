@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: cdac821da552186f6ac2c82740b0acd0c7819311
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639813"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226264"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -194,7 +194,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 ## <a name="office-application-features"></a>Office-Anwendungsfeatures  
 
 > [!NOTE]
-> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Client Softwareanwendungen") wie Office 365 ProPlus\*, Office 2013 und Office 2016. Client Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um [deutsche Onlinedienste](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Für Office 2013 für Office 365 Deutschland muss die [moderne Authentifizierung aktiviert sein](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
+> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Client Softwareanwendungen") wie Office 365 ProPlus, Office 2013 \* und Office 2016. Client Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um [deutsche Onlinedienste](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Für Office 2013 für Office 365 Deutschland muss die [moderne Authentifizierung aktiviert sein](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
 
 Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwischen Office 365 Deutschland-Plänen zu vergleichen.
 
@@ -360,7 +360,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Rollenbasierte Berechtigungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollengruppen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollenzuweisungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|**[Nachrichten Richtlinie und-Kompatibilität](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Archivieren von Exchange Online-basierten Postfächern|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Cloudbasierte Archivierung von lokalen Postfächern|Nein|Nein|Nein|Ja|Ja|Ja|Ja|Nein|
 |Aufbewahrungstags und Aufbewahrungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -382,7 +382,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Ja|Nein|
-|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -462,7 +462,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 <sup>6</sup> für eDiscovery benötigen Sie eine separate Abfrage für lokale vs. Cloud.<br/>
 <sup>7</sup> Nachrichtenfluss Regeln (auch als Transportregeln bezeichnet) bestehen aus flexiblen Kriterien, mit denen Sie Bedingungen, Ausnahmen und Aktionen basierend auf den Kriterien definieren können. Die verfügbaren Bedingungen, Ausnahmen und Aktionen unterscheiden sich zwischen Exchange Online und Exchange Server. Weitere Informationen finden Sie in den entsprechenden Themen für jedes Produkt.<br/>
 <sup>8</sup> nur zugänglich über den direkten Zugriff auf die Verwaltungsschnittstelle für Exchange Admin Center (EAC). <br/>
-<sup>9</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/> <sup>10</sup> verbundene Konten werden für Pop &amp; -IMAP-Konten unterstützt, sind jedoch für Outlook.com (Hotmail) deaktiviert. <br/>
+<sup>9</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/> <sup>10</sup> verbundene Konten werden für Pop- &amp; IMAP-Konten unterstützt, sind jedoch für Outlook.com (Hotmail) deaktiviert. <br/>
 <sup>11</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das das Feature für inaktives Postfach erforderlich ist. <br/>
 <sup>12</sup> das Verwenden eines Cmdlets zum Arbeiten mit der Adressliste und der globalen Adresslistewird nicht unterstützt. <br/>
 <sup>13</sup> erfordert die Verwendung von Verfügbarkeitsadressraum zur Unterstützung der Freigabe für andere Mandanten. Weitere Informationen zum Erstellen eines Verfügbarkeits Adressraums finden Sie unter [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace?view=exchange-ps). <br/> <sup>14</sup> Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind.<br/>
@@ -495,7 +495,7 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 |[Quarantäne](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|
 |[Erweiterte Datenkontrolle](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|Nein|Ja|Ja|
 |[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|Nein|Ja|Ja|
-|[Junk-e-Mail-Berichterstellung in Outlook im Internet](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Ja<sup>8</sup>|Nr.<sup>8</sup>|Nr.<sup>8</sup>|
+|[Junk-e-Mail-Berichterstellung in Outlook im Internet](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Ja<sup>8</sup>|Nr.<sup>8</sup>|Nr.<sup>8</sup>|
 |[Weiterleiten von e-Mails zwischen Microsoft und ihren eigenen e-Mail-Servern](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Ja|Ja|Ja|
 |[Sichere Nachrichten mit einem vertrauenswürdigen Partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Ja|Ja|Ja|
 |[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Ja|Ja|Ja|

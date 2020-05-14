@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: b91260202bb65287061c54e94380156cf7f19123
-ms.sourcegitcommit: 95b146eb31f1052422822be24509223ac9f94ea1
+ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022835"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226194"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 Suite-Features
 
@@ -27,7 +27,7 @@ Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten T
 
 Bei Microsoft-Buchungen handelt es sich um eine Online-und Mobile App für Unternehmen, die Dienste für Kunden auf Termin Basis bereitstellen möchten. Beispiele für solche Unternehmen sind Friseursalons, Dental Büros, Spas, Anwaltskanzleien, Finanzdienstleister, Berater, Ärzte im Gesundheitswesen, Bildungseinrichtungen und Autowerkstätten. Microsoft-Buchungen stehen Kunden in den USA und Kanada zur Verfügung, die über ein Microsoft 365 for Business-Abonnement verfügen.
   
-Weitere Informationen zu Microsoft-Buchungen finden Sie unter [Veröffentlichen Ihres Geschäftskalenders online mit Microsoft-Buchungen](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
+Weitere Informationen zu Microsoft-Buchungen finden Sie unter [Veröffentlichen Ihres Geschäftskalenders online mit Microsoft-Buchungen](https://support.office.com/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ## <a name="microsoft-briefing-email"></a>Microsoft Briefing-e-Mail
 
@@ -41,11 +41,11 @@ Die e-Mail-Anweisung wird automatisch allen Benutzern von Exchange Online bereit
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Mit Microsoft Power Automation können Sie Workflows anwendungsübergreifend automatisieren. Sie können Flow verwenden, um E-Mails und Chatwarnungen zu verbinden, Dateien zwischen Anwendungen zu synchronisieren, Dateien von einem Dienst zu einem anderen zu kopieren, Daten aus einer App zu erfassen und sie in einer anderen zu speichern usw. Um Ihnen den Einstieg zu erleichtern, sind Vorlagen verfügbar. Weitere Informationen zu Fluss Funktionen und deren Verwendung finden Sie auf der [Power Automation-Website](https://preview.flow.microsoft.com/en-us/).
+Mit Microsoft Power Automation können Sie Workflows anwendungsübergreifend automatisieren. Sie können Flow verwenden, um E-Mails und Chatwarnungen zu verbinden, Dateien zwischen Anwendungen zu synchronisieren, Dateien von einem Dienst zu einem anderen zu kopieren, Daten aus einer App zu erfassen und sie in einer anderen zu speichern usw. Um Ihnen den Einstieg zu erleichtern, sind Vorlagen verfügbar. Weitere Informationen zu Fluss Funktionen und deren Verwendung finden Sie auf der [Power Automation-Website](https://preview.flow.microsoft.com/).
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Mit Microsoft Forms können Sie schnell und einfach benutzerdefinierte Quiz, Umfragen, Fragebögen, Registrierungen und vieles mehr erstellen. Wenn Sie ein Quiz oder ein Formular erstellen, können Sie andere dazu einladen, über einen Webbrowser darauf zu antworten, auch auf mobilen Geräten. Wenn Ergebnisse übermittelt werden, können Sie integrierte Analysen verwenden, um die Antworten auszuwerten. Formulardaten, z. B. Quizergebnisse, können einfach zur weiteren Analyse oder Bewertung nach Excel exportiert werden. Weitere Informationen finden Sie unter [Was ist Microsoft Forms?](https://support.office.com/en-us/forms).
+Mit Microsoft Forms können Sie schnell und einfach benutzerdefinierte Quiz, Umfragen, Fragebögen, Registrierungen und vieles mehr erstellen. Wenn Sie ein Quiz oder ein Formular erstellen, können Sie andere dazu einladen, über einen Webbrowser darauf zu antworten, auch auf mobilen Geräten. Wenn Ergebnisse übermittelt werden, können Sie integrierte Analysen verwenden, um die Antworten auszuwerten. Formulardaten, z. B. Quizergebnisse, können einfach zur weiteren Analyse oder Bewertung nach Excel exportiert werden. Weitere Informationen finden Sie unter [Was ist Microsoft Forms?](https://support.office.com/forms).
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph-API
 
@@ -61,7 +61,7 @@ Microsoft Planner ist ein Tool, mit dem Benutzer die Teamarbeit visuell organisi
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
-Microsoft PowerApps ist ein Enterprise-Dienst, der Sie beim schnellen Erstellen, Integrieren und Freigeben von Apps unterstützt, die auf allen Geräten funktionieren. Mit PowerApps können Sie integrierte oder von Ihrem Unternehmen erstellte Verbindungen verwenden, um Ihre APP mit Cloud und lokalen Diensten zu verbinden, einschließlich Microsoft 365 und Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle-Datenbanken und vielem mehr. Sie können Ihre PowerApps problemlos für Kollegen freigeben, indem Sie einfach eine E-Mail-Adresse eingeben. Weitere Informationen hierzu finden Sie auf der Microsoft-Website zu [PowerApps](https://powerapps.microsoft.com/en-us/).
+Microsoft PowerApps ist ein Enterprise-Dienst, der Sie beim schnellen Erstellen, Integrieren und Freigeben von Apps unterstützt, die auf allen Geräten funktionieren. Mit PowerApps können Sie integrierte oder von Ihrem Unternehmen erstellte Verbindungen verwenden, um Ihre APP mit Cloud und lokalen Diensten zu verbinden, einschließlich Microsoft 365 und Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle-Datenbanken und vielem mehr. Sie können Ihre PowerApps problemlos für Kollegen freigeben, indem Sie einfach eine E-Mail-Adresse eingeben. Weitere Informationen hierzu finden Sie auf der Microsoft-Website zu [PowerApps](https://powerapps.microsoft.com/).
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -75,9 +75,9 @@ Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organ
 
 Microsoft Sway ist eine professionelle App zum digitalen Geschichtenerzählen für Unternehmen, mit der Sie und Ihre Kollegen Ideen auf einer interaktiven, webbasierten Leinwand ausdrücken können. Dank des integrierten Designmoduls von Microsoft Sway können Sie professionelle, visuell ansprechende Berichte, Präsentationen und mehr ohne komplizierte Formatierung oder zusätzliche Schulung erstellen. Sie können die Ergebnisse auch ändern, um das gewünschte einzigartige Aussehen und Verhalten zu erzielen. Microsoft Sway lässt Ihre Präsentation in jedem Browser auf jedem Bildschirm großartig aussehen, und Sie können sie mit Kollegen und Kunden teilen, indem Sie ihnen einfach einen Link senden. Microsoft Sway hilft Ihnen beim Suchen und Sammeln aller möglichen Inhalte, ohne die App zu verlassen. Sie können Bilder, Text, Videos und Diagramme direkt auf die Leinwand ziehen und dort ablegen. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft Teams ist ein Chat-zentrierter Arbeitsbereich, der Teammitgliedern dabei hilft, mehr zusammen zu erreichen. Microsoft Teams dient als Hub für Teamarbeit und bietet direkten Zugriff auf Chat Unterhaltungen, Inhalte und Tools in einem einzigen Arbeitsbereich. SharePoint und OneNote sind integriert, und Teammitglieder können Office-Dokumente direkt in der App bearbeiten. Abgesehen von Chats unterstützt Microsoft Teams auch Videoanrufe und Besprechungen, damit Teams Live eintreffen können, ob bei Bedarf oder geplant. Teammitglieder können auf einfache Weise mit mehreren Teams zusammenarbeiten und jederzeit nach Personen suchen sowie Chats und Dateien durchsuchen. Microsoft Teams funktioniert auf Windows-, Mac-, Internet-, Android-und IOS-Plattformen. Weitere Informationen hierzu finden Sie in der [Onlinehilfe für Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
+Microsoft Teams ist ein Chat-zentrierter Arbeitsbereich, der Teammitgliedern dabei hilft, mehr zusammen zu erreichen. Microsoft Teams dient als Hub für Teamarbeit und bietet direkten Zugriff auf Chat Unterhaltungen, Inhalte und Tools in einem einzigen Arbeitsbereich. SharePoint und OneNote sind integriert, und Teammitglieder können Office-Dokumente direkt in der App bearbeiten. Abgesehen von Chats unterstützt Microsoft Teams auch Videoanrufe und Besprechungen, damit Teams Live eintreffen können, ob bei Bedarf oder geplant. Teammitglieder können auf einfache Weise mit mehreren Teams zusammenarbeiten und jederzeit nach Personen suchen sowie Chats und Dateien durchsuchen. Microsoft Teams funktioniert auf Windows-, Mac-, Internet-, Android-und IOS-Plattformen. Weitere Informationen finden Sie in der [Microsoft Teams-Dienstbeschreibung](../teams-service-description.md) und in der [Online Hilfe von Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
 ## <a name="office-delve"></a>Office Delve
 
@@ -85,7 +85,7 @@ In Office vertieft können Benutzer Inhalte in Microsoft 365 basierend auf perso
   
 ## <a name="microsoft-365-groups"></a>Microsoft 365-Gruppen
 
-Gruppen in Microsoft 365 verbindet Benutzer mit den Kollegen, Informationen und Anwendungen, die Sie benötigen, um eine bessere Zusammenarbeit zu erreichen. Gruppen sind standardmäßig offen, damit sie leichter aufgefunden und freigegeben werden können, Benutzer können aber auch private Gruppen für vertrauliche Inhalte erstellen. Weitere Informationen zu Gruppen finden Sie unter [Gruppen in Microsoft 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Informationen zu Gruppen Grenzwerten finden Sie unter "How do I Manage My Groups" in [Learn about Microsoft 365 Groups](https://go.microsoft.com/fwlink/?linkid=846714).
+Gruppen in Microsoft 365 verbindet Benutzer mit den Kollegen, Informationen und Anwendungen, die Sie benötigen, um eine bessere Zusammenarbeit zu erreichen. Gruppen sind standardmäßig offen, damit sie leichter aufgefunden und freigegeben werden können, Benutzer können aber auch private Gruppen für vertrauliche Inhalte erstellen. Weitere Informationen zu Gruppen finden Sie unter [Gruppen in Microsoft 365](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Informationen zu Gruppen Grenzwerten finden Sie unter "How do I Manage My Groups" in [Learn about Microsoft 365 Groups](https://go.microsoft.com/fwlink/?linkid=846714).
   
 ## <a name="office-365-video"></a>Office 365 Video
 

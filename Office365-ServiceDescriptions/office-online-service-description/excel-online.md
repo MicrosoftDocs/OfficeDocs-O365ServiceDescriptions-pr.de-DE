@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639883"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226224"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -90,7 +90,7 @@ Mit Excel-Diagrammen und -Tabellen ist es ganz einfach, Daten zu formatieren und
 
 ## <a name="check-spelling"></a>Rechtschreibprüfung
 
-Um die Rechtschreibung für Text in Ihrem Arbeitsblatt zu**überprüfen,** wählen Sie > **Rechtschreib** **Prüfung überprüfen** > aus. Erfahren Sie mehr über die [Rechtschreibprüfung](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Um die Rechtschreibung für Text in Ihrem Arbeitsblatt zu überprüfen, wählen Sie Rechtschreib **Prüfung überprüfen**aus  >  **Proofing**  >  **Spelling**. Erfahren Sie mehr über die [Rechtschreibprüfung](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -102,7 +102,7 @@ Nachdem Sie eine Excel-Tabelle erstellt haben, möchten Sie möglicherweise nur 
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Sie können Text, Hyperlinks, Zahlen, Formeln, Formen, Diagramme und Bilder ausschneiden, kopieren und einfügen. Wenn Sie Daten in Spalten haben, die Sie drehen müssen, um Sie in Zeilen neu anzuordnen, verwenden Sie das Feature **Transponieren** im Menü **Einfügen** . Erfahren Sie mehr über [Kopieren und Einfügen in Excel für das Internet](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
+Sie können Text, Hyperlinks, Zahlen, Formeln, Formen, Diagramme und Bilder ausschneiden, kopieren und einfügen. Wenn Sie Daten in Spalten haben, die Sie drehen müssen, um Sie in Zeilen neu anzuordnen, verwenden Sie das Feature **Transponieren** im Menü **Einfügen** . Erfahren Sie mehr über [Kopieren und Einfügen in Excel für das Internet](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline). Wenn Sie Edge oder Chrome als Browser verwenden, können Sie Hyperlinks aus anderen apps kopieren und in Excel für das Internet einfügen. Die eingefügten Hyperlinks werden normal funktionieren.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -110,7 +110,7 @@ Sie können Excel für das Internet verwenden, um Datenverbindungen anzuzeigen, 
   
 ## <a name="create-tables"></a>Erstellen von Tabellen
 
-Erstellen Sie eine Tabelle, um verwandte Daten zu organisieren und zu analysieren. Tabellen erleichtern das Sortieren, Filtern und Formatieren von Daten. 
+Erstellen Sie eine Tabelle, um verwandte Daten zu organisieren und zu analysieren. Tabellen erleichtern das Sortieren, Filtern und Formatieren von Daten. Fügen Sie etwas Polnisch mit [Tabellenformatierungsoptionen](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)hinzu, einschließlich eines Formatvorlagenkatalogs.
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>Erstellen erweiterter Analyseansichten (Power View, Power Pivot, Datenschnitte)
 
@@ -162,7 +162,7 @@ Sehen Sie sich die Formeln, die den Ergebnissen in einer Zelle zugrunde liegen, 
   
 ## <a name="formula-tools-advanced"></a>Formeltools, erweitert
 
-Die Microsoft Excel-Desktop-App unterstützt fortschrittlichste Formeltools wie 3D-Bezugsarten und Matrixformeln. Excel für das Internet unterstützt nur die grundlegendsten Excel-Formeln. Erfahren Sie mehr über [Formeln](https://go.microsoft.com/fwlink/p/?LinkId=271665).
+Microsoft Excel Desktop-App bietet die fortschrittlichsten Formeltools, beispielsweise 3D-Referenzformat. Excel für das Internet unterstützt eine zunehmende Anzahl von erweiterten Excel-Formeln, beispielsweise [dynamische Arrayformeln](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Erfahren Sie mehr über [Formeln](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -174,7 +174,7 @@ Alle Inhalte, die Ihnen in der Bearbeitungsansicht einer Arbeitsmappe im Browser
   
 ## <a name="functions"></a>Funktionen
 
-Sie können den Großteil der mehr als 400 Arbeitsblattfunktionen von Excel in Formeln in Excel für das Internet verwenden.
+Sie können die meisten der mehr als 400 Excel-Arbeitsblattfunktionen in Formeln in Excel für das Internet verwenden, einschließlich der in [dynamischen Arrayformeln](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)verwendeten Funktionen, beispielsweise der [Filter Funktion](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759).
   
 ## <a name="goto"></a>GoTo
 
@@ -207,6 +207,10 @@ Fügen Sie ein wenig visuelles Interesse hinzu, indem Sie Bilder in Ihre Arbeits
 ## <a name="insert-shapes"></a>Einfügen von Formen
 
 Hinzufügen und Formatieren von Formen wie Feldern, Kreisen, Linien, Konnektoren oder Pfeilen für Ihre Excel-Tabellenkalkulation. Erfahren Sie mehr über das [Hinzufügen von Shapes](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+
+## <a name="keyboard-shortcuts"></a>Tastenkombinationen
+
+Sie können Tastenkombinationen so steuern, dass Sie in Desktop-und Webversionen von Excel identisch sind, indem Sie die Einstellung für die Tastenkombinationen ändern, sodass &mdash; Sie sogar Browser Verknüpfungen außer Kraft setzen können. Wählen Sie einfach **Hilfe**  >  -**Tastenkombinationen**aus. "
   
 ## <a name="merge-cells"></a>Merge cells
 
@@ -283,6 +287,10 @@ Nicht verfügbar in Excel für das Internet. Wenn Sie auf Ihrem Computer die Exc
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
 Möchten Sie Ihre eigene Kopie der Arbeitsmappe? Verwenden Sie den Befehl "Speichern unter" auf der Registerkarte "Datei", oder klicken Sie im entsprechenden Ordner mit der rechten Maustaste auf den Namen der Arbeitsmappe, und wählen Sie den Befehl "Herunterladen" aus, um eine Kopie an Ihren Computer zu senden.
+
+## <a name="sensitivity-labels"></a>Vertraulichkeitsbezeichnungen
+
+Behalten Sie die Kontrolle über den Zugriff und die Vertraulichkeit Ihrer Dokumente, indem Sie eine Bezeichnung manuell anwenden oder die automatisch empfohlenen Bezeichnungen von Microsoft verwenden.
   
 ## <a name="share"></a>Freigeben
 
@@ -291,14 +299,18 @@ Nur ein Mausklick ist nötig, um einen Link zu senden, über den andere Personen
 ## <a name="sheet-protection"></a>Arbeitsblattschutz
 
 Wenn Sie eine Excel-Datei für andere Benutzer freigeben, können Sie ein Arbeitsblatt schützen, um Änderungen an diesem zu verhindern, und Sie können die Aktionen festlegen, die Benutzer für das Arbeitsblatt durchführen können.
-  
-## <a name="slicer-viewing"></a>Datenschnittansicht
 
-Zeigen Sie datenschnitte in Ihrem Arbeitsblatt an, und Filtern Sie die Daten, indem Sie die Schaltflächen Slicer auswählen. Sie können keine datenschnitte in Excel für das Internet erstellen oder bearbeiten.
+## <a name="sheet-views"></a>Tabellen Ansichten
+
+Mithilfe von [Tabellen Ansichten](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6) können Sie angepasste Ansichten eines Excel-Arbeitsblatts erstellen, ohne von anderen Benutzern gestört zu werden. Beispielsweise können Sie einen Filter so einrichten, dass nur die Datensätze angezeigt werden, die für Sie wichtig sind, ohne dass die Sortierung und Filterung durch andere Personen im Dokument beeinträchtigt wird. Sie können sogar mehrere Tabellen Ansichten auf demselben Arbeitsblatt einrichten.
+  
+## <a name="slicers"></a>Datenschnitte
+
+Zeigen Sie datenschnitte in Ihrem Arbeitsblatt an, und Filtern Sie die Daten, indem Sie die Schaltflächen Slicer auswählen. Sie können keine datenschnitte in Excel für das Internet erstellen oder bearbeiten, aber Sie können vorhandene datenschnitte löschen.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-In Excel für das Internet können Sie alle Arbeitsblätter anzeigen und neu anordnen, Daten sortieren und Filtern (von oben nach unten oder von links nach rechts, mehrere Ebenen) und in die Details von PivotTables einbohren. Erfahren Sie mehr über das [Sortieren und Filtern von Daten](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
+In Excel für das Internet können Sie alle Arbeitsblätter anzeigen und neu anordnen, Daten sortieren und Filtern (von oben nach unten oder von links nach rechts, mehrere Ebenen) und in die Details von PivotTables einbohren. Sortieren Sie mit den Symbolen oder Farbwerten, die mit Symbolsätzen oder Farbskalen verwendet werden, nach dem Bedingungen formatierte Daten. Erfahren Sie mehr über das [Sortieren und Filtern von Daten](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Überprüfung und Kompatibilität von Arbeitsmappen
 
@@ -339,6 +351,10 @@ Zeigen Sie 3D-Diagramme in Ihrem Arbeitsblatt an. Es ist nicht möglich, 3D-Diag
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
 Nicht verfügbar in Excel für das Internet. Sie können "Was wäre, wenn"-Analyseergebnisse in Excel für das Internet anzeigen, wie erwartet. Wenn Sie Analysetools wie Zielwertsuche, Datentabellen, Solver und Datenreihen verwenden möchten, benötigen Sie die Excel-Desktop-App. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung einer Arbeitsmappe im Browser und in der Excel-Desktop-App](https://go.microsoft.com/fwlink/p/?LinkId=273900).
+
+## <a name="workbook-statistics"></a>Arbeitsblatt Statistik
+
+Das Feature Arbeitsmappen-Statistik zählt und identifiziert Elemente einer Arbeitsmappe und hilft Ihnen dabei, den gesamten Inhalt zu ermitteln. Sie finden Sie auf der Registerkarte **überprüfen** .
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

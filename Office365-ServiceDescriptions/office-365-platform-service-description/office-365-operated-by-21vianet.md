@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
-ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
+ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43800621"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226254"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -96,7 +96,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Office Delve|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Office 365-Gruppen|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |Office 365-Video|Nein|Nein|Nein|Ja|Ja|Ja|Ja<sup>2</sup>|
-|OneNote-Kursnotizbuch|Nein|Nein|Nein|Ja<sup>15<sup>|Nein|Nein|Nein|
+|OneNote-Kursnotizbuch|Nein|Nein|Nein|Ja <sup> 15<sup>|Nein|Nein|Nein|
 |**[Benutzerkonto mManagement](user-account-management.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Cloud-Identität, Verbundidentität oder mehrstufige Authentifizierung<sup>14</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Office 365-Desktopsetup|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -430,7 +430,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 <br/><sup>10</sup> der Assistent für die Hybrid Konfiguration steht für Exchange 2013 CU5 und größere lokale Bereitstellungen zur Verfügung. Einige Hybrid Features weisen jedoch Einschränkungen auf – siehe das Hilfethema. Ausführliche Informationen finden Sie unter [Office 365 betrieben von 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
 <br/><sup>11</sup> für Office 365, die von 21Vianet betrieben werden, ist LinkedIn verfügbar, Facebook jedoch nicht.
 <br/><sup>12</sup> das Setup für die hybridbereitstellung ist über den Assistenten für die Hybrid Konfiguration für Exchange 2013 CU5 verfügbar oder kann manuell eingerichtet werden, wenn Sie über Exchange 2013 SP1 verfügen. Weitere Informationen finden Sie im Hilfethema unter [Office 365 betrieben von 21Vianet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
-<br/><sup>13</sup> verbundene Konten werden für Pop &amp; -IMAP-Konten unterstützt, sind jedoch für Outlook.com (Hotmail) deaktiviert.
+<br/><sup>13</sup> verbundene Konten werden für Pop- &amp; IMAP-Konten unterstützt, sind jedoch für Outlook.com (Hotmail) deaktiviert.
 <br/><sup>14</sup> das Verwenden eines Cmdlets zum Arbeiten mit der Adressliste und der globalen Adresslistewird nicht unterstützt.
 <br/><sup>15</sup> die aktuellen Funktionen für die Office 365 Nachrichtenverschlüsselung (OM) stellen eine Weiterentwicklung der aktuellen Information Rights Management (IRM)-und früheren OM-Lösungen dar. Weitere Informationen zu OM finden Sie unter [Office 365 Nachrichtenverschlüsselung (FAQ](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)).
 
@@ -491,8 +491,8 @@ In der folgenden Tabelle sind Exchange Online Protection (EoP)-Features aufgefü
 |[Anpassung von Antischadsoftwarerichtlinien](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Ja|Ja|
 |[Quarantäne](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): Verwaltung durch Administrator|Ja|Ja|
 |[Quarantäne](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer|Ja|Ja|
-|[Berichtsnachrichten-Add-in für Outlook](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Ja|Ja|
-|[Junk-e-Mail-Berichterstellung in Outlook im Internet](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Nr.<sup>7</sup>|Nr.<sup>7</sup>|
+|[Berichtsnachrichten-Add-in für Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Ja|Ja|
+|[Junk-e-Mail-Berichterstellung in Outlook im Internet](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Nr.<sup>7</sup>|Nr.<sup>7</sup>|
 |[Weiterleiten von e-Mails zwischen Microsoft und ihren eigenen e-Mail-Servern](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Ja|Ja|
 |[Sichere Nachrichten mit einem vertrauenswürdigen Partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Ja|Ja|
 |[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Ja|Ja|

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213987"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226214"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
@@ -176,7 +176,7 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
 |[Speichern oder Herunterladen einer Kopie](excel-online.md#save-or-download-a-copy) <br/> |Ja  <br/> |Ja  <br/> |
 |[Freigeben](excel-online.md#share) <br/> |Ja  <br/> |Ja  <br/> |
 |[Arbeitsblattschutz](excel-online.md#sheet-protection) <br/> |Ja  <br/> |Ja  <br/> |
-|[Datenschnittansicht](excel-online.md#slicer-viewing) <br/> |Ja  <br/> |Ja  <br/> |
+|[Slicers](excel-online.md#slicers) <br/> |Ja  <br/> |Ja  <br/> |
 |[Sortieren und Filtern von Daten](excel-online.md#sort-and-filter-data) <br/> |Ja  <br/> |Ja  <br/> |
 |[Überprüfung und Kompatibilität von Arbeitsmappen](excel-online.md#spreadsheet-audit-and-compliance) <br/> |Nein  <br/> |Ja  <br/> |
 |[Statusleistenaggregate](excel-online.md#status-bar-aggregates) <br/> |Ja  <br/> |Ja  <br/> |
