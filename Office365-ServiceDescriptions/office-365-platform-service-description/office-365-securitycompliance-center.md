@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001991"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267324"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
@@ -38,7 +38,7 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Verwaltung mobiler Geräte](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
 |[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Nein   |Nein   |Nein   |Nein   |Ja   |Ja   |Nein   |
-|[Verhinderung von Kommunikationsdaten Verlust für Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein  |
+|[Verhinderung von Kommunikationsdaten Verlust für Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja  |
 |[Manuelle Empfindlichkeits Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Nein | Nein  |Nein   | Ja | Ja | Ja | Nein  |
 |Automatische Vertraulichkeits Bezeichnungen| Nein | Nein  |Nein  | Nein | Nein | Ja<sup>13</sup> | Nein  |
 |[Informationsbarrieren](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein  |
@@ -53,8 +53,8 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 |[Grundlegende Überwachung](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Ja   |Ja   |Ja|Ja   |Ja   |Ja   |Ja   |
 |[Erweiterte Überwachung](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Kommunikation Compliance (Aufsichtsrichtlinien)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
-|[Office 365-Nachrichtenverschlüsselung (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
-|[Erweiterte Office 365-Nachrichtenverschlüsselung](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
+|[Office 365-Nachrichtenverschlüsselung (OM) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Nein   |Nein   |Nein   |Nein   |Ja  |Ja   |Nein   |
+|[Erweiterte Office 365-Nachrichtenverschlüsselung](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Nein   |Nein   |Nein   |Nein   |Nein |Ja   |Nein   |
 |[Privilegierte Zugriffsverwaltung](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Kundenschlüssel](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |||||||||

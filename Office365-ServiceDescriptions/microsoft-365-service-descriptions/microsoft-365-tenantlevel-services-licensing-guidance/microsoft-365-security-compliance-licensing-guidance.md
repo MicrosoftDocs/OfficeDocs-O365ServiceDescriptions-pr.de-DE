@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214017"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267334"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -66,7 +66,7 @@ Standardmäßig werden Azure ATP-Features auf Mandantenebene für alle Benutzer 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Microsoft stellt Funktionen für die Erkennung von Bedrohungen für lizenzierte Benutzer bereit.
+Azure ATP-Dienste können derzeit nicht die Funktionen für bestimmte Benutzer einschränken. Sie müssen jeden Benutzer lizenzieren, den Sie nutzen möchten.
 
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Feature-Vergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: f8c7a3b5d070fa51780e85f57a4a7176ca5c970b
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213787"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267344"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -119,7 +119,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Adressbuchrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Hierarchisches Adressbuch|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Adresslisten und globale Adressliste|Ja|Ja|Ja|Ja|Yes<sup>18</sup>|Yes<sup>18</sup>|Yes<sup>18</sup>|Yes<sup>18</sup>|
-|Office 365-Gruppen|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
+|Microsoft 365-Gruppen|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verteilergruppen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Externe Kontakte (global)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Universelle Visitenkarte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
