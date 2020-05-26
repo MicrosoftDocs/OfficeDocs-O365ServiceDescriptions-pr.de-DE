@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213652"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356893"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -60,7 +60,7 @@ In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für 
 |Sprachanrufe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Audiokonferenz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Apps, Bots, &-Konnektoren  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>4</sup>  <br/> |Ja<sup>4</sup>  <br/> |Ja<sup>4</sup>  <br/> |Ja  <br/> |
-|Live-Ereignisse  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>5</sup>  <br/> |Nr.<sup>5</sup>  <br/> |Ja  <br/> |
+|Live-Ereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>5</sup>  <br/> |Nr.<sup>5</sup>  <br/> |Ja  <br/> |
 
 <sup>1</sup> Microsoft Teams in gcc-High und DoD unterstützen 2500-Mitglieder in einem einzelnen Team.<br/>
 <sup>2</sup> Microsoft Planner steht derzeit nicht für den Zugriff auf private Kanäle zur Verfügung.<br/>

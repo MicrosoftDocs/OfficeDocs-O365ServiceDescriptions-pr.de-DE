@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
-ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638929"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356883"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -85,6 +85,10 @@ Ein Benutzer kann zu 5.000 Gruppen gehören, und jede Gruppe kann bis zu 5.000 B
 ### <a name="managed-metadata"></a>Verwaltete Metadaten
 
 200.000 Ausdrücke in Term Store, 1.000 globale Ausdruckssätze, 1.000 Gruppen.
+
+### <a name="overall-site-metadata"></a>Allgemeine Website Metadaten
+
+1000 GB pro Website (Metadaten erreichen selten diese Größe).
 
 ### <a name="subsites"></a>Websites 
 
