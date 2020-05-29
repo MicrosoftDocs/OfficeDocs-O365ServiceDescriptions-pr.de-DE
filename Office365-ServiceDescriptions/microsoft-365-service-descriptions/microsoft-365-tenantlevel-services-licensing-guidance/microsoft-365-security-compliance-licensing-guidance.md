@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
+ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267334"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44408925"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -30,7 +30,7 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
-Azure Active Directory Identity Protection (AADIP) ist ein Feature des Azure Active Directory Premium P2-Plans, mit dem Sie potenzielle Sicherheitsrisiken erkennen können, die sich auf die Identitäten Ihrer Organisation auswirken, automatisierte Antworten auf erkannte verdächtige Aktionen konfigurieren, die mit den Identitäten Ihrer Organisation in Zusammenhangstehen, sowie verdächtige Vorfälle untersuchen und geeignete Maßnahmen zur Lösung dieser Vorgänge ergreifen.
+Azure Active Directory Identity Protection ist ein Feature des Azure Active Directory Premium P2-Plans, mit dem Sie potenzielle Sicherheitsrisiken erkennen können, die sich auf die Identitäten Ihrer Organisation auswirken, automatisierte Antworten auf erkannte verdächtige Aktionen in Bezug auf die Identitäten Ihrer Organisation konfigurieren und verdächtige Vorfälle untersuchen und geeignete Maßnahmen zur Lösung dieser Vorgänge ergreifen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
@@ -42,11 +42,11 @@ Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 S
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind AADIP-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zu AADIP finden Sie unter [Was ist Azure Active Directory Identity Protection?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+Standardmäßig sind Azure AD Identity Protection-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Azure AD Identitätsschutz finden Sie unter [Was ist Azure Active Directory Identity Protection?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können den Bereich AADIP, indem Sie Risikorichtlinien zuweisen, mit denen die Ebene für Kennwortzurücksetzungen definiert und der Zugriff nur für lizenzierte Benutzer zugelassen wird. Anweisungen zum Umfang von AADIP-Bereitstellungen finden Sie unter [configure the Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
+Administratoren können Azure AD Identitätsschutz festlegen, indem Sie Risikorichtlinien zuweisen, mit denen die Ebene für Kennwortzurücksetzungen definiert und der Zugriff nur für lizenzierte Benutzer zugelassen wird. Anweisungen zum Bereich Azure AD Identitätsschutz-Bereitstellungen finden Sie unter [configure the Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
 ## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
 
@@ -119,7 +119,7 @@ Informationen zum Konfigurieren des Diensts finden Sie unter [Basic Setup for Cl
 
 Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie auf bestimmte apps zugegriffen wird, und um Benutzergruppen zu begrenzen, die von Office 365 Cloud-App-Sicherheit überwacht werden. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App-Sicherheit
 
 Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet und Ihnen die Steuerung der Datenübertragung &mdash; über eine Cloud-App ermöglicht.
 
