@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226264"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429120"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -162,7 +162,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Kunden-Lockbox|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Erweiterte eDiscovery|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Secure Score|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Compliance](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[Compliance](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**<sup>9</sup>|||||||||
 |SAS 70-/SSAE16-Bewertungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |ISO 27001-Zertifizierung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |EU-Standardvertragsklauseln|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
