@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "Office365-ServiceDescriptions/office-365-platform-service-description/compliance-servicedesc.md",
+      "redirect_url": "https://docs.microsoft.com/microsoft-365/compliance/offering-home",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "office365-ServiceDescriptions/microsoft-365-business-service-description.md",
       "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description",
       "redirect_document_id": true
