@@ -26,7 +26,6 @@
 ### [Hilfe und Schulungen](office-365-platform-service-description/help-and-training.md)
 ### [Netzwerk](office-365-platform-service-description/networking.md)
 ### [Datenschutz, Sicherheit und Transparenz](office-365-platform-service-description/privacy-security-and-transparency.md)
-### [Compliance](office-365-platform-service-description/compliance-servicedesc.md)
 ### [BlackBerry](office-365-platform-service-description/blackberry.md)
 ### [Partner](office-365-platform-service-description/partners.md)
 ### [Vereinbarung zum Servicelevel](office-365-platform-service-description/service-level-agreement.md)
