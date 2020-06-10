@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 und Office 365 sind in einer Vielzahl von Plänen verfügbar, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Plänen suchen, einschließlich Exchange Online Pläne, werden Sie in diesem Artikel erfahren, welche Features in jedem dieser Pläne enthalten sind.
-ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429070"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679572"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365- und Office 365-Plattformdienstbeschreibung
 
@@ -43,9 +43,9 @@ Es stehen mehrere Office 365-Pläne zur Verfügung, sodass Sie den für Ihre Org
   
 Informationen zur Volumenlizenzierung finden Sie unter [Lizenzierungsbedingungen und Dokumentation](https://go.microsoft.com/fwlink/?linkid=848696).
   
-## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Microsoft 365 und Office 365 Nonprofit-Pläne und-Preise
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Microsoft 365 und Office 365 Pläne und Preise für gemeinnützige Organisationen
 
-Für Organisationen, die sich für Microsoft 365 oder Office 365 Non-Profit-Pläne qualifizieren, enthalten diese Pläne genau dieselben Features wie die entsprechenden Geschäftspläne (beispielsweise enthält Office 365 Non-Profit-E5 die gleichen Funktionen wie Office 365 E5). Der einzige Unterschied zwischen den entsprechenden Plänen ist der Preis, den Sie zahlen. Weitere Informationen zu Microsoft 365 und Office 365 gemeinnützigen Plänen finden Sie unter [Vergleich von Microsoft 365 und Office 365 gemeinnützigen angeboten](https://go.microsoft.com/fwlink/?LinkID=627221)und [Produktivitätslösungen für](https://go.microsoft.com/fwlink/?LinkID=786641)gemeinnützige Organisationen.
+Für Organisationen, die sich für Microsoft 365 und Office 365 Pläne für gemeinnützige Einrichtungen qualifizieren, umfassen diese Pläne genau dieselben Features wie die entsprechenden Geschäftspläne (beispielsweise enthält Office 365 E5 für gemeinnützige Einrichtungen dieselben Funktionen wie Office 365 E5). Der einzige Unterschied zwischen den entsprechenden Plänen ist der Preis, den Sie zahlen. Weitere Informationen zu Microsoft 365 und Office 365 Pläne für gemeinnützige Organisationen finden Sie unter [Compare Microsoft 365 and Office 365 offers for](https://go.microsoft.com/fwlink/?LinkID=627221)nonprofited, and [Productivity Solutions for nonprofited](https://go.microsoft.com/fwlink/?LinkID=786641).
   
 ## <a name="system-requirements"></a>Systemanforderungen
 
@@ -83,7 +83,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
     
 - Government: [Pläne für Office 365 Government (USA)](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- Non-Profit: [Vergleich von Microsoft 365 und Office 365 gemeinnützigen angeboten](https://go.microsoft.com/fwlink/?LinkID=733237)
+- Nonprofit: [Vergleichen von Microsoft 365-und Office 365-angeboten für](https://go.microsoft.com/fwlink/?LinkID=733237) gemeinnützige Organisationen
 
 - Office 365 Deutschland: [Pläne für Office 365 Deutschland](https://go.microsoft.com/fwlink/?linkid=839016)
     

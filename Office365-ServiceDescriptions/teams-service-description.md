@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356893"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679582"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
 Microsoft Teams ist der Hub für die Zusammenarbeit in Microsoft 365. Der Microsoft Teams-Dienst ermöglicht Chatnachrichten, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen. Darüber hinaus stellt Microsoft Teams Dateien und Daten zur Zusammenarbeit und Erweiterbarkeit bereit und integriert sich in Microsoft 365 und andere Microsoft-und Partner-apps.
 
-Skype for Business Online wird am 31. Juli 2021, das am 30. Juli 2019 [angekündigt](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) wurde, ausgemustert. Microsoft Teams ist ein völlig neuer Dienst, der von Grund auf für die Cloud entwickelt wurde, indem Sie Azure und andere Dienst Innovationen von Microsoft nutzen. Microsoft Teams basiert auf Office 365 Gruppen, Microsoft Graph, sowie auf der gleichen Sicherheit, Compliance und Verwaltbarkeit auf Unternehmensebene wie der Rest von Office 365. Microsoft Teams nutzt Identitäten, die in Azure Active Directory (Azure AD) gespeichert sind. Diese Dienste werden von Microsoft-Rechenzentren bereitgestellt und sind für Benutzer auf einer großen Bandbreite von Geräten innerhalb eines Unternehmensnetzwerks oder über das Internet zugänglich. Weitere Informationen finden Sie unter [Microsoft Teams IT Architecture and Telephony Solutions Poster](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
+Skype for Business Online wird am 31. Juli 2021, das am 30. Juli 2019 [angekündigt](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) wurde, ausgemustert. Microsoft Teams ist ein völlig neuer Dienst, der von Grund auf für die Cloud entwickelt wurde, indem Sie Azure und andere Dienst Innovationen von Microsoft nutzen. Microsoft Teams basiert auf Microsoft 365-Gruppen, Microsoft Graph, sowie auf der gleichen Sicherheit, Compliance und Verwaltbarkeit auf Unternehmensebene wie der Rest von Office 365. Microsoft Teams nutzt Identitäten, die in Azure Active Directory (Azure AD) gespeichert sind. Diese Dienste werden von Microsoft-Rechenzentren bereitgestellt und sind für Benutzer auf einer großen Bandbreite von Geräten innerhalb eines Unternehmensnetzwerks oder über das Internet zugänglich. Weitere Informationen finden Sie unter [Microsoft Teams IT Architecture and Telephony Solutions Poster](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
 
 Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und im [Office Accessibility Center](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
@@ -29,7 +29,7 @@ Als Referenz haben wir diese Mastertabelle mit den Abonnements aufgenommen, mit 
 |:-----|:-----|:-----|:-----|
 |**Pläne für kleine Unternehmen** <br/> |**Enterprise-Pläne** <br/> |**Bildungspläne** <br/> |**Entwickler Pläne** <br/> |
 |Microsoft 365 Business Basic  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Office 365 Entwickler  <br/> |
-|Microsoft 365 Business Standard  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
+|Office 365 Business Premium  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
 |Microsoft 365 for Business  <br/> |Office 365 Enterprise E4 (veraltet)  <br/> |Office 365 Education E3 (veraltet)  <br/> |  <br/> |
 |  <br/> |Office 365 Enterprise E5  <br/> |Office 365 Education E5  <br/> |  <br/> |
 |  <br/> |Office 365 Enterprise F1  <br/> |  <br/> |  <br/> |
