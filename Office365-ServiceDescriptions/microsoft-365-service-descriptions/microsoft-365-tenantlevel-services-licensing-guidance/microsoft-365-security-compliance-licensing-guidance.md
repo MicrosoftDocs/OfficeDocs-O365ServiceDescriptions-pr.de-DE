@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
-ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
+ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44524178"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711135"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -119,7 +119,7 @@ Informationen zum Konfigurieren des Diensts finden Sie unter [Basic Setup for Cl
 
 Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie auf bestimmte apps zugegriffen wird, und um Benutzergruppen zu begrenzen, die von Office 365 Cloud-App-Sicherheit überwacht werden. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App-Sicherheit
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet und Ihnen die Steuerung der Datenübertragung &mdash; über eine Cloud-App ermöglicht.
 
@@ -188,9 +188,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 und AIP Plan 2 bieten die Rechte für einen Benutzer, der von der automatischen Sensitivitäts Kennzeichnung profitiert.
 
-Spezifische Rechte nach Lizenz finden Sie im [ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
-
-Enthält keine Rechte für die automatische Klassifizierung basierend auf dem maschinellen lernen (Lernende Klassifizierungen).
+Spezifische Rechte nach Lizenz finden Sie im ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Enthält keine Rechte für die automatische Klassifizierung basierend auf dem maschinellen lernen (Lernende Klassifizierungen).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -218,7 +216,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365-Information
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs Bezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
-Spezifische Rechte nach Lizenz finden Sie im [ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Spezifische Rechte nach Lizenz finden Sie im ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 Enthält keine Rechte für die automatische Aufbewahrung basierend auf dem maschinellen lernen (Lernende Klassifizierungen).
 
@@ -240,7 +238,7 @@ Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365 Information
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs-oder Daten Satzbezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
-Spezifische Rechte nach Lizenz finden Sie im [ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Spezifische Rechte nach Lizenz finden Sie im ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 

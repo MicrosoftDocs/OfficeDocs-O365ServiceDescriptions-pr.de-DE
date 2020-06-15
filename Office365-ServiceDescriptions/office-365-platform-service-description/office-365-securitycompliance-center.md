@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267324"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711115"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
@@ -59,7 +59,7 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 |[Kundenschlüssel](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |||||||||
 
-<sup>1</sup> mit Information Governance können Benutzer Bezeichnungen erstellen, veröffentlichen und manuell auf Dokumente anwenden. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk.
+<sup>1</sup> mit Information Governance können Benutzer Bezeichnungen erstellen, veröffentlichen und manuell auf Dokumente anwenden. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk. Diese Features stehen in E3 und E5 zur Verfügung, mit nur beschränkter Verfügbarkeit in E1. Eine vollständige Liste der Funktionen, die in E1, E3 und E5 zur Verfügung stehen, finden Sie im detaillierten Kompatibilitäts Lizenzierungs Vergleich von Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> mit Advanced Information Governance können Sie wichtige Informationen beibehalten und unwichtige Informationen löschen, indem Sie Informationen basierend auf einer Aufbewahrungs-oder Löschrichtlinie oder beides klassifizieren. Sie beinhaltet intelligente/automatisierte Aktionen wie z. B. Empfehlungen von Richtlinien, automatisches Anwenden von Bezeichnungen auf Daten, Anwenden von Bezeichnungen basierend auf vertraulichen Datentypen oder Abfragen, Dispositionsprüfung und Verwenden intelligenter Importfilter. Sie umfasst zudem das Supervisorfeature für die Überprüfung der Mitarbeiterkommunikation zu Sicherheits- und Compliancezwecken.
 
@@ -115,7 +115,7 @@ Grenzwert von <sup>3</sup> 50 GB.
 |[Privilegierte Zugriffsverwaltung](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |Nein|Nein|Nein|
 |||||||||
 
-<sup>1</sup> mit Information Governance können Benutzer Bezeichnungen erstellen, veröffentlichen und manuell auf Dokumente anwenden. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk.
+<sup>1</sup> mit Information Governance können Benutzer Bezeichnungen erstellen, veröffentlichen und manuell auf Dokumente anwenden. Importieren Sie Daten mithilfe des Laufwerk Versands oder über das Netzwerk. Diese Features stehen in E3 und E5 zur Verfügung, mit nur beschränkter Verfügbarkeit in E1. Eine vollständige Liste der Funktionen, die in E1, E3 und E5 zur Verfügung stehen, finden Sie im detaillierten Kompatibilitäts Lizenzierungs Vergleich von Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> erfordert den Kauf von Exchange Online Archivierungs-Add-on.
 

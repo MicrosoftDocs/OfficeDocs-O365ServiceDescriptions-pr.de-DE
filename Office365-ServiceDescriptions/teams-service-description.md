@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679582"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711145"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -25,14 +25,17 @@ Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barriere
 
 Als Referenz haben wir diese Mastertabelle mit den Abonnements aufgenommen, mit denen Benutzer für Microsoft Teams aktiviert werden können. Ausführliche Planinformationen finden Sie unter [Suchen der richtigen Microsoft Teams für Ihr Unternehmen](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Weitere Office 365 im Government-Plan finden Sie unter [Office 365 Government Plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 bis G5 bieten den Zugriff auf die Microsoft Teams-Features.
 
-|||||
+|||||||||
 |:-----|:-----|:-----|:-----|
 |**Pläne für kleine Unternehmen** <br/> |**Enterprise-Pläne** <br/> |**Bildungspläne** <br/> |**Entwickler Pläne** <br/> |
-|Microsoft 365 Business Basic  <br/> |Office 365 Enterprise E1  <br/> |Office 365 Education  <br/> |Office 365 Entwickler  <br/> |
-|Office 365 Business Premium  <br/> |Office 365 Enterprise E3  <br/> |Office 365 Education Plus  <br/> |   <br/> |
-|Microsoft 365 for Business  <br/> |Office 365 Enterprise E4 (veraltet)  <br/> |Office 365 Education E3 (veraltet)  <br/> |  <br/> |
-|  <br/> |Office 365 Enterprise E5  <br/> |Office 365 Education E5  <br/> |  <br/> |
-|  <br/> |Office 365 Enterprise F1  <br/> |  <br/> |  <br/> |
+|Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 Entwickler <br/> |
+|Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
+|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
 Ausführliche Anleitungen zur Implementierung von Produktfeatures finden Sie in der [Microsoft Teams-Administratordokumentation](https://docs.microsoft.com/MicrosoftTeams). In dieser Dienstbeschreibung werden die wesentlichen Unterschiede zwischen den in den verschiedenen Cloud-Installationen bereitgestellten Diensten erläutert. Die Kernfunktionen von Microsoft Teams unterscheiden sich nicht zwischen den Abonnements. Die Verfügbarkeit der Compliance-Funktionen hängt von Ihrer Abonnementstufe ab. Weitere Informationen finden Sie unter [Security and Compliance in Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Eine detaillierte Liste der in den einzelnen Abonnements verfügbaren Features finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
@@ -52,7 +55,7 @@ In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | <br/>|**Kleinunternehmen** <br/> |**Enterprise-Pläne** <br/> |**GCC** <br/> |**GCC-hoch** <br/> |**DoD** <br/> |**Bildung** <br/> |
 |Chat  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
+|Microsoft Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
 |Kanäle – Standard  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Kanäle – privat  <br/> |Ja  <br/> |Ja<sup>2</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Ja  <br/> |
 |Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
