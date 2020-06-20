@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226194"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820603"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 Suite-Features
 
@@ -49,7 +49,7 @@ Mit Microsoft Forms können Sie schnell und einfach benutzerdefinierte Quiz, Umf
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph-API
 
-Verwenden Sie die Microsoft Graph-API zum schnellen Erstellen von App, die über einen einzelnen Endpunkt Zugriff auf eine Vielzahl von Ressourcen, Beziehungen und Daten haben: https://graph.microsoft.com. Sie können zum Beispiel Dashboards, Workflows und Apps erstellen, die Daten für Ihre Organisation abrufen. Weitere Informationen finden Sie in der [Microsoft Graph-Dokumentation](https://go.microsoft.com/fwlink/?linkid=849595).
+Use the Microsoft Graph API to quickly build apps that connect to a wealth of resources, relationships, and intelligence, all through a single endpoint: https://graph.microsoft.com. For example, you can build custom dashboards, workflows, and apps that retrieve data for your organization. For more information, see the [Microsoft Graph documentation](https://go.microsoft.com/fwlink/?linkid=849595).
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
@@ -57,11 +57,15 @@ MyAnalytics bietet Einblicke in zwei der wichtigsten Faktoren in Ihrer persönli
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner ist ein Tool, mit dem Benutzer die Teamarbeit visuell organisieren können. Teams können neue Pläne erstellen, Aufgaben organisieren und zuweisen, Dateien freigeben, kommunizieren, woran sie gerade arbeiten, Termine festlegen und Status aktualisieren. Microsoft Planner bietet außerdem die Möglichkeit, Dokumente mit bestimmten Aufgaben zu verknüpfen, diese gemeinsam zu bearbeiten und Gespräche zu Aufgaben zu führen. Weitere Informationen finden Sie in der [Einführung in Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
+Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
 Microsoft PowerApps ist ein Enterprise-Dienst, der Sie beim schnellen Erstellen, Integrieren und Freigeben von Apps unterstützt, die auf allen Geräten funktionieren. Mit PowerApps können Sie integrierte oder von Ihrem Unternehmen erstellte Verbindungen verwenden, um Ihre APP mit Cloud und lokalen Diensten zu verbinden, einschließlich Microsoft 365 und Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle-Datenbanken und vielem mehr. Sie können Ihre PowerApps problemlos für Kollegen freigeben, indem Sie einfach eine E-Mail-Adresse eingeben. Weitere Informationen hierzu finden Sie auf der Microsoft-Website zu [PowerApps](https://powerapps.microsoft.com/).
+
+## <a name="microsoft-project-for-the-web"></a>Microsoft Project für das Internet
+
+Project für das Internet ist das neueste Microsoft-Angebot für Cloud-basierte Arbeit und Projektmanagement. Project für das Internet bietet einfache, leistungsstarke Funktionen zur Verwaltung der Arbeit, um die meisten Anforderungen und Rollen zu erfüllen. Projektmanager und Teammitglieder können Project für das Internet verwenden, um Arbeit beliebiger Größe zu planen und zu verwalten. Weitere Informationen hierzu finden Sie auf der [Microsoft Project-Website](https://aka.ms/MicrosoftProject).
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -69,13 +73,13 @@ Microsoft StaffHub ist eine cloudbasierte Anwendung, in der Mitarbeiter und dere
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organisation Videos sicher hochladen, anzeigen und teilen können. Sie können Aufzeichnungen von Kursen, Besprechungen, Präsentationen, Schulungssitzungen oder andere Videos freigeben, die die Zusammenarbeit Ihres Teams fördern. Mit Microsoft Stream können auch Kommentare zu einem Video ganz einfach freigegeben sowie Zeitcodes in Kommentaren und Beschreibungen zu bestimmten Punkten in einem Video markieren.
+Microsoft Stream is an enterprise video service that people in your organization can use to upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration. Microsoft Stream also makes it easy to share comments on a video and tag time codes in comments and descriptions to refer to specific points in a video.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway ist eine professionelle App zum digitalen Geschichtenerzählen für Unternehmen, mit der Sie und Ihre Kollegen Ideen auf einer interaktiven, webbasierten Leinwand ausdrücken können. Dank des integrierten Designmoduls von Microsoft Sway können Sie professionelle, visuell ansprechende Berichte, Präsentationen und mehr ohne komplizierte Formatierung oder zusätzliche Schulung erstellen. Sie können die Ergebnisse auch ändern, um das gewünschte einzigartige Aussehen und Verhalten zu erzielen. Microsoft Sway lässt Ihre Präsentation in jedem Browser auf jedem Bildschirm großartig aussehen, und Sie können sie mit Kollegen und Kunden teilen, indem Sie ihnen einfach einen Link senden. Microsoft Sway hilft Ihnen beim Suchen und Sammeln aller möglichen Inhalte, ohne die App zu verlassen. Sie können Bilder, Text, Videos und Diagramme direkt auf die Leinwand ziehen und dort ablegen. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
+Microsoft Sway is a professional digital storytelling app for business that helps you and your colleagues express ideas using an interactive, web-based canvas. Microsoft Sway's built-in design engine helps you produce professional, visually-appealing reports, presentations, and more without the need for extensive formatting or additional training. You can also modify the results to get the unique look and feel you want. Microsoft Sway makes your creation look great in any browser on any screen, and it can be shared with colleagues and customers by simply sending a link. Microsoft Sway helps you find and pull together all sorts of content without leaving the app, so you can drag and drop your images, text, videos, and charts right on to your canvas. To learn more, see [Sway](https://sway.com). Microsoft Sway is not yet available in [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft Teams ist ein Chat-zentrierter Arbeitsbereich, der Teammitgliedern dabei hilft, mehr zusammen zu erreichen. Microsoft Teams dient als Hub für Teamarbeit und bietet direkten Zugriff auf Chat Unterhaltungen, Inhalte und Tools in einem einzigen Arbeitsbereich. SharePoint und OneNote sind integriert, und Teammitglieder können Office-Dokumente direkt in der App bearbeiten. Abgesehen von Chats unterstützt Microsoft Teams auch Videoanrufe und Besprechungen, damit Teams Live eintreffen können, ob bei Bedarf oder geplant. Teammitglieder können auf einfache Weise mit mehreren Teams zusammenarbeiten und jederzeit nach Personen suchen sowie Chats und Dateien durchsuchen. Microsoft Teams funktioniert auf Windows-, Mac-, Internet-, Android-und IOS-Plattformen. Weitere Informationen finden Sie in der [Microsoft Teams-Dienstbeschreibung](../teams-service-description.md) und in der [Online Hilfe von Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
@@ -89,11 +93,11 @@ Gruppen in Microsoft 365 verbindet Benutzer mit den Kollegen, Informationen und 
   
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video ist ein sicheres, unternehmensweites Ziel, auf das Sie Videos hochladen können. Diese können dann freigegeben werden und werden geräteübergreifend erkannt. Grundlage sind die Microsoft Azure Media Services. Office 365 Video hält Benutzer motiviert und informiert. Sie können Ideen einem breiten Publikum präsentieren. Zudem trägt das Tool dazu bei, eine organisationsweit einheitliche Strategie zu entwickeln. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>OneNote-Kursnotizbuch
 
-Das Kursnotizbuch ist Teil von OneNote und für Office 365 Education und Office 365 E5 Education verfügbar. Jedes Notizbuch umfasst einen Inhaltsbibliothek für Lehrer zum Freigeben von Kursinhalten, einen Zusammenarbeitsbereich, in dem Lehrer und Kursteilnehmer zusammenarbeiten können, sowie ein privates Notizbuch für jeden Kursteilnehmer. Nachdem ein Kursnotizbuch erstellt wurde, können Lehrer und Kursteilnehmer die OneNote-App verwenden, um von einem beliebigen Gerät aus darauf zuzugreifen.
+Class Notebook is part of OneNote and is available for Office 365 Education and Office 365 E5 Education. Each notebook includes a Content Library for teachers to share course content, a Collaboration Space where teachers and students can work together, and a private notebook for each student. After a Class Notebook is created, teachers and students can use the OneNote app to access it from any device.
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213877"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820613"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -92,37 +92,37 @@ In der obigen Tabelle gibt die Anzahl der Prüfungen (**x**) die allgemeine Eben
 
 In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt für den Webdaten Speicher. Alle diese Features stehen in allen Microsoft Project-Abonnements zur Verfügung: Projektplan 1, Project Plan 3 und Project Plan 5.
 
-|Feature | Beschreibung |
-|--------|-------------|
-|**Projekt-, Aufgaben-und Zeitverwaltung**||
-|Kartenansicht | Verfolgen Sie Projektaufgaben visuell für eine verbesserte Workflow-und Statusüberwachung mithilfe von vordefinierten und benutzerdefinierten Task Karten.|
-|Abhängigkeiten | Festlegen und visuell Nachverfolgen von Abhängigkeiten zwischen Vorgängen.|
-|Rasteransicht | Planen und Verwalten von Projekten mithilfe einer hierarchischen Rasteransicht von Vorgängen.|
-|Milestones | Erstellen und Nachverfolgen wichtiger Projekt-und Aufgaben Meilensteine.|
-|Projektstart Seite | Erhalten Sie eine Übersicht über die Projekte, an denen Sie kürzlich gearbeitet haben, sowie wichtige Projekte, die Sie genau überwachen müssen.|
-|Vorgangsplanung | Verwenden Sie Start-und Enddatum, Aufwand, Arbeit und Abhängigkeiten für den Vorgang, um einen genauen Zeitplan für Projekttermine zu erhalten.|
-|Zeitachsenansicht (Gantt-Diagramm) | Visuelles nachverfolgen und verstehen von Projektdaten,-Abhängigkeiten und-Zuweisungen in einer hierarchischen Zeitachsenansicht.|
-|Sammelvorgänge | Planen, verwalten und Überwachen von Lieferumfang und Phasen mithilfe von Sammelvorgängen.|
-|**Zusammenarbeit**||
-|Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. <sup>1</sup>|
-|**Ressourcen-und Programmverwaltung**||
-|Projektteam Setup | Verwalten eines Projektteams durch Hinzufügen und Entfernen von Mitgliedern und Festlegen des Arbeitskalenders.|
-|Roadmaps | Erstellen visueller, interaktiver Roadmaps in Projekten aus Microsoft Project Online, Microsoft Project für das Internet und Azure Boards-Projekten. <sup>2</sup> mit Projekt Plan 1 erhalten Sie einen schreibgeschützten Zugriff auf Roadmaps. Mit Project Plan 3 oder Project Plan 5 können Sie auch Roadmaps erstellen. |
-|**Berichterstellung**<sup>3</sup>||
-|Out-of-Box-Berichterstellung | Verwenden Sie vorab erstellte Berichte, um Projekt-, Programm-, Portfolio-und Ressourcendaten zu verstehen.|
-|Benutzerdefinierte Berichte | Grundlegendes zu den Daten, die für Ihre Organisation wichtig sind, indem Sie benutzerdefinierte Berichte basierend auf vordefinierten Berichten oder von Grund auf neu erstellen.|
-|Dashboards und Portale | Erstellen Sie benutzerdefinierte Dashboards und Portale, um bestimmte organisatorische Anforderungen zu erfüllen.|
-|**Benutzerfreundlichkeit**||
-|Gemeinsame Dokumentenerstellung | Arbeiten Sie mit Beteiligten und Teammitgliedern zusammen, um Aufgabenlisten, Projektzeitpläne und vieles mehr gleichzeitig zu erstellen, zu bearbeiten und zu aktualisieren.|
-|Grafische Indikatoren | Grundlegendes zu Aufgabenstatus, Zuordnungen und mehr mit grafischen Indikatoren. |
-|**Mobilität**||
-|Mobile Anwendungen | Erstellen Sie benutzerdefinierte Mobile Anwendungen mit PowerApps. <sup>4</sup> |
-|**Anpassung und Integration**||
-|PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile mit PowerApps. <sup>4</sup> |
-|Workflows | Automatisieren und integrieren von Geschäftsprozessen mit Power Automation. <sup>5</sup> |
-|Microsoft-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Microsoft-Tools und-Anwendungen. <sup>1</sup> |
-|**Sicherheit und Benutzerverwaltung**||
-|Moderne Office-Gruppen | Erstellen Sie ein Projektteam, mit dem Sie zusammenarbeiten und eine Sammlung von Ressourcen für Teammitglieder einrichten können, die Sie freigeben möchten.|
+|Feature | Beschreibung | Office 365 Lizenzen | Plan 1 | Plan 3 | Plan 5|
+|--------|-----------------------------|--------------|------------|------------|------------|
+|**Projekt-, Aufgaben-und Zeitverwaltung**||||||
+|Kartenansicht | Verfolgen Sie Projektaufgaben visuell für eine verbesserte Workflow-und Statusüberwachung mithilfe von vordefinierten und benutzerdefinierten Task Karten.| Nur Ansicht | Ja | Ja| Ja|
+|Abhängigkeiten | Festlegen und visuell Nachverfolgen von Abhängigkeiten zwischen Vorgängen.| Nur Ansicht | Ja | Ja| Ja|
+|Rasteransicht | Planen und Verwalten von Projekten mithilfe einer hierarchischen Rasteransicht von Vorgängen. | Nur Ansicht | Ja | Ja | Ja |
+|Milestones | Erstellen und Nachverfolgen wichtiger Projekt-und Aufgaben Meilensteine.|Nur Ansicht | Ja | Ja | Ja |
+|Projektstart Seite | Verfolgen und Verwalten von Lieferumfang mithilfe von Start-und Enddatum und automatischer Planung.| Ja | Ja | Ja | Ja |
+|Vorgangsplanung | Erhalten Sie eine Übersicht über die Projekte, an denen Sie kürzlich gearbeitet haben, sowie wichtige Projekte, die Sie genau überwachen müssen.| Nur Ansicht | Ja | Ja | Ja |
+|Zeitachsenansicht (Gantt-Diagramm) | Visuelles nachverfolgen und verstehen von Projektdaten,-Abhängigkeiten und-Zuweisungen in einer hierarchischen Zeitachsenansicht.|Nur Ansicht | Ja | Ja | Ja |
+|Sammelvorgänge | Planen, verwalten und Überwachen von Lieferumfang und Phasen mithilfe von Sammelvorgängen.| Nur Ansicht | Ja | Ja | Ja |
+|**Zusammenarbeit** ||||||
+|Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. <sup>1</sup> | Ja | Ja | Ja | Ja |
+|**Ressourcen-und Programmverwaltung** ||||||
+|Projektteam Setup | Verwalten eines Projektteams durch Hinzufügen und Entfernen von Mitgliedern und Festlegen des Arbeitskalenders. | Nein | Ja | Ja | Ja |
+|Roadmaps | Erstellen visueller, interaktiver Roadmaps in Projekten aus Microsoft Project Online, Microsoft Project für das Internet und Azure Boards-Projekten. <sup>2</sup>   Mit dem Projekt Plan 1 erhalten Sie einen schreibgeschützten Zugriff auf Roadmaps. Mit Project Plan 3 oder Project Plan 5 können Sie auch Roadmaps erstellen. | Nur anzeigen | Nur anzeigen | Ja | Ja |
+|**Berichterstellung**<sup>3</sup> ||||||
+|Out-of-the-Box-Berichterstellung | Verwenden Sie vorab erstellte Berichte, um Projekt-, Programm-, Portfolio-und Ressourcendaten zu verstehen. | Nein | Ja | Ja | Ja |
+|Benutzerdefinierte Berichte | Grundlegendes zu den Daten, die für Ihre Organisation wichtig sind, indem Sie benutzerdefinierte Berichte basierend auf vordefinierten Berichten oder von Grund auf neu erstellen. | Nein | Ja | Ja | Ja |
+|Dashboards und Portale | Erstellen Sie benutzerdefinierte Dashboards und Portale, um bestimmte organisatorische Anforderungen zu erfüllen.| Nein | Ja | Ja | Ja |
+|**Benutzerfreundlichkeit** ||||||
+|Gemeinsame Dokumentenerstellung | Arbeiten Sie mit Beteiligten und Teammitgliedern zusammen, um Aufgabenlisten, Projektzeitpläne und vieles mehr gleichzeitig zu erstellen, zu bearbeiten und zu aktualisieren.| Nur Ansicht | Ja | Ja | Ja |
+|Grafische Indikatoren | Grundlegendes zu Aufgabenstatus, Zuordnungen und mehr mit grafischen Indikatoren.| Nur Ansicht | Ja | Ja | Ja |
+|**Mobilität** ||||||
+|Mobile Anwendungen | Erstellen Sie benutzerdefinierte Mobile Anwendungen mit PowerApps. <sup>4</sup> |Nein | Nein | Ja | Ja |
+|**Anpassung und Integration**||||||
+|PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile mit PowerApps. <sup>4</sup> | Nein | Nein | Ja | Ja |
+|Workflows | Automatisieren und integrieren von Geschäftsprozessen mit Power Automation. <sup>5</sup> | Nein | Nein | Ja | Ja |
+|Microsoft-Integration | Arbeiten Sie zusammen, verwalten Sie Dokumente und vieles mehr mithilfe vertrauter Microsoft-Tools und-Anwendungen. <sup>1</sup> | Ja | Ja | Ja | Ja |
+|**Sicherheit und Benutzerverwaltung**||||||
+|Moderne Office-Gruppen | Erstellen Sie ein Projektteam, mit dem Sie zusammenarbeiten und eine Sammlung von Ressourcen für Teammitglieder einrichten können, die Sie freigeben möchten. | Ja | Ja | Ja | Ja |
 
 ### <a name="project-online-features"></a>Project Online-Features
 
@@ -147,7 +147,7 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |Sammelvorgänge | Planen, verwalten und Überwachen von Lieferumfang und Phasen mithilfe von Sammelvorgängen im Project Web App. | Ja | Ja |
 |Vorgangsplanung | Verwenden Sie Start-und Enddatum, Aufwand, Arbeit, Lead-und Verzögerungszeiten sowie Abhängigkeiten, um einen genauen Zeitplan für Projekttermine mithilfe der Project Web App zu erhalten. | Ja | Ja |
 |Vorgangsaktualisierungen | Erfassen Sie Zeit und Status mit Kommentaren zu Projektvorgängen, nicht-Projektarbeit und arbeitsfreien Zeit. | Ja | Ja |
-|Zeitachsen | Visuelles nachverfolgen und verstehen von Projektdaten,-Abhängigkeiten und-Zuweisungen in einer Zeitachsenansicht mithilfe der Project Web App. | Ja | Ja |
+|Zeitpläne | Visuelles nachverfolgen und verstehen von Projektdaten,-Abhängigkeiten und-Zuweisungen in einer Zeitachsenansicht mithilfe der Project Web App. | Ja | Ja |
 |Arbeitszeittabellen | Team Mitglieder können Zeit und Status für Vorgänge, nicht-Projektarbeit und arbeitsfreie Zeit eingeben. | Ja | Ja |
 |Genehmigungen für Arbeitszeittabellen | Team Mitglieder können Arbeitszeittabellen zur Genehmigung übermitteln. Ressourcenmanager und Vorgesetzte können übermittelte Arbeitszeittabellen überprüfen, genehmigen und ablehnen. | Ja | Ja |
 |Setup für arbeitsfreie Zeit | Fügen Sie dem Projektzeitplan Urlaube, Feiertage, gesundheitsbedingte Abwesenheiten und andere arbeitsfreie Zeiten hinzu. | Nein | Ja |
@@ -188,11 +188,11 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung.  | Nein | Ja |
 
-#### <a name="notes"></a>Hinweise
+#### <a name="notes"></a>Anmerkungen
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
-<sup>3</sup> die Berichterstellung für Project für das Internet und Project Online ist mit Power BI verfügbar. Das anzeigen, bearbeiten und Erstellen von Berichten erfordert ein Power BI pro-Abonnement. Microsoft stellt eine vordefinierte Gruppe von Power BI-Berichten bereit. Benutzer können diese Berichte anpassen oder zusätzliche Berichte mit Power BI erstellen.</br> 
+<sup>3</sup> die Berichterstellung für Project für das Internet und Project Online steht mithilfe von Power BI zur Verfügung. Das anzeigen, bearbeiten und Erstellen von Berichten erfordert ein Power BI-Abonnement. Microsoft stellt eine vordefinierte Gruppe von Power BI-Berichten bereit. Benutzer können diese Berichte anpassen oder zusätzliche Berichte mit Power BI erstellen.</br> 
 <sup>4</sup> das Erstellen und Verwenden von benutzerdefinierten PowerApps-mobilen Anwendungen, die auf Project für die Webdaten zugreifen, erfordert ein PowerApps-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
 <sup>5</sup> das Automatisieren und integrieren von Geschäftsprozessen mit Power Automation mit Project für die Webdaten erfordert ein Power automatisieren-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
 <sup>6</sup> Project Online Lizenzierung für externe Benutzer entspricht der Richtlinie für interne Benutzer. Für alle Interaktionen auf einer Project Online Website ist ein Project Plan 3-oder Project Plan 5-Abonnement erforderlich.</br>
@@ -217,7 +217,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Netzplandiagramm | Zeigen Sie Aufgaben, Abhängigkeiten und den kritischen Pfad des Projekts in einer Netzplandiagramm-Ansicht an. |
 |Vorgangsplanung | Verwenden von Start-und Enddaten, Aufwand, Arbeit, Lead-und Verzögerungszeiten und Abhängigkeiten, um einen genauen Zeitplan für Projekttermine zu erhalten |
 |Team Planer | Verfolgen Sie die Zuteilung und Kapazität aller Mitglieder des Projektteams, einschließlich nicht-Projektarbeit und arbeitsfreie Zeit.|
-|Zeitachsen | Visuelles nachverfolgen und verstehen von Projektdaten,-Abhängigkeiten und-Zuordnungen in einer Zeitachsenansicht. |
+|Zeitpläne | Visuelles nachverfolgen und verstehen von Projektdaten,-Abhängigkeiten und-Zuordnungen in einer Zeitachsenansicht. |
 |Inaktive Vorgänge | Verwenden Sie inaktive Aufgaben, um Arbeit nachzuverfolgen, ohne die Ressourcenverfügbarkeit oder-Zuteilung zu beeinträchtigen, ohne den Projektzeitplan zu beeinflussen. |
 |Sammelvorgänge | Planen, verwalten und Überwachen von Lieferumfang und Phasen mithilfe von Sammelvorgängen. |
 |Vorgangsinspektor | Zeigen Sie Faktoren an, die Einfluss auf die Planung eines Vorgangs haben, z. B. ein geändertes Startdatum oder Fehlermeldungen. |
