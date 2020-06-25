@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
-ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
-ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
+ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "44768111"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873615"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -25,7 +25,7 @@ Erfahren Sie mehr über die Grenzwerte für Dienste in SharePoint für Microsoft
 |||||
 |:-----|:-----|:-----|:-----|
 |**Feature** <br/> |**Microsoft 365 Business Basic oder Business Premium** <br/> |**Office 365 Enterprise E1, E3 oder E5 oder SharePoint-Plan 1 oder 2** <br/> | **Office 365 Enterprise F3** <br/> |
-|Gesamtspeicher pro Organisation<sup>1, 2, 6</sup> <br/> |1 TB plus 10 GB pro erworbener Lizenz  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |10 GB plus 2 GB pro Lizenz erworben<sup>3</sup> <br/> |
+|Gesamtspeicher pro Organisation<sup>1, 2, 6</sup> <br/> |1 TB plus 10 GB pro erworbener Lizenz  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Maximaler Speicherplatz pro Website (Websitesammlung)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Websites (Websitesammlungen) pro Organisation  <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<br/> |
 |Anzahl der Benutzer  <br/> |Bis zu 300  <br/> |1-500.000<sup>7</sup> <br/> |1-500.000<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ Der unterstützte Grenzwert ist 50.000, der empfohlene allgemeine Grenzwert laut
 
 ### <a name="file-size-and-file-path-length"></a>Dateigröße und Länge des Dateipfads
 
-15 GB. Die maximale Größe für an Listenelemente angefügte Dateien beträgt 250 MB. Weitere Informationen zu Einschränkungen und Beschränkungen bei der Verwendung der neuen OneDrive-Synchronisierungs-app (OneDrive.exe) finden Sie unter [ungültige Dateinamen und Dateitypen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+100 GB. Die maximale Größe für an Listenelemente angefügte Dateien beträgt 250 MB. Weitere Informationen zu Einschränkungen und Beschränkungen bei der Verwendung der neuen OneDrive-Synchronisierungs-app (OneDrive.exe) finden Sie unter [ungültige Dateinamen und Dateitypen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 ### <a name="moving-and-copying-across-sites"></a>Verschieben und Kopieren über Websites hinweg
 

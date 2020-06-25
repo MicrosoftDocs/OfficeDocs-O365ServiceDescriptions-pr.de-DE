@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845009"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873625"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -210,17 +210,21 @@ Benutzer profitieren davon, dass Sie Daten zu Aufbewahrungszwecken klassifiziere
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Office 365 E5/A5/E3/A3/E1/a1 bietet grundlegende Funktionen für die Informationssteuerung, um Aufbewahrungs Bezeichnungen ohne Aufzeichnung manuell anzuwenden, PST-Dateien zu importieren und e-Mails zu archivieren.
+Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 und eigenständige Exchange-Pläne bieten die Rechte für einen Benutzer, von der manuellen Anwendung von nicht-Daten Satz Aufbewahrungs Bezeichnungen auf Postfachdaten zu profitieren.
 
-Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/a3 bieten die Rechte für einen Benutzer, der von einer einzigen organisationsweiten oder standortweiten Aufbewahrungsrichtlinie und/oder manuellen Aufbewahrungs Bezeichnungen profitiert.
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 und eigenständige SharePoint-Pläne bieten die Rechte für einen Benutzer, von der manuellen Verwendung von nicht-Daten Satz Aufbewahrungs Bezeichnungen für Dateien in SharePoint oder OneDrive profitieren zu können. 
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365-Informationsschutz und-Steuerung Office 365 E5/a5 und Office 365 erweiterte Kompatibilität bieten die Rechte für einen Benutzer, von der automatischen Anwendung von Aufbewahrungs Bezeichnungen oder Richtlinien zu profitieren, beginnend mit dem Aufbewahrungszeitraum einer Aufbewahrungs Bezeichnung basierend auf einem benutzerdefinierten Ereignis, wobei eine manuelle Dispositions Überprüfung am Ende des Aufbewahrungszeitraums des Etiketts, das Importieren von drittanbieterdaten über systemeigene Daten Konnektoren, das Erkennen von
+Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3, Exchange-Plan 2 und Exchange Online Archivierung bieten die Rechte für einen Benutzer, von einer einzigen grundlegenden organisationsweiten oder standortweiten Aufbewahrungsrichtlinie für Postfächer zu profitieren und/oder eine nicht-Daten Satz-Aufbewahrungs Bezeichnung auf Postfachdaten manuell anzuwenden.
+
+Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/a3 und SharePoint Plan 2 bieten die Rechte für einen Benutzer, von einer grundlegenden SharePoint-oder OneDrive-Aufbewahrungsrichtlinie zu profitieren und/oder eine nicht-Daten Satz Aufbewahrungs Bezeichnung manuell auf Dateien in SharePoint oder OneDrive anzuwenden.
+
+Microsoft 365 E5/A5/E3/a3 und Office 365 E5/A5/E3/A3 stellen die Rechte für einen Benutzer zur Verfügung, um von einer Aufbewahrungsrichtlinie für Teams profitieren zu können.
+
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/a5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von der automatischen Verwendung von Aufbewahrungs Bezeichnungen oder Richtlinien profitieren zu können. das Anwenden von standardmäßigen Aufbewahrungs Bezeichnungen oder Richtlinien, das Starten des Aufbewahrungszeitraums einer Aufbewahrungs Bezeichnung basierend auf einem benutzerdefinierten Ereignis, das Auslösen einer manuellen Dispositions Überprüfung am Ende des Aufbewahrungszeitraums, das Importieren von drittanbieterdaten über systemeigene Daten Konnektoren, das Deklarieren einer Datei als Datensatz, das Erkennen von beschriftetem Inhalt und das Überwachen von Beschriftungs Aktivitäten
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs Bezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
 Spezifische Rechte nach Lizenz finden Sie im ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-Office 365 Advanced Compliance umfasst keine Rechte für die automatische Aufbewahrung basierend auf dem maschinellen lernen (lernbaren Klassifizierungen).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -390,9 +394,7 @@ Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informat
 | Szenario | Wer benötigt eine Lizenz? |
 |:-------|:------|
 | Zwei Gruppen (Gruppe 1 und Gruppe 2) können nicht miteinander kommunizieren (das heißt, die Benutzer von Gruppe 1 dürfen nicht mit Gruppen 2-Benutzern kommunizieren, und Gruppen 2-Benutzer sind von der Kommunikation mit Gruppen 1-Benutzern beschränkt. | Benutzer in Gruppe 1 und Gruppe 2 |
-| Benutzer in Gruppe 1 sind von der Kommunikation mit dem Rest des Unternehmens eingeschränkt. | Nur Benutzer in Gruppe 1 |
-| Der Rest des Unternehmens ist von der Kommunikation mit Gruppe 1 eingeschränkt. | Alle Benutzer mit Ausnahme der in Gruppe 1 |
-| Benutzer von Gruppe 1 sind von der Kommunikation mit Benutzern der Gruppe 2 eingeschränkt, Benutzer von Gruppe 2 können jedoch mit Gruppen 1-Benutzern kommunizieren. | Nur Benutzer in Gruppe 1 ||
+| Benutzer in Gruppe 1 sind von der Kommunikation mit dem Rest des Unternehmens eingeschränkt. | Nur Benutzer in Gruppe 1 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
