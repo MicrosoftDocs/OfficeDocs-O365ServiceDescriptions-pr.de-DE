@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873625"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909448"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -129,7 +129,7 @@ MCAS erkennt und beurteilt Shadow IT, bietet Schutz vor Bedrohungen für First-u
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Sicherheit und Microsoft 365 Information Protection and Governance stellen die Rechte für einen Benutzer zur Verfügung, um von MCAS zu profitieren.
+MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Sicherheit, Microsoft 365 E5/A5/G5-Compliance und Microsoft 365 Information Protection and Governance bieten die Rechte für einen Benutzer, von MCAS zu profitieren.
 
 Azure AD P1 stellt die Rechte für einen Benutzer zur Verfügung, um von den Ermittlungsfunktionen in MCAS zu profitieren.
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 und eigenständige Exchan
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 und eigenständige SharePoint-Pläne bieten die Rechte für einen Benutzer, von der manuellen Verwendung von nicht-Daten Satz Aufbewahrungs Bezeichnungen für Dateien in SharePoint oder OneDrive profitieren zu können. 
 
-Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3, Exchange-Plan 2 und Exchange Online Archivierung bieten die Rechte für einen Benutzer, von einer einzigen grundlegenden organisationsweiten oder standortweiten Aufbewahrungsrichtlinie für Postfächer zu profitieren und/oder eine nicht-Daten Satz-Aufbewahrungs Bezeichnung auf Postfachdaten manuell anzuwenden.
+Microsoft 365 E5/A5/E3/A3/Business Premium, Office 365 E5/A5/E3/A3, Exchange-Plan 2 und Exchange Online Archivierung bieten die Rechte für einen Benutzer, von einer grundlegenden organisationsweiten oder standortweiten Aufbewahrungsrichtlinie für Postfächer zu profitieren und/oder eine nicht-Daten Satz-Aufbewahrungs Bezeichnung auf Postfachdaten manuell anzuwenden.
 
 Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/a3 und SharePoint Plan 2 bieten die Rechte für einen Benutzer, von einer grundlegenden SharePoint-oder OneDrive-Aufbewahrungsrichtlinie zu profitieren und/oder eine nicht-Daten Satz Aufbewahrungs Bezeichnung manuell auf Dateien in SharePoint oder OneDrive anzuwenden.
 

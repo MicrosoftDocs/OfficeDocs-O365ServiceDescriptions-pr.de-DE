@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
-ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873615"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909438"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -49,7 +49,9 @@ Eine Liste kann bis zu 30 Millionen Elemente enthalten, und eine Bibliothek kann
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Eindeutige Berechtigungen für Elemente in einer Liste oder Bibliothek
 
-Der unterstützte Grenzwert ist 50.000, der empfohlene allgemeine Grenzwert lautet jedoch 5.000. Das vornehmen von Änderungen an mehr als 5.000 einmalig berechtigten Elementen gleichzeitig dauert länger. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
+Der unterstützte Grenzwert ist 50.000 eindeutig Berechtigungselemente, aber der empfohlene allgemeine Grenzwert ist 5.000. Das vornehmen von Änderungen an mehr als 5.000 einmalig berechtigten Elementen gleichzeitig dauert länger. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
+
+Ein weiterer Grenzwert ist 5.000 Rollenzuweisungen pro eindeutig Berechtigungselement. 
 
 ### <a name="file-size-and-file-path-length"></a>Dateigröße und Länge des Dateipfads
 
