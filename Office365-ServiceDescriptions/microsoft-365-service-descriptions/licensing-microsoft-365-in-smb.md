@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium ist das beste Angebot von Microsoft für kleine und mittelständische Geschäftskunden. Microsoft 365 Business Premium ist eine integrierte Lösung, die Microsoft 365-Produktivität, erweiterte Sicherheit und Geräteverwaltung vereint.
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213957"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988859"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
 
@@ -137,7 +137,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |   | Windows Defender Advanced Threat Protection | Nein | Nein | Nein | Ja |
 |   | Office 365 Threat Intelligence | Nein | Nein  | Nein | Ja |
 |**Identitätsverwaltung** | Self-Service-Kennwortzurücksetzung für hybride Azure-Active Directory Konten, Azure MFA, bedingter Zugriff   | Nein | Ja | Ja | Ja |
-|   | Azure AD: Cloud-App-Ermittlung, Azure AD Connect-Zustand, SSO für mehr als 10 apps | Nein | Nein | Ja | Ja |
+|   | Azure AD: Cloud-App-Ermittlung, Azure AD Connect-Zustand, SSO für mehr als 10 apps | Ja | Ja | Ja | Ja |
 |   | Azure Active Directory-Plan 2 | Nein | Nein | Nein | Ja |
 |**Geräte &-App-Verwaltung** | Microsoft InTune, Windows Autopilot | Nein | Ja | Ja | Ja |
 |   | Freigegebene Computeraktivierung, virtueller Windows-Desktop | Nein | Ja | Ja | Ja |

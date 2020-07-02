@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909448"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988869"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -497,7 +497,7 @@ Bedingter Zugriff ist das Tool, das von Azure Active Directory verwendet wird, u
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
-Lizenzierte Benutzer von Enterprise Mobility + Security E3/A3, Microsoft 365 F3/E3/a3 und Azure Active Directory Premium-Plan 1 können von bedingten Zugriffsrichtlinien profitieren. Lizenzierte Benutzer von Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security und Azure Active Directory Premium-Plan 2 können vom Identitätsschutz (risikobasierte Richtlinien für bedingten Zugriff) profitieren.
+Lizenzierte Benutzer von Enterprise Mobility + Security E3/A3, Microsoft 365 F3/E3/A3/Business Premium und Azure Active Directory Premium-Plan 1 können von bedingten Zugriffsrichtlinien profitieren. Lizenzierte Benutzer von Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security und Azure Active Directory Premium-Plan 2 können vom Identitätsschutz (risikobasierte Richtlinien für bedingten Zugriff) profitieren.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
