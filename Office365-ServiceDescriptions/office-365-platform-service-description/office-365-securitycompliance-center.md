@@ -10,19 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711115"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043037"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
 Das [Security &amp; Compliance Center](https://protection.office.com/) unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
   
 > [!NOTE]
-> Derzeit sind viele der Compliancefeatures noch über dienstspezifische Verwaltungsschnittstellen erreichbar, z. B. das Exchange Admin Center (EAC). Dies wird jedoch künftig geändert, wenn weitere dienstunabhängige Compliancefeatures zum Security &amp; Compliance Center hinzugefügt werden.
+> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
 Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Microsoft 365-Kompatibilitätsfunktionen ab dem 1. April 2020 profitieren, laden Sie den detaillierten Vergleich der Microsoft 365-Kompatibilitäts Lizenzierung herunter. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
@@ -50,6 +49,7 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 |[eDiscovery-Export](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Nein   |Nein   |Nein   |Nein   |Ja   |Ja   |Nein   |
 |[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Archivierung](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |Ja<sup>3</sup>  |Ja<sup>3</sup>  |Ja<sup>3</sup>   |Ja<sup>3</sup>  |Ja<sup>4</sup>  |Ja<sup>4</sup>  |Nein   |
+|[Warnungsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |Ja   |Ja   |Ja|Ja   |Ja   |Ja   |Ja   |
 |[Grundlegende Überwachung](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Ja   |Ja   |Ja|Ja   |Ja   |Ja   |Ja   |
 |[Erweiterte Überwachung](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Kommunikation Compliance (Aufsichtsrichtlinien)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
