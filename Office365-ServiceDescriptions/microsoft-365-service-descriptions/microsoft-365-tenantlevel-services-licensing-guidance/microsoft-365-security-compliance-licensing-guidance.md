@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988869"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089656"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -119,7 +119,7 @@ Informationen zum Konfigurieren des Diensts finden Sie unter [Basic Setup for Cl
 
 Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie auf bestimmte apps zugegriffen wird, und um Benutzergruppen zu begrenzen, die von Office 365 Cloud-App-Sicherheit überwacht werden. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App-Sicherheit
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet und Ihnen die Steuerung der Datenübertragung &mdash; über eine Cloud-App ermöglicht.
 
@@ -393,8 +393,7 @@ Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informat
 
 | Szenario | Wer benötigt eine Lizenz? |
 |:-------|:------|
-| Zwei Gruppen (Gruppe 1 und Gruppe 2) können nicht miteinander kommunizieren (das heißt, die Benutzer von Gruppe 1 dürfen nicht mit Gruppen 2-Benutzern kommunizieren, und Gruppen 2-Benutzer sind von der Kommunikation mit Gruppen 1-Benutzern beschränkt. | Benutzer in Gruppe 1 und Gruppe 2 |
-| Benutzer in Gruppe 1 sind von der Kommunikation mit dem Rest des Unternehmens eingeschränkt. | Nur Benutzer in Gruppe 1 ||
+| Zwei Gruppen (Gruppe 1 und Gruppe 2) können nicht miteinander kommunizieren (das heißt, die Benutzer von Gruppe 1 dürfen nicht mit Gruppen 2-Benutzern kommunizieren, und Gruppen 2-Benutzer sind von der Kommunikation mit Gruppen 1-Benutzern beschränkt. | Benutzer in Gruppe 1 und Gruppe 2 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
@@ -491,7 +490,7 @@ Richtlinien für das Insider Risiko Management müssen im Microsoft 365 Complian
 
 Wählen Sie beim Erstellen einer Richtlinie im Microsoft 365 Compliance Center auf der Seite **Benutzer und Gruppen** auswählen die Option **Benutzer oder Gruppen** auswählen aus, um nur lizenzierte Benutzer auszuwählen, oder, wenn alle Ihre Benutzer lizenziert sind, können Sie das Kontrollkästchen **alle Benutzer und e-Mail-aktivierte Gruppen** aktivieren. Weitere Informationen finden Sie unter [Erste Schritte mit dem Insider Risikomanagement](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure).
 
-## <a name="conditional-access-policies"></a>Richtlinien für bedingten Zugriff
+## <a name="conditional-access-policies"></a>Zugangsberechtigungsrichtlinien
 
 Bedingter Zugriff ist das Tool, das von Azure Active Directory verwendet wird, um Signale zusammenzuführen, Entscheidungen zu treffen und Organisationsrichtlinien durchzusetzen. Der bedingte Zugriff steht im Mittelpunkt der Identitäts gesteuerten Steuerungsebene. Richtlinien für den bedingten Zugriff am einfachsten sind If-Then-Anweisungen. Wenn ein Benutzer auf eine Ressource zugreifen möchte, muss er eine Aktion abschließen. Beispiel: ein Abrechnungs Manager möchte auf die Lohn-und Gehaltsabrechnung zugreifen und muss mehrstufige Authentifizierung für den Zugriff auf die Anwendung ausführen.
 

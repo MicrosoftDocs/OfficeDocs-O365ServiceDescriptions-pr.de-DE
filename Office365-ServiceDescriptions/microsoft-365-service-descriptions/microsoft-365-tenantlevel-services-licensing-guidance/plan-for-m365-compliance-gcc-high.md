@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – gcc High angemessen ist. um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – gcc High geeignet ist, um diese Anforderungen zu erfüllen.
+ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262828"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089636"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan for Microsoft 365 Compliance – gcc High
 
-Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – gcc High angemessen ist. um diese Anforderungen zu erfüllen.
+Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – gcc High geeignet ist, um diese Anforderungen zu erfüllen.
 
 > [!NOTE]
 >Wenn Ihre Organisation bereits die hohen Zulassungsvoraussetzungen für Microsoft 365 Government – gcc erfüllt und in das Programm übernommen und akzeptiert wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
  
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>Schritt 1: Ermitteln, ob Ihre Organisation Microsoft 365 Government – gcc High benötigt und erfüllt die Zulassungsvoraussetzungen
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>Schritt 1. Ermitteln, ob Ihre Organisation Microsoft 365 Government – gcc High benötigt und erfüllt die Zulassungsvoraussetzungen
 
 Die Microsoft 365 Government-gcc High Environment erfüllt die US-behördlichen Anforderungen für Cloud-Dienste. Neben den Features und Funktionen von Office 365 profitieren Organisationen von den folgenden Features, die für Microsoft 365 Government – gcc High einzigartig sind:
 
@@ -37,7 +37,7 @@ Weitere Informationen zum Microsoft 365 Government – gcc High-Angebot für US-
 Die [Office 365 US Government Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) beschreibt die Vorteile der Plattform, die sich auf die Erfüllung der Compliance-Anforderungen in den Vereinigten Staaten konzentrieren.
 
 > [!TIP]
-> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n** und **den Anforderungen meiner Organisation y/n entsprechen**. Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
+> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n**   und **den Anforderungen meiner Organisation y/n entsprechen**. Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
 
 **Entscheidungspunkte**:<br/>
 - *Entscheiden Sie, ob Microsoft 365 Government – gcc-High für Ihre Organisation geeignet ist.*
@@ -50,7 +50,7 @@ Die [Office 365 US Government Service Description](https://docs.microsoft.com/of
 
 Nachdem Sie entschieden haben, dass dieser Dienst für Ihre Organisation geeignet ist, starten Sie den Prozess der [Beantragung dieses Diensts](https://products.office.com/government/eligibility-validation).
  
-## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>SCHRITT 3: Grundlegendes zu Microsoft 365 Government – gcc – hohe Standardsicherheitseinstellungen
+## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>Schritt 3: Grundlegendes zu Microsoft 365 Government – gcc – hohe Standardsicherheitseinstellungen
 
 Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherheitseinstellungen sorgfältig zu überprüfen, bevor Sie Sie ändern und die Auswirkungen auf die Kompatibilität berücksichtigen, bevor Sie Änderungen an den Standardsicherheitseinstellungen vornehmen.
 
@@ -62,7 +62,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 
 |                                         | Feature                                         | Hoher gcc-Status        |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
-| **Informationsschutz #a0 Steuerung** | Archivierung                                       | Available              |
+| **Informationsschutz & Steuerung** | Archivierung                                       | Available              |
 |                                         | Manuelle Bezeichnungen und Richtlinien<sup>2</sup>          | Available              |
 |                                         | Automatische Anwendung von Beschriftungen                      | Im Entwicklungsrückstand |
 |                                         | Bezeichnungen basierend auf vertraulichen Datentypen            | Im Entwicklungsrückstand |
@@ -77,15 +77,15 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen    | Im Entwicklungsrückstand |
 |                                         | Exakte DLP-Datenübereinstimmung                            | Im Entwicklungsrückstand |
 |                                         | Bezeichnungsaktivitäten-Explorer                         | Im Entwicklungsrückstand |
-|                                         | Schulungs Klassifizierer                           | Im Entwicklungsrückstand |
+|                                         | Trainierbare Klassifizierungsmerkmale                           | Im Entwicklungsrückstand |
 |                                         | Einheitliche Beschriftungs-und Vertraulichkeits Bezeichnungen         | Im Entwicklungsrückstand |
-| **Insider Risikomanagement**             | Erweiterte Nachrichtenverschlüsselung                     | Available              |
-|                                         | Insider Risiko Management                         | Im Entwicklungsrückstand |
+| **Insider-Risikomanagement**             | Erweiterte Nachrichtenverschlüsselung                     | Available              |
+|                                         | Insider-Risikomanagement                         | Im Entwicklungsrückstand |
 |                                         | Kommunikationscompliance                        | Im Entwicklungsrückstand |
 |                                         | Kunden-Lockbox                                | Available              |
 |                                         | Kundenschlüssel                                    | Available              |
-|                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
-| **Antworten auf #a0 ermitteln**                  | In-Place-Reservierung                            | Available              |
+|                                         | Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
+| **Antworten auf & ermitteln**                  | In-Place-Reservierung                            | Available              |
 |                                         | Fallverwaltung                                 | Available              |
 |                                         | Suche                                          | Available              |
 |                                         | Exportieren                                          | Available              |
@@ -107,6 +107,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Überprüfen und kommentieren                             | Im Entwicklungsrückstand |
 |                                         | Nicht Office 365E Einnahme                        | Im Entwicklungsrückstand |
 |                                         | Suchausdrucks Bericht                              | Im Entwicklungsrückstand |
+| **Verwaltung der Richtlinientreue**               | Compliance-Bewertung                                | Im Entwicklungsrückstand |
 
 <sup>1</sup> der Status "identifiziert" kann geändert werden, wenn Projektpläne und Prioritäten neu ausgewertet werden.<br/>
 <sup>2</sup> die manuelle Anwendung von Bezeichnungen erfordert den [Azure Information Protection (AIP)-Client, Version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history). 
