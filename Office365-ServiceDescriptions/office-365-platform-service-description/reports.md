@@ -1,8 +1,7 @@
 ---
 title: Berichte
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Administratoren von Microsoft können Berichte anzeigen, in denen gezeigt wird, wie Ihre Organisation Microsoft-Dienste verwendet. Mithilfe dieser Berichte können Sie Probleme identifizieren, Daten filtern und Daten in Microsoft Excel herunterladen. Sie können auch eigene Berichte mithilfe der Microsoft 365-Berichterstellungsdienste erstellen. Administratoren von Exchange Online und Exchange Online Protection (EoP) können e-Mail-Schutz Berichte verwenden, um Daten über Schadsoftware, Spam und Regel Erkennungen anzuzeigen.
-ms.openlocfilehash: 4b2ca6916cf0f47c1eb973480e5eb2752d22d7fe
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: e013a38446af676534043529ad285b7042c6ee34
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001962"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131849"
 ---
 # <a name="reports"></a>Berichte
 

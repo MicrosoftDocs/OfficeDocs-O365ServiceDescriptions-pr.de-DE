@@ -1,8 +1,7 @@
 ---
-title: Support Features in "jammern"
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+title: Supportfunktionen in Yammer
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,25 +11,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Die folgenden Unterstützungsfunktionen stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726479"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131999"
 ---
-# <a name="support-features-in-yammer"></a>Support Features in "jammern"
+# <a name="support-features-in-yammer"></a>Supportfunktionen in Yammer
 
 Die folgenden Unterstützungsfunktionen stehen in "jammern" zur Verfügung.
   
 > [!IMPORTANT]
-> "Jammern" unterstützt die Rückgewinnung&mdash;gelöschter Inhalte wie externe Netzwerke, Benutzer, Nachrichten, Gruppen&mdash;und Dateien nicht, einschließlich der versehentlich von Netzwerkadministratoren gelöschten Inhalte.
+> "Jammern" unterstützt die Rückgewinnung gelöschter Inhalte &mdash; wie externe Netzwerke, Benutzer, Nachrichten, Gruppen und Dateien nicht, &mdash; einschließlich der versehentlich von Netzwerkadministratoren gelöschten Inhalte.
 >
 > Microsoft stellt keine benutzerdefinierten oder Ad-hoc-Berichte außerhalb der in "jammern" verfügbaren Analysefunktionen bereit. Gelegentlich kann Microsoft im Rahmen einer Supportanforderung einen benutzerdefinierten Bericht bereitstellen, aber in den meisten Fällen können Sie keine direkten Anforderungen für die Daten erfüllen.
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer Enterprise-Administratoren sind für die Kontowartung zuständig und sind autorisiert, direkt mit dem Microsoft Support-Team zu kommunizieren. Wenn Sie ein Yammer Enterprise-Administrator sind und nach Support suchen, besuchen Sie [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>Kundensupport
 
@@ -42,7 +41,7 @@ Der Microsoft Schnellzugriff-Dienst kann Ihre Organisation beim Wechsel zur Micr
 
 ## <a name="support-features-across-yammer-plans"></a>Supportfunktionen in Yammer-Plänen
 
-Benötigen Sie Unterstützung, um herauszufinden, welcher Yammer-Plan am besten die Anforderungen Ihres Unternehmens erfüllt? Anhand der folgenden Tabelle erfahren Sie, welche Supportfunktionen in den verschiedenen Plänen zur Verfügung stehen.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
   
 |**Funktion**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -52,7 +51,7 @@ Benötigen Sie Unterstützung, um herauszufinden, welcher Yammer-Plan am besten 
  
 ## <a name="technical-support-case-handling"></a>Fallbearbeitung durch technischen Support
 
-Microsoft Support weist einem Fall, sobald er geöffnet wird, auf Grundlage der Art des Problems und dessen Folgen für den Kunden einen Schweregrad zu. Beispiele für Arten von Problemen und Schweregrade sind in folgender Tabelle aufgeführt. 
+Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
   
 |**Schweregrad**|**Beschreibung**|**Beispiele**|
 |:-----|:-----|:-----|
@@ -62,7 +61,7 @@ Microsoft Support weist einem Fall, sobald er geöffnet wird, auf Grundlage der 
 
 ## <a name="technical-support-initial-response-times"></a>Erste Antwort durch technischen Support
 
-Die Zeiten für die erste Antwort basieren auf dem oben beschriebenen Schweregrad und der Art des Yammer-Abonnements. Die anvisierten Antwortzeiten sind in der folgenden Tabelle angegeben.
+Initial response times are based on the severity levels described above and the type of Yammer subscription. The target response times are shown in the following table.
   
 |**Schweregrad**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

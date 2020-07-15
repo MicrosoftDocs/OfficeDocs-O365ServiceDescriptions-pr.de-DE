@@ -1,20 +1,19 @@
 ---
 title: Exchange Online für Umgebungen in der US-Regierung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der US Government-Cloud und der kommerziellen Cloud, wie in der Exchange Online-Dienstbeschreibung aufgeführt.
-ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213697"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131929"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online für Umgebungen in der US-Regierung
 
@@ -117,7 +116,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Outlook für Mac|Ja|Ja|Ja|Um die Anforderungen an gcc High and DoD Compliance erfüllen zu können, müssen Sie mindestens Version 1803 von Office 365 ProPlus betreiben. Office 365 ProPlus ist nicht mit G1 oder F3 enthalten.|
 |Outlook für iOS und Android|Ja|Ja|Ja||
 |Exchange ActiveSync|Ja|Ja|Ja||
-|Verwaltung mobiler Geräte in Office 365|Ja|Ja|Ja||
+|Grundlegende Mobilität und Sicherheit für Microsoft 365|Ja|Ja|Ja||
 |POP und IMAP|Ja|Ja|Ja||
 |SMTP|Ja|Ja|Ja||
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja||

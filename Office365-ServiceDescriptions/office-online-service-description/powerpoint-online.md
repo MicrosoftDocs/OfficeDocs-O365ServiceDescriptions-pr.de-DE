@@ -1,8 +1,7 @@
 ---
 title: PowerPoint für das Web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint für das Web (ehemals PowerPoint Web App) erweitert Ihre Microsoft PowerPoint Erfahrung auf den Webbrowser, wo Sie mit Präsentationen direkt auf der Website arbeiten können, auf der die Präsentation gespeichert ist. Microsoft 365 Kunden mit Office für das Internet können unterwegs Dateien anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640283"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131319"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint für das Web
 
@@ -89,7 +88,7 @@ PowerPoint für das Internet ermöglicht das Anwenden von Fett, kursiv, unterstr
   
 ## <a name="full-fidelity-reading-view"></a>Originalgetreue Leseansicht
 
-Zeigen Sie Präsentationen so an, wie Sie mit&mdash;Animationen, Übergängen und Audio/Video angezeigt werden sollen.
+Zeigen Sie Präsentationen so an, wie Sie mit &mdash; Animationen, Übergängen und Audio/Video angezeigt werden sollen.
   
 ## <a name="full-ink-support"></a>Full ink support
 
@@ -125,7 +124,7 @@ PowerPoint für das Web wird von einem Webbrowser aus gestartet und basiert auf 
   
 ## <a name="picture-cropping"></a>Bildzuschnitt
 
-Verbessern Sie mit dem Tool für die Fotozuschneidung den Rahmen eines Motivs des Bilds. Klicken Sie dazu einfach auf die Zuschneideziehpunkte am Rand des Bilds, und ziehen Sie diese, bis das gewünschte Ergebnis erzielt ist.
+Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
   
 ## <a name="pictures"></a>Bilder
 
@@ -173,7 +172,7 @@ Word-Grafiken und Diagramme können nicht in PowerPoint für das Internet eingef
   
 ## <a name="share"></a>Freigeben
 
-Wenn Ihre Präsentation in einer SharePoint-Dokumentbibliothek gespeichert ist, ist Ihre Präsentation online, und Sie können sie freigeben, indem Sie den betreffenden Personen statt einer E-Mail-Anlage einen Link zu der Präsentation senden. Personen mit den erforderlichen Berechtigungen können die Präsentation in ihrem Webbrowser oder auf ihrem mobilen Gerät anzeigen. Erfahren Sie mehr über das [Freigeben einer Präsentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>Slide show
 

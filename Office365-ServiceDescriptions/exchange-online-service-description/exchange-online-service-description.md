@@ -1,8 +1,7 @@
 ---
 title: Exchange Online-Dienstbeschreibung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Feature-Vergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845019"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131549"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -145,7 +144,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Outlook für Mac<sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja| Nein|
 |Outlook für iOS und Android<sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Exchange ActiveSync|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Verwaltung mobiler Geräte in Office 365|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
+|Grundlegende Mobilität und Sicherheit für Microsoft 365|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |POP und IMAP|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>12</sup>|
 |SMTP|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|

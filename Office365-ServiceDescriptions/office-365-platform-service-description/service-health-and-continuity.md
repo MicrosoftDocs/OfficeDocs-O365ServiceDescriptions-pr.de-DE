@@ -1,8 +1,7 @@
 ---
 title: Service health and continuity
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft-Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen sind jederzeit verfügbar, wenn Sie sich anmelden.
-ms.openlocfilehash: 7f4f83acdc2a6016f2bd54c98ccf05b2ccb144af
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044957"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131799"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -32,7 +31,7 @@ Im Abschnitt Dienst Integrität wird der aktuelle Status des Diensts sowie Detai
   
 ## <a name="service-incidents"></a>Dienstincidents
 
-Ein Dienstincident (auch als Servicevorfall bezeichnet) ist ein Ereignis, das die Bereitstellung eines Diensts beeinträchtigt. Dienstincidents können durch Hardware- oder Softwarefehler im Microsoft-Rechenzentrum, eine fehlerhafte Netzwerkverbindung zwischen dem Kunden und Microsoft oder ein größeres Problem im Rechenzentrum wie Feuer, Überschwemmung oder eine regionale Naturkatastrophe verursacht werden. Die meisten Dienstincidents können mit Technologie- und Prozesslösungen von Microsoft behandelt werden, und sie werden in kurzer Zeit gelöst. Einige Dienstincidents sind jedoch schwerwiegender und können zu längeren Ausfällen führen.
+A service incident is an event that affects the delivery of a service. Service incidents may be caused by hardware or software failure in the Microsoft data center, a faulty network connection between the customer and Microsoft, or a major data center challenge such as fire, flood, or regional catastrophe. Most service incidents can be addressed using Microsoft technology and process solutions and are resolved within a short time. However, some service incidents are more serious and can lead to longer term outages.
   
 Es gibt zwei Arten von Benachrichtigungen über Zeiten, zu denen Dienste möglicherweise nicht zur Verfügung stehen:
   
@@ -104,7 +103,7 @@ Zur Verpflichtung von Microsoft für eine kontinuierliche Verbesserung gehört d
   
 Ungeplante Dienstincidents sind als Dienstunterbrechungen mehrerer Mandanten definiert, die sich auf die Dienstverwendung, wie durch unsere Dienst-SLAs definiert, auswirken und vom Service Health Dashboard als solche deklariert wurden.
   
- Bei ungeplanten Dienstincidents, die sich auf Kunden auswirken und zu einer merkbaren Beeinträchtigung über eine große Anzahl von Organisationen hinweg führten, wird eine vorläufige Vorfallnachsorgeüberprüfung (PIR, Post-Incident Review) innerhalb von 48 Stunden nach Lösung des Incidents über Ihr Dienststatus-Dashboard bereitgestellt, gefolgt von einer endgültigen PIR innerhalb von fünf Geschäftstagen. Der ausführliche PIR-Bericht enthält Folgendes: 
+ For unplanned customer-impacting service incidents in which there was broad and noticeable impact across a large number of organizations, a preliminary Post-Incident Review (PIR) will be delivered via your Service Health Dashboard within 48 hours of incident resolution, followed by a final PIR within five business days. The detailed PIR report includes: 
   
 - Benutzererfahrung und Kundenauswirkungen
     
@@ -114,7 +113,7 @@ Ungeplante Dienstincidents sind als Dienstunterbrechungen mehrerer Mandanten def
     
 - Ursachenanalyse und Maßnahmen zur kontinuierlichen Verbesserung
     
-Bei allen anderen Dienstincidents stellt das Service Health Dashboard eine Zusammenfassung der Incidentlösung einschließlich einer entgültigen Zusammenfassung des Ereignisses, einer vorläufigen Ursache, Anfangs- und Enzeiten sowie detaillierte Informationen zu den nächsten Schritten bereit. Für diese Kategorie von Dienstincidents wird keine PIR generiert. 
+For all other service incidents, the Service Health Dashboard will provide an incident closure summary including a final summary of the event, preliminary root cause, start and end times, and information detailing next steps. For this category of service incident, a PIR will not be generated. 
   
 ## <a name="service-continuity"></a>Dienstverfügbarkeit
 
@@ -126,7 +125,7 @@ Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gew
 
 Mit den folgenden Features stellt Microsoft sicher, dass Kundendaten immer zur Verfügung stehen, wenn sie benötigt werden:
   
-- **Datenspeicherung und -redundanz:** Die Daten der Kunden werden in einer redundanten Umgebung mit zuverlässigen Datenschutzfunktionen gespeichert, um Verfügbarkeit, Geschäftskontinuität und schnelle Wiederherstellung zu ermöglichen. Mehrere Ebenen von Datenredundanz sind implementiert. Sie reichen von redundanten Datenträgern zum Schutz vor lokalen Datenträgerfehlern über die fortlaufende Replikation bis zu geografisch verteilten Rechenzentren. 
+- **Data storage and redundancy:** Customer data is stored in a redundant environment with robust data protection capabilities to enable availability, business continuity, and rapid recovery. Multiple levels of data redundancy are implemented, ranging from redundant disks to guard against local disk failure to continuous, full data replication to a geographically diverse data center. 
     
 - **Datenüberwachung:** Microsoft-Dienste halten eine hohe Leistung durch: 
     
@@ -146,13 +145,13 @@ Mit den folgenden Features stellt Microsoft sicher, dass Kundendaten immer zur V
 
 Die Microsoft-Entwicklungs-und Betriebsteams werden durch eine dedizierte Support Organisation ergänzt, die eine wichtige Rolle bei der Bereitstellung von Geschäftskontinuität für Kunden spielt. Das Support Team verfügt über umfassende Kenntnisse des Diensts und der dazugehörigen Anwendungen sowie des direkten Zugriffs auf Microsoft-Experten in Architektur, Entwicklung und Tests.
   
-Die Supportorganisation ist eng am Betrieb und der Produktentwicklung ausgerichtet, bietet Lösungen in kurzer Zeit und ermöglicht es den Kunden, ihre Meinung zu sagen. Feedback von Kunden leistet Beiträge zu Planungs-, Entwicklungs- und Betriebsprozessen.
+The support organization closely aligns with operations and product development, offers fast resolution times and provides a channel for customers' voices to be heard. Feedback from customers provides input to the planning, development, and operations processes.
   
 - **Onlineverfolgung von Problemen:** Die Kunden müssen wissen, dass ihre Probleme behandelt werden, und sie müssen in der Lage sein, zeitnah die Lösung zu verfolgen. Das Microsoft 365 padmin Center Ortal bietet eine einzelne webbasierte Schnittstelle für Unterstützung. Die Kunden können über das Portal Dienstanforderungen hinzufügen und überwachen und Feedback von Microsoft-Supportteams erhalten. 
     
 - **Selbsthilfe, unterstützt durch kontinuierliche Mitarbeiter Unterstützung:** Microsoft bietet eine breite Palette von Ressourcen und Tools zur Selbsthilfe, mit denen kundendienstbezogene Probleme lösen können, ohne dass Microsoft-Support erforderlich ist. 
     
-Bevor Kunden Dienstanforderungen eingeben, können Sie auf Artikel der Knowledge Base und häufig gestellte Fragen zugreifen, die Hilfe bei den am häufigsten auftretenden Problemen bieten. Diese Ressourcen werden ständig mit aktuellen Informationen aktualisiert, sodass Verzögerungen bei Lösungen für bekannte Probleme vermieden werden. Wenn jedoch ein Problem auftritt, bei dem die Hilfe eines Supportmitarbeiters erforderlich ist, stehen entsprechende Mitarbeiter täglich rund um die Uhr für eine unmittelbare Unterstützung per Telefon und über das Verwaltungsportal zur Verfügung.
+Before customers enter service requests, they can access knowledge base articles and FAQs that provide immediate help with the most common problems. These resources are continually updated with the latest information, which helps avoid delays by providing solutions to known issues. However, when an issue arises that needs the help of a support professional; staff members are available for immediate assistance by telephone and through the administration portal 24 hours a day, 7 days a week.
   
 Weitere Informationen zum Support finden Sie unter [Unterstützung](support.md). 
   

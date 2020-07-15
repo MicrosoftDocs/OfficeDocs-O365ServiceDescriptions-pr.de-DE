@@ -1,8 +1,7 @@
 ---
 title: Exchange Online-Begrenzungen
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 8dec4101dae6af37e4001481d6651fac959b60c6
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 5586505bc7d4269fefa2d8c96d626ffc872afeea
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213867"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132989"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -92,7 +91,7 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
 
 ## <a name="mailbox-storage-limits"></a>Speicherbegrenzungen für Postfächer
 
-Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und Abonnementlizenz des Benutzers. Administratoren können die maximale Postfachgröße pro Benutzer oder global reduzieren.
+The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
 
 > [!NOTE]
 > Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, eine unbegrenzte Archivierung in Fällen zu verweigern, in denen das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer oder in anderen Fällen ungeeigneter Verwendung verwendet wird.
@@ -126,7 +125,7 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
 |Gruppenpostfächer|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> Dies ist die standardmäßige Postfachgröße für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. Es gibt keine obere Speicherbegrenzung für lokale Postfächer. <br/> <sup>2</sup> Jeder Benutzer erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Ausführliche Informationen zur Verfügbarkeit der automatisch wachsenden Archivierung finden Sie in der [Microsoft 365-Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914) . <br/> <sup>3</sup> für den Zugriff auf ein freigegebenes Postfach benötigt ein Benutzer eine Exchange Online Lizenz, aber das freigegebene Postfach erfordert keine separate Lizenz. Ohne Lizenz sind freigegebene Postfächer auf 50 GB eingeschränkt. Um die Größenbeschränkung auf 100 GB zu vergrößern, muss dem freigegebenen Postfach eine Exchange Online Plan 2-Lizenz oder eine Exchange Online Plan 1-Lizenz mit einer Exchange Online-Add-on-Lizenz für die Archivierung zugewiesen werden. Auf diese Weise können Sie auch die automatisch expandierende Archivierung für eine unbegrenzte Menge an Speicherkapazität des Archivs aktivieren. Wenn Sie ein freigegebenes Postfach für das Beweissicherungsverfahren freigeben möchten, muss das freigegebene Postfach über eine Exchange Online Plan 2-Lizenz oder eine Exchange Online Plan 1-Lizenz mit einer Exchange Online-Add-on-Lizenz für die Archivierung verfügen. Wenn Sie erweiterte Funktionen wie Office 365 Advanced Threat Protection, Advanced eDiscovery oder Automatic Retention Policies anwenden möchten, muss das freigegebene Postfach für diese Features lizenziert sein. <br/> <sup>4</sup> Für Ressourcenpostfächer ist keine Lizenz erforderlich. Ressourcenpostfächer sind jedoch ohne eine Lizenz auf 50 GB eingeschränkt. Um die Postfachgröße zu erhöhen, muss eine Exchange Online Plan 2-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. <br/> <sup>5</sup> Archivpostfächer sind im Exchange Online-Kiosk nicht enthalten. Sie können jedoch als Add-On über Exchange Online-Archivierung erworben werden. Weitere Informationen finden Sie in der [Beschreibung des Exchange Online Archivierungsdiensts](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>6</sup> Dies ist die standardmäßige Postfachgröße für Microsoft Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. In Exchange Server 2013 können Sie maximal 100 Postfächer für öffentliche Ordner nutzen, und die Gesamtgröße aller Postfächer für öffentliche Ordner ist auf 50 TB begrenzt. <br/> <sup>7</sup> In Exchange Online können Sie maximal 1.000 Postfächer für öffentliche Ordner nutzen, und die Gesamtgröße aller Postfächer für öffentliche Ordner ist auf 50 TB begrenzt.  <br/> <sup>8</sup> In Archivpostfächern können lediglich Mails für einen einzelnen Benutzer oder eine einzelne Entität archiviert werden, für die eine Lizenz angewendet wurde. Ein Archivpostfach darf nicht zum Speichern von Mails von mehreren Benutzern oder Entitäten verwendet werden. IT-Administratoren ist beispielsweise nicht berechtigt, ein freigegebenes Postfach zu erstellen und die Benutzer anzuweisen, dieses freigegebene Postfach zum expliziten Zweck der Archivierung in E-Mails zu adressieren (auf CC oder BCC bzw. über eine Transportregel). <br/> <sup>9</sup> Wenn Sie in Exchange Online eine Aufbewahrungsrichtlinie festgelegt haben, werden Nachrichten automatisch in das Archivpostfach des Benutzers verschoben, sofern sein primäres Postfach größer als 10 MB ist. Die Aufbewahrungsrichtlinie für Postfächer kleiner 10 MB nicht automatisch ausgeführt. <br/> <sup>10</sup> freigegebene und Ressourcenpostfächer benötigen keine Lizenz. Ohne eine Lizenz sind diese Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu erhöhen, muss eine Exchange Online Plan 2-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. <br/> <sup>11</sup> Standardmäßig verfügen freigegebene Postfächerüber ein zugeordnetes aktives Benutzerkonto mit einem vom System generierten (unbekannten) Kennwort. Informationen zum Blockieren der Anmeldung für das zugeordnete freigegebene Postfachkonto finden Sie unter [Blockieren der Anmeldung für das freigegebene Postfachkonto](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
+> <sup>1</sup> Dies ist die standardmäßige Postfachgröße für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. Es gibt keine obere Speicherbegrenzung für lokale Postfächer. <br/> <sup>2</sup> Jeder Benutzer erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Ausführliche Informationen zur Verfügbarkeit der automatisch wachsenden Archivierung finden Sie in der [Microsoft 365-Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914) . <br/> <sup>3</sup> für den Zugriff auf ein freigegebenes Postfach benötigt ein Benutzer eine Exchange Online Lizenz, aber das freigegebene Postfach erfordert keine separate Lizenz. Ohne Lizenz sind freigegebene Postfächer auf 50 GB eingeschränkt. Um die Größenbeschränkung auf 100 GB zu vergrößern, muss dem freigegebenen Postfach eine Exchange Online Plan 2-Lizenz oder eine Exchange Online Plan 1-Lizenz mit einer Exchange Online-Add-on-Lizenz für die Archivierung zugewiesen werden. Auf diese Weise können Sie auch die automatisch expandierende Archivierung für eine unbegrenzte Menge an Speicherkapazität des Archivs aktivieren. Wenn Sie ein freigegebenes Postfach für das Beweissicherungsverfahren freigeben möchten, muss das freigegebene Postfach über eine Exchange Online Plan 2-Lizenz oder eine Exchange Online Plan 1-Lizenz mit einer Exchange Online-Add-on-Lizenz für die Archivierung verfügen. Wenn Sie erweiterte Funktionen wie Office 365 Advanced Threat Protection, Advanced eDiscovery oder Automatic Retention Policies anwenden möchten, muss das freigegebene Postfach für diese Features lizenziert sein. <br/> <sup>4</sup> Für Ressourcenpostfächer ist keine Lizenz erforderlich. Ressourcenpostfächer sind jedoch ohne eine Lizenz auf 50 GB eingeschränkt. Um die Postfachgröße zu erhöhen, muss eine Exchange Online Plan 2-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. <br/> <sup>5</sup> Archivpostfächer sind im Exchange Online-Kiosk nicht enthalten. Sie können jedoch als Add-On über Exchange Online-Archivierung erworben werden. Weitere Informationen finden Sie in der [Beschreibung des Exchange Online Archivierungsdiensts](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>6</sup> Dies ist die standardmäßige Postfachgröße für Microsoft Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. In Exchange Server 2013 können Sie maximal 100 Postfächer für öffentliche Ordner nutzen, und die Gesamtgröße aller Postfächer für öffentliche Ordner ist auf 50 TB begrenzt. <br/> <sup>7</sup> In Exchange Online, you are limited to 1,000 public folder mailboxes, and the maximum total size of all public folder mailboxes is 50 TB. <br/> <sup>8</sup> In Archivpostfächern können lediglich Mails für einen einzelnen Benutzer oder eine einzelne Entität archiviert werden, für die eine Lizenz angewendet wurde. Ein Archivpostfach darf nicht zum Speichern von Mails von mehreren Benutzern oder Entitäten verwendet werden. IT-Administratoren ist beispielsweise nicht berechtigt, ein freigegebenes Postfach zu erstellen und die Benutzer anzuweisen, dieses freigegebene Postfach zum expliziten Zweck der Archivierung in E-Mails zu adressieren (auf CC oder BCC bzw. über eine Transportregel). <br/> <sup>9</sup> Wenn Sie in Exchange Online eine Aufbewahrungsrichtlinie festgelegt haben, werden Nachrichten automatisch in das Archivpostfach des Benutzers verschoben, sofern sein primäres Postfach größer als 10 MB ist. Die Aufbewahrungsrichtlinie für Postfächer kleiner 10 MB nicht automatisch ausgeführt. <br/> <sup>10</sup> freigegebene und Ressourcenpostfächer benötigen keine Lizenz. Ohne eine Lizenz sind diese Postfächer jedoch auf 50 GB beschränkt. Um die Postfachgröße zu erhöhen, muss eine Exchange Online Plan 2-Lizenz zugewiesen werden. Dadurch wird die Postfachgröße auf 100 GB erhöht. <br/> <sup>11</sup> Standardmäßig verfügen freigegebene Postfächerüber ein zugeordnetes aktives Benutzerkonto mit einem vom System generierten (unbekannten) Kennwort. Informationen zum Blockieren der Anmeldung für das zugeordnete freigegebene Postfachkonto finden Sie unter [Blockieren der Anmeldung für das freigegebene Postfachkonto](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account).
 
 ## <a name="capacity-alerts"></a>Kapazitätswarnungen
 
@@ -157,11 +156,11 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
 |Senden/Empfangen verbieten|2,3 GB<sup>1</sup>|50 GB|100 GB|2 GB|
 
 > [!NOTE]
-> <sup>1</sup> Dies ist die standardmäßige Größe für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern.
+> <sup>1</sup> This is the default value for Exchange Server 2013 organizations. Administrators can change this value for their organization.
 
 ## <a name="mailbox-folder-limits"></a>Begrenzungen für Postfachordner
 
-Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, die in Exchange Online unterstützt werden können. Mit diesen Begrenzungen soll verhindert werden, dass eine unbegrenzte Anzahl von Postfachelementen pro Ordner bzw. eine unbegrenzte Anzahl von Ordnern pro Postfach oder eine unbegrenzte Anzahl von öffentlichen Ordnern pro Exchange Online-Organisation möglich ist. Praktisch gesehen ist die Anzahl der Postfachordner quasi unbegrenzt, sodass die meisten Exchange-Postfächer und lokalen Postfächer unterstützt werden, die zu Exchange Online migriert werden.
+These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
 
 - **Maximale Anzahl von Nachrichten pro Postfachordner**: gibt die maximale Anzahl von Nachrichten für einen Postfachordner an. Sobald dieser Grenzwert erreicht wird, können keine neuen Nachrichten mehr übermittelt oder in einem Ordner gespeichert werden.
 
@@ -317,7 +316,7 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 
 ## <a name="receiving-and-sending-limits"></a>Empfangs- und Sendegrenzen
 
-Empfangs- und Sendegrenzen werden angewendet, um Spam und Massen-E-Mail-Würmer oder -Viren zu bekämpfen. Diese Grenzwerte tragen dazu bei, die Integrität unserer Systeme sowie unsere Benutzer zu schützen.
+Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
 
 ### <a name="receiving-limits"></a>Empfangsgrenzen
 
@@ -333,7 +332,7 @@ Empfangsgrenzen gelten für die Anzahl von Nachrichten, die ein Benutzer, eine G
 Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten und die Anzahl von Empfängern pro Nachricht, die ein Benutzer aus seinem Exchange Online-Konto senden kann.
 
 > [!NOTE]
-> Für im Adressbuch einer Organisation gespeicherte Verteilergruppen wird die Gruppe als ein Empfänger betrachtet. Für Verteilergruppen, die im Ordner "Kontakte" eines Postfachs gespeichert sind, werden die Mitglieder der Gruppe einzeln gezählt.
+> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually.
 
 - **Grenzwert für Empfänger Raten**: um die Zustellung von unerwünschten Massennachrichten zu verhindern, verfügt Exchange Online über Empfänger Grenzwerte, mit denen verhindert werden kann, dass Benutzer und Anwendungen große e-Mail-Volumen senden. Diese Grenzwerte gelten pro Benutzer für alle ausgehenden und internen Nachrichten.
 
@@ -343,7 +342,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 - **Empfängergrenzwert**: Dies ist die maximale Anzahl von Empfängern, die in den Feldern "an:", "cc:" und "Bcc:" für eine einzelne e-Mail-Nachricht zulässig sind.
 
     > [!NOTE]
-    > Eine Verteilerliste, die im freigegebenen Adressbuch der Organisation gespeichert ist, zählt in Bezug auf den Empfängerratengrenzwert und die Empfängereinschränkung als ein Empfänger. In einer persönlichen Verteilerliste wird jeder Empfänger separat gezählt.
+    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately.
 
 - **Grenzwert für Empfänger Proxyadresse**: der Grenzwert für die Empfänger Proxyadresse ist die maximale Anzahl von Aliasen (e-Mail-Adressen), die ein Empfängerpostfach aufweisen kann. 
 
@@ -416,7 +415,7 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
 |Aufbewahrungszeitraum des Ordners "Junk-E-Mail"|2 Jahre<sup>1</sup>|30 Tage|30 Tage|30 Tage|
 
 > [!NOTE]
-> <sup>1</sup>   Dies ist die Standardeinstellung. Administratoren können diesen Wert für ihre Organisation ändern. <br/> <sup>2</sup> Dies ist der standardmäßige Wert für Exchange Online-Organisationen. Ein Administrator kann diesen Grenzwert für Postfächer in seiner Organisation auf maximal 30 Tage ändern.
+> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. <br/> <sup>2</sup> Dies ist der standardmäßige Wert für Exchange Online-Organisationen. Ein Administrator kann diesen Grenzwert für Postfächer in seiner Organisation auf maximal 30 Tage ändern.
 
 ## <a name="distribution-group-limits"></a>Verteilergruppen-Grenzwerte
 
@@ -437,7 +436,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|
 |Obergrenze für Nachrichten an Verteilergruppen mit 5.000 bis 99.999 Mitgliedern|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Obergrenze für Nachrichten an Verteilergruppen mit 100.000 Mitgliedern|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Maximale Anzahl von Verteilergruppenbesitzern|10  |10  |10  |10  |10  |10  |
+|Maximale Anzahl von Verteilergruppenbesitzern|10 |10 |10 |10 |10 |10 |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -450,7 +449,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 |**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Maximale Anzahl Mitglieder einer Verteilergruppe|100.000 Mitglieder<sup>1</sup>|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe|5.000 oder mehr Mitglieder<sup>1</sup>|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|
-|Maximale Anzahl von Verteilergruppenbesitzern|10  |10  |10  |10  |
+|Maximale Anzahl von Verteilergruppenbesitzern|10 |10 |10 |10 |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -466,13 +465,13 @@ Die folgende Liste enthält Grenzwerte für Journalregeln, Transportregeln (auch
 
 - **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions.
 
-- **Maximale Zeichenanzahl für alle regulären Ausdrücke in allen Transportregeln** Die Gesamtzahl der Zeichen, die in der Organisation von allen regulären Ausdrücken in allen Bedingungen und Ausnahmen von Transportregeln verwendet werden. Sie können wenige Regeln verwenden, in denen lange und komplexe reguläre Ausdrücke verwendet werden, oder Sie können viele Regeln verwenden, in denen einfache reguläre Ausdrücke verwendet werden.
+- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions.
 
 - **Grenzwerte für die Überprüfung von Anlagen Inhalten** Die Transportregelbedingungen ermöglichen es Ihnen, den Inhalt von Nachrichtenanlagen zu überprüfen, aber nur die ersten 1 MB des Texts, der aus einer Anlage extrahiert wurde, werden überprüft. Dieser Grenzwert von 1 MB bezieht sich auf den aus der Anlage extrahierten Text und nicht auf die Dateigröße der Anlage. Beispielsweise kann eine Datei mit 2 MB weniger als 1 MB Text enthalten, sodass der gesamte Text überprüft würde.
 
-- **Maximale Anzahl von Empfängern, die einer Nachricht von allen Transportregeln hinzugefügt werden** Wenn auf eine Nachricht unterschiedliche Transportregeln angewendet werden, kann der Nachricht nur eine begrenzte Anzahl von Empfängern hinzugefügt werden. Nachdem die Grenze erreicht wurde, werden verbleibende Empfänger der Nachricht nicht hinzugefügt. Außerdem können einer Nachricht von einer Transportregel keine Verteilergruppen hinzugefügt werden.
+- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule.
 
-- **Weiterleitungsgrenzwert** Die maximale Anzahl Empfänger, die für eine Postfach- oder Transportregel konfiguriert werden können, wenn die Weiterleitungs- oder Umleitungsaktion verwendet wird. Sollte eine Regel festgelegt werden, eine Nachricht an mehr als diese Anzahl von Empfängern weiterzuleiten, würde diese Regel nicht angewendet werden, und jede regelkonforme Nachricht würde nicht an die in dieser Regel aufgelisteten Empfänger weitergeleitet werden.
+- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule.
     
 - **Häufigkeit, mit der eine Nachricht umgeleitet wird** Gibt an, wie oft eine Nachricht automatisch basierend auf Posteingangsregeln umgeleitet, weitergeleitet oder beantwortet wird. Benutzer A verfügt beispielsweise über eine Posteingangsregel, die Nachrichten an Benutzer B umleitet, basierend auf dem Absender. Benutzer B verfügt über eine Posteingangsregel, die Nachrichten an Benutzer C basierend auf Schlüsselwörtern in der Betreffzeile weiterleitet. Wenn eine Nachricht beide Bedingungen erfüllt, wird die Nachricht nur an Benutzer B gesendet; Sie wird nicht an Benutzer C weitergeleitet, da nur eine Umleitung zulässig ist. In diesem Fall wird die Nachricht gelöscht, ohne einen Unzustellbarkeitsbericht an Benutzer B zu senden, der angibt, dass die Nachricht nicht an Benutzer C zugestellt wurde. Wir verwenden den X-MS-Exchange-Inbox-rules-Loop-Header, um zu bestimmen, wie oft eine Nachricht umgeleitet wurde. Diese Kopfzeile bleibt auch über die Exchange-Organisationsgrenzen hinweg.
 
@@ -519,7 +518,7 @@ Diese Grenzwerte steuern die Moderationseinstellungen für die Nachrichtengenehm
 
 - **Maximale Rate für abgelaufene Moderationsbenachrichtigungen**: dieser Grenzwert legt die maximale Anzahl von Benachrichtigungsmeldungen für abgelaufene moderierte Nachrichten in einem Zeitraum von einer Stunde fest. Der Grenzwert gilt für jede Postfachdatenbank im Datencenter.
 
-Bei hoher Auslastung kann es vorkommen, dass einige Absender keine Benachrichtigungen über abgelaufene moderierte Nachrichten erhalten. Diese Benachrichtigungen können anhand von Übermittlungsberichten jedoch nachvollzogen werden.
+During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
 
 ### <a name="moderation-limits"></a>Moderationsgrenzwerte
 
@@ -542,7 +541,7 @@ Bei hoher Auslastung kann es vorkommen, dass einige Absender keine Benachrichtig
 |Maximale Rate für abgelaufene Moderationsbenachrichtigungen|300 Ablaufbenachrichtigungen pro Stunde|300 Ablaufbenachrichtigungen pro Stunde|300 Ablaufbenachrichtigungen pro Stunde|300 Ablaufbenachrichtigungen pro Stunde|
 
 > [!NOTE]
-> <sup>1</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern.
+> <sup>1</sup> This is the default limit for Exchange Server 2013 organizations. Administrators can change this value for their organization.
 
 ## <a name="exchange-activesync-limits"></a>Grenzwerte für Exchange ActiveSync
 

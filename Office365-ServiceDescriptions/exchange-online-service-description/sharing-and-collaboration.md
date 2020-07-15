@@ -1,8 +1,7 @@
 ---
 title: Freigabe und Zusammenarbeit
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8e5ce6ce41f206c5736241340c393833ae78fea7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638893"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132589"
 ---
 # <a name="sharing-and-collaboration"></a>Freigabe und Zusammenarbeit
 
@@ -35,9 +34,9 @@ Weitere Informationen zur Verbundfreigabe finden Sie unter [Freigabe in Exchange
   
 ## <a name="site-mailboxes"></a>Websitepostfächer
 
-E-Mails und Dokumente werden herkömmlicherweise in zwei voneinander getrennten Datenrepositorys gespeichert. Die meisten Teams arbeiten mithilfe von E-Mails und Dokumenten zusammen. Die Herausforderung liegt darin, dass mit unterschiedlichen Clients auf E-Mails und Dokumente zugegriffen wird. Dies reduziert üblicherweise sowohl die Benutzerfreundlichkeit als auch die Benutzerproduktivität.
+Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
   
-Das Websitepostfach ist ein neues Konzept in Exchange 2013, mit dem dieses Problem gelöst werden soll. Mit Websitepostfächern werden die Zusammenarbeit und die Benutzerproduktivität verbessert, indem die Benutzer über die gleiche Clientoberfläche auf Microsoft SharePoint 2013-Dokumente und Exchange-E-Mails zugreifen können. Ein Websitepostfach besteht funktional aus der Mitgliedschaft in einer SharePoint 2013-Website (Besitzer und Mitglieder), gemeinsam genutztem Speicher in einem Exchange 2013-Postfach für E-Mails und einer SharePoint 2013-Website für Dokumente sowie einer Verwaltungsoberfläche für Bereitstellungs- und Lebenszyklusanforderungen.
+The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
   
 > [!IMPORTANT]
 > Ihr Plan muss SharePoint enthalten. Für Websitepostfächer ist es erforderlich, dass Benutzer über SharePoint- und Exchange-Lizenzen verfügen. 

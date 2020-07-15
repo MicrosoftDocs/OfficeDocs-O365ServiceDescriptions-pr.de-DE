@@ -1,8 +1,7 @@
 ---
 title: Berichterstellungsfeatures und Tools zur Problembehandlung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online bietet eine Vielzahl von Berichtsfeatures sowohl in als auch außerhalb des Exchange Admin Center (EAC).
-ms.openlocfilehash: b0545d1e0b18714fa138fa085542be90711e8da2
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f2cc51c9923be8d399fa2837e5b5fabe3117d5ba
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639953"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132599"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Berichterstellungsfeatures und Tools zur Problembehandlung
 
@@ -52,23 +51,23 @@ Die folgenden Berichtsfeatures und Problembehandlungstools stehen in der Exchang
 Mit dem Feature Nachrichtenablaufverfolgung können Sie als Administrator e-Mail-Nachrichten bei der Weitergabe Ihres Exchange Online Diensts befolgten. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. So können Sie in effizienter Weise Fragen der Benutzer beantworten und Probleme mit dem Nachrichtenfluss behandeln und müssen seltener den technischen Support um Unterstützung bitten.
   
 > [!IMPORTANT]
-> Verwenden Sie für die Behandlung allgemeiner Probleme und Trends die Berichtstools, um solche Daten abzurufen. Verwenden Sie bei speziellen Besonderheiten, bei denen Details zu einer Nachricht erforderlich sind, das Tool für die Nachrichtenablaufverfolgung. 
+> For troubleshooting general issues and trends, use the reporting tools to obtain such data. For single point specifics where details are needed about a message, use the message trace tool. 
   
 Weitere Informationen zum Feature für die Nachrichtenablaufverfolgung finden Sie unter [Verfolgen einer E-Mail](https://go.microsoft.com/fwlink/p/?LinkId=271777).
   
 ### <a name="auditing-reports"></a>Überwachungsberichte
 
-Sie können die Überwachungsprotokollierung zum Behandeln von Konfigurationsproblemen verwenden, indem Sie bestimmte von Administratoren vorgenommene Änderungen nachverfolgen. Außerdem können Sie damit gesetzliche Bestimmungen sowie Anforderungen an Richtlinientreue und Beweissicherungsverfahren einhalten. Von Exchange Online werden zwei Arten der Überwachungsprotokollierung bereitgestellt:
+You can use audit logging to troubleshoot configuration issues by tracking specific changes made by administrators and to help you meet regulatory, compliance, and litigation requirements. Exchange Online provides two types of audit logging:
   
-- Mit der Administrator-Überwachungsprotokollierung wird jede Aktion aufgezeichnet, die von einem Administrator durchgeführt wird. Diese Informationen können Sie zur Behandlung von Konfigurationsproblemen bzw. zum Ermitteln der Ursache von Sicherheits- oder Kompatibilitätsproblemen heranziehen. 
+- Administrator audit logging records any action performed by an administrator. This can help you troubleshoot configuration issues or identify the cause of security-related or compliance-related problems. 
     
-- Bei der Postfachüberwachungsprotokollierung werden alle Postfachzugriffe erfasst, die von Personen vorgenommen werden, bei denen es sich nicht um den Besitzer des Postfachs handelt. Dadurch können Sie feststellen, wer auf ein Postfach zugegriffen hat und welche Aktionen ausgeführt wurden. 
+- Mailbox audit logging records whenever a mailbox is accessed by someone other than the person who owns the mailbox. This can help you determine who has accessed a mailbox and what they've done. 
     
 Weitere Informationen zur Überwachungsprotokollierung finden Sie im Artikel zum Thema [Überwachungsberichte](https://go.microsoft.com/fwlink/p/?LinkId=271779).
   
 ### <a name="unified-messaging-reports"></a>Unified Messaging-Berichte
 
-Mithilfe dieser Berichte können Sie Unified Messaging (UM) in Ihrer Exchange Online-Organisation überwachen und Probleme beheben. Weitere Informationen finden Sie im Artikel zum Thema [Erstellen von Berichten für Voicemailanrufe](https://go.microsoft.com/fwlink/p/?LinkId=287042).
+You can use these reports to monitor and troubleshoot Unified Messaging (UM) in your Exchange Online organization. For more information, see [Run Reports for Voice Mail Calls](https://go.microsoft.com/fwlink/p/?LinkId=287042).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

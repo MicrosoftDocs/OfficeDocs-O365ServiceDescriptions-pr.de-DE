@@ -1,8 +1,7 @@
 ---
 title: Office für das Web – Dienstbeschreibung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: f04056668b9d64b7783afce4e7df52403f904c29
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: ffba59a00e21401038d999a508a82e19f63e90e3
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226214"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131329"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
@@ -30,7 +29,7 @@ Informationen zum Vergleich der Features in den Plänen finden Sie unter [leistu
 Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organisation am besten geeignet ist? In den folgenden Tabellen werden die Funktionen von Office für das Webfeature mit funktionsreichen Microsoft Office Desktop-Apps verglichen. Verwenden Sie die Tabellen, um zu ermitteln, welche Features in Office für das Web zur Verfügung stehen, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie stellen möglicherweise fest, dass einige Personen in Ihrer Organisation die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Internet anzeigen und leicht bearbeiten müssen. 
   
 > [!NOTE]
->  Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabellen enthalten nicht alle Microsoft Office-Funktionen.<br/>  Microsoft Microsoft 365 apps for Enterprise ist ein monatliches Abonnementangebot der aktuellen Office-Desktop Suite. <br/>  Microsoft Office Online Server-Kunden erhalten ein Office für die webbearbeitungs Lizenz, wenn Sie eine Office Desktop Suite-Lizenz erworben haben (beispielsweise eine Office Professional Plus-, Office Standard-oder Microsoft 365-Apps für Enterprise-Lizenz). 
+>  A limited selection of Office features has been chosen to represent the advanced capabilities of the Office desktop suite. The tables are not a comprehensive list of Microsoft Office features. <br/>  Microsoft Microsoft 365 apps for Enterprise ist ein monatliches Abonnementangebot der aktuellen Office-Desktop Suite. <br/>  Microsoft Office Online Server-Kunden erhalten ein Office für die webbearbeitungs Lizenz, wenn Sie eine Office Desktop Suite-Lizenz erworben haben (beispielsweise eine Office Professional Plus-, Office Standard-oder Microsoft 365-Apps für Enterprise-Lizenz). 
   
 > [!NOTE]
 > Wenn Sie ein Office-Dokument entweder als Outlook-e-Mail-Anlage oder in einer SharePoint-Dokumentbibliothek öffnen, wird das Dokument in Office für das Web gestartet und ist schreibgeschützt. Zum Bearbeiten eines Dokuments in Office für das Internet (Bearbeitungsmodus) benötigen Sie eine Suite-Lizenz wie Office 365 Enterprise E1. Um ein Dokument in der Desktop-App zu bearbeiten, benötigen Sie eine Office-Desktop Suite-Lizenz, beispielsweise ein Microsoft 365-Apps für Enterprise-Abonnement oder eine installierte Version von Office Professional Plus 2010. 
@@ -87,7 +86,7 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
 |[Gemeinsame Dokumenterstellung in Echtzeit](word-online.md#real-time-co-authoring) <br/> |Ja  <br/> |Ja  <br/> |
 |[Referenztools](word-online.md#reference-tools) <br/> |Nein  <br/> |Ja  <br/> |
 |[Darstellen von Textfeldern/Formen](word-online.md#rendering-of-text-boxesshapes) <br/> |Ja  <br/> |Ja  <br/> |
-|[Forscher](word-online.md#researcher) <br/> |Nein  <br/> |Ja  <br/> |
+|[Recherche](word-online.md#researcher) <br/> |Nein  <br/> |Ja  <br/> |
 |[Rich-Media](word-online.md#rich-media) <br/> |Nein  <br/> |Ja  <br/> |
 |[Umfassende Tabellenformatierung](word-online.md#rich-table-formatting) <br/> |Ja  <br/> |Ja  <br/> |
 |["Speichern unter" und "Kopie herunterladen"](word-online.md#save-as-and-download-a-copy) <br/> |Ja  <br/> |Ja  <br/> |

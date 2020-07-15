@@ -1,7 +1,7 @@
 ---
 title: MyAnalytics-Dienstbeschreibung
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: MyAnalytics-Features,-Distributionen,-Datenschutz und-Voraussetzungen
-ms.openlocfilehash: 9b5683c0b2d19b0e263d25228b190110ba489b6a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f9f6a329aadb874be1e7b1e13cb0446daec8a4ee
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262858"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132429"
 ---
 # <a name="myanalytics-service-description"></a>MyAnalytics-Dienstbeschreibung
 
@@ -37,13 +37,13 @@ MyAnalytics besteht aus den folgenden Elementen:
 
 Durch die Einhaltung der folgenden Richtlinien schützt myAnalytics die Daten der Mitarbeiter und unterstützt die Einhaltung örtlicher Bestimmungen:
 
-* MyAnalytics ist nicht für die Bewertung, Überwachung, automatische Entscheidungsfindung, Profilerstellung oder Überwachung von Mitarbeitern vorgesehen.
+* MyAnalytics ist nicht dazu gedacht, eine Bewertung von Mitarbeitern, Verfolgung, automatisierte Entscheidungsfindung, Profilerstellung oder Überwachung zu ermöglichen.
 * MyAnalytics gibt Mitarbeitern keinen Zugriff auf neue personenbezogene Informationen auf anderen Kollegen.
-* MyAnalytics-Daten werden verarbeitet und im Exchange Online Postfach des Mitarbeiters gespeichert.
-* MyAnalytics unterstützt die dsgvo-Compliance (General Data Protection Regulation).
-* MyAnalytics kann so konfiguriert werden, dass sich einzelne Benutzer gezielt anmelden müssen.
+* MyAnalytics-Daten werden verarbeitet und im Exchange-Online-Postfach des Mitarbeiters gespeichert.
+* MyAnalytics unterstützt die Einhaltung der Datenschutz-Grundverordnung (DSGVO).
+* MyAnalytics kann so konfiguriert werden, dass Einzelpersonen sich gezielt anmelden müssen.
 * MyAnalytics und vertiefen sind separate Anwendungen ohne Abhängigkeiten.
-* MyAnalytics erinnert die Benutzer daran, dass Ihre Daten privat und sicher sind.
+* MyAnalytics erinnert Personen daran, dass ihre Daten privat und sicher sind.
 
 Weitere Informationen finden Sie unter [myAnalytics-Datenschutzhandbuch](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).
 

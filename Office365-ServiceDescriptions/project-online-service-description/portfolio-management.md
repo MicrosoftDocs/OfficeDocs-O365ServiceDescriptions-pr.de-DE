@@ -1,8 +1,7 @@
 ---
 title: Portfolioverwaltung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Die folgenden Portfolio Verwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546068"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131229"
 ---
 # <a name="portfolio-management"></a>Portfolioverwaltung
 
@@ -37,19 +36,19 @@ Ressourcen sind die Personen, Materialien oder Kosten, die erforderlich sind, um
   
 ## <a name="financial-management"></a>Finanzverwaltung
 
-Führen Sie Finanzverwaltungsprozesse ein, um Kosten- und Nutzenschätzungen zu verbessern. Verfolgen Sie Kosten und Leistungen effektiv, um sicherzustellen, dass jedes Projekt im Rahmen des Budgets geliefert wird und dass mit dem Portfolio die erwarteten Vorteile realisiert werden. Weitere Informationen finden Sie unter [Project Portfolio Management-Lösungshandbuch (Whitepaper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Teilnehmen am Workflow
 
-Workflows stellen eine strukturierte Methode für die unterschiedlichen Phasen des Projektablaufs. Ein Workflow enthält Definitionen der Lebenszyklusphasen, die das Projekt durchläuft, z. B. Vorschlag, Erstellung und erste Genehmigung. Der Workflow legt die Informationen fest, die in den jeweiligen Phasen erforderlich oder gesperrt sind.
+Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
   
 ## <a name="portfolio-analytics-and-selection"></a>Portfolioanalysen und -auswahl
 
-Bestimmen, wählen und übermitteln Sie in effektiver Weise die Projektportfolios, die am besten an der Geschäftsstrategie Ihres Unternehmens ausgerichtet sind und die Ihre Rendite maximieren. Weitere Informationen finden Sie unter [Project Portfolio Management-Lösungshandbuch (Whitepaper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Programmverwaltung
 
-Jedes Projekt in der Programmverwaltung weist eigene Ziele auf, die gemeinsam zum geplanten Nutzen des gesamten Programms beitragen. Weitere Informationen finden Sie unter [Project Portfolio Management-Lösungshandbuch (Whitepaper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>Roadmap
 

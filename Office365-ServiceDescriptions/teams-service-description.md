@@ -1,19 +1,18 @@
 ---
 title: Microsoft Teams Dienstbeschreibung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711145"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131989"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -55,7 +54,7 @@ In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | <br/>|**Kleinunternehmen** <br/> |**Enterprise-Pläne** <br/> |**GCC** <br/> |**GCC-hoch** <br/> |**DoD** <br/> |**Bildung** <br/> |
 |Chat  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
+|Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
 |Kanäle – Standard  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Kanäle – privat  <br/> |Ja  <br/> |Ja<sup>2</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Ja  <br/> |
 |Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |

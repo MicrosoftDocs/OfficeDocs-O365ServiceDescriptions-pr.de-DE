@@ -1,20 +1,19 @@
 ---
 title: Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium ist das beste Angebot von Microsoft für kleine und mittelständische Geschäftskunden. Microsoft 365 Business Premium ist eine integrierte Lösung, die Microsoft 365-Produktivität, erweiterte Sicherheit und Geräteverwaltung vereint.
-ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988859"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132539"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Lizensierung von Microsoft 365 für kleine und mittlere Unternehmen
 
@@ -150,7 +149,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 |**Analysen** | Power BI Pro, MyAnalytics | Nein | Nein | Nein | Ja |
 | | Einblicke von myAnalytics | Ja | Ja | Ja | Ja |
 |**Assistance** | Briefing e-Mail | Ja | Ja | Ja | Ja |
-|**VoIP** | PSTN-Konferenzen, Cloud-PBX | Nein | Nein | Nein | Ja |
+|**Stimme** | PSTN-Konferenzen, Cloud-PBX | Nein | Nein | Nein | Ja |
 
 **Notes**
 
@@ -160,7 +159,7 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 
 ## <a name="office-client-commercial-plans"></a>Geschäftspläne für Office-Clients
 
-| **Anwendungen** | **Microsoft 365 Apps for Business** | **Microsoft 365 Apps for Enterprise** |
+| **Anwendungen** | **Microsoft 365 apps for Business** | **Microsoft 365 Apps for Enterprise** |
 |------------------|-------------------------|------------------------|
 | Word             | Ja                     | Ja                    |
 | Excel            | Ja                     | Ja                    |
@@ -168,9 +167,9 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 | OneNote          | Ja                     | Ja                    |
 | Outlook          | Ja                     | Ja                    |
 | Publisher        | Ja                     | Ja                    |
-| Access           | Ja                     | Ja                    |
+| Zugriff           | Ja                     | Ja                    |
 | Microsoft Teams  | Ja                     | Ja                    |
-| **Premium-Wert**                             | **Microsoft 365 Apps for Business** | **Microsoft 365 Apps for Enterprise** |
+| **Premium-Wert**                             | **Microsoft 365 apps for Business** | **Microsoft 365 Apps for Enterprise** |
 | Volumenaktivierung                             | Nein                      | Nein                     |
 | Gruppenrichtlinie<sup>1</sup>                      | Nein                      | Ja                    |
 | Aktivierung gemeinsam genutzter Computer                    | Ja<sup>7</sup>        | Ja                    |
@@ -183,12 +182,12 @@ In diesem Artikel werden die Lizenzierungsoptionen für KMUs verglichen, wobei e
 | Business Intelligence                         | Nein                      | Ja<sup>5</sup>        |
 | Erstellen von IRM<sup>3</sup>                        | Ja<sup>7</sup>        | Ja                    |
 | Verhinderung von Datenverlust<sup>3</sup>              | Ja<sup>7</sup>        | Ja<sup>5</sup>        |
-| **Wolken Wert**                  | **Microsoft 365 Apps for Business** | **Microsoft 365 Apps for Enterprise** |
+| **Wolken Wert**                  | **Microsoft 365 apps for Business** | **Microsoft 365 Apps for Enterprise** |
 | Gruppen                           | Ja                     | Ja                    |
 | Office-Bereitstellungstool           | Ja                     | Ja                    |
 | & Einstellungen für Roaming-Dokumente     | Ja                     | Ja                    |
 | 1 TB OneDrive für Unternehmen       | Ja                     | Ja                    |
-| **Lizenzierung**                                   | **Microsoft 365 Apps for Business** | **Microsoft 365 Apps for Enterprise** |
+| **Lizenzierung**                                   | **Microsoft 365 apps for Business** | **Microsoft 365 Apps for Enterprise** |
 | Lizenzierungsmodell                                 | Pro Benutzer                | Pro Benutzer               |
 | Lizenztyp                                    | Abonnement            | Abonnement           |
 | PC/Mac installiert<sup>6</sup>                     | 5                        | 5                      |

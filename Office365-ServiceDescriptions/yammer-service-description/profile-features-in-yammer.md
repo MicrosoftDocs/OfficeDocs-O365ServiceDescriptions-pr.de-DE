@@ -1,8 +1,7 @@
 ---
 title: Profilfunktionen in Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Die nachfolgenden Profilfunktionen stehen in Yammer zur Verfügung.
-ms.openlocfilehash: 88203bd0a62a8094596a3719e5dc3eff09cd6e31
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4a3b0dc2a73a7d05b1acbee27ad23e732c127e02
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640013"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133029"
 ---
 # <a name="profile-features-in-yammer"></a>Profilfunktionen in Yammer
 
@@ -29,7 +28,7 @@ Greifen Sie über die Organisation zu, um die Experten zu finden, die Sie benöt
 
 ## <a name="leaderboards"></a>Leaderboards
 
-Ermitteln Sie einflussreiche Mitarbeiter in Ihrem Netzwerk. In den Leaderboards werden die Personen aufgeführt, die die meisten Nachrichten verfasst haben bzw. deren Nachrichten am häufigsten beantwortet oder angeklickt wurden.
+Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
 
 ## <a name="member-directory"></a>Mitgliederverzeichnis
 

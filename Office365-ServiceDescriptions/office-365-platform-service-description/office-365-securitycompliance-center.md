@@ -1,8 +1,7 @@
 ---
 title: Security & Compliance Center
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,11 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
-ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
+ms.openlocfilehash: 4ab535757c0d192c4d790a7aeacfba9e73d4157f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043037"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131789"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 

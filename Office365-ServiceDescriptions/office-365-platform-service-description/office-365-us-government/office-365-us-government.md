@@ -1,8 +1,7 @@
 ---
 title: Office 365 US Government
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Artikel bietet eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind.
-ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: 7ca2dc6afa9d22f17b7c95d338e5b700df070d42
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429060"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131729"
 ---
 # <a name="office-365-us-government"></a>Office 365 US Government
 
@@ -56,7 +55,7 @@ Zusätzlich zu den Features und Funktionen von Office 365 profitieren die Organi
   
 ## <a name="customer-eligibility"></a>Kundenberechtigung
 
-Office 365 US Government steht (1) US-bundesstaatlichen, staatlichen, lokalen, volksstämmigen und territorialen Verwaltungseinrichtungen sowie (2) anderen Einrichtungen zur Verfügung, die Daten in Übereinstimmung mit behördlichen Bestimmungen verarbeiten und wobei die Verwendung von Office 365 US Government zur Erfüllung dieser Bestimmungen geeignet ist, vorbehaltlich der Überprüfung der Berechtigung. Bei der Überprüfung der Berechtigung durch Microsoft wird unter anderem ermittelt, ob Daten, die den Regelungen des internationalen Waffenhandels (ITAR, International Traffic in Arms Regulations) unterliegen, Daten von Justizbehörden, die der Criminal Justice Information Services-Richtlinie des FBI (CJIS) unterliegen, sowie andere staatlich regulierte oder kontrollierte Daten verarbeitet werden. Die Überprüfung erfordert möglicherweise den Nachweis der Registrierung beim US- Außenministerium für ITAR-Daten oder der Unterstützung durch eine Regierungsbehörde, für die spezielle Anforderungen zur Verarbeitung der Daten gelten. Die DoD-Umgebung von US Government Defense darf nur vom US-amerikanischen Verteidigungsministerium verwendet werden.
+Office 365 US Government is available to (1) US federal, state, local, tribal, and territorial government entities, and (2) other entities which handle data that is subject to government regulations and requirements and where use of Office 365 US Government is appropriate to meet these requirements, subject to validation of eligibility. Validation of eligibility by Microsoft will include confirmation of handling data subject to International Traffic in Arms Regulations (ITAR), law enforcement data subject to the FBI's Criminal Justice Information Services (CJIS) Policy, or other government-regulated or controlled data. Validation may require proof of registration with the U.S. Department of State for ITAR data or sponsorship by a government entity with specific requirements for the handling of data. The Office 365 DoD-environment is for the exclusive use of the United States Department of Defense.
   
 Während die Kriterien für die Anspruchsberechtigung in Office 365 staatlichen angeboten konsistent sind, akzeptiert Microsoft nur DFARS und ITAR-Vertragssprache für die gcc-Umgebung mit hoher Qualität.
   
@@ -66,7 +65,7 @@ Bei der Verlängerung des Kundenvertrag für Office 365 US Government ist eine e
   
 ## <a name="customer-content-located-within-the-united-states"></a>In den Vereinigten Staaten befindlicher Kundeninhalt
 
-Office 365 US Government-Dienste werden von Rechenzentren bereitgestellt, die sich physisch in den Vereinigten Staaten befinden. Der folgende Kundeninhalt ist im Ruhezustand in Rechenzentren gespeichert, die sich physisch nur in den Vereinigten Staaten befinden: 
+Office 365 US Government services are provided from datacenters physically located in the United States. The following customer content is stored at rest in datacenters physically located only in the U.S.A.: 
   
 - Exchange Online Postfachinhalt (e-Mail-Text, Kalendereinträge und der Inhalt von e-Mail-Anlagen)
     
@@ -138,7 +137,7 @@ Informationen zum Security &amp; Compliance Center und Links zu zusätzlichen In
   
 ## <a name="service-availability-for-each-plan"></a>Dienstverfügbarkeit nach Plan
 
-Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. In der folgenden Tabelle werden die Dienste dargestellt, die in jedem Office 365 US Government-Plan verfügbar sind.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 US Government plan.
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

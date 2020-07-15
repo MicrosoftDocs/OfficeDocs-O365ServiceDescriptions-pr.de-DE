@@ -1,8 +1,7 @@
 ---
 title: Office 365, betrieben von 21Vianet
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: b5980a138152f874f75e10056c98da10bd9aa9ae
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429110"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132229"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -40,7 +39,7 @@ Jeder Office 365 Plan, der von 21Vianet betrieben wird, umfasst eine Reihe von e
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Service**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
+|**Dienst**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Office 365 Plattform<sup>1</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Exchange Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
 |SharePoint Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|
@@ -301,7 +300,7 @@ Die folgende Tabelle enthält Links zu vergleichen von Office für die webfunkti
 
 ||||
 |:-----|:-----|:-----|
-|**Anwendung**|**Office für das Internet, betrieben von 21Vianet**|**Link zum detaillierten Funktionsvergleich**|
+|**Application**|**Office für das Internet, betrieben von 21Vianet**|**Link zum detaillierten Funktionsvergleich**|
 |Word|Word für das Internet, betrieben von 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel für das Internet, betrieben von 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote für das Internet, betrieben von 21Vianet|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -529,7 +528,7 @@ Exchange Online-Archivierung steht über die folgenden Pläne zur Verfügung.
 
 |**Plan**|**Beschreibung**|
 |:-----|:-----|
-|**Exchange Online Archivierung für Exchange Server für Office 365 betrieben von 21Vianet**|Cloudbasiertes Archiv für Benutzer mit primären Postfächern in Exchange Server 2013 oder Exchange 2010 (SP2 oder höher).  <br/> Wenn Sie ein cloudbasiertes Archiv zu einem primären Postfach hinzufügen möchten, das sich auf einem lokalen Exchange-Server befindet, müssen Sie eine Hybridbereitstellung konfigurieren. Weitere Informationen zu Hybridbereitstellungen finden Sie unter [Hybridbereitstellungen in Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
+|**Exchange Online Archivierung für Exchange Server für Office 365 betrieben von 21Vianet**|Cloudbasiertes Archiv für Benutzer mit primären Postfächern in Exchange Server 2013 oder Exchange 2010 (SP2 oder höher).  <br/> If you want to add a cloud-based archive to a primary mailbox that's located on an on-premises Exchange server, you need to configure a hybrid deployment. For more information about hybrid deployments see [Exchange Server Hybrid Deployments](https://docs.microsoft.com/exchange/exchange-hybrid).|
 |**Exchange Online Archivierung für Exchange Online für Office 365 betrieben von 21Vianet**| Die folgenden Pläne umfassen bereits die Archivierung und erfordern keine Exchange Online Archivierung als Add-on:  <br/>  Office 365 a1 betrieben von 21Vianet  <br/>  Office 365 Enterprise E3 betrieben von 21Vianet  <br/>  Exchange Online Plan 2 für Office 365 betrieben von 21Vianet  <br/>  Ausführliche Informationen zu den Archivierungsfunktionen Exchange Online Postfächer finden Sie unter [Archivieren von Postfächern in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|
 
 In der folgenden Tabelle sind die Exchange Online Archivierungs Features aufgeführt, die in Office 365 betrieben von 21Vianet verfügbar sind.
@@ -867,7 +866,7 @@ In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, di
 |Office Communications Server 2007 R2 und Lync Server 2010 (Chat, Anwesenheit, Audio, Video, Konferenzen)|Ja|Nein|Ja|Ja|Ja|Ja|Nein|
 |XMPP- (wird beispielsweise von Google Talk verwendet) und Sametime-Verbund|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 | Skype-Partnerverbund|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Partnerverbund zwischen AOL und Yahoo!|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|AOL and Yahoo! federation|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Skype for Business Online-Besprechungen](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Ad-hoc-und Zeitplanung für Audiokonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Ad hoc und Planen von Videokonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
@@ -974,7 +973,7 @@ In der folgenden Tabelle sind Office 365 Pläne aufgeführt, die den SharePoint 
 
 > [!NOTE]
 > - Die Office 365 von 21Vianet Version von Office 365 betrieben wird, ist speziell für China.
-> - Skype for Business Online Für „Eigenständig, Plan 2" lizenzierte Benutzer erhalten den Skype for Business Basic-Client, nicht den vollen Skype for Business-Client. Wenn die Benutzer über den Skype for Business-Client verfügen sollen, müssen Sie ein Upgrade auf eine Lizenz durchführen, in der er enthalten ist, z. B. eine Enterprise-basierte Lizenz. Informationen zur Bereitstellung des Skype for Business-Client für Ihre Benutzer finden Sie unter [Deploy the Skype for Business client in Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365) (Bereitstellung des Skype for Business-Clients in Office 365, in englischer Sprache).
+> - Skype for Business Online Standalone Plan 2 licensed users will get the Skype for Business Basic client, not the full Skype for Business client. If you want users to have the Skype for Business client, you will need to upgrade them to a license that includes it, such as an Enterprise-based license. To deploy the Skype for Business client to your users, see [Deploy the Skype for Business client in Office 365](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365).
 
 ||||
 |:-----|:-----|:-----|
@@ -1011,7 +1010,7 @@ In der folgenden Tabelle sind Office 365 Pläne aufgeführt, die den SharePoint 
 |Office Communications Server 2007 R2 und Lync Server 2010 (Chat, Anwesenheit, Audio, Video, Konferenzen)|Ja|Ja|
 |XMPP- (wird beispielsweise von Google Talk verwendet) und Sametime-Verbund|Nein|Nein|
 | Skype-Partnerverbund|Nein|Nein|
-|Partnerverbund zwischen AOL und Yahoo!|Nein|Nein|
+|AOL and Yahoo! federation|Nein|Nein|
 |**[Skype for Business Online-Besprechungen](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Skype for Business Online eigenständiger Plan 1 für Office 365 betrieben von 21Vianet**|**Skype for Business Online eigenständiger Plan 2 für Office 365 betrieben von 21Vianet**|
 |Ad-hoc-und Zeitplanung für Audiokonferenzen|Nein|Ja|
 |Ad hoc und Planen von Videokonferenzen|Nein|Ja|

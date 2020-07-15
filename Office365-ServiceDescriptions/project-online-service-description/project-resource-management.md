@@ -1,8 +1,7 @@
 ---
 title: Projektressourcenverwaltung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Die folgenden Ressourcen Verwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: 9534503dfe54be12e92041a34d156d462fb91eee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 47f415ca77410d5a8420c6a4fabc9274743a516d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639863"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131109"
 ---
 # <a name="project-resource-management"></a>Projektressourcenverwaltung
 
@@ -31,11 +30,11 @@ Verwalten Sie die Kosten für Ihr Projekt.
   
 ## <a name="manage-nonworking-time"></a>Verwalten von arbeitsfreier Zeit
 
-Fügen Sie dem Projektzeitplan Urlaube, Feiertage, gesundheitsbedingte Abwesenheiten und andere arbeitsfreie Zeiten hinzu. Erfahren Sie mehr über das [Hinzufügen von Feiertagen und Urlaubstagen zum Projekt](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Kapazitätsabgleich
 
-Wenn Personen in Ihrem Projekt zu viele Zuweisungen gleichzeitig bearbeiten, können Sie ihre Zuweisungen automatisch anpassen. Dies wird als Kapazitätsabgleich bezeichnet. Erfahren Sie mehr über das [Abgleichen von Ressourcenzuordnungen](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
 ## <a name="resource-sheet-and-usage-views"></a>Ansichten für Ressourcentabellen und -einsatz
 
@@ -51,7 +50,7 @@ Fügen Sie dem Projekt eines Teams Ressourcen wie Materialien, beispielsweise Co
   
 ## <a name="work-generic-and-material-resources"></a>Arbeits- und Materialressourcen sowie generische Ressourcen
 
-Fügen Sie dem Projekt Ressourcen hinzu, beispielsweise Arbeitsressourcen wie Personen, generische Ressourcen wie Tischler und Materialressourcen wie Computer und Zement. Siehe [Eingeben von Gerätekosten und anderen Kostenressourcen](https://go.microsoft.com/fwlink/?LinkId=402922).
+Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

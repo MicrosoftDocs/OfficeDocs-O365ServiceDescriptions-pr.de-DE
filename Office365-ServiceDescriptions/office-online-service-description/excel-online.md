@@ -1,8 +1,7 @@
 ---
 title: Excel für das Web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226224"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131419"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -39,7 +38,7 @@ Fügen Sie den Blattregisterkarten am unteren Rand der Arbeitsmappe eine Hinterg
 
 ## <a name="add-hyperlinks"></a>Hinzufügen von Links
 
-Verlinken Sie Webseiten, oder öffnen Sie Dateien im Web, indem Sie einen Link in einer Zelle hinzufügen. Sie können die Webadresse direkt in die Zelle eingeben oder den Befehl "Link einfügen" verwenden.
+Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>Erweiterte Datentypen: Bestände und Geografie
 
@@ -47,7 +46,7 @@ Sie können Lagerbestände und geografische Daten in Excel abrufen. Es ist so ei
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-Die Zeitachsensteuerung ermöglicht Ihnen das Filtern modellierter Daten. Es handelt sich dabei um eine Möglichkeit, eine kontinuierliche Folge von Datumsangaben visuell darzustellen und zu ändern sowie pivotbasierte Objekte wie PivotTables und PivotCharts zu filtern.  
+The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
   
 ## <a name="alignment"></a>Ausrichtung
 
@@ -71,11 +70,11 @@ Excel für das Internet kann vervollständigen, was Sie in eine Zelle eingeben, 
   
 ## <a name="autosum"></a>AutoSumme
 
-Summieren Sie die Zahlen in einer Spalte oder Zeile, indem Sie die entsprechenden Zellen auswählen und dann auf "AutoSumme" doppelklicken. Das Ergebnis wird in der nächsten leeren Zelle angezeigt.
+Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
   
 ## <a name="calculations"></a>Berechnungen
 
-Sie können mit Excel eine Vielzahl von automatischen, manuellen und iterativen Berechnungen ausführen. Excel verwendet Funktionen zur Durchführung dieser Berechnungen. Weitere Informationen finden Sie unter [Excel-Funktionen (nach Kategorie)](https://go.microsoft.com/fwlink/?linkid=847459).
+You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>Zellbezüge in Formeln
 
@@ -138,7 +137,7 @@ Sie können Arbeitsblätter in einer Arbeitsmappe oder in einer anderen Arbeitsm
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Einbetten einer Arbeitsmappe auf der Webseite oder Blog Seite (OneDrive)
 
-Wenn Sie eine Excel-Arbeitsmappe auf OneDrive.com speichern, können Sie sie direkt in einen Blog oder eine Website einbetten. Ihre Leser können die Daten direkt auf der Seite sortieren, filtern und berechnen. Wenn Sie die Arbeitsmappe auf OneDrive aktualisieren, werden die Änderungen den Lesern angezeigt, sobald sie die Seite neu laden. Erfahren Sie mehr über das [Einbetten einer Excel-Arbeitsmappe in Ihren Blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
+If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>Externe Referenzen (Links)
 
@@ -194,7 +193,7 @@ Mithilfe von ideas in Excel können Sie Ihre Daten anhand von allgemeinen visuel
   
 ## <a name="insert-charts"></a>Insert charts
 
-Erstellen Sie ein Diagramm, um Ihre Daten visuell darzustellen. Dafür steht eine Reihe von Diagrammtypen zur Auswahl, z. B. Spalten-, Linien-, Kreis- oder Balkendiagramme. Erfahren Sie mehr über die [verfügbaren Diagrammtypen](https://go.microsoft.com/fwlink/p/?LinkId=273899).
+Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -222,7 +221,7 @@ Es ist nicht möglich, benannte Bereiche in Excel für das Internet zu erstellen
 
 ## <a name="number-formatting"></a>Zahlenformatierung
 
-Ändern Sie das Format von Zahlen. Wählen Sie aus einer Liste von Formaten ein Format wie "Währung" oder "Datum, kurz" aus, ändern Sie die Dezimalstellen, oder fügen Sie ein Tausendertrennzeichen ein.
+Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
   
 ## <a name="office-add-ins"></a>Office-Add-Ins
 
@@ -286,7 +285,7 @@ Nicht verfügbar in Excel für das Internet. Wenn Sie auf Ihrem Computer die Exc
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-Möchten Sie Ihre eigene Kopie der Arbeitsmappe? Verwenden Sie den Befehl "Speichern unter" auf der Registerkarte "Datei", oder klicken Sie im entsprechenden Ordner mit der rechten Maustaste auf den Namen der Arbeitsmappe, und wählen Sie den Befehl "Herunterladen" aus, um eine Kopie an Ihren Computer zu senden.
+Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
 
 ## <a name="sensitivity-labels"></a>Vertraulichkeitsbezeichnungen
 

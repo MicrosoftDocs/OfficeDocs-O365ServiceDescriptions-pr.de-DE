@@ -1,8 +1,7 @@
 ---
 title: Office 365 Advanced Threat Protection-Dienstbeschreibung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213947"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132369"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
 Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält. ATP verfügt über umfangreiche Berichte und URL-Ablaufverfolgungsfunktionen, mit denen Administratoren Einblicke in die Art von Angriffen in Ihrer Organisation erhalten.
 
-Im folgenden finden Sie die wichtigsten Methoden zum Verwenden von ATP für den Nachrichtenschutz:
+ATP kann in erster Linie über die folgenden Methoden für den Nachrichtenschutz eingesetzt werden:
 
-- In einem Szenario mit Office 365 reinen ATP-Filterung bietet ATP Cloud-basierten e-Mail-Schutz für Ihre lokale Exchange Server Umgebung oder eine andere lokale SMTP-e-Mail-Lösung.
+- In einem Office 365 Protection-Szenario nur mit Filterung bietet ATP cloudbasierten E-Mail-Schutz für Ihre lokalen Exchange Server-Umgebung und alle anderen lokalen SMTP-E-Mail-Lösungen.
 
-- Office 365 ATP kann aktiviert werden, um über die Exchange Online-Cloud gehostete Postfächer zu schützen. Weitere Informationen zu Exchange Online finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md).
+- Office 365 ATP kann für den Schutz von Exchange Online-Postfächern aktiviert werden, die auf der Cloud gehostet sind. Weitere Informationen zu Exchange Online finden Sie in der [Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md).
 
 - In einer Hybridbereitstellung kann ATP für den Schutz Ihrer Messaging-Umgebung und für die Steuerung von E-Mail-Routing konfiguriert werden, wenn Sie sowohl über lokale als auch über Cloud-Postfächer mit Exchange Online Protection für die eingehende E-Mail-Filterung verfügen.
 
@@ -77,7 +76,7 @@ ATP kann mit einem beliebigen SMTP-e-Mail-Übertragungs-Agent verwendet werden, 
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Verfügbarkeit von Features in ATP-Plänen (Advanced Threat Protection)
 
-Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.
+Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
 
 |**Feature**|**ATP-Plan 1**<br>(ehemals ATP Standalone)|**ATP-Plan 2**<br>(ehemals Threat Intelligence <br>Standalone| Office 365 Enterprise E5|
 |:-----|:-----|:-----|:-----|
@@ -90,7 +89,7 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 |[Antiphishing-Richtlinien](#anti-phishing-policies)|Ja|Ja|Ja|
 |[Echtzeitberichte](#real-time-reports)|Ja|Ja|Ja|
 |*Automatisierung, Untersuchung, Korrektur und Schulung*|
-|[Nachverfolgungslisten für Bedrohungen](#threat-trackers)|Nein|Ja|Ja|
+|[Bedrohungs-Tracker](#threat-trackers)|Nein|Ja|Ja|
 |Untersuchung von Bedrohungen (Erweiterte Bedrohungs Ermittlung)|[Echtzeiterkennungen](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Automatische Vorfall Antwort](#automated-incident-response)|Nein|Ja|Ja|
 |[Angriffssimulator](#attack-simulator)|Nein|Ja|Ja|
@@ -98,7 +97,7 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 > [!TIP]
 > Möchten Sie eine herunterladbare Liste der Unterschiede zwischen Office 365 ATP-Plan 1 und Plan 2? [Rufen Sie die PDF-Datei](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)ab. 
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>Funktionen für Advanced Threat Protection (ATP)
+## <a name="advanced-threat-protection-atp-capabilities"></a>Funktionen von Advanced Threat Protection (ATP)
 
 ### <a name="safe-attachments"></a>Sichere Anlagen
 
@@ -109,7 +108,7 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 
 ### <a name="safe-links"></a>Sichere Links
 
-Das Feature " [ATP-sichere Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) " schützt Ihre Benutzer proaktiv vor bösartigen URLs in einer Nachricht oder in einem Office-Dokument. Der Schutz bleibt jedes Mal, wenn Sie den Link auswählen, da böswillige Links dynamisch blockiert werden, während auf gute Links zugegriffen werden kann.
+Das Feature " [ATP-sichere Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) " schützt Ihre Benutzer proaktiv vor bösartigen URLs in einer Nachricht oder in einem Office-Dokument. Der Schutz verbleibt, wenn sie auf den Link klicken, da böswillige Links dynamisch blockiert werden, während der Zugriff auf unbedenkliche Links gewährt wird.
 
 Sichere links stehen für URLs in den folgenden Apps zur Verfügung:
 
@@ -134,7 +133,7 @@ Sichere links stehen für URLs in den folgenden Apps zur Verfügung:
 
 ### <a name="anti-phishing-policies"></a>Antiphishing-Richtlinien
 
-[ATP-Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) prüft eingehende Nachrichten auf Indikatoren, bei denen es sich möglicherweise um einen Phishing-Versuch handelt. Wenn Benutzer durch ATP-Richtlinien (sichere Anlagen, sichere Links oder Anti-Phishing) abgedeckt werden, werden eingehende Nachrichten von mehreren maschinellen Lernmodellen ausgewertet, die Nachrichten analysieren, und die entsprechende Aktion wird basierend auf den konfigurierten Richtlinien ausgeführt.
+[ATP-Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) prüft eingehende Nachrichten auf Indikatoren, bei denen es sich möglicherweise um einen Phishing-Versuch handelt. Wenn Benutzer durch ATP-Richtlinien abgedeckt werden (sichere Anlagen, sichere Links oder Antiphishing), werden eingehende Nachrichten von mehreren Learning-Modellen analysiert und ausgewertet. Daraufhin wird eine entsprechende Aktion auf Grundlage der konfigurierten Richtlinien ausgeführt.
 
 ### <a name="real-time-reports"></a>Echtzeitberichte
 
@@ -142,7 +141,7 @@ Zu den im Security & Compliance Center verfügbaren Überwachungsfunktionen geh�
 
 ### <a name="explorer"></a>Explorer
 
-Explorer (auch als Threat Explorer bezeichnet) ist ein Echtzeitbericht, mit dem autorisierte Benutzer die aktuellen Bedrohungen identifizieren und analysieren können. Standardmäßig werden in diesem Berichtdaten für die letzten 7 Tage angezeigt; Ansichten können jedoch geändert werden, um Daten für die letzten 30 Tage anzuzeigen.
+Der Explorer (auch als Sicherheitsrisiken-Explorer bezeichnet) ist ein Echtzeitbericht, der es Ihnen ermöglicht, aktuelle Bedrohungen zu erkennen und zu analysieren. Standardmäßig werden in diesem Bericht Daten der letzten 7 Tage angezeigt. Allerdings kann die Ansicht so geändert werden, dass Daten für die letzten 30 Tage angezeigt werden.
 
 Der Explorer enthält Ansichten wie Schadsoftware (für e-Mails und Inhalte), Übermittlungen, Phishing und alle e-Mails. Um zu sehen, wie Explorer mit Echt Zeit Erkennungen vergleicht, [Laden Sie dieses PDF-Dokument herunter](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 
@@ -150,7 +149,7 @@ Weitere Informationen zum Explorer (in Office 365 Advanced Threat Protection Pla
 
 ### <a name="real-time-detections"></a>Echtzeiterkennungen
 
-Echtzeiterkennung ist ein Echtzeitbericht, mit dem autorisierte Benutzer die aktuellen Bedrohungen identifizieren und analysieren können. Ähnlich wie der Explorer werden in diesem Bericht standardmäßig Daten für die letzten 7 Tage angezeigt.
+Bei Echtzeiterkennungen handelt es sich um einen Echtzeitbericht, der es autorisierten Benutzern ermöglicht, aktuelle Bedrohungen zu erkennen und zu analysieren. Ähnlich wie beim Explorer werden in diesem Bericht standardmäßig die Daten für die letzten 7 Tage angezeigt.
 
 Echt Zeit Erkennungen enthalten Ansichten wie Schadsoftware (für e-Mails und Inhalte), Übermittlungen und Phishing. Um zu sehen, wie echt Zeit Erkennungen mit Explorer verglichen werden, [Laden Sie diese PDF herunter](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 

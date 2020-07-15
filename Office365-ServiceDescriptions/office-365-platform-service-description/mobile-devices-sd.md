@@ -1,8 +1,7 @@
 ---
 title: Mobile Geräte [SD]
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Viele Mobiltelefone, Tablets und andere mobile Geräte können mit Microsoft Office 365 verwendet werden.
-ms.openlocfilehash: b06c9769841cca8f08ff2e8dfa9abc16bde7bb72
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 04b1a125788d92e3eaea53f7e0ddd7005b3d2885
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045017"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132379"
 ---
 # <a name="mobile-devices-sd"></a>Mobile Geräte [SD]
 

@@ -1,7 +1,7 @@
 ---
 title: SharePoint-Beschränkungen
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
-ms.openlocfilehash: c6e18ea3e2219843c8169649ec6f1013270e6cff
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: c17ee9031938453d324c29de972dd232399dc01f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089646"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131049"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 

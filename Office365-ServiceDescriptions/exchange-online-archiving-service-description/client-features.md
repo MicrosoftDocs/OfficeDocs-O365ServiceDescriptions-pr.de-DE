@@ -1,8 +1,7 @@
 ---
 title: Client Features in Exchange Online Archivierung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Die gesamte Netzwerkverbindung mit dem Archiv des Benutzers erfolgt über das Internet, und es sind keine VPN-Verbindungen (virtuelles privates Netzwerk) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
-ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639723"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132059"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Client Features in Exchange Online Archivierung
 
@@ -28,14 +27,14 @@ Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von 
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook ist ein E-Mail-Programm mit umfassenden Funktionen, das Unterstützung für Kalendereinträge, Kontakte und Aufgaben bietet. Exchange Online-Archivierung unterstützt Outlook 2013, Outlook 2010 und Outlook 2007. Zu den zentralen Features zählen folgende:
+Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
   
 - **Outlook Anywhere** Outlook Anywhere ermöglicht Outlook-Benutzern das Herstellen einer Verbindung mit Exchange Server und Exchange Online Archivierung über das Internet, ohne dass eine VPN-Verbindung erforderlich ist. Die Kommunikation zwischen Outlook und Exchange Online-Archivierung erfolgt mithilfe der RPC-über-HTTP-Netzwerkkomponente von Windows über einen SSL-gesicherten Tunnel.    
 - **AutoErmittlung** Der Exchange AutoErmittlungsdienst konfiguriert Outlook automatisch für die Zusammenarbeit mit Exchange Online-Archivierung. Mit der AutoErmittlung können Outlook-Benutzer ihre erforderlichen Profileinstellungen direkt aus Exchange erhalten (und danach in festen Intervallen), dass Sie sich mit Ihrer e-Mail-Adresse und Ihrem Kennwort anmelden. 
 
 Outlook 2010 und höher und Outlook im Internet bieten Benutzern die vollständigen Features des Archivs sowie verwandte Features wie Aufbewahrungs-und archivrichtlinien.
   
-Outlook 2007 bietet eine grundlegende Unterstützung des Archivs, jedoch nicht aller Features für Archivierung und Richtlinientreue, die in Outlook 2007 verfügbar sind. In Outlook 2007 können Benutzer beispielsweise auf Elemente in ihrem Postfach keine Aufbewahrungs- oder Archivierungsrichtlinien anwenden. Stattdessen muss der Administrator diese Richtlinien bereitstellen. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das Archiv zugreifen zu können.
+Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
   
 > [!NOTE]
 > Outlook ist nicht im Lieferumfang von Exchange Online-Archivierung enthalten. Microsoft 365 apps for Enterprise (einschließlich Microsoft Outlook) ist in einigen Plänen enthalten und kann als separates Abonnement erworben werden. Weitere Informationen finden Sie unter [Microsoft 365-Planoptionen](../office-365-platform-service-description/office-365-plan-options.md). Weitere Informationen zu Microsoft 365-Apps für Unternehmen finden Sie in der [Office Applications-Dienstbeschreibung](../office-applications-service-description/office-applications-service-description.md). 
@@ -62,7 +61,7 @@ Die folgende Tabelle enthält die von der Exchange Online-Archivierung unterstü
 
 ## <a name="outlook-on-the-web"></a>Outlook im Web
 
-Outlook im Web ist eine webbasierte Version des Outlook-E-Mail-Programms, die mit Exchange Online verwendet wird. Überall dort, wo Benutzer zu Hause&mdash;, im Büro oder unterwegs mit dem Internet verbunden sind,&mdash;können Sie über Outlook im Web auf Ihre e-Mails zugreifen.
+Outlook im Web ist eine webbasierte Version des Outlook-E-Mail-Programms, die mit Exchange Online verwendet wird. Überall dort, wo Benutzer zu Hause, im Büro oder unterwegs mit dem Internet verbunden sind, &mdash; &mdash; können Sie über Outlook im Web auf Ihre e-Mails zugreifen.
   
 Benutzer können auf Ihr Archiv zugreifen, indem Sie sich bei Outlook im Internet lokal anmelden (unter Verwendung derselben URL). Das Archiv wird neben dem primären Postfach in Outlook im Internet angezeigt. Es gibt keine explizite Möglichkeit, direkt aus Outlook im Internet auf das Archiv zuzugreifen.
   

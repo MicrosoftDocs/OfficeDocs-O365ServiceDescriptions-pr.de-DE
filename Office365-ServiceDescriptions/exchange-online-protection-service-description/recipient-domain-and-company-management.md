@@ -1,8 +1,7 @@
 ---
 title: Empfänger-, Domänen- und Unternehmensverwaltung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EoP) bietet verschiedene Möglichkeiten zur Verwaltung Ihrer Empfänger-, Domänen-und Unternehmensinformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben im Exchange Admin Center (EAC) ausführen und andere Verwaltungsaufgaben überprüfen, die im Microsoft 365 Admin Center ausgeführt werden.
-ms.openlocfilehash: dcd039eab77c1b9df638df5ac3a3e5f6373e852d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640263"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132769"
 ---
 # <a name="recipient-domain-and-company-management"></a>Empfänger-, Domänen- und Unternehmensverwaltung
 
@@ -31,7 +30,7 @@ E-Mail-Empfänger werden als E-Mail-Benutzer oder -Gruppen kategorisiert und kö
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-Sie können in EOP nur Administratorrollen konfigurieren. Benutzer können direkt in der Exchange-Verwaltungskonsole den standardmäßigen Administratorrollengruppen hinzugefügt beziehungsweise daraus entfernt werden. Es ist keine Anpassung der rollenbasierten Zugriffssteuerung verfügbar. Weitere Informationen finden Sie unter [Verwalten der Berechtigungen der Administratorrollengruppen in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
+In EOP, you can configure administrative roles only. Users can be added and removed from default admin role groups directly in the EAC. No RBAC customization is available. For more information, see [Manage Admin Role Group Permissions in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
   
 ## <a name="domain-management"></a>Domain management
 
@@ -39,13 +38,13 @@ Verwaltete Domänen sind Domänen, die durch EoP geschützt sind. In der Exchang
   
 ## <a name="match-subdomains"></a>Untergeordnete Domänen abgleichen
 
-Sie können in EOP E-Mail-Fluss zu Unterdomänen einer verwalteten Domäne aktivieren. Weitere Informationen finden Sie unter [Aktivieren des E-Mail-Flusses für Unterdomänen in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
+In EOP, you can enable mail flow to subdomains of a managed domain. For more information, see [Enable Email Flow for Subdomains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>Directory Based Edge Blocking (DBEB)
 
 Mit der Funktion verzeichnisbasierte Edge-Blockierung können Sie Nachrichten für ungültige Empfänger im Dienst Netzwerkumkreis ablehnen. Mit Blockierung können Administratoren e-Mail-aktivierte Empfänger zu Microsoft hinzufügen und alle an e-Mail-Adressen gesendeten Nachrichten blockieren, die in Microsoft nicht vorhanden sind. Wenn eine Nachricht an eine gültige e-Mail-Adresse gesendet wird, die in Microsoft vorhanden ist, wird die Nachricht über die restlichen Dienstfilter Ebenen (Anti-Malware, Antispam, Transportregeln) weitergeleitet. Wenn die Adresse nicht vorhanden ist, blockiert der Dienst die Nachricht noch vor dem Filtern, und ein Unzustellbarkeitsbericht (NDR) wird mit der Benachrichtigung an den Absender gesendet, dass die Nachricht nicht zugestellt werden konnte. 
   
-Zum Aktivieren von DBEB ist eine bestimmte Benutzer- und Domänenkonfiguration erforderlich. Weitere Informationen finden Sie unter [Ablehnen von Nachrichten an ungültige Empfänger mithilfe von verzeichnisbasierter Edge-Blockierung](https://go.microsoft.com/fwlink/p/?LinkId=390676).
+Enabling DBEB requires some user and domain configuration. For more information, see [Use Directory Based Edge Blocking to Reject Messages Sent to Invalid Recipients](https://go.microsoft.com/fwlink/p/?LinkId=390676).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

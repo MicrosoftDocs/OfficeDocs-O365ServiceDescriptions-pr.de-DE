@@ -1,8 +1,7 @@
 ---
 title: Skype for Business Online-Beschränkungen
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Die Grenzwerte in Skype for Business Online fallen in die folgenden Kategorien.
-ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639703"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131019"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -39,7 +38,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 ## <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **Grenzwert für Dateiübertragung** Die maximale Größe einer Datei, die bei einer Skype for Business Online-Chatunterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **Beschränkung der Anzahl von als Registerkarten geöffneten Unterhaltungen** Die maximale Anzahl der Unterhaltungsregisterkarten, die ein Skype for Business-Benutzer gleichzeitig öffnen kann 
     
@@ -95,7 +94,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 |Personen in einer Teamanrufgruppe  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |Nicht zutreffend  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Wenn die Anzahl der Teilnehmer an einer Skype for Business-Besprechung 75 Teilnehmer übersteigt, wird die Teilnehmerliste (Referenten und Teilnehmer) abgeschnitten, sodass den einzelnen Teilnehmern nur die Referenten sowie ihr eigener Name angezeigt werden. Die vollständige Teilnehmerliste bleibt für die Referenten in der Besprechung sichtbar. Darüber hinaus werden Fehler bei der Katalogansicht und beim Chat für die Teilnehmer ausgeblendet. 
+> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>Besprechungsgrenzwerte bei Optionen für eigenständige Pläne
 

@@ -1,8 +1,7 @@
 ---
 title: Yammer-Plattformfeatures
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Die folgenden Features der Jammer Plattform stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: 25d579b08716b91dce1a3973c72f4d9b28432c53
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 63d96e638a60fc4533478e28e901cc38c3082cf3
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638673"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132959"
 ---
 # <a name="yammer-platform-features"></a>Yammer-Plattformfeatures
 
@@ -25,7 +24,7 @@ Die folgenden Features der Jammer Plattform stehen in "jammern" zur Verfügung.
  
 ## <a name="activity-stream-api"></a>Aktivitätsdaten Strom-API
 
-Integrieren Sie vorhandene Geschäftsanwendungen, indem Sie dem Social Graph Daten hinzufügen. Lenken Sie die Aufmerksamkeit auf Aktivitäten, die in allen vorhandenen Geschäftsanwendungen stattfinden.
+Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
   
 ## <a name="browser-extension"></a>Browser Erweiterung
 

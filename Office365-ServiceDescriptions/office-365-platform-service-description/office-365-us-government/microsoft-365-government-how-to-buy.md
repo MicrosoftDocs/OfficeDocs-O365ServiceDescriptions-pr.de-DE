@@ -1,19 +1,18 @@
 ---
 title: Kaufempfehlungen für Microsoft 365 Government
-ms.author: danarl
-author: danarl
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 6a3bdafcdd7b18f64fd6894d1a4ab3612d392ae2
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: 5ce792e713a4db5149498c3b8dd60a216b26a365
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711125"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131749"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-How to Buy
 

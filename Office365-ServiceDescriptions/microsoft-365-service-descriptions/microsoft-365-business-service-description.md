@@ -1,8 +1,7 @@
 ---
 title: Microsoft 365 Business Premium – Dienstbeschreibung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium ist eine integrierte Lösung, die die beste Produktivität mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben.
-ms.openlocfilehash: 8760788fe6fd0b8a66f9379f56b569239b18c142
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: fbeae5678143d78138b71fe842c40a9969951531
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214027"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132559"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium – Dienstbeschreibung
 
@@ -105,7 +104,7 @@ Microsoft 365 Business Premium umfasst im Wesentlichen alle Funktionen, die in M
 |Ordner vor Bedrohungen wie Ransomware schützen <br/> |Ja  <br/> |
 |Schützen von Dateien und Ordnern auf PCs vor nicht autorisiertem Zugriff mit BitLocker <br/> |Ja  <br/> |
 
-### <a name="notes"></a>Hinweise
+### <a name="notes"></a>Anmerkungen
 <sup>1</sup> enthält Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) aktiviert die unterstützten Funktionen für die Verwaltung von Informationsrechten (Information Rights Management, IRM). AIP-Plan 1 ist in Microsoft 365 Business Premium enthalten. <br/>
 <sup>3</sup> Microsoft 365 Business Premium umfasst Exchange Online Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Overview of Unlimited Archiving](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>

@@ -1,8 +1,7 @@
 ---
 title: Beschreibung des Exchange Online-Archivierungsdiensts
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,18 +13,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Bei Microsoft Exchange Online-Archivierung handelt es sich um eine Cloud-basierte Microsoft 365-Archivierungslösung für Unternehmen, die Exchange Server 2019, Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 und höher) bereitgestellt oder bestimmte Exchange Online-oder Microsoft 365-Pläne abonniert hat. Exchange Online Archivierung unterstützt diese Organisationen bei der Archivierung, Compliance, behördlichen und eDiscovery-Herausforderungen bei gleichzeitiger Vereinfachung der lokalen Infrastruktur und dadurch Kostenreduzierung und Entlastung.
-ms.openlocfilehash: 5b5b19fa947594bbf648a46746bbfecbf8039fda
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213727"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131519"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Beschreibung des Exchange Online-Archivierungsdiensts
 
 Bei Microsoft Exchange Online-Archivierung handelt es sich um eine Cloud-basierte Microsoft 365-Archivierungslösung für Unternehmen, die Exchange Server 2019, Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 und höher) bereitgestellt oder bestimmte Exchange Online-oder Microsoft365-Pläne abonniert hat. Exchange Online Archivierung unterstützt diese Organisationen bei der Archivierung, Compliance, behördlichen und eDiscovery-Herausforderungen bei gleichzeitiger Vereinfachung der lokalen Infrastruktur und dadurch Kostenreduzierung und Entlastung.
   
-Als Microsoft Online-Dienst ist Exchange Online Archivierung so konzipiert, dass die Anforderungen an eine robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität erfüllt werden können. Weitere Informationen zu Microsoft 365, einschließlich der Features, die alle Microsoft Online Services gemeinsam haben, finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](../office-365-platform-service-description/office-365-platform-service-description.md).
+Als Microsoft-Onlinedienst ist Exchange Online-Archivierung darauf ausgelegt, Anforderungen in puncto robuster Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen. Weitere Informationen zu Microsoft 365, einschließlich der Features, die alle Microsoft Online Services gemeinsam haben, finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](../office-365-platform-service-description/office-365-platform-service-description.md).
   
 Informationen zum Erwerb Exchange Online Archivierung finden Sie unter [Exchange Online Archivierung für Server](https://products.office.com/exchange/microsoft-exchange-online-archiving-email).
   
@@ -61,11 +60,11 @@ Administratoren können einen Ansatz mit einmaligem Anmelden bei der Authentifiz
   
 ### <a name="user-subscriptions"></a>Benutzerabonnements
 
-Jeder Benutzer, der auf den Exchange Online-Archivierung-Dienst zugreift, muss über ein Exchange Online-Archivierung-Abonnement verfügen. Ein E-Mail-Archivabonnement kann nur zum Speichern der Nachrichtendaten eines Benutzers verwendet werden.
+Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
   
 ## <a name="unlimited-archive-storage-quota"></a>Unbegrenztes Archivspeicherkontingent
 
- Das Feature für unbegrenzte Archivierung ( *automatisch expandierende Archivierung*genannt) bietet zusätzlichen Speicherplatz in archivpostfächern. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch expandierende Archivierung aktiviert ist, wird automatisch zusätzlicher Speicherplatz hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht wird. In Exchange-hybridbereitstellungen wird die automatisch expandierende Archivierung nur für Cloud-basierte Archivpostfächer unterstützt, wenn sich das Postfach des lokalen Benutzers in Exchange Server 2019, Exchange Server 2016 oder Exchange Server 2013 (SP1 oder höher) befindet. Weitere Informationen finden Sie unter [Overview of Unlimited Archiving](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
+ Das unbegrenzte Archivierungsfeature (*automatisch erweiternde Archivierung* genannt) bietet zusätzlichen Speicherplatz in Archivpostfächern. Jeder Abonnent der Exchange Online Archivierung erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch expandierende Archivierung aktiviert ist, wird automatisch zusätzlicher Speicherplatz hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht wird. In Exchange-hybridbereitstellungen wird die automatisch expandierende Archivierung nur für Cloud-basierte Archivpostfächer unterstützt, wenn sich das Postfach des lokalen Benutzers in Exchange Server 2019, Exchange Server 2016 oder Exchange Server 2013 (SP1 oder höher) befindet. Weitere Informationen finden Sie unter [Overview of Unlimited Archiving](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Administratoren können das Speicherkontingent nicht anpassen.<br/>

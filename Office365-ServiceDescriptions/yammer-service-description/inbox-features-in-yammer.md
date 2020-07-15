@@ -1,8 +1,7 @@
 ---
 title: Posteingangsfeatures in Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Die folgenden Posteingangs Funktionen stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: 391792d166313f0119b9b50de9a7d89180f57084
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e8cf9c963a00166910bc34e2f2cfc0e19d6575d1
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640043"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133049"
 ---
 # <a name="inbox-features-in-yammer"></a>Posteingangsfeatures in Yammer
 

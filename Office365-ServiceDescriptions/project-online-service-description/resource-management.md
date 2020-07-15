@@ -1,8 +1,7 @@
 ---
 title: Ressourcenmanagement
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
 description: Die folgenden Ressourcen Verwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: 187bea0dad7dd099d1697b44c53c41d7d8c3ec8f
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: fdf0e282c6511e34b426f656b2d4512b90cc8ae9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546088"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131139"
 ---
 # <a name="resource-management"></a>Ressourcenmanagement
 
@@ -23,15 +22,15 @@ Die folgenden Ressourcen Verwaltungsfeatures sind in Project online verfügbar.
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>Annehmen/Ablehnen/Bearbeiten eingehender Ressourcenverhandlungsanfragen
 
-Ermöglicht das Annehmen, Ablehnen oder Bearbeiten eingehender Ressourcenverhandlungsanfragen auf Grundlage der Ressourcengesamtansicht. Weitere Informationen finden Sie unter [Annehmen oder Ablehnen einer Verhandlungsanforderung](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).
+You can accept, reject, or modify incoming resource requests based on the overall resource view. For details, see [Accept or reject an engagement request](https://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).
   
 ## <a name="manage-resource-pool"></a>Verwalten des Ressourcenpools
 
-Ermöglicht das Verwalten eines Enterprise-Ressourcenpools, sowohl einzeln als auch in einem Massenvorgang. Weitere Informationen finden Sie unter [Hinzufügen einer Ressource zu Project Web App](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) und [Hinzufügen oder Aktualisieren von Enterprise-Ressourcen mithilfe von externen Datendateien](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).
+Manage an enterprise resource pool - both by individual and in bulk. For more information, see [Add a resource to Project web app](https://go.microsoft.com/fwlink/?LinkID=823660&amp;clcid=0x409) and [Add or update enterprise resources using an external data file](https://go.microsoft.com/fwlink/?LinkID=823661&amp;clcid=0x409).
   
 ## <a name="plan-resource-capacity"></a>Ressourcenkapazität
 
-Wenn Sie wissen möchten, ob Ressourcen überbucht sind, können Sie die Ansicht zur Kapazitätsplanung im Ressourcencenter verwenden, um die Anzahl der Stunden, die die Ressource verfügbar ist, mit den Stunden zu vergleichen, die sie für Projekte benötigt wird. Weitere Informationen finden Sie unter [Bewerten der Ressourcenkapazität](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).
+When you need to know if resources are overbooked, you can use the Capacity Planning view in the Resource Center to compare how many hours a resource is able to put in versus how many hours they're needed on projects. For details, see [Evaluate resource capacity](https://go.microsoft.com/fwlink/?LinkID=823662&amp;clcid=0x409).
   
 ## <a name="request-resource-agreements"></a>Anfordern von Ressourcenvereinbarungen
 

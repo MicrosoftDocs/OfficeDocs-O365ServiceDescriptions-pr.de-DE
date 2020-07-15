@@ -1,8 +1,7 @@
 ---
 title: Projektmanagement
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Die folgenden Projektverwaltungsfeatures sind in Project online verfügbar.
-ms.openlocfilehash: 48fe2dd921cdda7d85dbbe138577a4a880e72488
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 6952e801fe96d9467c7b642b002abf6f97664414
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688140"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131219"
 ---
 # <a name="project-management"></a>Projektmanagement
 
@@ -25,7 +24,7 @@ Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project O
   
 ## <a name="issues-and-risk-management"></a>Problem- und Risikoverwaltung
 
-Project Online und Project Server 2013 beinhalten Features zum Verhindern, Bestimmen und Vermeiden potenzieller Geschäfts- oder projektbezogener Risiken und Probleme. Weitere Informationen finden Sie unter [Verwalten von Problemen, Risiken und Dokumenten in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="manage-project-resources"></a>Verwalten von Projektressourcen
 
@@ -33,15 +32,15 @@ Ermöglicht Projektmanagern das Anzeigen verfügbarer Ressourcen, Erstellen von 
   
 ## <a name="reporting-and-business-intelligence"></a>Berichterstellung und Business Intelligence
 
-Mit Microsoft PPM-Lösungen stehen Ihnen verschiedene Optionen für das Anzeigen und Erstellen von Berichten und für das Arbeiten mit Project Server 2013-Daten zur Verfügung. Einige Berichte stehen automatisch zur Verfügung. Zudem können Sie mithilfe zahlreicher Berichterstellungstools mühelos eigene Berichte erstellen. Weitere Informationen finden Sie unter [Welche Berichtstools können für Project-Daten verwendet werden?](https://go.microsoft.com/fwlink/?LinkId=402642).
+With Microsoft PPM solutions, you have several options for viewing and creating reports and working with Project Server 2013 data. Some reports are available automatically, and you can easily create your own reports using lots of reporting tools. To learn more, see [What reporting tools can I use with project data?](https://go.microsoft.com/fwlink/?LinkId=402642).
   
 ## <a name="schedule-management"></a>Zeitplanverwaltung
 
-Im Zeitplan werden die Aufgaben und Projektleistungen dargestellt, die abgeschlossen werden müssen, um das Projekt rechtzeitig zu liefern. Sie können eine Zeitachse für Ihre Projekte erstellen, um den Fortschritt nachzuverfolgen und Änderungen zu verwalten. Weitere Informationen finden Sie im Artikel zum Thema [Hinzufügen von Aufgaben und Projekten zu einer Zeitachse](https://go.microsoft.com/fwlink/?LinkID=402655).
+The schedule represents the tasks and deliverables that must be completed to deliver the project on time. You can create a timeline for your projects to track progress and manage change. To learn more, see [Add tasks and projects to the timeline](https://go.microsoft.com/fwlink/?LinkID=402655).
   
 ## <a name="time-and-task-management"></a>Zeit- und Vorgangsverwaltung
 
-Verwenden Sie einen zentralisierten und gemeinsamen Ansatz für die Verwaltung der Zeiterfassung und der Vorgänge. Erfassen Sie Arbeitszeiten und arbeitsfreie Zeiten für die Personalabrechnung, die Fakturierung und andere geschäftliche Zwecke. Informieren Sie effizient über den Projektstatus oder tägliche Arbeiten sowie über Ad-hoc-Anfragen, um hohe und niedrige Auslastung oder den Fortschritt von Vorgängen abzuschätzen. Damit können Sie die Auswirkung auf die Planungen im Hinblick auf Aufwand, Kosten und Zeitplan antizipieren. Erfahren Sie mehr über das [Verfolgen Ihrer Arbeitszeiten und des Vorgangsfortschritts](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
 
 ## <a name="project-home"></a>Projektstart Seite
 

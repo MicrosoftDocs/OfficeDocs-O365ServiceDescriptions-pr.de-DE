@@ -1,8 +1,7 @@
 ---
 title: Dienstupdates
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Informationen zu Office 365 Features, die soeben veröffentlicht wurden oder die veröffentlicht werden sollen, finden Sie in der Microsoft 365-Roadmap.
-ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044807"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131479"
 ---
 # <a name="service-updates"></a>Dienstupdates
 
 > [!NOTE]
-> Die Informationen in diesem Thema gelten nicht für Office 365, betrieben von 21Vianet. Weitere Informationen zu Dienstupdates finden Sie unter [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) 
+> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 Informationen zu Features, die soeben veröffentlicht wurden oder die veröffentlicht werden sollen, finden Sie in der [Microsoft 365-Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 > [!NOTE]
-> Den Kunden werden Updates und Upgrades auf der Grundlage zahlreicher Faktoren angeboten, wie die geographische Lage, die Sprache, das Rechenzentrum und das Abonnement. Dies bedeutet, dass nicht alle Updates sofort für vorhandene Kunden verfügbar sind. 
+> Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription. This means that not all updates are available immediately to existing customers. 
   
 ## <a name="targeted-release"></a>Zielrelease
 

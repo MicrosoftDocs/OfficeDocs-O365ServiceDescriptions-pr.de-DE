@@ -1,23 +1,22 @@
 ---
 title: Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: v-trscho
+author: vtrscho
 audience: ITPro
 ms.topic: reference
-ms.date: 4/13/2020
+ms.date: 7/13/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
+ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089656"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45137561"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -70,7 +69,7 @@ Azure ATP-Dienste können derzeit nicht die Funktionen für bestimmte Benutzer e
 
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
-Advanced Threat Protection (ATP) schützt Organisationen vor ausgeklügelten Angriffen wie Phishing und Zero-Day-Schadsoftware. Es bietet auch umsetzbare Einblicke durch Korrelieren von Signalen aus einer breiten Palette von Daten zur Unterstützung bei der Identifizierung, Priorisierung und Bereitstellung von Empfehlungen zur Lösung potenzieller Bedrohungen.
+Advanced Threat Protection (ATP) schützt Organisationen vor ausgeklügelten Angriffen wie Phishing und Zero-Day-Schadsoftware. ATP bietet auch umsetzbare Einblicke, indem Signale aus einer breiten Palette von Daten korreliert werden, um Sie bei der Identifizierung, Priorisierung und der Bereitstellung von Empfehlungen zur Lösung potenzieller Bedrohungen zu unterstützen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 

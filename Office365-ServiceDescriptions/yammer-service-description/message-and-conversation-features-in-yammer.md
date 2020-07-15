@@ -1,8 +1,7 @@
 ---
 title: Nachrichten- und Unterhaltungsfeatures in Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
-ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3da9f412a963793caf2fe3373d5d72f3b5d549a8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640033"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133039"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Nachrichten- und Unterhaltungsfeatures in Yammer
 
@@ -27,7 +26,7 @@ Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
 
 Benachrichtigen Sie andere Kollegen, und beziehen Sie sie durch die Erwähnung ihres Namens in eine Unterhaltung ein.
 
-## <a name="events"></a>Ereignisse
+## <a name="events"></a>Veranstaltungen
 
 Organisieren Sie Besprechungen und Ereignisse, teilen Sie Sie mit Kollegen und verfolgen Sie die Teilnahme. Ereignisse können Outlook, Google, Yahoo! und iCal Kalendern hinzugefügt werden.
   
@@ -37,7 +36,7 @@ Mit Office für die Webunterstützung in "jammern" können Dokumente, die in "ja
 
 ## <a name="online-now"></a>Jetzt Online
 
-Sie können sehen, wer online ist, und sofort eine private Diskussion mit einem oder mehreren Kollegen beginnen. Die Kontaktliste wird automatisch nach den Personen sortiert, mit denen Sie am meisten zu tun haben.
+See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
 
 ## <a name="polls"></a>Umfragen
 
