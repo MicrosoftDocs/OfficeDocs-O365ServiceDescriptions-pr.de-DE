@@ -96,7 +96,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |System Center Endpoint Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Includes Exchange Online Plan 1 plus supplemental features. <br/>
+> <sup>1</sup> Umfasst Exchange Online-Plan 1 sowie zusätzliche Features.<br/>
 > <sup>2</sup> Umfasst Exchange Online-Plan 2. <br/>
 > <sup>3</sup> Umfasst SharePoint Online-Plan 1 sowie zusätzliche Features. <br/>
 > <sup>4</sup> Umfasst SharePoint Online-Plan 2. <br/>

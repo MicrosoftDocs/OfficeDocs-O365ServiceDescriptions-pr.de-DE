@@ -25,13 +25,13 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
 > [!TIP]
 > Weitere Informationen zu Grenzwerten in Exchange Online finden Sie unter [Exchange Online Limits](../exchange-online-service-description/exchange-online-limits.md). Die Grenzwerte für Transportregeln gelten auch für Kunden der eigenständigen Lösung von EOP. Die Grenzwerte für Empfängerrate und Nachrichtenrate für Exchange Online gelten nicht für Kunden der eigenständigen Lösung von EOP. 
   
-- **Domain limit** You can add up to 900 domains per tenant. Subdomains can be included in this 900 limit, or if necessary, as part of a catch-all option, match subdomains. For more information, see [Manage Accepted Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+- **Grenzwert für Domänen** Sie können bis zu 900 Domänen pro Mandant hinzufügen. Unterdomänen können in diesem Grenzwert von 900 enthalten sein oder, falls erforderlich, als Teil einer CatchAll-Option Unterdomänen entsprechen. Weitere Informationen finden Sie unter [Verwalten akzeptierter Domänen in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
     
 - **Größenbeschränkung für Nachrichten** Die maximale Nachrichtengröße für Kunden der eigenständigen Lösung von EOP beträgt 150 MB. 
     
-- **Number of outbound messages sent** The limit for the number of outbound messages sent through EOP is high enough to ensure that normal email communication is not treated as spam. If you want to send commercial bulk email messages, rather than sending outbound messages through EOP, we recommend that you either use a third-party email service provider (ESP) or send them through your on-premises email servers. 
+- **Anzahl der ausgehenden Nachrichten** Der Grenzwert für die Anzahl ausgehender Nachrichten, die über EOP gesendet werden, ist so hoch, dass normale E-Mail-Kommunikation nicht als Spam behandelt wird. Wenn Sie geschäftliche Massen-E-Mails und keine ausgehenden Nachrichten über EOP senden möchten, sollten Sie entweder einen E-Mail-Drittanbieter (Email Service Provider, ESP) verwenden oder die E-Mails über Ihre lokalen E-Mail-Server senden. 
     
-- **Recipient limit** As long as the sending host can split the message into "chunks" of fewer than 500 recipients, no explicit limit is defined. However, each "chunk" is effectively treated as a new message. Too many messages in a short period, messages from a host with a poor reputation, or messages with questionable content could be throttled or blocked. 
+- **Empfängergrenzwert** Solange der sendende Host die Nachricht in Segmente mit weniger als 500 Empfängern aufteilen kann, wird keine explizite Grenze definiert. Jedes Segment wird effektiv wie eine neue Nachricht behandelt. Zu viele Nachrichten in einem kurzen Zeitraum, Nachrichten von einem Host mit einem schlechten Ruf oder Nachrichten mit verdächtigem Inhalt können gedrosselt oder blockiert werden. 
     
 - **Begrenzung für IP-Zulassungsliste oder IP-Sperrliste** Wenn Sie im Verbindungsfilter eine IP-Zulassungsliste oder IP-Sperrliste konfigurieren, können Sie maximal 1273 Einträge angeben, wobei ein Eintrag entweder eine einzelne IP-Adresse oder einen CIDR-Bereich von IP-Adressen von /24 bis /32 darstellt. 
     
@@ -39,7 +39,7 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
     
 - **Aufbewahrungszeitraum für Spam Quarantäne** Standardmäßig werden Spamnachrichten, die an die Quarantäne gesendet werden, 30 Tage lang aufbewahrt. Administratoren können diesen Wert über Inhaltsfilterrichtlinien verringern. 
     
-- **End-user spam quarantine notifications** By default, if enabled, end-user spam quarantine notifications are sent every 3 days. They can be configured to be sent every 1 to 15 days. 
+- **Spamquarantänebenachrichtigungen für Endbenutzer** Standardmäßig werden Spamquarantänebenachrichtigungen alle 3 Tage an den Endbenutzer versendet. Sie können so konfiguriert werden, dass sie alle 1 bis 15 Tage versendet werden. 
     
 - **Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung** Informationen zu Grenzwerten für Berichterstellung und Nachrichtenablaufverfolgung finden Sie im Abschnitt "Verfügbarkeit und Latenz von Berichten und Nachrichtenablauf Verfolgungsdaten" in [Berichterstellung und Nachrichtenablaufverfolgung in Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
     

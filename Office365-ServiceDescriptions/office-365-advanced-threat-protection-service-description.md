@@ -76,7 +76,7 @@ ATP kann mit einem beliebigen SMTP-e-Mail-Übertragungs-Agent verwendet werden, 
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Verfügbarkeit von Features in ATP-Plänen (Advanced Threat Protection)
 
-Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
+Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.
 
 |**Feature**|**ATP-Plan 1**<br>(ehemals ATP Standalone)|**ATP-Plan 2**<br>(ehemals Threat Intelligence <br>Standalone| Office 365 Enterprise E5|
 |:-----|:-----|:-----|:-----|

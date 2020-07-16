@@ -21,9 +21,9 @@ ms.locfileid: "45131669"
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
-> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
+> Die Informationen in diesem Artikel gelten weltweit für Versionen von Office 365. Wenn Sie eine nationale Cloudinstanz von Office 365, einschließlich Office 365 US Government, Office 365 Deutschland und Office 365, betrieben von 21Vianet, verwenden, finden Sie unter [Microsoft National Wolken](https://go.microsoft.com/fwlink/?linkid=841582) weitere Informationen. 
   
-Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+Wir bei Microsoft schätzen die Partnerschaft mit unseren Kunden und messen dem Schutz und der Sicherheit ihrer Daten höchste Bedeutung bei. Weitere Informationen finden Sie im [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>Datenschutz
 
@@ -49,7 +49,7 @@ Als eDiscovery (electronic discovery) wird das Identifizieren und Übermitteln e
 
 Als Microsoft-Administrator können Sie die Kunden-Lockbox verwenden, um zu steuern, wie ein Microsoft-Supporttechniker während einer Hilfesitzung auf Ihre Daten zugreift. In Fällen, in denen der Techniker zur Erkennung und Behebung eines Problems Zugriff auf Ihre Daten benötigt, ermöglicht Ihnen Kunden Lockbox, die Zugriffsanfrage zu genehmigen oder abzulehnen. Wenn Sie ihn genehmigen, kann der Techniker auf die Daten zugreifen. Jede Anforderung hat eine Ablaufzeit, und sobald das Problem behoben ist, wird die Anforderung geschlossen und der Zugriff aufgehoben.
   
-Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+Kunden-Lockbox ist im Office 365 Enterprise 5-Plan enthalten. Sie können aber auch ein separates Abonnement mit einem anderen Office 365 Enterprise-Plan erwerben. Weitere Informationen finden Sie unter [Kunden-Lockbox in Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 

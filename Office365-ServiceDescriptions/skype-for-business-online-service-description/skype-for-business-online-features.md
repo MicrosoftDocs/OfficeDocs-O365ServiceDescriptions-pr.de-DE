@@ -30,7 +30,7 @@ Wenn Sie ein Administrator sind, finden Sie ausführliche Anweisungen zum Einric
     
 - Die verfügbaren Skype for Business-Optionen für Mobilgeräte finden Sie unter [Installieren von Skype for Business auf einem Mobilgerät](https://go.microsoft.com/fwlink/?linkid=847564).
     
-- For a detailed comparison of the Skype for Business desktop and web clients, see [Skype for Business Online client comparison tables](https://go.microsoft.com/fwlink/?linkid=829754). For a detailed comparison of the Skype for Business mobile clients, see the [Mobile client comparison tables](https://go.microsoft.com/fwlink/?linkid=846932).
+- Einen ausführlichen Vergleich der Skype for Business-Desktopclients und -Webclients finden Sie unter [ Clientvergleichstabellen für Skype for Business Online ](https://go.microsoft.com/fwlink/?linkid=829754). Einen ausführlichen Vergleich der mobilen Skype for Business-Clients finden Sie unter [ Vergleichstabellen für mobile Clients ](https://go.microsoft.com/fwlink/?linkid=846932).
     
 Um den Client für Ihr mobiles Gerät, Ihren PC oder Mac herunterzuladen, wechseln Sie zu [Download Skype for Business auf allen Geräten](https://go.microsoft.com/fwlink/?linkid=846929).
   
@@ -50,7 +50,7 @@ Weitere Informationen zu Chatnachrichten, Anwesenheit und Kontakten finden Sie u
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Audio-, Video- und Medienanrufe von Skype zu Skype
 
-Skype for Business Online users can make one-to-one computer-based audio and video calls to other Skype for Business users using a PC and a web camera. A Skype for Business Online user can initiate Skype-to-Skype audio and video calls with another user in the same Skype for Business Online organization (within or outside the corporate firewall), or with another Skype for Business user in a Skype for Business federated domain if the two Skype for Business domains are correctly configured, supported, and permitted for federation.
+Skype for Business Online-Benutzer können computerbasierte direkte Audio- und Videoanrufe an andere Skype for Business-Benutzer mittels eines Computers und einer Webkamera durchführen. Ein Skype for Business Online-Benutzer kann Audio- und Videoanrufe von Skype zu Skype mit einem anderen Benutzer in derselben Skype for Business Online-Organisation (innerhalb oder außerhalb der Unternehmensfirewall) oder mit einem anderen Skype for Business-Benutzer in einer Skype for Business-Verbunddomäne initiieren, wenn die beiden Skype for Business-Domänen ordnungsgemäß konfiguriert sind, unterstützt werden und für den Verbund zugelassen sind.
   
 Weitere Informationen zum Festlegen von Optionen für Audiogeräte in Skype for Business finden Sie unter [Festlegen von Optionen für Audiogeräte in Skype for Business](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff) . 
   
@@ -71,19 +71,19 @@ Neben Audio können Skype for Business Benutzer über hochqualitative Videositzu
 Weitere Informationen zu Skype for Business Onlinebesprechungen finden Sie unter [Starten der Verwendung von Skype for Business für Chat-und Onlinebesprechungen](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd).
   
 > [!IMPORTANT]
-> Multiparty Skype for Business audio and video capabilities might not be available in certain countries due to regulatory restrictions. For details, see [About license restrictions](https://go.microsoft.com/fwlink/?LinkId=278963). 
+> Aufgrund von behördlichen Beschränkungen stehen die Audio- und Videofunktionen für mehrere Teilnehmer in Skype for Business in bestimmten Ländern nicht zur Verfügung. Einzelheiten finden Sie unter [Informationen zu Lizenzeinschränkungen](https://go.microsoft.com/fwlink/?LinkId=278963). 
   
 ## <a name="security-and-archiving"></a>Sicherheit und Archivierung
 
 Der Microsoft-Datenverkehr (sowohl der Signal-als auch der Mediendatenverkehr) wird mithilfe des TLS-Protokolls (Transport Layer Security) verschlüsselt. Jeder, der eine Übertragung abfängt, sieht nur verschlüsselten Text. Wenn ein Benutzer beispielsweise auf Skype for Business Online Chat, Anrufe und Präsentationen zugreift, während er ein öffentliches Wi-Fi-Netzwerk verwendet, beispielsweise an einem Flughafen, werden die Kommunikationen des Benutzers verschlüsselt, um potenzielle Abfangvorgänge mit dem Netzwerk "Sniffers" zu übernehmen.
   
-Skype for Business provides archiving of peer-to-peer instant messages, multiparty instant messages, and content upload activities in meetings. The archiving capability requires Exchange and is controlled by the user's Exchange mailbox In-Place Hold attribute, which archives both email and Skype for Business contents.
+Skype for Business ermöglicht das Archivieren von Peer-zu-Peer-Chatnachrichten, Chatnachrichten mit mehreren Teilnehmern und das Hochladen von Inhalt in Besprechungen. Zum Archivieren ist Exchange erforderlich, und die Funktion wird vom Compliance-Archiv-Attribut für das Exchange-Postfach des Benutzers gesteuert, mit dem sowohl E-Mails als auch Skype for Business-Inhalte archiviert werden.
   
-All archiving in Skype for Business is considered "user-level archiving" because you enable or disable it for one or more specific users or groups of users by creating, configuring, and applying a user-level archiving policy for those users. There is no direct control of archiving settings from within the Skype for Business admin center. 
+Die gesamte Archivierung in Skype for Business wird als "Archivierung auf Benutzerebene" bezeichnet, da sie für bestimmte Benutzer oder Benutzergruppen aktiviert bzw. deaktiviert wird, indem eine Richtlinie für die Archivierung auf Benutzerebene für diese Benutzer erstellt, konfiguriert und angewendet wird. Das Skype for Business Admin Center bietet keine Möglichkeit zum direkten Steuern von Archivierungseinstellungen. 
   
 ## <a name="exchange-and-sharepoint-interoperability"></a>Interoperabilität von Exchange und SharePoint
 
-Skype for Business Online includes high definition pictures, presence status updates based on Exchange calendar information, unified contact store, archiving, out-of-office messages in Skype for Business, and presence status and click-to-communicate in Outlook. This interoperability requires running the Skype for Business client on the user's desktop.
+Skype for Business Online umfasst hochauflösende Bilder, Anwesenheitsstatusaktualisierungen basierend auf Exchange-Kalenderinformationen, einen einheitlichen Kontaktspeicher, Archivierung, Abwesenheitsnachrichten in Skype for Business sowie Anwesenheitsstatus und Click-to-communicate in Outlook. Für diese Interoperabilität muss der Skype for Business-Client auf dem Desktop des Benutzers ausgeführt werden.
   
 In einigen Abonnementplänen kann Skype for Business in Exchange Online Unified Messaging (UM) integriert werden, um:
   
@@ -91,7 +91,7 @@ In einigen Abonnementplänen kann Skype for Business in Exchange Online Unified 
     
 - Aktivieren Sie Outlook im Internet, um Sofortnachrichten, Anwesenheitsinformationen, Statusaktualisierungen basierend auf Exchange-Kalenderinformationen und Skype for Business Besprechungsplanung bereitzustellen.
     
-Skype for Business interoperates with on-premises Microsoft SharePoint Server for presence and click-to-communicate in SharePoint sites. This interoperability requires running the Skype for Business client on the user's desktop. 
+Skype for Business bietet Interoperabilität mit einem lokalen Microsoft SharePoint Server für die Integration von Anwesenheitsinformationen und Click-to-Communicate in SharePoint-Websites. Für diese Interoperabilität muss der Skype for Business-Client auf dem Desktop des Benutzers ausgeführt werden. 
   
 ## <a name="skype-for-business-online-administration-and-management"></a>Skype for Business Online-Administration und -Verwaltung
 
@@ -111,13 +111,13 @@ Informationen zu den neuesten Skype for Business Online admin-Hilfethemen und Vo
   
 ## <a name="audio-conferencing-in-office-365"></a>Audiokonferenzen in Office 365
 
-Audio Conferencing is any conference in which at least one participant dials in to the audio portion by using a phone. The ability to use a phone to access a meeting is useful for individuals who are on the road or otherwise can't attend a meeting using a mobile device or PC. Using a phone also can be a better option in other scenarios, such as when internet connectivity is limited or when a meeting is audio only.
+Als Audiokonferenz wird eine Konferenz bezeichnet, in der mindestens ein Teilnehmer sich per Telefon für den Audioteil einwählt. Die Möglichkeit zum Zugreifen auf eine Besprechung über ein Telefon ist für Personen hilfreich, die unterwegs sind oder nicht per Mobilgerät oder Computer an einer Besprechung teilnehmen können. Die Verwendung eines Telefons kann auch in anderen Szenarien die bessere Wahl sein, z. B. wenn die Internetverbindung begrenzt ist oder wenn eine Besprechung nur einen Audioteil umfasst.
   
-With Audio Conferencing, users in your organization can host or create meetings that contain dial-in phone numbers. Callers can then use those phone numbers to call into a meeting using their phones (users who are dialing into a meeting will only get audio, not instant messages, shared desktops, or files being shared in the meeting). You only need to set up dial-in conferencing for users who plan to schedule or lead meetings. Unless the organizer has locked the meeting, anyone who has the dial-in number and conference ID can join the meeting. For details, see [Getting started with Audio Conferencing](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) and [Dial-in numbers available for Audio Conferencing](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Mit Audiokonferenzen können Benutzer in Ihrer Organisation Besprechungen, die Einwahltelefonnummern enthalten, hosten oder erstellen. Anrufer können dann diese Telefonnummern zum Einwählen in eine Besprechung mit ihrem Telefon verwenden (Benutzer, die sich in eine Besprechung einwählen, erhalten nur Audio, keine Sofortnachrichten, freigegebenen Desktops oder in der Besprechung freigegebenen Dateien). Sie müssen Einwahlkonferenzen nur für Benutzer einrichten, die Besprechungen planen oder leiten möchten. Sofern der Organisator die Besprechung nicht gesperrt hat, kann jeder, der die Einwahlnummer und die Konferenz-ID hat, der Besprechung beitreten. Weitere Informationen finden Sie unter [Erste Schritte mit Audiokonferenzen](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) und [Für Audiokonferenzen verfügbare Einwahlnummern](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 Sie können Einwahlkonferenzen entweder mithilfe von Microsoft als Einwahlkonferenz Anbieter oder mithilfe eines Drittanbieters für Einwahlkonferenzen (auch als Audiokonferenz-Anbieter oder ACP bezeichnet) aktivieren.
   
-Audio Conferencing is not available in all countries or regions. For a list of the countries or regions in which you can purchase Audio Conferencing, see [Where can you get Audio Conferencing?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+Audiokonferenzen sind nicht in allen Ländern und Regionen verfügbar. Eine Liste der Länder und Regionen, in denen Sie Audiokonferenzen erwerben können, finden Sie unter [Länder und Regionen, in denen Audiokonferenzen unterstützt werden](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans"></a>Anrufpläne
 

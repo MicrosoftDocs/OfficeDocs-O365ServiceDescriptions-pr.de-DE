@@ -41,7 +41,7 @@ In der folgenden Tabelle sind die verschiedenen in Office 365 verfügbaren Diens
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Dienstverfügbarkeit in einem Office 365-Plan
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. In der folgenden Tabelle werden die Dienste dargestellt, die in jedem Office 365-Plan verfügbar sind.
   
 > [!IMPORTANT]
 >  Ein Dienst kann in allen Office 365-Plänen verfügbar sein; die verfügbaren Funktionen können jedoch von Plan zu Plan variieren. Um die Details der Funktionen anzuzeigen, die für den jeweiligen Plan verfügbar sind, lesen Sie die entsprechende Dienstbeschreibung, oder wenden Sie sich an Ihren Händler oder Microsoft-Vertriebsmitarbeiter. <br/>  Einige der Office 365 für Business-Pläne verfügen über Add-Ons, die Sie für Ihr Abonnement kaufen können. Ein Add-On stellt zusätzliche Funktionen für das Abonnement bereit. Weitere Informationen finden Sie unter [Kaufen oder Bearbeiten eines Add-Ons für Office 365 Business](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 

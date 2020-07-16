@@ -44,19 +44,19 @@ Weitere Informationen finden Sie unter [Set up connectors for secure mail flow w
   
 ## <a name="conditional-mail-routing"></a>Bedingtes E-Mail-Routing
 
-You can direct mail to specific sites by using connectors and transport rules. With criteria-based routing, you can choose a connector based on specific conditions.
+Sie können E-Mails mithilfe von Connectors und Transportregeln an bestimmte Standorte umleiten. Beim kriterienbasierten Routing kann der jeweilige Connector auf Basis spezifischer Bedingungen ausgewählt werden.
   
 Weitere Informationen finden Sie unter [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Liste sicherer Absender für eingehende E-Mails
 
-You can add a trusted partner's IP address to a safe list to ensure that messages the partner sends to you are not subject to anti-spam filtering. To do this, you can use the connection filter's IP Allow list.
+Sie können die IP-Adresse eines vertrauenswürdigen Partners in eine Liste sicherer Absender aufnehmen, um zu gewährleisten, dass Nachrichten von diesem Partner von der Spamfilterung ausgenommen werden. Verwenden Sie dazu die Liste zugelassener IP-Adressen des Verbindungsfilters.
   
 Weitere Informationen finden Sie unter [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Hybrides E-Mail-Routing
 
-A hybrid deployment gives organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. With hybrid transport, messages sent between recipients in either organization are authenticated, encrypted, and transferred using Transport Layer Security (TLS), and appear as "internal" to Exchange components such as transport rules, journaling, and anti-spam policies. You configure hybrid transport by using the Hybrid Configuration Wizard in Exchange Server.
+Eine Hybridbereitstellung bietet Organisationen die Möglichkeit, den großen Funktionsumfang und die Verwaltungskontrolle, die die vorhandene lokale Microsoft Exchange-Organisation bietet, auf die Cloud auszudehnen. Durch den Hybridtransport können zwischen Empfängern in den Organisationen gesendete Nachrichten mithilfe von TLS (Transport Layer Security) authentifiziert, verschlüsselt und übertragen und für Exchange-Komponenten wie Transportregeln, Journaling und Antispamrichtlinien als „intern" angezeigt werden. Der Hybridtransport wird mithilfe des Hybrid Configuration Wizard in Exchange Server konfiguriert.
   
 Weitere Informationen zum E-Mail-Routing in hybriden Bereitstellungen finden Sie unter [Transportweiterleitung in Exchange-Hybrid-Bereitstellungen](https://go.microsoft.com/fwlink/p/?LinkId=271757).
   
@@ -76,13 +76,13 @@ Weitere Informationen zu Transportoptionen in einer Hybridbereitstellung finden 
   
 ### <a name="troubleshooting-a-deployment-with-the-hybrid-configuration-wizard"></a>Behandeln von Bereitstellungsproblemen mit dem Assistenten für die Hybridkonfiguration
 
-Using the Hybrid Configuration Wizard to configure a hybrid deployment in Microsoft Exchange Server greatly minimizes the potential that the hybrid deployment will experience problems. However, there are some typical areas outside the scope of the Hybrid Configuration Wizard that, if misconfigured, may present problems in a hybrid deployment. These include proper Client Access server configuration and proper certificate installation and configuration.
+Wenn Sie den Hybrid Configuration Wizard zur Konfiguration einer hybriden Bereitstellung in Microsoft Exchange Server verwenden, reduzieren Sie das Risiko für Probleme in der hybriden Bereitstellung auf ein Minimum. Es gibt jedoch einige typische Bereiche, die nicht vom Hybrid Configuration Wizard abgedeckt werden und bei falscher Konfiguration zu Problemen in der Hybridbereitstellung führen können. Dazu gehören die richtige Konfiguration des Clientzugriffsservers sowie die richtige Installation und Konfiguration der Zertifikate.
   
 Weitere Informationen zur Behandlung von Problemen in einer Bereitstellung mithilfe des Hybrid Configuration Wizard finden Sie unter [Problembehandlung in einer Hybridbereitstellung](https://go.microsoft.com/fwlink/p/?LinkId=271040).
   
 ### <a name="managing-a-hybrid-configuration"></a>Verwalten einer Hybridkonfiguration
 
-You can modify an existing hybrid configuration by changing settings in the Hybrid Configuration Wizard. Scenarios include disabling centralized transport or disabling secure mail transport.
+Eine vorhandene Hybridkonfiguration können Sie über die Einstellungen des Assistenten für die Hybridkonfiguration ändern. Mögliche Szenarien stellen das Deaktivieren des zentralen Transports oder das Deaktivieren des sicheren E-Mail-Transports dar.
   
 Weitere Informationen zur Verwaltung von hybriden Bereitstellungen finden Sie unter [Verwalten einer Hybrid-Bereitstellung](https://go.microsoft.com/fwlink/p/?LinkId=271044).
   

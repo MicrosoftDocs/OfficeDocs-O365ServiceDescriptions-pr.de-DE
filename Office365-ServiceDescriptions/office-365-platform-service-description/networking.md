@@ -29,7 +29,7 @@ Microsoft verwendet IPv4-und IPv6-Adressen. Die Verwendung von IPv6-Adressen ist
 Microsoft verwaltet eine Liste zugelassener IP-Adressen in der Microsoft-Hilfe. Weitere Informationen finden Sie unter [URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges). Für Office 365 betrieben von 21Vianet finden Sie entsprechende Informationen unter [URLs and IP Addresses for Office 365 operated by 21Vianet](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints). Für Office 365 Deutschland finden Sie die betreffenden Informationen unter [Endpunkte - Office 365 Deutschland](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
 > [!IMPORTANT]
-> We strongly recommend that you enable routing to the root domain names listed in the articles above (such as \*.Outlook.com, \*.MicrosoftOnline.com and \*.SharePoint.com) instead of routing to specific IP address subnets. Relying on IP address subnets runs the risk of outages for your users as changes are made. 
+> Es wird dringend empfohlen, statt dem Routing zu bestimmten IP-Adress-Subnetzen das Routing an die Stammdomänennamen zu aktivieren, die in den oben aufgeführten Artikeln aufgelistet sind (z. B. \*.Outlook.com, \*.MicrosoftOnline.com und \*.SharePoint.com). Das Arbeiten mit IP-Adress-Subnetzen birgt das Risiko von Systemausfällen für Ihre Benutzer, sobald Änderungen erfolgen. 
   
 ## <a name="bandwidth-requirements"></a>Erforderliche Bandbreite
 
@@ -43,7 +43,7 @@ Weitere Informationen zu Azure ExpressRoute finden Sie unter [Azure ExpressRoute
   
 ### <a name="wan-accelerators"></a>WAN-Optimierung
 
-Microsoft does not provide support for customer-owned WAN acceleration and caching devices with Office 365. If you decide to use a WAN optimization controller to improve performance under conditions of high latency or low bandwidth, you'll need to disable it while troubleshooting service requests with Microsoft, and work with your device vendor for device support. For more information, see [WAN Acceleration and caching devices with Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
+Microsoft bietet keinen Support für kundeneigene Lösungen für WAN-Beschleunigung oder Geräte zur Zwischenspeicherung, die zusammen mit Office 365 eingesetzt werden. Wenn Sie zur Verbesserung der Leistung bei hoher Latenz oder geringer Bandbreite einen Controller zur WAN-Optimierung verwenden, müssen Sie diesen Controller während der Problembehandlung im Rahmen von Serviceanfragen an Microsoft deaktivieren. Bei Supportbedarf für das Gerät müssen Sie sich an den Gerätehersteller selbst wenden. Weitere Informationen finden Sie in diesem Artikel zum Thema [Einsatz von WAN-Beschleunigung und Geräten für die Zwischenspeicherung mit Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
   
 ## <a name="the-global-microsoft-network"></a>Das globale Netzwerk von Microsoft
 
@@ -51,9 +51,9 @@ Die Microsoft-Netzwerkinfrastruktur besteht aus einem großen globalen Portfolio
   
 Um die Vertraulichkeit und Integrität von Kundendaten aufrechtzuerhalten, hält Microsoft Consumer Services-Netzwerke von Microsoft-Netzwerken getrennt. Es werden verschiedenste Techniken zur Steuerung des Informationsflusses eingesetzt, darunter die folgenden:
   
-- Physical separation. Network segments are physically separated by routers that are configured to prevent specific communication patterns.
+- Räumliche Trennung. Netzwerksegmente werden durch Router physisch getrennt, die so konfiguriert sind, dass sie bestimmte Kommunikationsmuster vermeiden.
     
-- Logical separation. Virtual LAN (VLAN) technology is used to further separate communications.
+- Logische Trennung. Virtuelles LAN (VLAN) wird für eine weitergehende Trennung von Kommunikation eingesetzt.
     
 - Firewalls. Firewalls und andere Netzwerksicherheits-Durchsetzungs Punkte werden verwendet, um den Datenaustausch mit Systemen zu begrenzen, die mit dem Internet verbunden sind, und um Systeme von Back-End-Systemen zu isolieren, die von Microsoft verwaltet werden. 
     

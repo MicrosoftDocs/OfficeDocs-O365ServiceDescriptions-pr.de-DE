@@ -35,7 +35,7 @@ Weitere Informationen finden Sie unter [Einrichten E-Mails auf einem BlackBerry]
 
 Sie können Smartphones mit BlackBerry® Internet Service (BIS) verwenden, um eine Verbindung zwischen Blackberry 7 und früheren Smartphones und Exchange Online herzustellen. Bis ermöglicht BlackBerry-Benutzern den Zugriff auf Ihre e-Mail-Konten über das Internet über IMAP oder Pop.
   
-Most mobile operators have BIS set up. End users will need to configure email, calendar, and contacts synchronization by using the instructions in the following Knowledge Base articles:
+Die meisten Mobilfunkanbieter haben BIS eingerichtet haben, daher müssen Endbenutzer die E-Mail-, Kalender- und Kontaktsynchronisierung mithilfe der Anweisungen in den folgenden Knowledge Base-Artikeln konfigurieren:
   
 - [KB31310 - BlackBerry Internet Service und Microsoft Office 365-Dienste](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
@@ -44,7 +44,7 @@ Most mobile operators have BIS set up. End users will need to configure email, c
 - [KB22430 - Aktivieren und Deaktivieren der drahtlosen Kontaktsynchronisierung mit BlackBerry Internet Service](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
-> Users who connect to their accounts using IMAP or POP connections can synchronize their email only by using a wireless connection. For information about how BIS users can use a wired connection to synchronize the contacts and calendar between their BlackBerry smartphones and their accounts, contact BlackBerry support. 
+> Benutzer, die per IMAP oder POP auf ihre Konten zugreifen, können ihre E-Mails ausschließlich über eine Drahtlosverbindung synchronisieren. Informationen für BIS-Benutzer zur Synchronisierung der Kontakte und Kalender zwischen ihrem BlackBerry-Smartphone und ihrem Konto mithilfe einer Kabelverbindung erhalten Sie vom BlackBerry-Support. 
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>BlackBerry-Smartphones mit SharePoint Online
 

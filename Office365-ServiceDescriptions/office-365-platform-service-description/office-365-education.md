@@ -47,8 +47,8 @@ Jeder Office 365 Bildungsplan umfasst eine Reihe von einzelnen Diensten, beispie
 > <sup>1</sup> Microsoft Project ist nicht in Office 365 enthalten, kann jedoch separat erworben werden. Project Online Essentials ist kostenlos. Wenn Sie ein Schüler oder eine Bildungseinrichtung sind, können Sie Projektplan 3 und Plan 5 zu Schulungspreisen erwerben.   <br/> 
 <sup>2</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/> 
 <sup>3</sup> Office 365 a5 enthält Telefon System-, Audiokonferenz-und Anruf Plan Funktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). <br/> <sup>4</sup> Umfasst Exchange Online Plan 2. <br/> 
-<sup>5</sup> Includes Exchange Online Plan 1 plus supplemental features. <br/> 
-<sup>6</sup> Includes Skype for Business Online Plan 2. <br> <sup>7</sup> Umfasst Skype for Business Online Plan 1 sowie zusätzliche Features. 
+<sup>5</sup> Umfasst Exchange Online Plan 1 sowie zusätzliche Features.<br/> 
+<sup>6</sup> Umfasst Skype for Business Online Plan 2.<br> <sup>7</sup> Umfasst Skype for Business Online Plan 1 sowie zusätzliche Features. 
   
 ## <a name="system-requirements"></a>Systemanforderungen
 
@@ -195,7 +195,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in Office 
 Das [Security &amp; Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365. 
   
 > [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
+> Derzeit sind viele der Compliancefeatures noch über dienstspezifische Verwaltungsoberflächen erreichbar, z. B. über das Exchange Admin Center (EAC). Dies wird jedoch künftig geändert, wenn in Zukunft weitere dienstunabhängige Compliancefeatures zum Security &amp; Compliance Center hinzugefügt werden. 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -283,7 +283,7 @@ Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Features in Office
 |Volume activation (KMS/MAK)  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS is an on-premises server that must be purchased and managed separately in order to enable the supported IRM features. <br/> 
+> <sup>1</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.<br/> 
 <sup>2</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Microsoft 365 Apps für Unternehmen und Office 365 Enterprise E3 umfassen die vollständige Skype-Anwendung, die zusätzliche Funktionen wie erweiterte Telefonie-Unterstützung, Archivierung und Compliance-Funktionen umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu lync Basic-Funktionen finden Sie unter [Desktop Client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
 <sup>3</sup> einige Schulen sind für Education Plus berechtigt, die Microsoft 365-Apps für Unternehmen umfasst, und ermöglicht es Schülern, Dozenten und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC-oder Mac-Computern und auf anderen mobilen Geräten, einschließlich Windows Tablets und dem iPad, zu installieren. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. <br/> 
 für die Webversionen sind <sup>4</sup> Office-Versionen enthalten. Weitere Informationen finden Sie unter [Office for the Internetfeatures](office-365-education.md#office-for-the-web-features)
@@ -419,13 +419,13 @@ In der folgenden Tabelle sind die Exchange Online Features aufgeführt, die in O
 |Outlook-Add-Ins und Outlook-MAPI  <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS is an on-premises server that must be purchased and managed separately in order to enable the supported IRM features. <br/>
+> <sup>1</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.<br/>
 <sup>2</sup> Transportregeln bestehen aus flexiblen Kriterien, mit denen Sie Bedingungen und Ausnahmen sowie die Aktionen, die basierend auf den Kriterien ausgeführt werden sollen, definieren können. Für Exchange Online und Microsoft Exchange Server 2013 sind unterschiedliche Kriterien und Aktionen verfügbar. Eine Liste der verfügbaren Kriterien und Aktionen finden Sie in den entsprechenden Themen zu Kriterien und Aktionen für jedes Produkt. <br/> 
 <sup>3</sup> Exchange Server 2013 verwendet nur das Antischadsoftwaremodul von Microsoft. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/> 
 <sup>4</sup> SharePoint Online müssen im Abonnementplan enthalten sein. <br/> 
 <sup>5</sup> Verbundene Konten werden für POP- und IMAP-Konten unterstützt, sind für Outlook.com (Hotmail) jedoch deaktiviert. <br/> <sup>6</sup> Das Verwenden eines Cmdlets für die Verwendung der Adressliste und der globalen Adressliste wird nicht unterstützt. <br/> 
-<sup>7</sup> Some third-party web parts and add-ins may not be available. <br/> 
-<sup>8</sup> For eDiscovery, you need a separate query for on-premises vs. cloud. <br/> 
+<sup>7</sup> Einige Drittanbieter-Webparts und -Add-Ins sind möglicherweise nicht verfügbar.<br/> 
+<sup>8</sup> Bei eDiscovery benötigen Sie eine separate Abfrage für lokale und Cloudumgebungen.<br/> 
 <sup>9</sup> Die Tabelle gibt an, ob der Client mit den zugeordneten Plänen verwendet werden kann. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. 
   
 ### <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
@@ -476,7 +476,7 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
   
 #### <a name="address-book-limits"></a>Adressbuchbeschränkungen
 
-- **Address list limit** The maximum number of address lists that can be created in an Exchange Online or Exchange Server 2013 organization. This number includes the default address lists in Exchange Online, such as All Contacts and All Groups. 
+- **Adresslistenbeschränkung** Die maximale Anzahl an Adresslisten, die in einer Exchange Online- oder Exchange Server 2013-Organisation erstellt werden können. Diese Zahl schließt die Standardadresslisten in Exchange Online ein, z. B. alle Kontakte und alle Gruppen. 
     
 - **Offlineadressbuch-Beschränkungen** Die maximale Anzahl an Offlineadressbüchern (OAB), die in einer Exchange Online- oder Exchange Server 2013-Organisation erstellt werden können. 
     
@@ -494,7 +494,7 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
    
 #### <a name="mailbox-storage-limits"></a>Speicherbegrenzungen für Postfächer
 
-The amount of mailbox storage available is determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally.
+Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und Abonnementlizenz des Benutzers. Administratoren können die maximale Postfachgröße pro Benutzer oder global reduzieren.
   
 > [!NOTE]
 > Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Das Archivpostfach eines Benutzers ist nur für diesen Benutzer vorgesehen. Microsoft behält sich das Recht vor, eine unbegrenzte Archivierung in Fällen zu verweigern, in denen das Archivpostfach eines Benutzers zum Speichern von Archivdaten für andere Benutzer oder in anderen Fällen ungeeigneter Verwendung verwendet wird.
@@ -523,11 +523,11 @@ The amount of mailbox storage available is determined by the mailbox type and th
 
 Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eines Benutzers sich der Kapazitätsgrenze nähert oder sie erreicht:
   
-- **Warning** The user receives an email warning that the mailbox is approaching the maximum size limit. This warning is intended to encourage users to delete unwanted mail. 
+- **Warnung** Der Benutzer erhält eine Warnung per E-Mail, dass das Postfach sich dem oberen Grenzwert für die Größe nähert. Mit dieser Warnung sollen Benutzer dazu aufgefordert werden, unerwünschte E-Mails zu löschen. 
     
-- **Prohibit Send** The user receives a prohibit-send notification email when the mailbox size limit is reached. The user cannot send new messages until enough email is deleted to bring the mailbox below the size limit. 
+- **Senden verbieten** Der Benutzer erhält eine Benachrichtigungs-E-Mail "Senden verbieten", wenn der Grenzwert der Postfachgröße erreicht wurde. Der Benutzer kann keine neuen Nachrichten mehr senden, bis ausreichend E-Mails gelöscht wurden, um die Größe des Postfachs auf einen Wert unter dem Grenzwert zu senken. 
     
-- **Prohibit Send/Receive** Exchange Online rejects any incoming mail when the mailbox size limit is reached, and sends a non-delivery report (NDR) to the sender. The sender has the option to try resending the mail later. To receive messages again, the user must delete email until the mailbox is below the size limit. 
+- **Senden/Empfangen verbieten** Exchange Online weist alle eingehenden Mails ab, wenn der Grenzwert für die Postfachgröße erreicht wurde, und sendet einen Unzustellbarkeitsbericht an den Absender. Der Absender hat die Möglichkeit, die E-Mail später erneut zu versenden. Um wieder Nachrichten zu erhalten, muss der Benutzer E-Mails löschen, bis die Größe des Postfachs wieder unter dem Grenzwert liegt. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -538,29 +538,29 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
    
 #### <a name="mailbox-folder-limits"></a>Begrenzungen für Postfachordner
 
-These limits are intended to limit mailboxes to known dimensions that can be supported in Exchange Online. The goal of these limits is to prevent an infinite number of mailbox items per folder, an infinite number of folders per mailbox, or an infinite number of public folders per Exchange Online organization. For practical purposes, mailbox folder limits are in effect unlimited and sufficient to support most Exchange Online mailboxes and on-premises mailboxes that are migrated to Exchange Online.
+Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, die in Exchange Online unterstützt werden können. Mit diesen Begrenzungen soll verhindert werden, dass eine unbegrenzte Anzahl von Postfachelementen pro Ordner bzw. eine unbegrenzte Anzahl von Ordnern pro Postfach oder eine unbegrenzte Anzahl von öffentlichen Ordnern pro Exchange Online-Organisation möglich ist. Praktisch gesehen ist die Anzahl der Postfachordner quasi unbegrenzt, sodass die meisten Exchange-Postfächer und lokalen Postfächer unterstützt werden, die zu Exchange Online migriert werden.
   
-- **Maximum number of messages per mailbox folder** Specifies the maximum number of messages for a mailbox folder. New messages can't be delivered or saved in a folder when this limit is reached. 
+- **Maximale Anzahl von Nachrichten pro Postfachordner** Maximal zulässige Anzahl von Nachrichten in einem Postfachordner. Sobald dieser Grenzwert erreicht wird, können keine neuen Nachrichten mehr übermittelt oder in einem Ordner gespeichert werden. 
     
-- **Warning for number of messages per mailbox folder** Specifies the number of messages that a mailbox folder can hold before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **Warnung zur Anzahl der Nachrichten pro Postfachordner** Anzahl der Nachrichten, die in einem Postfachordner gespeichert werden können, bevor Exchange Online eine Warnmeldung an den Eigentümer des Postfachs schickt. Wenn dieses Kontingent erreicht ist, werden Warnmeldungen einmal am Tag gesendet. 
     
-- **Maximum number of messages per folder in the Recoverable Items folder** Specifies the maximum number of messages that can be contained in each folder in the Recoverable Items folder. When a folder exceeds this limit, it can't store new messages. For example, if the Deletions folder in the Recoverable Items folder has exceeded the message count limit and the mailbox owner attempts to permanently delete items from their mailbox, the deletion will fail. 
+- **Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"** Maximale Anzahl der Nachrichten, die in jedem Ordner im Ordner "Wiederherstellbare Elemente" gespeichert werden können. Wenn ein Ordner diesen Grenzwert überschreitet, können darin keine Nachrichten mehr gespeichert werden. Wenn der Ordner "Löschen" im Ordner "Wiederherstellbare Elemente" die maximale Anzahl an Nachrichten überschritten hat und der Postfachbesitzer versucht, Elemente permanent aus seinem Postfach zu löschen, wird der Löschvorgang fehlschlagen. 
     
 - **Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"** Anzahl der Nachrichten, die in jedem Ordner im Ordner "Wiederherstellbare Elemente" gespeichert werden können, bevor Exchange Online ein Ereignis im Anwendungsereignisprotokoll vermerkt. 
     
-- **Maximum number of subfolders per mailbox folder** Specifies the maximum number of subfolders that can be created in a mailbox folder. The mailbox owner won't be able to create a new subfolder when this limit is reached. 
+- **Maximale Anzahl von Unterordnern pro Postfachordner** Maximal zulässige Anzahl von Unterordnern, die in einem Postfachordner erstellt werden können. Der Postfachbesitzer wird keinen neuen Unterordner erstellen können, wenn dieser Grenzwert erreicht ist. 
     
-- **Warning for number of subfolders per mailbox folder** Specifies the number of subfolders that can be created in a mailbox folder before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **Warnung zur Anzahl der Unterordner pro Postfachordner** Anzahl der Unterordner, die in einem Postfachordner erstellt werden können, bevor Exchange Online eine Warnmeldung an den Eigentümer des Postfachs schickt. Wenn dieses Kontingent erreicht ist, werden Warnmeldungen einmal am Tag gesendet. 
     
-- **Maximum folder hierarchy depth** Specifies the maximum number of levels in the folder hierarchy of a mailbox. The mailbox owner won't be able to create another level in the folder hierarchy of the mailbox folder when this limit is reached. 
+- **Maximale Ordnerhierarchie-Tiefe** Maximale Anzahl an Ebenen in der Ordnerhierarchie eines Postfachs. Der Postfachbesitzer wird keine neue Ebene in der Ordnerhierarchie des Postfachordners erstellen können, wenn dieser Grenzwert erreicht ist. 
     
-- **Warning for folder hierarchy depth** Specifies the number of levels in the folder hierarchy of a mailbox folder that can be created before Exchange Online sends a warning message to the mailbox owner. When this quota is reached, warning messages are sent once a day. 
+- **Warnung zur Ordnerhierarchie-Tiefe** Anzahl der Ebenen, die in der Ordnerhierarchie eines Postfachordners erstellt werden können, bevor Exchange Online eine Warnmeldung an den Eigentümer des Postfachs schickt. Wenn dieses Kontingent erreicht ist, werden Warnmeldungen einmal am Tag gesendet. 
     
-- **Maximum number of public folders** Specifies the maximum number of public folders in the complete public folder hierarchy. When this limit is reached, existing public folders must be deleted before new public folders can be created. 
+- **Maximale Anzahl öffentlicher Ordner** Gibt die maximale Anzahl öffentlicher Ordner in der gesamten öffentlichen Ordnerhierarchie an. Wenn diese Grenze erreicht wird, müssen vorhandene öffentliche Ordner gelöscht werden, bevor neue öffentliche Ordner erstellt werden können. 
     
-- **Maximum number of subfolders per public folder** Specifies the maximum number of subfolders that can be created in a public folder. New subfolders can't be created in a public folder when this limit is reached. 
+- **Maximale Anzahl von Unterordnern pro öffentlichem Ordner** Maximal zulässige Anzahl von Unterordnern, die in einem öffentlichen Ordner erstellt werden können. Neue Unterordner können in einem öffentlichen Ordner nicht erstellt werden, wenn diese Grenze erreicht ist. 
     
-- **Warning for number of subfolders per public folder** Specifies the number of subfolders that can be created in a public folder before Exchange Online sends a warning message to the folder owner. If no owner exists, warning messages are sent to users with Owner permissions. When this quota is reached, warning messages are sent once a day. 
+- **Warnung zur Anzahl der Unterordner pro öffentlichem Ordner** Anzahl der Unterordner, die in einem öffentlichen Ordner erstellt werden können, bevor Exchange Online eine Warnmeldung an den Eigentümer des Ordners schickt. Falls kein Eigentümer vorhanden ist, werden Warnmeldungen an Benutzer mit Eigentümerberechtigungen geschickt. Wenn dieses Kontingent erreicht ist, werden einmal am Tag Warnmeldungen gesendet. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -593,14 +593,14 @@ These limits are intended to limit mailboxes to known dimensions that can be sup
   
 - **Grenzwert für die Länge des Betreffs** Die maximale Anzahl von in der Betreffzeile einer E-Mail zulässigen Textzeichen. 
     
-- **File attachments limit** The maximum number of file attachments allowed in an email message. Even if the total size of all the file attachments doesn't violate the message size limit, there is still a limit on how many attachments are allowed in the message. This limit is controlled by the multipart message limit. 
+- **Grenzwert für Dateianlagen** Die maximale Anzahl der zulässigen Dateianlagen in einer E-Mail. Auch wenn die Gesamtgröße aller Dateianlagen nicht gegen das Nachrichtengrößenlimit verstößt, gibt es dennoch eine Grenze der Anzahl der zulässigen Anlagen in der Nachricht. Dieser Grenzwert wird vom Grenzwert für mehrteiligen Nachrichten gesteuert. 
     
 - **Dateianlagengrößenlimit** Die maximale Dateigröße einer einzelnen Anlage. 
     
     > [!NOTE] 
     > Dies ist die maximale Dateigröße einer einzelnen Anlage. Einzelne Clientprogramme, einschließlich Outlook im Internet, können die Größe von Anlagen unterhalb dieses Maximums begrenzen. In Exchange ActiveSync werden keine Anlagengrößen Beschränkungen auf einzelnen Anlagen Basis implementiert. Die Gesamtgröße aller Anlagen in einer Exchange ActiveSync-Nachricht muss kleiner sein als der Grenzwert für die Nachrichtengröße. 
   
-- **Multipart message limit** The maximum number of message body parts that are allowed in a MIME multipart message. This limit also controls the maximum number of file attachments that are allowed in a message. 
+- **Grenze für mehrteilige Nachrichten** Die maximale Anzahl der Nachrichtentextteile, die in einer mehrteiligen MIME-Nachricht zugelassen sind. Dieser Grenzwert steuert außerdem die maximale Anzahl Dateianlagen, die in einer Nachricht zulässig sind. 
     
 - **Grenzwert für die Tiefe der Nachrichteneinbettung** Die maximale Anzahl von weitergeleiteten E-Mails, die in einer E-Mail zulässig sind. 
     
@@ -630,11 +630,11 @@ These limits are intended to limit mailboxes to known dimensions that can be sup
   
 #### <a name="receiving-and-sending-limits"></a>Empfangs- und Sendegrenzen
 
-Receiving and sending limits are applied to combat spam and mass-mailing worms or viruses. These limits help to protect the health of our systems and keep our users safe.
+Empfangs- und Sendegrenzen werden angewendet, um Spam und Massen-E-Mail-Würmer oder -Viren zu bekämpfen. Diese Grenzwerte tragen dazu bei, die Integrität unserer Systeme sowie unsere Benutzer zu schützen.
   
 #### <a name="receiving-limits"></a>Empfangsgrenzen
 
-Receiving limits apply to the number of messages that a user, group, or public folder can receive per hour. This applies for both messages received from the Internet and from on-premises servers. When the receiving limit has been exceeded, any emails sent to that mailbox will receive a non-delivery report stating that the mailbox has exceeded the maximum delivery threshold. After one hour, the limit will refresh and the mailbox will once again be able to receive messages.
+Empfangsgrenzen gelten für die Anzahl von Nachrichten, die ein Benutzer, eine Gruppe oder ein öffentlicher Ordner pro Stunde empfangen kann. Dies gilt sowohl für Nachrichten aus dem Internet als auch für Nachrichten von lokalen Servern. Wird die Empfangsgrenze überschritten, erhalten die Absender von E-Mails an dieses Postfach einen Unzustellbarkeitsbericht mit der Information, dass das Postfach den zulässigen Schwellenwert für die Anzahl zugestellter Nachrichten überschritten hat. Nach einer Stunde wird die Grenze zurückgesetzt, und das Postfach kann wieder Nachrichten empfangen.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -646,9 +646,9 @@ Receiving limits apply to the number of messages that a user, group, or public f
 Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten und die Anzahl von Empfängern pro Nachricht, die ein Benutzer aus seinem Exchange Online-Konto senden kann.
   
 > [!NOTE]
-> For distribution groups stored in an organization's address book, the group is counted as one recipient. For distribution groups stored in the Contacts folder of a mailbox, the members of the group are counted individually. 
+> Für im Adressbuch einer Organisation gespeicherte Verteilergruppen wird die Gruppe als ein Empfänger betrachtet. Für Verteilergruppen, die im Ordner "Kontakte" eines Postfachs gespeichert sind, werden die Mitglieder der Gruppe einzeln gezählt. 
   
-- **Recipient rate limit** To discourage the delivery of unsolicited bulk messages, Exchange Online has recipient limits that prevent users and applications from sending large volumes of email. These limits are applied per-user to all outbound and internal messages. 
+- **Empfängerratengrenzwert** Um die massenhafte Zustellung von Junk-E-Mails zu unterbinden, verfügtExchange Online über Empfängerbeschränkungen, mit denen Benutzer und Anwendungen daran gehindert werden, große Mengen E-Mails zu versenden. Diese Grenzwerte gelten pro Benutzer für alle ausgehenden und internen Nachrichten. 
     
     > [!NOTE]
     > Exchange Online-Kunden, die seriöse kommerzielle E-Mails versenden müssen (z. B. Kunden-Newsletter), sollten einen Drittanbieter in Anspruch nehmen, der sich auf diese Dienste spezialisiert. 
@@ -656,9 +656,9 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 - **Empfängergrenzwert** Dies ist die maximale Anzahl von Empfängern, die in den Feldern "An:", "Cc:" und "Bcc:" für eine einzelne E-Mail zulässig ist. 
     
     > [!NOTE]
-    > For the purposes of the recipient rate limit and the recipient limit, a distribution group that is stored in the organization's shared address book counts as one recipient. In a personal distribution list, each recipient is counted separately. 
+    > Eine Verteilerliste, die im freigegebenen Adressbuch der Organisation gespeichert ist, zählt in Bezug auf den Empfängerratengrenzwert und die Empfängereinschränkung als ein Empfänger. In einer persönlichen Verteilerliste wird jeder Empfänger separat gezählt. 
   
-- **Message rate limit** Message rate limits determine how many messages a user can send from their Exchange Online account within a specified period of time. This limit helps prevent overconsumption of system resources by a single sender. If a user submits messages at a rate that exceeds the limit via SMTP client submission, the messages will be rejected and the client will need to retry. 
+- **Nachrichtenratengrenzwert** Nachrichtenratengrenzwerte bestimmen, wie viele Nachrichten ein Benutzer innerhalb eines festgelegten Zeitraums von seinem Exchange Online-Konto senden kann. Dieser Grenzwert verhindert den übermäßigen Verbrauch von Systemressourcen durch einen einzelnen Absender. Wenn ein Benutzer Nachrichten mit einer Häufigkeit übermittelt, welche die SMTP-Clientübermittlungsgrenze überschreitet, werden die Nachrichten abgelehnt, und der Client muss es erneut versuchen. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -690,7 +690,7 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
 |Aufbewahrungszeitraum des Ordners "Junk-E-Mail"  <br/> |30 Tage  <br/> |30 Tage  <br/> |30 Tage  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> This is the default limit. Administrators can change this value for their organization. 
+> <sup>1</sup>   Dies ist die Standardeinstellung. Administratoren können diesen Wert für ihre Organisation ändern.  
   
 #### <a name="distribution-group-limits"></a>Verteilergruppen-Grenzwerte
 
@@ -698,9 +698,9 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
   
 - **Maximum number of distribution group members** The total recipient count is determined after distribution group expansion. 
     
-- **Limit sending messages to large distribution groups** Distribution groups that contain the number of members specified by this limit must have delivery management or message approval options configured. Delivery management specifies a list of senders who are allowed to send messages to the distribution group. Message approval specifies one or more moderators who must approve all messages sent to the distribution group. 
+- **Senden von Nachrichten an große Verteilergruppen beschränken** Verteilergruppen, die die von diesem Grenzwert vorgegebene Anzahl von Mitgliedern enthalten, müssen über eine Zustellungsverwaltung oder konfigurierte Optionen für die Nachrichtengenehmigung verfügen. In der Zustellungsverwaltung kann eine Liste von Absendern angegeben werden, die Nachrichten an die Verteilergruppe senden dürfen. Für die Nachrichtengenehmigung werden ein oder mehrere Moderatoren angegeben, die alle an die Verteilergruppe gesendeten Nachrichten genehmigen müssen. 
     
-- **Maximum message size for large distribution groups** If a message is sent to 5,000 or more recipients, the message size can't exceed this limit. If the message size exceeds the limit, the message isn't delivered, and the sender receives a non-delivery report (NDR). The total recipient count is determined after distribution group expansion. 
+- **Maximale Nachrichtengröße für große Verteilergruppen** Wenn eine Nachricht an 5.000 oder mehr Empfänger gesendet wird, darf die Nachrichtengröße diese Grenze nicht überschreiten. Übersteigt die Nachrichtengröße den Grenzwert, wird die Nachricht nicht zugestellt, und der Absender erhält einen Unzustellbarkeitsbericht (Non-Delivery Report, NDR). Die Gesamtzahl der Empfänger wird nach der Erweiterung der Verteilergruppe ermittelt. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -717,7 +717,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>Journal-, Transport- und Posteingangsregelgrenzen
 
-The following list includes limits that apply to journal rules, transport rules (also known as organization-wide rules), and limits that apply to Inbox rules. Inbox rules are set up by individual users and applied to messages sent and received by the individual user's mailbox.
+Die folgende Liste enthält Grenzwerte, die für Journalregeln, Transportregeln (auch als organisationsweite Regeln bezeichnet) sowie für Grenzwerte gelten, die für Posteingangsregeln gelten. Posteingangsregeln werden von einzelnen Benutzern festgelegt und auf Nachrichten angewendet, die vom Postfach des entsprechenden Benutzers gesendet und empfangen werden.
   
 - **Maximale Anzahl von Journatregeln** Die maximale Anzahl von Journalregeln, die in der Organisation vorhanden sein können. 
     
@@ -725,15 +725,15 @@ The following list includes limits that apply to journal rules, transport rules 
     
 - **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions. 
     
-- **Character limit for all regular expressions used in all transport rules** The total number of characters used by all the regular expressions in all the transport rule conditions and exceptions in the organization. You can have a few rules that use long and complex regular expressions, or you can have many rules that use simple regular expressions. 
+- **Maximale Zeichenanzahl für alle regulären Ausdrücke in allen Transportregeln** Die Gesamtzahl der Zeichen, die in der Organisation von allen regulären Ausdrücken in allen Bedingungen und Ausnahmen von Transportregeln verwendet werden. Sie können wenige Regeln verwenden, in denen lange und komplexe reguläre Ausdrücke verwendet werden, oder Sie können viele Regeln verwenden, in denen einfache reguläre Ausdrücke verwendet werden. 
     
 - **Grenzwerte für die Überprüfung von Anlagen Inhalten** Die Transportregelbedingungen ermöglichen es Ihnen, den Inhalt von Nachrichtenanlagen zu überprüfen, aber nur die ersten 1 MB des Texts, der aus einer Anlage extrahiert wurde, werden überprüft. Dieser Grenzwert von 1 MB bezieht sich auf den aus der Anlage extrahierten Text und nicht auf die Dateigröße der Anlage. Beispielsweise kann eine Datei mit 2 MB weniger als 1 MB Text enthalten, sodass der gesamte Text überprüft wird. 
     
-- **Maximum number of recipients added to a message by all transport rules** When a message is acted on by different transport rules, only a finite number of recipients can be added to the message. After the limit is reached, any remaining recipients aren't added to the message. Also, distribution groups can't be added to a message by a transport rule. 
+- **Maximale Anzahl von Empfängern, die einer Nachricht von allen Transportregeln hinzugefügt werden** Wenn auf eine Nachricht unterschiedliche Transportregeln angewendet werden, kann der Nachricht nur eine begrenzte Anzahl von Empfängern hinzugefügt werden. Nachdem die Grenze erreicht wurde, werden verbleibende Empfänger der Nachricht nicht hinzugefügt. Außerdem können einer Nachricht von einer Transportregel keine Verteilergruppen hinzugefügt werden. 
     
-- **Forwardee limit** The maximum number of recipients that can be configured for an inbox or transport rule with a redirecting action. If a rule is configured to redirect a message to more than this number of recipients, the rule won't be applied and any message that satisfies the rule condition won't be redirected to any of the recipients listed in the rule. 
+- **Weiterleitungsgrenzwert** Die maximale Anzahl Empfänger, die für eine Postfach- oder Transportregel konfiguriert werden können, wenn die Weiterleitungs- oder Umleitungsaktion verwendet wird. Sollte eine Regel festgelegt werden, eine Nachricht an mehr als diese Anzahl von Empfängern weiterzuleiten, würde diese Regel nicht angewendet werden, und jede regelkonforme Nachricht würde nicht an die in dieser Regel aufgelisteten Empfänger weitergeleitet werden. 
     
-- **Number of times a message is redirected** The number of times a message will be redirected, forwarded, or replied to automatically based on Inbox rules. For example, User A has an Inbox rule that redirects messages to User B, based on the sender. User B has an Inbox rule that forwards messages to User C based on keywords in the subject line. If a message satisfies both of these conditions, the message is only sent to User B; it's not forwarded to User C because only one redirection is allowed. In this case, the message is dropped without sending a non-delivery report (NDR) to User B indicating that the message wasn't delivered to User C. 
+- **Anzahl der Weiterleitungen einer Nachricht** Die Anzahl der auf Postfachregeln basierenden Umleitungen, Weiterleitungen oder automatischen Antworten einer Nachricht. Beispiel: Benutzer A hat eine Postfachregel, die, je nach Sender, Nachrichten an Benutzer B weiterleitet. Benutzer B hat eine Postregel, die, je nach Schlüsselwörtern in der Betreffzeile, Nachrichten an Benutzer C weiterleitet. Erfüllt eine Nachricht beide Bedingungen, wird sie nur an Benutzer B gesendet. Sie wird nicht an Benutzer C weitergeleitet, da nur eine Weiterleitung zulässig ist. In diesem Fall wird die Nachricht ohne Unzustellbarkeitsbericht (NDR) an Benutzer B entfernt. Benutzer B erfährt nicht, dass die Nachricht nicht an Benutzer C zugestellt wurde. 
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -755,11 +755,11 @@ Diese Grenzwerte steuern die Moderationseinstellungen für die Nachrichtengenehm
     
 - **Maximum number of moderators** The maximum number of moderators that you can assign to a single moderated distribution group or that can be added to a message using a single transport rule. Note that you can't specify a distribution group as a moderator. 
     
-- **Expiration for messages waiting for moderation** By default, a message waiting for moderation expires after two days. However, the processing of expired moderated messages runs every seven days. This means that a moderated message can expire at any time between two and nine days. 
+- **Ablauf für Nachrichten, die auf Moderation warten** Standardmäßig läuft eine Nachricht, die auf Moderation wartet, nach zwei Tagen ab. Die Verarbeitung abgelaufener moderierter Nachrichten wird jedoch jeweils nach sieben Tagen durchgeführt. Dies bedeutet, dass eine moderierte Nachricht in einem Zeitraum von zwei bis neun Tagen jederzeit ablaufen kann. 
     
-- **Maximum rate for expired moderation notification messages** This limit sets the maximum number of notification messages for expired moderated messages in a one-hour period. This limit is placed on each mailbox database in the datacenter. 
+- **Maximale Rate für abgelaufene Moderationsbenachrichtigungen** Dieser Grenzwert gibt die maximale Anzahl von Benachrichtigungen für abgelaufene moderierte Nachrichten in einem Zeitraum von einer Stunde an. Der Grenzwert gilt für jede Postfachdatenbank im Datencenter. 
     
-    During periods of heavy usage, some senders may not receive notification messages for moderated messages that have expired. However, these notifications are still discoverable using delivery reports.
+    Bei hoher Auslastung kann es vorkommen, dass einige Absender keine Benachrichtigungen über abgelaufene moderierte Nachrichten erhalten. Diese Benachrichtigungen können anhand von Übermittlungsberichten jedoch nachvollzogen werden.
     
 |||||
 |:-----|:-----|:-----|:-----|
@@ -794,13 +794,13 @@ OneDrive for Business ist in SharePoint Online enthalten und kann ebenfalls als 
   
 ### <a name="system-requirements"></a>Systemanforderungen
 
-The OneDrive for Business sync client has different system requirements than the OneDrive client. To learn more, see [How to install the OneDrive for Business sync client](https://support2.microsoft.com/kb/2903984).
+Der OneDrive for Business-Synchronisierungsclient hat andere Systemanforderungen als der OneDrive-Client. Weitere Informationen finden Sie unter [Installieren des OneDrive for Business-Synchronisierungsclients](https://support2.microsoft.com/kb/2903984).
   
 ### <a name="onedrive-for-business-limits"></a>OneDrive for Business-Grenzwerte
 
 OneDrive for Business Plan 1 bietet 1 TB Speicherplatz pro Benutzer. 
   
-The following qualifying plans provide unlimited OneDrive storage per user for subscriptions with at least five users. Microsoft will provide an initial 5 TB of storage space per user. Customers who want additional OneDrive storage can request it as needed by contacting Microsoft Support. Subscriptions with less than five users receive 1 TB of storage per user.
+Die folgenden qualifizierenden Pläne bieten unbegrenzten OneDrive-Speicher pro Benutzer für Abonnements mit mindestens fünf Benutzern. Microsoft stellt anfänglich 5 TB Speicherplatz pro Benutzer zur Verfügung. Kunden, die zusätzlichen OneDrive-Speicher benötigen, können diesen nach Bedarf beim Microsoft-Support anfordern. Abonnements mit weniger als fünf Benutzern erhalten 1 TB Speicher pro Benutzer.
   
 - Office 365 A1
     
@@ -812,7 +812,7 @@ Einem bestimmten OneDrive-Benutzer kann nicht mehr Speicherplatz zugewiesen werd
   
 Informationen zu Dateitypen, die Sie OneDrive for Business nicht hinzufügen können, finden Sie unter [Dateitypen, die einer Liste oder Bibliothek nicht hinzugefügt werden können](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3).
   
-OneDrive for Business is included in SharePoint Online. To learn about additional limitations in SharePoint Online, such as site collection quotas, file upload limits, and storage limits, see [SharePoint Online software boundaries and limits](../sharepoint-online-service-description/sharepoint-online-limits.md).
+OneDrive for Business ist in SharePoint Online enthalten. Informationen zu zusätzlichen Beschränkungen in SharePoint Online wie Websitesammlungskontingenten, Dateiuploadbeschränkungen und Speicherbegrenzungen finden Sie unter [SharePoint Online: Softwaregrenzwerte und -beschränkungen](../sharepoint-online-service-description/sharepoint-online-limits.md).
   
 ### <a name="subscription-plans"></a>Abonnementpläne
 
@@ -883,7 +883,7 @@ In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, di
 |Office Communications Server 2007 R2 und Lync Server 2010 (Chat, Anwesenheit, Audio, Video, Konferenzen)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |XMPP- (wird beispielsweise von Google Talk verwendet) und Sametime-Verbund  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 | Skype-Partnerverbund  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|AOL and Yahoo! federation  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
+|Partnerverbund zwischen AOL und Yahoo!  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |**[Skype for Business Online-Besprechungen](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Ad-hoc-und Zeitplanung für Audiokonferenzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Ad hoc und Planen von Videokonferenzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -1000,7 +1000,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
   
 #### <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte
 
-- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
+- **Grenzwert für Dateiübertragung** Die maximale Größe einer Datei, die bei einer Skype for Business Online-Chatunterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **Beschränkung der Anzahl von als Registerkarten geöffneten Unterhaltungen** Die maximale Anzahl der Unterhaltungsregisterkarten, die ein Skype for Business-Benutzer gleichzeitig öffnen kann 
     
@@ -1036,7 +1036,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 |Personen in einer Teamanrufgruppe  <br/> |25  <br/> |25  <br/> |25  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
+> <sup>1</sup> Wenn die Anzahl der Teilnehmer an einer Skype for Business-Besprechung 75 Teilnehmer übersteigt, wird die Teilnehmerliste (Referenten und Teilnehmer) abgeschnitten, sodass den einzelnen Teilnehmern nur die Referenten sowie ihr eigener Name angezeigt werden. Die vollständige Teilnehmerliste bleibt für die Referenten in der Besprechung sichtbar. Darüber hinaus werden Fehler bei der Katalogansicht und beim Chat für die Teilnehmer ausgeblendet. 
   
 #### <a name="meeting-retention-limits"></a>Besprechungsaufbewahrungsgrenzwerte
 
