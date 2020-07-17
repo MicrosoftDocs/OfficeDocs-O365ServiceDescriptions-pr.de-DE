@@ -30,7 +30,7 @@ E-Mail-Empfänger werden als E-Mail-Benutzer oder -Gruppen kategorisiert und kö
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-In EOP, you can configure administrative roles only. Users can be added and removed from default admin role groups directly in the EAC. No RBAC customization is available. For more information, see [Manage Admin Role Group Permissions in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
+Sie können in EOP nur Administratorrollen konfigurieren. Benutzer können direkt in der Exchange-Verwaltungskonsole den standardmäßigen Administratorrollengruppen hinzugefügt beziehungsweise daraus entfernt werden. Es ist keine Anpassung der rollenbasierten Zugriffssteuerung verfügbar. Weitere Informationen finden Sie unter [Verwalten der Berechtigungen der Administratorrollengruppen in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
   
 ## <a name="domain-management"></a>Domain management
 
@@ -38,13 +38,13 @@ Verwaltete Domänen sind Domänen, die durch EoP geschützt sind. In der Exchang
   
 ## <a name="match-subdomains"></a>Untergeordnete Domänen abgleichen
 
-In EOP, you can enable mail flow to subdomains of a managed domain. For more information, see [Enable Email Flow for Subdomains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
+Sie können in EOP E-Mail-Fluss zu Unterdomänen einer verwalteten Domäne aktivieren. Weitere Informationen finden Sie unter [Aktivieren des E-Mail-Flusses für Unterdomänen in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>Directory Based Edge Blocking (DBEB)
 
 Mit der Funktion verzeichnisbasierte Edge-Blockierung können Sie Nachrichten für ungültige Empfänger im Dienst Netzwerkumkreis ablehnen. Mit Blockierung können Administratoren e-Mail-aktivierte Empfänger zu Microsoft hinzufügen und alle an e-Mail-Adressen gesendeten Nachrichten blockieren, die in Microsoft nicht vorhanden sind. Wenn eine Nachricht an eine gültige e-Mail-Adresse gesendet wird, die in Microsoft vorhanden ist, wird die Nachricht über die restlichen Dienstfilter Ebenen (Anti-Malware, Antispam, Transportregeln) weitergeleitet. Wenn die Adresse nicht vorhanden ist, blockiert der Dienst die Nachricht noch vor dem Filtern, und ein Unzustellbarkeitsbericht (NDR) wird mit der Benachrichtigung an den Absender gesendet, dass die Nachricht nicht zugestellt werden konnte. 
   
-Enabling DBEB requires some user and domain configuration. For more information, see [Use Directory Based Edge Blocking to Reject Messages Sent to Invalid Recipients](https://go.microsoft.com/fwlink/p/?LinkId=390676).
+Zum Aktivieren von DBEB ist eine bestimmte Benutzer- und Domänenkonfiguration erforderlich. Weitere Informationen finden Sie unter [Ablehnen von Nachrichten an ungültige Empfänger mithilfe von verzeichnisbasierter Edge-Blockierung](https://go.microsoft.com/fwlink/p/?LinkId=390676).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

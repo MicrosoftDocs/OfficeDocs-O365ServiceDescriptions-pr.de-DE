@@ -55,7 +55,7 @@ Sie können DLP-Richtlinien in der Exchange-Verwaltungskonsole konfigurieren, wo
 - Überprüfen Sie Vorfallsdaten in DLP-Berichten, oder fügen Sie Ihre eigene Berichterstellung mithilfe einer neuen Aktion zum Generieren eines Schadensberichts hinzu.
 
 > [!NOTE]
-> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
+> DLP-Richtlinien werden nur auf E-Mails angewendet, die in Ihre oder aus Ihrer Organisation übertragen werden. Auf organisationsinterne E-Mails werden keine DLP-Richtlinien angewendet, es sei denn, Sie führen Exchange Server 2013 mit DLP lokal aus. Dies trifft auch auf DLP-Richtlinientipps zu, mit denen Benutzer über potenzielle Richtlinienverletzungen informiert werden, bevor vertrauliche Informationen versehentlich an nicht autorisierte Personen gesendet werden.
 
 Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust in Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 

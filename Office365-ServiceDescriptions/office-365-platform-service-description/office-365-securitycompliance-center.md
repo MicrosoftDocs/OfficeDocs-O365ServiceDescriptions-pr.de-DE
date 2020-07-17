@@ -21,7 +21,7 @@ ms.locfileid: "45131789"
 Das [Security &amp; Compliance Center](https://protection.office.com/) unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
   
 > [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
+> Derzeit sind viele der Compliancefeatures noch über dienstspezifische Verwaltungsschnittstellen erreichbar, z. B. das Exchange Admin Center (EAC). Dies wird jedoch künftig geändert, wenn weitere dienstunabhängige Compliancefeatures zum Security &amp; Compliance Center hinzugefügt werden.
 
 Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Microsoft 365-Kompatibilitätsfunktionen ab dem 1. April 2020 profitieren, laden Sie den detaillierten Vergleich der Microsoft 365-Kompatibilitäts Lizenzierung herunter. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   

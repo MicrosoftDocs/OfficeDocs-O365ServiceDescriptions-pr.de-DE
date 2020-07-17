@@ -36,7 +36,7 @@ Mit Office für die Webunterstützung in "jammern" können Dokumente, die in "ja
 
 ## <a name="online-now"></a>Jetzt Online
 
-See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
+Sie können sehen, wer online ist, und sofort eine private Diskussion mit einem oder mehreren Kollegen beginnen. Die Kontaktliste wird automatisch nach den Personen sortiert, mit denen Sie am meisten zu tun haben.
 
 ## <a name="polls"></a>Umfragen
 

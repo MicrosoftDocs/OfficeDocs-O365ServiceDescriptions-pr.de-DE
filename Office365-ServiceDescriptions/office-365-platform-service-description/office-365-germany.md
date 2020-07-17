@@ -20,13 +20,13 @@ ms.locfileid: "45132390"
 
 Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
 
-The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
+Der Vertrauensnehmer der Daten, T-Systems International, bei dem es sich um ein unabhängiges deutsches Unternehmen und eine Niederlassung der Deutschen Telekom handelt, steuert den physischen und logischen Zugriff auf Kundendaten. Auf Kundendaten kann nur mit Genehmigung oder unter Aufsicht des Vertrauensnehmers zugegriffen werden, der sich nach deutschen Recht richtet.
 
 Basierend auf dieser Entwicklung der Kundenbedürfnisse wird sich unsere Cloud-Strategie für Deutschland auf die Bereitstellung der neuen Cloud-Regionen in Deutschland konzentrieren, die mit unserem globalen Cloud-Angebot übereinstimmen. Mit diesem Schwerpunkt werden wir keine neuen Kunden mehr annehmen oder neue Dienste aus dem derzeit verfügbaren Microsoft Cloud Deutschland bereitstellen. Vorhandene Kunden können weiterhin die aktuellen derzeit verfügbaren Cloud-Dienste verwenden, die wir mit den erforderlichen Sicherheitsupdates aufrecht erhalten. [Erfahren Sie mehr über Office 365 Deutschland](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ## <a name="service-availability-for-each-plan"></a>Dienstverfügbarkeit nach Plan
 
-Each Office 365 Germany plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+Jeder Office 365 Deutschland-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. In der folgenden Tabelle werden die Dienste dargestellt, die in jedem Office 365-Plan verfügbar sind.
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -56,11 +56,11 @@ Informationen zu Systemanforderungen für Office 365 finden Sie unter [Systemanf
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center: Verfügbarkeit in Office 365 Deutschland
 
-The Security &amp; Compliance Center is available for Office 365 Germany. For more information and a list of features, see [Office 365 Security &amp; Compliance Center](office-365-securitycompliance-center.md).
+Das Security &amp; Compliance Center ist für Office 365 Deutschland verfügbar. Weitere Informationen und eine Liste der Funktionen finden Sie unter [Office 365 Security &amp; Compliance Center](office-365-securitycompliance-center.md).
 
 ### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Welche Compliance-Zertifikate hat Office 365 Deutschland?
 
-Office 365 Germany adheres to the cloud security and compliance standards of Office 365. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of Service Organization Controls (SOC), International Organization for Standardization (ISO), and audits. The certifications include ISO 27001/27002, 27017, 27018, and SOC 1 and 2. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
+Office 365 Deutschland befolgt die Office 365-Standards für Cloudsicherheit und Compliance ausgelegt. Office 365 verfügt über eine umfassende Reihe von Zertifizierungen, vergeben durch anerkannte Auditoren gemäß Service Organization Controls (SOC), International Organization for Standardization (ISO) und Auditvorgaben. Zu den Zertifizierungen zählen ISO 27001/27002, 27017 und 27018 sowie SOC 1 und 2. Die zusätzliche Zugriffssteuerung durch Datentreuhänder in Office 365 Deutschland wird im Rahmen jährlicher ISO- und SOC-Audits durch unabhängige Gutachter evaluiert.
 
 ## <a name="platform-features"></a>Plattformfeatures
 
@@ -330,7 +330,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 Die folgende Tabelle enthält Links zu vergleichen von Office für die Funktionen des WebFeatures, die in Office 365 Deutschland zur Verfügung stehen, um funktionsreiche Microsoft Office Desktop-Apps bereitzustellen. Verwenden Sie die Vergleiche, um zu ermitteln, welche Features in Office für das Web zur Verfügung stehen, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie stellen möglicherweise fest, dass einige Personen in Ihrer Organisation möglicherweise die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere möglicherweise nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Internet anzeigen und leicht bearbeiten müssen.
 
 > [!NOTE]
-> - A limited selection of Office features has been chosen to represent the advanced capabilities of the Office desktop suite. The table is not a comprehensive list of Microsoft Office features. <br/>
+> - Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabelle enthält nicht alle Microsoft Office-Funktionen. <br/>
 > - Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite. <br/>
 > - Microsoft Office webapps Server 2013 lokale Kunden erhalten eine Office für die webbearbeitungs Lizenz, wenn Sie eine Office-Desktop Suite-Lizenz erworben haben (wie Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz). <br/>
 > - Aufgrund der Art Office 365 Deutschland gibt es einige Features, die noch nicht aktiviert wurden. Mit der Zeit nähern sich die Dienste dank globaler Dienste der vollständigen Featureparität.
@@ -539,7 +539,7 @@ In der folgenden Tabelle sind die Features von Exchange Online Advanced Threat P
 
 ## <a name="project-online-features"></a>Project Online-Features
 
-The following table lists the Project Online features that are available across Office 365 Germany plans. To learn more aboutProject Online, see [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+In der folgenden Tabelle sind die Project Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -550,7 +550,7 @@ The following table lists the Project Online features that are available across 
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online-Features
 
-All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table lists features that are available across Office 365 Germany plans.
+Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle Pläne unterstützen sämtliche SharePoint-Features. In der folgenden Tabelle sind Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind.
 
 ****
 
@@ -850,7 +850,7 @@ In der folgenden Tabelle sind Skype for Business Online-Features aufgeführt, di
 |Office Communications Server 2007 R2 und Lync Server 2010 (Chat, Anwesenheit, Audio, Video, Konferenzen)|Ja|Nein|Ja|Ja|Ja|Ja|Nein|
 |XMPP- (wird beispielsweise von Google Talk verwendet) und Sametime-Verbund|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Skype-Partnerverbund|Nr.<sup>6</sup>|Nein|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nein|
-|AOL and Yahoo! federation|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Partnerverbund zwischen AOL und Yahoo!|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Skype for Business Online-Besprechungen](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Ad-hoc-und Zeitplanung für Audiokonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Ad hoc und Planen von Videokonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|

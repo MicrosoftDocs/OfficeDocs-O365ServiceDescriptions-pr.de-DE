@@ -24,11 +24,11 @@ Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project O
   
 ## <a name="active-directory-integration"></a>Active Directory-Integration
 
-Active Directory provides a central location for administrators to manage user credentials and permissions. Active Directory integration with Project means that users and groups in Active Directory are synchronized in Project Online or Project Server 2013. See [Manage security group synchronization with Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
+Active Directory bietet einen zentralen Ort für Administratoren zum Verwalten von Benutzeranmeldedaten und -berechtigungen. Die Active Directory-Integration mit Project bedeutet, dass Benutzer und Gruppen in Active Directory in Project Online oder Project Server 2013 synchronisiert werden. Siehe [Verwalten der Sicherheitsgruppensynchronisierung mit Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
   
 ## <a name="administration-deployment-and-extensibility"></a>Verwaltung, Bereitstellung und Erweiterbarkeit
 
-Project Online and Project Server 2013 provide features for administrators to plan, install and configure, maintain and extend Project. See [What's new for IT pros in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
+Project Online und Project Server 2013 stellen Features für Administratoren zum Planen, Installieren, Konfigurieren, Warten und Erweitern von Project bereit. Siehe [Neuigkeiten für IT-Experten in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
 ## <a name="getting-started"></a>Erste Schritte
 
@@ -36,7 +36,7 @@ Die erste Schritte-Inhalte stehen für Project online zur Verfügung. Siehe [Ers
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Problem- und Risikoverwaltung (für Teammitglieder)
 
-Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online und Project Server 2013 beinhalten Features zum Verhindern, Bestimmen und Vermeiden potenzieller Geschäfts- oder projektbezogener Risiken und Probleme. Weitere Informationen finden Sie unter [Verwalten von Problemen, Risiken und Dokumenten in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="office-365-trust-center"></a>Office 365-Trust Center
 
@@ -44,7 +44,7 @@ Ihre Daten gehören Ihnen. Wir schützen Ihre Daten und Ihre Privatsphäre. Sieh
   
 ## <a name="ppm-partner-ecosystem"></a>PPM-Partnerumgebung
 
-Microsoft PPM solutions are backed by hundreds of Microsoft partners who have earned their PPM competency, and undergone relevant exams and numerous deployments in over 80 countries and regions worldwide. When you want help with assessment, envisioning, deployment, or training, and you're ready to engage with professional services organizations, [contact a PPM partner in your region](https://go.microsoft.com/fwlink/p/?LinkId=272646).
+Die PPM-Lösungen von Microsoft werden von Hunderten Microsoft-Partnern unterstützt, die ihre PPM-Kompetenz erlangt haben und sich relevanten Prüfungen und zahllosen Bereitstellungen in über 80 Ländern und Regionen weltweit unterzogen haben. [Wenden Sie sich an einen PPM-Partner in Ihrer Region](https://go.microsoft.com/fwlink/p/?LinkId=272646), wenn Sie bei der Bewertung, Projektbeschreibung, Bereitstellung oder Schulung helfen und mit professionellen Dienstleistungsorganisationen interagieren möchten.
   
 ## <a name="service-reliability"></a>Dienstzuverlässigkeit
 
@@ -60,5 +60,5 @@ Durch die Teamzusammenarbeit werden der gesamte Projekterfolg und die Effektivit
   
 ## <a name="time-and-task-management-for-team-members"></a>Zeit- und Aufgabenverwaltung (für Teammitglieder)
 
-Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+Verwenden Sie einen zentralisierten und gemeinsamen Ansatz für die Verwaltung der Zeiterfassung und der Vorgänge. Erfassen Sie Arbeitszeiten und arbeitsfreie Zeiten für die Personalabrechnung, die Fakturierung und andere geschäftliche Zwecke. Informieren Sie effizient über den Projektstatus oder tägliche Arbeiten sowie über Ad-hoc-Anfragen, um hohe und niedrige Auslastung oder den Fortschritt von Vorgängen abzuschätzen. Damit können Sie die Auswirkung auf die Planungen im Hinblick auf Aufwand, Kosten und Zeitplan antizipieren. Erfahren Sie mehr über das [Verfolgen Ihrer Arbeitszeiten und des Vorgangsfortschritts](https://go.microsoft.com/fwlink/p/?LinkId=271321).
   

@@ -48,7 +48,7 @@ Mit Microsoft Forms können Sie schnell und einfach benutzerdefinierte Quiz, Umf
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph-API
 
-Use the Microsoft Graph API to quickly build apps that connect to a wealth of resources, relationships, and intelligence, all through a single endpoint: https://graph.microsoft.com. For example, you can build custom dashboards, workflows, and apps that retrieve data for your organization. For more information, see the [Microsoft Graph documentation](https://go.microsoft.com/fwlink/?linkid=849595).
+Verwenden Sie die Microsoft Graph-API zum schnellen Erstellen von App, die über einen einzelnen Endpunkt Zugriff auf eine Vielzahl von Ressourcen, Beziehungen und Daten haben: https://graph.microsoft.com. Sie können zum Beispiel Dashboards, Workflows und Apps erstellen, die Daten für Ihre Organisation abrufen. Weitere Informationen finden Sie in der [Microsoft Graph-Dokumentation](https://go.microsoft.com/fwlink/?linkid=849595).
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
@@ -56,7 +56,7 @@ MyAnalytics bietet Einblicke in zwei der wichtigsten Faktoren in Ihrer persönli
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
+Microsoft Planner ist ein Tool, mit dem Benutzer die Teamarbeit visuell organisieren können. Teams können neue Pläne erstellen, Aufgaben organisieren und zuweisen, Dateien freigeben, kommunizieren, woran sie gerade arbeiten, Termine festlegen und Status aktualisieren. Microsoft Planner bietet außerdem die Möglichkeit, Dokumente mit bestimmten Aufgaben zu verknüpfen, diese gemeinsam zu bearbeiten und Gespräche zu Aufgaben zu führen. Weitere Informationen finden Sie in der [Einführung in Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
@@ -72,11 +72,11 @@ Microsoft StaffHub ist eine cloudbasierte Anwendung, in der Mitarbeiter und dere
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream is an enterprise video service that people in your organization can use to upload, view, and share videos securely. You can share recordings of classes, meetings, presentations, training sessions, or other videos that aid your team's collaboration. Microsoft Stream also makes it easy to share comments on a video and tag time codes in comments and descriptions to refer to specific points in a video.
+Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organisation Videos sicher hochladen, anzeigen und teilen können. Sie können Aufzeichnungen von Kursen, Besprechungen, Präsentationen, Schulungssitzungen oder andere Videos freigeben, die die Zusammenarbeit Ihres Teams fördern. Mit Microsoft Stream können auch Kommentare zu einem Video ganz einfach freigegeben sowie Zeitcodes in Kommentaren und Beschreibungen zu bestimmten Punkten in einem Video markieren.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway is a professional digital storytelling app for business that helps you and your colleagues express ideas using an interactive, web-based canvas. Microsoft Sway's built-in design engine helps you produce professional, visually-appealing reports, presentations, and more without the need for extensive formatting or additional training. You can also modify the results to get the unique look and feel you want. Microsoft Sway makes your creation look great in any browser on any screen, and it can be shared with colleagues and customers by simply sending a link. Microsoft Sway helps you find and pull together all sorts of content without leaving the app, so you can drag and drop your images, text, videos, and charts right on to your canvas. To learn more, see [Sway](https://sway.com). Microsoft Sway is not yet available in [Office 365 Germany](office-365-germany.md).
+Microsoft Sway ist eine professionelle App zum digitalen Geschichtenerzählen für Unternehmen, mit der Sie und Ihre Kollegen Ideen auf einer interaktiven, webbasierten Leinwand ausdrücken können. Dank des integrierten Designmoduls von Microsoft Sway können Sie professionelle, visuell ansprechende Berichte, Präsentationen und mehr ohne komplizierte Formatierung oder zusätzliche Schulung erstellen. Sie können die Ergebnisse auch ändern, um das gewünschte einzigartige Aussehen und Verhalten zu erzielen. Microsoft Sway lässt Ihre Präsentation in jedem Browser auf jedem Bildschirm großartig aussehen, und Sie können sie mit Kollegen und Kunden teilen, indem Sie ihnen einfach einen Link senden. Microsoft Sway hilft Ihnen beim Suchen und Sammeln aller möglichen Inhalte, ohne die App zu verlassen. Sie können Bilder, Text, Videos und Diagramme direkt auf die Leinwand ziehen und dort ablegen. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
@@ -92,11 +92,11 @@ Gruppen in Microsoft 365 verbindet Benutzer mit den Kollegen, Informationen und 
   
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 Video ist ein sicheres, unternehmensweites Ziel, auf das Sie Videos hochladen können. Diese können dann freigegeben werden und werden geräteübergreifend erkannt. Grundlage sind die Microsoft Azure Media Services. Office 365 Video hält Benutzer motiviert und informiert. Sie können Ideen einem breiten Publikum präsentieren. Zudem trägt das Tool dazu bei, eine organisationsweit einheitliche Strategie zu entwickeln. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>OneNote-Kursnotizbuch
 
-Class Notebook is part of OneNote and is available for Office 365 Education and Office 365 E5 Education. Each notebook includes a Content Library for teachers to share course content, a Collaboration Space where teachers and students can work together, and a private notebook for each student. After a Class Notebook is created, teachers and students can use the OneNote app to access it from any device.
+Das Kursnotizbuch ist Teil von OneNote und für Office 365 Education und Office 365 E5 Education verfügbar. Jedes Notizbuch umfasst einen Inhaltsbibliothek für Lehrer zum Freigeben von Kursinhalten, einen Zusammenarbeitsbereich, in dem Lehrer und Kursteilnehmer zusammenarbeiten können, sowie ein privates Notizbuch für jeden Kursteilnehmer. Nachdem ein Kursnotizbuch erstellt wurde, können Lehrer und Kursteilnehmer die OneNote-App verwenden, um von einem beliebigen Gerät aus darauf zuzugreifen.
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 

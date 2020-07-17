@@ -29,7 +29,7 @@ Die folgenden Unterstützungsfunktionen stehen in "jammern" zur Verfügung.
 
 ## <a name="administrator-support"></a>Administrator support
 
-Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Yammer Enterprise-Administratoren sind für die Kontowartung zuständig und sind autorisiert, direkt mit dem Microsoft Support-Team zu kommunizieren. Wenn Sie ein Yammer Enterprise-Administrator sind und nach Support suchen, besuchen Sie [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>Kundensupport
 
@@ -41,7 +41,7 @@ Der Microsoft Schnellzugriff-Dienst kann Ihre Organisation beim Wechsel zur Micr
 
 ## <a name="support-features-across-yammer-plans"></a>Supportfunktionen in Yammer-Plänen
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
+Benötigen Sie Unterstützung, um herauszufinden, welcher Yammer-Plan am besten die Anforderungen Ihres Unternehmens erfüllt? Anhand der folgenden Tabelle erfahren Sie, welche Supportfunktionen in den verschiedenen Plänen zur Verfügung stehen.
   
 |**Funktion**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -51,7 +51,7 @@ Need help figuring out which Yammer plan best fits your organization's needs? Us
  
 ## <a name="technical-support-case-handling"></a>Fallbearbeitung durch technischen Support
 
-Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
+Microsoft Support weist einem Fall, sobald er geöffnet wird, auf Grundlage der Art des Problems und dessen Folgen für den Kunden einen Schweregrad zu. Beispiele für Arten von Problemen und Schweregrade sind in folgender Tabelle aufgeführt. 
   
 |**Schweregrad**|**Beschreibung**|**Beispiele**|
 |:-----|:-----|:-----|
@@ -61,7 +61,7 @@ Microsoft Support assigns a severity level to a case when it is opened, based on
 
 ## <a name="technical-support-initial-response-times"></a>Erste Antwort durch technischen Support
 
-Initial response times are based on the severity levels described above and the type of Yammer subscription. The target response times are shown in the following table.
+Die Zeiten für die erste Antwort basieren auf dem oben beschriebenen Schweregrad und der Art des Yammer-Abonnements. Die anvisierten Antwortzeiten sind in der folgenden Tabelle angegeben.
   
 |**Schweregrad**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

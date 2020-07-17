@@ -70,13 +70,13 @@ Der technische Support für Microsoft 365-Abonnements bietet Unterstützung bei 
   
 ### <a name="technical-support-case-handling"></a>Fallbearbeitung durch technischen Support
 
-Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
+Microsoft weist einem Fall, sobald er geöffnet wird, auf Grundlage der Art von Problem und dessen Folgen für den Kunden einen Schweregrad zu. Beispiele für Arten von Problemen und Schweregrade sind in folgender Tabelle aufgeführt.
   
 |**Schweregrad**|**Betrieb und Supportbeschreibung**|**Beispiele**|
 |:-----|:-----|:-----|
-|Schweregrad A (Kritisch)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Weit verbreitete Probleme beim Senden oder Empfangen von E-Mail.  <br/>  SharePoint-Website außer Betrieb.  <br/>  Kein Benutzer kann Chatnachrichten senden, an Skype for Business-Besprechungen teilnehmen bzw. solche planen oder Skype for Business-Anrufe tätigen.  <br/> |
-|Schweregrad B (Hoch)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Sendeschaltfläche in Outlook ist verzerrt.  <br/>  Einstellung ist in EAC (Exchange Admin Center) nicht möglich, jedoch in PowerShell möglich.  <br/> |
-|Schweregrad C (nicht kritisch)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | Wie man ein Benutzerkennwort festlegt, das nicht abläuft.  <br/>  Benutzer können die Kontaktinformationen in Exchange Online nicht löschen.  <br/> |
+|Schweregrad A (Kritisch)  <br/> |Mindestens ein Dienst ist nicht zugänglich oder nicht verwendbar. Das Problem wirkt sich stark auf Produktion, Betrieb oder Bereitstellungsfristen aus, oder es wird sich stark auf Produktion oder Rentabilität auswirken. Mehrere Benutzer oder Dienste sind betroffen.  <br/> | Weit verbreitete Probleme beim Senden oder Empfangen von E-Mail.  <br/>  SharePoint-Website außer Betrieb.  <br/>  Kein Benutzer kann Chatnachrichten senden, an Skype for Business-Besprechungen teilnehmen bzw. solche planen oder Skype for Business-Anrufe tätigen.  <br/> |
+|Schweregrad B (Hoch)  <br/> |Der Dienst kann verwendet werden, aber in eingeschränkter Weise. Das Problem hat mäßige Auswirkungen auf den Betrieb und kann während der Geschäftszeiten behoben werden. Ein einzelner Benutzer, Kunde oder Dienst ist teilweise betroffen.  <br/> | Sendeschaltfläche in Outlook ist verzerrt.  <br/>  Einstellung ist in EAC (Exchange Admin Center) nicht möglich, jedoch in PowerShell möglich.  <br/> |
+|Schweregrad C (nicht kritisch)  <br/> |Das Problem hat minimale Auswirkungen auf den Betrieb. Das Problem ist bedeutend, hat für den Kunden aber keine große Auswirkungen auf den aktuellen Dienst oder die Produktivität. Ein einzelner Benutzer erfährt zeitweise Unterbrechungen, aber es ist eine akzeptable Problemumgehung verfügbar.  <br/> | Wie man ein Benutzerkennwort festlegt, das nicht abläuft.  <br/>  Benutzer können die Kontaktinformationen in Exchange Online nicht löschen.  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>Erste Antwort durch technischen Support
 
@@ -105,7 +105,7 @@ Je nach Standort und Sprache stehen Supporttechniker während der meisten üblic
   
 ## <a name="shared-support-responsibilities"></a>Support – eine gemeinsame Aufgabe
 
-Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
+Microsoft ist sich darüber im Klaren, dass ein zeitnaher technischer Support durch qualifizierte Techniker ein wichtiger Aspekt von Clouddiensten ist. Ebenso wichtig ist bei der Erbringung von Supportleistungen für seine Benutzer auch die Rolle der IT-Abteilung des Kunden.
   
 ### <a name="administrator-role-and-responsibilities"></a>Administratorrolle und Aufgaben
 
@@ -131,7 +131,7 @@ Die Rolle des Administrators umfasst folgende Aufgaben:
 
 - Nutzen der Self-Service-Supportressourcen von Microsoft, um Supportprobleme zu beheben
 
-The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
+Vom Administrator wird erwartet, dass er für die Benutzer des Kunden erste Unterstützung leistet. Wenn der Administrator jedoch Probleme mithilfe der Self-Service-Supportressourcen nicht beheben kann, sollte er [Technischer Support](support.md#technical-support) kontaktieren.
   
 ### <a name="microsoft-support-role"></a>Rolle des Supports von Microsoft
 
@@ -177,7 +177,7 @@ Es stehen mehrere Typen von zusätzlichen Supportservices zur Verfügung:
 
 ### <a name="partners"></a>Partner
 
-You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+Sie können einen Microsoft-Partner auswählen und administrative Funktionen delegieren, u. a. das Erstellen von Tickets für Serviceanfragen. Weitere Informationen finden Sie in der [Partner](partners.md)-Dienstbeschreibung und unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
   
 ### <a name="developers"></a>Entwickler
 

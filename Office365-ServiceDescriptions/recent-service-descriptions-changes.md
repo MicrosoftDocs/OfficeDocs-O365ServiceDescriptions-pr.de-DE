@@ -96,7 +96,7 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 |:-----|:-----|:-----|
 |**Dienstbeschreibung** <br/> |**Thema** <br/> |**Änderung** <br/> |
 |Office 365-Plattform  <br/> |[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Es wurden Änderung im Zusammenhang mit der Verfügbarkeit von Diensten, einschließlich Stream und Delve, in Office 365 Enterprise F1 vorgenommen.  <br/> |
-||[Dienstupdates](office-365-platform-service-description/service-updates.md) <br/> |"First release" is now "Targeted release." Updated link to Office 365 release programs page.  <br/> |
+||[Dienstupdates](office-365-platform-service-description/service-updates.md) <br/> |"Erstversion" heißt nun "Zielrelease". Der Link zur Seite Office 365 Release-Programme wurde aktualisiert.  <br/> |
 |Exchange Online  <br/> |[Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md) <br/> |Die Unterstützung für die Hybridbereitstellung in Office 365 Enterprise F1- und Exchange Online Kiosk-Plänen wurde verdeutlicht.  <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business - Dienstbeschreibung](onedrive-for-business-service-description.md) <br/> |Verfügbarkeit von OneDrive for Business für Office 365 Enterprise F1 (diese Benutzer verfügen über 2 GB OneDrive-Speicherplatz) wurde hinzugefügt.  <br/> |
 |SharePoint Online  <br/> |[SharePoint Online-Dienstbeschreibung](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |BCS-Änderung: Die Verfügbarkeit von Geschäftsdatenwebparts in SharePoint Server 2013-Standard CAL unter lokalen SharePoint-Plänen wurde von "Ja" zu "Nein" geändert.  <br/> |
@@ -114,10 +114,10 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 ||[Microsoft 365 Education](office-365-platform-service-description/microsoft-365-education.md) <br/> |Seite für neues Angebot hinzugefügt.  <br/> |
 ||[BlackBerry](office-365-platform-service-description/blackberry.md) <br/> |Verweise auf nicht mehr unterstützte BlackBerry Business Cloud Services (BBCS) entfernt.  <br/> |
 |Exchange Online  <br/> |[Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md) <br/> |Kundenschlüssel für Office 365 Enterprise E5 hinzugefügt.  <br/> |
-||[Exchange Online-Begrenzungen](exchange-online-service-description/exchange-online-limits.md) <br/> |Clarified 35 MB attachment limit for Outlook Web Access (OWA). An attached individual file that exceeds 35 MB is blocked. Additionally, an attached group of files that collectively exceeds 35 MB is also blocked.  <br/> |
+||[Exchange Online-Begrenzungen](exchange-online-service-description/exchange-online-limits.md) <br/> |Grenzwert für Anlage von 35 MB für Outlook Web Access (OWA) erläutert. Eine einzelne angefügte Datei, die größer als 35 MB ist, wird blockiert. Darüber hinaus wird eine Gruppe von angefügten Dateien blockiert, die größer als 35 MB ist.  <br/> |
 ||[Clients und mobile Geräte](exchange-online-service-description/clients-and-mobile-devices.md) <br/> |Mehrere Updates; Artikel neu strukturiert.  <br/> |
 |Mehrere  <br/> |Mehrere  <br/> |Verweise auf Microsoft Sway korrigiert.  <br/> |
-|Mehrere  <br/> |Mehrere  <br/> |Updated OneDrive for Business and SharePoint Online Service Descriptions to include additional hybrid features. Also added hybrid features to Office 365 operated by Vianet, Office 365 Germany, and Office 365 Education pages.  <br/> |
+|Mehrere  <br/> |Mehrere  <br/> |OneDrive for Business- und SharePoint Online-Dienstbeschreibungen um zusätzliche Hybridfeatures erweitert. Zusätzliche Hybridfeatures zu Seiten von Office 365, betrieben von Vianet, Office 365 Deutschland und Office 365 für Bildungseinrichtungen hinzugefügt.  <br/> |
    
 ## <a name="october-2017"></a>Oktober 2017
 
@@ -179,7 +179,7 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Office 365 US Government G5-Informationen wurden hinzugefügt.  <br/> |
 ||[Office 365, betrieben von 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Information Rights Management (IRM) wurde mit Windows Server AD RMS aktualisiert.  <br/> |
 ||[Office 365 Deutschland](office-365-platform-service-description/office-365-germany.md) <br/> |Zeile "App-Kennwörter erstellen" unter "Benutzerkontenverwaltung" hinzugefügt.  <br/> |
-||[Office 365 Deutschland](office-365-platform-service-description/office-365-germany.md) <br/> |Added pointer to Security &amp; Compliance Center feature description. (Security &amp; Compliance Center is available for Office 365 Germany.)  <br/> |
+||[Office 365 Deutschland](office-365-platform-service-description/office-365-germany.md) <br/> |Zeiger zur Beschreibung des Features Security &amp; Compliance Center wurde hinzugefügt. (Security &amp; Compliance Center ist für Office 365 Deutschland verfügbar.)  <br/> |
 |Office für das Web  <br/> |[Office für das Web – Dienstbeschreibung](office-online-service-description/office-online-service-description.md) <br/> |Visio wurde hinzugefügt.  <br/> |
 |Exchange Online  <br/> |[Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md) <br/> |„Aufbewahrungstags und Aufbewahrungsrichtlinien" wurde in „Aufbewahrungstags und Aufbewahrungsrichtlinien für die Messaging-Datensatzverwaltung" geändert.  <br/> |
 ||[Sprachnachrichtendienste](exchange-online-service-description/voice-message-services.md) <br/> |Wurde um eine Ankündigung des Lebenzyklusendes für Exchange Online Unified Messaging über SBC erweitert.  <br/> |

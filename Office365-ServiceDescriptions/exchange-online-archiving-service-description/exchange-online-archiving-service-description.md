@@ -60,7 +60,7 @@ Administratoren können einen Ansatz mit einmaligem Anmelden bei der Authentifiz
   
 ### <a name="user-subscriptions"></a>Benutzerabonnements
 
-Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
+Jeder Benutzer, der auf den Exchange Online-Archivierung-Dienst zugreift, muss über ein Exchange Online-Archivierung-Abonnement verfügen. Ein E-Mail-Archivabonnement kann nur zum Speichern der Nachrichtendaten eines Benutzers verwendet werden.
   
 ## <a name="unlimited-archive-storage-quota"></a>Unbegrenztes Archivspeicherkontingent
 

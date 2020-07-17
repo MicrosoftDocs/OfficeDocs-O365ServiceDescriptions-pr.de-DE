@@ -24,9 +24,9 @@ Microsoft Exchange Online bietet umfangreiche Aufbewahrungs-und Wiederherstellun
   
 ## <a name="mailbox-replication-at-data-centers"></a>Postfachreplikation in Datencentern
 
-Exchange Online mailboxes are continuously replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a local messaging infrastructure failure. For large-scale failures, service continuity management procedures are initiated.
+Exchange Online-Postfächer werden kontinuierlich in mehreren Datenbankkopien in geografisch verteilten Microsoft-Datencentern repliziert, um eine Datenwiederherstellung zu ermöglichen, falls eine lokale Nachrichteninfrastruktur ausfällt. Bei umfangreichen Ausfällen werden Verwaltungsverfahren zur Aufrechterhaltung von Diensten eingeleitet.
   
-For more information about how Microsoft protects your data, see [Office 365 Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=299135). If you are using Office 365 operated by 21Vianet, see the [21Vianet Trust Center](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+Weitere Informationen dazu, wie Microsoft Ihre Daten schützt, finden Sie im [Office 365 Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=299135). Bei Verwendung von Office 365 über 21Vianet finden Sie entsprechende Informationen im [21Vianet Trust Center](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Wiederherstellung gelöschter Postfächer
 
@@ -38,9 +38,9 @@ Exchange Online ermöglicht Benutzern das Wiederherstellen von Elementen, die au
   
 Nachdem ein Element aus dem Ordner "Gelöschte Elemente" entfernt wurde, wird es in einem Ordner "Wiederherstellbare Elemente" für weitere 14 Tage aufbewahrt, bevor es endgültig entfernt wird, Administratoren können dies jedoch mit Remote Windows PowerShell auf maximal 30 Tage verlängern. Benutzer können das Element während dieses Zeitraums wiederherstellen, indem Sie das Feature Gelöschte Elemente wiederherstellen in Outlook im Internet oder Outlook verwenden. Hier erfahren Sie, wie Sie [den Aufbewahrungszeitraum für gelöschte Elemente ändern](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
-If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same time period by using the Single Item Recovery feature with remote Windows PowerShell. By default, Single Item Recovery is enabled when a mailbox is created. To learn more, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkID=286941).
+Wenn ein Benutzer ein Element manuell aus dem Ordner "Wiederherstellbare Elemente" gelöscht hat, kann ein Administrator das Element mit der Funktion zur Wiederherstellung einzelner Elemente und der Remote-Windows PowerShell innerhalb desselben Zeitraums wiederherstellen. Die Wiederherstellung einzelner Elemente wird bei der Erstellung eines Postfachs standardmäßig aktiviert. Weitere Informationen finden Sie unter [Aktivieren oder Deaktivieren der Wiederherstellung einzelner Elemente für ein Postfach](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
-To preserve messages for longer than 30 days in the Recoverable Items folder, organizations can implement longer-term email preservation or time-based In-Place Holds. Learn more about [placing a mailbox on In-Place Hold](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+Sollen Nachrichten länger als 30 Tage im Ordner "Wiederherstellbare Elemente" aufbewahrt werden, können Organisationen Langzeitaufbewahrung oder zeitbasierte In-Situ-Speicher implementieren. Unter diesem Link finden Sie weitere Informationen zu [In-Situ-Speichern für Postfächer](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

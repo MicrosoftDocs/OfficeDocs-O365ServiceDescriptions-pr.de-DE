@@ -30,11 +30,11 @@ Für Basisplandaten können in einer zusammenfassenden Zeile Rollups oder Zusamm
   
 ## <a name="budget-planning"></a>Budget planning
 
-Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+Über die Budgetplanung können Sie den aktuellen Fortschritt mit einem Basisplan vergleichen, den Sie zu Beginn eines Projekts festgelegt haben. Erfahren Sie mehr über die [Ertragswertanalyse](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>Vergleichen von Projektversionen
 
-Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
+Vergleichen Sie zwei Versionen eines Projekts. In einem Bericht werden die Änderungen dargestellt, beispielsweise die Ergänzung neuer Aufgaben.
   
 ## <a name="deadlines"></a>Stichtage
 

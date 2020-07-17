@@ -24,7 +24,7 @@ Die folgenden Features der Jammer Plattform stehen in "jammern" zur Verfügung.
  
 ## <a name="activity-stream-api"></a>Aktivitätsdaten Strom-API
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+Integrieren Sie vorhandene Geschäftsanwendungen, indem Sie dem Social Graph Daten hinzufügen. Lenken Sie die Aufmerksamkeit auf Aktivitäten, die in allen vorhandenen Geschäftsanwendungen stattfinden.
   
 ## <a name="browser-extension"></a>Browser Erweiterung
 

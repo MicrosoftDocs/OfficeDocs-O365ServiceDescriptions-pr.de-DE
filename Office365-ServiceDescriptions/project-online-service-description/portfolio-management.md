@@ -36,19 +36,19 @@ Ressourcen sind die Personen, Materialien oder Kosten, die erforderlich sind, um
   
 ## <a name="financial-management"></a>Finanzverwaltung
 
-Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Führen Sie Finanzverwaltungsprozesse ein, um Kosten- und Nutzenschätzungen zu verbessern. Verfolgen Sie Kosten und Leistungen effektiv, um sicherzustellen, dass jedes Projekt im Rahmen des Budgets geliefert wird und dass mit dem Portfolio die erwarteten Vorteile realisiert werden. Weitere Informationen finden Sie unter [Project Portfolio Management-Lösungshandbuch (Whitepaper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Teilnehmen am Workflow
 
-Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
+Workflows stellen eine strukturierte Methode für die unterschiedlichen Phasen des Projektablaufs. Ein Workflow enthält Definitionen der Lebenszyklusphasen, die das Projekt durchläuft, z. B. Vorschlag, Erstellung und erste Genehmigung. Der Workflow legt die Informationen fest, die in den jeweiligen Phasen erforderlich oder gesperrt sind.
   
 ## <a name="portfolio-analytics-and-selection"></a>Portfolioanalysen und -auswahl
 
-Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Bestimmen, wählen und übermitteln Sie in effektiver Weise die Projektportfolios, die am besten an der Geschäftsstrategie Ihres Unternehmens ausgerichtet sind und die Ihre Rendite maximieren. Weitere Informationen finden Sie unter [Project Portfolio Management-Lösungshandbuch (Whitepaper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Programmverwaltung
 
-In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Jedes Projekt in der Programmverwaltung weist eigene Ziele auf, die gemeinsam zum geplanten Nutzen des gesamten Programms beitragen. Weitere Informationen finden Sie unter [Project Portfolio Management-Lösungshandbuch (Whitepaper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>Roadmap
 

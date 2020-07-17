@@ -28,7 +28,7 @@ Greifen Sie über die Organisation zu, um die Experten zu finden, die Sie benöt
 
 ## <a name="leaderboards"></a>Leaderboards
 
-Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
+Ermitteln Sie einflussreiche Mitarbeiter in Ihrem Netzwerk. In den Leaderboards werden die Personen aufgeführt, die die meisten Nachrichten verfasst haben bzw. deren Nachrichten am häufigsten beantwortet oder angeklickt wurden.
 
 ## <a name="member-directory"></a>Mitgliederverzeichnis
 

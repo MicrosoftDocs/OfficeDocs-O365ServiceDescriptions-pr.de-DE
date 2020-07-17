@@ -34,9 +34,9 @@ Weitere Informationen zur Verbundfreigabe finden Sie unter [Freigabe in Exchange
   
 ## <a name="site-mailboxes"></a>Websitepostfächer
 
-Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
+E-Mails und Dokumente werden herkömmlicherweise in zwei voneinander getrennten Datenrepositorys gespeichert. Die meisten Teams arbeiten mithilfe von E-Mails und Dokumenten zusammen. Die Herausforderung liegt darin, dass mit unterschiedlichen Clients auf E-Mails und Dokumente zugegriffen wird. Dies reduziert üblicherweise sowohl die Benutzerfreundlichkeit als auch die Benutzerproduktivität.
   
-The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
+Das Websitepostfach ist ein neues Konzept in Exchange 2013, mit dem dieses Problem gelöst werden soll. Mit Websitepostfächern werden die Zusammenarbeit und die Benutzerproduktivität verbessert, indem die Benutzer über die gleiche Clientoberfläche auf Microsoft SharePoint 2013-Dokumente und Exchange-E-Mails zugreifen können. Ein Websitepostfach besteht funktional aus der Mitgliedschaft in einer SharePoint 2013-Website (Besitzer und Mitglieder), gemeinsam genutztem Speicher in einem Exchange 2013-Postfach für E-Mails und einer SharePoint 2013-Website für Dokumente sowie einer Verwaltungsoberfläche für Bereitstellungs- und Lebenszyklusanforderungen.
   
 > [!IMPORTANT]
 > Ihr Plan muss SharePoint enthalten. Für Websitepostfächer ist es erforderlich, dass Benutzer über SharePoint- und Exchange-Lizenzen verfügen. 

@@ -26,7 +26,7 @@ Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project O
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+Wenn Sie einen Vorgang deaktivieren, verbleibt er im Projektplan, hat aber keine Auswirkungen auf die Verfügbarkeit von Ressourcen, den Projektzeitplan oder die Planung anderer Vorgänge. Erfahren Sie mehr über das [Deaktivieren eines Vorgangs](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>Automatisches Vervollständigen
 
@@ -42,7 +42,7 @@ In Projektvorgängen können jetzt Kalenderdaten bis zum Jahr 2149 genutzt werde
   
 ## <a name="cross-project-critical-path"></a>Projektübergreifender kritischer Weg
 
-A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
+Bei einem kritischen Weg handelt es sich um eine Reihe von Aufgaben, die für ein Projekt plangemäß abgeschlossen werden müssen, um den Zeitplan einzuhalten. Sie können eine Abhängigkeitsbeziehung mit einer Aufgabe in einem anderen Projekt erstellen, bearbeiten und löschen. 
   
 ## <a name="task-inspector"></a>Vorgangsinspektor
 
@@ -50,7 +50,7 @@ Zeigen Sie Faktoren an, die Einfluss auf die Planung eines Vorgangs haben, z. B
   
 ## <a name="task-path-analysis"></a>Aufgaben Pfadanalyse
 
-See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+Zeigen Sie an, wie ein Vorgang sich mit einem anderen verbindet, indem Sie den Aufgabenpfad im gesamten Projekt hervorheben. Erfahren Sie mehr über das [Hervorheben von Aufgabenverknüpfungen](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>Top-down-Sammelvorgänge
 

@@ -42,11 +42,11 @@ Klicken Sie mit der rechten Maustaste auf ein beliebiges Element in einer Projek
   
 ## <a name="custom-fields"></a>Benutzerdefinierte Felder
 
-In addition to the fields that are included with Project, you can also use custom fields to meet your organizational needs. To learn more about fields, see [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
+Zusätzlich zu den in Project inbegriffenen Feldern können Sie auch benutzerdefinierte Felder verwenden, um die Anforderungen Ihrer Organisation zu erfüllen. Weitere Informationen über Felder finden Sie unter [Referenz: Verfügbare Felder](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 
-Collaborate on schedule development by copying and pasting schedule details between Office applications, such as Word. Learn more about [copying and pasting from Word into Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
+Erarbeiten Sie gemeinsam mit anderen Benutzern Zeitpläne, indem Sie Zeitplandetails aus Office-Anwendungen wie Word kopieren und einfügen. Weitere Informationen finden Sie unter [Kopieren und Einfügen aus Word in Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
@@ -54,7 +54,7 @@ Stellen Sie Projektinformationen mithilfe von Gantt-Diagrammen, Netzplandiagramm
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
 
-Increase productivity with the ribbon, a tab interface that you can use to quickly find and use Project features and controls. [Learn more about the ribbon](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Steigern Sie die Produktivität mit dem Menüband, einer Oberfläche mit Registerkarten, über die Sie Project-Funktionen und -Steuerelemente schnell finden und verwenden können. [Hier erfahren Sie mehr über das Menüband](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
@@ -78,15 +78,15 @@ Speichern Sie eine Projektdatei als PDF-oder XPS-Datei. Weitere Informationen fi
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
-If you're not sure of all the details for a project, you can use placeholder text, such as "TBD" for resources, start dates, end dates, and so on. For more information, see [Top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).
+Wenn noch nicht alle Details eines Projekts feststehen, können Sie Platzhaltertext wie "TBD" für Ressourcen, Startdaten, Enddaten usw. verwenden. Weitere Informationen finden Sie unter [Projektplanung mit der Top-down-Methode](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
 ## <a name="project-templates"></a>Projektvorlagen
 
-You can save lots of time creating a project by using a past project as a template. See [Creating a new project from another project or template](https://go.microsoft.com/fwlink/p/?LinkId=271328).
+Sie können bei der Projekterstellung viel Zeit sparen, wenn Sie ein altes Projekt als Vorlage verwenden. Weitere Informationen finden Sie unter [Erstellen eines neuen Projekts aus einem anderen Projekt oder einer Vorlage](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
 ## <a name="start-experience"></a>Projektstart
 
-Instead of dropping you into a blank project, Project 2013 presents a one-stop center for starting your project. You can use customer templates or a built-in guide to get you started in four easy steps.
+Statt Ihnen ein leeres Projekt zu präsentieren, bietet Project 2013 eine Oberfläche mit allen Funktionen für den Start des Projekts. Sie können Kundenvorlagen oder eine integrierte Anleitung verwenden, um in vier einfachen Schritten mit der Arbeit zu beginnen.
   
 ## <a name="text-wrap"></a>Textumbruch
 

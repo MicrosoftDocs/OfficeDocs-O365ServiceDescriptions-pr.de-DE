@@ -34,7 +34,7 @@ Die Exchange-Verwaltungskonsole ist eine einheitliche, benutzerfreundliche Verwa
   
 ## <a name="remote-windows-powershell-access"></a>Zugriff auf die remote verwendete Windows PowerShell
 
- Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
+ Administratoren können mithilfe der Remote-Windows PowerShell Verwaltungsaufgaben über die Befehlszeile durchführen. Weitere Informationen zur Verwendung von Windows PowerShell, einschließlich Informationen zur Erstellung von Shell-Remotesitzungen und Dokumentationsmaterialien zu allen Cmdlets, finden Sie im Artikel zum Thema [Exchange Online-PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

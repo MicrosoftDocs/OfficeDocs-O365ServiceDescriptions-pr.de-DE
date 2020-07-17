@@ -124,7 +124,7 @@ PowerPoint für das Web wird von einem Webbrowser aus gestartet und basiert auf 
   
 ## <a name="picture-cropping"></a>Bildzuschnitt
 
-Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
+Verbessern Sie mit dem Tool für die Fotozuschneidung den Rahmen eines Motivs des Bilds. Klicken Sie dazu einfach auf die Zuschneideziehpunkte am Rand des Bilds, und ziehen Sie diese, bis das gewünschte Ergebnis erzielt ist.
   
 ## <a name="pictures"></a>Bilder
 
@@ -172,7 +172,7 @@ Word-Grafiken und Diagramme können nicht in PowerPoint für das Internet eingef
   
 ## <a name="share"></a>Freigeben
 
-If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+Wenn Ihre Präsentation in einer SharePoint-Dokumentbibliothek gespeichert ist, ist Ihre Präsentation online, und Sie können sie freigeben, indem Sie den betreffenden Personen statt einer E-Mail-Anlage einen Link zu der Präsentation senden. Personen mit den erforderlichen Berechtigungen können die Präsentation in ihrem Webbrowser oder auf ihrem mobilen Gerät anzeigen. Erfahren Sie mehr über das [Freigeben einer Präsentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>Slide show
 
