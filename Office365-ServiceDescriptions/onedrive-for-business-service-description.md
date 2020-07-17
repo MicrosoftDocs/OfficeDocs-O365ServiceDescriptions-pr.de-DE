@@ -1,8 +1,7 @@
 ---
 title: OneDrive-Dienstbeschreibung
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie, welche OneDrive-Features in welchen Plänen zur Verfügung stehen.
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213927"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131289"
 ---
 # <a name="onedrive-service-description"></a>OneDrive-Dienstbeschreibung
 
@@ -50,9 +49,9 @@ Informationen zu den Anforderungen an die OneDrive-Synchronisierungs-App und die
 - Microsoft 365 Apps for Enterprise
 - Office 365 Enterprise E1
 - Office 365 Government G1
-- Office 365 Nonprofit Business Essentials
-- Office 365 Nonprofit Business Premium
-- Office 365 Non-Profit E1
+- Microsoft 365 Business Basic für gemeinnützige Organisationen
+- Microsoft 365 Business Standard für gemeinnützige Organisationen
+- Office 365 E1 für gemeinnützige Organisationen
 - OneDrive for Business Plan 1
 - SharePoint Online Plan 1
 - Microsoft 365 Business Premium
@@ -68,8 +67,8 @@ Informationen zu den Anforderungen an die OneDrive-Synchronisierungs-App und die
 - Office 365 A5
 - Office 365 US Government G3
 - Office 365 US Government G5
-- Office 365 Non-Profit E3
-- Office 365 Non-Profit E5
+- Office 365 E3 für gemeinnützige Organisationen
+- Office 365 E5 für gemeinnützige Organisationen
 - OneDrive for Business-Plan 2
 - SharePoint Online Plan 2
 - Microsoft 365 Enterprise E3

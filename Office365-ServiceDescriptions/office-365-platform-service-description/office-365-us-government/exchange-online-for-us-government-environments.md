@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der US Government-Cloud und der kommerziellen Cloud, wie in der Exchange Online-Dienstbeschreibung aufgeführt.
-ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5081dbdb563a9047fbf6759fc7413584408d56b4
+ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131929"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154413"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online für Umgebungen in der US-Regierung
 
@@ -74,7 +74,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja||
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja||
 |Advanced Threat Protection|Ja|Ja|Ja|Erfordert G5-Service Plan (oder Erwerb von Add-on).<br><br>Anti-Phishing für Benutzer-und Domänen Identitätswechsel und Spoof Intelligence steht in gcc High und DoD noch nicht zur Verfügung.|
-|**[Nachrichtenübermittlung](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Nachrichtenfluss](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja||
 |Secure messaging with a trusted partner|Ja|Ja|Ja||
 |Conditional mail routing|Ja|Ja|Ja||
@@ -116,7 +116,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Outlook für Mac|Ja|Ja|Ja|Um die Anforderungen an gcc High and DoD Compliance erfüllen zu können, müssen Sie mindestens Version 1803 von Office 365 ProPlus betreiben. Office 365 ProPlus ist nicht mit G1 oder F3 enthalten.|
 |Outlook für iOS und Android|Ja|Ja|Ja||
 |Exchange ActiveSync|Ja|Ja|Ja||
-|Grundlegende Mobilität und Sicherheit für Microsoft 365|Ja|Ja|Ja||
+|Grundlegende Mobilität und Sicherheit für Microsoft 365|Ja|Nein|Nein||
 |POP und IMAP|Ja|Ja|Ja||
 |SMTP|Ja|Ja|Ja||
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja||
