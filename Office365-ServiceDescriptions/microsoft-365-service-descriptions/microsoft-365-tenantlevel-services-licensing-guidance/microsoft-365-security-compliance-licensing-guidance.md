@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137561"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201551"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -118,7 +118,7 @@ Informationen zum Konfigurieren des Diensts finden Sie unter [Basic Setup for Cl
 
 Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie auf bestimmte apps zugegriffen wird, und um Benutzergruppen zu begrenzen, die von Office 365 Cloud-App-Sicherheit überwacht werden. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App-Sicherheit
 
 Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet und Ihnen die Steuerung der Datenübertragung &mdash; über eine Cloud-App ermöglicht.
 
@@ -341,6 +341,26 @@ Standardmäßig werden PAM-Features auf Mandantenebene für alle Benutzer innerh
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 Kunden können PAM auf Benutzerebene über die genehmigende Gruppe und Zugriffsrichtlinien verwalten, die auf lizenzierte Benutzer angewendet werden können. Weitere Informationen finden Sie unter [privileged Access Management in Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751).
+
+## <a name="double-key-encryption-for-microsoft-365"></a>Doppelschlüssel Verschlüsselung für Microsoft 365 
+
+Mit der Doppelschlüssel Verschlüsselung für Microsoft 365 können Sie Ihre hochsensiblen Daten schützen, um spezielle Anforderungen zu erfüllen, und die vollständige Kontrolle über Ihren Verschlüsselungsschlüssel erhalten. Die Doppelschlüssel Verschlüsselung verwendet zwei Schlüssel, um Ihre Daten zu schützen, wobei ein Schlüssel in Ihrem Steuerelement und der zweite Schlüssel sicher Microsoft Azure gespeichert werden. Zum Anzeigen der Daten benötigen Sie Zugriff auf beide Schlüssel. Da Microsoft nur auf einen Schlüssel zugreifen kann, stehen Ihr Schlüssel und auch Ihre Daten für Microsoft nicht zur Verfügung, um sicherzustellen, dass Sie Vollzugriff auf den Datenschutz und die Sicherheit Ihrer Daten haben.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
+
+Benutzer profitieren von der doppelten Schlüssel Verschlüsselung, indem Sie Ihre verschlüsselten Daten in die Cloud migrieren und den Zugriff durch Drittanbieter verhindern können, solange der Schlüssel die Kontrolle über die Benutzer behält. Endbenutzer können doppelt Schlüssel verschlüsselte Inhalte wie andere geschützte Inhalte mit Vertraulichkeits Bezeichnungen schützen und verwenden.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
+
+Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/a5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, um von der doppelten Schlüssel Verschlüsselung zu profitieren.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
+
+Die Doppelschlüssel Verschlüsselung unterstützt die Desktop Version von Microsoft Office für Windows.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
+
+Wenn Sie den Daten in einer Office 365-und/oder Microsoft 365-Organisation für lizenzierte Benutzer Verschlüsselungsschlüssel zuweisen möchten, befolgen Sie die Anweisungen zur Bereitstellung der doppelten Schlüssel Verschlüsselung.
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Office 365 Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen
 
