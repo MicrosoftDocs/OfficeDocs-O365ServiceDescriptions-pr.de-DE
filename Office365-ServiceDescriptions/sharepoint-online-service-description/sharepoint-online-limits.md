@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
-ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
+ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154363"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45229641"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -24,7 +24,7 @@ Erfahren Sie mehr über die Grenzwerte für Dienste in SharePoint für Microsoft
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Microsoft 365 Business Basic oder Business Premium** <br/> |**Microsoft 365 E3 oder E5, Office 365 Enterprise E1, E3 oder E5 oder SharePoint-Plan 1 oder 2** <br/> | **Microsoft 365 F1 oder F3, Office 365 Enterprise F3** <br/> |
+|**Feature** <br/> |**Microsoft 365 Business Basic, Business Standard oder Business Premium** <br/> |**Microsoft 365 E3 oder E5, Office 365 Enterprise E1, E3 oder E5 oder SharePoint-Plan 1 oder 2** <br/> | **Microsoft 365 F1 oder F3, Office 365 Enterprise F3** <br/> |
 |Gesamtspeicher pro Organisation<sup>1, 2, 6</sup> <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup>  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Maximaler Speicherplatz pro Website (Websitesammlung)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Websites (Websitesammlungen) pro Organisation  <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<br/> |
@@ -83,7 +83,7 @@ Das Kopieren/Verschieben mehrerer Dateien in einem einzelnen Vorgang hat drei An
 
 ### <a name="sharepoint-groups"></a>SharePoint-Gruppen
 
-Ein Benutzer kann zu 5.000 Gruppen gehören, und jede Gruppe kann bis zu 5.000 Benutzer haben. Sie können bis zu 10.000 Gruppen pro Website (Websitesammlung) haben.
+Ein Benutzer kann zu 5.000 Gruppen pro Website (Websitesammlung) gehören, und jede Gruppe kann bis zu 5.000 Benutzer haben. Sie können bis zu 10.000 Gruppen pro Website (Websitesammlung) haben.
 
 > [!NOTE]
 > Informationen zu Azure AD Gruppenbeschränkungen finden Sie unter [Azure Ad Service Limits and Restrictions](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions) , da diese Grenzwerte sich auf öffentliche und private Gruppen Websites für die Mitgliedschaftsverwaltung auswirken können. 
