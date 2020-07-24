@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government – DoD geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5518a0332d598a25a434c817ce04eefc6069b62d
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132489"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388081"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 
@@ -22,7 +22,7 @@ Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 36
 > [!NOTE]
 > Wenn Ihre Organisation bereits die Zulassungsvoraussetzungen für das Microsoft 365 Government – DoD erfüllt und in das Programm übernommen und akzeptiert wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>Schritt 1. Ermitteln, ob Ihre Organisation Microsoft 365 Government-DoD benötigt und die Zulassungsvoraussetzungen erfüllt
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>Schritt 1: Ermitteln, ob Ihre Organisation Microsoft 365 Government-DoD benötigt und die Zulassungsvoraussetzungen erfüllt
 
 Die Microsoft 365 Government-DoD-Umgebung erfüllt die US-behördlichen Anforderungen für Cloud-Dienste.
 
@@ -73,7 +73,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                        |Empfohlene Richtlinien                            | Im Entwicklungsrückstand |
 |                                        |Intelligente Importfilter                            | Im Entwicklungsrückstand |  
 |                                        |Ereignisbasierte Aufbewahrung                           | Im Entwicklungsrückstand |
-|                                        |Dispositions Überprüfung                              | Im Entwicklungsrückstand |
+|                                        |Dispositionsüberprüfung                              | Im Entwicklungsrückstand |
 |                                        |Informationsbarrieren                            | Available              |
 |                                        |Verhinderung von Datenverlust (DLP) für Dateien und e-Mail  | Available              |
 |                                        |DLP für Microsoft Teams-Chat und Kanal Unterhaltungen    | Im Entwicklungsrückstand |
@@ -86,29 +86,29 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                        |Kommunikationscompliance                        | Im Entwicklungsrückstand |
 |                                        |Kunden-Lockbox                                | Available              |
 |                                        |Kundenschlüssel                                    | Available              |
-|                                        |Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
-|**Antworten auf & ermitteln**                  |In-Place-Reservierung                            | Available              |
-|                                        |Fallverwaltung                                 | Available              |
-|                                        |Suche                                          | Available              |
-|                                        |Exportieren                                          | Available              |
-|                                        |RMS-Entschlüsselung                                  | Available              |
-|                                        |Nativer Export                                   | Available              |
-|                                        |Erweiterte Verarbeitung                             | Im Entwicklungsrückstand |
-|                                        |E-Mail-Threading                                 | Im Entwicklungsrückstand |
-|                                        |Nahe doppelte Identifikation                   | Im Entwicklungsrückstand |
-|                                        |Designs                                          | Im Entwicklungsrückstand |
-|                                        |Prädiktive Codierung                               | Im Entwicklungsrückstand |
-|                                        |Verarbeitete Exportdatei mit Ladedatei                 | Im Entwicklungsrückstand |
-|                                        |Kategorien                                         | Im Entwicklungsrückstand |
-|                                        |Anzeigende Benutzer                                         | Im Entwicklungsrückstand |
-|                                        |Redaktionen                                      | Im Entwicklungsrückstand |
-|                                        |Filtern                                       | Im Entwicklungsrückstand |
-|                                        |Depot für Arbeits Auslastungs Zuordnung                   | Im Entwicklungsrückstand |
-|                                        |Depotbank-Kommunikation                        | Im Entwicklungsrückstand |
-|                                        |Überprüfungs Sätze                                     | Im Entwicklungsrückstand |
-|                                        |Überprüfen und kommentieren                             | Im Entwicklungsrückstand |
-|                                        |Nicht Office 365E Einnahme                        | Im Entwicklungsrückstand |
-|                                        |Suchausdrucks Bericht                              | Im Entwicklungsrückstand |
+|                                        |Privileged Access Management                    | Im Entwicklungsrückstand |
+|**Antworten auf & ermitteln**                  |Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
+|                                        |Zentrale eDiscovery: Fallverwaltung                                 | Available              |
+|                                        |Zentrale eDiscovery: Suche                                          | Available              |
+|                                        |Haupt-eDiscovery: Export                                          | Available              |
+|                                        |Zentrale eDiscovery: RMS-Entschlüsselung                                  | Available              |
+|                                        |Zentrale eDiscovery: nativer Export                                   | Available              |
+|                                        |Erweiterte eDiscovery: erweiterte Verarbeitung                             | Available |
+|                                        |Erweiterte eDiscovery: e-Mail-Threading                                 | Available |
+|                                        |Erweiterte eDiscovery: nahe doppelte Identifikation                   | Available |
+|                                        |Erweiterte eDiscovery: Designs                                          | Available |
+|                                        |Advanced eDiscovery: Predictive Coding                               | Available |
+|                                        |Erweiterte eDiscovery: verarbeitete Exportdatei mit lastdatei                 | Available |
+|                                        |Erweiterte eDiscovery: Tagging                                         | Available |
+|                                        |Erweiterte eDiscovery: Viewer                                         | Available |
+|                                        |Erweiterte eDiscovery:-Aktionen                                      | Available |
+|                                        |Erweiterte eDiscovery: Filterung                                       | Available |
+|                                        |Erweiterte eDiscovery: Depotverwaltung für Arbeits Auslastungs Zuordnung                   | Available |
+|                                        |Erweiterte eDiscovery: Depotbank-Kommunikation                        | Available |
+|                                        |Erweiterte eDiscovery: Überprüfungs Sätze                                     | Available |
+|                                        |Erweiterte eDiscovery: überprüfen und kommentieren                             | Available |
+|                                        |Erweiterte eDiscovery: nicht Office 365E Einnahme                        | Im Entwicklungsrückstand |
+|                                        |Erweiterte eDiscovery: Suchbegriffs Bericht                              | Available |
 
 <sup>1</sup> der Status "identifiziert" kann geändert werden, wenn Projektpläne und Prioritäten neu ausgewertet werden.<br/>
 <sup>2</sup> die manuelle Anwendung von Bezeichnungen erfordert den [Azure Information Protection (AIP)-Client, Version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).

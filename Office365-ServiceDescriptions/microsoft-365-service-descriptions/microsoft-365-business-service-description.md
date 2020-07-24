@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium ist eine integrierte Lösung, die die beste Produktivität mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben.
-ms.openlocfilehash: 429629deddd4565332e8d429db72da580beaa971
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201555"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388111"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium – Dienstbeschreibung
 
@@ -73,19 +73,19 @@ Microsoft 365 Business Premium umfasst im Wesentlichen alle Funktionen, die in M
 |Nutzer-CAL für Microsoft Identity Manager (MIM)  <br/> |Nein  <br/> |Ja<sup>9</sup>  <br/> |Ja  <br/> |
 |Connect Health  <br/> |Nein  <br/> |Ja<sup>9</sup>  <br/> |Ja  <br/> |
 |SLA 99,9 %  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|[Geräte-und Anwendungsverwaltung](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium umfasst vollständige InTune-Funktionen für IOS, Android, Mac OS und andere plattformübergreifende Geräteverwaltung. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|InTune-Mobile Geräteverwaltung (MDM) für PCs, Macs und mobile Geräte<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Automatische Registrierung bei mobiler Geräteverwaltung (MDM)  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|InTune Mobile Application Management (MAM) für Office-Apps und Branchen-apps<br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Windows Update Management, Defender, Firewall Policies<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Datenschutz - Selektives Zurücksetzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Security Group (SG) Targeting für Richtlinien  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Installieren von Office-Apps auf registrierten Windows 10-Geräten  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Windows Defender-Konfiguration  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Bereitstellen von Geräteprofilen und Sicherheitskonfiguration<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Enterprise State Roaming für Windows 10 mit Azure AD-Verknüpfung  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Self-Service-BitLocker-Wiederherstellung  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Windows Virtual Desktop <br/> |Nein <br/> |Ja <br/> |Ja <br/> |
+|[Geräte-und Anwendungsverwaltung](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium umfasst vollständige InTune-Funktionen für IOS, Android, Mac OS und andere plattformübergreifende Geräteverwaltung. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
+|InTune-Mobile Geräteverwaltung (MDM) für PCs, Macs und mobile Geräte<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |
+|Automatische Registrierung bei mobiler Geräteverwaltung (MDM)  <br/> |Nein  <br/> |Ja  <br/> |
+|InTune Mobile Application Management (MAM) für Office-Apps und Branchen-apps<br/> |Nein  <br/> |Ja  <br/> |
+|Windows Update Management, Defender, Firewall Policies<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |
+|Datenschutz - Selektives Zurücksetzen  <br/> |Ja  <br/> |Ja  <br/> |
+|Security Group (SG) Targeting für Richtlinien  <br/> |Nein  <br/> |Ja  <br/> |
+|Installieren von Office-Apps auf registrierten Windows 10-Geräten  <br/> |Nein  <br/> |Ja  <br/> |
+|Windows Defender-Konfiguration  <br/> |Nein  <br/> |Ja  <br/> |
+|Bereitstellen von Geräteprofilen und Sicherheitskonfiguration<sup>5</sup> <br/> |Nein  <br/> |Ja  <br/> |
+|Enterprise State Roaming für Windows 10 mit Azure AD-Verknüpfung  <br/> |Nein  <br/> |Ja  <br/> |
+|Self-Service-BitLocker-Wiederherstellung  <br/> |Nein  <br/> |Ja  <br/> |
+|Windows Virtual Desktop <br/> |Nein <br/> |Ja <br/> |
 
 |||
 |:-----|:-----|
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium umfasst im Wesentlichen alle Funktionen, die in M
 |Ordner vor Bedrohungen wie Ransomware schützen <br/> |Ja  <br/> |
 |Schützen von Dateien und Ordnern auf PCs vor nicht autorisiertem Zugriff mit BitLocker <br/> |Ja  <br/> |
 
-### <a name="notes"></a>Notes
+### <a name="notes"></a>Anmerkungen
 <sup>1</sup> enthält Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) aktiviert die unterstützten Funktionen für die Verwaltung von Informationsrechten (Information Rights Management, IRM). AIP-Plan 1 ist in Microsoft 365 Business Premium enthalten. <br/>
 <sup>3</sup> Microsoft 365 Business Premium umfasst Exchange Online Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Overview of Unlimited Archiving](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>

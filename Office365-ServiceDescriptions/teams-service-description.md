@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131989"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388091"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -56,19 +56,18 @@ In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für 
 |Chat  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
 |Kanäle – Standard  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Kanäle – privat  <br/> |Ja  <br/> |Ja<sup>2</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Nr.<sup>3</sup>  <br/> |Ja  <br/> |
+|Kanäle – privat  <br/> |Ja  <br/> |Ja<sup>2</sup>  <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Ja  <br/> |
 |Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Bildschirmfreigabe PowerPoint-Audio/Video-Desktop <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Sprachanrufe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Audiokonferenz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Apps, Bots, &-Konnektoren  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>4</sup>  <br/> |Ja<sup>4</sup>  <br/> |Ja<sup>4</sup>  <br/> |Ja  <br/> |
-|Live-Ereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>5</sup>  <br/> |Nr.<sup>5</sup>  <br/> |Ja  <br/> |
+|Apps, Bots, &-Konnektoren  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
+|Live-Ereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>4</sup>  <br/> |Nr.<sup>4</sup>  <br/> |Ja  <br/> |
 
 <sup>1</sup> Microsoft Teams in gcc-High und DoD unterstützen 2500-Mitglieder in einem einzelnen Team.<br/>
 <sup>2</sup> Microsoft Planner steht derzeit nicht für den Zugriff auf private Kanäle zur Verfügung.<br/>
-<sup>3</sup> private Kanäle sind zu diesem Zeitpunkt in gcc-Clouds nicht verfügbar. Weitere Updates zur Verfügbarkeit werden im Nachrichten Center veröffentlicht.<br/>
-<sup>4</sup> Microsoft OneNote ist in DoD-Clouds nicht verfügbar. Anwendungen und Anwendungsveröffentlichung stehen derzeit in diesen Clouds nicht zur Verfügung.<br/>
-<sup>5</sup> Live-Ereignisse sind derzeit in gcc-High oder DoD nicht verfügbar.<br/>
+<sup>3</sup> Microsoft OneNote ist in DoD-Clouds nicht verfügbar. Anwendungen und Anwendungsveröffentlichung stehen derzeit in diesen Clouds nicht zur Verfügung.<br/>
+<sup>4</sup> Live-Ereignisse sind derzeit in gcc-High oder DoD nicht verfügbar.<br/>
 
 ## <a name="next-steps"></a>Nächste Schritte
 
