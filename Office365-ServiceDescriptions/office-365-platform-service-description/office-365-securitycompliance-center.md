@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 4ab535757c0d192c4d790a7aeacfba9e73d4157f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131789"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501704"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
@@ -36,7 +36,7 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 |[Erweiterte Bedrohungs Verwaltung](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), beispielsweise Threat Explorer für Phishing-Kampagnen<sup>6</sup>  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Verwaltung mobiler Geräte](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
-|[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Nein   |Nein   |Nein   |Nein   |Ja   |Ja   |Nein   |
+|[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Nein   |Ja  |Ja   |Nein   |Ja   |Ja   |Nein   |
 |[Verhinderung von Kommunikationsdaten Verlust für Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja  |
 |[Manuelle Empfindlichkeits Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Nein | Nein  |Nein   | Ja | Ja | Ja | Nein  |
 |Automatische Vertraulichkeits Bezeichnungen| Nein | Nein  |Nein  | Nein | Nein | Ja<sup>13</sup> | Nein  |

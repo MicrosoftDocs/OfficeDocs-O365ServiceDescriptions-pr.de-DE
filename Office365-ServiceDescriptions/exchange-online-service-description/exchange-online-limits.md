@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201569"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501714"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -491,6 +491,11 @@ Die folgende Liste enthält Grenzwerte für Journalregeln, Transportregeln (auch
 |Weiterleitungsgrenzwert|10 Empfänger|10 Empfänger|10 Empfänger|10 Empfänger|10 Empfänger|10 Empfänger|
 |Anzahl der Umleitungen einer Nachricht|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|
 |Häufigkeit, mit der eine Nachricht von Transportregeln umgeleitet wird|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|
+|Anzahl der Umleitungen einer Nachricht|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|1 Umleitung|
+|Posteingangsregel|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|256KB<sup>1</sup>|
+
+> [!NOTE]
+> <sup>1</sup> wenn ein Postfach zu Exchange Online migriert wurde, kann der Postfachregel Grenzwert auf den Wert festgelegt werden, der niedriger ist als der Standardwert für Exo. Wenn dies der Fall ist, kann der Wert durch folgendermaßen erhöht werden. 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Journal-, Transport-und Posteingangsregel Beschränkungen für eigenständige Optionen
 
