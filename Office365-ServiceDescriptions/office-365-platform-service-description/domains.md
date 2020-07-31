@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Schritt-für-Schritt-Assistent beim Hinzufügen von Benutzern und beim Konvertieren Ihrer e-Mail-Adressen und anderer Dienste in den Namen Ihres Unternehmens. Wenn Sie den Assistenten abgeschlossen haben, wird Ihre geschäftliche e-Mail-Adresse an Microsoft gesendet, anstatt zu Ihrem aktuellen e-Mail-Anbieter zu wechseln. Weitere Informationen finden Sie unter Hinzufügen von Benutzern und Domänen zu Microsoft. Wenn Sie Office 365, betrieben von 21Vianet verwenden, lesen Sie Prüfen der Domäne.
-ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132399"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531218"
 ---
 # <a name="domains"></a>Domänen
 
@@ -26,7 +26,7 @@ Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein Schritt-für-Schritt-Assisten
   
 ## <a name="custom-domains"></a>Benutzerdefinierte Domänen
 
-Sie können Ihrem Abonnement bis zu 900 Domänen hinzufügen. Wenn Sie allerdings eine Domäne bereits in einem anderen Cloud-Dienst von Microsoft verwenden, können Sie diese nicht zu Office 365 hinzufügen. Das bedeutet, dass Sie die gleiche Domäne nicht mehreren Abonnements hinzufügen können. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu Domänen](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Sie können Ihrem Abonnement bis zu 900 Domänen hinzufügen (einschließlich Unterdomänen). Sie können keine Domäne zu Microsoft 365 hinzufügen, die Sie bereits in einem anderen Microsoft Cloud-Dienst verwenden. Das bedeutet, dass Sie die gleiche Domäne nicht mehreren Abonnements hinzufügen können. Weitere Informationen finden Sie unter [häufig gestellte Fragen zu Domänen](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Domänen der zweiten und dritten Ebene
 
@@ -48,7 +48,7 @@ Weitere Informationen finden Sie unter [How Microsoft Managed DNS Records](https
   
 ## <a name="sharing-a-domain"></a>Freigeben einer Domäne
 
-Sie können einige e-Mail-Adressen für eine Domäne in Microsoft und einige in Ihrem vorherigen e-Mail-Anbieter pilotieren. Dies wird nur für die Verwendung während eines Pilotprojekts empfohlen, da es zusätzliche Installationsschritte erfordert und einige Einschränkungen für Microsoft-Dienste aufweist. Weitere Informationen finden Sie unter:
+Sie können einige e-Mail-Adressen für eine Domäne in Microsoft und einige in Ihrem vorherigen e-Mail-Anbieter pilotieren. Dies wird nur für die Verwendung während eines Pilotprojekts empfohlen, da es zusätzliche Installationsschritte erfordert und einige Einschränkungen für Microsoft-Dienste aufweist. Weitere Informationen finden Sie hier:
   
 - [Pilot Microsoft 365 für kleine Unternehmen](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
