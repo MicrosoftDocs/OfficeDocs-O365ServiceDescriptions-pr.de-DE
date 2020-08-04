@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
-ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
-ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
+ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
+ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45229641"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560080"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -99,6 +99,9 @@ Ein Benutzer kann zu 5.000 Gruppen pro Website (Websitesammlung) gehören, und j
 ### <a name="subsites"></a>Websites 
 
 2.000 pro Website (Websitesammlung). Es wird empfohlen, Websites zu erstellen und diese in Hubs zu organisieren, statt Unterwebsites zu erstellen. Wenn Sie Unterwebsites verwenden, empfehlen wir die Begrenzung ihrer Anzahl (insbesondere auf Websites mit starkem Handel).
+
+> [!NOTE] 
+> Ihre Organisation ist auf 2.000 Hubwebsites beschränkt. Möglicherweise benötigen Sie für jede Funktion keinen Hub-Standort, und es ist wichtig, dass Sie vor dem Erstellen von Hubs einige Planungsaufgaben durchführen. Weitere Informationen finden Sie unter [Planning Your SharePoint Hub Sites](https://docs.microsoft.com/sharepoint/planning-hub-sites).
 
 ### <a name="sharepoint-hosted-applications"></a>Gehostete SharePoint-Anwendungen
 
