@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Feature-Vergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cde2f691a010b12c42e774db7987a32efed50e1a
+ms.sourcegitcommit: fe1417a3228a5015e65a252f559e8c357d647d46
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131549"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "46573973"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -64,6 +64,8 @@ Informationen zu den in den Exchange Online-Abonnement Plänen verfügbaren Spei
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
 Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business, Office 365 Small Business Premium oder Office 365 mittelständischen Unternehmen verfügt, besuchen Sie Ihr Nachrichten Center im Microsoft 365 Admin Center, oder sprechen Sie mit Ihrem Anbieter, um weitere Informationen dazu zu erhalten, wie sich der neue Microsoft 365-App-Plan auf Sie auswirkt. Weitere Informationen zur neuen Microsoft 365 apps-Plan Familie finden Sie unter [neue Pläne für kleine und mittelständische Unternehmen](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today).
+
+Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium finden Sie in der [Microsoft 365 Business Premium-Dienstbeschreibung](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md).<br/><br/>
   
 |**Feature**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -93,7 +95,7 @@ Wenn Ihre Organisation derzeit über Abonnements für Office 365 Small Business,
 |Verhinderung von Datenverlust|Ja<sup>5, 14</sup>|Ja<sup>5, 14</sup>|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Integrierter Antispamschutz|Ja<sup>6</sup>|Ja <sup>6</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
+|Integrierter Antispamschutz|Ja <sup>6</sup>|Ja <sup>6</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>8</sup>|Ja <sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|
 |Customize anti-malware policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
