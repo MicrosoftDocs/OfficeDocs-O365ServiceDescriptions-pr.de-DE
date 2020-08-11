@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: ffba59a00e21401038d999a508a82e19f63e90e3
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131329"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616921"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
@@ -63,7 +63,7 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
 |[Kopf- und Fußzeilen](word-online.md#headers-and-footers) <br/> |Ja  <br/> |Ja  <br/> |
 |[Links](word-online.md#hyperlinks) <br/> |Ja  <br/> |Ja  <br/> |
 |[Index ](word-online.md#index) <br/> |Nr.<sup>1</sup> <br/> |Ja  <br/> |
-|[Freihand-Editor](word-online.md#ink-editor) <br/> |Nein  <br/> |Ja  <br/> |
+|[Frei Hand Editor] <br/> |Nein  <br/> |Ja  <br/> |
 |[Einfügen von Onlinebildern](word-online.md#insert-online-pictures) <br/> |Ja  <br/> |Ja  <br/> |
 |[IRM- und Kennwortschutz](word-online.md#irm-and-password-protection) <br/> |Nein  <br/> |Ja  <br/> |
 |[Lerntools](word-online.md#learning-tools) <br/> |Nein  <br/> |Ja  <br/> |

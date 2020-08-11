@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word für das Web (ehemals Word Web App) erweitert Ihre Microsoft Word Erfahrung auf den Webbrowser, wo Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist.
-ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131299"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616911"
 ---
 # <a name="word-for-the-web"></a>Word für das Web
 
@@ -127,10 +127,6 @@ Mit Word für das Internet können Sie auf einfache Weise Links zu Textmarken in
 ## <a name="index"></a>Index
 
 Ein Index enthält die Begriffe und Themen, die in einem Dokument erläutert werden, zusammen mit den Seiten, auf denen diese angezeigt werden. Um einen Index zu erstellen, markieren Sie die Indexeinträge, indem Sie den Namen des Haupteintrags und den Querverweis in Ihrem Dokument bereitstellen und dann den Index erstellen.
-  
-## <a name="ink-editor"></a>Freihand-Editor
-
-Mit dem frei Hand Editor können Sie Dokumente mit natürlichen Gesten wie etwa Kreisen bearbeiten und formatieren, um Text zu markieren und zu streichen.
   
 ## <a name="insert-online-pictures"></a>Einfügen von Onlinebildern
 
@@ -297,4 +293,8 @@ Die Zoomfunktion ist im Ansichtsmodus verfügbar. Verwenden Sie in Word für das
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
 Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office for the Webdienst Description](office-online-service-description.md). 
+
+## <a name="operating-parameter-limitations-and-specifications"></a>Einschränkungen und Spezifikationen für Betriebsparameter
+
+Informationen zu Grenzwerten für den Betriebsparameter finden Sie unter [Operating Parameter Limitations and Specifications in Word](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation).
   
