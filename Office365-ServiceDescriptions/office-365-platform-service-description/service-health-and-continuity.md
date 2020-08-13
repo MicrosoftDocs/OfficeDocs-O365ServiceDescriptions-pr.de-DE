@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft-Administratoren können den Status von Diensten anzeigen und herausfinden, wann die Wartung geplant ist. Dienststatusinformationen sind jederzeit verfügbar, wenn Sie sich anmelden.
-ms.openlocfilehash: 4fa2e8a907eaae36e9185adcd4f99bd841c42ccc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dfa4e462d794a0f0a225f0c4e18695d9e4d2fe67
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131799"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649605"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -48,7 +48,7 @@ Das Wechseln zu einem clouddienst sollte nicht bedeuten, die Möglichkeit zu ver
 |**2020** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Q2** <br/> |**Q3** <br/> |**Q4** <br/> |
-| 99,98% <br/> | <br/> | <br/> |<br/> |
+| 99,98% <br/> | 99,99 %<br/> | <br/> |<br/> |
 
 <br/>
 
