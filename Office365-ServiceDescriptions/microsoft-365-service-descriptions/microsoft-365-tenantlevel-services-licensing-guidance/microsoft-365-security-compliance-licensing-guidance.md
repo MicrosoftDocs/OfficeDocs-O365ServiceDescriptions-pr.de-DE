@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201551"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798381"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -118,7 +118,7 @@ Informationen zum Konfigurieren des Diensts finden Sie unter [Basic Setup for Cl
 
 Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie auf bestimmte apps zugegriffen wird, und um Benutzergruppen zu begrenzen, die von Office 365 Cloud-App-Sicherheit überwacht werden. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App-Sicherheit
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet und Ihnen die Steuerung der Datenübertragung &mdash; über eine Cloud-App ermöglicht.
 
@@ -320,7 +320,7 @@ Administratoren können Kunden-Lockbox-Steuerelemente im Microsoft 365 Admin Cen
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Microsoft bietet Kunden sperrbox-Zugriffs Steuerungs Genehmigungsanforderungen für Benutzer in Ihrer Organisation.
+Der Kunden-Lockbox-Dienst kann derzeit nicht auf bestimmte Benutzer limitiert werden. Sie müssen jeden Benutzer lizenzieren, den Sie nutzen möchten.
 
 ## <a name="privileged-access-management-in-office-365"></a>Privileged Access Management in Office 365
 
@@ -509,7 +509,7 @@ Richtlinien für das Insider Risiko Management müssen im Microsoft 365 Complian
 
 Wählen Sie beim Erstellen einer Richtlinie im Microsoft 365 Compliance Center auf der Seite **Benutzer und Gruppen** auswählen die Option **Benutzer oder Gruppen** auswählen aus, um nur lizenzierte Benutzer auszuwählen, oder, wenn alle Ihre Benutzer lizenziert sind, können Sie das Kontrollkästchen **alle Benutzer und e-Mail-aktivierte Gruppen** aktivieren. Weitere Informationen finden Sie unter [Erste Schritte mit dem Insider Risikomanagement](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management-configure).
 
-## <a name="conditional-access-policies"></a>Zugangsberechtigungsrichtlinien
+## <a name="conditional-access-policies"></a>Richtlinien für bedingten Zugriff
 
 Bedingter Zugriff ist das Tool, das von Azure Active Directory verwendet wird, um Signale zusammenzuführen, Entscheidungen zu treffen und Organisationsrichtlinien durchzusetzen. Der bedingte Zugriff steht im Mittelpunkt der Identitäts gesteuerten Steuerungsebene. Richtlinien für den bedingten Zugriff am einfachsten sind If-Then-Anweisungen. Wenn ein Benutzer auf eine Ressource zugreifen möchte, muss er eine Aktion abschließen. Beispiel: ein Abrechnungs Manager möchte auf die Lohn-und Gehaltsabrechnung zugreifen und muss mehrstufige Authentifizierung für den Zugriff auf die Anwendung ausführen.
 

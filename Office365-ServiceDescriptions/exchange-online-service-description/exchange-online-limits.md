@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
-ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
+ms.openlocfilehash: 9c8554f8f995e00058fb5c3bafe915d328ba9c53
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580828"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798391"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -197,7 +197,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 |Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (keine Aufbewahrung aktiviert)|30 GB|30 GB|30 GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 GB|
 |Speicherkontingent für Ordner „Wiederherstellbare Elemente“ im Archivpostfach (Aufbewahrung aktiviert)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Warnung zur Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"|2.75 Million|2.75 Million|2.75 Million|2.75 Million|2.75 Million|2.75 Million|
-|Maximale Anzahl von Unterordnern pro Postfachordner|10,000|10,000|10,000|10,000|10,000|10,000|
+|Maximale Anzahl von Unterordnern pro Postfachordner|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|
 |Warnung zur Anzahl der Unterordner pro Postfachordner|9000|9000|9000|9000|9000|9000|
 |Maximale Ordnerhierarchie-Tiefe|300|300|300|300|300|300|
 |Warnung zur Ordnerhierarchie-Tiefe|250|250|250|250|250|250|
@@ -207,6 +207,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 
 > [!NOTE]
 > <sup>1</sup> Dies ist das Speicherkontingent für den Ordner „Wiederherstellbare Elemente", nicht das Kontingent für das gesamte Archivpostfach. Das Speicherkontingent für das Archivpostfach ist für Benutzer mit einer Exchange Online Plan 2-Lizenz oder mit einer Exchange Online Plan 1- und einer Exchange Online-Archivierungslizenz unbegrenzt. Informationen zum Erhöhen des Kontingents für wiederherstellbare Elemente finden Sie unter [Erhöhen des Kontingents für wiederherstellbare Elemente für der In-Situ-Aufbewahrung zugewiesene Postfächer](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> Das anfängliche Speicherkontingent für den Ordner "Wiederherstellbare Elemente" in einem Archivpostfach beträgt 100 GB. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität für den Ordner „Wiederherstellbare Elemente“ erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Weitere Informationen zur Verfügbarkeit der automatisch wachsenden Archivierung finden Sie in der [Microsoft 365-Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914) .
+> <sup>2</sup> Dies ist ein Speichergrenzwert; Es handelt sich um eine der Post Fach Form-Einschränkungen. Es kann nur 10.000 direkte untergeordnete Ordner für ein bestimmtes übergeordnetes Element geben. Dies gilt unabhängig von der Migration oder von anderen Clients, die Ordner erstellen.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Begrenzungen für Postfachordner in eigenständigen Plänen
 
