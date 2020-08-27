@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Die gesamte Netzwerkverbindung mit dem Archiv des Benutzers erfolgt über das Internet, und es sind keine VPN-Verbindungen (virtuelles privates Netzwerk) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
-ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
+ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132059"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "47255902"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Client Features in Exchange Online Archivierung
 
@@ -45,8 +45,9 @@ Die folgende Tabelle enthält die von der Exchange Online-Archivierung unterstü
   
 |**Client**|**EOA-Unterstützung**|
 |:-----|:-----|
-|Outlook 2010 und höher  <br/> |Unterstützt die neuesten Funktionen in Exchange Online-Archivierung.<sup>1</sup> <br/> |
-|Outlook 2007  <br/> |Unterstützt Exchange Online-Archivierung.<sup>1, 2</sup> <br/> |
+|Outlook 2013 und höher  <br/> |Unterstützt die neuesten Funktionen in Exchange Online-Archivierung.<sup>1</sup> <br/> |
+|Outlook 2010  <br/> |Unterstützt die neuesten Features in Exchange Online Archivierung nur bis zum 13. Oktober 2020|
+|Outlook 2007  <br/> |Nicht unterstützt |
 |Outlook 2003  <br/> |Nicht unterstützt  <br/> |
 |Outlook für Mac 2011  <br/> |Nicht unterstützt  <br/> |
 |Outlook für Mac  <br/> |Unterstützt für die Verwendung mit Exchange Online-Archivierung.<sup>3</sup> <br/> |
