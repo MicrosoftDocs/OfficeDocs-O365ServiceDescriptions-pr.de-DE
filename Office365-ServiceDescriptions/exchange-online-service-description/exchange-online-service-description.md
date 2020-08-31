@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Feature-Vergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: cde2f691a010b12c42e774db7987a32efed50e1a
-ms.sourcegitcommit: fe1417a3228a5015e65a252f559e8c357d647d46
+ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46573973"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300519"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -79,7 +79,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Rollengruppen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Rollenzuweisungsrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |**[Messagingrichtlinie und -einhaltung](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
-|Archivieren von Exchange Online-basierten Postfächern| Nein|Nein|Ja|Ja|Ja|Ja|Ja|Nein|
+|Archivieren von Exchange Online-basierten Postfächern| Nein|Nein|Ja|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Nein|
 |Cloudbasierte Archivierung von lokalen Postfächern|Ja <sup>1</sup>|Ja<sup>1</sup>|Nein|Nein|Ja|Ja|Ja|Nein|
 |Verwaltung von Nachrichtendatensätzen (Messaging Records Management, MRM) |Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Manuelle Aufbewahrungsrichtlinien, Bezeichnungen und Tags |Nein|Nein|Nein|Nein|Ja|Ja|Ja|Ja|
@@ -183,7 +183,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>6</sup> Exchange Server 2013 verfügt über die meisten der gleichen integrierten Spamschutzfunktionen wie Exchange Server 2010. Informationen zu den Vorteilen der Exchange-gehosteten Spamfilterung über das lokale Angebot finden Sie unter [Vorteile von Antispamfunktionen in Exchange Online Schutz vor Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
 <sup>7</sup> nur zugänglich über den direkten Zugriff auf die Verwaltungsschnittstelle für Exchange Admin Center (EAC). <br/>
 <sup>8</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/>
-<sup>9</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das das Feature für inaktives Postfach erforderlich ist.  <br/>
+<sup>9</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das das inaktive Postfach oder die Archivierungsfunktion erforderlich ist.<br/>
 <sup>10</sup> SharePoint muss in der lokalen Exchange-Organisation bereitgestellt werden. <br/>
 <sup>11</sup> SharePoint Online müssen im Abonnementplan enthalten sein. <br/>
 <sup>12</sup> Pop wird unterstützt, IMAP jedoch nicht. <br/>

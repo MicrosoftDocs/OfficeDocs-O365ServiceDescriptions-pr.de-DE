@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Hier erfahren Sie, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131029"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300509"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -97,13 +97,13 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Migration: SharePoint-Migrationstool](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Migration: Migrations-Manager](/sharepointmigration/mm-get-started)
 - [Migration: SharePoint Migration Assessment Tool](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-- [Migration: Mover.IO](https://mover.io/). Derzeit nur für Kunden in Nordamerika verfügbar.
+- [Migration: Mover.IO](https://mover.io/). Jetzt weltweit verfügbar.
 - [Multi-Geo (Daten Wohnsitz)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Mit einem Add-on, das mindestens 500 Microsoft-Lizenzen erfordert. Weitere Informationen erhalten Sie von Ihrem Microsoft-Repräsentanten.
 - [Programmatische Website-prozielierung](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Ersetzen der Stammwebsite](/sharepoint/modern-root-site)
 - [Wiederherstellen von gelöschten Websites](/sharepoint/restore-deleted-site-collection)
 - [SharePoint Admin Center](/sharepoint/get-started-new-admin-center). Organisationen mit First-Workern benötigen mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können.
-- [SharePoint-Modernisierungs Scanner](/sharepoint/dev/transform/modernize-scanner)
+- [Der SharePoint-Modernisierungsscanner](/sharepoint/dev/transform/modernize-scanner)
 - [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Organisationen mit First-Workern benötigen mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können.
 - [Website Steuerung](/sharepoint/governance-overview) 
 - [Terminologiespeicher – verwaltete Metadaten](/sharepoint/managed-metadata)
@@ -167,7 +167,7 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Bibliothek für Organisationsobjekte](/sharepoint/organization-assets-library)
 - [Organisations Nachrichten](/sharepoint/organization-news-site)
 - [Seiten Genehmigung](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Seiten](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Datensatzverwaltung
 - [Papierkorb](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint-Mobile App](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

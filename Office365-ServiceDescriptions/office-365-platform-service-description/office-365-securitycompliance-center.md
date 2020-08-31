@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501704"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300529"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
@@ -41,7 +41,7 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 |[Manuelle Empfindlichkeits Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Nein | Nein  |Nein   | Ja | Ja | Ja | Nein  |
 |Automatische Vertraulichkeits Bezeichnungen| Nein | Nein  |Nein  | Nein | Nein | Ja<sup>13</sup> | Nein  |
 |[Informationsbarrieren](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein  |
-|[Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
+|[Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Ja<sup>11</sup>   |Ja<sup>11</sup>   |Ja<sup>11</sup>   |Ja   |Ja   |Ja   |Ja<sup>11</sup>   |
 |[Advanced Information Governance](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |Nein   |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |
 |[Inhaltssuche](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
 |[eDiscovery-Fälle](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
