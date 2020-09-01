@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
+ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132369"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318942"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
-Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält. ATP verfügt über umfangreiche Berichte und URL-Ablaufverfolgungsfunktionen, mit denen Administratoren Einblicke in die Art von Angriffen in Ihrer Organisation erhalten.
+Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält. ATP bietet umfassende Funktionen für Berichterstellung und URL-Ablaufverfolgung, die Administratoren Einblicke in die Arten von Angriffen ermöglichen, die in Ihrer Organisation erfolgen.
 
 ATP kann in erster Linie über die folgenden Methoden für den Nachrichtenschutz eingesetzt werden:
 
@@ -32,7 +32,7 @@ ATP kann in erster Linie über die folgenden Methoden für den Nachrichtenschutz
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Verfügbarkeit von Office 365 Advanced Threat Protection (ATP)
 
-ATP ist in Office 365 Enterprise E5, Office 365 Education a5 und Microsoft 365 Business Premium enthalten.
+Office 365 ATP Plan 2 ist in Office 365 E5, Office 365 A5 und Microsoft 365 E5 enthalten. Office 365 ATP Plan 1 ist in Microsoft 365 Business Premium enthalten.
 
 Sie können ATP zu den folgenden Exchange-und Microsoft 365-Abonnement Plänen hinzufügen:
 
@@ -78,12 +78,13 @@ ATP kann mit einem beliebigen SMTP-e-Mail-Übertragungs-Agent verwendet werden, 
 
 Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.
 
-|**Feature**|**ATP-Plan 1**<br>(ehemals ATP Standalone)|**ATP-Plan 2**<br>(ehemals Threat Intelligence <br>Standalone| Office 365 Enterprise E5|
+|**Feature**|**ATP-Plan 1**<br>(ehemals ATP Standalone)|**ATP-Plan 2**<br>(ehemals Threat Intelligence <br>Standalone| Microsoft 365 E5/E5-Sicherheit|
 |:-----|:-----|:-----|:-----|
 |*Konfiguration, Schutz und Erkennung*|
 |[Sichere Anlagen](#safe-attachments)|Ja|Ja|Ja|
 |Sichere Anlagen in Microsoft Teams|Ja|Ja|Ja|
 |[Sichere Links](#safe-links)|Ja|Ja|Ja|
+|[Sichere Dokumente](#safe-documents)|Nein|Nein|Ja|
 |Sichere Links in Teams|Ja|Ja|Ja|
 |[ATP für SharePoint, OneDrive und Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Ja|Ja|Ja|
 |[Antiphishing-Richtlinien](#anti-phishing-policies)|Ja|Ja|Ja|
@@ -110,26 +111,45 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 
 Das Feature " [ATP-sichere Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) " schützt Ihre Benutzer proaktiv vor bösartigen URLs in einer Nachricht oder in einem Office-Dokument. Der Schutz verbleibt, wenn sie auf den Link klicken, da böswillige Links dynamisch blockiert werden, während der Zugriff auf unbedenkliche Links gewährt wird.
 
-Sichere links stehen für URLs in den folgenden Apps zur Verfügung:
+Für URLs in den folgenden Apps steht „Sichere Links“ zur Verfügung:
 
 - Microsoft 365-Apps für Unternehmen unter Windows oder Mac
 
-- Office für das Internet (Word für das Internet, Excel für das Internet, PowerPoint für das Internet und OneNote für das Internet)
+- Office für das Web (Word für das Web, Excel für das Web, PowerPoint für das Web und OneNote für das Web)
 
-- Word, Excel, PowerPoint und Visio unter Windows, sowie Office-Apps auf IOS-und Android-Geräten
+- Word, Excel, PowerPoint und Visio unter Windows sowie Office-Apps auf IOS- und Android-Geräten
 
-- Microsoft Teams-Kanäle und -Chats.
+- Microsoft Teams-Kanäle und -Chats
 
 > [!NOTE]
 > Benutzer müssen für ATP lizenziert sein <sup>\*</sup> , müssen in Richtlinien für ATP-sichere Links enthalten sein und müssen auf Ihren Geräten angemeldet sein, damit der Schutz in Kraft ist.
 >
-> <sup>\*</sup>Für organisationsweite ATP-Lizenzen (beispielsweise ATP_ENTERPRISE_FACULTY) müssen Sie keinen einzelnen Benutzern ATP-Lizenzen zuweisen.
+> <sup>\*</sup> Für organisationsweite ATP-Lizenzen (beispielsweise ATP_ENTERPRISE_FACULTY) müssen Sie keinen einzelnen Benutzern ATP-Lizenzen zuweisen.
 >
 > Weitere Informationen zum Schutz von ATP-sicheren Links finden Sie unter [Funktionsweise von ATP-sicheren Links mit URLs in Office-Dokumenten](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
 
+### <a name="safe-documents"></a>Sichere Dokumente
+
+Das Feature " [ATP-sichere Dokumente](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) " verwendet [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) zum Überprüfen von Dokumenten und Dateien, die in der [geschützten Ansicht](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)geöffnet werden.
+
+Was sollten Sie wissen, bevor Sie beginnen?
+
+- Sichere Dokumente sind nun allgemein für Benutzer mit Office-Version 2004 (12730. x) oder höher verfügbar! Dieses Feature ist standardmäßig deaktiviert und muss vom Sicherheits Administrator aktiviert werden.
+
+- Dieses Feature ist nur für Benutzer mit der Sicherheitslizenz Microsoft 365 E5 oder Microsoft 365 E5 verfügbar (nicht in Office 365 ATP-Pläne enthalten).
+
+- Word, Excel, PowerPoint und Visio unter Windows sowie Office-Apps auf IOS- und Android-Geräten
+
+- Microsoft Teams-Kanäle und -Chats
+
+> [!NOTE]
+> Benutzer müssen für Microsoft 365 E5 oder Microsoft 365 E5-Sicherheit lizenziert werden <sup>\*</sup> , müssen in Richtlinien für ATP-sichere Dokumente enthalten sein und müssen auf Ihren Geräten angemeldet sein, damit der Schutz in Kraft ist.
+>
+> Weitere Informationen zum Schutz von ATP-sicheren Dokumenten finden Sie unter [Safe Documents in Microsoft 365 E5](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs).
+
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP für SharePoint, OneDrive und Microsoft Teams
 
-[ATP für SharePoint, OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) unterstützt das erkennen und Blockieren von Dateien, die als bösartig identifiziert werden, in Teamwebsites und Dokumentbibliotheken. Darüber hinaus ist der Schutz für ATP-sichere Links jetzt in Microsoft Teams-Kanälen und-Chats verfügbar.
+[ATP für SharePoint, OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  unterstützt das erkennen und Blockieren von Dateien, die als bösartig identifiziert werden, in Teamwebsites und Dokumentbibliotheken. Darüber hinaus ist der Schutz für ATP-sichere Links jetzt in Microsoft Teams-Kanälen und-Chats verfügbar.
 
 ### <a name="anti-phishing-policies"></a>Antiphishing-Richtlinien
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Feature-Vergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300519"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315376"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -144,7 +144,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Outlook für Windows <sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja| Nein|
 |Outlook im Web<sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Outlook für Mac<sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja| Nein|
-|Outlook für iOS und Android<sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Outlook für iOS und Android<sup>21</sup>|Ja<sup>25</sup>|Ja<sup>25</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
 |Exchange ActiveSync|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Grundlegende Mobilität und Sicherheit für Microsoft 365|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |POP und IMAP|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>12</sup>|
@@ -199,6 +199,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>22</sup> Weitere Informationen finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> Exchange Online um-Unterstützung für Drittanbieter-Nebenstellenanlagen über direkte Verbindungen vom Kunden betriebenen SBCS wird Ende April 2019. Weitere Informationen finden Sie in der Exchange-Teamblog [-Einstellung der Unterstützung für Session Border Controller in Exchange Online Unified Messaging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
 <sup>24</sup> ein F3-Benutzer kann keine Stellvertretungen zu seinem eigenen Postfach hinzufügen, aber Sie können auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und alle an Sie Delegierten Aktionen ausführen.
+<sup>25</sup> ein Abonnement für Microsoft 365-Apps für Enterprise ist auch für Exchange Server 2013 und Exchange Server 2016 erforderlich.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Verfügbarkeit von Features in eigenständigen Exchange Online-Plänen
 
