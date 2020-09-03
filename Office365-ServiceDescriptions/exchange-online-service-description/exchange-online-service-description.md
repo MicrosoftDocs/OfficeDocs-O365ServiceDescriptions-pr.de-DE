@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Feature-Vergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315376"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337861"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -94,7 +94,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Transport rules|Ja <sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|
 |Verhinderung von Datenverlust|Ja<sup>5, 14</sup>|Ja<sup>5, 14</sup>|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Schutz vor Spam und Schadsoftware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Integrierter Antispamschutz|Ja <sup>6</sup>|Ja <sup>6</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>8</sup>|Ja <sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|
@@ -102,7 +102,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|Ja|Nein|Nein|Nein|Nein|Ja|Nein|
-|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -198,9 +198,9 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>21</sup> die Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. <br/>
 <sup>22</sup> Weitere Informationen finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> Exchange Online um-Unterstützung für Drittanbieter-Nebenstellenanlagen über direkte Verbindungen vom Kunden betriebenen SBCS wird Ende April 2019. Weitere Informationen finden Sie in der Exchange-Teamblog [-Einstellung der Unterstützung für Session Border Controller in Exchange Online Unified Messaging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
-<sup>24</sup> ein F3-Benutzer kann keine Stellvertretungen zu seinem eigenen Postfach hinzufügen, aber Sie können auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und alle an Sie Delegierten Aktionen ausführen.
+<sup>24</sup> ein F3-Benutzer kann keine Stellvertretungen zu seinem eigenen Postfach hinzufügen, aber Sie können auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und alle an Sie Delegierten Aktionen ausführen.<br/>
 <sup>25</sup> ein Abonnement für Microsoft 365-Apps für Enterprise ist auch für Exchange Server 2013 und Exchange Server 2016 erforderlich.
-  
+
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Verfügbarkeit von Features in eigenständigen Exchange Online-Plänen
 
 |**Feature**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
@@ -229,14 +229,14 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Transportregeln|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|
 |Verhinderung von Datenverlust|Ja<sup>10, 14</sup>|Ja<sup>10, 14</sup>|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
+|**[Schutz vor Spam und Schadsoftware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Integrierter Antispamschutz|Ja <sup>2</sup>|Ja <sup>2</sup>|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja <sup>8</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>7</sup>|Ja <sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |Customize anti-malware policies|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|
-|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
+|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|
@@ -282,6 +282,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |SMTP|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja|Ja|Nein|
 |Outlook für Mac|Ja|Ja|Ja|Ja|Nein|
+|Outlook für iOS und Android<sup>21</sup>|Ja<sup>25</sup>|Ja<sup>25</sup>|Ja|Ja|Ja|
 |**[Sprachnachrichtendienste](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Voicemail|Ja|Ja|Nein|Ja|Nein|
 |Interoperabilität von Drittanbieter-VoIP-Diensten|Ja|Ja|Ja|Ja|Ja|
@@ -330,4 +331,5 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>21</sup> einige Drittanbieter-Webparts und-Add-Ins sind möglicherweise nicht verfügbar. <br/>
 <sup>22</sup> für eDiscovery benötigen Sie eine separate Abfrage für lokale vs. Cloud. <br/>
 <sup>23</sup> Exchange Online Kiosk bietet keine Zugriffsrechte für die Verwendung mit lokalen Servern. Um konform zu sein, muss der Kunde die entsprechenden CALs kaufen oder zuvor erworben oder ein Upgrade auf eine SKU für Unternehmen durchführen, die diese Zugriffsrechte bereitstellt. <br/>
-<sup>24</sup> Microsoft 365-Gruppen sind mit reduzierter Funktionalität verfügbar.
+<sup>24</sup> Microsoft 365-Gruppen sind mit reduzierter Funktionalität verfügbar.<br/>
+<sup>25</sup> ein Abonnement für Microsoft 365-Apps für Enterprise ist auch für Exchange Server 2013 und Exchange Server 2016 erforderlich.
