@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium ist eine integrierte Lösung, die die beste Produktivität mit erweiterten Sicherheits-und Geräteverwaltungsfunktionen zusammenbringt, um Ihr Unternehmen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und-Features beschrieben.
-ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
-ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
+ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
+ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45388111"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "47947829"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium – Dienstbeschreibung
 
@@ -89,7 +89,7 @@ Microsoft 365 Business Premium umfasst im Wesentlichen alle Funktionen, die in M
 
 |||
 |:-----|:-----|
-|**Windows 10 pro-Verwaltung** <br/>Wenn Sie über Geräte verfügen, die für Windows 7 und 8,1 Professional lizenziert sind, bietet Microsoft 365 Business Premium ein Upgrade auf Windows 10 pro. <sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
+|**Windows 10 pro-Verwaltung** <br/>Wenn Sie über Geräte verfügen, die für Windows 7 und 8,1 Professional lizenziert sind, bietet Microsoft 365 Business Premium ein Upgrade auf Windows 10 pro.<sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Vereinfachte Bereitstellung mit Windows AutoPilot  <br/> |Ja  <br/> |
 |Abonnementaktivierung  <br/> |Ja  <br/> |
 |Organisationssteuerung des Gerätebildschirms im Leerlauf  <br/> |Ja  <br/> |
@@ -104,7 +104,7 @@ Microsoft 365 Business Premium umfasst im Wesentlichen alle Funktionen, die in M
 |Ordner vor Bedrohungen wie Ransomware schützen <br/> |Ja  <br/> |
 |Schützen von Dateien und Ordnern auf PCs vor nicht autorisiertem Zugriff mit BitLocker <br/> |Ja  <br/> |
 
-### <a name="notes"></a>Anmerkungen
+### <a name="notes"></a>Notes
 <sup>1</sup> enthält Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) aktiviert die unterstützten Funktionen für die Verwaltung von Informationsrechten (Information Rights Management, IRM). AIP-Plan 1 ist in Microsoft 365 Business Premium enthalten. <br/>
 <sup>3</sup> Microsoft 365 Business Premium umfasst Exchange Online Archivierungs Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Overview of Unlimited Archiving](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>
@@ -113,4 +113,4 @@ Microsoft 365 Business Premium umfasst im Wesentlichen alle Funktionen, die in M
 <sup>6</sup> dieser Plan umfasst Microsoft Stream Plan 2, einschließlich Video Portal, sprach-zu-Text-Transkription, Tiefe Suche und Gesichtserkennung.<br/>
 <sup>7</sup> Microsoft 365 wird mit Office 365 Advanced Threat Protection Plan 1 ausgeliefert. Weitere Informationen finden Sie unter [Microsoft 365 Business Premium Security and Compliance Features](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
 <sup>8</sup> Microsoft 365 Business Premium-Abonnenten sind für die Verwendung vollständiger InTune-Funktionen für IOS, Android, MacOS und andere plattformübergreifende Geräteverwaltung lizenziert. Features, die im Admin Center in Microsoft 365 Business Premium nicht verfügbar sind, können wie die Drittanbieter-App-Verwaltung und die Konfiguration von WiFi-Profilen, VPN-Zertifikaten usw. in der vollständigen InTune-Konsole verwaltet werden.</br>
-<sup>9</sup> Wenn Sie über Geräte verfügen, die für Windows 7 und 8,1 Professional lizenziert sind, bietet Microsoft 365 Business Premium ein Upgrade auf Windows 10 pro. Mit Microsoft 365 Business Premium erhalten Sie nicht nur [Microsoft Defender-Sicherheitsfeatures, die in Windows pro aktiviert](https://go.microsoft.com/fwlink/p/?linkid=2089903)sind, sondern auch Zugriff auf Premium-Funktionen wie Netzwerkschutz für webbasierte Bedrohungen und Host Intrusion Prevention-Regeln zur Minderung von Ransomware. Wenn Sie Ihr Microsoft 365 Business Premium-Konto einrichten, wählen Sie App-Schutz und Geräte Konfigurationseinstellungen aus. Diese Einstellungen bestimmen die Richtlinien, die automatisch auf Geräte angewendet werden, wenn sie Azure Active Directory beitreten.</br>
+<sup>9</sup> Wenn Sie über Geräte verfügen, die für Windows 7 und 8,1 Professional lizenziert sind, bietet Microsoft 365 Business Premium ein Upgrade auf Windows 10 pro. Diese Lizenz gilt jedoch nicht für Windows 7,1 oder 8 Home Edition mit Windows 10 pro. Mit Microsoft 365 Business Premium erhalten Sie nicht nur [Microsoft Defender-Sicherheitsfeatures, die in Windows pro aktiviert](https://go.microsoft.com/fwlink/p/?linkid=2089903)sind, sondern auch Zugriff auf Premium-Funktionen wie Netzwerkschutz für webbasierte Bedrohungen und Host Intrusion Prevention-Regeln zur Minderung von Ransomware. Wenn Sie Ihr Microsoft 365 Business Premium-Konto einrichten, wählen Sie App-Schutz und Geräte Konfigurationseinstellungen aus. Diese Einstellungen bestimmen die Richtlinien, die automatisch auf Geräte angewendet werden, wenn sie Azure Active Directory beitreten.</br>
