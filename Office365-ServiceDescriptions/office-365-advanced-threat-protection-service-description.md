@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
-ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
+ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318942"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134042"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
@@ -117,7 +117,7 @@ Für URLs in den folgenden Apps steht „Sichere Links“ zur Verfügung:
 
 - Office für das Web (Word für das Web, Excel für das Web, PowerPoint für das Web und OneNote für das Web)
 
-- Word, Excel, PowerPoint und Visio unter Windows sowie Office-Apps auf IOS- und Android-Geräten
+- Word, Excel und PowerPoint unter Windows
 
 - Microsoft Teams-Kanäle und -Chats
 

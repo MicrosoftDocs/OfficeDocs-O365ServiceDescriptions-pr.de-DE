@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – gcc High geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: f81f2382f41d2ba1aa6fcd5dabc593b20eba7bc1
-ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
+ms.openlocfilehash: 3fecae08a3cdc53e71a68d5181b9d8c2fa8c8008
+ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45388071"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "47962104"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan for Microsoft 365 Compliance – gcc High
 
@@ -59,30 +59,69 @@ Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherhei
 
 Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einige Unterschiede zwischen Microsoft 365 Government – gcc-High und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features.
 
-|                                         | Feature                                         | Hoher gcc-Status        |
+
+|                                         | Feature                                         | GCC-Status             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
-| **Informationsschutz & Steuerung** | Archivierung                                       | Available              |
-|                                         | Manuelle Bezeichnungen und Richtlinien<sup>2</sup>          | Available              |
-|                                         | Automatische Anwendung von Beschriftungen                      | Im Entwicklungsrückstand |
-|                                         | Bezeichnungen basierend auf vertraulichen Datentypen            | Im Entwicklungsrückstand |
-|                                         | Bezeichnungen und zugeordnete Richtlinien basierend auf Abfragen | Im Entwicklungsrückstand |
-|                                         | Dateiplan                                       | Im Entwicklungsrückstand |
-|                                         | Empfohlene Richtlinien                            | Im Entwicklungsrückstand |
-|                                         | Intelligente Importfilter                            | Im Entwicklungsrückstand |
-|                                         | Ereignisbasierte Aufbewahrung                           | Im Entwicklungsrückstand |
-|                                         | Dispositionsüberprüfung                              | Im Entwicklungsrückstand |
-|                                         | Informationsbarrieren                            | Available              |
-|                                         | Verhinderung von Datenverlust (DLP) für Dateien und e-Mail  | Available              |
-|                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen    | Im Entwicklungsrückstand |
-|                                         | Exakte DLP-Datenübereinstimmung                            | Im Entwicklungsrückstand |
-|                                         | Bezeichnungsaktivitäten-Explorer                         | Im Entwicklungsrückstand |
-|                                         | Trainierbare Klassifizierungsmerkmale                           | Im Entwicklungsrückstand |
+| **Schutz von Daten**              | Einheitliche Beschriftungs-und Vertraulichkeits Bezeichnungen         | Available              |
+|                                         | Container Beschriftungen für SharePoint Online, Office-Gruppen          | Rollout              |
+|                                         | Automatische Beschriftung basierend auf vertraulichen Datentypen für Excel Online, SharePoint Online OneDrive für Unternehmen                      | Rollout              |
+|                                         | Bezeichnungen basierend auf vertraulichen Datentypen für Win32-und Mac-Office-Clients            | Im Entwicklungsrückstand |
+|                                         | Automatische Kennzeichnung basierend auf vertraulichen Datentypen für Win 32, Mac |  Im Entwicklungsrückstand              |
+|                                         | Automatische Kennzeichnung basierend auf vertraulichen Datentypen für Teams                                       |Im Entwicklungsrückstand              |
+|                                         | Automatische Kennzeichnung basierend auf vertraulichen Datentypen für Mobilgeräte                            |Im Entwicklungsrückstand |
+|                                         | Bezeichnungen und zugeordnete Richtlinien basierend auf Abfragen                            | Available |
+|                                         | Bezeichnungsaktivitäten-Explorer                           | Im Entwicklungsrückstand  |
+|                                         | Trainierbare Klassifizierungsmerkmale                              | Im Entwicklungsrückstand              |
+|                                         | Grundlegende Office 365 Nachrichtenverschlüsselung (E3)                            | Available              |
+|                                         | Erweiterte Office 365 Nachrichtenverschlüsselung (E5)  | Available              |
+|                                         | Kundenschlüssel für Office 365    | Available |
+|                                         | Mitbringen eines eigenen Schlüssels (BYOK) für den Lebenszyklus von Kunden verwalteter Schlüssel Bereitstellung                            | Available |
+|                                         | Halten Sie Ihren eigenen Schlüssel (Hyok), der sich über Azure Information Protection-und Active Directory (AD)-Rechteverwaltung für stark regulierte Szenarien erstreckt (Vorschau)                         | Available |
+|                                         | Verschlüsselung mit Doppelschlüssel                           | Im Entwicklungsrückstand |
+|                                         | Verhinderung von Datenverlust (DLP) für Dateien und e-Mail         | Available |
+|                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen         | Rollout |
+|                                         | Exakte DLP-Datenübereinstimmung | Im Entwicklungsrückstand |
+|                                         | DLP-Endpunkt | Im Entwicklungsrückstand |
+| **Informationsgovernance** | E-Mail-Archivierung                                       | Available              |
+|                                         | Aufbewahrungs Sperre          | Available              |
+|                                         | PST-Datei importieren                      | Available              |
+|                                         | Manuelle Aufbewahrungs Bezeichnungen ohne Daten Satz            | Available |
+|                                         | Standardmäßige Aufbewahrungs Bezeichnungen für SharePoint/OneDrive für Unternehmen-Bibliotheken,-Ordner und-Dokumentenmappen; Exchange-Posteingänge; und Office 365 Gruppen | Available              |
+|                                         | Aufbewahrungsrichtlinien für die gesamte Organisation; bestimmte Standorte oder Benutzer; und automatisch basierend auf bestimmten Bedingungen (beispielsweise Schlüsselwörter oder vertrauliche Informationen)                                       | Available              |
+|                                         | Aufbewahrungsrichtlinien mit Schulungs Klassifizierer                            | Im Entwicklungsrückstand |
+|                                         | Aufbewahrungsrichtlinien für "jammern" und "Teams"                            | Im Entwicklungsrückstand |
+|                                         | Manuelle Daten Satzbezeichnungen                           | Available              |
+|                                         | Standardmäßige Daten Satzbezeichnungen für SharePoint, OneDrive für Unternehmen Bibliotheken, Ordner und Dokumentenmappen; und Office 365 Gruppen                              | Available              |
+|                                         | Automatische Datensatzrichtlinien basierend auf bestimmten Bedingungen (beispielsweise Schlüsselwörter oder vertrauliche Informationen); und basierend auf einem Ereignis                            | Available              |
+|                                         | Dispositionsüberprüfung  | Available              |
+|                                         | Dateiplan-Manager    | Available |
+|                                         | Nachweis der Entsorgung                            | Available |
+|                                         | Regulatorische Datensätze                         | Im Entwicklungsrückstand |
+|                                         | Durchsetzung der Daten Satz Verwaltungs Lizenzierung                           | Im Entwicklungsrückstand |
+|                                         | Überprüfung der mehrstufigen Disposition für die Datensatzverwaltung | Im Entwicklungsrückstand |
+|                                         | Bezeichnungsaktivitäten-Explorer | Im Entwicklungsrückstand |
+|                                         | Trainierbare Klassifizierungsmerkmale | Im Entwicklungsrückstand |
 |                                         | Einheitliche Beschriftungs-und Vertraulichkeits Bezeichnungen         | Im Entwicklungsrückstand |
-| **Insider-Risikomanagement**             | Erweiterte Nachrichtenverschlüsselung                     | Available              |
-|                                         | Insider-Risikomanagement                         | Im Entwicklungsrückstand |
-|                                         | Kommunikationscompliance                        | Im Entwicklungsrückstand |
-|                                         | Kunden-Lockbox                                | Available              |
-|                                         | Kundenschlüssel                                    | Available              |
+| **Insider-Risikomanagement**             | Kunden-Lockbox                                | Available            |
+|                                         | Office-Indikatoren für Teams, SharePoint-Websites, e-Mail-Messaging                         | Rollout |
+|                                         | Datendiebstahl durch Benutzer                        | Rollout |
+|                                         | Allgemeine Datenlecks                                | Rollout              |
+|                                         | Untersuchen von Warnungen beim Insider Risikomanagement                                   | Rollout              
+|                                         | Fall Dashboard für Insider Risikomanagement, Inhalts-Explorer und Notiz Vorlagen | Rollout |
+|                                         | Eskalieren zur Untersuchung für Advanced eDiscovery | Rollout|
+|                                         | Datenlecks nach Prioritäts Benutzern (Vorschau) | im Entwicklungsrückstand |
+|                                         | Datenverluste durch verärgerte Benutzer (Vorschau) | im Entwicklungsrückstand |
+|                                         | Allgemeine Sicherheitsrichtlinienverletzungen (Vorschau) | im Entwicklungsrückstand |
+|                                         | Sicherheitsrichtlinienverletzungen nach Prioritäts Benutzern, abgehenden Benutzern, verärgerten Benutzern (Vorschau) | im Entwicklungsrückstand |
+|                                         | Richtlinien Anpassung (Vorschau) | im Entwicklungsrückstand |
+|                                         | Warnungen exportieren (Vorschau) | im Entwicklungsrückstand |
+|                                         | Prioritäts Benutzergruppen (Vorschau) | im Entwicklungsrückstand |
+|                                         | Erstellen von Kunden Richtlinien, 3 vorkonfiguriert für die Kommunikations Konformität (einschließlich Aufsichtsrichtlinien)  | Rollout |
+|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien) Unterstützung für Teams, Exchange und Entfernen von Teams-Nachricht | Rollout |
+|                                         | Kommunikations Kompatibilität (einschließlich Aufsichtsrichtlinien) Zugriffs Warnungen; Hinweis Vorlagen; Kommunikationsrichtlinien-Dashboard | Rollout  |
+|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien) eskalieren zur Untersuchung für Advanced eDiscovery | Rollout |
+|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien) erkennen von Inhalten für Erwachsene | Rollout |
+|                                         | Informationsbarrieren | Im Entwicklungsrückstand |
 |                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
 | **Antworten auf & ermitteln**                  | Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
 |                                         | Zentrale eDiscovery: Fallverwaltung                                 | Available              |
@@ -90,23 +129,28 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Haupt-eDiscovery: Export                                          | Available              |
 |                                         | Zentrale eDiscovery: RMS-Entschlüsselung                                  | Available              |
 |                                         | Zentrale eDiscovery: nativer Export                                   | Available              |
-|                                         | Zentrale eDiscovery: erweiterte Verarbeitung                             | Available              |
-|                                         | Erweiterte eDiscovery: e-Mail-Threading                                 | Available |
-|                                         | Erweiterte eDiscovery: nahe doppelte Identifikation                   | Available |
-|                                         | Erweiterte eDiscovery: Designs                                          | Available |
-|                                         | Advanced eDiscovery: Predictive Coding                               | Available |
-|                                         | Erweiterte eDiscovery: verarbeitete Exportdatei mit lastdatei                 | Available |
-|                                         | Erweiterte eDiscovery: Tagging                                         | Available |
-|                                         | Erweiterte eDiscovery: Viewer                                         | Available |
-|                                         | Erweiterte eDiscovery:-Aktionen                                      | Available |
-|                                         | Erweiterte eDiscovery: Filterung                                       | Available |
-|                                         | Erweiterte eDiscovery: Depotverwaltung für Arbeits Auslastungs Zuordnung                   | Available |
-|                                         | Erweiterte eDiscovery: Depotbank-Kommunikation                        | Available |
-|                                         | Erweiterte eDiscovery: Überprüfungs Sätze                                     | Available |
-|                                         | Erweiterte eDiscovery: überprüfen und kommentieren                             | Available |
-|                                         | Erweiterte eDiscovery: nicht Office 365E Einnahme                        | Available |
-|                                         | Erweiterte eDiscovery: Suchbegriffs Bericht                              | Available |
-| **Verwaltung der Richtlinientreue**               | Compliance-Bewertung                                | Im Entwicklungsrückstand |
+|                                         | Zentrale eDiscovery: Überwachung                                        | Available              |
+|                                         | Erweiterte eDiscovery: erweiterte Verarbeitung                             | Rollout |
+|                                         | Erweiterte eDiscovery: e-Mail-Threading                                 | Rollout |
+|                                         | Erweiterte eDiscovery: nahe doppelte Identifikation                   | Rollout |
+|                                         | Erweiterte eDiscovery: Designs                                          | Rollout |
+|                                         | Advanced eDiscovery: Predictive Coding                               | Rollout |
+|                                         | Erweiterte eDiscovery: verarbeitete Exportdatei mit lastdatei                 | Rollout |
+|                                         | Erweiterte eDiscovery: Tagging                                         | Rollout |
+|                                         | Erweiterte eDiscovery: Viewer                                         | Rollout |
+|                                         | Erweiterte eDiscovery:-Aktionen                                      | Rollout |
+|                                         | Erweiterte eDiscovery: Filterung                                       | Rollout |
+|                                         | Erweiterte eDiscovery: Depotverwaltung für Arbeits Auslastungs Zuordnung                   | Rollout |
+|                                         | Erweiterte eDiscovery: Depotbank-Kommunikation                        | Rollout |
+|                                         | Erweiterte eDiscovery: Überprüfungs Sätze                                     | Rollout |
+|                                         | Erweiterte eDiscovery: überprüfen und kommentieren                             | Rollout |
+|                                         | Erweiterte eDiscovery: nicht Office 365E Einnahme                        | Rollout |
+|                                         | Erweiterte eDiscovery: Suchbegriffs Bericht                              | Rollout |
+|                                         | Grundlegende Überwachung                              | Available |
+|                                         | Erweiterte Überwachung: Zugriff auf wichtige Ereignisse (beispielsweise mailitemsaccessed)                              | Rollout |
+|                                         | Erweiterte Überwachungsprotokoll Aufbewahrung (1 Jahr)                               | Rollout |
+|                                         | Erweiterte Überwachung erhöhte Bandbreite zur Verwaltungs Aktivitäts-API                              | Rollout |
+|    **Verwaltung der Richtlinientreue**            | Compliance-Manager und Bewertung                              | Im Entwicklungsrückstand |
 
 <sup>1</sup> der Status "identifiziert" kann geändert werden, wenn Projektpläne und Prioritäten neu ausgewertet werden.<br/>
 <sup>2</sup> die manuelle Anwendung von Bezeichnungen erfordert den [Azure Information Protection (AIP)-Client, Version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history). 

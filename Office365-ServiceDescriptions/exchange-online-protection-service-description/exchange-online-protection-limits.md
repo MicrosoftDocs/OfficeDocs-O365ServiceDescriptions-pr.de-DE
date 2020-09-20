@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Grenzwertesind nicht konfigurierbar, sofern nicht anders angegeben.
-ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133009"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134052"
 ---
 # <a name="exchange-online-protection-limits"></a>Beschränkungen von Exchange Online Protection
 
@@ -26,6 +26,8 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
 > Weitere Informationen zu Grenzwerten in Exchange Online finden Sie unter [Exchange Online Limits](../exchange-online-service-description/exchange-online-limits.md). Die Grenzwerte für Transportregeln gelten auch für Kunden der eigenständigen Lösung von EOP. Die Grenzwerte für Empfängerrate und Nachrichtenrate für Exchange Online gelten nicht für Kunden der eigenständigen Lösung von EOP. 
   
 - **Grenzwert für Domänen** Sie können bis zu 900 Domänen pro Mandant hinzufügen. Unterdomänen können in diesem Grenzwert von 900 enthalten sein oder, falls erforderlich, als Teil einer CatchAll-Option Unterdomänen entsprechen. Weitere Informationen finden Sie unter [Verwalten akzeptierter Domänen in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+
+- **Grenzwert für Remote Domäne** Sie können bis zu 200 Remotedomänen pro Mandant hinzufügen.
     
 - **Größenbeschränkung für Nachrichten** Die maximale Nachrichtengröße für Kunden der eigenständigen Lösung von EOP beträgt 150 MB. 
     
