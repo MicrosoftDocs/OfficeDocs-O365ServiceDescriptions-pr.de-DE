@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
-ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
+ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
+ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46531208"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48175182"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -22,16 +22,15 @@ Skype for Business Online wird am 31. Juli 2021, das am 30. Juli 2019 [angekünd
 
 Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und im [Office Accessibility Center](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Als Referenz haben wir diese Mastertabelle mit den Abonnements aufgenommen, mit denen Benutzer für Microsoft Teams aktiviert werden können. Ausführliche Planinformationen finden Sie unter [Suchen der richtigen Microsoft Teams für Ihr Unternehmen](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Weitere Office 365 im Government-Plan finden Sie unter [Office 365 Government Plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 bis G5 bieten den Zugriff auf die Microsoft Teams-Features.
+Als Referenz haben wir diese Mastertabelle mit den Abonnements aufgenommen, mit denen Benutzer für Microsoft Teams aktiviert werden können. Ausführliche Planinformationen finden Sie unter [Suchen der richtigen Microsoft Teams für Ihr Unternehmen](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Weitere Office 365 im Government-Plan finden Sie unter [Office 365 Government Plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 bis G5 bieten den Zugriff auf die Microsoft Teams-Features.<br><br>
 
-|||||||||
+| Pläne für kleine Unternehmen | Enterprise-Pläne | Bildungspläne | Entwickler Pläne |
 |:-----|:-----|:-----|:-----|
-|**Pläne für kleine Unternehmen** <br/> |**Enterprise-Pläne** <br/> |**Bildungspläne** <br/> |**Entwickler Pläne** <br/> |
 |Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 Entwickler <br/> |
 |Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
-|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
 |  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
-|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
 |  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
@@ -48,13 +47,12 @@ Microsoft Teams ist nicht als eigenständiger Dienst verfügbar.
 
 ## <a name="feature-category-reference"></a>Referenz zur Funktionskategorie 
 
-In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für Lizenzierungs Pläne oder Cloud-Instanzen aufgelistet. Es gelten bestimmte Einschränkungen. Weitere Informationen finden Sie in den Fußnoten. Diese Tabelle kann ohne vorherige Ankündigung geändert werden. Weitere Informationen finden Sie unter Microsoft 365 Message Center Notifications for Core Service Change Messaging und in der [Microsoft Licensing Terms Reference Documentation](https://www.microsoft.com/licensing/product-licensing/products).
+In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für Lizenzierungs Pläne oder Cloud-Instanzen aufgelistet. Es gelten bestimmte Einschränkungen. Weitere Informationen finden Sie in den Fußnoten. Diese Tabelle kann ohne vorherige Ankündigung geändert werden. Weitere Informationen finden Sie unter Microsoft 365 Message Center Notifications for Core Service Change Messaging und in der [Microsoft Licensing Terms Reference Documentation](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
-|||||||
+| Feature | Kleinunternehmen | Enterprise-Pläne | GCC | GCC-hoch | DOD | Schulung und Weiterbildung |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**Kleinunternehmen** <br/> |**Enterprise-Pläne** <br/> |**GCC** <br/> |**GCC-hoch** <br/> |**DoD** <br/> |**Bildung** <br/> |
 |Chat  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
+|Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
 |Kanäle – Standard  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Kanäle – privat  <br/> |Ja  <br/> |Ja<sup>2</sup>  <br/> |Ja <br/> |Nein  <br/> |Nein <br/> |Ja  <br/> |
 |Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -64,10 +62,10 @@ In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für 
 |Apps, Bots, &-Konnektoren  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
 |Live-Ereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>4</sup>  <br/> |Nr.<sup>4</sup>  <br/> |Ja  <br/> |
 
-<sup>1</sup> Microsoft Teams in gcc-High und DoD unterstützen 2500-Mitglieder in einem einzelnen Team.<br/>
-<sup>2</sup> Microsoft Planner steht derzeit nicht für den Zugriff auf private Kanäle zur Verfügung.<br/>
-<sup>3</sup> Microsoft OneNote ist in DoD-Clouds nicht verfügbar. Anwendungen und Anwendungsveröffentlichung stehen derzeit in diesen Clouds nicht zur Verfügung.<br/>
-<sup>4</sup> Live-Ereignisse sind derzeit in gcc-High oder DoD nicht verfügbar.<br/>
+> <sup>1</sup>  Microsoft Teams in gcc-High und DoD unterstützen 2500-Mitglieder in einem einzelnen Team.<br/>
+> <sup>2</sup> Microsoft Planner steht derzeit nicht für den Zugriff auf private Kanäle zur Verfügung.<br/>
+> <sup>3</sup> Microsoft OneNote ist in DoD-Clouds nicht verfügbar. Anwendungen und Anwendungsveröffentlichung stehen derzeit in diesen Clouds nicht zur Verfügung.<br/>
+> <sup>4</sup> Live-Ereignisse sind derzeit in gcc-High oder DoD nicht verfügbar.<br/>
 
 ## <a name="next-steps"></a>Nächste Schritte
 
