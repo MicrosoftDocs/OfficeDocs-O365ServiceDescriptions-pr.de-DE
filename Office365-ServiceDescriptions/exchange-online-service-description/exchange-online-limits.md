@@ -13,19 +13,24 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: ac20cda83afbc261035ebd2307660a6e62c872ce
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315366"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214344"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
 Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
 
 > [!NOTE]
-> Wenn Sie Unterstützung bei einer Aufgabe benötigen oder ein Problem lösen müssen, könnten die folgenden Artikel hilfreich sein:  <br/> *  [E-Mail](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (Hilfe beim Erstellen und Senden von e-Mails)  <br/> *  [E-Mail in Microsoft 365 for Business-Administratorhilfe](https://go.microsoft.com/fwlink/?linkid=529722) <br/>   *  [Beheben von Outlook-und Microsoft 365-Problemen mit dem Microsoft-Support-und Wiederherstellungs-Assistenten](https://diagnostics.office.com/) <br/>  *  [E-Mail-Unzustellbarkeitsberichte](https://go.microsoft.com/fwlink/?linkid=526653) <br/> *  [Exchange Online Hilfe](https://go.microsoft.com/fwlink/?linkid=825607)
+> Wenn Sie Unterstützung bei einer Aufgabe benötigen oder ein Problem lösen müssen, könnten die folgenden Artikel hilfreich sein:
+> - [E-Mail](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) (Hilfe beim Erstellen und Senden von e-Mails)
+>- [E-Mail in Microsoft 365 for Business-Administratorhilfe](https://go.microsoft.com/fwlink/?linkid=529722)
+>- [Beheben von Outlook-und Microsoft 365-Problemen mit dem Microsoft-Support-und Wiederherstellungs-Assistenten](https://diagnostics.office.com/)
+>- [E-Mail-Unzustellbarkeitsberichte](https://go.microsoft.com/fwlink/?linkid=526653)
+>- [Exchange Online Hilfe](https://go.microsoft.com/fwlink/?linkid=825607)<
 
 Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Kategorien:
 
@@ -54,7 +59,12 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
 - [Grenzwerte für Exchange ActiveSync](#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> *  Die Beschränkungen, die auf eine Microsoft 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein. <br/> * Wenn ein Grenzwert in den Microsoft-Rechenzentren geändert wird, kann es einige Zeit dauern, bis die Änderung auf alle vorhandenen Kunden angewendet wird. <br/> * Die meisten dieser Grenzwerte können nicht geändert werden, aber Sie und Ihre Benutzer sollten sich dessen bewusst sein. <br/> * Diese Grenzwertegelten sowohl für interne als auch für externe Empfänger. <br/> * Standardmäßig schützt Exchange Online Protection (EoP) Exchange Online Postfächer. Informationen zu Grenzwerten, die für EoP-Features in Exchange Online gelten, finden Sie unter [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md). <br/> * Informationen zu Office 365 Gruppenbeschränkungen finden Sie unter "Wie verwalte ich meine Gruppen?" in [erfahren Sie mehr über Microsoft 365 Gruppen](https://go.microsoft.com/fwlink/?linkid=846714).
+> - Die Beschränkungen, die auf eine Microsoft 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein.
+> - Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen.
+> - Die meisten dieser Grenzwerte können zwar nicht geändert werden, sie sollten Ihnen und den Benutzern jedoch bekannt sein.
+> - Diese Grenzwerte gelten sowohl für interne als auch für externe Empfänger.
+> - Standardmäßig schützt Exchange Online Protection (EoP) Exchange Online Postfächern. Informationen zu Grenzwerten, die für EoP-Features in Exchange Online gelten, finden Sie unter [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - Informationen zu Office 365 Gruppenbeschränkungen finden Sie unter "Wie verwalte ich meine Gruppen?" in [erfahren Sie mehr über Microsoft 365 Gruppen](https://go.microsoft.com/fwlink/?linkid=846714).
 
 ## <a name="address-book-limits"></a>Adressbuchbeschränkungen
 
@@ -71,9 +81,8 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
 
 ### <a name="address-book-limits"></a>Adressbuchbeschränkungen
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Adresslistenbeschränkung|1000|1000|1000|1000|1000|1000|
 |Beschränkung für Offlineadressbuch (OAB)|250|250|250|250|250|250|
 |Beschränkung für Adressbuchrichtlinien (ABP)|250|250|250|250|250|250|
@@ -81,9 +90,8 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
 
 ### <a name="address-book-limits-across-standalone-plans"></a>Beschränkungen für Adressbücher für eigenständige Pläne
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Adresslistenbeschränkung|1000|1000|1000|1000|
 |Beschränkung für Offlineadressbuch (OAB)|250|250|250|250|
 |Beschränkung für Adressbuchrichtlinien (ABP)|250|250|250|250|
@@ -98,9 +106,8 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
 
 ### <a name="storage-limits"></a>Speichergrenzwerte
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Benutzerpostfächer|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |Archivpostfächer<sup>7, 8</sup>|50 GB|50 GB|50 GB|Unbegrenzt<sup>1</sup>|Unlimited<sup>1</sup>|Nicht verfügbar<sup>4</sup>|
 |Freigegebene Postfächer<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2, 9</sup>|50/100 GB<sup>2, 9</sup>|50 GB<sup>2</sup>|
@@ -114,9 +121,8 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
 
 ### <a name="storage-limits-across-standalone-plans"></a>Speicherbegrenzungen in eigenständigen Plänen
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Benutzerpostfächer|2 GB<sup>1</sup>|50 GB|100 GB|2 GB|
 |Archivieren von Postfächern<sup>8, 9</sup>|100 GB<sup>1</sup>|50 GB|Unbegrenzt<sup>2</sup>|Nicht verfügbar<sup>5</sup>|
 |Freigegebene Postfächer<sup>11</sup>|2 GB<sup>1</sup>|50 GB<sup>3</sup>|50 GB<sup>3,10</sup>|50 GB<sup>3</sup>|
@@ -139,18 +145,16 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
 
 ### <a name="capacity-alerts"></a>Kapazitätswarnungen
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Warnung|49 GB|49 GB|49 GB|98 GB|98 GB|1,96 GB|
 |Senden verbieten|49,5 GB|49.5 GB|49.5 GB|99 GB|99 GB|1.98 GB|
 |Senden/Empfangen verbieten|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>Kapazitätswarnungen in eigenständigen Plänen
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Warnung|1,9 GB<sup>1</sup>|49 GB|98 GB|1,96 GB|
 |Senden verbieten|2 GB<sup>1</sup>|49.5 GB|99 GB|1.98 GB|
 |Senden/Empfangen verbieten|2,3 GB<sup>1</sup>|50 GB|100 GB|2 GB|
@@ -186,9 +190,8 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 
 ### <a name="mailbox-folder-limits"></a>Begrenzungen für Postfachordner
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Maximale Anzahl von Nachrichten pro Postfachordner|1 Million|1 Million|1 Million|1 Million|1 Million|1 Million|
 |Warnung zur Anzahl der Nachrichten pro Postfachordner|900,000|900,000|900,000|900,000|900,000|900,000|
 |Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"|3 Million|3 Million|3 Million|3 Million|3 Million|3 Million|
@@ -211,9 +214,8 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Begrenzungen für Postfachordner in eigenständigen Plänen
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Maximale Anzahl von Nachrichten pro Postfachordner|Keine Beschränkung<sup>1</sup>|1 Million|1 Million|1 Million|
 |Warnung zur Anzahl der Nachrichten pro Postfachordner|Unbegrenzt|900,000|900,000|900,000|
 |Maximale Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente"|Keine Begrenzung|3 Million|3 Million|3 Million|
@@ -259,9 +261,8 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 
 ### <a name="message-limits"></a>Nachrichtengrenzwerte
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Grenzwert für Nachrichtengröße – Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Grenzwert für Nachrichtengröße – OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
 |Grenzwert für Nachrichtengröße – Outlook für Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
@@ -289,9 +290,8 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 
 ### <a name="message-limits-across-standalone-options"></a>Nachrichtengrenzwert in eigenständigen Produkten
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Grenzwert für Nachrichtengröße – Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
 |Grenzwert für Nachrichtengröße – OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
 |Grenzwert für Nachrichtengröße – Outlook für Mac|10 MB<sup>4</sup>|150 MB|150 MB||
@@ -323,9 +323,8 @@ Empfangs- und Sendegrenzen werden angewendet, um Spam und Massen-E-Mail-Würmer 
 
 Empfangsgrenzen gelten für die Anzahl von Nachrichten, die ein Benutzer, eine Gruppe oder ein öffentlicher Ordner pro Stunde empfangen kann. Dies gilt sowohl für Nachrichten, die aus dem Internet als auch von lokalen Servern empfangen werden. Wird die Empfangsgrenze überschritten, erhalten die Absender von E-Mails an dieses Postfach einen Unzustellbarkeitsbericht mit der Information, dass das Postfach den zulässigen Schwellenwert für die Anzahl zugestellter Nachrichten überschritten hat. Nach einer Stunde wird die Grenze zurückgesetzt, und das Postfach kann wieder Nachrichten empfangen.
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard Office | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard Office**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Empfangene Nachrichten|3.600 Nachrichten pro Stunde|3.600 Nachrichten pro Stunde|3.600 Nachrichten pro Stunde|3.600 Nachrichten pro Stunde|3.600 Nachrichten pro Stunde|3600 Nachrichten pro Stunde|
 
 ### <a name="sending-limits"></a>Sendegrenzen
@@ -351,9 +350,8 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 
 #### <a name="sending-limits"></a>Sendegrenzen
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Grenzwert für Empfängerrate<sup>1</sup>|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|10.000 Empfänger pro Tag|
 |Empfängergrenzwert<sup>2</sup>|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|Anpassbar bis zu 1000 Empfänger|
 |Grenzwert für Empfängerproxyadresse|400|400|400|400|400|400|
@@ -365,9 +363,8 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 
 #### <a name="sending-limits-across-standalone-options"></a>Sendegrenzwerte bei Optionen für eigenständige Pläne
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Empfängerratengrenzwert|Keine Beschränkung<sup>1</sup>|10.000 Empfänger pro Tag<sup>2</sup>|10.000 Empfänger pro Tag<sup>2</sup>|10.000 Empfänger pro Tag<sup>2</sup>|
 |Empfängergrenzwert|1000 Empfänger<sup>1</sup>|1000 Empfänger|1000 Empfänger|1000 Empfänger|
 |Grenzwert für Empfängerproxyadresse|400|400|400|400|
@@ -396,9 +393,8 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
 
 ### <a name="retention-limits"></a>Aufbewahrungsgrenzwerte
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Aufbewahrungszeitraum des Ordners "Gelöschte Elemente"|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|
 |Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|14 Tage<sup>1</sup>|
 |Aufbewahrungszeitraum des Ordners "Junk-E-Mail"|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|30 Tage|
@@ -408,9 +404,8 @@ Mit diesen Grenzwerten wird gesteuert, für welchen Zeitraum auf Elemente in bes
 
 ### <a name="retention-limits-across-standalone-options"></a>Aufbewahrungszeitraum in eigenständigen Produkten
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Aufbewahrungszeitraum des Ordners "Gelöschte Elemente"|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|Keine Beschränkung<sup>1</sup>|
 |Aufbewahrungszeitraum für Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden|14 Tage<sup>1</sup>|14 Tage<sup>2</sup>|14 Tage<sup>2</sup>|14 Tage<sup>2</sup>|
 |Aufbewahrungszeitraum des Ordners "Junk-E-Mail"|2 Jahre<sup>1</sup>|30 Tage|30 Tage|30 Tage|
@@ -430,9 +425,8 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 
 ### <a name="distribution-group-limits"></a>Verteilergruppen-Grenzwerte
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Maximale Anzahl Mitglieder einer Verteilergruppe<sup>1</sup>|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|
 |Obergrenze für Nachrichten an Verteilergruppen mit 5.000 bis 99.999 Mitgliedern|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
@@ -445,9 +439,8 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 
 ### <a name="distribution-group-limits-across-standalone-options"></a>Grenzwerte für Verteilergruppen in eigenständigen Produkten
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Maximale Anzahl Mitglieder einer Verteilergruppe|100.000 Mitglieder<sup>1</sup>|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe|5.000 oder mehr Mitglieder<sup>1</sup>|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|
 |Maximale Anzahl von Verteilergruppenbesitzern|10  |10  |10  |10  |
@@ -460,29 +453,28 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 
 Die folgende Liste enthält Grenzwerte für Journalregeln, Transportregeln (auch bekannt als organisationsweite Regeln) und Grenzwerte, die für Posteingangsregeln gelten. Posteingangsregeln werden von einzelnen Benutzern festgelegt und auf Nachrichten angewendet, die vom Postfach des entsprechenden Benutzers gesendet und empfangen werden.
 
-- **Maximale Anzahl von Journatregeln** Die maximale Anzahl von Journalregeln, die in der Organisation vorhanden sein können.
+- **Maximale Anzahl von Journalregeln**: die maximale Anzahl von Journalregeln, die in der Organisation vorhanden sein können.
 
-- **Maximale Anzahl von Transportregeln** Die maximale Anzahl von Regeln, die in der Organisation vorhanden sein können.
+- **Maximale Anzahl von Transportregeln**: die maximale Anzahl von Regeln, die in der Organisation vorhanden sein können.
 
-- **Maximum size of an individual transport rule** The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions.
+- **Maximale Größe einer einzelnen Transportregel**: die maximale Anzahl von Zeichen, die in einer einzelnen Transportregel verwendet werden kann. The characters are used in the conditions, exceptions, and actions.
 
-- **Zeichen Grenzwert für alle regulären Ausdrücke, die in allen Transportregeln verwendet werden** Die Gesamtzahl der verwendeten Zeichen, einschließlich aller regulären Ausdrücke in allen Transportregelbedingungen und-Ausnahmen in der Organisation. Sie können wenige Regeln verwenden, in denen lange und komplexe reguläre Ausdrücke verwendet werden, oder Sie können viele Regeln verwenden, in denen einfache reguläre Ausdrücke verwendet werden.
+- **Zeichen Grenzwert für alle regulären Ausdrücke, die in allen Transportregeln verwendet werden**: die Gesamtanzahl der verwendeten Zeichen, einschließlich aller regulären Ausdrücke in allen Transportregelbedingungen und-Ausnahmen in der Organisation. Sie können wenige Regeln verwenden, in denen lange und komplexe reguläre Ausdrücke verwendet werden, oder Sie können viele Regeln verwenden, in denen einfache reguläre Ausdrücke verwendet werden.
 
-- **Grenzwerte für die Überprüfung von Anlagen Inhalten** Die Transportregelbedingungen ermöglichen es Ihnen, den Inhalt von Nachrichtenanlagen zu überprüfen, aber nur die ersten 1 MB des Texts, der aus einer Anlage extrahiert wurde, werden überprüft. Dieser Grenzwert von 1 MB bezieht sich auf den aus der Anlage extrahierten Text und nicht auf die Dateigröße der Anlage. Beispielsweise kann eine Datei mit 2 MB weniger als 1 MB Text enthalten, sodass der gesamte Text überprüft würde.
+- **Grenzwerte für die Überprüfung von Anlagen Inhalten**: mithilfe der Transportregelbedingungen können Sie den Inhalt von Nachrichtenanlagen überprüfen, aber nur die ersten 1 MB des Texts, der aus einer Anlage extrahiert wurde, werden überprüft. Dieser Grenzwert von 1 MB bezieht sich auf den aus der Anlage extrahierten Text und nicht auf die Dateigröße der Anlage. Beispielsweise kann eine Datei mit 2 MB weniger als 1 MB Text enthalten, sodass der gesamte Text überprüft würde.
 
-- **Maximale Anzahl von Empfängern, die einer Nachricht von allen Transportregeln hinzugefügt werden** Wenn auf eine Nachricht unterschiedliche Transportregeln angewendet werden, kann der Nachricht nur eine begrenzte Anzahl von Empfängern hinzugefügt werden. Nachdem die Grenze erreicht wurde, werden verbleibende Empfänger der Nachricht nicht hinzugefügt. Außerdem können einer Nachricht von einer Transportregel keine Verteilergruppen hinzugefügt werden.
+- **Maximale Anzahl von Empfängern, die einer Nachricht von allen Transportregeln hinzugefügt wurden**: Wenn eine Nachricht von unterschiedlichen Transportregeln verarbeitet wird, kann der Nachricht nur eine begrenzte Anzahl von Empfängern hinzugefügt werden. Nachdem die Grenze erreicht wurde, werden verbleibende Empfänger der Nachricht nicht hinzugefügt. Außerdem können einer Nachricht von einer Transportregel keine Verteilergruppen hinzugefügt werden.
 
-- **Weiterleitungsgrenzwert** Die maximale Anzahl Empfänger, die für eine Postfach- oder Transportregel konfiguriert werden können, wenn die Weiterleitungs- oder Umleitungsaktion verwendet wird. Sollte eine Regel festgelegt werden, eine Nachricht an mehr als diese Anzahl von Empfängern weiterzuleiten, würde diese Regel nicht angewendet werden, und jede regelkonforme Nachricht würde nicht an die in dieser Regel aufgelisteten Empfänger weitergeleitet werden.
+- **Weiter Leitungs Grenzwert**: die maximale Anzahl von Empfängern, die für einen Posteingang oder eine Transportregel mit einer Umleitungs Aktion konfiguriert werden können. Sollte eine Regel festgelegt werden, eine Nachricht an mehr als diese Anzahl von Empfängern weiterzuleiten, würde diese Regel nicht angewendet werden, und jede regelkonforme Nachricht würde nicht an die in dieser Regel aufgelisteten Empfänger weitergeleitet werden.
     
-- **Häufigkeit, mit der eine Nachricht umgeleitet wird** Gibt an, wie oft eine Nachricht automatisch basierend auf Posteingangsregeln umgeleitet, weitergeleitet oder beantwortet wird. Benutzer A verfügt beispielsweise über eine Posteingangsregel, die Nachrichten an Benutzer B umleitet, basierend auf dem Absender. Benutzer B verfügt über eine Posteingangsregel, die Nachrichten an Benutzer C basierend auf Schlüsselwörtern in der Betreffzeile weiterleitet. Wenn eine Nachricht beide Bedingungen erfüllt, wird die Nachricht nur an Benutzer B gesendet; Sie wird nicht an Benutzer C weitergeleitet, da nur eine Umleitung zulässig ist. In diesem Fall wird die Nachricht gelöscht, ohne einen Unzustellbarkeitsbericht an Benutzer B zu senden, der angibt, dass die Nachricht nicht an Benutzer C zugestellt wurde. Wir verwenden den X-MS-Exchange-Inbox-rules-Loop-Header, um zu bestimmen, wie oft eine Nachricht umgeleitet wurde. Diese Kopfzeile bleibt auch über die Exchange-Organisationsgrenzen hinweg.
+- Häufigkeit, mit der **eine Nachricht umgeleitet wird**: die Häufigkeit, mit der eine Nachricht automatisch basierend auf Posteingangsregeln umgeleitet, weitergeleitet oder beantwortet wird. Benutzer A verfügt beispielsweise über eine Posteingangsregel, die Nachrichten an Benutzer B umleitet, basierend auf dem Absender. Benutzer B verfügt über eine Posteingangsregel, die Nachrichten an Benutzer C basierend auf Schlüsselwörtern in der Betreffzeile weiterleitet. Wenn eine Nachricht beide Bedingungen erfüllt, wird die Nachricht nur an Benutzer B gesendet; Sie wird nicht an Benutzer C weitergeleitet, da nur eine Umleitung zulässig ist. In diesem Fall wird die Nachricht gelöscht, ohne einen Unzustellbarkeitsbericht an Benutzer B zu senden, der angibt, dass die Nachricht nicht an Benutzer C zugestellt wurde. Wir verwenden den X-MS-Exchange-Inbox-rules-Loop-Header, um zu bestimmen, wie oft eine Nachricht umgeleitet wurde. Diese Kopfzeile bleibt auch über die Exchange-Organisationsgrenzen hinweg.
 
-- **Häufigkeit, mit der eine Nachricht von Transportregeln umgeleitet wird** Gibt an, wie oft eine Nachricht basierend auf Transportregeln umgeleitet wird. Beispielsweise verfügt die Exchange-Organisation Tailspin Toys über eine Transportregel zum Umleiten aller Nachrichten, die an den Benutzer a an den Benutzer B gesendet wurden, der sich in der Exchange-Organisation Contoso befindet. In der Exchange-Organisation "Contoso" ist eine Transportregel vorhanden, mit der alle Nachrichten, die an Benutzer B gesendet wurden, an den Benutzer C umgeleitet werden, der sich in der Exchange-Organisation a. Datum Corporation befindet. In diesem Fall wird die Nachricht gelöscht und ein Unzustellbarkeitsbericht (Non-Delivery Report, NDR) mit Statuscode und Nachricht zurückgewiesen *550 5.7.128 Transport. Regeln. RejectMessage Die Anzahl der Transport Regelschleifen wird überschritten, und die Nachricht* wird an den Benutzer A gesendet. Wir verwenden den X-MS-Exchange-Transport-Rules-Loop-Header, um zu bestimmen, wie oft eine Nachricht von Transport Regeln umgeleitet wurde. Diese Kopfzeile bleibt auch über die Exchange-Organisationsgrenzen hinweg.
+- Häufigkeit, mit der **eine Nachricht von Transportregeln umgeleitet**wird: gibt an, wie oft eine Nachricht basierend auf Transportregeln umgeleitet wird. Beispielsweise verfügt die Exchange-Organisation Tailspin Toys über eine Transportregel zum Umleiten aller Nachrichten, die an den Benutzer a an den Benutzer B gesendet wurden, der sich in der Exchange-Organisation Contoso befindet. In der Exchange-Organisation "Contoso" ist eine Transportregel vorhanden, mit der alle Nachrichten, die an Benutzer B gesendet wurden, an den Benutzer C umgeleitet werden, der sich in der Exchange-Organisation a. Datum Corporation befindet. In diesem Fall wird die Nachricht gelöscht und ein Unzustellbarkeitsbericht (Non-Delivery Report, NDR) mit Statuscode und Nachricht zurückgewiesen *550 5.7.128 Transport. Regeln. RejectMessage Die Anzahl der Transport Regelschleifen wird überschritten, und die Nachricht* wird an den Benutzer A gesendet. Wir verwenden den X-MS-Exchange-Transport-Rules-Loop-Header, um zu bestimmen, wie oft eine Nachricht von Transport Regeln umgeleitet wurde. Diese Kopfzeile bleibt auch über die Exchange-Organisationsgrenzen hinweg.
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>Journal-, Transport- und Posteingangsregelgrenzen
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Maximale Anzahl von Journalregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Anzahl Transportregeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Größe einer einzelnen Transportregel|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
@@ -500,9 +492,8 @@ Die folgende Liste enthält Grenzwerte für Journalregeln, Transportregeln (auch
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Journal-, Transport-und Posteingangsregel Beschränkungen für eigenständige Optionen
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Maximale Anzahl von Journalregeln|Unbegrenzt|50 Regeln|50 Regeln|50 Regeln|
 |Maximale Anzahl Transportregeln|Keine Begrenzung|300 Regeln|300 Regeln|300 Regeln|
 |Maximale Größe einer einzelnen Transportregel|40 KB|8 KB|8 KB|8 KB|
@@ -528,9 +519,8 @@ Bei hoher Auslastung kann es vorkommen, dass einige Absender keine Benachrichtig
 
 ### <a name="moderation-limits"></a>Moderationsgrenzwerte
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Maximale Größe des Vermittlungspostfachs|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |Maximale Anzahl Moderatoren|10 Moderatoren|10 Moderatoren|10 Moderatoren|10 Moderatoren|10 Moderatoren|10 Moderatoren|
 |Ablauf für Nachrichten, die auf Moderation warten|2 Tage|2 Tage|2 Tage|2 Tage|2 Tage|2 Tage|
@@ -538,9 +528,8 @@ Bei hoher Auslastung kann es vorkommen, dass einige Absender keine Benachrichtig
 
 ### <a name="moderation-limits-across-standalone-options"></a>Moderationsgrenzwerte in eigenständigen Produkten
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Maximale Größe des Vermittlungspostfachs|Keine Beschränkung<sup>1</sup>|10 GB|10 GB|10 GB|
 |Maximale Anzahl Moderatoren|Keine Begrenzung|10 Moderatoren|10 Moderatoren|10 Moderatoren|
 |Ablauf für Nachrichten, die auf Moderation warten|5 Tage<sup>1</sup>|2 Tage|2 Tage|2 Tage|
@@ -559,16 +548,14 @@ Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei hand
 
 ### <a name="exchange-activesync-limits"></a>Grenzwerte für Exchange ActiveSync
 
-||||||||
+| Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Exchange ActiveSync-Gerätebegrenzung|100|100|100|100|100|100|
 |Exchange ActiveSync-Gerätelöschbegrenzung|20|20|20|20|20|20|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>Exchange ActiveSync-Grenzwerte über eigenständige Optionen hinweg
 
-||||||
+| Feature | Exchange Server 2013 | Exchange Online Plan 1 | Exchange Online Plan 2 | Exchange Online-Kiosk |
 |:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online-Kiosk**|
 |Exchange ActiveSync-Gerätebegrenzung|100|100|100|100|
 |Exchange ActiveSync-Gerätelöschbegrenzung|20|20|20|20|

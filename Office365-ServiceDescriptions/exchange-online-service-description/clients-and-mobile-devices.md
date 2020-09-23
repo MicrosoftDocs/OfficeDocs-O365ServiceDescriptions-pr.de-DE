@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: a09609e81d9d179dcd156db886913d3124b2e16f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Exchange Online kann sowohl mit Desktop-und mobilen Versionen von Outlook als auch mit Outlook im Internet verwendet werden.
+ms.openlocfilehash: 32fb8ee9124a805233daaab2968158825cb46ca4
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132969"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214354"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 
@@ -23,11 +24,11 @@ ms.locfileid: "45132969"
 
 Microsoft Outlook ist ein E-Mail-Programm, das Unterstützung für Kalender, Kontakte, Aufgaben und die folgenden Hauptfunktionen bietet:
   
-- **MAPI über HTTP** MAPI (Messaging Application Program Interface) über HTTP ermöglicht Outlook-Benutzern das Herstellen einer Verbindung mit Exchange Online Postfächern über das Internet außerhalb der Firewall Ihrer Organisation. MAPI-über-HTTP ist der langfristige Ersatz für Outlook Anywhere. Diese Verbindungsmethode bietet verbesserte Verbindungsstabilität, eine sicherere Anmeldung, Erweiterbarkeit sowie Verbesserungen für IT und Support. Weitere Informationen hierzu finden Sie unter [RPC-über-HTTP-Unterstützung in Office 365 wird beendet](https://go.microsoft.com/fwlink/?linkid=863890) und [MAPI-über-HTTP](https://go.microsoft.com/fwlink/?linkid=393041).
+- MAPI **über HTTP** -Messaging Application Program Interface (MAPI) über HTTP ermöglicht Outlook-Benutzern das Herstellen einer Verbindung mit Exchange Online-Postfächern über das Internet außerhalb der Firewall Ihrer Organisation. MAPI-über-HTTP ist der langfristige Ersatz für Outlook Anywhere. Diese Verbindungsmethode bietet verbesserte Verbindungsstabilität, eine sicherere Anmeldung, Erweiterbarkeit sowie Verbesserungen für IT und Support. Weitere Informationen hierzu finden Sie unter [RPC-über-HTTP-Unterstützung in Office 365 wird beendet](https://go.microsoft.com/fwlink/?linkid=863890) und [MAPI-über-HTTP](https://go.microsoft.com/fwlink/?linkid=393041).
 
-- **AutoErmittlung** Die Funktion des AutoErmittlungsdiensts konfiguriert Outlook automatisch für die Zusammenarbeit mit Exchange Online. Outlook-Benutzer können ihre erforderlichen Profileinstellungen direkt von Exchange Online erhalten, sobald sie sich erstmals mit ihrer E-Mail-Adresse und ihrem Kennwort anmelden. Diese Einstellungen aktualisieren den Outlook-Client automatisch mit den Informationen, die zum Erstellen und Warten des Benutzerprofils erforderlich sind. Für die Verwendung des AutoErmittlungsdiensts wird ein SSL-Zertifikat benötigt. Dieses SSL-Zertifikat ist auf eine einzelne primäre SSL-Domäne beschränkt. 
+- **AutoErmittlung** : das Feature AutoErmittlungsdienst konfiguriert Outlook automatisch für die Verwendung von Exchange Online. Outlook-Benutzer können ihre erforderlichen Profileinstellungen direkt von Exchange Online erhalten, sobald sie sich erstmals mit ihrer E-Mail-Adresse und ihrem Kennwort anmelden. Diese Einstellungen aktualisieren den Outlook-Client automatisch mit den Informationen, die zum Erstellen und Warten des Benutzerprofils erforderlich sind. Für die Verwendung des AutoErmittlungsdiensts wird ein SSL-Zertifikat benötigt. Dieses SSL-Zertifikat ist auf eine einzelne primäre SSL-Domäne beschränkt. 
 
-- **Exchange-Cache-Modus** Das Feature für den Exchange-Cache-Modus ermöglicht Outlook-Benutzern den Zugriff auf lokale Kopien Ihrer Exchange Online Postfächer, wenn Sie nicht mit dem Internet verbunden sind. Der Exchange-Cache-Modus behält eine clientseitige Kopie der Exchange-Benutzerpostfächer in Outlook bei und synchronisiert diese Kopie automatisch mit dem E-Mail-Server. Es empfiehlt sich, Outlook im Exchange-Cache-Modus zu verwenden, da auf diese Weise Offlinezugriff bereitgestellt und auch dann Reaktionsfähigkeit ermöglicht wird, wenn zwischen dem Client und dem Server keine idealen die Netzwerkbedingungen bestehen. 
+- **Exchange-Cache-Modus** – mit dem Exchange-Cache-Modus können Outlook-Benutzer auf lokale Kopien Ihrer Exchange Online-Postfächer zugreifen, wenn Sie nicht mit dem Internet verbunden sind. Der Exchange-Cache-Modus behält eine clientseitige Kopie der Exchange-Benutzerpostfächer in Outlook bei und synchronisiert diese Kopie automatisch mit dem E-Mail-Server. Es empfiehlt sich, Outlook im Exchange-Cache-Modus zu verwenden, da auf diese Weise Offlinezugriff bereitgestellt und auch dann Reaktionsfähigkeit ermöglicht wird, wenn zwischen dem Client und dem Server keine idealen die Netzwerkbedingungen bestehen. 
 
 Outlook-Zugriff ist standardmäßig für alle Benutzer aktiviert. Über Windows PowerShell können Administratoren den Zugriff für bestimmte Benutzer oder Gruppen deaktivieren. Es empfiehlt sich, die neueste Version von Outlook – mit Installation des neuesten Service Packs – für den Zugriff auf Exchange Online zu verwenden. 
   
@@ -39,7 +40,12 @@ Microsoft 365 wurde für die Verwendung der neuesten Browser und Versionen von O
 - Microsoft stellt keine Softwareupdates bereit, um nicht sicherheitsrelevante Probleme zu beheben.
 
 > [!IMPORTANT]
->  Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft 365 apps for Enterprise (einschließlich Microsoft Outlook) ist in einigen Plänen enthalten und kann als separates Abonnement erworben werden. Die folgenden Einschränkungen werden angezeigt, wenn Sie mit Pop eine Verbindung mit einem Exchange Online e-Mail-Konto herstellen: > keine Kalenderinformationen > keine Frei/Gebucht-Informationen > keine globale Adressliste > keine Push-e-Mail-> beim Verbinden über Pop werden alle Nachrichten auf den Client heruntergeladen, und es wird keine Synchronisierung zwischen mehreren Computern oder Geräten (beispielsweise zwischen einem Laptop und einem Telefon 
+> Outlook ist nicht im Exchange Online-Bezugspreis enthalten. Microsoft 365 apps for Enterprise (einschließlich Microsoft Outlook) ist in einigen Plänen enthalten und kann als separates Abonnement erworben werden. Wenn Sie POP verwenden, um eine Verbindung mit einem Exchange Online-E-Mail-Konto herzustellen, werden die folgenden Einschränkungen angezeigt:
+> - Keine Kalenderinformationen
+>- Keine Frei/Gebucht-Informationen
+>- Keine globale Adressliste
+>- Keine Push-E-Mail
+>- Bei der Verbindung über POP werden alle Nachrichten auf den Client heruntergeladen und es findet keine Synchronisierung zwischen mehreren Computern oder Geräten statt (beispielsweise zwischen einem Laptop und einem Telefon). 
   
 ## <a name="outlook-on-the-web"></a>Outlook im Web
 
@@ -47,9 +53,9 @@ Outlook im Web ist eine webbasierte Version des Outlook-E-Mail-Programms, die 
   
 Outlook im Web ist in zwei Clientversionen erhältlich, die beide mit Exchange Online verwendet werden können:
   
-- **Outlook im Internet** Die Standard Version von Outlook im Internet bietet Exchange Online Benutzern mit einer Messagingumgebung am ähnlichsten wie Outlook-Benutzern. Es unterstützt die meisten neueren Webbrowser und ist für die Verwendung auf Tablets und Smartphones sowie Desktops und Laptops optimiert. Benutzer können Nachrichten lesen und senden, Kontakte organisieren und Termine und Besprechungen planen. Das standardmäßige aktivitätsbasierte Timeout wird auf sechs Stunden festgelegt, kann aber [von einem Administrator in Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) von 5 Minuten auf 8 Stunden konfiguriert werden. Dieses Timeout hängt von den Benutzerinteraktionen innerhalb der Webanwendung ab, beispielsweise auswählen einer Schaltfläche oder Auswählen einer Nachricht. Es gibt auch ein separates Sicherheits gesteuertes Timeout, das nicht konfigurierbar ist und unabhängig von der Benutzeraktivität stattfindet. Wenn ein Benutzer 8 Stunden lang angemeldet ist, meldet OWA den Benutzer automatisch ab und fragt erneut, ob er erneut authentifiziert werden soll. 
+- **Outlook im Internet** – die Standard Version von Outlook im Internet bietet Exchange Online Benutzern eine ähnliche Messagingumgebung wie Outlook-Benutzer. Es unterstützt die meisten neueren Webbrowser und ist für die Verwendung auf Tablets und Smartphones sowie Desktops und Laptops optimiert. Benutzer können Nachrichten lesen und senden, Kontakte organisieren und Termine und Besprechungen planen. Das standardmäßige aktivitätsbasierte Timeout wird auf sechs Stunden festgelegt, kann aber [von einem Administrator in Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) von 5 Minuten auf 8 Stunden konfiguriert werden. Dieses Timeout hängt von den Benutzerinteraktionen innerhalb der Webanwendung ab, beispielsweise auswählen einer Schaltfläche oder Auswählen einer Nachricht. Es gibt auch ein separates Sicherheits gesteuertes Timeout, das nicht konfigurierbar ist und unabhängig von der Benutzeraktivität stattfindet. Wenn ein Benutzer 8 Stunden lang angemeldet ist, meldet OWA den Benutzer automatisch ab und fragt erneut, ob er erneut authentifiziert werden soll. 
 
-- **Die Light-Version von Outlook im Internet** Die Light-Version von Outlook im Internet bietet Exchange Online Benutzern den Zugriff auf das Postfach mit nahezu jedem Webbrowser. Benutzer können Nachrichten lesen und senden, Kontakte organisieren und Termine und Besprechungen planen. Das standardmäßige aktivitätsbasierte Timeout wird auf sechs Stunden festgelegt, kann aber [von einem Administrator in Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) von 5 Minuten auf 8 Stunden konfiguriert werden. Dieses Timeout hängt von den Benutzerinteraktionen innerhalb der Webanwendung ab, beispielsweise auswählen einer Schaltfläche oder Auswählen einer Nachricht. Es gibt auch ein separates Sicherheits gesteuertes Timeout, das nicht konfigurierbar ist und unabhängig von der Benutzeraktivität stattfindet. Wenn ein Benutzer 8 Stunden lang angemeldet ist, meldet die Light-Version von OWA den Benutzer automatisch ab und fragt nach der erneuten Authentifizierung. 
+- **Die Light-Version von Outlook im Internet** – die Light-Version von Outlook im Internet bietet Exchange Online Benutzern den Zugriff auf das Postfach über fast jeden Webbrowser. Benutzer können Nachrichten lesen und senden, Kontakte organisieren und Termine und Besprechungen planen. Das standardmäßige aktivitätsbasierte Timeout wird auf sechs Stunden festgelegt, kann aber [von einem Administrator in Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) von 5 Minuten auf 8 Stunden konfiguriert werden. Dieses Timeout hängt von den Benutzerinteraktionen innerhalb der Webanwendung ab, beispielsweise auswählen einer Schaltfläche oder Auswählen einer Nachricht. Es gibt auch ein separates Sicherheits gesteuertes Timeout, das nicht konfigurierbar ist und unabhängig von der Benutzeraktivität stattfindet. Wenn ein Benutzer 8 Stunden lang angemeldet ist, meldet die Light-Version von OWA den Benutzer automatisch ab und fragt nach der erneuten Authentifizierung. 
 
 Outlook im Web ist auch in mobilen Versionen verfügbar. Weitere Informationen finden Sie auf [dieser Seite](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
@@ -59,11 +65,10 @@ Exchange Online unterstützt Microsoft Outlook für Mac, das E-Mail, Kalender, A
   
 ## <a name="outlook-for-ios-android-and-windows-phone"></a>Outlook für iOS, Android und Windows Phone.
 
-Exchange Online ist kompatibel mit Outlook-Apps für iOS, Android und Windows Phone. Auf jedem dieser Geräte finden Sie die Outlook-App im App-Store. Nachfolgend finden Sie eine Auflistung nach Betriebssystem.
+Exchange Online ist kompatibel mit Outlook-Apps für iOS, Android und Windows Phone. Auf jedem dieser Geräte finden Sie die Outlook-App im App-Store. Nachfolgend finden Sie eine Auflistung nach Betriebssystem.<br><br>
   
-|||||
+| Gerät | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
-|Gerät  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Verfügbarkeit der mobilen Outlook-App  <br/> |Ja  <br/> [Abrufen von Outlook für Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Ja  <br/> [Abrufen von Outlook für iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Integriert  <br/> |
 |Integrierte, mit Exchange Online kompatible E-Mail-Apps  <br/> |Gmail-App/Samsung E-Mail-App  <br/> |iOS-Mail-App  <br/> |Outlook-Mail, Kalender, Kontakte  <br/> |
 |Weitere Informationen  <br/> |[Android-Setup für mobile Geräte](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[iPhone- oder iPad-Setup](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Windows Phone-Setup](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
@@ -150,7 +155,7 @@ Das Simple Mail Transfer Protocol (SMTP) wird zum Senden ausgehender E-Mails fü
 > [!IMPORTANT]
 > IP-Adressen für autorisierte Quellserver müssen SMTP-Relay erlauben. TLS-Verschlüsselung (Transport Layer Security) und Authentifizierung sind erforderlich, wenn SMTP zum Senden von E-Mail verwendet wird. 
   
-## <a name="blackberryreg-devices"></a>BlackBerry- &reg; Geräte
+## <a name="blackberry-devices"></a>BlackBerry-Geräte
 
 E-Mail ist auf BlackBerry- &reg; Geräten über Exchange ActiveSync verfügbar. Die verfügbaren Optionen finden Sie in den folgenden Themen:
   

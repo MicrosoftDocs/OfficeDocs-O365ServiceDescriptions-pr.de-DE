@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) ist ein Cloud-basierter e-Mail-Filterdienst, der Ihre Organisation vor unbekannten Schadsoftware und Viren schützt, indem Sie einen robusten Zero-Day-Schutz bietet und Funktionen zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: c1facbc6c7052a89b35849919b277db592cc7991
-ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
+ms.openlocfilehash: 9a735338dc1cf99c35058ec7f1ae829d2c081936
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "48170540"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214364"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Office 365 Advanced Threat Protection-Dienstbeschreibung
 
@@ -139,7 +139,7 @@ Was sollten Sie wissen, bevor Sie beginnen?
 
 - Dieses Feature ist nur für Benutzer mit der Sicherheitslizenz Microsoft 365 E5 oder Microsoft 365 E5 verfügbar (nicht in Office 365 ATP-Pläne enthalten).
 
-- Word, Excel, PowerPoint und Visio unter Windows sowie Office-Apps auf IOS- und Android-Geräten
+- Word, Excel und PowerPoint unter Windows
 
 - Microsoft Teams-Kanäle und -Chats
 

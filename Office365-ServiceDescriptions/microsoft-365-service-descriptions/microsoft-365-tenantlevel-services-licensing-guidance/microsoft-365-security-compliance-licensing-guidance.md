@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798381"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214384"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -148,6 +148,32 @@ Informationen zum Konfigurieren von Microsoft Cloud App-Sicherheitsrichtlinien f
 
 Administratoren können MCAS-Bereitstellungen für lizenzierte Benutzer mithilfe der im Dienst verfügbaren Bereitstellungsfunktionen für Bereiche bereitstellen. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
+## <a name="compliance-manager"></a>Compliance-Manager
+
+Vereinfachung der Compliance und Reduzierung des Risikos mit Compliance-Manager. Compliance-Manager unterstützt Organisationen bei der Erfüllung von Vorschriften, Standards, Unternehmensrichtlinien oder anderen gewünschten Steuerungs Frameworks.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
+
+Im folgenden werden die Vorteile für die Benutzer des Compliance-Manager-Diensts erfüllt:
+
+- Übersetzt komplizierte Regelungen, Standards, Unternehmensrichtlinien oder andere gewünschte Steuerungs Frameworks in eine einfache Sprache.
+- Bietet Zugriff auf eine umfangreiche Bibliothek von vordefinierten Bewertungen und benutzerdefinierten Bewertungen zur Erfüllung eindeutiger Compliance-Anforderungen.
+- Ordnet Regulierungs Kontrollen den empfohlenen Verbesserungs Aktionen zu
+- Enthält schrittweise Anleitungen zum Implementieren der Lösungen zur Erfüllung behördlicher Anforderungen
+- Unterstützt Benutzer bei der Priorisierung von Aktionen, die die höchste Auswirkung auf die Compliance Ihrer Organisation haben, indem eine Partitur mit jeder Aktion verknüpft wird.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
+
+Kunden mit Office 365 E1/a1/E3/a3-und Microsoft 365 E3/A3-Lizenzen können auf die Datenschutz-Basisbewertung zugreifen. Kunden mit Office 365 E5/a5-und Microsoft 365 E5/A5-Lizenzen können vordefinierte Bewertungen für den Zugriff auf Datenschutz Basis, dsgvo, NIST 800-53 und ISO 22701 erhalten. Premium Assessments können für Office 365 E5/a5-und Microsoft 365 E5/A5-Kunden erworben werden.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
+
+Compliance-Manager ist standardmäßig für Ihren Mandanten vorgesehen. Administratoren legen Benutzerberechtigungen fest und weisen Rollen zu, damit Benutzer von nicht-Administratoren in Ihrer Organisation mit dem Compliance-Manager beginnen können. Weitere Informationen finden Sie unter [Documentation](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
+
+Der Zugriff auf den Compliance-Manager wird durch Festlegen von Benutzerberechtigungen und Zuweisen von Rollen gesteuert. Weitere Informationen finden Sie unter [Documentation](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP ist eine Endpunkt Sicherheitslösung, die risikobasierte Schwachstellen Verwaltung und-Bewertung umfasst. Funktionen zur angreifenden Oberflächenreduzierung; verhaltensbasierte und Cloud-gesteuerte Schutz für die nächste Generation; Endpunkterkennung und-Antwort (EDR); Automatische Untersuchung und Korrektur; und verwaltete Jagd Dienste. Weitere Informationen finden Sie unter [Microsoft Defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) -Seite.
@@ -201,7 +227,7 @@ Für das AIP-Scanner-Feature verpflichtet sich Microsoft nicht, Benutzern, die n
 
 ## <a name="information-governance"></a>Information Governance
 
-Die Informationssteuerung hilft Organisationen bei der Verwaltung Ihres Risikos, indem Sie Ihre Daten entdeckt, klassifiziert, kennzeichnen und steuern. Mit der Information Governance können Unternehmen geschäftliche und behördliche Anforderungen erfüllen und die Angriffsfläche verringern, indem Sie Aufbewahrungs-und Löschfunktionen für Ihre Microsoft 365-und drittanbieterdaten bereitstellen.
+Die Informationssteuerung hilft Organisationen bei der Verwaltung Ihres Risikos, indem Sie Ihre Daten ermitteln, klassifizieren, bezeichnen und steuern. Mit der Information Governance können Unternehmen geschäftliche und behördliche Anforderungen erfüllen und die Angriffsfläche verringern, indem Sie Aufbewahrungs-und Löschfunktionen für Ihre Microsoft 365-und drittanbieterdaten bereitstellen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
@@ -227,15 +253,15 @@ Spezifische Rechte nach Lizenz finden Sie im ausführlichen Microsoft 365-Kompat
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind die Features für die Informationssteuerung auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren der Informationssteuerung für das Anwenden von automatischer Kennzeichnung und Richtlinien für lizenzierte Benutzer finden Sie unter [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Standardmäßig sind die Features für die Informationssteuerung auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren der Informationssteuerung für das Anwenden von autolabeling und Richtlinien für lizenzierte Benutzer finden Sie unter [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Die Features für die Informationssteuerung können auf lizenzierte Benutzer an bestimmten Orten (Teamwebsites, Gruppen Websites usw.) angewendet werden. Informationen zum Konfigurieren der Informationssteuerung für das Anwenden von automatischer Kennzeichnung und Richtlinien für lizenzierte Benutzer finden Sie unter [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Die Features für die Informationssteuerung können auf lizenzierte Benutzer an bestimmten Orten (Teamwebsites, Gruppen Websites usw.) angewendet werden. Informationen zum Konfigurieren der Informationssteuerung für das Anwenden von autolabeling und Richtlinien für lizenzierte Benutzer finden Sie unter [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ## <a name="records-management"></a>Datensatzverwaltung
 
-Die Datensatzverwaltung unterstützt Organisationen bei der Erfüllung ihrer geschäftlichen und behördlichen Pflichten im Zusammenspiel mit dem ermitteln, klassifizieren, bezeichnen, aufbewahren und vertretbaren löschen in Ihren Microsoft 365-und drittanbieterdaten.
+Die Datensatzverwaltung unterstützt Organisationen bei der Erfüllung ihrer geschäftlichen und behördlichen Pflichten im Zusammenspiel mit der Ermittlung, Klassifizierung, Etikettierung, Aufbewahrung und vertretbaren Löschungs Funktionen in Ihren Microsoft 365-und drittanbieterdaten.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
@@ -256,6 +282,61 @@ Standardmäßig sind die Datensatzverwaltungsfeatures auf Mandantenebene für al
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 Die Datensatzverwaltungsfeatures können auf lizenzierte Benutzer an bestimmten Orten (Teamwebsites, Gruppen Websites usw.) angewendet werden. Informationen zum Konfigurieren der Datensatzverwaltung zur Anwendung für lizenzierte Benutzer finden Sie unter [Datensatzverwaltung in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
+
+## <a name="data-connectors"></a>Daten-Konnektoren 
+
+Microsoft stellt Daten-Konnektoren von Drittanbietern bereit, die im Microsoft 365 Compliance Center konfiguriert werden können. Eine Liste der von Microsoft bereitgestellten Daten-Konnektoren finden Sie in der Tabelle " [Drittanbieter-Daten Konnektoren](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) ". In dieser Tabelle werden auch die Kompatibilitätslösungen zusammengefasst, die Sie nach dem Importieren und Archivieren von Daten in Microsoft 365 auf drittanbieterdaten anwenden können, sowie Links zu den schrittweisen Anleitungen für jeden Connector.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
+
+Der primäre Vorteil der Verwendung von Daten Konnektoren zum Importieren und Archivieren von drittanbieterdaten in Microsoft 365 besteht darin, dass Sie verschiedene Microsoft 365-Kompatibilitätslösungen auf diese anwenden können, nachdem Sie importiert wurde. Dadurch wird sichergestellt, dass die nicht-Microsoft-Daten Ihrer Organisation den Vorschriften und Standards entsprechen, die sich auf Ihre Organisation auswirken.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
+
+Die folgenden Lizenzen bieten die Rechte für einen Benutzer, von den Daten Konnektoren zu profitieren:
+
+- Microsoft 365 E5/a5
+- Microsoft 365 E5/A5-Info Schutz & Governance
+- Microsoft 365 E5/A5-Konformität
+- Microsoft 365 E5/A5 Insider-Risiko Management 
+- Microsoft 365 E5/A5 eDiscovery und Überwachung 
+- Office 365 E5/a5
+- Office 365 Advanced Compliance
+
+Für Daten-Konnektoren im M365 Security & Compliance Center, die von einem der Partner von Microsoft bereitgestellt werden, benötigt Ihre Organisation eine Geschäftsbeziehung mit dem Partner, bevor Sie diese Connectors bereitstellen können.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
+
+Connectors werden mithilfe von Security & Compliance Center und Connector Catalog konfiguriert.
+
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
+
+Data Connectors-Dienste sind ein Wert auf Mandantenebene. Jeder Benutzer, der von diesem Dienst profitieren soll, muss lizenziert sein.
+
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>Microsoft Graph-APIs für Teams DLP
+
+Anfang dieses Jahres haben wir [die öffentliche Vorschau der Microsoft Graph-Änderungs Benachrichtigungs-API für Nachrichten in Teams angekündigt](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages). Mit dieser API können Entwickler apps erstellen, die Microsoft Teams-Nachrichten in nahezu Echtzeit abhören und DLP-Szenario-Implementierungen sowohl für Kunden als auch für ISVs aktivieren. Darüber hinaus können mit der Microsoft Graph-Patch-API DLP-Aktionen auf Teams-Nachrichten angewendet werden.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
+
+Die Funktionen zur [Verhinderung von Datenverlust (Data Loss Prevention, DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) werden in Microsoft Teams häufig verwendet, zumal sich Organisationen zu Remote Arbeit verschoben haben. Wenn Ihre Organisation über DLP verfügt, können Sie jetzt Richtlinien definieren, die verhindern, dass Personen vertrauliche Informationen in einem Microsoft Teams-Kanal oder in einer Chatsitzung freigeben.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
+
+Sie benötigen eine der folgenden E5-Lizenzen, um Unterstützung für den Schutz vor Datenverlust (Data Loss Prevention, DLP) im Microsoft Teams-Chat zu erhalten:
+
+- Microsoft 365 E5/a5
+- Microsoft 365 E5/A5-Konformität
+- Microsoft 365 E5/A5 Information Protection and Governance
+- Office 365 E5/a5 
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
+
+Der API-Zugriff wird auf Mandantenebene konfiguriert.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
+
+Die Microsoft Graph-API für Teams DLP ist ein Wert auf Mandantenebene. Jeder Benutzer, der von diesem Dienst profitieren soll, muss lizenziert sein.
 
 ## <a name="ediscovery"></a>eDiscovery
 
@@ -533,9 +614,13 @@ Für den Identitätsschutz und den bedingten Zugriff muss ein Benutzer in einer 
 
 Advanced Audit in Microsoft 365 bietet eine einjährige Aufbewahrung von Überwachungsprotokollen für Benutzer-und Administratoraktivitäten und bietet die Möglichkeit, benutzerdefinierte Aufbewahrungsrichtlinien für Überwachungsprotokolle zu erstellen, um die Überwachungsprotokoll Aufbewahrung für andere Microsoft 365-Dienste zu verwalten. Es bietet auch Zugriff auf wichtige Ereignisse für Untersuchungen und Zugriff auf die Office 365 Verwaltungs Aktivitäts-API mit hoher Bandbreite. Weitere Informationen finden Sie unter [Advanced Audit in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
+Sie können auch eine Beibehaltungsdauer von 10 Jahren mit einer Add-on-SKU aktivieren. Die Add-on-SKU wird ab Anfang 2021 benötigt.
+
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
 Lizenzierte Benutzer von Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 Compliance und Microsoft 365 eDiscovery und Audit können von der erweiterten Überwachung profitieren.
+
+Lizenzierte Benutzer mit erweiterter Überwachung und das 10-jährige Add-on für die Überwachungsprotokoll Aufbewahrung können von einer zehnjährigen Überwachungsprotokoll Aufbewahrung profitieren.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
@@ -543,8 +628,10 @@ Ein Benutzer profitiert von der erweiterten Überwachung, da Überwachungseintr�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig ist die erweiterte Überwachung auf Mandantenebene für alle Organisationen aktiviert, die über ein Office 365-oder Microsoft 365 E5-Abonnement verfügen, und bietet automatisch eine einjährige Aufbewahrung der Überwachungsprotokolle für Aktivitäten (durchgeführt von Benutzern mit der entsprechenden Lizenz) in Azure Active Directory, Exchange und SharePoint. Darüber hinaus können Organisationen Überwachungsprotokoll-Aufbewahrungsrichtlinien verwenden, um den Aufbewahrungszeitraum für Überwachungsdatensätze zu verwalten, die von Aktivitäten in anderen Microsoft 365-Diensten generiert werden. Weitere Informationen finden Sie unter [Verwalten der Aufbewahrungsrichtlinien für Überwachungsprotokolle](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+Standardmäßig ist die erweiterte Überwachung auf Mandantenebene für alle Organisationen aktiviert, die über ein Office 365-oder Microsoft 365 E5-Abonnement verfügen, und bietet automatisch eine einjährige Aufbewahrung der Überwachungsprotokolle für Aktivitäten (durchgeführt von Benutzern mit der entsprechenden Lizenz) in Azure Active Directory, Exchange und SharePoint. Darüber hinaus können Organisationen Überwachungsprotokoll-Aufbewahrungsrichtlinien verwenden, um den Aufbewahrungszeitraum für Überwachungsdatensätze zu verwalten, die von Aktivitäten in anderen Microsoft 365-Diensten generiert werden. Die 10-jährige Überwachungsprotokoll-Aufbewahrungsfunktion wird ebenfalls mithilfe der gleichen Aufbewahrungsrichtlinien aktiviert. Weitere Informationen finden Sie unter [Verwalten der Aufbewahrungsrichtlinien für Überwachungsprotokolle](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
 Das einjährige aufbewahren von Überwachungsprotokollen und die Überwachung wichtiger Ereignisse gelten nur für Benutzer mit der entsprechenden Lizenz. Darüber hinaus können Administratoren Überwachungsprotokoll-Aufbewahrungsrichtlinien verwenden, um kürzere Aufbewahrungsdauer für die Überwachungsprotokolle bestimmter Benutzer anzugeben.
+
+die Aufbewahrung von Überwachungsprotokollen in 10 Jahren gilt nur für Benutzer mit der entsprechenden Add-on-Lizenz. Die Add-on-SKU wird ab Anfang 2021 benötigt.
