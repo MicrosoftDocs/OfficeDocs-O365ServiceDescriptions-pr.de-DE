@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Diese Grenzwertesind nicht konfigurierbar, sofern nicht anders angegeben.
-ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: a2f7db904cf837f1441222d7867d2abb6fd70733
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134052"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245700"
 ---
 # <a name="exchange-online-protection-limits"></a>Beschränkungen von Exchange Online Protection
 
@@ -47,9 +47,10 @@ Die folgenden Grenzwertesind derzeit für Exchange Online Schutz vorhanden. Dies
     
 ### <a name="limits-across-eop-options"></a>Beschränkungen bei EOP-Optionen
 
-|**Funktion**|****EOP als eigenständige Lösung****|****EOP-Funktionen in Exchange Online****|****Exchange Enterprise CAL mit Diensten****|
+| Feature | EOP als eigenständige Lösung | EOP-Funktionen in Exchange Online | Exchange Enterprise CAL mit Diensten |
 |:-----|:-----|:-----|:-----|
 |Domänenbegrenzung  <br/> |900  <br/> |900  <br/> |900  <br/> |
+|Grenzwert für Remote Domäne  <br/> |200  <br/> |200  <br/> |200  <br/> |
 |Größenbeschränkung für Nachrichten (einschließlich Anlagen)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Empfängergrenzwert  <br/> |Siehe „Empfängergrenzwert" weiter oben  <br/> |500 Empfänger beim Senden von einem gehosteten Postfach; Informationen finden Sie unter "Empfängergrenzwert" weiter oben bei anderen Szenarien  <br/> |Siehe „Empfängergrenzwert" weiter oben  <br/> |
 |Grenzwert sicherer Absender  <br/> |1024 Einträge  <br/> |1024 Einträge  <br/> ||

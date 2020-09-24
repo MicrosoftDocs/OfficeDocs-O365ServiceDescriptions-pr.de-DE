@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214384"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245730"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -168,11 +168,11 @@ Kunden mit Office 365 E1/a1/E3/a3-und Microsoft 365 E3/A3-Lizenzen können auf d
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Compliance-Manager ist standardmäßig für Ihren Mandanten vorgesehen. Administratoren legen Benutzerberechtigungen fest und weisen Rollen zu, damit Benutzer von nicht-Administratoren in Ihrer Organisation mit dem Compliance-Manager beginnen können. Weitere Informationen finden Sie unter [Documentation](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles).
+Compliance-Manager ist standardmäßig für Ihren Mandanten vorgesehen. Administratoren legen Benutzerberechtigungen fest und weisen Rollen zu, damit Benutzer von nicht-Administratoren in Ihrer Organisation mit dem Compliance-Manager beginnen können. Weitere Informationen finden Sie unter [Erste Schritte mit Compliance-Manager: Festlegen von Benutzerberechtigungen und Zuweisen von Rollen](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Der Zugriff auf den Compliance-Manager wird durch Festlegen von Benutzerberechtigungen und Zuweisen von Rollen gesteuert. Weitere Informationen finden Sie unter [Documentation](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+Der Zugriff auf den Compliance-Manager wird durch Festlegen von Benutzerberechtigungen und Zuweisen von Rollen gesteuert. Weitere Informationen finden Sie unter [Erste Schritte mit Compliance-Manager: Festlegen von Benutzerberechtigungen und Zuweisen von Rollen](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
 ## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
@@ -301,7 +301,7 @@ Die folgenden Lizenzen bieten die Rechte für einen Benutzer, von den Daten Konn
 - Microsoft 365 E5/A5 Insider-Risiko Management 
 - Microsoft 365 E5/A5 eDiscovery und Überwachung 
 - Office 365 E5/a5
-- Office 365 Advanced Compliance
+- Office 365 Advanced Compliance
 
 Für Daten-Konnektoren im M365 Security & Compliance Center, die von einem der Partner von Microsoft bereitgestellt werden, benötigt Ihre Organisation eine Geschäftsbeziehung mit dem Partner, bevor Sie diese Connectors bereitstellen können.
 
@@ -489,11 +489,11 @@ Informationsbarrieren sind Richtlinien, die ein Administrator konfigurieren kann
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:<br><br>
 
 | Szenario | Wer benötigt eine Lizenz? |
-|:-------|:------|
-| Zwei Gruppen (Gruppe 1 und Gruppe 2) können nicht miteinander kommunizieren (das heißt, die Benutzer von Gruppe 1 dürfen nicht mit Gruppen 2-Benutzern kommunizieren, und Gruppen 2-Benutzer sind von der Kommunikation mit Gruppen 1-Benutzern beschränkt. | Benutzer in Gruppe 1 und Gruppe 2 ||
+|:------|:------|:------|
+| Zwei Gruppen (Gruppe &nbsp; 1 und Gruppe &nbsp; 2) können nicht miteinander kommunizieren (das heißt, die &nbsp; Benutzer von Gruppe 1 dürfen nicht mit Gruppen &nbsp; 2-Benutzern kommunizieren, und Gruppen 2-Benutzer &nbsp; sind von der Kommunikation mit Gruppen &nbsp; 1-Benutzern beschränkt. | Benutzer in Gruppe &nbsp; 1 und Gruppe &nbsp; 2 |
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
