@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Hier finden Sie Informationen zu den eindeutigen Verpflichtungen und Unterschieden der Office 365 gcc High-und DoD-Umgebungen im Vergleich zur Office 365 kommerziellen Umgebung.
-ms.openlocfilehash: 44d66557f426ab236460affd61fbf1970c7f25e6
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 549399c1cbd669413b6ea40023a4ab43a5181403
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214334"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261517"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
 
@@ -22,9 +22,9 @@ Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderu
   
 Wenden Sie Ihr Konto Team oder bevorzugten Partner an, um mehr darüber zu erfahren oder den Validierungsprozess zu initiieren. Weitere Informationen zum Kauf finden Sie unter [Microsoft 365 Government-How to Buy](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
-## <a name="how-to-use-this-service-description-section"></a>Vorgehensweise zum Verwenden dieses Dienst Beschreibungsabschnitts
+## <a name="how-to-use-this-service-description"></a>Verwenden dieser Dienstbeschreibung
 
-Die Office 365 US Government-Dienstbeschreibung dient als Overlay zur allgemeinen Office 365 Dienstbeschreibung. Sie definiert die eindeutigen Versprechen und Unterschiede im Vergleich zu Office 365 Enterprise-Angeboten.
+Die Office 365 US Government-Dienstbeschreibung dient als Overlay zur allgemeinen Office 365 Dienstbeschreibung. Es definiert die eindeutigen Verpflichtungen und Unterschiede im Vergleich zu Office 365 für Enterprise-Angebote.
   
 ## <a name="compliance"></a>Compliance
 
@@ -38,11 +38,10 @@ Abonnenten des Verteidigungsministeriums der Vereinigten Staaten von Office 365 
   
 ## <a name="background-screening"></a>Hintergrundprüfung
 
-Office 365-Mitarbeiter haben keinen Zugriff auf die GCC High and DoD-Produktion. Alle Mitarbeiter, die eine temporäre Berechtigungserweiterung anfordern, die Zugriff auf Kunden Inhalte gewähren würde, müssen zuerst die folgenden Hintergrundprüfungen bestanden haben.
+Office 365-Mitarbeiter haben keinen Zugriff auf die GCC High and DoD-Produktion. Alle Mitarbeiter, die eine temporäre Berechtigungserweiterung anfordern, die Zugriff auf Kunden Inhalte gewähren würde, müssen zuerst die folgenden Hintergrundprüfungen bestanden haben.<br><br>
   
-|||
+| Microsoft Personal Screening and Background Checks<sup>1</sup> | Beschreibung |
 |:-----|:-----|
-|**Microsoft Personal Screening and Background Checks**<sup>1</sup> <br/> |**Beschreibung** <br/> |
 |US-amerikanische Staatsbürgerschaft  <br/> |Überprüfung der US-amerikanischen Staatsbürgerschaft  <br/> |
 |Prüfung des beruflichen Lebenslaufs  <br/> |Überprüfung von sieben (7) Jahren der bisherigen Berufstätigkeit  <br/> |
 |Überprüfung der Ausbildung  <br/> |Überprüfung der höchsten abgeschlossenen Ausbildung  <br/> |
@@ -78,7 +77,7 @@ Benutzer verfügen über mehrere Optionen zum Freigeben von Dateien und Ordnern 
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 
-**Telefonsystem und Audiokonferenzen (über direktes Routing)**: Telefonsystem und Audiokonferenzen für gcc High-und DoD-Umgebungen werden über Direct Routing zugestellt. Weitere Informationen finden Sie in der Dokumentation zum Service Level hier:
+**Telefonsystem und Audiokonferenzen (über direktes Routing)** – Telefonsystem und Audiokonferenzen für gcc High-und DoD-Umgebungen werden über Direct Routing zugestellt. Weitere Informationen finden Sie in der Dokumentation zum Service Level hier:
 
 - [Telefon System über direktes Routing](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
 - [Audiokonferenzen mit direktem Routing für GCC High und DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
@@ -89,7 +88,7 @@ Die mehrstufige Authentifizierung unter Verwendung eines Identitätsmodells erm�
   
 ### <a name="yammer"></a>Yammer
 
-Jammern Enterprise ist in den gcc-High-und DoD-Umgebungen nicht verfügbar.
+Jammern für Unternehmen ist in den gcc-High-und DoD-Umgebungen nicht verfügbar.
   
 ## <a name="customer-support"></a>Kundensupport
 

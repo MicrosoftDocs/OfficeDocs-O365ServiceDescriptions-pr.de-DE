@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: 3e2cb2a1f9eeebd6a3fb106f8cac9a32a4cfb5e9
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1f2ef704626f32e78fe0f7806e5fe669c12e3c5c
+ms.sourcegitcommit: 0d192547dda1adc93616996972490f50d8068981
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132390"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48268487"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -26,11 +26,10 @@ Basierend auf dieser Entwicklung der Kundenbedürfnisse wird sich unsere Cloud-S
 
 ## <a name="service-availability-for-each-plan"></a>Dienstverfügbarkeit nach Plan
 
-Jeder Office 365 Deutschland-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. In der folgenden Tabelle werden die Dienste dargestellt, die in jedem Office 365-Plan verfügbar sind.
+Jeder Office 365 Deutschland-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. In der folgenden Tabelle werden die Dienste dargestellt, die in jedem Office 365-Plan verfügbar sind.<br><br>
 
-||||||||||
+| Dienst | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E1 | Office 365 Deutschland Enterprise E3 | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Dienst**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Office 365 Plattform <sup>1</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Exchange Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |SharePoint Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -67,11 +66,11 @@ Office 365 Deutschland befolgt die Office 365-Standards für Cloudsicherheit und
 In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind.
 
 Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene Organisationsformen finden Sie unter [Office 365 Deutschland-Pläne](https://go.microsoft.com/fwlink/?linkid=839016).
+<br><br>
 
-||||||||||
+| Feature | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E1 | Office 365 Deutschland Enterprise E3 | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
-|**[Office 365-Verwaltungsfeatures](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
+|**[Office 365-Verwaltungsfeatures](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-germany&preserve-view=true#admin-center-features-and-settings)**|||||||||
 |Verwalten von Office 365 mithilfe des Microsoft 365 admin Centers oder Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Schutz von Inhalten mit Azure Information Protection|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|Nr.<sup>2</sup>|
 |**[Funktionen der Office 365-Suite](office-365-suite-features.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
@@ -195,12 +194,11 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 > [!NOTE]
 > Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Client Softwareanwendungen") wie Office 365 ProPlus, Office 2013 \* und Office 2016. Client Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um [deutsche Onlinedienste](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Für Office 2013 für Office 365 Deutschland muss die [moderne Authentifizierung aktiviert sein](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
 
-Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwischen Office 365 Deutschland-Plänen zu vergleichen.
+Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwischen Office 365 Deutschland-Plänen zu vergleichen.<br><br>
 
-||||||||||
+| Feature | Office 365 Deutschland Business | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E1 | Office 365 Deutschland Enterprise E3<sup>9</sup> | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3<sup>9</sup>**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
-|**Office-Anwendungen**<sup>1, 2</sup>|||||||||
+|**Office-Anwendungen**<sup>1, &nbsp; 2</sup>|||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Ja|Nein|Ja|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Ja|Nein|Ja|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Ja|Nein|Ja|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
@@ -262,9 +260,8 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 <sup>10</sup> der Zugriff ist derzeit verfügbar, wenn Sie sich im aktuellen Kanal oder in der gezielten Version für verzögerten Kanal befinden. Wenn Sie sich auf einen verzögerten Kanal begeben, steht der Zugriff im Juni 2017 zur Verfügung. Weitere Informationen finden Sie unter [Access im Rahmen von Office 365 Business und Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
 <sup>11</sup> nicht verfügbar für Office 365 Deutschland, aber in Kürze erhältlich.
 
-|||||
+| Feature | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Feature**|**Office Professional Plus 2013**|**Office Professional Plus 2016**|**Office 365 ProPlus<sup>10</sup>**|
 |**Office<sup>-Anwendungen 1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Ja|Ja|Ja|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Ja|Ja|Ja|
@@ -335,9 +332,8 @@ Die folgende Tabelle enthält Links zu vergleichen von Office für die Funktione
 > - Microsoft Office webapps Server 2013 lokale Kunden erhalten eine Office für die webbearbeitungs Lizenz, wenn Sie eine Office-Desktop Suite-Lizenz erworben haben (wie Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz). <br/>
 > - Aufgrund der Art Office 365 Deutschland gibt es einige Features, die noch nicht aktiviert wurden. Mit der Zeit nähern sich die Dienste dank globaler Dienste der vollständigen Featureparität.
 
-||||
+| Anwendung | Office für das Web | Link zum detaillierten Funktionsvergleich |
 |:-----|:-----|:-----|
-|**Anwendung**|**Office für das Web**|**Link zum detaillierten Funktionsvergleich**|
 |Word|Word für das Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel für das Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote für das Web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -345,11 +341,10 @@ Die folgende Tabelle enthält Links zu vergleichen von Office für die Funktione
 
 ## <a name="exchange-online-features"></a>Exchange Online-Features
 
-In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind.
+In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind.<br><br>
 
-||||||||||
+| Feature | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E1 | Office 365 Deutschland Enterprise E3 | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |**[Planung und Bereitstellung](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
 |Unterstützung für Hybridbereitstellung<sup>1</sup>|Ja<sup>2</sup>|Ja|Ja<sup>2</sup>|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung für IMAP-Migration|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -464,17 +459,16 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 <sup>9</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/> <sup>10</sup> verbundene Konten werden für Pop- &amp; IMAP-Konten unterstützt, sind jedoch für Outlook.com (Hotmail) deaktiviert. <br/>
 <sup>11</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das das Feature für inaktives Postfach erforderlich ist. <br/>
 <sup>12</sup> das Verwenden eines Cmdlets zum Arbeiten mit der Adressliste und der globalen Adresslistewird nicht unterstützt. <br/>
-<sup>13</sup> erfordert die Verwendung von Verfügbarkeitsadressraum zur Unterstützung der Freigabe für andere Mandanten. Weitere Informationen zum Erstellen eines Verfügbarkeits Adressraums finden Sie unter [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace?view=exchange-ps). <br/> <sup>14</sup> Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind.<br/>
+<sup>13</sup> erfordert die Verwendung von Verfügbarkeitsadressraum zur Unterstützung der Freigabe für andere Mandanten. Weitere Informationen zum Erstellen eines Verfügbarkeits Adressraums finden Sie unter [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind.<br/>
 <sup>15</sup> Pop wird unterstützt, IMAP jedoch nicht.<br/>
 <sup>16</sup> einige Drittanbieter-Webparts und-Add-Ins sind möglicherweise nicht verfügbar.
 
 ## <a name="exchange-online-protection-features"></a>Exchange Online Protection-Features
 
-In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufgeführt, die für Office 365 Deutschland-Pläne verfügbar sind. Ausführlichere Informationen zu EoP-Features finden Sie unter den Links in der Tabelle. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.
+In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufgeführt, die für Office 365 Deutschland-Pläne verfügbar sind. Ausführlichere Informationen zu EoP-Features finden Sie unter den Links in der Tabelle. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.<br><br>
 
-|||||
+| Feature | EOP als eigenständige Lösung | EOP-Funktionen in Exchange Online | Exchange Enterprise CAL mit Diensten |
 |:-----|:-----|:-----|:-----|
-|**Feature**|**EOP als eigenständige Lösung**|**EOP-Funktionen in Exchange Online**|**Exchange Enterprise CAL mit Diensten**|
 |[E-Mail-Empfänger](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#mail-recipients)|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja|
 |[Berechtigungen für Administratorrollengruppen](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#admin-role-group-permissions)|Ja<sup>2</sup>|Ja|Ja|
 |[Domänenverwaltung](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#domain-management)|Ja<sup>3</sup>|Ja|Ja<sup>3</sup>|
@@ -482,8 +476,7 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 |[Verzeichnisbasierte Edge-Blockierung (DBEB)](../exchange-online-protection-service-description/recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Ja|Ja|Ja|
 |[Nachrichtenflussregeln](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#mail-flow-rules)|Ja<sup>3, 4, 14</sup>|Ja<sup>3, 4, 14</sup>|Ja|
 |[Überwachungsprotokollierung](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#audit-logging)|Ja<sup>5</sup>|Ja|Ja|
-|[Durchsuchen von Überwachungsprotokollen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252farticle%252fSearch-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c)
-<sup>16</sup>|Nein|Ja|Ja|
+|[Überwachungsprotokollsuche](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252farticle%252fSearch-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c)<sup>16</sup>|Nein|Ja|Ja|
 |[Verhinderung von Datenverlusten (Data Loss Prevention, DLP)](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|Nein|Ja|Ja<sup>6</sup>|
 |[Office 365-Nachrichtenverschlüsselung](../exchange-online-protection-service-description/messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Ja<sup>12</sup>|Ja|Ja<sup>12</sup>|
 |[Antispamschutz](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (integriert)|Ja|Ja|Ja|
@@ -530,33 +523,30 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 ## <a name="exchange-online-advanced-threat-protection-features"></a>Features von Exchange Online Advanced Threat Protection
 
 
-In der folgenden Tabelle sind die Features von Exchange Online Advanced Threat Protection aufgeführt, die für Office 365 Deutschland-Pläne verfügbar sind. Ausführlichere Informationen zu EoP-Features finden Sie unter den Links in der Tabelle. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.
+In der folgenden Tabelle sind die Features von Exchange Online Advanced Threat Protection aufgeführt, die für Office 365 Deutschland-Pläne verfügbar sind. Ausführlichere Informationen zu EoP-Features finden Sie unter den Links in der Tabelle. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.<br><br>
 
-|**Feature**|**ATP, eigenständig**|**ATP-Features in Exchange Online**|
+| Feature | ATP, eigenständig | ATP-Features in Exchange Online |
 |:-----|:-----|:-----|
 |Sichere Links|Ja|Ja|
 |Sichere Anlagen|Ja|Ja|
 
 ## <a name="project-online-features"></a>Project Online-Features
 
-In der folgenden Tabelle sind die Project Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+In der folgenden Tabelle sind die Project Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).<br><br>
+<!-- Do not remove "en-us" from this URL. Since blog posts aren't localized, we need to keep "en-us" in the URL or users in non-English locales will get an error when they click the link. -->
 
-||||
+| Plan | Beschreibung | Zielgruppen |
 |:-----|:-----|:-----|
-|**Plan**|**Beschreibung**|**Zielgruppen**|
 |Project Online Essentials| Webbasierte Schnittstelle für Teammitglieder  <br/>  Aktualisieren von Aufgaben, Problemen und Risiken  <br/>  Übermitteln von Arbeitszeittabellen  <br/>  Freigabe von Dokumenten und Zusammenarbeit mit Skype for Business-Anwesenheit|Teammitglieder|
 |Project Online Professional| Alle Project Online Essentials-Funktionen plus:  <br/>  Umfassende Benutzeroberfläche über Desktopclient  <br/>  Anytime/Anywhere-Zugriff über die Weboberfläche  <br/>  Planung und Kostenberechnung von Projekten  <br/>  Ressourcenmanagement  <br/>  Veröffentlichen von Projekten in der Cloud  <br/>  Streamt die aktuelle Version der Project-Desktopanwendung automatisch auf Ihren PC unter Windows.  <br/>  Jede Abonnementlizenz ermöglicht bis zu fünf Installationen der Project-Desktopanwendung gleichzeitig.|Projektmanager|
 |Project Online Premium| Alle Project Online Professional-Funktionen plus:  <br/>  Portfolioauswahl und -optimierung  <br/>  Projektbedarfsmanagement  <br/>  Ressourcenverwaltung für Unternehmen  <br/>  Out-of-Box-Portfolioberichte|Portfolio- und Ressourcenmanager|
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online-Features
 
-Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle Pläne unterstützen sämtliche SharePoint-Features. In der folgenden Tabelle sind Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind.
+Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle Pläne unterstützen sämtliche SharePoint-Features. In der folgenden Tabelle sind Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind.<br><br>
 
-****
-
-||||||||||
+| Entwicklerfeatures | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E1 | Office 365 Deutschland Enterprise E3 | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Entwicklerfeatures**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |App-Katalog (SharePoint)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |App-Bereitstellung: in der Cloud gehostete Apps|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |App-Bereitstellung: von SharePoint gehostete Apps|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -601,7 +591,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |Konfigurations-Assistenten|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Data loss prevention|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Zurückgestelltes Websitesammlungsupgrade|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Verhinderung von Datenverlust|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
+|Data loss prevention|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
 |Encryption at rest|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Host Header-Websitesammlungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Verbesserte Berechtigungsverwaltung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -818,9 +808,8 @@ In der folgenden Tabelle sind Skype for Business Online-Features aufgeführt, di
 > [!NOTE]
 > In dieser Tabelle ist die Client- und Dienstverfügbarkeit für die verschiedenen Office 365 Deutschland-Optionen aufgeführt. Wenn Sie einzelne Features zwischen den verschiedenen Skype for Business-Desktop Clients, Webclients und mobilen Clients vergleichen möchten, finden Sie weitere Informationen unter [Desktop Client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) und [Mobile Client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables).
 
-|||||||||
+| Feature | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E3 | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |**[Clients für Skype for Business Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)**||||||||
 |Skype for Business|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja|Ja|Nein|
 |Lync 2013 Basic|Ja|Ja|Ja|Ja|Ja|Ja|Nein|

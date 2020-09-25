@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der US Government-Cloud und der kommerziellen Cloud, wie in der Exchange Online-Dienstbeschreibung aufgeführt.
-ms.openlocfilehash: 5081dbdb563a9047fbf6759fc7413584408d56b4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: e13a04ea65a66435c686792cea8cae5de226e2b3
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154413"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261507"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online für Umgebungen in der US-Regierung
 
@@ -37,20 +37,20 @@ Es ist unsere allgemeine Absicht, alle kommerziellen Features und Funktionen von
 
 ## <a name="exchange-online-features"></a>Exchange Online-Features
 
-In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Features in den Umgebungen gcc, gcc High und DoD verfügbar sind. Wenn es Nuancen hinsichtlich der Unterstützungserklärung gibt (oder deren Fehlen), wird zusätzlicher Kontext bereitgestellt.
+In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Features in den Umgebungen gcc, gcc High und DoD verfügbar sind. Wenn es Nuancen hinsichtlich der Unterstützungserklärung gibt (oder deren Fehlen), wird zusätzlicher Kontext bereitgestellt.<br><br>
 
-|**Funktionsbereich**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+| Funktionsbereich | GCC | GCC High | DoD | Wichtige Überlegungen |
 |:-----|:-----|:-----|:-----|:-----|
 |**[Planung und Bereitstellung](../../exchange-online-service-description/planning-and-deployment.md)**|||||
-|Unterstützung für Hybridbereitstellung|Ja|Ja|Ja|Für die Koexistenz mit Exchange Server lokal benötigt Microsoft mindestens einen Exchange Server 2013-Client Zugriffs Server (oder Exchange Server 2016.). Exchange Server 2010 und früher werden nicht unterstützt.|
+|Unterstützung für Hybridbereitstellung|Ja|Ja|Ja|Für die Koexistenz mit Exchange Server lokal erfordert Microsoft mindestens einen Exchange Server 2013 Client Zugriffs Server (oder Exchange Server 2016.) zu installieren. Exchange Server 2010 und früher werden nicht unterstützt.|
 |Unterstützung für IMAP-Migration|Ja|Ja|Ja||
 |Unterstützung für Übernahmemigration|Ja|Ja|Ja||
 |Unterstützung für phasenweise Migration|Ja|Ja|Ja|Die GSuite-Migration wird für gcc High und DoD nicht unterstützt. Weitere Informationen finden Sie unter <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">Durchführen einer GSuite Migration</a>.|
-|**[Berechtigungen](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Berechtigungen](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Rollenbasierte Berechtigungen|Ja|Ja|Ja||
 |Rollengruppen|Ja|Ja|Ja||
 |Rollenzuweisungsrichtlinien|Ja|Ja|Ja||
-|**[Messagingrichtlinie und -einhaltung](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Messagingrichtlinie und -einhaltung](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Archivieren von Exchange Online-basierten Postfächern|Ja|Ja|Ja||
 |Cloudbasierte Archivierung von lokalen Postfächern|Ja|Ja|Ja||
 |Verwaltung von Nachrichtendatensätzen (Messaging Records Management, MRM) |Ja|Ja|Ja||
@@ -58,7 +58,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Verschlüsselung von Daten im Ruhezustand (BitLocker)|Ja|Ja|Ja||
 |IRM mit Azure Information Protection|Ja|Ja|Ja|Weitere Informationen zu den Einschränkungen von AIP in gcc High und DoD finden Sie unter <a href="https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure Information Protection Premium Government Service Description</a>.<br><br>Azure Information Protection ist nicht in G1/F3 enthalten, kann aber als separates Add-on erworben werden und aktiviert die unterstützten IRM-Funktionen (Information Rights Management, Verwaltung von Informationsrechten). Einige Azure Information Protection-Features erfordern ein Abonnement für Office 365 ProPlus, das nicht in Office 365 Government G1 oder Office 365 Government F3 enthalten ist.|
 |IRM mit Windows Server AD RMS|Ja|Ja|Ja|  Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.|
-|Office 365-Nachrichtenverschlüsselung|Ja|Ja|Ja|Weitere Informationen finden Sie unter [Office 365 Nachrichten Verschlüsselungs Verhalten in gcc High/DoD-Grenze](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) in diesem Artikel und <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison?view=o365-worldwide#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">einzigartige Merkmale der Office 365 Nachrichtenverschlüsselung in einer gcc-hoch Bereitstellung</a>, die Verhaltens Nuancen von Office 365 Nachrichtenverschlüsselung beim Senden von Nachrichten zwischen gcc High/DoD-und nicht-gcc-Benutzern mit hoher/DoD-Funktion dokumentiert.|
+|Office 365-Nachrichtenverschlüsselung|Ja|Ja|Ja|Weitere Informationen finden Sie unter [Office 365 Nachrichten Verschlüsselungs Verhalten in gcc High/DoD-Grenze](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) in diesem Artikel und <a href="https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">einzigartige Merkmale der Office 365 Nachrichtenverschlüsselung in einer gcc-hoch Bereitstellung</a>, die Verhaltens Nuancen von Office 365 Nachrichtenverschlüsselung beim Senden von Nachrichten zwischen gcc-High/DoD-und nicht-gcc-Benutzern mit hoher/DoD-Funktion dokumentiert.|
 |Kundenschlüssel|Ja|Ja|Ja|Erfordert G5-Dienstplan.|
 |S/MIME|Ja|Ja|Ja||
 |In-Situ-Speicher und Beweissicherungsverfahren|Ja|Ja|Ja|Erfordert G3-oder G5-Dienstplan.|
@@ -66,7 +66,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Nachrichtenflussregeln|Ja|Ja|Ja||
 |Data loss prevention|Ja|Ja|Ja|Erfordert G3-oder G5-Dienstplan.|
 |Journale|Ja|Ja|Ja||
-|**[Antispam- und Antischadsoftwareschutz](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Antispam- und Antischadsoftwareschutz](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Integrierter Antispamschutz|Ja|Ja|Ja||
 |Customize anti-spam policies|Ja|Ja|Ja||
 |Integrierter Antischadsoftwareschutz|Ja|Ja|Ja||
@@ -74,13 +74,13 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja||
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja||
 |Advanced Threat Protection|Ja|Ja|Ja|Erfordert G5-Service Plan (oder Erwerb von Add-on).<br><br>Anti-Phishing für Benutzer-und Domänen Identitätswechsel und Spoof Intelligence steht in gcc High und DoD noch nicht zur Verfügung.|
-|**[Nachrichtenfluss](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Nachrichtenübermittlung](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja||
 |Secure messaging with a trusted partner|Ja|Ja|Ja||
 |Conditional mail routing|Ja|Ja|Ja||
 |Hinzufügen eines Partners zu einer eingehenden Liste sicherer Adressen|Ja|Ja|Ja||
 |Hybrides E-Mail-Routing|Ja|Ja|Ja||
-|**[Empfänger](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Empfänger](../../exchange-online-service-description/recipients.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Kapazitätswarnungen|Ja|Ja|Ja||
 |Unwichtige Elemente|Ja|Ja|Ja||
 |MailTips|Ja|Ja|Ja||
@@ -100,17 +100,17 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Konferenzraumverwaltung|Ja|Ja|Ja||
 |Abwesenheitsantworten|Ja|Ja|Ja||
 |Internet Kalenderfreigabe|Ja|Nein|Nein|In gcc High funktioniert die Veröffentlichung/Freigabe von Internet Kalendern für eingehende Verbindungen mit Kalendern, die von gcc-hoch Benutzern freigegeben werden, jedoch nicht für gcc-hoch Benutzer, die ausgehende zu einem freigegebenen Kalender außerhalb von gcc High verbinden.<br><br>In DoD – die Internet Kalenderfreigabe wird aufgrund der Anforderung einer eingehenden/ausgehenden Verbindung in dieser Umgebung nicht unterstützt.|
-|**[Berichterstellungsfeatures und Tools zur Problembehandlung](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Berichterstellungsfeatures und Tools zur Problembehandlung](../../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Microsoft 365 Admin Center-Berichte|Ja|Ja|Nein|Berichte sind für DoD nicht verfügbar. Weitere Informationen finden Sie im Abschnitt <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">Plattformfeatures</a> der Office 365 US Government-Dienstbeschreibung für Updates/aktuelle Verfügbarkeit.|
 |Webdienste Berichte|Ja|Ja|Nein|Berichte sind für DoD nicht verfügbar. Weitere Informationen finden Sie im Abschnitt <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">Plattformfeatures</a> der Office 365 US Government-Dienstbeschreibung für Updates/aktuelle Verfügbarkeit.|
 |Message trace|Ja|Ja|Ja||
 |Überwachungsberichte|Ja|Ja|Nein|Berichte sind für DoD nicht verfügbar. Weitere Informationen finden Sie im Abschnitt <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">Plattformfeatures</a> der Office 365 US Government-Dienstbeschreibung für Updates/aktuelle Verfügbarkeit.|
 |Unified Messaging-Berichte|Ja|Nein|Nein||
-|**[Freigabe und Zusammenarbeit](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Freigabe und Zusammenarbeit](../../exchange-online-service-description/sharing-and-collaboration.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Verbundfreigabe (einschließlich Kalenderveröffentlichung)|Ja|Ja|Ja|Einschränkungen bestehen sowohl in gcc High als auch in DoD. Siehe [Frei/Gebucht-Partnerverbund](#freebusy-federation) in diesem Artikel.|
 |Websitepostfächer|Ja|Ja|Ja||
 |Öffentliche Ordner|Ja|Ja|Ja||
-|**[Clients und mobile Geräte](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Clients und mobile Geräte](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Outlook für Windows|Ja|Ja|Ja|Um die Anforderungen an gcc High and DoD Compliance erfüllen zu können, müssen Sie mindestens Version 1803 von Office 365 ProPlus betreiben. Office 365 ProPlus ist nicht mit G1 oder F3 enthalten.|
 |Outlook im Web|Ja|Ja|Ja||
 |Outlook für Mac|Ja|Ja|Ja|Um die Anforderungen an gcc High and DoD Compliance erfüllen zu können, müssen Sie mindestens Version 1803 von Office 365 ProPlus betreiben. Office 365 ProPlus ist nicht mit G1 oder F3 enthalten.|
@@ -120,32 +120,32 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |POP und IMAP|Ja|Ja|Ja||
 |SMTP|Ja|Ja|Ja||
 |Unterstützung für EWS-Anwendungen|Ja|Ja|Ja||
-|**[Sprachnachrichtendienste](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Sprachnachrichtendienste](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Voicemail|Nein|Nein|Nein|Die Integration von lokalen IP-PBX-Systemen mit Exchange Online Unified Messaging wird nicht unterstützt.|
 |Integration von Voicemail und Fax eines Drittanbieters|Nein|Nein|Nein|Die Integration von lokalen IP-PBX-Systemen mit Exchange Online Unified Messaging wird nicht unterstützt.|
 |Interoperabilität von Voicemails eines Drittanbieters|Nein|Nein|Nein|Die Integration von lokalen IP-PBX-Systemen mit Exchange Online Unified Messaging wird nicht unterstützt.|
 |Skype for Business Integration|Ja|Ja|Ja||
-|**[Hohe Verfügbarkeit und Geschäftskontinuität](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Hohe Verfügbarkeit und Geschäftskontinuität](../../exchange-online-service-description/high-availability-and-business-continuity.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Post Fach Replikation in Datencentern|Ja|Ja|Ja||
 |Wiederherstellung gelöschter Postfächer|Ja|Ja|Ja||
 |Wiederherstellung gelöschter Elemente|Ja|Ja|Ja||
 |Wiederherstellung einzelner Elemente|Ja|Ja|Ja||
-|**[Interoperabilität, Konnektivität und Kompatibilität](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Interoperabilität, Konnektivität und Kompatibilität](../../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Anwesenheit in OWA und Outlook|Ja|Ja|Ja||
 |SharePoint-Interoperabilität|Ja|Ja|Ja||
 |Unterstützung für EWS-Konnektivität|Ja|Ja|Ja||
 |Unterstützung für SMTP-Relay|Ja|Ja|Ja||
-|**[Einrichtung und Verwaltung in Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Einrichtung und Verwaltung in Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Zugriff auf das Microsoft Office 365-Portal|Ja|Ja|Nein|Berichte sind für DoD nicht verfügbar. Weitere Informationen finden Sie im Abschnitt <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">Plattformfeatures</a> der Office 365 US Government-Dienstbeschreibung für Updates/aktuelle Verfügbarkeit.|
 |Microsoft 365 Admin Center-Zugriff|Ja|Ja|Nein|Berichte sind für DoD nicht verfügbar. Weitere Informationen finden Sie im Abschnitt <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">Plattformfeatures</a> der Office 365 US Government-Dienstbeschreibung für Updates/aktuelle Verfügbarkeit.|
 |Zugriff auf die Exchange-Verwaltungskonsole|Ja|Ja|Ja||
 |Zugriff auf die remote verwendete Windows PowerShell|Ja|Ja|Ja||
 |ActiveSync-Richtlinien für mobile Geräte|Ja|Ja|Ja||
 |Verwendungsberichte|Ja|Ja|Nein|Berichte sind für DoD nicht verfügbar. Weitere Informationen finden Sie im Abschnitt <a href="https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">Plattformfeatures</a> der Office 365 US Government-Dienstbeschreibung für Updates/aktuelle Verfügbarkeit.|
-|**[Erweitern des Diensts – Anpassung, Add-Ins und Ressourcen](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC hoch**|**DoD**|**Wichtige Überlegungen**|
+|**[Erweitern des Diensts – Anpassung, Add-Ins und Ressourcen](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Outlook-Add-Ins und Outlook-MAPI|Ja|Ja|Ja|Nur einige OWA-und Outlook-Add-Ins sind in gcc High und DoD verfügbar. Weitere Informationen finden Sie unter [Add-Ins in Outlook und Outlook Web App](#add-insin-outlook-and-outlook-web-app) in diesem Artikel.|
 
-## <a name="feature-nuances-within-gcc-high-and-dod-environment"></a>Funktions Nuancen innerhalb der gcc High-und DoD-Umgebung
+## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Funktions Nuancen in gcc High-und DoD-Umgebungen
 
 ### <a name="connectivity-with-third-party-services"></a>Konnektivität mit Drittanbieterdiensten  
 
@@ -153,9 +153,9 @@ Sowohl gcc High-als auch DoD-Umgebungen sind eingeschränkte Umgebungen, die ein
 
 Aufgrund dieser Einschränkungen werden Features, die von dieser ausgehenden Verbindung von den gcc-High/DoD-Umgebungen abhängen, in der Regel nicht unterstützt, einschließlich: 
 
-- Verbundene Konten &mdash; Benutzer können keine Konten hinzufügen/synchronisieren (Google, POP/IMAP usw.). 
+- Verbundene Konten-Benutzer können keine Konten hinzufügen/synchronisieren (Google, POP/IMAP usw.). 
 
-- Unterstützung für Dateispeicher Anbieter von Drittanbietern &mdash; nur das OneDrive for Business-Konto des Benutzers *innerhalb von gcc High/DoD*   kann über die verschiedenen Outlook-Clients in Verbindung mit dem Anfügen/Freigeben von Dateien auf diese zugreifen. Speicherkonten von Drittanbietern (Dropbox, Box, Google Drive) können nicht hinzugefügt werden. 
+- Unterstützung für Dateispeicher Anbieter von Drittanbietern – nur das OneDrive for Business-Konto des Benutzers *innerhalb von gcc High/DoD*   kann über die verschiedenen Outlook-Clients in Verbindung mit dem Anfügen/Freigeben von Dateien aus zugegriffen werden. Speicherkonten von Drittanbietern (Dropbox, Box, Google Drive) können nicht hinzugefügt werden. 
 
 - Konnektivität mit sozialen Netzwerken wie Facebook oder LinkedIn. 
 
@@ -185,7 +185,7 @@ Wenn Sie Office 365 Nachrichtenverschlüsselung in einer gcc-High-Umgebung verwe
     
     - Alle Empfänger außerhalb des GCC High/DoD, einschließlich kommerzieller Office 365 Benutzer, Outlook.com-Benutzer und anderer Benutzer anderer e-Mail-Anbieter, erhalten eine Wrapper-e-Mail. Mit dieser Wrapper-e-Mail wird der Empfänger an das OM-Portal umgeleitet, in dem der Empfänger die Nachricht lesen und beantworten kann. 
 
-Weitere Informationen und die neuesten Updates finden Sie unter [Compare Versionen of OM](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison?view=o365-worldwide).
+Weitere Informationen und die neuesten Updates finden Sie unter [Compare Versionen of OM](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison).
 
 ### <a name="freebusy-federation"></a>Frei/Gebucht-Partnerverbund
 

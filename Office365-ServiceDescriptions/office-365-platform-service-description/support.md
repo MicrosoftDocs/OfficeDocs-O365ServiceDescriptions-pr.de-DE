@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Microsoft365 Admin Center als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter Microsoft Support Options.
-ms.openlocfilehash: efc4153cd928152ff614134f879533277220d331
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Mit jedem Microsoft Office 365 für Unternehmen, Unternehmen, Bildungseinrichtungen und Behörden Abonnements bietet der Microsoft-Support globale technische, Pre-Sales-, Abrechnungs-und Abonnement Unterstützung. Der Support steht sowohl online über das Microsoft365 Admin Center als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter Microsoft Support Options.
+ms.openlocfilehash: b7f4a0fffc903c65a2a51e2267b420c24fdd12b0
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131489"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261567"
 ---
 # <a name="support"></a>Support
 
-Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement stellt der Support von Microsoft globalen technischen Support sowie globalen Support in den Bereichen Presales, Abrechnung und Abonnement bereit. Der Support steht sowohl online über das Microsoft 365 Admin Center als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter [Microsoft Support Options](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+Mit jedem Microsoft Office 365 für Unternehmen, Unternehmen, Bildungseinrichtungen und Behörden Abonnements bietet der Microsoft-Support globale technische, Pre-Sales-, Abrechnungs-und Abonnement Unterstützung. Der Support steht sowohl online über das Microsoft 365 Admin Center als auch per Telefon für kostenpflichtige und Testabonnements zur Verfügung. Weitere Informationen finden Sie unter [Microsoft Support Options](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
 Autorisierte Administratoren können das Microsoft 365 Admin Center verwenden, um Dienstanforderungen online zu übermitteln, auf Support-Telefonnummern zuzugreifen und alle geöffneten und zuletzt geschlossenen Dienstanforderungen anzuzeigen. Im Admin Center übermittelte Dienstanforderungen können bis zu 14 Tage nach dem Schließen der Anforderung erneut geöffnet werden. Weitere Informationen finden Sie unter [Support für Contact Microsoft 365 for Business](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
@@ -56,11 +56,11 @@ Im Folgenden finden Sie einige Beispiele für Fragen im Hinblick auf Abrechnung 
 
 ## <a name="technical-support"></a>Technischer Support
 
-Der technische Support für Microsoft 365-Abonnements bietet Unterstützung bei der grundlegenden Installation, dem Setup und der allgemeinen technischen Nutzung. Einige Beispiele hierzu sind in der folgenden Tabelle aufgeführt.
+Der technische Support für Microsoft 365-Abonnements bietet Unterstützung bei der grundlegenden Installation, dem Setup und der allgemeinen technischen Nutzung. Einige Beispiele hierzu sind in der folgenden Tabelle aufgeführt.<br><br>
   
-|**Supportkategorie**|**Beispiele**|
+| Supportkategorie | Beispiele |
 |:-----|:-----|
-|Installation und Einrichtung  <br/> | Exchange Online:  <br/>  Postfachmigration  <br/>  Empfängerkonfiguration (Postfachberechtigungen, Konfigurieren der E-Mail-Weiterleitung, Konfigurieren des freigegebenen Postfachs)  <br/>  Konfiguration der AutoErmittlung  <br/>  SharePoint Online:  <br/>  Berechtigungen und Benutzergruppen  <br/>  Konfiguration externer Benutzer  <br/>  Skype for Business Online:  <br/>  Installation und Erstellen von Kontakten  <br/>  Microsoft Microsoft 365 Apps für Unternehmen: Installations-und Setup Unterstützung  <br/> |
+|Installation und Einrichtung  <br/> | Exchange Online:  <br/>  Postfachmigration  <br/>  Empfängerkonfiguration (Postfachberechtigungen, Konfigurieren der E-Mail-Weiterleitung, Konfigurieren des freigegebenen Postfachs)  <br/>  Konfiguration der AutoErmittlung  <br/>  SharePoint Online:  <br/>  Berechtigungen und Benutzergruppen  <br/>  Konfiguration externer Benutzer  <br/>  Skype for Business Online:  <br/>  Installation und Erstellen von Kontakten  <br/>  Microsoft 365 Apps für Unternehmen: Installations-und Setup Unterstützung  <br/> |
 |Konfiguration  <br/> | Probleme durch fehlerhafte Dienstkonfiguration  <br/>  Bereitstellungsprobleme  <br/>  Domäneneinrichtung und Redelegierung  <br/>  Probleme bei der Dienstkonfiguration  <br/>  Einmaliges Anmelden (Single Sign-On, SSO)  <br/>  Active Directory-Synchronisierung  <br/> |
 
 > [!NOTE]
@@ -70,9 +70,9 @@ Der technische Support für Microsoft 365-Abonnements bietet Unterstützung bei 
   
 ### <a name="technical-support-case-handling"></a>Fallbearbeitung durch technischen Support
 
-Microsoft weist einem Fall, sobald er geöffnet wird, auf Grundlage der Art von Problem und dessen Folgen für den Kunden einen Schweregrad zu. Beispiele für Arten von Problemen und Schweregrade sind in folgender Tabelle aufgeführt.
+Microsoft weist einem Fall, sobald er geöffnet wird, auf Grundlage der Art von Problem und dessen Folgen für den Kunden einen Schweregrad zu. Beispiele für Arten von Problemen und Schweregrade sind in folgender Tabelle aufgeführt.<br><br>
   
-|**Schweregrad**|**Betrieb und Supportbeschreibung**|**Beispiele**|
+| Schweregrad | Betrieb und Supportbeschreibung | Beispiele |
 |:-----|:-----|:-----|
 |Schweregrad A (Kritisch)  <br/> |Mindestens ein Dienst ist nicht zugänglich oder nicht verwendbar. Das Problem wirkt sich stark auf Produktion, Betrieb oder Bereitstellungsfristen aus, oder es wird sich stark auf Produktion oder Rentabilität auswirken. Mehrere Benutzer oder Dienste sind betroffen.  <br/> | Weit verbreitete Probleme beim Senden oder Empfangen von E-Mail.  <br/>  SharePoint-Website außer Betrieb.  <br/>  Kein Benutzer kann Chatnachrichten senden, an Skype for Business-Besprechungen teilnehmen bzw. solche planen oder Skype for Business-Anrufe tätigen.  <br/> |
 |Schweregrad B (Hoch)  <br/> |Der Dienst kann verwendet werden, aber in eingeschränkter Weise. Das Problem hat mäßige Auswirkungen auf den Betrieb und kann während der Geschäftszeiten behoben werden. Ein einzelner Benutzer, Kunde oder Dienst ist teilweise betroffen.  <br/> | Sendeschaltfläche in Outlook ist verzerrt.  <br/>  Einstellung ist in EAC (Exchange Admin Center) nicht möglich, jedoch in PowerShell möglich.  <br/> |
@@ -80,11 +80,10 @@ Microsoft weist einem Fall, sobald er geöffnet wird, auf Grundlage der Art von 
 
 ### <a name="technical-support-initial-response-times"></a>Erste Antwort durch technischen Support
 
-Die anfängliche Antwortzeit basiert auf den oben beschriebenen Schweregraden und dem Typ des Abonnements. In der folgenden Tabelle sind die angestrebten Antwortzeiten beschrieben.
+Die anfängliche Antwortzeit basiert auf den oben beschriebenen Schweregraden und dem Typ des Abonnements. In der folgenden Tabelle sind die angestrebten Antwortzeiten beschrieben.<br><br>
   
-||||||
+| Schweregrad | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 apps for Business<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup> | Office 365 E1<sup>2</sup><br> Office 365 E3<sup>2</sup><br> Office 365 Regierung G2<sup>2</sup><br> Office 365 US Government E3<sup>2</sup><br> Office 365 für Bildung<sup>2</sup> | Office 365 F1<sup>2</sup><br> Office 365 US Government K1<sup>2</sup> | Erweiterte Supportoptionen<sup>3</sup> |
 |:-----|:-----|:-----|:-----|:-----|
-|**Schweregrad** <br/> |**Microsoft 365 Business Basic<sup>1</sup>** <br/> **Microsoft 365 apps for Business<sup>1</sup>** <br/> **Microsoft 365 Business Standard<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Regierung G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> **Office 365 Education<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Erweiterte Supportoptionen<sup>3</sup>** <br/> |
 | Schweregrad A (Kritisch)  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |
 |Schweregrad B (Hoch)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 2 Stunden  <br/> |
 |Schweregrad C (Mittel)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 4 Stunden  <br/> |
@@ -111,7 +110,7 @@ Microsoft ist sich darüber im Klaren, dass ein zeitnaher technischer Support du
 
 Personen mit Microsoft-Administratorrollen sind die einzigen in der Organisation des Kunden, die autorisiert sind, auf den **Administrator** Bereich des Admin Centers zuzugreifen und direkt mit Microsoft über Dienstanforderungen zu kommunizieren.
   
-Mit Office 365 Enterprise-und Microsoft 365-apps Plan können Sie mehrere Typen von Administratoren festlegen, die unterschiedliche Funktionen bedienen. In dieser Dienstbeschreibung wird die allgemeine Bezeichnung Administrator für alle Typen von Administratoren verwendet. Weitere Informationen zu den verschiedenen Administratorrollen finden Sie im Artikel zum Thema [Zuweisen von Administratorrollen](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Mit Office 365 for Enterprise und Microsoft 365 apps Plan können Sie mehrere Typen von Administratoren festlegen, die unterschiedliche Funktionen bedienen. In dieser Dienstbeschreibung wird die allgemeine Bezeichnung Administrator für alle Typen von Administratoren verwendet. Weitere Informationen zu den verschiedenen Administratorrollen finden Sie im Artikel zum Thema [Zuweisen von Administratorrollen](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 Der Administrator ist
   
@@ -131,7 +130,7 @@ Die Rolle des Administrators umfasst folgende Aufgaben:
 
 - Nutzen der Self-Service-Supportressourcen von Microsoft, um Supportprobleme zu beheben
 
-Vom Administrator wird erwartet, dass er für die Benutzer des Kunden erste Unterstützung leistet. Wenn der Administrator jedoch Probleme mithilfe der Self-Service-Supportressourcen nicht beheben kann, sollte er [Technischer Support](support.md#technical-support) kontaktieren.
+Vom Administrator wird erwartet, dass er für die Benutzer des Kunden erste Unterstützung leistet. Wenn der Administrator Probleme mit Hilfe von Self-Service-Supportressourcen nicht beheben kann, sollte er sich jedoch an den [technischen Support](support.md#technical-support)wenden.
   
 ### <a name="microsoft-support-role"></a>Rolle des Supports von Microsoft
 
@@ -177,11 +176,11 @@ Es stehen mehrere Typen von zusätzlichen Supportservices zur Verfügung:
 
 ### <a name="partners"></a>Partner
 
-Sie können einen Microsoft-Partner auswählen und administrative Funktionen delegieren, u. a. das Erstellen von Tickets für Serviceanfragen. Weitere Informationen finden Sie in der [Partner](partners.md)-Dienstbeschreibung und unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+Sie können einen Microsoft-Partner auswählen und administrative Funktionen delegieren, u. a. das Erstellen von Tickets für Serviceanfragen. Weitere Informationen finden Sie in der [Partner](partners.md)-Dienstbeschreibung und unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/office365/admin/misc/add-partner).
   
 ### <a name="developers"></a>Entwickler
 
-Entwickler können mehr über die Entwicklung von Office-und SharePoint-Anwendungen im [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs)erfahren. Entwicklersupport ist online über Blogs und Foren in der Entwickler-Community, in den Ressourcen des Premier Support und Partnersupports oder direkt über Microsoft verfügbar. Links zu Supportoptionen für Entwickler finden Sie unter [Supportressourcen](https://developer.microsoft.com/office/docs).
+Entwickler können mehr über die Entwicklung von Office-und SharePoint-Anwendungen im [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs)erfahren. Die Entwickler Unterstützung ist über Online Blogs und Foren in der Entwicklercommunity, über Premier-oder Partner Supportressourcen oder direkt über Microsoft verfügbar. Links zu Supportoptionen für Entwickler finden Sie unter [Support Resources](https://developer.microsoft.com/office/docs).
   
 > [!NOTE]
 > Das Microsoft-Team unterstützt keine Skripts (beispielsweise Skripttechniken wie JavaScript, VBScript usw. oder VBA). Wenn Sie Hilfe zu Skripts benötigen, wenden Sie sich an [Microsoft Support](https://support.microsoft.com/). Unterstützung für die Verwendung von Office-Anwendungen finden Sie unter [Supportoptionen für Microsoft Office Anwendungsprobleme für Abonnenten](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).
