@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
-ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962094"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276726"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -22,9 +22,8 @@ Erfahren Sie mehr über die Grenzwerte für Dienste in SharePoint für Microsoft
   
 ## <a name="limits-by-plan"></a>Grenzen nach Plan 
 
-|||||
+| Feature | Microsoft 365 Business Basic, Business Standard oder Business Premium | Microsoft 365 E3 oder E5, Office 365 E1, E3 oder E5 oder SharePoint-Plan 1 oder 2 | Microsoft 365 F1 oder F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Microsoft 365 Business Basic, Business Standard oder Business Premium** <br/> |**Microsoft 365 E3 oder E5, Office 365 Enterprise E1, E3 oder E5 oder SharePoint-Plan 1 oder 2** <br/> | **Microsoft 365 F1 oder F3, Office 365 Enterprise F3** <br/> |
 |Gesamtspeicher pro Organisation<sup>1, 2, 6</sup> <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup>  <br/> |1 TB plus 10 GB pro Lizenz erworben<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Maximaler Speicherplatz pro Website (Websitesammlung)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Websites (Websitesammlungen) pro Organisation  <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<sup>6</sup> <br/> |2 Millionen<br/> |
@@ -36,7 +35,7 @@ Erfahren Sie mehr über die Grenzwerte für Dienste in SharePoint für Microsoft
 <br/> <sup>4</sup> hierbei handelt es sich um die Speicher *Grenze* für einen einzelnen Standort (zuvor als "Websitesammlung" bezeichnet), nicht für den Speicherplatz, der für die einzelnen Standorte *bereitgestellt* wird. Dieser Grenzwert gilt für alle Arten von Websites, einschließlich Office 365 Gruppen verbundenen Teamwebsites und OneDrive. SharePoint-Administratoren können [niedrigere Speichergrenzwerte manuell festlegen](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
 <br/> <sup>5</sup> Mitarbeiter von First-Work können SharePoint-Websites nicht verwalten. 
 <br/> <sup>6</sup> nicht einschließlich der OneDrive, die für jeden lizenzierten Benutzer erstellt wurden. 
-<br/> <sup>7</sup> Wenn Sie über mehr als 500.000 Benutzer verfügen, wenden Sie sich an einen Microsoft-Vertriebsmitarbeiter. 
+<br/> <sup>7</sup> Wenn Sie über mehr als 500.000 Benutzer verfügen, wenden Sie sich an einen Microsoft-Mitarbeiter. 
   
 ## <a name="service-limits-for-all-plans"></a>Dienst Grenzwerte für alle Pläne
 
@@ -49,7 +48,7 @@ Eine Liste kann bis zu 30 Millionen Elemente enthalten, und eine Bibliothek kann
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Eindeutige Berechtigungen für Elemente in einer Liste oder Bibliothek
 
-Der zulässige Grenzwert ist 50.000 eindeutig Berechtigungselemente, aber die empfohlene allgemeine Grenze ist 5.000. Das vornehmen von Änderungen an mehr als 5.000 einmalig berechtigten Elementen gleichzeitig dauert länger. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
+Der zulässige Grenzwert ist 50.000 eindeutig-Berechtigungselemente, aber der empfohlene allgemeine Grenzwert ist 5.000. Das vornehmen von Änderungen an mehr als 5.000 Elementen mit eindeutiger Berechtigung gleichzeitig dauert länger. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
 
 Ein weiterer Grenzwert ist 5.000 Rollenzuweisungen pro eindeutig Berechtigungselement. 
 

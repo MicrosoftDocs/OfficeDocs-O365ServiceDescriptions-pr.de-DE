@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Das über Office 365 bereitgestellte Project Online bietet leistungsstarke Projektverwaltungsfunktionalitäten zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen umgehend zu beginnen, und zwar von nahezu überall auf beinah jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Über Office 365 bereitgestellt, bietet Project Online leistungsstarke Projektmanagementfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolio Investitionen – von fast überall auf nahezu jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
+ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131159"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276798"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -75,7 +75,7 @@ In Zukunft wird Microsoft sich auf Project für die Innovationen im Internet kon
 
 ## <a name="microsoft-project-subscriptions"></a>Microsoft Project-Abonnements
 
-Microsoft Project steht über drei verschiedene Abonnements zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Diese Abonnements sind Projektplan 1, Project Plan 3 und Project Plan 5. Informationen zum Vergleichen von Features für Abonnements finden Sie unter [Feature-Verfügbarkeit für Anwendungen und Abonnements](#feature-availability-across-applications-and-subscriptions).
+Microsoft Project steht über drei verschiedene Abonnements zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Diese Abonnements sind Projektplan 1, Project Plan 3 und Project Plan 5. Informationen zum Vergleichen von Features für Abonnements finden Sie unter [Feature-Verfügbarkeit für Anwendungen und Abonnements](#feature-availability-across-applications-and-subscriptions).<br><br>
 
 |Produkt | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
@@ -89,9 +89,9 @@ In der obigen Tabelle gibt die Anzahl der Prüfungen (**x**) die allgemeine Eben
 
 ### <a name="project-for-the-web-features"></a>Projekt für die Webfunktionen
 
-In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt für den Webdaten Speicher. Alle diese Features stehen in allen Microsoft Project-Abonnements zur Verfügung: Projektplan 1, Project Plan 3 und Project Plan 5.
+In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt für den Webdaten Speicher. Alle diese Features stehen in allen Microsoft Project-Abonnements zur Verfügung: Projektplan 1, Project Plan 3 und Project Plan 5.<br><br>
 
-|Feature | Beschreibung | Office 365 Lizenzen | Plan 1 | Plan 3 | Plan 5|
+| Feature | Beschreibung | Office 365 Lizenzen | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
 |**Projekt-, Aufgaben-und Zeitverwaltung**||||||
 |Kartenansicht | Verfolgen Sie Projektaufgaben visuell für eine verbesserte Workflow-und Statusüberwachung mithilfe von vordefinierten und benutzerdefinierten Task Karten.| Nur Ansicht | Ja | Ja| Ja|
@@ -112,7 +112,7 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt 
 |Benutzerdefinierte Berichte | Grundlegendes zu den Daten, die für Ihre Organisation wichtig sind, indem Sie benutzerdefinierte Berichte basierend auf vordefinierten Berichten oder von Grund auf neu erstellen. | Nein | Ja | Ja | Ja |
 |Dashboards und Portale | Erstellen Sie benutzerdefinierte Dashboards und Portale, um bestimmte organisatorische Anforderungen zu erfüllen.| Nein | Ja | Ja | Ja |
 |**Benutzerfreundlichkeit** ||||||
-|Gemeinsame Dokumentenerstellung | Arbeiten Sie mit Beteiligten und Teammitgliedern zusammen, um Aufgabenlisten, Projektzeitpläne und vieles mehr gleichzeitig zu erstellen, zu bearbeiten und zu aktualisieren.| Nur Ansicht | Ja | Ja | Ja |
+|Gemeinsame Dokumenterstellung | Arbeiten Sie mit Beteiligten und Teammitgliedern zusammen, um Aufgabenlisten, Projektzeitpläne und vieles mehr gleichzeitig zu erstellen, zu bearbeiten und zu aktualisieren.| Nur Ansicht | Ja | Ja | Ja |
 |Grafische Indikatoren | Grundlegendes zu Aufgabenstatus, Zuordnungen und mehr mit grafischen Indikatoren.| Nur Ansicht | Ja | Ja | Ja |
 |**Mobilität** ||||||
 |Mobile Anwendungen | Erstellen Sie benutzerdefinierte Mobile Anwendungen mit PowerApps. <sup>4</sup> |Nein | Nein | Ja | Ja |
@@ -125,7 +125,7 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt 
 
 ### <a name="project-online-features"></a>Project Online-Features
 
-Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Project Online SharePoint-Datenspeicher.
+Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Project Online SharePoint-Datenspeicher.<br><br>
 
 |Feature | Beschreibung | Projekt Plan 3 | Projekt Plan 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -187,7 +187,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung.  | Nein | Ja |
 
-#### <a name="notes"></a>Anmerkungen
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
@@ -201,7 +201,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 
 ### <a name="project-online-desktop-client-features"></a>Project Online-Desktop Clientfeatures
 
-|Feature | Beschreibung |
+| Feature | Beschreibung |
 |--------|-------------|
 |**Projekt-und Aufgabenverwaltung**||
 |Baselines | Legen Sie Projektbasis Pläne fest, um die aktuelle Leistung anhand der Leistung der Vergangenheit zu überwachen. |
@@ -274,9 +274,9 @@ Project für das Internet und Project Online beide haben dieselbe Datensicherung
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Projekt für die webgrenzen und-Einschränkungen
 
-Project für das Internet weist einige Einschränkungen auf, die in der folgenden Tabelle beschrieben werden.
+Project für das Internet weist einige Einschränkungen auf, die in der folgenden Tabelle beschrieben werden.<br><br>
 
-|Entität/Feld | Grenze |
+| Entität/Feld | Grenze |
 |-------------|-------|
 |**Aufgabe** ||
 |Max. Hierarchieebene für Vorgang | 10 Stufen |

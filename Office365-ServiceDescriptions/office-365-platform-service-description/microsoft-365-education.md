@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu den Unterschieden zwischen den Microsoft 365- und Office 365 Education-Plänen finden Sie in diesem Artikel.
-ms.openlocfilehash: 46a5ea8dc2f0cd4c5cec1e7e2aa91473787c09e1
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+description: Erfahren Sie mehr über die Unterschiede zwischen den Schulungsplänen für Microsoft 365 und Office 365.
+ms.openlocfilehash: d0dfabd0269941d9bda4517cc9f22d17f8c4237f
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261557"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276739"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -24,9 +24,9 @@ Microsoft 365 bietet ein vollständiges System, einschließlich Office 365, Wind
   
 ## <a name="services-and-features"></a>Dienste und Features
 
-Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. Die folgende Tabelle enthält die in den jeweiligen Office 365- und Microsoft 365-Plänen verfügbaren Dienste, damit Sie die Lösung wählen können, die Ihren Anforderungen am besten entspricht. Informationen zur ausführlicheren Überprüfung von Diensten und Features finden Sie in der Beschreibung des [Office 365 Education](office-365-education.md) -Diensts.
+Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online und SharePoint Online. Die folgende Tabelle enthält die in den jeweiligen Office 365- und Microsoft 365-Plänen verfügbaren Dienste, damit Sie die Lösung wählen können, die Ihren Anforderungen am besten entspricht. Informationen zur ausführlicheren Überprüfung von Diensten und Features finden Sie in der Beschreibung des [Office 365 Education](office-365-education.md) -Diensts.<br><br>
 
-|**Dienste**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 a3 Student use Benefit**|**Office 365 A5 Student use Benefit**|**Microsoft 365 Education a3 Student use Benefit**|**Microsoft 365 Education A5 Student use Benefit**|
+| Dienst | Office 365 Education A1 | Office 365 Education A3 | Office 365 Education A5 | Microsoft 365 Education A3 | Microsoft 365 Education A5 | Office 365 a3 Student use Benefit | Office 365 A5 Student use Benefit | Microsoft 365 Education a3 Student use Benefit | Microsoft 365 Education A5 Student use Benefit |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 Plattform|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Office für das Web|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -49,7 +49,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |Minecraft Education Edition mit Code-Generator|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Ja|Ja|
 |Prüfungs-App|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Nein|Nein|
 |Prüfungs-App einrichten|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Nein|Nein|
-|"**Sprach Videos und Besprechungen**"|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A56**|**Office 365 a3 Student use Benefit**|**Office 365 A5 Student use Benefit**|**Microsoft 365 Education a3 Student use Benefit**|**Microsoft 365 Education A5 Student use Benefit**|
+|**Sprach Videos und Besprechungen**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A56**|**Office 365 a3 Student use Benefit**|**Office 365 A5 Student use Benefit**|**Microsoft 365 Education a3 Student use Benefit**|**Microsoft 365 Education A5 Student use Benefit**|
 |Skype-Livekonferenz|Nein|Ja|Ja|Ja|Ja|Nein|Nein|Nein|Nein|
 |Microsoft Bookings|Nein|Ja|Ja|Ja|Ja|Nein|Nein|Nein|Nein|
 |Office 365-Audiokonferenzen|Nein|Nein|Ja|Nein|Ja|Nein|Nein|Nein|Nein|
@@ -58,14 +58,14 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |Delve|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Power BI Pro|Nein|Nein|Ja|Nein|Ja|Nein|Nein|Nein|Nein|
 |My Analytics|Nein|Nein|Ja|Nein|Ja|Nein|Nein|Nein|Nein|
-|**Azure Active Directory11**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 a3 Student use Benefit**|**Office 365 A5 Student use Benefit**|**Microsoft 365 Education a3 Student use Benefit**|**Microsoft 365 Education A5 Student use Benefit**|
+|**Azure Active Directory <sup> 11<sup>**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 a3 Student use Benefit**|**Office 365 A5 Student use Benefit**|**Microsoft 365 Education a3 Student use Benefit**|**Microsoft 365 Education A5 Student use Benefit**|
 |Azure Active Directory Basic|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Azure Active Directory-Plan 1|Nein|Nein|Nein|Ja|Nein|Nein|Nein|Ja|Ja|
 |Azure Active Directory-Plan 2|Nein|Nein|Nein|Nein|Ja|Nein|Nein|Nein|Ja|
 |**Compliance**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 a3 Student use Benefit**|**Office 365 A5 Student use Benefit**|**Microsoft 365 Education a3 Student use Benefit**|**Microsoft 365 Education A5 Student use Benefit**|
 |Office 365 Rights Management|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Azure Information Protection-Plan 17|Nein|Nein|Nein|Ja|Nein|Nein|Nein|Nein|Nein|
-|Azure Information Protection-Plan 27|Nein|Nein|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
+|Azure Information Protection-Plan <sup> 17<sup>|Nein|Nein|Nein|Ja|Nein|Nein|Nein|Nein|Nein|
+|Azure Information Protection-Plan <sup> 27<sup>|Nein|Nein|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
 |Beweissicherungsverfahren|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |eDiscovery-Suche|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |eDiscovery-Export|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -78,7 +78,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |Office 365 Advanced Threat Protection Plan 2|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|Ja|
 |School Data Sync|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Security Management|Nein|Ja|Ja|Ja|Ja|Nein|Nein|Nein|Nein|
-|Intune for Education8|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Ja|Ja|
+|Intune for Education<sup>8<sup>|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Ja|Ja|
 |Advanced Threat Analytics|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Ja|Ja|
 |Windows Defender Antivirus|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Nein|Nein|
 |Device Guard|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Nein|Nein|
@@ -88,9 +88,9 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |Cloud-App-Sicherheit|Nein|Nein|Nein|Nein|Ja|Ja|Ja|Ja|Ja|
 |Microsoft Defender Advanced Threat Protection|Nein|Nein|Nein|Nein|Yes13|Nein|Nein|Nein|Nein|
 |**Server-und Cal-Vorteile**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 a3 Student use Benefit**|**Office 365 A5 Student use Benefit**|**Microsoft 365 Education a3 Student use Benefit**|**Microsoft 365 Education A5 Student use Benefit**|
-|Exchange9|Nein|Nein|Nein|Yes10|Ja|Nein|Nein|Nein|Nein|
-|SharePoint9|Nein|Nein|Nein|Yes10|Ja|Nein|Nein|Nein|Nein|
-|Skype for Business9|Nein|Nein|Nein|Yes10|Ja|Nein|Nein|Nein|Nein|
+|Exchange <sup> 9<sup>|Nein|Nein|Nein|Yes10|Ja|Nein|Nein|Nein|Nein|
+|SharePoint <sup> 9<sup>|Nein|Nein|Nein|Yes10|Ja|Nein|Nein|Nein|Nein|
+|Skype for Business<sup>9<sup>|Nein|Nein|Nein|Yes10|Ja|Nein|Nein|Nein|Nein|
 |Windows Server-CAL|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Nein|Nein|
 |Microsoft Endpoint Configuration Manager|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Nein|Nein|
 |System Center Endpoint Protection|Nein|Nein|Nein|Ja|Ja|Nein|Nein|Nein|Nein|

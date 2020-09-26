@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: Die Grenzwerte in Skype for Business Online fallen in die folgenden Kategorien.
-ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: In diesem Artikel werden die Grenzwerte beschrieben, die in Skype for Business Online erzwungen werden.
+ms.openlocfilehash: 8a12d55db211dadfe9f86ace39f091b003985530
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131019"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276716"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -36,18 +36,16 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 > Die Beschränkungen, die auf eine Microsoft 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
   
 ## <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte
-<a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **Grenzwert für Dateiübertragung** Die maximale Größe einer Datei, die bei einer Skype for Business Online-Chatunterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **Datei Übertragungslimit** : die maximale Größe einer Datei, die in einer Skype for Business Online Chat Unterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
-- **Beschränkung der Anzahl von als Registerkarten geöffneten Unterhaltungen** Die maximale Anzahl der Unterhaltungsregisterkarten, die ein Skype for Business-Benutzer gleichzeitig öffnen kann 
+- **Limit für Registerkarten-Unterhaltungen öffnen** : die maximale Anzahl von Unterhaltungs Registerkarten, die ein Skype for Business Benutzer gleichzeitig öffnen kann. 
     
 ### <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte 
 
-||||||||
+| Feature | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
-|Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Nicht zutreffend  <br/> |
+|Die Obergrenze für übertragene Datei  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Nicht zutreffend  <br/> |
 |Konversations Grenzwert<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Nicht zutreffend  <br/> |
    
@@ -56,10 +54,9 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Peer-to-Peer-Grenzwerte für Standalone-Optionen
 
-|||||
+| Feature | Skype for Business Server 2015 | Skype for Business Online eigenständiger Plan &nbsp; 1 | Skype for Business Online eigenständiger Plan &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
-|Die Obergrenze für übertragene Datei  <br/> |Keine Begrenzung  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |
+|Die Obergrenze für übertragene Datei  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |
 |Konversations Grenzwert<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
@@ -68,23 +65,22 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
   
 ## <a name="meeting-limits"></a>Meeting-Grenzwerte
 
-- **Grenzwert bei Dateiuploads** Die maximale Größe der Dateien, die zu einer Skype for Business-Besprechung hochgeladen werden können, einschließlich Handzetteln und PowerPoint-Präsentationen. 
+- **Limit für Dateiuploads** : die maximale Größe der Dateien, die in eine Skype for Business Besprechung hochgeladen werden können, einschließlich Handzetteln und PowerPoint-Präsentationen. 
     
-- **Teilnehmer an einer Skype for Business-Besprechung** Die maximale Anzahl von Teilnehmern (einschließlich des Referenten), die einer einzelnen Skype for Business-Besprechung beitreten können. 
+- **Teilnehmer an einer Skype for Business Besprechung** – die maximale Anzahl von Teilnehmern (einschließlich des Referenten), die an einer einzelnen Skype for Business Besprechung teilnehmen können. 
     
-- **Referenten einer Skype for Business-Besprechung** Die maximale Anzahl von Referenten bei einer einzelnen Skype for Business-Besprechung. 
+- **Referenten in einer Skype for Business Besprechung** – die maximale Anzahl von Referenten in einer einzelnen Skype for Business Besprechung. 
     
-- **Skype for Business Web App-Besprechungsteilnehmer** Die maximale Anzahl von Skype for Business Web App-Besprechungsteilnehmern, die einer Besprechung beitreten können. 
+- **Skype for Business-Webanwendungs-Besprechungsteilnehmer** : die maximale Anzahl von Skype for Business-Webanwendungs-Besprechungsteilnehmern, die einer Besprechung beitreten können. 
     
-- Anonyme **Skype for Business Web App-Teilnehmer** Die maximale Anzahl von anonymen Skype for Business Web App-Besprechungsteilnehmern, die einer Besprechung anonym beitreten können. 
+- **Anonyme Teilnehmer Skype for Business Webanwendung** : die maximale Anzahl von Skype for Business-Webanwendungs-Besprechungsteilnehmern, die anonym an einer Besprechung teilnehmen können. 
     
-- **Gäste, die per Telefon beitreten** Die maximale Anzahl von Gästen, die per Telefon einer Besprechung beitreten können. 
+- **Gäste, die per Telefon beitreten** – die maximale Anzahl von Gästen, die sich bei einer Besprechung einwählen können. 
     
 ### <a name="meeting-limits"></a>Meeting-Grenzwerte
 
-||||||||
+| Feature | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |Nicht zutreffend  <br/> |
 |Teilnehmer an einer Skype for Business-Besprechung<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
 |Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
@@ -98,9 +94,8 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
   
 ### <a name="meeting-limits-across-standalone-options"></a>Besprechungsgrenzwerte bei Optionen für eigenständige Pläne
 
-|||||
+| Feature | Skype for Business Server 2015 | Skype for Business Online eigenständiger Plan &nbsp; 1 | Skype for Business Online eigenständiger Plan &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
-|**Feature** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |Nicht zutreffend  <br/> |500 MB  <br/> |
 |Teilnehmer an einer Skype for Business-Besprechung  <br/> |250  <br/> |Nicht zutreffend  <br/> |250  <br/> |
 |Referenten einer Skype for Business-Besprechung  <br/> |250  <br/> |Nicht zutreffend  <br/> |250  <br/> |
@@ -111,18 +106,17 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
    
 ## <a name="meeting-retention-limits"></a>Besprechungsaufbewahrungsgrenzwerte
 
-- **Beibehaltungsdauer für Besprechungsinhalt** Die Dauer, nach der die letzte Person eine Besprechung verlassen hat, die der gesamte hochgeladene Inhalt in Skype for Business beibehalten wird, bevor er dauerhaft gelöscht wird. 
+- **Aufbewahrungszeitraum für Besprechungsinhalte** – die Zeitspanne, nach der die letzte Person eine Besprechung verlässt, dass hochgeladene Besprechungsinhalte in Skype for Business aufbewahrt werden, bevor Sie endgültig gelöscht werden. 
     
-- **Besprechungsablaufzeitraum** Die Dauer nach dem Ende einer Besprechung, in der Benutzer auf die Besprechung zugreifen können. 
+- **Besprechungs Ablaufzeitraum** – die Zeitspanne nach Beendigung einer Besprechung, auf die Benutzer auf die Besprechung zugreifen können. 
     
 ### <a name="meeting-retention-limits-across-plans"></a>Treffen von Aufbewahrungs Grenzwerten in allen Plänen
 
 > [!NOTE]
 > Jede Person kann in der Datenbank jederzeit über maximal 1000 Konferenzen verfügen. 
   
-||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Besprechungstyp** <br/> |**Beschreibung** <br/> 
+| Besprechungstyp | Beschreibung |
+|:-----|:-----|
 |Einmalige Besprechung| Auf Besprechungen kann mindestens bis 14 Tage nach dem geplanten Zeitpunkt oder der letzten Aktivierung der Besprechung oder der letzten Besprechungsaktualisierung zugegriffen werden, je nachdem, welche Uhrzeit aktuell ist.
 |Besprechungsserie mit Enddatum| Auf Besprechungen kann mindestens bis 14 Tage nach der geplanten Endzeit des letzten Besprechungstermins oder der letzten Besprechungs Aktivierung oder Aktualisierung der letzten Besprechung zugegriffen werden, je nachdem, welche Uhrzeit spätestens aktuell ist.
 |Wiederkehrende Besprechung ohne Enddatum| Auf die Besprechung kann immer zugegriffen werden, vorausgesetzt, es gibt neue Konferenz Beitritt (Aktivierungen) oder Zeitplanaktualisierungen mindestens einmal pro Jahr.

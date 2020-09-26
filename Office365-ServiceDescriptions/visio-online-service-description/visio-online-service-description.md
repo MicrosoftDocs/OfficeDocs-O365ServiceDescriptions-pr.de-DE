@@ -8,29 +8,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben.
-ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Vergleichen Sie die Funktionen in Visio für das Internet mit der Visio-Desktop-App.
+ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131949"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276666"
 ---
 # <a name="visio-for-the-web-service-description"></a>Visio für das Web – Dienstbeschreibung
 
 Mit Visio für das Internet können Sie Visio-Diagramme im Internet anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, beispielsweise das darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formen Sätzen zu erstellen. Visio für die Webbenutzer können anzeigen und zusammenarbeiten, indem Sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive für Unternehmen Online hochgeladen wurden.
   
-Weitere Informationen und erste Schritte finden Sie unter [Visio Plan 1](https://products.office.com/en-US/visio/visio-online).
+Weitere Informationen und erste Schritte finden Sie unter [Visio Plan 1](https://products.office.com/visio/visio-online).
   
 Hilfe bei der Verwendung von Visio für das Internet finden Sie unter [Visio Help & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Verfügbarkeit und Vergleich von Features
 
-In der folgenden Tabelle werden Visio für die Funktionen des WebFeatures mit den funktionsreichen Visio-Desktop Apps verglichen. Verwenden Sie die Tabelle, um zu ermitteln, welche Features in Visio für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie stellen möglicherweise fest, dass einige Personen in Ihrer Organisation die erweiterten Funktionen der Visio-Desktop-App benötigen, während andere nur Visio-Diagramme mit Visio für das Internet anzeigen und leicht bearbeiten müssen. 
+In der folgenden Tabelle werden Visio für die Funktionen des WebFeatures mit der funktionsreichen Visio-Desktop-App verglichen. Verwenden Sie die Tabelle, um zu ermitteln, welche Features in Visio für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie stellen möglicherweise fest, dass einige Personen in Ihrer Organisation die erweiterten Funktionen der Visio-Desktop-App benötigen, während andere nur Visio-Diagramme mit Visio für das Internet anzeigen und leicht bearbeiten müssen.<br><br> 
   
-||||
+| Anwendungsfeature | Visio für das Web | Visio-Desktop-App |
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**Visio für das Web** <br/> |**Visio-Desktop-App** <br/> |
 |[Anwenden umfangreicher Formatierung auf Text und Shapes](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Ja  <br/> |Ja  <br/> |
 |[Anordnen von Objekten](visio-online.md#arrange-objects) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen von Mashup-Lösungen](visio-online.md#build-mashup-solutions) <br/> |Ja  <br/> |Ja  <br/> |
@@ -66,9 +65,8 @@ In der folgenden Tabelle werden Visio für die Funktionen des WebFeatures mit de
   
 ## <a name="supported-file-types-in-visio-for-the-web"></a>Unterstützte Dateitypen in Visio für das Internet
 
-||||
+| In Visio 2010 oder höher erstelltes Visio-Diagramm | Ansichtsmodus | Bearbeitungsmodus |
 |:-----|:-----|:-----|
-|**In Visio 2010 oder höher erstellte Visio-Diagramme** <br/> |**Ansichtsmodus** <br/> |**Bearbeitungsmodus** <br/> |
 |Open XML (.vsdx)  <br/> |Ja  <br/> |Nein  <br/> |
 |Binär (.vsd)  <br/> |Ja  <br/> |Nein  <br/> |
 |Makro (.vsdm)  <br/> |Ja  <br/> |Nein  <br/> |

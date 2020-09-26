@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Internet (ehemals Office-Webanwendungen) öffnet Word-, Excel-, OneNote-und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von einem beliebigen Standort aus mit einer Internetverbindung von nahezu jedem Gerät aus. Microsoft 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616921"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276784"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
@@ -36,9 +36,8 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
   
 ### <a name="word"></a>Word
 
-||||
+| Anwendungsfeatures | Word für das Web | Word-Desktop-App |
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**Word für das Web** <br/> |**Word-Desktop-App** <br/> |
 |[Hilfslinien und Echtzeitlayout](word-online.md#alignment-guides-and-live-layout) <br/> |Nein  <br/> |Ja  <br/> |
 |[Anwenden von Formatvorlagen](word-online.md#apply-styles) <br/> |Ja  <br/> |Ja  <br/> |
 |[Automatisches Speichern](word-online.md#autosave) <br/> |Ja  <br/> |Ja  <br/> |
@@ -112,9 +111,8 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
   
 ### <a name="excel"></a>Excel
 
-||||
+| Anwendungsfeatures | Excel für das Web | Excel-Desktop-App |
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**Excel für das Web** <br/> |**Excel-Desktop-App** <br/> |
 |[Barrierefreiheitsprüfung](excel-online.md#add-hyperlinks) <br/> |Ja  <br/> |Ja  <br/> |
 |[Hinzufügen von Hintergrundfarbe zu Blattregisterkarten](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Ja  <br/> |Ja  <br/> |
 |[Hinzufügen von Links](excel-online.md#add-hyperlinks) <br/> |Ja  <br/> |Ja  <br/> |
@@ -197,9 +195,8 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| Anwendungsfeatures | OneNote für das Web | OneNote-Desktop-App |
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**OneNote für das Web** <br/> |**OneNote-Desktop-App** <br/> |
 |[Erweiterte Zusammenarbeit: Neuer Inhalt wird als ungelesen angezeigt, Anwesenheit](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |Nein  <br/> |Ja  <br/> |
 |[Anwenden von Tags](onenote-online.md#apply-tags) <br/> |Ja  <br/> |Ja  <br/> |
 |[Aufzählungszeichen und Nummerierung](onenote-online.md#bullets-and-numbering) <br/> |Ja  <br/> |Ja  <br/> |
@@ -219,7 +216,7 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
 |[Freihand: Freihand-in-Text und Mathe, anpassbare Stifte, Zeichentools](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |Nein  <br/> |Ja  <br/> |
 |[Anzeigen von Freihandobjekten](onenote-online.md#ink-viewing) <br/> |Ja  <br/> |Ja  <br/> |
 |[Navigation](onenote-online.md#navigation) <br/> |Ja  <br/> |Ja  <br/> |
-|[Notizbuchverwaltung: Abschnitt-/notizbuchübergreifende Seitenablage, Neuordnung von Abschnitten, Erstellen/Löschen von Abschnittsgruppen](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |
+|[Notebook-Verwaltung: Querschnitt/Notizbuch-Seitenablage, Abschnitts Reihenfolge, Erstellen/Löschen von Abschnittsgruppen](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |
 |[Office-Add-Ins](onenote-online.md#office-add-ins) <br/> |Ja<sup>2</sup> <br/> |Ja  <br/> |
 |[Outlook-Integration (Aufgaben)](onenote-online.md#outlook-integration-tasks) <br/> |Nein  <br/> |Ja  <br/> |
 |[Absatzformatierung](onenote-online.md#paragraph-formatting) <br/> |Ja  <br/> |Ja  <br/> |
@@ -246,9 +243,8 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| Anwendungsfeatures | PowerPoint für das Web | PowerPoint-Desktop-App |
 |:-----|:-----|:-----|
-|**Anwendungsfeatures** <br/> |**PowerPoint für das Web** <br/> |**PowerPoint-Desktop-App** <br/> |
 |[Ausrichtung, Aufzählungszeichen, Nummerierung](powerpoint-online.md#alignment-bullets-numbers) <br/> |Ja  <br/> |Ja  <br/> |
 |[Anwenden einfacher Übergänge und Animationen](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |
 |[Anwenden umfangreicher Formatierung auf Text, Formen und Bilder](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Nein  <br/> |Ja  <br/> |
@@ -297,14 +293,13 @@ Benötigen Sie Hilfe, um herauszufinden, welche Office-Lösung für Ihre Organis
 ><sup>1</sup> PowerPoint für das Internet unterstützt eine Galerie mit acht Übergängen und 37 Animationen. Für eine größere Auswahl oder zum Erstellen benutzerdefinierter Animationen verwenden Sie die PowerPoint-Desktop-App. 
  <br/>
 <sup>2</sup> Das Gerät, auf dem Sie arbeiten, muss Freihandobjekte unterstützen. <br/> 
-<sup>3</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. <br/>
+<sup>3</sup> einige, jedoch nicht alle Office-Add-Ins stehen zur Verfügung. <br/>
 <sup>4</sup> Sie können keine PivotCharts oder PivotTables erstellen, diese aber im Viewer anzeigen. 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Unterstützte Dateitypen für Office für das Internet
 
-||||
+| In Word 2.0 oder höher erstellte Word-Dokumente | Ansichtsmodus | Bearbeitungsmodus |
 |:-----|:-----|:-----|
-|**In Word 2.0 oder höher erstellte Word-Dokumente** <br/> |**Ansichtsmodus** <br/> |**Bearbeitungsmodus** <br/> |
 |Open XML (DOCX)  <br/> |Ja  <br/> |Ja  <br/> |
 |Binär (DOC)  <br/> |Ja  <br/> |Konvertiert in .docx  <br/> |
 |Makro (DOCM)  <br/> |Ja<sup>1</sup> <br/> |Ja<sup>1</sup> <br/> |

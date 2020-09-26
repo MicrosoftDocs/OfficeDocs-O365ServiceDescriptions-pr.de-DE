@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245730"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284987"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -118,7 +118,7 @@ Informationen zum Konfigurieren des Diensts finden Sie unter [Basic Setup for Cl
 
 Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie auf bestimmte apps zugegriffen wird, und um Benutzergruppen zu begrenzen, die von Office 365 Cloud-App-Sicherheit überwacht werden. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App-Sicherheit
 
 Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet und Ihnen die Steuerung der Datenübertragung &mdash; über eine Cloud-App ermöglicht.
 
@@ -164,7 +164,7 @@ Im folgenden werden die Vorteile für die Benutzer des Compliance-Manager-Dienst
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Kunden mit Office 365 E1/a1/E3/a3-und Microsoft 365 E3/A3-Lizenzen können auf die Datenschutz-Basisbewertung zugreifen. Kunden mit Office 365 E5/a5-und Microsoft 365 E5/A5-Lizenzen können vordefinierte Bewertungen für den Zugriff auf Datenschutz Basis, dsgvo, NIST 800-53 und ISO 22701 erhalten. Premium Assessments können für Office 365 E5/a5-und Microsoft 365 E5/A5-Kunden erworben werden.
+Kunden mit Office 365 E1/a1/E3/a3-und Microsoft 365 E3/A3-Lizenzen können auf die Datenschutz-Basisbewertung zugreifen. Kunden mit Office 365 E5/a5-und Microsoft 365 E5/A5-Lizenzen können vordefinierte Bewertungen für den Zugriff auf Datenschutz Basis, dsgvo, NIST 800-53 und ISO 22701 erhalten. Kunden benötigen mindestens eine Office 365 E5/A5-oder Microsoft 365 E5/A5-Lizenz, um das benutzerdefinierte Bewertungsfeature verwenden zu können. Premium Assessments können für Office 365 E5/a5-und Microsoft 365 E5/A5-Kunden erworben werden.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -211,7 +211,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 > [!NOTE]
 > Power BI ist in Microsoft 365 E5/A5/G5 enthalten; in allen anderen Plänen muss Power BI separat lizenziert werden.
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 und AIP Plan 2 bieten die Rechte für einen Benutzer, der von der automatischen Sensitivitäts Kennzeichnung profitiert.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Konformität, Microsoft 365 Information Protection und Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 und AIP Plan 2 bieten die Rechte für einen Benutzer, der von der automatischen Sensitivitäts Kennzeichnung profitiert.
 
 Spezifische Rechte nach Lizenz finden Sie im ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Enthält keine Rechte für die automatische Klassifizierung basierend auf dem maschinellen lernen (Lernende Klassifizierungen).
 
@@ -247,7 +247,7 @@ Microsoft 365 E5/A5/E3/a3 und Office 365 E5/A5/E3/A3 stellen die Rechte für ein
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance, Office 365 E5/a5 und Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von der automatischen Verwendung von Aufbewahrungs Bezeichnungen oder Richtlinien profitieren zu können. das Anwenden von standardmäßigen Aufbewahrungs Bezeichnungen oder Richtlinien, das Starten des Aufbewahrungszeitraums einer Aufbewahrungs Bezeichnung basierend auf einem benutzerdefinierten Ereignis, das Auslösen einer manuellen Dispositions Überprüfung am Ende des Aufbewahrungszeitraums, das Importieren von drittanbieterdaten über systemeigene Daten Konnektoren, das Deklarieren einer Datei als Datensatz, das Erkennen von beschriftetem Inhalt und das Überwachen von Beschriftungs Aktivitäten
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs Bezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365-Informationsschutz und Steuerung bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs Bezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
 Spezifische Rechte nach Lizenz finden Sie im ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ Die Datensatzverwaltung unterstützt Organisationen bei der Erfüllung ihrer ges
 
 Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365 Information Protection and Governance, Office 365 E5/A5, Office 365 Advanced Compliance bieten die Rechte für einen Benutzer, von der Datensatzverwaltung zu profitieren, einschließlich Deklarieren von Elementen als Datensätze, automatisches Anwenden von Aufbewahrungs-oder Daten Satzbezeichnungen und Ausführen der Prozesse zur Dispositions Überprüfung (ohne automatisches Anwenden einer Aufbewahrungs Bezeichnung
 
-Microsoft 365 E5/A5, Microsoft 365 E5/A5 Compliance, Microsoft 365 Information Protection and Governance bieten den Benutzern die Rechte, von der automatischen Beibehaltung von Aufbewahrungs-oder Daten Satzbezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
+Microsoft 365 E5/A5, Microsoft 365 E5/A5-Konformität, Microsoft 365-Informationsschutz und Steuerung bieten Benutzern die Rechte, von der automatischen Aufbewahrung oder von Daten Satzbezeichnungen basierend auf Schulungs Klassifizierern profitieren zu können.
 
 Spezifische Rechte nach Lizenz finden Sie im ausführlichen Microsoft 365-Kompatibilitäts Lizenzierungs Vergleich. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -567,7 +567,7 @@ Administratoren und Compliance-Experten erstellen Kommunikationsrichtlinien für
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren wählen bestimmte Benutzer oder Gruppen aus, die in eine Kommunikations Konformitätsrichtlinie eingeschlossen werden sollen. Bei der Auswahl einer Gruppe können Sie auch bestimmte Benutzer in der Gruppe auswählen, die von der Kommunikations Konformitätsrichtlinie ausgeschlossen werden sollen. Weitere Informationen zur Kommunikation Compliance Policies finden Sie unter [Communication Compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Administratoren wählen bestimmte Benutzer oder Gruppen aus, die in eine Kommunikations Konformitätsrichtlinie eingeschlossen werden sollen. Bei der Auswahl einer Gruppe können Sie auch bestimmte Benutzer in der Gruppe auswählen, die von der Kommunikations Konformitätsrichtlinie ausgeschlossen werden sollen. Weitere Informationen zu Compliance-Richtlinien für die Kommunikation finden Sie unter [Communication Compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
 ## <a name="insider-risk-management"></a>Insider-Risikomanagement
 
