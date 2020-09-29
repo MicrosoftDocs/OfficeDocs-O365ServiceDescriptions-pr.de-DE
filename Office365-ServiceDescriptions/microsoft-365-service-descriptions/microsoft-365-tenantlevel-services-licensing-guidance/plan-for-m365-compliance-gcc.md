@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in den US-Bundesländern, Staaten, lokalen, Stammes-oder Gebietskörperschaften oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government-gcc geeignet ist, diese Anforderungen zu erfüllen.
-ms.openlocfilehash: af09151b0ab1060c5a00c60d0b05bbd69c3300c0
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962134"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293871"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Plan for Microsoft 365 Compliance – gcc
 
@@ -22,7 +22,7 @@ Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 36
 > [!NOTE]
 > Wenn Ihre Organisation bereits die Microsoft 365 Government-gcc-Zulassungsvoraussetzungen erfüllt und in das Programm übernommen und akzeptiert wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Schritt 1: Ermitteln, ob Ihre Organisation Microsoft 365 Government-gcc benötigt und die Zulassungsvoraussetzungen erfüllt
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Schritt 1. Ermitteln, ob Ihre Organisation Microsoft 365 Government-gcc benötigt und die Zulassungsvoraussetzungen erfüllt
 
 Die Microsoft 365 Government-gcc-Umgebung erfüllt die US-behördlichen Anforderungen für Cloud-Dienste, einschließlich FedRAMP moderat, und Anforderungen für Strafjustiz und Eidgenössische Steuer Informationssysteme (CJI-und FTI-Datentypen).
 
@@ -62,9 +62,9 @@ Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherhei
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Schritt 4: Grundlegendes zu den derzeit nicht verfügbaren oder deaktivierten Funktionen in Microsoft 365 Government – gcc<sup>1</sup>
 
-Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es einige Unterschiede zwischen Microsoft 365 Government-gcc und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features.
+Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es einige Unterschiede zwischen Microsoft 365 Government-gcc und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features.<br><br>
 
-|                                         | **Feature**                                     | **GCC-Status**         |
+| Bereich | Feature | GCC-Status |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Schutz von Daten**              | Einheitliche Beschriftungs-und Vertraulichkeits Bezeichnungen         | Available              |
 |                                         | Container Beschriftungen für SharePoint Online, Office-Gruppen          | Rollout              |
@@ -126,7 +126,7 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien) eskalieren zur Untersuchung für Advanced eDiscovery | Rollout |
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien) erkennen von Inhalten für Erwachsene | Rollout |
 |                                         | Informationsbarrieren | Im Entwicklungsrückstand |
-|                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
+|                                         | Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
 | **Antworten auf & ermitteln**                  | Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
 |                                         | Zentrale eDiscovery: Fallverwaltung                                 | Available              |
 |                                         | Zentrale eDiscovery: Suche                                          | Available              |

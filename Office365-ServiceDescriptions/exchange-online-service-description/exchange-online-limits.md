@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214344"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293791"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -239,7 +239,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 
 Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 
-- **Grenzwert für Nachrichtengröße**: Beschränkungen der Nachrichtengröße sind erforderlich, um zu verhindern, dass große Nachrichten die Zustellung anderer Nachrichten blockieren und die Dienstleistung für alle Benutzer beeinträchtigen. Diese Beschränkungen umfassen auch Anlagen, und sie gelten organisationsweit für alle Nachrichten (eingehende, ausgehende und interne). Nachrichten, die größer sind, werden nicht zugestellt, und der Absender erhält einen Unzustellbarkeitsbericht. Während die Grenzwerte für die Nachrichtengröße nicht nach oben oder unten oder für die einzelnen Benutzer geändert werden können, können Administratoren auch Transportregeln einrichten, um die maximale Größe einzelner Anlagen zu beschränken. Weitere Informationen finden Sie unter [Microsoft unterstützt größere e-Mail-Nachrichten](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Grenzwert für Nachrichtengröße**: Beschränkungen der Nachrichtengröße sind erforderlich, um zu verhindern, dass große Nachrichten die Zustellung anderer Nachrichten blockieren und die Dienstleistung für alle Benutzer beeinträchtigen. Diese Beschränkungen umfassen auch Anlagen, und sie gelten organisationsweit für alle Nachrichten (eingehende, ausgehende und interne). Nachrichten, die größer sind, werden nicht zugestellt, und der Absender erhält einen Unzustellbarkeitsbericht. Während die Grenzwerte für die Nachrichtengröße nicht nach oben oder unten oder für die einzelnen Benutzer geändert werden können, können Administratoren auch Transportregeln einrichten, um die maximale Größe einzelner Anlagen zu beschränken. Weitere Informationen finden Sie unter [Microsoft unterstützt größere e-Mail-Nachrichten](https://go.microsoft.com/fwlink/?linkid=2144144).
 
     > [!NOTE]
     > Einige e-Mail-Clients haben möglicherweise niedrigere Grenzwerte für die Nachrichtengröße oder können die Größe einer einzelnen Dateianlage auf einen Wert beschränken, der kleiner ist als der Grenzwert für die Nachrichtengröße Exchange Online.
@@ -280,7 +280,7 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 |Grenzwert für die Tiefe der Nachrichteneinbettung|30 eingebettete Nachrichten|30 eingebettete Nachrichten|30 eingebettete Nachrichten|30 eingebettete Nachrichten|30 eingebettete Nachrichten|30 eingebettete Nachrichten|
 
 > [!NOTE]
-> <sup>1</sup> die standardmäßige maximale Nachrichtengröße für Microsoft-Postfächer beträgt 25 MB. Microsoft-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB angeben. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Microsoft unterstützt größere e-Mail-Nachrichten](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). 
+> <sup>1</sup> die standardmäßige maximale Nachrichtengröße für Microsoft-Postfächer beträgt 25 MB. Microsoft-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB angeben. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Microsoft unterstützt größere e-Mail-Nachrichten](https://go.microsoft.com/fwlink/?linkid=2144144). 
 <br/> <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Benutzern senden und empfangen (wobei die Nachricht niemals die Microsoft-Rechenzentren verlässt). Nachrichten, die außerhalb der Microsoft-Rechenzentren weitergeleitet werden, unterliegeneiner zusätzlichen 33% igen Übersetzungs Codierung, in diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> 
 <sup>3</sup> OWA-Konten für die Möglichkeit, dass Ihre Nachricht möglicherweise dem 33%-Codierungs Zuwachs unterliegt, und schränkt die Größe der Nachricht ein, die Sie senden können, auf 25% niedriger als die konfigurierte Einstellung. Wenn Sie beispielsweise die Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten mit bis zu 75 MB senden. 
 <br/> <sup>4</sup> Die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, wird von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. Dieser Grenzwert gilt für Verschiebe basierte Migrationen, die einen beliebigen unterstützten Exchange-Postfachreplikationsdienst verwenden. Andere Migrationsmethoden (einstufig, mehrstufig, IMAP, PST-Datei) und andere Tools von Drittanbietern werden durch allgemeine Nachrichtengröße begrenzt. <br/> 
@@ -309,7 +309,7 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 |Grenzwert für die Tiefe der Nachrichteneinbettung|30 eingebettete Nachrichten|30 eingebettete Nachrichten|30 eingebettete Nachrichten|30 eingebettete Nachrichten|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB angeben. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Microsoft unterstützt größere e-Mail-Nachrichten](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Benutzern senden und empfangen (wobei die Nachricht niemals die Microsoft-Rechenzentren verlässt). Nachrichten, die außerhalb der Microsoft-Rechenzentren weitergeleitet werden, unterliegeneiner zusätzlichen 33% igen Übersetzungs Codierung, in diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> 
+> <sup>1</sup> Microsoft-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB angeben. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Microsoft unterstützt größere e-Mail-Nachrichten](https://go.microsoft.com/fwlink/?linkid=2144144). <br/> <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Benutzern senden und empfangen (wobei die Nachricht niemals die Microsoft-Rechenzentren verlässt). Nachrichten, die außerhalb der Microsoft-Rechenzentren weitergeleitet werden, unterliegeneiner zusätzlichen 33% igen Übersetzungs Codierung, in diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> 
 <sup>3</sup> OWA-Konten für die Möglichkeit, dass Ihre Nachricht möglicherweise dem 33%-Codierungs Zuwachs unterliegt, und schränkt die Größe der Nachricht ein, die Sie senden können, auf 25% niedriger als die konfigurierte Einstellung. Wenn Sie beispielsweise die Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten mit bis zu 75 MB senden. <br/> 
 <sup>4</sup> Dies ist der Standardgrenzwert für Exchange Server 2013 Organisationen. Administratoren können diesen Wert für ihre Organisation ändern. <br/> 
 <sup>5</sup> die Größe der Nachrichten, die in Exchange Online verschoben werden sollen, werden von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. <br/> 
@@ -431,7 +431,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|
 |Obergrenze für Nachrichten an Verteilergruppen mit 5.000 bis 99.999 Mitgliedern|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Obergrenze für Nachrichten an Verteilergruppen mit 100.000 Mitgliedern|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Maximale Anzahl von Verteilergruppenbesitzern|10  |10  |10  |10  |10  |10  |
+|Maximale Anzahl von Verteilergruppenbesitzern|10 |10 |10 |10 |10 |10 |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -443,7 +443,7 @@ Diese Grenzwerte gelten für Verteilergruppen im freigegebenen Adressbuch Ihrer 
 |:-----|:-----|:-----|:-----|:-----|
 |Maximale Anzahl Mitglieder einer Verteilergruppe|100.000 Mitglieder<sup>1</sup>|100.000 Mitglieder|100.000 Mitglieder|100.000 Mitglieder|
 |Grenzwert für das Senden von Nachrichten an große Verteilergruppe|5.000 oder mehr Mitglieder<sup>1</sup>|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|5.000 oder mehr Mitglieder|
-|Maximale Anzahl von Verteilergruppenbesitzern|10  |10  |10  |10  |
+|Maximale Anzahl von Verteilergruppenbesitzern|10 |10 |10 |10 |
 |Maximale Anzahl von Gruppen, die ein Benutzer erstellen kann|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]

@@ -1,5 +1,5 @@
 ---
-title: Messagingrichtlinie und -kompatibilität
+title: Messaging Richtlinie und Compliance in Exchange Online Schutz
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: In diesem Artikel erfahren Sie mehr über die Messagingrichtlinien-und Kompatibilitätsfeatures in Microsoft Exchange Online Protection (EoP).
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132789"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293801"
 ---
-# <a name="messaging-policy-and-compliance"></a>Messagingrichtlinie und -kompatibilität
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Messaging Richtlinie und Compliance in Exchange Online Schutz
 
 Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
 
@@ -65,7 +65,7 @@ Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Pr
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Features zu Messagingrichtlinien und -einhaltung in EOP-Optionen
 
-|**Feature**|**EOP als eigenständige Lösung**|**EoP-Features in <br/> Exchange Online**|**Exchange Enterprise <br/> CAL mit Diensten**|
+| Feature | EOP als eigenständige Lösung | EoP-Features in <br/> Exchange Online | Exchange Enterprise <br/> CAL mit Diensten |
 |:-----|:-----|:-----|:-----|
 |Nachrichtenflussregeln|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1, 3</sup>|
 |Überwachungsprotokollierung|Ja<sup>2</sup>|Ja|Ja|

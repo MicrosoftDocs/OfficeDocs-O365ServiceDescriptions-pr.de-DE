@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: Bei Microsoft Exchange Online-Archivierung handelt es sich um eine Cloud-basierte Microsoft 365-Archivierungslösung für Unternehmen, die Exchange Server 2019, Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 und höher) bereitgestellt oder bestimmte Exchange Online-oder Microsoft 365-Pläne abonniert hat. Exchange Online Archivierung unterstützt diese Organisationen bei der Archivierung, Compliance, behördlichen und eDiscovery-Herausforderungen bei gleichzeitiger Vereinfachung der lokalen Infrastruktur und dadurch Kostenreduzierung und Entlastung.
-ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+description: Lesen Sie diesen Artikel, um mehr über Microsoft Exchange Online-Archivierung zu erfahren.
+ms.openlocfilehash: 4c83a11a953f29c20c6e7e743403985c465d0aad
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214304"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293631"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Beschreibung des Exchange Online-Archivierungsdiensts
 

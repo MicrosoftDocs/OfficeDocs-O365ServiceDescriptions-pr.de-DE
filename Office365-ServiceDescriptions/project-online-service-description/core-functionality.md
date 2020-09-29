@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Die folgenden Hauptfunktionen stehen in Project online zur Verfügung.
-ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131269"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294041"
 ---
 # <a name="core-functionality"></a>Hauptfunktionalität
 
@@ -42,7 +42,7 @@ Klicken Sie mit der rechten Maustaste auf ein beliebiges Element in einer Projek
   
 ## <a name="custom-fields"></a>Benutzerdefinierte Felder
 
-Zusätzlich zu den in Project inbegriffenen Feldern können Sie auch benutzerdefinierte Felder verwenden, um die Anforderungen Ihrer Organisation zu erfüllen. Weitere Informationen über Felder finden Sie unter [Referenz: Verfügbare Felder](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
+Zusätzlich zu den in Project inbegriffenen Feldern können Sie auch benutzerdefinierte Felder verwenden, um die Anforderungen Ihrer Organisation zu erfüllen. Weitere Informationen über Felder finden Sie unter [Referenz: Verfügbare Felder](https://support.office.com/article/615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 

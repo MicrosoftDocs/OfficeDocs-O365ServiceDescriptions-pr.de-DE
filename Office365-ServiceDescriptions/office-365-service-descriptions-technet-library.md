@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 und Office 365 sind Cloud-basierte Dienste, die dazu beitragen, die Anforderungen Ihrer Organisation an eine robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen.
-ms.openlocfilehash: 64c21ecc0ebe63ba973f4efafec926bddd6ba3c0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131459"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294181"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Microsoft 365- und Office 365-Dienstbeschreibungen 
 
@@ -26,7 +26,7 @@ Microsoft 365 und Office 365 sind Cloud-basierte Dienste, die dazu beitragen, di
   
 Die Themen in dieser Bibliothek enthalten detaillierte Beschreibungen der Dienste und Features, die mit Microsoft 365 und Office 365 zur Verfügung stehen. Informationen zum Vergleich der Features in den Plänen finden Sie unter [leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) oder die entsprechende Dienstbeschreibung in der folgenden Liste. 
   
-Support Artikel und Informationen finden Sie unter [Office-Hilfe & Schulung](https://support.office.com/), [Office-Dokumentation für Administratoren und IT-Experten](https://docs.microsoft.com/office/)und [Microsoft 365-Hilfecenter für Administratoren und IT](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide)-Experten.
+Support Artikel und Informationen finden Sie unter [Office-Hilfe & Schulung](https://support.office.com/), [Office-Dokumentation für Administratoren und IT-Experten](https://docs.microsoft.com/office/)und [Microsoft 365-Hilfecenter für Administratoren und IT](https://docs.microsoft.com/microsoft-365/)-Experten.
   
 > [!NOTE]
 > Wenn Sie nach der Dienst Beschreibungs Vergleichstabelle suchen, wurde sie zurückgezogen. Die Tabellen zur Verfügbarkeit von Produktfeatures auf jeder dienstbeschreibungsseite wurden aktualisiert, um Ihnen die Auswahl der Office 365 Version zu erleichtern, die Ihren Anforderungen entspricht. 
@@ -84,7 +84,7 @@ Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen
 > [!NOTE]
 > <sup>1</sup> Umfasst Verfügbarkeit von [Suitefeatures](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), z. B. Office Delve, Microsoft MyAnalytics, Microsoft Sway und Microsoft Teams.
   
-## <a name="disclaimer"></a>Verzichtserklärung
+## <a name="disclaimer"></a>Haftungsausschluss
 
-&copy;2018 Microsoft Corporation. Alle Rechte vorbehalten. Microsoft, Office 365 und andere Produkt-und Dienstnamen sind oder können eingetragene Marken und/oder Marken in den USA und/oder anderen Ländern sein. Die hier bereitgestellten Informationen dienen nur zu Informationszwecken und stellen die aktuelle Ansicht der Microsoft Corporation ab dem aktuellen Veröffentlichungs-oder Überarbeitungsdatum dieses Dokuments dar. Es handelt sich nicht um einen Dienstvertrag und begeht weder Microsoft noch den Kunden an den hier erwähnten Features, Funktionen oder Verantwortlichkeiten. Microsoft übernimmt keine ausdrücklichen, impliziten oder gesetzlichen Garantien hinsichtlich der Informationen in diesem Dokument.
+&copy; 2018 Microsoft Corporation. Alle Rechte vorbehalten. Microsoft, Office 365 und andere Produkt-und Dienstnamen sind oder können eingetragene Marken und/oder Marken in den USA und/oder anderen Ländern sein. Die hier bereitgestellten Informationen dienen nur zu Informationszwecken und stellen die aktuelle Ansicht der Microsoft Corporation ab dem aktuellen Veröffentlichungs-oder Überarbeitungsdatum dieses Dokuments dar. Es handelt sich nicht um einen Dienstvertrag und begeht weder Microsoft noch den Kunden an den hier erwähnten Features, Funktionen oder Verantwortlichkeiten. Microsoft übernimmt keine ausdrücklichen, impliziten oder gesetzlichen Garantien hinsichtlich der Informationen in diesem Dokument.
  

@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 5565085472d43230f9059e1dcac115105a2e20d5
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Erfahren Sie mehr über Nachrichtenrichtlinien und Compliance in Exchange Online.
+ms.openlocfilehash: d723d686e3e939753e8007d41b0fdaf0d0363524
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132699"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293831"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 
@@ -44,7 +45,7 @@ In einem persönlichen Archiv können nur die Nachrichtendaten eines Benutzers g
 > [!IMPORTANT]
 > - Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, eine unbegrenzte Archivierung in Fällen zu verweigern, in denen ein Post Fach Archiv nicht in einem persönlichen Szenario oder in anderen Fällen ungeeigneter Verwendung verwendet wird.
 > - Das Compliance-Archiv hat spezielle Lizenzierungsanforderungen für Outlook-Benutzer. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das persönliche Archiv zugreifen zu können. 
-> - Exchange Online unterstützt das Cmdlet _New-MailboxImportRequest_ Windows PowerShell von Exchange Server 2010 Service Pack 1 oder höher für den Administrator gesteuerten Import von PST-Dateien in ein persönliches Archiv nicht. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren.
+> - Exchange Online unterstützt das Cmdlet  _New-MailboxImportRequest_ Windows PowerShell von Exchange Server 2010 Service Pack 1 oder höher für den Administrator gesteuerten Import von PST-Dateien in ein persönliches Archiv nicht. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Cloudbasierte Archivierung von lokalen Postfächern
 
@@ -72,7 +73,7 @@ Weitere Informationen finden Sie unter [Aufbewahrungstags und Aufbewahrungsricht
   
 ## <a name="encryption-of-data-at-rest"></a>Verschlüsselung von Daten im Ruhezustand
 
-Die Verschlüsselung von Kundendaten im Ruhezustand wird von mehreren dienstseitigen Technologien bereitgestellt, einschließlich BitLocker, DKM, Azure Storage Service Encryption und Service Encryption in Exchange Online, Skype for Business, OneDrive für Unternehmen und SharePoint Online. Office 365-Dienstverschlüsselung umfasst eine Option zum Verwenden von Kunden verwalteter Verschlüsselungsschlüssel, die in Azure Key Vault gespeichert sind. Diese vom Kunden verwaltete Schlüssel Option, die als " [Kundenschlüssel](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697)" bezeichnet wird, steht für Exchange Online, SharePoint Online und OneDrive für Unternehmen zur Verfügung. 
+Die Verschlüsselung von Kundendaten im Ruhezustand wird von mehreren dienstseitigen Technologien bereitgestellt, einschließlich BitLocker, DKM, Azure Storage Service Encryption und Service Encryption in Exchange Online, Skype for Business, OneDrive für Unternehmen und SharePoint Online. Office 365-Dienstverschlüsselung umfasst eine Option zum Verwenden von Kunden verwalteter Verschlüsselungsschlüssel, die in Azure Key Vault gespeichert sind. Diese vom Kunden verwaltete Schlüssel Option, die als " [Kundenschlüssel](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)" bezeichnet wird, steht für Exchange Online, SharePoint Online und OneDrive für Unternehmen zur Verfügung. 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -96,7 +97,7 @@ Office 365 erweiterte Nachrichtenverschlüsselung bietet zusätzlichen Schutz, i
 
 Mit S/MIME können Sie vertrauliche Daten schützen, indem Sie in Ihrer Organisation signierte und verschlüsselte E-Mails versenden. Administratoren können die remote Windows PowerShell verwenden, um S/MIME einzurichten, nachdem PKI-Zertifikate an die Benutzer ausgegeben wurden. Diese Zertifikate müssen von einem lokalen Active Directory-Zertifikatsdienst synchronisiert werden.
   
-S/MIME wird in Microsoft Edge und Internet Explorer 11 unterstützt. Derzeit wird S/MIME von Firefox, Opera und Chrome nicht unterstützt. Weitere Informationen finden Sie unter [S/MIME zum Signieren und Verschlüsseln von Nachrichten](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
+S/MIME wird in Microsoft Edge und Internet Explorer 11 unterstützt. Derzeit wird S/MIME von Firefox, Opera und Chrome nicht unterstützt. Weitere Informationen finden Sie unter [S/MIME zum Signieren und Verschlüsseln von Nachrichten](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019&preserve-view=true).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Compliance-Archiv und Aufbewahrung für eventuelle Rechtsstreitigkeiten
 
@@ -170,7 +171,7 @@ Viele Organisationen müssen gegenwärtig zur Einhaltung von Gesetzen, Vorschrif
 > [!IMPORTANT]
 > Anlagendateitypen, für die iFilter von Drittanbietern auf dem E-Mail-Server installiert werden müssen (z. B. Adobe PDF-Dateien), können erst nach der Installation eines geeigneten iFilters mithilfe von Nachrichtenflussregeln überprüft werden. Weitere Informationen zu Dateitypen, die von Nachrichtenflussregeln unterstützt werden, finden Sie unter [in Office 365 ](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
   
-Weitere Informationen zu Nachrichtenflussregeln finden Sie unter [Nachrichtenflussregeln in Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019).
+Weitere Informationen zu Nachrichtenflussregeln finden Sie unter [Nachrichtenflussregeln in Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019&preserve-view=true).
   
 ## <a name="data-loss-prevention"></a>Verhinderung von Datenverlust
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131419"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294079"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -161,7 +161,7 @@ Sehen Sie sich die Formeln, die den Ergebnissen in einer Zelle zugrunde liegen, 
   
 ## <a name="formula-tools-advanced"></a>Formeltools, erweitert
 
-Microsoft Excel Desktop-App bietet die fortschrittlichsten Formeltools, beispielsweise 3D-Referenzformat. Excel für das Internet unterstützt eine zunehmende Anzahl von erweiterten Excel-Formeln, beispielsweise [dynamische Arrayformeln](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Erfahren Sie mehr über [Formeln](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
+Microsoft Excel Desktop-App bietet die fortschrittlichsten Formeltools, beispielsweise 3D-Referenzformat. Excel für das Internet unterstützt eine zunehmende Anzahl von erweiterten Excel-Formeln, beispielsweise [dynamische Arrayformeln](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Erfahren Sie mehr über [Formeln](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -189,7 +189,7 @@ Sie können Zeilen, Spalten und Blätter in einer Arbeitsmappe in Excel für das
 
 ## <a name="ideas"></a>Ideen
 
-Mithilfe von ideas in Excel können Sie Ihre Daten anhand von allgemeinen visuellen Zusammenfassungen, Trends und Mustern besser verstehen. Wählen Sie einfach eine Zelle in einem Datenbereich aus, und wählen Sie dann auf der Registerkarte **Start** die Schaltfläche **Ideen** aus. in Excel werden Ihre Daten analysiert und in einem Aufgabenbereich interessante visuelle Informationen zurückgegeben. Erfahren Sie mehr über die [Ideen in Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
+Mithilfe von ideas in Excel können Sie Ihre Daten anhand von allgemeinen visuellen Zusammenfassungen, Trends und Mustern besser verstehen. Wählen Sie einfach eine Zelle in einem Datenbereich aus, und wählen Sie dann auf der Registerkarte **Start** die Schaltfläche **Ideen** aus. Mit Ideas in Excel werden Ihre Daten analysiert und in einem Aufgabenbereich interessante visuelle Informationen zurückgegeben. Erfahren Sie mehr über die [Ideen in Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 

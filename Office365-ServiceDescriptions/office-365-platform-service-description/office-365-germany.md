@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: 1f2ef704626f32e78fe0f7806e5fe669c12e3c5c
-ms.sourcegitcommit: 0d192547dda1adc93616996972490f50d8068981
+ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48268487"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293851"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -22,7 +22,7 @@ Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Dienste
 
 Der Vertrauensnehmer der Daten, T-Systems International, bei dem es sich um ein unabhängiges deutsches Unternehmen und eine Niederlassung der Deutschen Telekom handelt, steuert den physischen und logischen Zugriff auf Kundendaten. Auf Kundendaten kann nur mit Genehmigung oder unter Aufsicht des Vertrauensnehmers zugegriffen werden, der sich nach deutschen Recht richtet.
 
-Basierend auf dieser Entwicklung der Kundenbedürfnisse wird sich unsere Cloud-Strategie für Deutschland auf die Bereitstellung der neuen Cloud-Regionen in Deutschland konzentrieren, die mit unserem globalen Cloud-Angebot übereinstimmen. Mit diesem Schwerpunkt werden wir keine neuen Kunden mehr annehmen oder neue Dienste aus dem derzeit verfügbaren Microsoft Cloud Deutschland bereitstellen. Vorhandene Kunden können weiterhin die aktuellen derzeit verfügbaren Cloud-Dienste verwenden, die wir mit den erforderlichen Sicherheitsupdates aufrecht erhalten. [Erfahren Sie mehr über Office 365 Deutschland](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
+Basierend auf dieser Entwicklung der Kundenbedürfnisse wird sich unsere Cloud-Strategie für Deutschland auf die Bereitstellung der neuen Cloud-Regionen in Deutschland konzentrieren, die mit unserem globalen Cloud-Angebot übereinstimmen. Mit diesem Schwerpunkt werden wir keine neuen Kunden mehr annehmen oder neue Dienste aus dem derzeit verfügbaren Microsoft Cloud Deutschland bereitstellen. Vorhandene Kunden können weiterhin die aktuellen derzeit verfügbaren Cloud-Dienste verwenden, die wir mit den erforderlichen Sicherheitsupdates aufrecht erhalten. [Erfahren Sie mehr über Office 365 Deutschland](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c).
 
 ## <a name="service-availability-for-each-plan"></a>Dienstverfügbarkeit nach Plan
 
@@ -192,7 +192,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 ## <a name="office-application-features"></a>Office-Anwendungsfeatures  
 
 > [!NOTE]
-> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Client Softwareanwendungen") wie Office 365 ProPlus, Office 2013 \* und Office 2016. Client Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um [deutsche Onlinedienste](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Für Office 2013 für Office 365 Deutschland muss die [moderne Authentifizierung aktiviert sein](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
+> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Client Softwareanwendungen") wie Office 365 ProPlus, Office 2013 \* und Office 2016. Client Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um [deutsche Onlinedienste](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Für Office 2013 für Office 365 Deutschland muss die [moderne Authentifizierung aktiviert sein](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
 
 Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwischen Office 365 Deutschland-Plänen zu vergleichen.<br><br>
 
@@ -209,7 +209,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja|Ja|Ja<sup>6</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Nein|Nein|Nein|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
 |[Windows 10-apps](../office-applications-service-description/office-applications.md#windows-10-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Ja|Nein|Ja|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
+|[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Ja|Nein|Ja|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
 |[Office Mobile für iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Ja|Nein|Ja|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
 |[Office Mobile für Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|Ja|Nein|Ja|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
 |[Office Mobile für Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Ja|Nein|Ja|Nr.<sup>7</sup>|Nein|Ja|Ja|Nein|
@@ -249,7 +249,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers ("Client Softwareanwendungen") installiert und ausgeführt werden, beispielsweise Office 365 ProPlus, Office 2013 und Office 2016. Client-Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können einem Endbenutzer den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um deutsche Onlinedienste handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/>
-<sup>2</sup> Office 2013 erfordert die [Aktivierung der modernen Authentifizierung](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
+<sup>2</sup> Office 2013 erfordert die [Aktivierung der modernen Authentifizierung](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
 <sup>3</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden, damit die unterstützten IRM-Funktionen aktiviert werden können.<br/>
 <sup>4</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. <br/>
 <sup>5</sup> Wenn Sie Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 haben, können Sie die [Power Map-Vorschau für Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-in herunterladen und verwenden. <br/>
@@ -257,7 +257,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 <sup>7</sup> einige Schulen sind für Education Plus berechtigt, das Office 365 ProPlus umfasst, und ermöglicht Schülern, Dozenten und Mitarbeitern die Installation der neuesten Version von Office auf bis zu fünf PC-oder Mac-Computern und auf anderen mobilen Geräten, einschließlich Windows Tablets und dem iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar.<br/>
 <sup>8</sup> Office 2011 für Mac kann installiert, aber nicht aktiviert werden. <br/>
 <sup>9</sup> Volumenaktivierung für Office 365 Deutschland Enterprise E3 und Office 365 ProPlus ist auf Installationen auf Windows Server 2008 R2 und neuer mit aktivierter RDS-Rolle oder Windows to go-Installationen limitiert. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Deutschland Enterprise E3 oder Office 365 ProPlus sein.<br/>
-<sup>10</sup> der Zugriff ist derzeit verfügbar, wenn Sie sich im aktuellen Kanal oder in der gezielten Version für verzögerten Kanal befinden. Wenn Sie sich auf einen verzögerten Kanal begeben, steht der Zugriff im Juni 2017 zur Verfügung. Weitere Informationen finden Sie unter [Access im Rahmen von Office 365 Business und Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
+<sup>10</sup> der Zugriff ist derzeit verfügbar, wenn Sie sich im aktuellen Kanal oder in der gezielten Version für verzögerten Kanal befinden. Wenn Sie sich auf einen verzögerten Kanal begeben, steht der Zugriff im Juni 2017 zur Verfügung. Weitere Informationen finden Sie unter [Access im Rahmen von Office 365 Business und Business Premium](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/>
 <sup>11</sup> nicht verfügbar für Office 365 Deutschland, aber in Kürze erhältlich.
 
 | Feature | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
@@ -273,7 +273,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Ja|Ja|Nein|
 |[Windows 10-apps](../office-applications-service-description/office-applications.md#windows-10-apps)|Ja|Ja|Ja|
-|[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Nein|Ja|Ja|
+|[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Nein|Ja|Ja|
 |[Office Mobile für iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Nein|Ja|Ja|
 |[Office Mobile für Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|Nein|Ja|Ja|
 |[Office Mobile für Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Nein|Ja|Ja|
@@ -313,7 +313,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers ("Client Softwareanwendungen") installiert und ausgeführt werden, beispielsweise Office 365 ProPlus, Office 2013 und Office 2016. Client-Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können einem Endbenutzer den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um deutsche Onlinedienste handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/>
-<sup>2</sup> Office 2013 erfordert die [Aktivierung der modernen Authentifizierung](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
+<sup>2</sup> Office 2013 erfordert die [Aktivierung der modernen Authentifizierung](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
 <sup>3</sup> Archivierungs-und Kompatibilitätsfeatures werden mit dieser Version von Office unterstützt, aber die Exchange Online-und SharePoint Online Pläne sind nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Server Entsprechungen verwendet werden.<br/> <sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden, damit die unterstützten IRM-Funktionen aktiviert werden können.<br/> <sup>5</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.<br/>
 <sup>6</sup> Wenn Sie Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 haben, können Sie die [Power Map-Vorschau für Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-in herunterladen und verwenden.<br/>
 <sup>7</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype_for_Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3  beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. Weitere Informationen zu lync Basic-Funktionen finden Sie unter [Desktop Client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
@@ -448,7 +448,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Outlook-Add-Ins und Outlook-MAPI|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Nein|
 
 > [!NOTE]
-> <sup>1</sup> Exchange 2010 unterstützt nur minimale hybridbereitstellungen. (Die vollständige hybridbereitstellung wird für Exchange 2010 nicht unterstützt.) Weitere Informationen zur minimalen hybridbereitstellung finden Sie unter [use Express Migration to migrate Exchange mailboxes to Office 365](https://support.office.com/article/Use-express-migration-to-migrate-Exchange-mailboxes-to-Office-365-fdecceed-0702-4af3-85be-f2a0013937ef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
+> <sup>1</sup> Exchange 2010 unterstützt nur minimale hybridbereitstellungen. (Die vollständige hybridbereitstellung wird für Exchange 2010 nicht unterstützt.) Weitere Informationen zur minimalen hybridbereitstellung finden Sie unter [use Express Migration to migrate Exchange mailboxes to Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef).<br/>
 <sup>2</sup> Office 365 Deutschland Business Essentials und Office 365 Germany Business Premium bieten keine Zugriffsrechte für die Verwendung mit lokalen Servern. Um konform zu sein, muss der Kunde die entsprechenden CALs kaufen oder zuvor erworben oder ein Upgrade auf eine SKU für Unternehmen durchführen, die diese Zugriffsrechte bereitstellt.<br/>
 <sup>3</sup> nicht verfügbar für Office 365 Deutschland, aber in Kürze erhältlich.<br/>
 <sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden (oder kostenlos dem Office 365 Deutschland Education a1-Plan hinzugefügt werden), um die unterstützten IRM-Funktionen zu aktivieren. Office 365 Nachrichtenverschlüsselung ist von Azure Information Protection abhängig.<br/>
@@ -486,7 +486,7 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 |[Quarantäne](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): Verwaltung durch Administrator|Ja|Ja|Ja|
 |[Quarantäne](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|
 |[Erweiterte Datenkontrolle](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|Nein|Ja|Ja|
-|[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|Nein|Ja|Ja|
+|[Office 365 Threat Intelligence](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|Nein|Ja|Ja|
 |[Junk-e-Mail-Berichterstellung in Outlook im Internet](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Ja<sup>8</sup>|Nr.<sup>8</sup>|Nr.<sup>8</sup>|
 |[Weiterleiten von e-Mails zwischen Microsoft und ihren eigenen e-Mail-Servern](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Ja|Ja|Ja|
 |[Sichere Nachrichten mit einem vertrauenswürdigen Partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Ja|Ja|Ja|
@@ -532,8 +532,7 @@ In der folgenden Tabelle sind die Features von Exchange Online Advanced Threat P
 
 ## <a name="project-online-features"></a>Project Online-Features
 
-In der folgenden Tabelle sind die Project Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).<br><br>
-<!-- Do not remove "en-us" from this URL. Since blog posts aren't localized, we need to keep "en-us" in the URL or users in non-English locales will get an error when they click the link. -->
+In der folgenden Tabelle sind die Project Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind. Weitere Informationen zu Project Online finden Sie unter [Erste Schritte mit Project Online](https://go.microsoft.com/fwlink/?linkid=2144053).<br><br>
 
 | Plan | Beschreibung | Zielgruppen |
 |:-----|:-----|:-----|

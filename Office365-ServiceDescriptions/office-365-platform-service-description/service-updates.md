@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Informationen zu Office 365 Features, die soeben veröffentlicht wurden oder die veröffentlicht werden sollen, finden Sie in der Microsoft 365-Roadmap.
-ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 43a8517a71e42e74e8d044b1c98c7b5b21fe2145
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131479"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294201"
 ---
 # <a name="service-updates"></a>Dienstupdates
 
 > [!NOTE]
-> Die Informationen in diesem Thema gelten nicht für Office 365, betrieben von 21Vianet. Weitere Informationen zu Dienstupdates finden Sie unter [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) 
+> Die Informationen in diesem Thema gelten nicht für Office 365, betrieben von 21Vianet. Weitere Informationen zu Dienstupdates finden Sie unter [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350) 
   
 Informationen zu Features, die soeben veröffentlicht wurden oder die veröffentlicht werden sollen, finden Sie in der [Microsoft 365-Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914).
   
@@ -30,11 +30,11 @@ Informationen zu Features, die soeben veröffentlicht wurden oder die veröffent
   
 ## <a name="targeted-release"></a>Zielrelease
 
-Mit der Zielrelease erhält Ihre Organisation oder ein Teil Ihrer Benutzer ungefähr eine Woche vor der Standardfreigabe eine ausgewählte Reihe von Dienstupdates. Weitere Informationen finden Sie unter [Microsoft Release Options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
+Mit der Zielrelease erhält Ihre Organisation oder ein Teil Ihrer Benutzer ungefähr eine Woche vor der Standardfreigabe eine ausgewählte Reihe von Dienstupdates. Weitere Informationen finden Sie unter [Microsoft Release Options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365). 
   
 ## <a name="update-notifications"></a>Updatebenachrichtigungen
 
-Microsoft ist bestrebt, Kunden vorab über Änderungen zu informieren, bei denen der Administrator Maßnahmen ergreifen muss, um den Dienst ordnungsgemäß zu halten. Sofern nicht anders angegeben, benachrichtigt Microsoft Kunden mindestens 30 Tage vorab über das [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide), wenn für ein Update Administratoraktionen erforderlich sind. 
+Microsoft ist bestrebt, Kunden vorab über Änderungen zu informieren, bei denen der Administrator Maßnahmen ergreifen muss, um den Dienst ordnungsgemäß zu halten. Sofern nicht anders angegeben, benachrichtigt Microsoft Kunden mindestens 30 Tage vorab über das [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center), wenn für ein Update Administratoraktionen erforderlich sind. 
   
 Bei den meisten dienstupdates handelt es sich um Fehlerbehebungen, Leistungsverbesserungen und Sicherheitsupdates, die im Namen des Kunden keine Aktion erfordern. Neue und verbesserte Features finden Sie in der [Microsoft 365 for Business-Roadmap](https://roadmap.office.com/).
   

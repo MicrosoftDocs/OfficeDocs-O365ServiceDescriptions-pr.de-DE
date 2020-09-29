@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Hier erfahren Sie, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300509"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294103"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -90,7 +90,7 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [App-Nutzung und Fehlerüberwachung](/sharepoint/monitor-apps)
 - Aktivitäts-und Verwendungsberichte für [SharePoint](/office365/admin/activity-reports/sharepoint-activity) und [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [Ändern der Website-URL](/sharepoint/change-site-address)
-- [Standardeinstellungen für Speicherung und Aufbewahrung für OneDrive](/en-us/onedrive/set-default-storage-space)
+- [Standardeinstellungen für Speicherung und Aufbewahrung für OneDrive](/onedrive/set-default-storage-space)
 - [Hybrid für SharePoint Server](/sharepoint/hybrid/hybrid). Für die Mitarbeiter von First-Workers ist eine Client Zugriffslizenz (CAL) für den Zugriff auf SharePoint Server erforderlich.
 - [Verwaltung von Websiteerstellungseinstellungen](/sharepoint/manage-site-creation)
 - [Verwaltung von Speichergrenzwerten für Standorte](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Wiederherstellen von gelöschten Websites](/sharepoint/restore-deleted-site-collection)
 - [SharePoint Admin Center](/sharepoint/get-started-new-admin-center). Organisationen mit First-Workern benötigen mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können.
 - [Der SharePoint-Modernisierungsscanner](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Organisationen mit First-Workern benötigen mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können.
+- [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Organisationen mit First-Workern benötigen mindestens einen Enterprise-Benutzer, um auf das Admin Center zugreifen zu können.
 - [Website Steuerung](/sharepoint/governance-overview) 
 - [Terminologiespeicher – verwaltete Metadaten](/sharepoint/managed-metadata)
 
@@ -167,7 +167,7 @@ Sofern nichts anderes angegeben ist, sind die folgenden Features für alle Plän
 - [Bibliothek für Organisationsobjekte](/sharepoint/organization-assets-library)
 - [Organisations Nachrichten](/sharepoint/organization-news-site)
 - [Seiten Genehmigung](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Seiten](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Datensatzverwaltung
 - [Papierkorb](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [SharePoint-Mobile App](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

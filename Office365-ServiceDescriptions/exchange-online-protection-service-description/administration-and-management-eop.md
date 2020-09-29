@@ -1,5 +1,5 @@
 ---
-title: Verwaltung und Verwaltung [EoP]
+title: Verwaltung und Verwaltung in Exchange Online Schutz
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: In diesem Abschnitt werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online Protection (EoP)-Administratoren verfügbar sind.
-ms.openlocfilehash: 70c1978f78d61ff09acd3360ff874e38db80250c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: In diesem Artikel werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online Protection (EoP)-Administratoren verfügbar sind.
+ms.openlocfilehash: 6889998aaf71243a743e1ec0cf1787a9a2fdb624
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131541"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293611"
 ---
-# <a name="administration-and-managementeop"></a>Verwaltung und Verwaltung [EoP]
+# <a name="administration-and-management-in-exchange-online-protection"></a>Verwaltung und Verwaltung in Exchange Online Schutz
 
-In diesem Abschnitt werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online Protection (EoP)-Administratoren verfügbar sind.
+In diesem Artikel werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online Protection (EoP)-Administratoren verfügbar sind.
   
 Sie suchen nach Informationen zu allen EOP-Funktionen? Siehe [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
   

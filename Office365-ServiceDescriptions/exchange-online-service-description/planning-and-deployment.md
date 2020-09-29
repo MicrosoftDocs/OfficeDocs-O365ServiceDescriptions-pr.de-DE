@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: e722bec332e67e93647b10bbbf4916e7e059c1b7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Erfahren Sie mehr über die Planung und Bereitstellung in Microsoft Exchange Online.
+ms.openlocfilehash: 446d73f0fddcbdfe1795bbb97b6394ae6f05fef4
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132659"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293841"
 ---
 # <a name="planning-and-deployment"></a>Planung und Bereitstellung
 
@@ -25,9 +26,9 @@ Organisationen sollten die Migrationsoptionen basierend auf den Quell-E-Mail-Sys
   
 ## <a name="deployment-options"></a>Bereitstellungsoptionen
 
-- **Reine Cloudbereitstellung** Alle Benutzerpostfächer der Organisation werden in Exchange Online gehostet. 
+- **Reine Cloud-Bereitstellung** : in Ihrer Organisation befinden sich alle in Exchange Online gehosteten Benutzerpostfächer. 
     
-- **Hybride Exchange-Bereitstellung** Einige Benutzerpostfächer der Organisation werden in einer lokalen Exchange-Organisation gehostet, einige Benutzerpostfächer werden in Exchange Online gehostet. 
+- **Exchange-hybridbereitstellung** : in Ihrer Organisation befinden sich einige Benutzerpostfächer, die in einer lokalen Exchange-Organisation und einigen Benutzerpostfächern gehostet werden, die in Exchange Online gehostet werden. 
     
 ### <a name="cloud-only"></a>Rein cloudbasiert
 
@@ -46,15 +47,15 @@ Weitere Informationen zu Hybridbereitstellungen finden Sie im Artikel zum Thema 
 
 Organisationen sollten die Migrationsoptionen basierend auf den Quell-E-Mail-Systemen, dem gewünschten Endzustand (vollständig oder teilweise gehostet), der Anzahl von zu migrierenden Benutzern sowie basierend darauf auswählen, wie schnell der gewünschte Endzustand erreicht werden soll. Zu den möglichen Migrationsoptionen gehören:
   
-- **IMAP-Migration** Migrieren Sie Postfachdaten von IMAP-basierten E-Mail-Systemen zu Exchange Online. 
+- **IMAP-Migration** : Migrieren von Postfachdaten von IMAP-basierten e-Mail-Systemen zu Exchange Online. 
     
-- **Exchange-Übernahmemigration** Migrieren Sie Postfächer von Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 und gehosteten Exchange-Systemen mithilfe einer einzelnen Übernahmemigration zu Exchange Online. 
+- **Cutover Exchange-Migration** : Migrieren von Postfächern aus Exchange Server 2003-, Exchange Server 2007-, Exchange Server 2010-, Exchange 2013-und gehosteten Exchange-Systemen zu Exchange Online in einer einzelnen Cutover-Migration. 
     
-- **Phasenweise Exchange-Migration** Führen Sie eine phasenweise Migration durch, um Postfächer von Exchange Server 2003 oder Exchange Server 2007 mithilfe von webbasierten Migrationstools und minimalen Änderungen an der lokalen Infrastruktur zu migrieren. 
+- Mehr **stufige Exchange-Migration** : führen Sie eine mehrstufige Migration durch, um Postfächer aus Exchange Server 2003 oder Exchange Server 2007 mit webbasierten Migrationstools und minimalen Änderungen an der lokalen Infrastruktur zu migrieren. 
     
-- Eine **Remoteverschiebungsmigration** wird verwendet, um lokale Exchange-Postfächer zu Exchange Online in einer Exchange-Hybridbereitstellung zu migrieren. Für die Verwendung einer Remoteverschiebungsmigration müssen Sie über eine Exchange-Hybridbereitstellung verfügen. 
+- **Remote Verlagerung Migration** : Migrieren Sie lokale Exchange-Postfächer zu Exchange Online in einer Exchange-hybridbereitstellung. Für die Verwendung einer Remoteverschiebungsmigration müssen Sie über eine Exchange-Hybridbereitstellung verfügen. 
     
-Weitere Informationen zum Migrieren von E-Mails und Postfächern zu Exchange Online finden Sie unter [Migrieren von Postfächern zu Exchange Online](https://support.office.com/en-us/article/-a3e3bddb-582e-4133-8670-e61b9f58627e).
+Weitere Informationen zum Migrieren von E-Mails und Postfächern zu Exchange Online finden Sie unter [Migrieren von Postfächern zu Exchange Online](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e).
   
 ### <a name="imap-migration"></a>IMAP-Migration
 
@@ -87,7 +88,7 @@ Exchange Online stellt ein webbasiertes Tool für die Migration von Daten von lo
     
 Um Benutzer zu ihren Cloud-Postfächern zu wechseln, konfigurieren Administratoren ihren MX-Eintrag so, dass er auf Microsoft verweist und die Benutzerprofile in Outlook neu konfiguriert. Wenn Benutzer auf ihre Cloudpostfächer wechseln, werden ihre lokalen Offlineordner (OST-Dateien) erneut synchronisiert, was dazu führt, dass migrierte E-Mails auf die Clientarbeitsstation heruntergeladen werden. Benutzer können nach der Migration auf alte Nachrichten in ihren Postfächern antworten.
   
-Weitere Informationen zu einer Exchange-Übernahmemigration finden Sie unter [Wichtige Informationen zur E-Mail-Übernahmemigration zu Office 365](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da).
+Weitere Informationen zu einer Exchange-Übernahmemigration finden Sie unter [Wichtige Informationen zur E-Mail-Übernahmemigration zu Office 365](https://support.office.com/article/365-961978ef-f434-472d-a811-1801733869da).
   
 > [!IMPORTANT]
 > Eine Organisation kann mit einer Exchange-Übernahmemigration maximal 2.000 Exchange 2003-, Exchange 2007-, Exchange 2010- oder Exchange 2013-Postfächer zur Cloud migrieren. > Exchange Online muss sich mit einem lokalen Exchange Server verbinden, deshalb muss der lokale Server über ein Zertifikat verfügen, dass von einer vertrauenswürdigen Zertifizierungsstelle ausgegeben wurde und über eine öffentliche IP-Adresse verfügt. 
@@ -98,7 +99,7 @@ Bei einer phasenweisen Migration können Benutzer unter Verwendung des webbasier
   
 Zur Durchführung einer phasenweisen Exchange-Migration müssen Administratoren das Microsoft Online Services-Verzeichnissynchronisierungstool verwenden. Das Tool stellt Benutzern eine einheitliche globale Adressliste (Global Address List, GAL) bereit, wobei die Onlineumgebung fortlaufend mit der lokalen Umgebung synchronisiert wird.
   
-Weitere Informationen zu mehrstufigen Exchange-Migrationen finden Sie unter [Wichtige Informationen zur mehrstufigen E-Mail-Migration zu Office 365](https://support.office.com/en-ie/article/What-you-need-to-know-about-a-staged-email-migration-to-Office-365-7e2c82be-5f3d-4e36-bc6b-e5b4d411e207).
+Weitere Informationen zu mehrstufigen Exchange-Migrationen finden Sie unter [Wichtige Informationen zur mehrstufigen E-Mail-Migration zu Office 365](https://support.office.com/en-ie/article/365-7e2c82be-5f3d-4e36-bc6b-e5b4d411e207).
   
 > [!IMPORTANT]
 > Organisationen können eine mehrstufige Exchange-Migration nicht zur Migration von Exchange 2010- und Exchange 2013-Postfächern verwenden. Wenn sich weniger als 2.000 Exchange 2010- oder Exchange 2013-Postfächer in der Organisation befinden, können Sie eine Exchange-Übernahmemigration verwenden. Wenn sich mehr als 2.000 Exchange 2010- oder Exchange 2013-Postfächer in der Organisation befinden, können Sie eine Hybridbereitstellung implementieren. > Während der Migration müssen Administratoren das Microsoft Online Services-Verzeichnissynchronisierungstool verwenden, um für die Benutzer eine einheitliche globale Adressliste bereitzustellen. Es wird eine fortlaufende Synchronisierung mit der lokalen Umgebung durchgeführt. 
@@ -107,23 +108,23 @@ Weitere Informationen zu mehrstufigen Exchange-Migrationen finden Sie unter [Wic
 
 Microsoft stellt verschiedene Tools zur Migration einer vorhandenen E-Mail-Umgebung zu Exchange Online bereit. Welches Migrationstool für eine Organisation am besten geeignet ist, richtet sich nach der aktuellen Umgebung und den Bereitstellungszielen:
   
-- **Migrationsdashboard** Administratoren können das Migrationsdashboard in der Exchange-Verwaltungskonsole verwenden, um die Postfachmigration zu Exchange Online bei einer Exchange-Übernahmemigration oder einer mehrstufigen Exchange-Migration zu verwalten. Administratoren können das Dashboard auch einsetzen, um die Inhalte von Benutzerpostfächern von einem lokalen IMAP-Server zu vorhandenen Exchange Online-Postfächern zu migrieren. Das Dashboard bietet Administratoren die folgenden Funktionen: 
+- **Migrations Dashboard** – Administratoren können das Migrations Dashboard im Exchange Admin Center verwenden, um die Postfachmigration zu Exchange Online in einer Cutover-oder mehrstufigen Exchange-Migration zu verwalten. Administratoren können das Dashboard auch einsetzen, um die Inhalte von Benutzerpostfächern von einem lokalen IMAP-Server zu vorhandenen Exchange Online-Postfächern zu migrieren. Das Dashboard bietet Administratoren die folgenden Funktionen: 
     
-  - **Erstellen und Starten mehrerer Migrationsbatches** Administratoren können bis zu 100 Migrationsbatches erstellen und in eine Warteschlange verschieben. Es wird jeweils nur ein Migrationsbatch ausgeführt, aber Administratoren können mehrere Batches in die Warteschlange einreihen, sodass nach Abschluss der Ausführung eines Migrationsbatches der nächste Batch in der Warteschlange gestartet wird. 
+  - **Erstellen und starten von mehreren Migrationsbatches** -Administratoren können bis zu 100 Migrationsbatches erstellen und in die Warteschlange stellen. Es wird jeweils nur ein Migrationsbatch ausgeführt, aber Administratoren können mehrere Batches in die Warteschlange einreihen, sodass nach Abschluss der Ausführung eines Migrationsbatches der nächste Batch in der Warteschlange gestartet wird. 
     
-  - **Neustart eines Migrationsbatches mit Fehlern** Im Anschluss an die anfängliche Synchronisierung für einen Migrationsbatch, wenn für jeden Benutzer im Migrationsbatch Elemente von lokalen Postfächern in die Cloudpostfächer kopiert werden, treten bei einigen Postfächern möglicherweise Synchronisierungsfehler auf. Administratoren können diesen Migrationsbatch neu starten, um die Postfächer, bei denen Fehler aufgetreten sind, erneut zu synchronisieren. 
+  - **Neustarten eines Migrationsbatches mit Fehlern** – nach der anfänglichen Synchronisierung für einen Migrationsbatch, bei dem Elemente aus lokalen Postfächern in die Cloud-Postfächer für jeden Benutzer im Migrationsbatch kopiert werden, kann es sein, dass einige Postfächer die Synchronisierung fehlschlagen. Administratoren können diesen Migrationsbatch neu starten, um die Postfächer, bei denen Fehler aufgetreten sind, erneut zu synchronisieren. 
     
-  - **Anzeige von Informationen zu übersprungenen Elementen** Bei IMAP-Migrationen, Übernahmemigrationen und mehrstufigen Migrationen zeigt das Dashboard Informationen zu bestimmten Elementen an, die übersprungen wurden. Es wird auch angezeigt, aus welchen Gründen ein Element übersprungen wurde, und wo im Benutzerpostfach sich das Element befindet. 
+  - **Abrufen von Details zu übersprungenen Elementen** – für IMAP-Migrationen, Cutover-Migrationen und mehrstufige Migrationen zeigt das Migrations Dashboard Informationen zu den einzelnen Elementen an, die übersprungen wurden, einschließlich des Grundes, warum und wo sich das Element im Postfach des Benutzers befindet. 
     
-  - **Öffnen von Migrationsberichten** Administratoren können direkt aus dem Dashboard Migrationsstatistiken oder den Migrationsfehlerbericht für einen Migrationsbatch öffnen. 
+  - **Öffnen von Migrationsberichten** – Administratoren können direkt aus dem Dashboard Migrationsstatistiken oder den Migrationsfehler Bericht für einen Migrationsbatch öffnen. 
     
-  - **Bearbeiten eines Migrationsbatches** Wenn sich ein Migrationsbatch für eine phasenweise Exchange-Migration oder eine IMAP-Migration in der Migrationswarteschlange befindet, derzeit aber nicht ausgeführt wird, können Administratoren den Migrationsbatch bearbeiten. 
+  - **Bearbeiten eines Migrationsbatches** : Wenn sich ein Migrationsbatch für eine mehrstufige Exchange-Migration oder eine IMAP-Migration in der Migrations Warteschlange befindet, aber derzeit nicht aktiv ist, können Administratoren den Migrationsbatch bearbeiten. 
     
-- **Azure Active Directory-Verzeichnissynchronisierungstool** Das Azure Active Directory-Synchronisierungstool spielt eine wichtige Rolle bei der Migration zu Hybrid-E-Mail-Szenarien, in denen sowohl Exchange Online als auch ein lokaler Exchange Server verwendet wird. Das Tool führt eine einseitige Synchronisierung vom lokalen Active Directory-Verzeichnis zu Exchange Online durch. Nach Abschluss der Migration benötigen Administratoren nur Exchange Online, um Active Directory-Benutzer und -Gruppen zu verwalten. Das Tool stellt Benutzern außerdem eine einheitliche globale Adressliste (Global Address List, GAL) zur Verfügung, wobei die Onlineumgebung fortlaufend mit der lokalen Umgebung synchronisiert wird. 
+- **Azure Active Directory Sync-Tool** : das Azure Active Directory-Synchronisierungstool spielt eine wichtige Rolle bei der Migration zu Hybriden e-Mail-Szenarien, die sowohl Exchange Online als auch eine lokale Exchange Server verwenden. Das Tool führt eine einseitige Synchronisierung vom lokalen Active Directory-Verzeichnis zu Exchange Online durch. Nach Abschluss der Migration benötigen Administratoren nur Exchange Online, um Active Directory-Benutzer und -Gruppen zu verwalten. Das Tool stellt Benutzern außerdem eine einheitliche globale Adressliste (Global Address List, GAL) zur Verfügung, wobei die Onlineumgebung fortlaufend mit der lokalen Umgebung synchronisiert wird. 
     
     Weitere Informationen zum Azure Active Directory-Synchronisierungstool finden Sie in der [Roadmap Verzeichnissynchronisierung](https://go.microsoft.com/fwlink/p/?LinkId=287034).
     
-- **Assistent für die Hybridkonfiguration** Der Assistent für die Hybridkonfiguration optimiert den Prozess für Hybridbereitstellungen, indem er die Konfiguration von Funktionen und Diensten für die lokale Exchange-Organisation und Exchange Online vereinfacht. Der Assistent für die Hybridkonfiguration wurde mit Exchange Server 2010 Service Pack 2 eingeführt. Er wird nur in lokalen Organisationen ausgeführt und umfasst die folgenden Komponenten: 
+- **Assistent** für die Hybrid Konfiguration – mit dem Assistenten für die Hybrid Konfiguration wird der Hybrid Bereitstellungsprozess rationalisiert, indem die lokale und Exchange Online Konfiguration von Features und Diensten vereinfacht wird. Als Teil von Exchange Server 2010 Service Pack 2 eingeführt, wird der Assistent für die Hybrid Konfiguration nur in lokalen Organisationen ausgeführt und umfasst die folgenden Komponenten: 
     
   - Einen Assistenten für die Exchange-Verwaltungskonsole, der Administratoren durch die gesamte Konfiguration einer Hybridbereitstellung leitet.
     
@@ -131,7 +132,7 @@ Microsoft stellt verschiedene Tools zur Migration einer vorhandenen E-Mail-Umgeb
     
     Weitere Informationen zum Assistenten für die Hybridkonfiguration finden Sie unter [Assistent für die Hybridkonfiguration](https://go.microsoft.com/fwlink/p/?LinkId=271734).
     
-- **Remote verwendete Windows PowerShell** Als Bestandteil des Exchange Online-Dienstupdates von Dezember 2011 kann Windows PowerShell remote eingesetzt werden, um Migrationsfehler zu beheben. Beispielsweise können Administratoren Diagnoseinformationen für Migrationsbatches sowie Migrationsstatistiken anzeigen sowie basierend auf ihren primären SMTP-Adressen Diagnoseinformationen für Benutzer abrufen. 
+- **Remote Windows PowerShell** – im Rahmen des Exchange Online-dienstupdates vom Dezember 2011 können Remote Windows PowerShell zur Behandlung von Migrationsfehlern verwendet werden. Beispielsweise können Administratoren Diagnoseinformationen für Migrationsbatches sowie Migrationsstatistiken anzeigen sowie basierend auf ihren primären SMTP-Adressen Diagnoseinformationen für Benutzer abrufen. 
     
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

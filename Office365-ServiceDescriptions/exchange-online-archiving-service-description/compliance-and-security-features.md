@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: In diesem Artikel erfahren Sie mehr über die Compliance-Features, die in Microsoft Exchange Online-Archivierung verfügbar sind.
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132739"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293621"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Kompatibilitäts-und Sicherheitsfeatures in Exchange Online Archivierung
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Kompatibilitätsfunktionen der Exchange Online-Archivierung
 
-Im folgenden Abschnitt werden die Kompatibilitätsfunktionen von Microsoft Exchange Online-Archivierung beschrieben.
+In diesem Artikel werden die Compliance-Features von Microsoft Exchange Online-Archivierung beschrieben.
   
 ### <a name="retention-policies"></a>Aufbewahrungsrichtlinien
 
@@ -119,9 +120,9 @@ IRM-geschützte Nachrichten sind indiziert und durchsuchbar, einschließlich Kop
 
 Exchange Online-Archivierung bietet zwei Arten von integrierten Überwachungsfunktionen:
   
-- **Administrator-Überwachungsprotokollierung** Die Administrator-Überwachungsprotokollierung ermöglicht Kunden das Nachverfolgen von Änderungen durch Administratoren in der Exchange Online-Archivierung-Umgebung, darunter Änderungen an der rollenbasierten Zugriffssteuerung oder an Exchange-Richtlinien und -Einstellungen. 
+- **Administrator-Überwachungsprotokollierung** – die Administrator-Überwachungsprotokollierung ermöglicht Kunden das Nachverfolgen von Änderungen, die Ihre Administratoren in der Exchange Online Archivierungsumgebung vorgenommen haben, einschließlich Änderungen an RBAC-Rollen oder Exchange-Richtlinien und-Einstellungen. 
     
-- **Postfachüberwachungsprotokollierung** Die Postfachüberwachungsprotokollierung ermöglicht Kunden das Nachverfolgen des Postfachzugriffs durch Benutzer, die nicht mit dem Postfachbesitzer identisch sind. 
+- **Postfachüberwachungsprotokollierung** -postfachüberwachungsprotokollierung ermöglicht Kunden das Nachverfolgen des Zugriffs auf Postfächer durch andere Benutzer als den Postfachbesitzer. 
     
 In der Exchange-Verwaltungskonsole stehen einige vordefinierte Überwachungsberichte zur Verfügung, einschließlich Berichten zu Administratorrollenänderungen, zu Beweissicherungsverfahren und zu Postfachzugriffen von Nicht-Besitzern. Administratoren können Berichte nach Datum und Rolle filtern, außerdem können sie alle Überwachungsereignisse für bestimmte Postfächer im XML-Format exportieren, um sie langfristig aufzubewahren oder benutzerdefinierte Berichte zu erstellen.
   

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
-ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
+ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48284987"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294161"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -315,11 +315,11 @@ Data Connectors-Dienste sind ein Wert auf Mandantenebene. Jeder Benutzer, der vo
 
 ## <a name="microsoft-graph-apis-for-teams-dlp"></a>Microsoft Graph-APIs für Teams DLP
 
-Anfang dieses Jahres haben wir [die öffentliche Vorschau der Microsoft Graph-Änderungs Benachrichtigungs-API für Nachrichten in Teams angekündigt](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages). Mit dieser API können Entwickler apps erstellen, die Microsoft Teams-Nachrichten in nahezu Echtzeit abhören und DLP-Szenario-Implementierungen sowohl für Kunden als auch für ISVs aktivieren. Darüber hinaus können mit der Microsoft Graph-Patch-API DLP-Aktionen auf Teams-Nachrichten angewendet werden.
+Anfang dieses Jahres haben wir [die öffentliche Vorschau der Microsoft Graph-Änderungs Benachrichtigungs-API für Nachrichten in Teams angekündigt](https://go.microsoft.com/fwlink/?linkid=2143888). Mit dieser API können Entwickler apps erstellen, die Microsoft Teams-Nachrichten in nahezu Echtzeit abhören und DLP-Szenario-Implementierungen sowohl für Kunden als auch für ISVs aktivieren. Darüber hinaus können mit der Microsoft Graph-Patch-API DLP-Aktionen auf Teams-Nachrichten angewendet werden.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Die Funktionen zur [Verhinderung von Datenverlust (Data Loss Prevention, DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) werden in Microsoft Teams häufig verwendet, zumal sich Organisationen zu Remote Arbeit verschoben haben. Wenn Ihre Organisation über DLP verfügt, können Sie jetzt Richtlinien definieren, die verhindern, dass Personen vertrauliche Informationen in einem Microsoft Teams-Kanal oder in einer Chatsitzung freigeben.
+Die Funktionen zur [Verhinderung von Datenverlust (Data Loss Prevention, DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) werden in Microsoft Teams häufig verwendet, zumal sich Organisationen zu Remote Arbeit verschoben haben. Wenn Ihre Organisation über DLP verfügt, können Sie jetzt Richtlinien definieren, die verhindern, dass Personen vertrauliche Informationen in einem Microsoft Teams-Kanal oder in einer Chatsitzung freigeben.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 

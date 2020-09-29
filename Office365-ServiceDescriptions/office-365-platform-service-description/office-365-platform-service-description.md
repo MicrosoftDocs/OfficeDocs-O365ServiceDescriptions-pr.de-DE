@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 und Office 365 sind in einer Vielzahl von Plänen verfügbar, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Plänen suchen, einschließlich Exchange Online Pläne, werden Sie in diesem Artikel erfahren, welche Features in jedem dieser Pläne enthalten sind.
-ms.openlocfilehash: 047da03c7cae7ef907824bdff95a94bd6f15bfb6
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261527"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293821"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365- und Office 365-Plattformdienstbeschreibung
 
@@ -189,7 +189,7 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-ons, die Sie f�
 |Erweiterte eDiscovery<sup>15</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Microsoft Secure Score<sup>7</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|**[Einhaltung](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
+|**[Compliance](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |SAS 70-/SSAE16-Bewertungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ISO 27001-Zertifizierung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |EU-Standardvertragsklauseln  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -218,7 +218,7 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-ons, die Sie f�
 <br/><sup>11</sup> in Office 365 Enterprise F3 ist Office 365 Video auf die Anzeige beschränkt (keine Veröffentlichung oder Freigabe). 
 <br/><sup>12</sup> in Office 365 Enterprise F3 ist Flow auf "Verbrauch" beschränkt, und die Ausführung ist auf 750 pro Benutzer und Monat beschränkt. 
 <br/><sup>13</sup> nur verfügbar in Office 365 Bildungsplänen, einschließlich Office 365 E5 Education. In Office 365 Enterprise E5 ist die Anwendung nicht verfügbar. 
-<br/><sup>14</sup> Weitere Informationen finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>14</sup> Weitere Informationen finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697). 
 <br/><sup>15</sup> Advanced eDiscovery wird in den Vereinigten Staaten und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.)
 <br/><sup>16</sup> Verbrauch nur für Microsoft Stream: keine Veröffentlichung oder Freigabe.
 <br/><sup>17</sup> ab Mai 2019 werden die vorhandenen berechtigten SKUs von Office 365 und Microsoft 365 mit Kaizala pro wieder gefüllt. Ab dem 1. Juni 2019 wird Kaizala pro in allen berechtigten Office 365 und Microsoft 365-SKUs enthalten sein.

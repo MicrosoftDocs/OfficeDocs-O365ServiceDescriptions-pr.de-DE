@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In diesem Thema werden die empfängerbezogenen Features von Microsoft Exchange Online beschrieben. Dazu gehören E-Mail, Kontakte, Verteilergruppen sowie Kalender- und Terminplanungsfunktionen.
-ms.openlocfilehash: a2d1f37bf4f86399522573d18177f6c397fd761c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5156272ea444414b8da650cf294f99bdfb8b4081
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132639"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293861"
 ---
 # <a name="recipients"></a>Empfänger
 
 In diesem Thema werden die empfängerbezogenen Features von Microsoft Exchange Online beschrieben. Dazu gehören E-Mail, Kontakte, Verteilergruppen sowie Kalender- und Terminplanungsfunktionen.
   
-## <a name="email"></a>E-Mails
+## <a name="email"></a>E-Mail
 
 Jeder Microsoft Exchange Online-Abonnent erhält ein Postfach; für die Planung von Einrichtungsressourcen (wie Konferenzräume) und für den Zugriff mehrerer Benutzer auf gemeinsam genutzte E-Mail-Adressen stehen Spezialpostfächer zur Verfügung. Für die meisten Postfächer gelten obere Speichergrenzwerte, und Administratoren können die zulässigen Postfachgrößen steuern. Automatisierte Benachrichtigungen und Beschränkungen können Benutzer warnen, wenn ihre Postfächer sich der maximalen Kapazität annähern oder sie erreichen. Exchange Online verfügt auch über verschiedene Arten an Nachrichtenbeschränkungen – Grenzwerte für Nachrichtengröße, Nachrichtenrate und Empfängerliste. Informationen über alle diese Funktionen und Grenzwerte werden nachfolgend angegeben.
   
@@ -57,7 +57,7 @@ Exchange Online ermöglicht es Benutzern, Posteingangsregeln zu erstellen, die a
   
 ### <a name="clutter"></a>Unwichtige Elemente
 
-Die Funktion "Unwichtige Elemente" soll Ihnen helfen, sich auf die wichtigsten Nachrichten in Ihrem Posteingang zu konzentrieren. Sie verschiebt durch maschinelles Lernen Nachrichten mit niedriger Priorität in Ihrem Posteingang in einen neuen Ordner namens "Unwichtige Elemente". Dabei werden Ihre vorhandenen E-Mail-Regeln berücksichtigt. Wenn Sie also Regeln zum Organisieren Ihrer E-Mails festgelegt haben, gelten diese Regeln weiterhin, und die betreffenden Nachrichten werden durch "Unwichtige Elemente" nicht beeinflusst. "Unwichtige Elemente" ist für Ihren Posteingang standardmäßig deaktiviert. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [De-clutter your inbox in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
+Die Funktion "Unwichtige Elemente" soll Ihnen helfen, sich auf die wichtigsten Nachrichten in Ihrem Posteingang zu konzentrieren. Sie verschiebt durch maschinelles Lernen Nachrichten mit niedriger Priorität in Ihrem Posteingang in einen neuen Ordner namens "Unwichtige Elemente". Dabei werden Ihre vorhandenen E-Mail-Regeln berücksichtigt. Wenn Sie also Regeln zum Organisieren Ihrer E-Mails festgelegt haben, gelten diese Regeln weiterhin, und die betreffenden Nachrichten werden durch "Unwichtige Elemente" nicht beeinflusst. "Unwichtige Elemente" ist für Ihren Posteingang standardmäßig deaktiviert. Weitere Informationen finden Sie im englischsprachigen Blogbeitrag [De-clutter your inbox in Office 365](https://go.microsoft.com/fwlink/?linkid=2144145).
   
 ### <a name="connected-accounts"></a>Verbundene Konten
 

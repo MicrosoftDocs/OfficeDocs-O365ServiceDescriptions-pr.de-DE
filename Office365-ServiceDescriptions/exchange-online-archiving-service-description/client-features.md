@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von Geräten und Plattformen eine Verbindung zu ihren archivpostfächern herstellen. Die gesamte Netzwerkverbindung mit dem Archiv des Benutzers erfolgt über das Internet, und es sind keine VPN-Verbindungen (virtuelles privates Netzwerk) erforderlich. Organisationen können einen lokalen Clientzugriffsserver veröffentlichen, damit Benutzer mit Outlook Anywhere auf ihr primäres Postfach zugreifen können, ohne dass eine VPN-Verbindung erforderlich ist. Wenn VPN für den Zugriff auf das primäre Postfach des Benutzers erforderlich ist, das sich auf einem lokalen Server befindet, ändert sich diese Anforderung nicht.
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: Lesen Sie diesen Artikel, um mehr über die Clientfeatures zu erfahren, die in Microsoft Exchange Online-Archivierung verfügbar sind.
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255902"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293637"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Client Features in Exchange Online Archivierung
 
@@ -29,8 +29,8 @@ Microsoft Exchange Online-Archivierung können Benutzer über eine Vielzahl von 
 
 Microsoft Outlook ist ein E-Mail-Programm mit umfassenden Funktionen, das Unterstützung für Kalendereinträge, Kontakte und Aufgaben bietet. Exchange Online-Archivierung unterstützt Outlook 2013, Outlook 2010 und Outlook 2007. Zu den zentralen Features zählen folgende:
   
-- **Outlook Anywhere** Outlook Anywhere ermöglicht Outlook-Benutzern das Herstellen einer Verbindung mit Exchange Server und Exchange Online Archivierung über das Internet, ohne dass eine VPN-Verbindung erforderlich ist. Die Kommunikation zwischen Outlook und Exchange Online-Archivierung erfolgt mithilfe der RPC-über-HTTP-Netzwerkkomponente von Windows über einen SSL-gesicherten Tunnel.    
-- **AutoErmittlung** Der Exchange AutoErmittlungsdienst konfiguriert Outlook automatisch für die Zusammenarbeit mit Exchange Online-Archivierung. Mit der AutoErmittlung können Outlook-Benutzer ihre erforderlichen Profileinstellungen direkt aus Exchange erhalten (und danach in festen Intervallen), dass Sie sich mit Ihrer e-Mail-Adresse und Ihrem Kennwort anmelden. 
+- Outlook **Anywhere** – Outlook Anywhere ermöglicht Outlook-Benutzern das Herstellen einer Verbindung mit Exchange Server und Exchange Online Archivierung über das Internet ohne eine VPN-Verbindung erforderlich ist. Die Kommunikation zwischen Outlook und Exchange Online-Archivierung erfolgt mithilfe der RPC-über-HTTP-Netzwerkkomponente von Windows über einen SSL-gesicherten Tunnel.    
+- **AutoErmittlung** : der Exchange-AutoErmittlungsdienst konfiguriert Outlook automatisch für die Zusammenarbeit mit Exchange Online Archivierung. Mit der AutoErmittlung können Outlook-Benutzer ihre erforderlichen Profileinstellungen direkt aus Exchange erhalten (und danach in festen Intervallen), dass Sie sich mit Ihrer e-Mail-Adresse und Ihrem Kennwort anmelden. 
 
 Outlook 2010 und höher und Outlook im Internet bieten Benutzern die vollständigen Features des Archivs sowie verwandte Features wie Aufbewahrungs-und archivrichtlinien.
   
@@ -41,9 +41,9 @@ Outlook 2007 bietet eine grundlegende Unterstützung des Archivs, jedoch nicht a
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clients, die von der Exchange Online-Archivierung unterstützt werden
 
-Die folgende Tabelle enthält die von der Exchange Online-Archivierung unterstützten Clients:
+Die folgende Tabelle enthält die von der Exchange Online-Archivierung unterstützten Clients:<br><br>
   
-|**Client**|**EOA-Unterstützung**|
+| Client | EOA-Unterstützung |
 |:-----|:-----|
 |Outlook 2013 und höher  <br/> |Unterstützt die neuesten Funktionen in Exchange Online-Archivierung.<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |Unterstützt die neuesten Features in Exchange Online Archivierung nur bis zum 13. Oktober 2020|

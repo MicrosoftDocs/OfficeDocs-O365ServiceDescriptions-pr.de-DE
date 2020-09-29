@@ -1,5 +1,5 @@
 ---
-title: Nachrichtenfluss [EoP]
+title: Nachrichtenfluss in Exchange Online Schutz
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Im Falle der meisten Organisationen, die Office 365 verwenden, hosten wir die Postfächer und übernehmen die Abwicklung des E-Mail-Flusses. Dies ist die einfachste Konfiguration und bedeutet, dass Microsoft alle Postfächer und Filterung verwaltet. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Mit Exchange Online Protection (EoP) können Sie dies tun und in der Cloud Antivirus-und Antispam-e-Mail-Verarbeitung bereitstellen.
-ms.openlocfilehash: 751551ef6b3ae710646b2fb63960eee5983d6c47
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Lesen Sie diesen Artikel, um mehr über den e-Mail-Fluss in Microsoft Exchange Online Protection (EoP) zu erfahren.
+ms.openlocfilehash: c6b885abe6522c3f8d1b780c8c64c621c34011c2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132819"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293671"
 ---
-# <a name="mail-floweop"></a>Nachrichtenfluss [EoP]
+# <a name="mail-flow-in-exchange-online-protection"></a>Nachrichtenfluss in Exchange Online Schutz
 
 Für die meisten Organisationen, die Microsoft verwenden, hosten wir Ihre Postfächer und kümmern uns um den Nachrichtenfluss. Dies ist die einfachste Konfiguration und bedeutet, dass Microsoft alle Postfächer und Filterung verwaltet. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Mit Exchange Online Protection (EoP) können Sie dies tun und in der Cloud Antivirus-und Antispam-e-Mail-Verarbeitung bereitstellen. Weitere Informationen zu EOP und den entsprechenden Kaufmodalitäten finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   

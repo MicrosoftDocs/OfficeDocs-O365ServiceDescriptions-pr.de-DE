@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 7a134e878d36539a6f51f2706dae29841282eefa
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261537"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294131"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -173,7 +173,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365, die von 21
 |Erweiterte eDiscovery|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Sicheres Ergebnis<sup>4</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Informationen zu Bedrohungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Einhaltung](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
+|**[Compliance](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |SAS 70-/SSAE16-Bewertungen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |ISO 27001-Zertifizierung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |EU-Standardvertragsklauseln|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -229,7 +229,7 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 |[Skype for Business](../office-applications-service-description/office-applications.md#skype-for-business)|Ja|Ja|Ja|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja|Ja<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Nein|Nein|Nein|Nein|Nein|Nein|Nr.<sup>5</sup>|Nein|Nein|Nein|
 |[Windows 10-apps](../office-applications-service-description/office-applications.md#windows-10-apps)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Nein|Ja|Nein|Nein|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
+|[Allgemeine Anforderungen für Outlook für Mac](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Nein|Ja|Nein|Nein|Nein|Ja|Nr.<sup>5</sup>|Nein|Ja|Nein|
 |Microsoft Office-App für Android|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Microsoft Office-App für IOS|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |[Office Mobile für iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>5</sup>|Ja|Ja|Ja|
@@ -278,7 +278,7 @@ In der folgenden Tabelle sind die Office 365 Anwendungsfeatures aufgeführt, die
 <br/><sup>6</sup> Office 2011 für Mac kann installiert, aber nicht aktiviert werden.
 <br/><sup>7</sup> Office 365 ProPlus wird für die benutzerspezifische virtuelle Desktopinfrastruktur (VDI) unterstützt. Office 365 ProPlus unterstützt nur Remote Desktop Dienste (RDS), wenn Sie über ein Volumenlizenzierungsprogramm erworben werden.
 <br/><sup>8</sup> die Volumenaktivierung für Office 365 Enterprise E3 und Office 365 ProPlus sind auf Installationen auf Windows Server 2008 R2 und neuer mit der aktivierten RDS-Rolle oder Windows to go-Installationen limitiert. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Enterprise E3 oder Office 365 ProPlus sein.
-<br/><sup>9</sup> der Zugriff ist derzeit verfügbar, wenn Sie sich im aktuellen Kanal oder in der gezielten Version für verzögerten Kanal befinden. Wenn Sie sich auf einen verzögerten Kanal begeben, steht der Zugriff im Juni 2017 zur Verfügung. Weitere Informationen finden Sie unter [Access im Rahmen von Office 365 Business und Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
+<br/><sup>9</sup> der Zugriff ist derzeit verfügbar, wenn Sie sich im aktuellen Kanal oder in der gezielten Version für verzögerten Kanal befinden. Wenn Sie sich auf einen verzögerten Kanal begeben, steht der Zugriff im Juni 2017 zur Verfügung. Weitere Informationen finden Sie unter [Access im Rahmen von Office 365 Business und Business Premium](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).
 <br/><sup>10</sup> Visio für das Internet befindet sich derzeit in der Vorschau für Office 365, betrieben von 21Vianet. Weitere Informationen zu Visio für das Internet finden Sie in der [Beschreibung des Webdiensts in Visio](../visio-online-service-description/visio-online-service-description.md).
 <br/><sup>11</sup> in Kürze in Office 365 betrieben von 21Vianet.
 <br/><sup>15</sup> Google-Dienste (einschließlich Play Store) sind innerhalb von China nicht zugänglich. Es gibt mehrere App-Stores, die von wichtigen Telefonherstellern oder Suchmaschinenunternehmen verwaltet werden und von denen Benutzer Mobile Apps installieren können.

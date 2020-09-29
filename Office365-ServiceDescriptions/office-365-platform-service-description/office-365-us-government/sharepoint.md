@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Erfahren Sie mehr über die SharePoint-Feature-Verfügbarkeit für US Government Cloud-Kunden.
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42175002"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294191"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint für US-Regierungs Umgebungen
 
@@ -40,7 +40,7 @@ Es gibt keine bekannten Unterschiede zwischen den Entwicklerfeatures für kommer
 - Verbindungen mit externen Anwendungen wie Datenquellen für Add-Ins sind auf Quellen begrenzt, die sich innerhalb der von ihrer Regierungs Umgebung unterstützten System Sicherheitsgrenzen befinden.
 - Business Connectivity Services (BCS) Funktionalität wird für Verbindungsszenarien unterstützt, in denen die Datenquellen innerhalb der Sicherheitsgrenze Ihres Cloud-Diensts erreichbar bleiben.
 
-Wenn Sie Drittanbieteranwendungen auf Websites verwenden, überprüfen Sie die von den Drittanbietern bereitgestellten Datenschutz-und Konformitätserklärungen, wenn Sie die entsprechende Verwendung dieser Dienste für Ihre Organisation bewerten. Drittanbieteranwendungen und-Dienste umfassen möglicherweise das Speichern, übertragen und Verarbeiten der Kundendaten Ihrer Organisation auf Drittanbietersystemen, die sich außerhalb der Regierungs Cloud befinden und daher nicht unter die Compliance-und Datenschutzbestimmungen fallen. Verpflichtungen. 
+Wenn Sie Drittanbieteranwendungen auf Websites verwenden, überprüfen Sie die von den Drittanbietern bereitgestellten Datenschutz-und Konformitätserklärungen, wenn Sie die entsprechende Verwendung dieser Dienste für Ihre Organisation bewerten. Drittanbieteranwendungen und-Dienste umfassen möglicherweise das Speichern, übertragen und Verarbeiten der Kundendaten Ihrer Organisation auf Drittanbietersystemen, die sich außerhalb der Regierungs Cloud befinden und daher nicht von den Compliance-und Datenschutzverpflichtungen abgedeckt werden. 
 
 ## <a name="it-admin-features"></a>IT-Administrator Features
 
@@ -60,7 +60,7 @@ Es gibt keine bekannten Unterschiede zwischen den Sicherheits-und Compliance-Fea
 
 Informationen zu den folgenden Funktionen finden Sie in der [Office 365 US Government Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features):
 - Kunden-Lockbox
-- Verhinderung von Datenverlusten (Data Loss Prevention, DLP)
+- Verhinderung von Datenverlust (Data Loss Prevention, DLP)
 - eDiscovery (Inhaltssuche, Aufbewahrung, Export)
 - Office 365 Advanced Threat Protection (ATP)
 - Vertraulichkeitsbezeichnungen
@@ -95,4 +95,4 @@ Ihr Wechsel zur Cloud bietet transformative Erfahrungen mit integrierten Adminis
 
 Nachdem Sie Ihre Organisation in der Microsoft US Government-Cloud eingerichtet haben, führen Sie den empfohlenen Bereitstellungspfad aus, der im [SharePoint-Adoptions-Ressourcencenter](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/)erläutert wird. Stellen Sie sicher, dass Sie sich mit ihren Champions für Akzeptanz und Change Management beschäftigen.
 Sie können [auch mit dem](https://www.microsoft.com/fasttrack) Kurzfilm oder Ihrem ausgewählten Partner zusammenarbeiten, um den Dienst für Ihre Benutzer bereitzustellen.
-Besuchen Sie das [Microsoft Trust Center](https://www.microsoft.com/en-us/trust-center) , um mehr darüber zu erfahren, wie Microsoft Sicherheit, Datenschutz und Compliance angeht, Kernprinzipien dafür, wie wir Organisationen bei der Bereitstellung Ihrer Kunden unterstützen.
+Besuchen Sie das [Microsoft Trust Center](https://www.microsoft.com/trust-center) , um mehr darüber zu erfahren, wie Microsoft Sicherheit, Datenschutz und Compliance angeht, Kernprinzipien dafür, wie wir Organisationen bei der Bereitstellung Ihrer Kunden unterstützen.

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word für das Web (ehemals Word Web App) erweitert Ihre Microsoft Word Erfahrung auf den Webbrowser, wo Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist.
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616911"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294051"
 ---
 # <a name="word-for-the-web"></a>Word für das Web
 
@@ -160,7 +160,7 @@ Einfügen von Seitenumbrüchen in Word für das Internet und die Word-Desktop-Ap
 
 Mit Word für das Internet können Sie die Ränder, die Papiergröße anpassen und festlegen, ob die Seite vertikal oder horizontal in Ihren Dokumenten angeordnet ist. In Word für das Internet werden keine Lineale und Gitternetzlinien angezeigt. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Dokuments im Browser und in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
   
-Hier erfahren Sie, wie Sie [eine leere Seite in Word für das Internet löschen](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1).
+Hier erfahren Sie, wie Sie [eine leere Seite in Word für das Internet löschen](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1).
   
 ## <a name="page-layout-tools-advanced"></a>Seitenlayout-Tools, erweitert
 
