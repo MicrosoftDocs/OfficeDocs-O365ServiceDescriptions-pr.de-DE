@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
+ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293851"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367762"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -459,7 +459,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 <sup>9</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/> <sup>10</sup> verbundene Konten werden für Pop- &amp; IMAP-Konten unterstützt, sind jedoch für Outlook.com (Hotmail) deaktiviert. <br/>
 <sup>11</sup> ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das das Feature für inaktives Postfach erforderlich ist. <br/>
 <sup>12</sup> das Verwenden eines Cmdlets zum Arbeiten mit der Adressliste und der globalen Adresslistewird nicht unterstützt. <br/>
-<sup>13</sup> erfordert die Verwendung von Verfügbarkeitsadressraum zur Unterstützung der Freigabe für andere Mandanten. Weitere Informationen zum Erstellen eines Verfügbarkeits Adressraums finden Sie unter [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind.<br/>
+<sup>13</sup> erfordert die Verwendung von Verfügbarkeitsadressraum zur Unterstützung der Freigabe für andere Mandanten. Weitere Informationen zum Erstellen eines Verfügbarkeits Adressraums finden Sie unter [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind.<br/>
 <sup>15</sup> Pop wird unterstützt, IMAP jedoch nicht.<br/>
 <sup>16</sup> einige Drittanbieter-Webparts und-Add-Ins sind möglicherweise nicht verfügbar.
 
