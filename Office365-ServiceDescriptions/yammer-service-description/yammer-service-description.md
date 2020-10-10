@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Hier erfahren Sie, welche Features in den verschiedenen Plänen zum jammern verfügbar sind.
-ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276743"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408251"
 ---
 # <a name="yammer-service-description"></a>Beschreibung des Yammer-Dienstes
 
 Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer macht die Mitarbeiter produktiver und erfolgreicher: Sie können problemlos zusammenarbeiten, schneller Entscheidungen treffen und sich selbstständig zu Teams zusammenschließen, die es mit jeder Herausforderung für das Unternehmen aufnehmen. Diese völlig neue Arbeitsweise fördert ganz natürlich die Ausrichtung und Agilität des Unternehmens, verkürzt die Durchlaufzeiten, motiviert die Mitarbeiter und verbessert die Beziehungen zu Kunden und Partnern gleichermaßen.
   
-Eine Liste der Pläne, die jammern einschließen, finden Sie unter [Microsoft-Dienst Familien und-Pläne](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
+Eine Liste der Pläne, die jammern einschließen, finden Sie unter [Microsoft-Dienst Familien und-Pläne](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans).
   
 Informationen zum Vergleich der Features in den Plänen finden Sie unter [leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
