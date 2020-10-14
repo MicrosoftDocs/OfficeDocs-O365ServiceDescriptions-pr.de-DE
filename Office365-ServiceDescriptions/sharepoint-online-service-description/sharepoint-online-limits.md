@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Erfahren Sie mehr über die SharePoint-Grenzwerte für Microsoft 365 und eigenständige Pläne.
-ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
+ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276726"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48447342"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -48,7 +48,7 @@ Eine Liste kann bis zu 30 Millionen Elemente enthalten, und eine Bibliothek kann
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Eindeutige Berechtigungen für Elemente in einer Liste oder Bibliothek
 
-Der zulässige Grenzwert ist 50.000 eindeutig-Berechtigungselemente, aber der empfohlene allgemeine Grenzwert ist 5.000. Das vornehmen von Änderungen an mehr als 5.000 Elementen mit eindeutiger Berechtigung gleichzeitig dauert länger. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
+Der zulässige Grenzwert ist 50.000 eindeutig Berechtigungselemente, aber die empfohlene allgemeine Grenze ist 5.000. Das vornehmen von Änderungen an mehr als 5.000 einmalig berechtigten Elementen gleichzeitig dauert länger. Bei umfangreichen Listen sollte Design so wenig eindeutige Berechtigungen wie möglich aufweisen.
 
 Ein weiterer Grenzwert ist 5.000 Rollenzuweisungen pro eindeutig Berechtigungselement. 
 
@@ -66,9 +66,9 @@ Das Kopieren/Verschieben mehrerer Dateien in einem einzelnen Vorgang hat drei An
 
 ### <a name="sync"></a>Synchronisierung
 
-**Neue OneDrive-Sync-App** – für eine optimale Leistung wird empfohlen, nicht mehr als 300.000 Dateien pro Benutzer in allen synchronisierten Dokumentbibliotheken zu speichern, selbst wenn Sie Dateien bei Bedarf verwenden oder nur einige Ordner innerhalb der zu synchronisierenden Bibliotheken auswählen.
+**Aktuelle OneDrive-Sync-app (OneDrive.exe)** – für eine optimale Leistung wird empfohlen, nicht mehr als 300.000 Dateien pro Benutzer in allen synchronisierten Dokumentbibliotheken zu speichern, selbst wenn Sie Dateien bei Bedarf verwenden oder nur einige Ordner innerhalb der zu synchronisierenden Bibliotheken auswählen.
 
-**Frühere OneDrive für Unternehmen Sync-app (Groove.exe)** – Sie können insgesamt bis zu 20.000 Elemente für alle synchronisierten Bibliotheken synchronisieren. Dies umfasst OneDrive-Bibliotheken, Teamwebsite-Bibliotheken oder beides. Unabhängig vom gesamten Synchronisierungs Grenzwert gibt es Einschränkungen für die Anzahl der Elemente, die für jeden Bibliotheks synchronisiert werden können:
+**Frühere OneDrive für Unternehmen Sync-app (Groove.exe wird mit älteren lokalen SharePoint-Umgebungen verwendet)** -Sie können insgesamt bis zu 20.000 Elemente für alle synchronisierten Bibliotheken synchronisieren. Dies umfasst OneDrive-Bibliotheken, Teamwebsite-Bibliotheken oder beides. Unabhängig vom gesamten Synchronisierungs Grenzwert gibt es Einschränkungen für die Anzahl der Elemente, die für jeden Bibliotheks synchronisiert werden können:
 
    - Sie können bis zu 20.000 Elemente in einer OneDrive-Bibliothek synchronisieren. Dies umfasst Ordner und Dateien. 
    - Sie können bis zu 5.000 Elemente in einer SharePoint-Bibliothek synchronisieren. Dies umfasst Ordner und Dateien. Dabei handelt es sich um Bibliotheken, die Sie auf verschiedenen SharePoint-Websites finden, wie Teamwebsites und Community-Websites, Bibliotheken, die von anderen Benutzern erstellt wurden oder die Sie auf der Seite Websites erstellt haben. Sie können mehrere SharePoint-Bibliotheken synchronisieren. Alle Teamwebsites, die Sie synchronisieren, gelten auch für die gesamte 20.000-Elementgrenze für alle synchronisierten Bibliotheken.
@@ -117,6 +117,6 @@ Ein Benutzer kann zu 5.000 Gruppen pro Website (Websitesammlung) gehören, und j
 > [!NOTE]
 > Es gibt keine Begrenzung für die Anzahl der Gäste, die Sie zu SharePoint-Websites einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [External Sharing Overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 [Such Grenzwerte für SharePoint](/sharepoint/search-limits)
