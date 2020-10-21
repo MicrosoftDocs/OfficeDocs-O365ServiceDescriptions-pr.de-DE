@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in den US-Bundesländern, Staaten, lokalen, Stammes-oder Gebietskörperschaften oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government-gcc geeignet ist, diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 6abcf5a70307a554661f2eb7ec7b6ca3019dec61
+ms.sourcegitcommit: dcacd13c1cf1c60526c48fc923db5de643facc07
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293871"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "48626876"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Plan for Microsoft 365 Compliance – gcc
 
@@ -22,7 +22,7 @@ Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 36
 > [!NOTE]
 > Wenn Ihre Organisation bereits die Microsoft 365 Government-gcc-Zulassungsvoraussetzungen erfüllt und in das Programm übernommen und akzeptiert wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Schritt 1. Ermitteln, ob Ihre Organisation Microsoft 365 Government-gcc benötigt und die Zulassungsvoraussetzungen erfüllt
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Schritt 1: Ermitteln, ob Ihre Organisation Microsoft 365 Government-gcc benötigt und die Zulassungsvoraussetzungen erfüllt
 
 Die Microsoft 365 Government-gcc-Umgebung erfüllt die US-behördlichen Anforderungen für Cloud-Dienste, einschließlich FedRAMP moderat, und Anforderungen für Strafjustiz und Eidgenössische Steuer Informationssysteme (CJI-und FTI-Datentypen).
 
@@ -66,95 +66,113 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 
 | Bereich | Feature | GCC-Status |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
-| **Schutz von Daten**              | Einheitliche Beschriftungs-und Vertraulichkeits Bezeichnungen         | Available              |
-|                                         | Container Beschriftungen für SharePoint Online, Office-Gruppen          | Rollout              |
-|                                         | Automatische Beschriftung basierend auf vertraulichen Datentypen für Excel Online, SharePoint Online OneDrive für Unternehmen                      | Rollout              |
-|                                         | Bezeichnungen basierend auf vertraulichen Datentypen für Win32-und Mac-Office-Clients            | Im Entwicklungsrückstand |
-|                                         | Automatische Kennzeichnung basierend auf vertraulichen Datentypen für Win 32, Mac |  Im Entwicklungsrückstand              |
-|                                         | Automatische Kennzeichnung basierend auf vertraulichen Datentypen für Teams                                       |Im Entwicklungsrückstand              |
-|                                         | Automatische Kennzeichnung basierend auf vertraulichen Datentypen für Mobilgeräte                            |Im Entwicklungsrückstand |
-|                                         | Bezeichnungen und zugeordnete Richtlinien basierend auf Abfragen                            | Available |
-|                                         | Bezeichnungsaktivitäten-Explorer                           | Im Entwicklungsrückstand  |
-|                                         | Trainierbare Klassifizierungsmerkmale                              | Im Entwicklungsrückstand              |
+| **Schutz von Daten**              | Unified Labeling-Client und-Scanner         | Available              |
+|                                         | Exakte Datenübereinstimmung          | Available              |
+|                                         | Automatische Klassifizierung und Beschriftung für Exchange Online, SharePoint Online und OneDrive                      | Rollout              |
+|                                         | Klassifizierungs gesteuerte Richtlinien mit Office 365 Gruppen            | Rollout |
+|                                         | Automatische Klassifizierung und Kennzeichnung für Office-App (Word, Excel, PowerPoint, Outlook) plattformübergreifend (Internet, Android, Ios, Windows und Mac) |  In der Entwicklung              |
+|                                         | Automatische Klassifizierung und Kennzeichnung für mobile Geräte                                       | Im Entwicklungsrückstand              |
+|                                         | Automatische Klassifizierung und Kennzeichnung für Teams                            | Im Entwicklungsrückstand |
+|                                         | Datenklassifizierung: Übersicht und Inhalts Aktivitäts-Explorer                            | Im Entwicklungsrückstand |
+|                                         | Maschinelle Schulungs Klassifizierungen mit automatischer Kennzeichnung                           | Im Entwicklungsrückstand  |
 |                                         | Grundlegende Office 365 Nachrichtenverschlüsselung (E3)                            | Available              |
 |                                         | Erweiterte Office 365 Nachrichtenverschlüsselung (E5)  | Available              |
 |                                         | Kundenschlüssel für Office 365    | Available |
 |                                         | Mitbringen eines eigenen Schlüssels (BYOK) für den Lebenszyklus von Kunden verwalteter Schlüssel Bereitstellung                            | Available |
 |                                         | Halten Sie Ihren eigenen Schlüssel (Hyok), der sich über Azure Information Protection-und Active Directory (AD)-Rechteverwaltung für stark regulierte Szenarien erstreckt (Vorschau)                         | Available |
-|                                         | Verschlüsselung mit Doppelschlüssel                           | Im Entwicklungsrückstand |
+|                                         | Verschlüsselung mit Doppelschlüssel                           | Rollout |
+|                                         | Gemeinsame Dokumenterstellung in verschlüsselten Dokumenten mit WXP-Webanwendungen                           | Im Entwicklungsrückstand |
 |                                         | Verhinderung von Datenverlust (DLP) für Dateien und e-Mail         | Available |
-|                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen         | Rollout |
-|                                         | Exakte DLP-Datenübereinstimmung | Im Entwicklungsrückstand |
+|                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen         | In der Entwicklung |
 |                                         | DLP-Endpunkt | Im Entwicklungsrückstand |
-| **Informationsgovernance** | E-Mail-Archivierung                                       | Available              |
-|                                         | Aufbewahrungs Sperre          | Available              |
-|                                         | PST-Datei importieren                      | Available              |
-|                                         | Manuelle Aufbewahrungs Bezeichnungen ohne Daten Satz            | Available |
-|                                         | Standardmäßige Aufbewahrungs Bezeichnungen für SharePoint/OneDrive für Unternehmen-Bibliotheken,-Ordner und-Dokumentenmappen; Exchange-Posteingänge; und Office 365 Gruppen | Available              |
-|                                         | Aufbewahrungsrichtlinien für die gesamte Organisation; bestimmte Standorte oder Benutzer; und automatisch basierend auf bestimmten Bedingungen (beispielsweise Schlüsselwörter oder vertrauliche Informationen)                                       | Available              |
-|                                         | Aufbewahrungsrichtlinien mit Schulungs Klassifizierer                            | Im Entwicklungsrückstand |
-|                                         | Aufbewahrungsrichtlinien für "jammern" und "Teams"                            | Im Entwicklungsrückstand |
-|                                         | Manuelle Daten Satzbezeichnungen                           | Available              |
-|                                         | Standardmäßige Daten Satzbezeichnungen für SharePoint, OneDrive für Unternehmen Bibliotheken, Ordner und Dokumentenmappen; und Office 365 Gruppen                              | Available              |
-|                                         | Automatische Datensatzrichtlinien basierend auf bestimmten Bedingungen (beispielsweise Schlüsselwörter oder vertrauliche Informationen); und basierend auf einem Ereignis                            | Available              |
-|                                         | Dispositionsüberprüfung  | Available              |
-|                                         | Dateiplan-Manager    | Available |
-|                                         | Nachweis der Entsorgung                            | Available |
-|                                         | Regulatorische Datensätze                         | Im Entwicklungsrückstand |
-|                                         | Durchsetzung der Daten Satz Verwaltungs Lizenzierung                           | Im Entwicklungsrückstand |
-|                                         | Überprüfung der mehrstufigen Disposition für die Datensatzverwaltung | Im Entwicklungsrückstand |
-|                                         | Bezeichnungsaktivitäten-Explorer | Im Entwicklungsrückstand |
-|                                         | Trainierbare Klassifizierungsmerkmale | Im Entwicklungsrückstand |
-|                                         | Einheitliche Beschriftungs-und Vertraulichkeits Bezeichnungen         | Im Entwicklungsrückstand |
+| **Informationsgovernance** | Information Governance: e-Mail-Archivierung                                       | Available              |
+|                                         | Information Governance: Aufbewahrungs Sperre          | Available              |
+|                                         | Information Governance: Importieren von PST-Dateien                      | Available              |
+|                                         | Information Governance: manuelle Aufbewahrungs Bezeichnungen, die nicht aufgezeichnet werden            | Available |
+|                                         | Information Governance: standardmäßige Aufbewahrungs Bezeichnungen für SharePoint, OneDrive für Unternehmen Bibliotheken, Ordner und Dokumentenmappen; Exchange-Posteingänge; und Office 365 Gruppen | Available              |
+|                                         | Information Governance: Aufbewahrungsrichtlinien für die gesamte Organisation; bestimmte Standorte oder Benutzer; automatisch basierend auf einer bestimmten Bedingung (beispielsweise Schlüsselwörter oder vertrauliche Informationen); und basierend auf einem Ereignis                                       | Available              |
+|                                         | Information Governance: Aufbewahrungsrichtlinien mit Schulungs Klassifizierer                            | Im Entwicklungsrückstand |
+|                                         | Information Governance: Aufbewahrungsrichtlinien für jammern und Teams                            | Im Entwicklungsrückstand |
+|                                         | Information Governance: Aufbewahrungs Bezeichnungen mithilfe der SharePoint-Syntex Klassifizierung                           | Im Entwicklungsrückstand              |
+|                                         | Datensatzverwaltung: manuelle Klassifizierung für Daten Satzbezeichnungen                           | Available              |
+|                                         | Datensatzverwaltung: standardmäßige Daten Satzbezeichnungen für SharePoint, OneDrive für Unternehmen Bibliotheken, Ordner und Dokumentenmappen; und Office 365 Gruppen                              | Available              |
+|                                         | Datensatzverwaltung: automatische Datensatzrichtlinien basierend auf bestimmten Bedingungen (beispielsweise Schlüsselwörter oder vertrauliche Informationen); und basierend auf einem Ereignis                            | Available              |
+|                                         | Datensatzverwaltung: Disposition Review  | Available              |
+|                                         | Datensatzverwaltung: Datei Plan-Manager    | Available |
+|                                         | Datensatzverwaltung: Nachweis der Entsorgung                            | Available |
+|                                         | Datensatzverwaltung: Daten Satz Versionsverwaltung                            | Available |
+|                                         | Datensatzverwaltung: regulatorische Datensätze (öffentliche Vorschau)                         | In der Entwicklung |
+|                                         | Datensatzverwaltung: Durchsetzung von Lizenzen                           | Rollout |
+|                                         | Datensatzverwaltung: mehrstufige Dispositions Überprüfung | Im Entwicklungsrückstand |
+|                                         | Datensatzverwaltung: Bezeichnungs Aktivitäts-Explorer | Im Entwicklungsrückstand |
+|                                         | Datensatzverwaltung: Auszubildende Klassifizierer | Im Entwicklungsrückstand |
 | **Insider-Risikomanagement**             | Kunden-Lockbox                                | Available            |
-|                                         | Office-Indikatoren für Teams, SharePoint-Websites, e-Mail-Messaging                         | Rollout |
-|                                         | Datendiebstahl durch Benutzer                        | Rollout |
-|                                         | Allgemeine Datenlecks                                | Rollout              |
-|                                         | Untersuchen von Warnungen beim Insider Risikomanagement                                   | Rollout              
-|                                         | Fall Dashboard für Insider Risikomanagement, Inhalts-Explorer und Notiz Vorlagen | Rollout |
-|                                         | Eskalieren zur Untersuchung für Advanced eDiscovery | Rollout|
-|                                         | Datenlecks nach Prioritäts Benutzern (Vorschau) | im Entwicklungsrückstand |
-|                                         | Datenverluste durch verärgerte Benutzer (Vorschau) | im Entwicklungsrückstand |
-|                                         | Allgemeine Sicherheitsrichtlinienverletzungen (Vorschau) | im Entwicklungsrückstand |
-|                                         | Sicherheitsrichtlinienverletzungen nach Prioritäts Benutzern, abgehenden Benutzern, verärgerten Benutzern (Vorschau) | im Entwicklungsrückstand |
-|                                         | Richtlinien Anpassung (Vorschau) | im Entwicklungsrückstand |
-|                                         | Warnungen exportieren (Vorschau) | im Entwicklungsrückstand |
-|                                         | Prioritäts Benutzergruppen (Vorschau) | im Entwicklungsrückstand |
-|                                         | Erstellen von Kunden Richtlinien, 3 vorkonfiguriert für die Kommunikations Konformität (einschließlich Aufsichtsrichtlinien)  | Rollout |
-|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien) Unterstützung für Teams, Exchange und Entfernen von Teams-Nachricht | Rollout |
-|                                         | Kommunikations Kompatibilität (einschließlich Aufsichtsrichtlinien) Zugriffs Warnungen; Hinweis Vorlagen; Kommunikationsrichtlinien-Dashboard | Rollout  |
-|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien) eskalieren zur Untersuchung für Advanced eDiscovery | Rollout |
-|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien) erkennen von Inhalten für Erwachsene | Rollout |
+|                                         | Insider Risiko Management: Office-Indikatoren für Teams, SharePoint-Websites, e-Mail-Messaging                         | In der Entwicklung |
+|                                         | Insider Risiko Management: Datendiebstahl durch Benutzer                        | In der Entwicklung |
+|                                         | Insider Risiko Management: allgemeine Datenlecks                                | In der Entwicklung              |
+|                                         | Insider Risikomanagement: Untersuchen von Warnungen beim Insider Risikomanagement                                   | In der Entwicklung              |
+|                                         | Insider Risikomanagement: Fall Dashboard, Inhalts-Explorer und Benachrichtigungsvorlagen | In der Entwicklung |
+|                                         | Insider Risiko Management: Eskalation zur Untersuchung für Advanced eDiscovery | In der Entwicklung|
+|                                         | Insider Risiko Management: Richtlinienvorlagen für Datenverluste nach Prioritäts Benutzern (Vorschau) | Im Entwicklungsrückstand |
+|                                         | Insider Risiko Management: Richtlinienvorlagen für Datenverluste durch verärgerte Benutzer (Vorschau) | Im Entwicklungsrückstand |
+|                                         | Insider Risiko Management: Richtlinienvorlagen für allgemeine Sicherheitsrichtlinienverletzungen (Vorschau) | Im Entwicklungsrückstand |
+|                                         | Insider Risiko Management: Richtlinienvorlagen für Sicherheitsrichtlinienverletzungen nach Prioritäts Benutzern, Benutzer mit abgehender Priorität, verärgerte Benutzer (Vorschau) | Im Entwicklungsrückstand |
+|                                         | Insider Risiko Management: Richtlinien Anpassung (Vorschau) | Im Entwicklungsrückstand |
+|                                         | Insider Risiko Management: Export Benachrichtigungen (Vorschau) | Im Entwicklungsrückstand |
+|                                         | Insider Risiko Management: Prioritäts Benutzergruppen (Vorschau) | Im Entwicklungsrückstand |
+|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Erstellen von Kunden Richtlinien, 3 vorkonfiguriert  | Rollout |
+|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Unterstützung für Teams, Exchange und Entfernen von Microsoft Teams-Nachricht | Rollout |
+|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Zugriffs Warnungen; Hinweis Vorlagen; Kommunikationsrichtlinien-Dashboard | Rollout  |
+|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Eskalation zur Untersuchung für Advanced eDiscovery | Rollout |
+|                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Ermitteln von Inhalten für Erwachsene | Rollout |
 |                                         | Informationsbarrieren | Im Entwicklungsrückstand |
-|                                         | Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
+|                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
 | **Antworten auf & ermitteln**                  | Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
+|                                         | Zentrale eDiscovery: Überwachung                                 | Available              |
 |                                         | Zentrale eDiscovery: Fallverwaltung                                 | Available              |
-|                                         | Zentrale eDiscovery: Suche                                          | Available              |
 |                                         | Haupt-eDiscovery: Export                                          | Available              |
-|                                         | Zentrale eDiscovery: RMS-Entschlüsselung                                  | Available              |
-|                                         | Zentrale eDiscovery: nativer Export                                   | Available              |
-|                                         | Zentrale eDiscovery: Überwachung                                        | Available              |
+|                                         | Zentrale eDiscovery: nativer Export                                  | Available              |
+|                                         | Zentrale eDiscovery: RMS-Entschlüsselung                                   | Available              |
+|                                         | Zentrale eDiscovery: Microsoft Compliance Center erweiterte Unterstützung für das Suchen und Exportieren von Elementen in SharePoint und OneDrive für Unternehmen Papierkorb                                        | In der Entwicklung              |
 |                                         | Erweiterte eDiscovery: erweiterte Verarbeitung                             | Available |
-|                                         | Erweiterte eDiscovery: e-Mail-Threading                                 | Available |
-|                                         | Erweiterte eDiscovery: nahe doppelte Identifikation                   | Available |
-|                                         | Erweiterte eDiscovery: Designs                                          | Available |
-|                                         | Advanced eDiscovery: Predictive Coding                               | Available |
-|                                         | Erweiterte eDiscovery: verarbeitete Exportdatei mit lastdatei                 | Available |
-|                                         | Erweiterte eDiscovery: Tagging                                         | Available |
-|                                         | Erweiterte eDiscovery: Viewer                                         | Available |
-|                                         | Erweiterte eDiscovery:-Aktionen                                      | Available |
-|                                         | Erweiterte eDiscovery: Filterung                                       | Available |
-|                                         | Erweiterte eDiscovery: Depotverwaltung für Arbeits Auslastungs Zuordnung                   | Available |
-|                                         | Erweiterte eDiscovery: Depotbank-Kommunikation                        | Available |
+|                                         | Erweiterte eDiscovery: Dashboard                                 | Available |
+|                                         | Erweiterte eDiscovery: e-Mail-Threading                   | Available |
+|                                         | Advanced eDiscovery: Export (herunterladen, exportieren, zu einem anderen ansichtssatz hinzufügen)                                          | Available |
+|                                         | Erweiterte eDiscovery: Filterung                               | Available |
+|                                         | Erweiterte eDiscovery: rechtliche Aufbewahrung für private Channel-Nachrichten in Microsoft Teams                 | Available |
+|                                         | Erweiterte eDiscovery: nahe doppelte Identifikation                                         | Available |
+|                                         | Erweiterte eDiscovery: Datenquellen ohne Freiheitsentzug                                         | Available |
+|                                         | Erweiterte eDiscovery: nicht Office 365E Einnahme                                      | Available |
+|                                         | Advanced eDiscovery: Predictive Coding                                       | Available |
+|                                         | Erweiterte eDiscovery: verarbeitete Exportdatei mit lastdatei                   | Available |
+|                                         | Erweiterte eDiscovery:-Aktionen                        | Available |
 |                                         | Erweiterte eDiscovery: Überprüfungs Sätze                                     | Available |
-|                                         | Erweiterte eDiscovery: überprüfen und kommentieren                             | Available |
-|                                         | Erweiterte eDiscovery: nicht Office 365E Einnahme                        | Available |
-|                                         | Erweiterte eDiscovery: Suchbegriffs Bericht                              | Available |
+|                                         | Erweiterte eDiscovery: Überprüfen der Daten (Abfrage Daten, Smarttags, Dashboards) und annotieren (redact)                             | Available |
+|                                         | Erweiterte eDiscovery: Suchbegriffs Bericht                        | Available |
+|                                         | Erweiterte eDiscovery: Fehlerbehebung für einzelne Elemente                              | Available |
+|                                         | Erweiterte eDiscovery: Unterstützung für PST-Export                              | Available |
+|                                         | Erweiterte eDiscovery: Tagging                              | Available |
+|                                         | Erweiterte eDiscovery: Mandanten Berichte                              | Available |
+|                                         | Erweiterte eDiscovery: Designs                              | Available |
+|                                         | Erweiterte eDiscovery: Viewer                              | Available |
+|                                         | Erweiterte eDiscovery: jammern erweiterte eDiscovery im Microsoft Compliance Center                              | Available |
+|                                         | Erweiterte eDiscovery: Microsoft Compliance Center erweiterte Unterstützung für das Suchen und Exportieren von Elementen in SharePoint und OneDrive für Unternehmen Papierkorb                              | In der Entwicklung |
+|                                         | Erweiterte eDiscovery: Graph-APIs                              | In der Entwicklung |
+|                                         | Erweiterte eDiscovery: Reaktionen von Support Teams                              | In der Entwicklung |
 |                                         | Grundlegende Überwachung                              | Available |
-|                                         | Erweiterte Überwachung: Zugriff auf wichtige Ereignisse (beispielsweise mailitemsaccessed)                              | Rollout |
-|                                         | Erweiterte Überwachungsprotokoll Aufbewahrung (1 Jahr)                               | Rollout |
-|                                         | Erweiterte Überwachung erhöhte Bandbreite zur Verwaltungs Aktivitäts-API                              | Rollout |
-|    **Verwaltung der Richtlinientreue**            | Compliance-Manager und Bewertung                              | Im Entwicklungsrückstand |
+|                                         | Erweiterte Überwachung: Zugriff auf wichtige Ereignisse (beispielsweise mailitemsaccessed)                              | Available |
+|                                         | Erweiterte Überwachung: erhöhte Bandbreite zur Verwaltungs Aktivitäts-API                              | Available |
+|                                         | Erweiterte Überwachung: Rechtliche Aufbewahrungspflicht für Microsoft Teams-Nachrichten für private Kanäle                               | Available |
+|                                         | Erweiterte Überwachung: Protokollaufbewahrung (1 Jahr)                               | Available |
+|                                         | Erweiterte Überwachung: Security and Compliance Center                               | Available |
+|                                         | Erweiterte Überwachung: längerfristige Aufbewahrung in Überwachungsprotokollen                               | Im Entwicklungsrückstand |
+|                                         | Erweiterte Überwachung: e-Mail-Weiterleitung und e-Mail-Sendeereignisse                               | Im Entwicklungsrückstand |
+|                                         | Erweiterte Überwachung: verarbeitete Überwachungs Einblicke                               | Im Entwicklungsrückstand |
+|                                         | Erweiterte Überwachung: Suchbegriffs Ereignisse in Exchange Online und SharePoint Online                              | Im Entwicklungsrückstand |
+|    **Verwaltung der Richtlinientreue**            | Microsoft 365 Security and Compliance Center                              | Available |
+|                                         | Compliance-Manager (Vorschau)                              | Im Entwicklungsrückstand |
+|                                         | Microsoft Cloud App-Sicherheit                              | Im Entwicklungsrückstand |
+|                                         | Unterstützung von Doppelbytezeichen                              | Im Entwicklungsrückstand |
 
 
 
