@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294161"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661293"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -164,7 +164,7 @@ Im folgenden werden die Vorteile für die Benutzer des Compliance-Manager-Dienst
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Kunden mit Office 365 E1/a1/E3/a3-und Microsoft 365 E3/A3-Lizenzen können auf die Datenschutz-Basisbewertung zugreifen. Kunden mit Office 365 E5/a5-und Microsoft 365 E5/A5-Lizenzen können vordefinierte Bewertungen für den Zugriff auf Datenschutz Basis, dsgvo, NIST 800-53 und ISO 22701 erhalten. Kunden benötigen mindestens eine Office 365 E5/A5-oder Microsoft 365 E5/A5-Lizenz, um das benutzerdefinierte Bewertungsfeature verwenden zu können. Premium Assessments können für Office 365 E5/a5-und Microsoft 365 E5/A5-Kunden erworben werden.
+Kunden mit Office 365 E5/a5-und Microsoft 365 E5/A5-Lizenzen können sofort auf die standardmäßigen Bewertungen von Datenschutz Basis, dsgvo, NIST 800-53 und ISO 27001 zugreifen und das benutzerdefinierte Bewertungsfeature verwenden. Premium Assessments können für Office 365 E5/a5-und Microsoft 365 E5/A5-Kunden erworben werden.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -489,7 +489,7 @@ Informationsbarrieren sind Richtlinien, die ein Administrator konfigurieren kann
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:<br><br>
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:<br><br>
 
 | Szenario | Wer benötigt eine Lizenz? |
 |:------|:------|:------|

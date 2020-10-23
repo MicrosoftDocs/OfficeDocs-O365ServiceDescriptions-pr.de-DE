@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Hier erfahren Sie, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294103"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661263"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -42,7 +42,7 @@ Informationen zu den neuesten Features, die veröffentlicht werden, finden Sie u
 
 Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Informationen zu unterschiedlichen Plänen, einschließlich eigenständiger Planoptionen und Informationen zum Wechseln von einem Plan zu einem anderen, finden Sie unter [Microsoft 365 Plan Options](../office-365-platform-service-description/office-365-plan-options.md).
   
-Um auf SharePoint zuzugreifen, müssen Benutzern in Ihrer Organisation eine Lizenz zugewiesen werden, die SharePoint umfasst. Ein Firstplan-Plan wird nicht als eigenständiges Angebot verkauft, sondern nur im Rahmen von [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
+Um auf SharePoint zuzugreifen, müssen Benutzern in Ihrer Organisation eine Lizenz zugewiesen werden, die SharePoint umfasst. Ein Firstplan-Plan wird nicht als eigenständiges Angebot verkauft, sondern nur im Rahmen von [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1), [Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) oder [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab). 
   
 ## <a name="rights-of-guests"></a>Rechte von Gästen
 

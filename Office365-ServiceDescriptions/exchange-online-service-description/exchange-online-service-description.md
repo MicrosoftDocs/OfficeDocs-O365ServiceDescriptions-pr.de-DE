@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Feature-Vergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245690"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661283"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -52,6 +52,9 @@ Microsoft 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforde
 Jeder Benutzer, der auf den Exchange Online-Dienst zugreift, muss einem Abonnementplan zugewiesen sein, und jedes Benutzerabonnement weist ein eigenes Postfach auf. Ordner und Nachrichten in diesen Postfächern befinden sich auf einem Computer mit Exchange Server in einem Microsoft-Datencenter.
   
 Benutzerabonnements sind für Konferenzräume und freigegebene Postfächer nicht erforderlich. Diese speziellen Postfachtypen verfügen nicht über Anmeldeinformationen. Stattdessen erfolgt die Verwaltung und der Zugriff von lizenzierten Benutzern mit den entsprechenden Berechtigungen über Delegation.
+
+**Microsoft 365 F1-Benutzerpostfach-Nutzungsrechte** <br/>
+Microsoft 365 F1 enthält keine Rechte für ein Exchange-Postfach. Um eine vollständige Teams-Erfahrung zu ermöglichen, können M365 F1-Lizenzen mit dem Exchange Online K1-Dienstplan aktiviert werden. Obwohl der Exchange Online K1-Dienstplan ein Postfach für den Benutzer zur Verfügung stellt, sind M365 F1-Benutzer nicht berechtigt, das Postfach zu verwenden. Es wird empfohlen, Outlook im Internet über [diese Schritte](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) zu deaktivieren und die Benutzer aufzufordern, nicht über andere Methoden auf das Exchange-Postfach zuzugreifen.
   
 ## <a name="system-requirements-for-exchange-online"></a>Systemanforderungen für Exchange Online
 
@@ -102,7 +105,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|Ja|Nein|Nein|Nein|Nein|Ja|Nein|
-|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -236,7 +239,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Customize anti-malware policies|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|
-|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
+|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|
