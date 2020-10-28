@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
-ms.openlocfilehash: 213f3bef10445ac8964e356f3438b9fd3fe100cf
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408221"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773449"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365-und Office 365-Planoptionen
 
@@ -49,7 +49,7 @@ Jeder Microsoft 365-oder Office 365-Plan enthält eine Reihe von einzelnen Diens
 | Dienst | Microsoft 365 Apps | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 Plattform  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Exchange Online  <br/> |Nein  <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>16</sup> <br/> |
+|Exchange Online  <br/> |Nein  <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>5</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>6</sup> <br/> |Ja<sup>8</sup> <br/> |Nr.<sup>16</sup> <br/> |
 |SharePoint Online  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>17</sup> <br/> |
 |OneDrive  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>4</sup> <br/> |Ja<sup>4</sup> <br/> |
 |Skype for Business Online <sup>14</sup> <br/> |Nein  <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Ja<sup>9</sup> <br/> |Ja<sup>10</sup> <br/> |Ja<sup>12</sup> <br/> |Ja<sup>13</sup> <br/> |Ja<sup>13</sup> <br/> |
@@ -76,7 +76,7 @@ Jeder Microsoft 365-oder Office 365-Plan enthält eine Reihe von einzelnen Diens
 <sup>13</sup> umfasst Skype for Business Online Plan 1.<br>
 <sup>14</sup> Microsoft Teams ist jetzt der primäre Client für Messaging, Besprechungen und Anrufer in Microsoft 365. Ab dem 1. Oktober 2018 werden neue Kunden mit 500 oder weniger Personen in Microsoft Teams integriert und haben keinen Zugriff auf Skype for Business Online. Mandanten, die bereits Skype for Business Online verwenden, können dies fortsetzen (einschließlich der Bereitstellungneuer Benutzer), bis Sie den Übergang zu Microsoft Teams abgeschlossen haben.<br>
 <sup>15</sup> umfasst die Microsoft 365 E5-Compliance, die automatische Klassifizierung und Aufbewahrung, Kundenschlüssel, erweiterte Nachrichtenverschlüsselung, Insider-Risiko Management, Kommunikationsrichtlinien Konformität, Informationsbarrieren, Kunden-Lockbox, privilegierte Zugriffsverwaltung, erweiterte Überwachung, Datensatzverwaltung und erweiterte eDiscovery-Funktionen bereitstellt. und Microsoft 365 E5 Security, einschließlich Office 365 Advanced Threat Protection (ATP) Plan 2, Microsoft Defender ATP, Azure Active Directory Plan 2, Azure ATP, Microsoft Cloud App Security und Safe Documents.<br>
-<sup>16</sup> Microsoft 365 F1-Benutzer werden mit dem Exchange Kiosk-Dienstplan so eingerichtet, dass nur Teams-Kalender aktiviert werden und keine Rechte zum Bereitstellen von Postfächern zur Verfügung stehen.<br>
+<sup>16</sup> Microsoft 365 F1 enthält keine Rechte für ein Exchange-Postfach. Um eine vollständige Teams-Erfahrung zu ermöglichen, können M365 F1-Lizenzen mit dem Exchange Online K1-Dienstplan aktiviert werden. Obwohl der Exchange Online K1-Dienstplan ein Postfach für den Benutzer zur Verfügung stellt, sind M365 F1-Benutzer nicht berechtigt, das Postfach zu verwenden. Es wird empfohlen, dass Ihre Kunden Outlook im Internet mithilfe [dieser Schritte](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) deaktivieren, und bitten Sie die Benutzer, nicht über andere Methoden auf das Exchange-Postfach zuzugreifen.<br>
 <sup>17</sup> enthält SharePoint Online Kiosk. Es kann sich nicht um Administratoren handeln. Kein websitepostfach. Keine persönliche Website.<br>
 <sup>18</sup> Microsoft 365 F1-Benutzer können Dateien mit Office für das Web lesen, aber keine Rechte zum Erstellen/Bearbeiten/speichern haben. 
   
