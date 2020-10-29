@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government – DoD geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
-ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
+ms.openlocfilehash: aca09e0e7768228f39e942fbeffba1bae84cb77f
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769977"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793652"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 
@@ -59,10 +59,9 @@ Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherhei
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Schritt 4. Verstehen, welche Funktionen derzeit in Microsoft 365 Government – DoD<sup>1</sup> standardmäßig nicht verfügbar oder deaktiviert sind
 
-Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einige Unterschiede zwischen Microsoft 365 Government-DoD und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features.
+Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einige Unterschiede zwischen Microsoft 365 Government-DoD und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features.<br><br>
 
-
-|                                         | Feature                                         | GCC-Status             |
+| Bereich                                    | Feature                                         | GCC-Status             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Schutz von Daten**              | Unified Labeling-Client und-Scanner         | Available              |
 |                                         | Exakte Datenübereinstimmung          | Available               |
