@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über die Microsoft 365-Regierung und beschreibt Kauf Optionen.
-ms.openlocfilehash: 81ee54c17a4861c44f350f394ccc61a4bd669996
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
+ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276762"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "48818665"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-How to Buy
 
@@ -21,7 +21,7 @@ Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öff
   
 ## <a name="whats-microsoft-365-government"></a>Was ist Microsoft 365 Government?
 
-Microsoft 365 Government ist eine Reihe von Produktivitäts-, Sicherheits-und Mobilitätssoftware-Funktionen, die für US-Regierungsbehörden und Auftragnehmer, die für kontrollierte, nicht klassifizierte Informationen gehalten werden, zugeschnitten sind. Bereitgestellt durch eindeutige Umgebungen, die die strengsten Compliance-Anforderungen erfüllen, ist die Microsoft 365 Government ein Cloud-Angebot für US-Regierungskunden, das die Features und Funktionen von Microsoft Commercial Cloud Enterprise-angeboten so genau wie möglich erfüllt. 
+Microsoft 365 Government ist eine Reihe von Produktivitäts-, Sicherheits-und Mobilitätssoftware-Funktionen, die für US-Regierungsbehörden und Auftragnehmer, die für kontrollierte, nicht klassifizierte Informationen gehalten werden, zugeschnitten sind. Bereitgestellt durch eindeutige Umgebungen, die die strengsten Compliance-Anforderungen erfüllen, ist die Microsoft 365 Government ein Cloud-Angebot für US-Regierungskunden, das die Features und Funktionen von Microsoft Commercial Cloud Enterprise-angeboten so genau wie möglich erfüllt.
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Was ist der Wert von Microsoft 365 Government?
 
@@ -43,21 +43,21 @@ Die Regierung von Microsoft 365 ist einzigartig konzipiert, um die Compliance-An
 **Geschirmte Mitarbeiter.** Der Zugriff auf den Kunden Inhalt Ihrer Organisation ist auf geschirmte Microsoft-Mitarbeiter beschränkt, die US-Bürger sind und erforderliche Hintergrundprüfungen bestanden haben.
 Drittanbieter Überwachungen. Die gesamte Infrastruktur wird von einem zertifizierten Auditor eines Drittanbieters überwacht, der einen Sicherheits Bewertungsbericht oder einen Bestätigungsbrief erstellt, der von Bundesbehörden zur Erteilung einer Autorisierung für den Betrieb (ATO) verwendet wird. 
 
-**Inhaltsspeicherung.** Die Daten werden in den Vereinigten Staaten von Amerika mit einer kompatiblen Infrastruktur gespeichert. In der folgenden Tabelle ist Microsoft 365 für US-Regierungs Umgebungen und-Zusagen zusammengefasst.<br><br>
+**Inhaltsspeicherung.** Die Daten werden in den Vereinigten Staaten von Amerika mit einer kompatiblen Infrastruktur gespeichert. In der folgenden Tabelle ist Microsoft 365 für Behörden Umgebungen und-Zusagen zusammengefasst.<br><br>
 
 | Angebote | Verpflichtungen |
 |:----------|:----------------------------------|
-|Microsoft 365 Government gcc  <br/> |FedRamp moderat, CJIS, IRS 1075, DISA SRG L2  <br/> |
-|Microsoft 365 Government gcc High  <br/> |FedRamp High, ITAR, DFARS, DoD SRG L4-Steuerelemente <br/> |
+|Microsoft 365 Government gcc  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
+|Microsoft 365 Government gcc High  <br/> |FedRamp High, ITAR, DFARS, DISA SRG L4-Steuerelemente <br/> |
 |Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
 Weitere Informationen zur Microsoft-Sicherheits-und-Konformitäts Akkreditierung finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trustcenter/default.aspx) .  
 
-## <a name="microsoft-365-for-us-government-eligibility-and-validation"></a>Microsoft 365 für die Berechtigung und Validierung der US-Regierung
+## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 staatliche Berechtigung und Validierung
 
-Microsoft 365 für US-Regierung steht berechtigten Regierungskunden und Nichtregierungsorganisationen zur Verfügung, die unterstützt werden, um kontrollierte Informationen zu halten oder zu verarbeiten. Die Zulassungskriterien für diese beiden Kundenkategorien sind in der Microsoft Government-Cloud konsistent.
+Microsoft 365 Government steht berechtigten Regierungskunden und Nichtregierungsorganisationen zur Verfügung, die unterstützt werden, um kontrollierte Informationen zu halten oder zu verarbeiten. Die Zulassungskriterien für diese beiden Kundenkategorien sind in der Microsoft Government-Cloud konsistent.
 
-Sowohl gcc-als auch gcc-High-Angebote stehen jedem Kunden zur Verfügung, der für die Microsoft Government Cloud geeignet ist, und die DoD-Umgebung dient ausschließlich dem US-Verteidigungsministerium. Die Verfügbarkeit und der Preis für Dienste sind unterschiedlich, und gcc bleibt die Hero-Bewegung für alle Kunden, die nicht über FedRAMP hohe oder DoD-gesteuerte nicht klassifizierte Informationen (CUI) verfügen.
+Sowohl gcc-als auch gcc-High-Angebote stehen jedem Kunden zur Verfügung, der für die Microsoft Government Cloud geeignet ist, und die DoD-Umgebung dient ausschließlich dem US-Verteidigungsministerium. Dienstverfügbarkeit und Preis sind unterschiedlich, und gcc bleibt das Held-Angebot für alle Kunden, die nicht über FedRAMP hohe oder DoD-gesteuerte nicht klassifizierte Informationen (CUI) verfügen.
 
 Ein berechtigter Regierungs Kunde wird durch einen folgenden definiert:
 
@@ -70,7 +70,7 @@ Ein berechtigter Regierungs Kunde wird durch einen folgenden definiert:
 
 Nichtstaatliche Organisationen, die über die folgenden Datentypen verfügen und die aufgeführten Beweise zur Verfügung stellen können, qualifizieren sich für den Microsoft Government Cloud Validation-Prozess:
 
-Eine kommerzielle private Entität mit Daten, die Vorschriften unterliegen. Zu den akzeptierten Datentypen der Regierung gehören: 
+Eine kommerzielle private Entität mit Daten, die Vorschriften unterliegen. Zu den akzeptierten Datentypen der Regierung gehören:
 - Internationaler Waffen Verkehr (ITAR)
 - Kontrollierte nicht klassifizierte Informationen (CUI)
 - Department of Defense (DoD): nicht klassifizierte kontrollierte Nuklear Informationen (UCNI)
@@ -113,7 +113,8 @@ In der folgenden Tabelle sind die Optionen aufgeführt, die die Anforderungen je
 Führen Sie die folgenden Schritte aus, um Microsoft 365 Government licenses zu erwerben:
 
 1. [Füllen Sie das Formular aus, und senden](https://products.office.com/government/eligibility-validation) Sie es, um die Berechtigung Ihrer Organisation zu überprüfen.
-2. Arbeiten Sie mit dem Microsoft-Konto Team oder einem qualifizierten Partner zusammen, um eine Bestellung aufzugeben. Kunden können Microsoft 365 für US-Regierungslizenzen nur über ausgewählte Partner erwerben.
+2. Arbeiten Sie mit dem Microsoft-Konto Team oder einem qualifizierten Partner zusammen, um eine Bestellung aufzugeben.
+Kunden können Microsoft 365 für US-Regierungslizenzen nur über ausgewählte Partner erwerben.
 
 **Sprachdienstleister gcc und gcc hoch (+ 500 Sitze)**
 

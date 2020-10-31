@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in den US-Bundesländern, Staaten, lokalen, Stammes-oder Gebietskörperschaften oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government-gcc geeignet ist, diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 6abcf5a70307a554661f2eb7ec7b6ca3019dec61
-ms.sourcegitcommit: dcacd13c1cf1c60526c48fc923db5de643facc07
+ms.openlocfilehash: 33a325a0d828596c4880cfab624d3df7da5f0450
+ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "48626876"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "48818645"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Plan for Microsoft 365 Compliance – gcc
 
@@ -22,7 +22,7 @@ Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 36
 > [!NOTE]
 > Wenn Ihre Organisation bereits die Microsoft 365 Government-gcc-Zulassungsvoraussetzungen erfüllt und in das Programm übernommen und akzeptiert wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Schritt 1: Ermitteln, ob Ihre Organisation Microsoft 365 Government-gcc benötigt und die Zulassungsvoraussetzungen erfüllt
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Schritt 1. Ermitteln, ob Ihre Organisation Microsoft 365 Government-gcc benötigt und die Zulassungsvoraussetzungen erfüllt
 
 Die Microsoft 365 Government-gcc-Umgebung erfüllt die US-behördlichen Anforderungen für Cloud-Dienste, einschließlich FedRAMP moderat, und Anforderungen für Strafjustiz und Eidgenössische Steuer Informationssysteme (CJI-und FTI-Datentypen).
 
@@ -41,12 +41,12 @@ Weitere Informationen zum Microsoft 365 Government-gcc-Angebot für US-Regierung
 Die [Office 365 US Government Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) beschreibt die Vorteile der Plattform, die sich auf die Erfüllung der Compliance-Anforderungen in den Vereinigten Staaten konzentrieren.
 
 > [!TIP]
-> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n**   und **den Anforderungen meiner Organisation y/n entsprechen**. Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
+> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n** und **den Anforderungen meiner Organisation y/n entsprechen** . Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
 
 > [!NOTE]
 > Microsoft 365 Government-gcc ist nur in den Vereinigten Staaten verfügbar. Kunden außerhalb der US-Regierung können aus einer Reihe von [Office 365 Government-Plänen](https://products.office.com/government/compare-office-365-government-plans)wählen.
 
-**Entscheidungspunkte**: <br/>
+**Entscheidungspunkte** : <br/>
 - *Entscheiden Sie, ob Microsoft 365 Government-gcc für Ihre Organisation geeignet ist.*
 - *Stellen Sie sicher, dass Ihre Organisation die Berechtigungsanforderungen erfüllt.*
 
@@ -58,30 +58,30 @@ Nachdem Sie entschieden haben, dass dieser Dienst für Ihre Organisation geeigne
 
 Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherheitseinstellungen sorgfältig zu überprüfen, bevor Sie Sie ändern und die Auswirkungen auf die Kompatibilität berücksichtigen, bevor Sie Änderungen an den Standardsicherheitseinstellungen vornehmen.
 
-**Entscheidungspunkt**: *entscheiden Sie, ob Sie die Standardsicherheitseinstellungen von Microsoft 365 Government-gcc ändern, um zunächst die Auswirkungen von Änderungen zu verstehen, die Sie möglicherweise vornehmen.*
+**Entscheidungspunkt** : *entscheiden Sie, ob Sie die Standardsicherheitseinstellungen von Microsoft 365 Government-gcc ändern, um zunächst die Auswirkungen von Änderungen zu verstehen, die Sie möglicherweise vornehmen.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Schritt 4: Grundlegendes zu den derzeit nicht verfügbaren oder deaktivierten Funktionen in Microsoft 365 Government – gcc<sup>1</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Schritt 4. Grundlegendes zu den derzeit nicht verfügbaren oder deaktivierten Funktionen in Microsoft 365 Government – gcc<sup>1</sup>
 
-Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es einige Unterschiede zwischen Microsoft 365 Government-gcc und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features.<br><br>
+Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es einige Unterschiede zwischen Microsoft 365 Government-gcc und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features. [Hier](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) finden Sie die neuesten Kompatibilitäts Produktupdates, die im Microsoft 365-Fahrplan veröffentlicht wurden.<br><br>
 
 | Bereich | Feature | GCC-Status |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Schutz von Daten**              | Unified Labeling-Client und-Scanner         | Available              |
 |                                         | Exakte Datenübereinstimmung          | Available              |
 |                                         | Automatische Klassifizierung und Beschriftung für Exchange Online, SharePoint Online und OneDrive                      | Rollout              |
-|                                         | Klassifizierungs gesteuerte Richtlinien mit Office 365 Gruppen            | Rollout |
 |                                         | Automatische Klassifizierung und Kennzeichnung für Office-App (Word, Excel, PowerPoint, Outlook) plattformübergreifend (Internet, Android, Ios, Windows und Mac) |  In der Entwicklung              |
-|                                         | Automatische Klassifizierung und Kennzeichnung für mobile Geräte                                       | Im Entwicklungsrückstand              |
+|                                         | Automatische Klassifizierung und Bezeichnung für Office-Clients (Mobile)                                       | Im Entwicklungsrückstand              |
 |                                         | Automatische Klassifizierung und Kennzeichnung für Teams                            | Im Entwicklungsrückstand |
-|                                         | Datenklassifizierung: Übersicht und Inhalts Aktivitäts-Explorer                            | Im Entwicklungsrückstand |
-|                                         | Maschinelle Schulungs Klassifizierungen mit automatischer Kennzeichnung                           | Im Entwicklungsrückstand  |
+|                                         | Analyse der Datenklassifikation: Übersicht und Inhalts-Explorer                            | Im Entwicklungsrückstand |
+|                                         | Analyse: maschinelle Schulungs Klassifizierungen mit automatischer Kennzeichnung auf Dienstseite                           | Im Entwicklungsrückstand  |
+|                                         | Analyse: maschinelle Schulungs Klassifizierungen mit automatischer Kennzeichnung auf Office-Apps/Clientseite                           | Im Entwicklungsrückstand  |
 |                                         | Grundlegende Office 365 Nachrichtenverschlüsselung (E3)                            | Available              |
 |                                         | Erweiterte Office 365 Nachrichtenverschlüsselung (E5)  | Available              |
 |                                         | Kundenschlüssel für Office 365    | Available |
 |                                         | Mitbringen eines eigenen Schlüssels (BYOK) für den Lebenszyklus von Kunden verwalteter Schlüssel Bereitstellung                            | Available |
 |                                         | Halten Sie Ihren eigenen Schlüssel (Hyok), der sich über Azure Information Protection-und Active Directory (AD)-Rechteverwaltung für stark regulierte Szenarien erstreckt (Vorschau)                         | Available |
-|                                         | Verschlüsselung mit Doppelschlüssel                           | Rollout |
-|                                         | Gemeinsame Dokumenterstellung in verschlüsselten Dokumenten mit WXP-Webanwendungen                           | Im Entwicklungsrückstand |
+|                                         | Verschlüsselung mit Doppelschlüssel                           | Available |
+|                                         | Verschlüsselung: gemeinsame Dokumenterstellung in verschlüsselten Dokumenten mit WXP-Webanwendungen                           | Im Entwicklungsrückstand |
 |                                         | Verhinderung von Datenverlust (DLP) für Dateien und e-Mail         | Available |
 |                                         | DLP für Microsoft Teams-Chat und Kanal Unterhaltungen         | In der Entwicklung |
 |                                         | DLP-Endpunkt | Im Entwicklungsrückstand |
@@ -91,9 +91,11 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Information Governance: manuelle Aufbewahrungs Bezeichnungen, die nicht aufgezeichnet werden            | Available |
 |                                         | Information Governance: standardmäßige Aufbewahrungs Bezeichnungen für SharePoint, OneDrive für Unternehmen Bibliotheken, Ordner und Dokumentenmappen; Exchange-Posteingänge; und Office 365 Gruppen | Available              |
 |                                         | Information Governance: Aufbewahrungsrichtlinien für die gesamte Organisation; bestimmte Standorte oder Benutzer; automatisch basierend auf einer bestimmten Bedingung (beispielsweise Schlüsselwörter oder vertrauliche Informationen); und basierend auf einem Ereignis                                       | Available              |
-|                                         | Information Governance: Aufbewahrungsrichtlinien mit Schulungs Klassifizierer                            | Im Entwicklungsrückstand |
-|                                         | Information Governance: Aufbewahrungsrichtlinien für jammern und Teams                            | Im Entwicklungsrückstand |
-|                                         | Information Governance: Aufbewahrungs Bezeichnungen mithilfe der SharePoint-Syntex Klassifizierung                           | Im Entwicklungsrückstand              |
+|                                         | Information Governance: Aufbewahrungsrichtlinien für Teams                            | Available |
+|                                         | Information Governance: Aufbewahrungs Bezeichnungen mithilfe der SharePoint-Syntex Klassifizierung                            | Im Entwicklungsrückstand |
+|                                         | Information Governance: Aufbewahrungsrichtlinien mit Schulungs Klassifizierern                            | Im Entwicklungsrückstand |
+|                                         | Information Governance: Aufbewahrungsrichtlinien für Microsoft Teams-Besprechungsaufzeichnungen                            | Im Entwicklungsrückstand |
+|                                         | Information Governance: Aufbewahrungsrichtlinien für jammern                            | Im Entwicklungsrückstand |
 |                                         | Datensatzverwaltung: manuelle Klassifizierung für Daten Satzbezeichnungen                           | Available              |
 |                                         | Datensatzverwaltung: standardmäßige Daten Satzbezeichnungen für SharePoint, OneDrive für Unternehmen Bibliotheken, Ordner und Dokumentenmappen; und Office 365 Gruppen                              | Available              |
 |                                         | Datensatzverwaltung: automatische Datensatzrichtlinien basierend auf bestimmten Bedingungen (beispielsweise Schlüsselwörter oder vertrauliche Informationen); und basierend auf einem Ereignis                            | Available              |
@@ -102,10 +104,8 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Datensatzverwaltung: Nachweis der Entsorgung                            | Available |
 |                                         | Datensatzverwaltung: Daten Satz Versionsverwaltung                            | Available |
 |                                         | Datensatzverwaltung: regulatorische Datensätze (öffentliche Vorschau)                         | In der Entwicklung |
-|                                         | Datensatzverwaltung: Durchsetzung von Lizenzen                           | Rollout |
 |                                         | Datensatzverwaltung: mehrstufige Dispositions Überprüfung | Im Entwicklungsrückstand |
-|                                         | Datensatzverwaltung: Bezeichnungs Aktivitäts-Explorer | Im Entwicklungsrückstand |
-|                                         | Datensatzverwaltung: Auszubildende Klassifizierer | Im Entwicklungsrückstand |
+|                                         | Datensatzverwaltung: Verwenden von SharePoint-Syntex Klassifizierung zum Anwenden von Daten Satzbezeichnungen | Im Entwicklungsrückstand |
 | **Insider-Risikomanagement**             | Kunden-Lockbox                                | Available            |
 |                                         | Insider Risiko Management: Office-Indikatoren für Teams, SharePoint-Websites, e-Mail-Messaging                         | In der Entwicklung |
 |                                         | Insider Risiko Management: Datendiebstahl durch Benutzer                        | In der Entwicklung |
@@ -113,6 +113,9 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Insider Risikomanagement: Untersuchen von Warnungen beim Insider Risikomanagement                                   | In der Entwicklung              |
 |                                         | Insider Risikomanagement: Fall Dashboard, Inhalts-Explorer und Benachrichtigungsvorlagen | In der Entwicklung |
 |                                         | Insider Risiko Management: Eskalation zur Untersuchung für Advanced eDiscovery | In der Entwicklung|
+|                                         | Insider Risiko Management: Geräte Indikatoren für Aktivitäten unter Windows 10 Build 1809 und höher | Im Entwicklungsrückstand|
+|                                         | Insider Risiko Management: Indikatoren für Sicherheitsrichtlinienverletzungen (Vorschau) | Im Entwicklungsrückstand|
+|                                         | Insider Risiko Management: Indikatoren für ATP-Warnungen für Windows Defender (Vorschau) | Im Entwicklungsrückstand|
 |                                         | Insider Risiko Management: Richtlinienvorlagen für Datenverluste nach Prioritäts Benutzern (Vorschau) | Im Entwicklungsrückstand |
 |                                         | Insider Risiko Management: Richtlinienvorlagen für Datenverluste durch verärgerte Benutzer (Vorschau) | Im Entwicklungsrückstand |
 |                                         | Insider Risiko Management: Richtlinienvorlagen für allgemeine Sicherheitsrichtlinienverletzungen (Vorschau) | Im Entwicklungsrückstand |
@@ -125,8 +128,17 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Zugriffs Warnungen; Hinweis Vorlagen; Kommunikationsrichtlinien-Dashboard | Rollout  |
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Eskalation zur Untersuchung für Advanced eDiscovery | Rollout |
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Ermitteln von Inhalten für Erwachsene | Rollout |
+|                                         | Kommunikation Compliance: erkennt Wiederholungs Code der Zuwiderhandlung im Laufe der Zeit | Rollout |
+|                                         | Kommunikation Compliance: Unterstützung für detailliertere Berechtigungen | Rollout |
+|                                         | Communication Compliance: Analysieren von teamchatdaten von Benutzern mit on-Prem Mailbox | Rollout |
+|                                         | Communication Compliance: Vorlage eines Interessenkonflikts | Im Entwicklungsrückstand |
+|                                         | Kommunikation Compliance: Möglichkeit zum Ignorieren von e-Mail-Signatur oder Haftungsausschluss | Im Entwicklungsrückstand |
+|                                         | Kommunikation Compliance: Insider Risk Management-Übergabe | Im Entwicklungsrückstand |
+|                                         | Kommunikations Konformität: Richtlinien Integritätsüberprüfung und Fähigkeit zum Anhalten einer Richtlinie | Im Entwicklungsrückstand |
+|                                         | Kommunikation Compliance: Übersetzen von Integritäts Inhalten während der Untersuchung | Im Entwicklungsrückstand |
+|                                         | Kommunikation Compliance: Burnout und Selbstmord Erkennung | Im Entwicklungsrückstand |
 |                                         | Informationsbarrieren | Im Entwicklungsrückstand |
-|                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
+|                                         | Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
 | **Antworten auf & ermitteln**                  | Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
 |                                         | Zentrale eDiscovery: Überwachung                                 | Available              |
 |                                         | Zentrale eDiscovery: Fallverwaltung                                 | Available              |
@@ -151,14 +163,14 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Erweiterte eDiscovery: Suchbegriffs Bericht                        | Available |
 |                                         | Erweiterte eDiscovery: Fehlerbehebung für einzelne Elemente                              | Available |
 |                                         | Erweiterte eDiscovery: Unterstützung für PST-Export                              | Available |
+|                                         | Erweiterte eDiscovery: Unterstützung für verknüpfte Inhalte aus OneDrive und SharePoint Online (moderne Anlagen)                              | Available |
 |                                         | Erweiterte eDiscovery: Tagging                              | Available |
 |                                         | Erweiterte eDiscovery: Mandanten Berichte                              | Available |
 |                                         | Erweiterte eDiscovery: Designs                              | Available |
 |                                         | Erweiterte eDiscovery: Viewer                              | Available |
 |                                         | Erweiterte eDiscovery: jammern erweiterte eDiscovery im Microsoft Compliance Center                              | Available |
 |                                         | Erweiterte eDiscovery: Microsoft Compliance Center erweiterte Unterstützung für das Suchen und Exportieren von Elementen in SharePoint und OneDrive für Unternehmen Papierkorb                              | In der Entwicklung |
-|                                         | Erweiterte eDiscovery: Graph-APIs                              | In der Entwicklung |
-|                                         | Erweiterte eDiscovery: Reaktionen von Support Teams                              | In der Entwicklung |
+|                                         | Erweiterte eDiscovery: Teams-Reaktions Unterstützung                              | In der Entwicklung |
 |                                         | Grundlegende Überwachung                              | Available |
 |                                         | Erweiterte Überwachung: Zugriff auf wichtige Ereignisse (beispielsweise mailitemsaccessed)                              | Available |
 |                                         | Erweiterte Überwachung: erhöhte Bandbreite zur Verwaltungs Aktivitäts-API                              | Available |
@@ -173,12 +185,14 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Compliance-Manager (Vorschau)                              | Im Entwicklungsrückstand |
 |                                         | Microsoft Cloud App-Sicherheit                              | Im Entwicklungsrückstand |
 |                                         | Unterstützung von Doppelbytezeichen                              | Im Entwicklungsrückstand |
+|    **Ökosystem**            | Graph-APIs für Advanced eDiscovery                              | In der Entwicklung |
+|                                         | Erstanbieter-Daten-Konnektoren                              | Im Entwicklungsrückstand |
+|                                         | Daten-Connectoren von Drittanbietern                              | Im Entwicklungsrückstand |
+|                                         | Diagramm-APIs für Teams Exportieren von Daten                              | Im Entwicklungsrückstand |
 
 
 
 
 <sup>1</sup> der Status "identifiziert" kann geändert werden, wenn Projektpläne und Prioritäten neu ausgewertet werden.<br/>
-<sup>2</sup> die manuelle Anwendung von Bezeichnungen erfordert den [Azure Information Protection (AIP)-Client, Version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
 
-
-**Entscheidungspunkt**: *entscheiden Sie, ob die Konformitäts Funktionen den Anforderungen Ihrer Organisation entsprechen.*
+**Entscheidungspunkt** : *entscheiden Sie, ob die Konformitäts Funktionen den Anforderungen Ihrer Organisation entsprechen.*
