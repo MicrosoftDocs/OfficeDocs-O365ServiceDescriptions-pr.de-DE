@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Artikel bietet eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind.
-ms.openlocfilehash: 0bbf94b1647496a500719cec51b25b976d2129bc
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367742"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830406"
 ---
-# <a name="office-365-us-government"></a>Office 365 US Government
+# <a name="office-365-government"></a>Office 365 Government
 
 > [!IMPORTANT]
 > Microsoft Teams erlebt aufgrund der Pandemie Coronavirus (COVID-19) eine enorme Menge an Online anrufen und Audio/Videokonferenzen.<br/>
@@ -29,21 +29,21 @@ ms.locfileid: "48367742"
 >
 >Vielen Dank für Ihre Unterstützung, da wir Maßnahmen ergreifen, um sicherzustellen, dass unsere Dienste in diesen außergewöhnlichen Zeiten verfügbar und zuverlässig bleiben.<br/>
 
-Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Diese Dienstbeschreibung bietet eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diese Dienstbeschreibung neben anderen [Microsoft 365-und Office 365-Dienstbeschreibungen zu](../../office-365-service-descriptions-technet-library.md)lesen.
+Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Government-Pläne (oder Office 365 Regierung) erstellt. Diese Dienstbeschreibung bietet eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind. Es wird empfohlen, diese Dienstbeschreibung neben anderen [Microsoft 365-und Office 365-Dienstbeschreibungen zu](../../office-365-service-descriptions-technet-library.md)lesen.
 
 ## <a name="how-to-use-this-service-description"></a>Verwenden dieser Dienstbeschreibung
 
-Die Office 365 US Government-Dienstbeschreibung dient als Overlay zur allgemeinen Office 365 Dienstbeschreibung. Sie definiert die eindeutigen Versprechen und Unterschiede im Vergleich zu Office 365 Enterprise-Angeboten.
+Die Office 365 Beschreibung des Regierungs Diensts dient als Overlay zur allgemeinen Office 365 Dienstbeschreibung. Sie definiert die eindeutigen Versprechen und Unterschiede im Vergleich zu Office 365 Enterprise-Angeboten.
 
-## <a name="about-office-365-us-government-environments"></a>Informationen zu Office 365 US Government-Umgebungen
+## <a name="about-office-365-government-environments"></a>Informationen zu Office 365 Regierungs Umgebungen
 
-Office 365 US Government-Pläne sind monatliche Abonnements, die für eine unbegrenzte Anzahl an Benutzern lizenziert werden können.
+Office 365 Government-Pläne sind monatliche Abonnements und können für eine unbegrenzte Anzahl von Benutzern lizenziert werden.
 
-- The **Office 365 GCC** environment provides compliance with Federal requirements for cloud services, including FedRAMP Moderate, and requirements for criminal justice and federal tax information systems (CJI and FTI data types).
+- Die **Office 365 gcc** -Umgebung bietet die Einhaltung der Bundes Anforderungen für Cloud-Dienste, einschließlich FedRAMP hoch, und Anforderungen für Strafjustiz und föderale Steuer Informationssysteme (CJI und FTI Datentypen).
 
 - Die **Office 365 GCC-Hoch- und DoD** -Umgebungen sind mit den Anforderungen des Verteidigungssicherheitsministeriums, DFARS und ITAR kompatibel.
 
-Zusätzlich zu den Features und Funktionen von Office 365 profitieren die Organisationen, die Office 365 US Government verwenden auch von den folgenden Features, die nur in Office 365 US Government verfügbar sind:
+Neben den Features und Funktionen von Office 365 profitieren die Organisationen, die Office 365 Regierung verwenden, von den folgenden Features, die für Office 365 Regierung einzigartig sind:
 
 - Die Kundeninhalte Ihrer Organisation sind lokal von den Kundeninhalten der gewerblichen Office 365-Dienste von Microsoft abgegrenzt.
 
@@ -51,21 +51,21 @@ Zusätzlich zu den Features und Funktionen von Office 365 profitieren die Organi
 
 - Der Zugriff auf den Kundeninhalt Ihrer Organisation ist auf ausgewähltes Microsoft-Personal beschränkt.
 
-- Office 365 US Government erfüllt die Zertifizierungen und Akkreditierungen, die für Kunden des US-amerikanischen öffentlichen Sektors erforderlich sind.
+- Office 365 Regierung erfüllt Zertifizierungen und Akkreditierungen, die für US-Kunden des öffentlichen Sektors erforderlich sind.
 
 ## <a name="customer-eligibility"></a>Kundenberechtigung
 
-Office 365 US-Regierung steht für (1) US-Bundesland, Staat, lokale, Stammes-und Gebietskörperschaften sowie (2) andere Entitäten zur Verfügung, die Daten verarbeiten, die den behördlichen Vorschriften und Anforderungen unterliegen, und in denen die Verwendung von Office 365 US-Regierung angemessen ist, um diese Anforderungen zu erfüllen, vorbehaltlich der Validierung der Berechtigung. Bei der Überprüfung der Berechtigung durch Microsoft wird unter anderem ermittelt, ob Daten, die den Regelungen des internationalen Waffenhandels (ITAR, International Traffic in Arms Regulations) unterliegen, Daten von Justizbehörden, die der Criminal Justice Information Services-Richtlinie des FBI (CJIS) unterliegen, sowie andere staatlich regulierte oder kontrollierte Daten verarbeitet werden. Die Überprüfung erfordert möglicherweise den Nachweis der Registrierung beim US- Außenministerium für ITAR-Daten oder der Unterstützung durch eine Regierungsbehörde, für die spezielle Anforderungen zur Verarbeitung der Daten gelten. Die DoD-Umgebung von US Government Defense darf nur vom US-amerikanischen Verteidigungsministerium verwendet werden.
+Office 365 Regierung steht für (1) US-Bundesland, Staat, lokale, Stammes-und Gebietskörperschaften sowie (2) andere Entitäten zur Verfügung, die Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, und in denen die Verwendung von Office 365 Regierung für diese Anforderungen geeignet ist, vorbehaltlich der Validierung der Berechtigung. Bei der Überprüfung der Berechtigung durch Microsoft wird unter anderem ermittelt, ob Daten, die den Regelungen des internationalen Waffenhandels (ITAR, International Traffic in Arms Regulations) unterliegen, Daten von Justizbehörden, die der Criminal Justice Information Services-Richtlinie des FBI (CJIS) unterliegen, sowie andere staatlich regulierte oder kontrollierte Daten verarbeitet werden. Die Überprüfung erfordert möglicherweise den Nachweis der Registrierung beim US- Außenministerium für ITAR-Daten oder der Unterstützung durch eine Regierungsbehörde, für die spezielle Anforderungen zur Verarbeitung der Daten gelten. Die Office 365 DoD-Umgebung wird ausschließlich vom Verteidigungsministerium der Vereinigten Staaten verwendet.
 
 Während die Kriterien für die Anspruchsberechtigung in Office 365 staatlichen angeboten konsistent sind, akzeptiert Microsoft nur DFARS und ITAR-Vertragssprache für die gcc-Umgebung mit hoher Qualität.
 
-Einrichtungen, die Fragen bezüglich ihrer Berechtigung für Office 365 US Government haben, wenden sich an ihr Kontoteam.
+Entitäten mit Fragen zur Berechtigung für Office 365 Regierung sollten Ihr Konto Team konsultieren.
 
-Bei der Verlängerung des Kundenvertrags für Office 365 US-Regierung ist eine erneute Validierung der Berechtigung erforderlich.
+Bei der Verlängerung des Kundenvertrags für Office 365 Regierung ist eine erneute Validierung der Berechtigung erforderlich.
 
 ## <a name="customer-content-located-within-the-united-states"></a>In den Vereinigten Staaten befindlicher Kundeninhalt
 
-Office 365 US Government-Dienste werden von Rechenzentren bereitgestellt, die sich physisch in den Vereinigten Staaten befinden. Der folgende Kundeninhalt ist im Ruhezustand in Rechenzentren gespeichert, die sich physisch nur in den Vereinigten Staaten befinden:
+Office 365 staatliche Dienste werden von Rechenzentren bereitgestellt, die sich physisch in den Vereinigten Staaten befinden. Der folgende Kundeninhalt ist im Ruhezustand in Rechenzentren gespeichert, die sich physisch nur in den Vereinigten Staaten befinden:
 
 - Exchange Online Postfachinhalt (e-Mail-Text, Kalendereinträge und der Inhalt von e-Mail-Anlagen)
 
@@ -80,13 +80,13 @@ Office 365 US Government-Dienste werden von Rechenzentren bereitgestellt, die si
 
 Wenn sich Ihre Benutzer in den u.s.a. befinden, während Sie Office für das Internet (früher als Office-webapps bezeichnet) verwenden, oder wenn Sie die Verwendung von Active Directory-Verbunddienste (AD FS) 2.0 und Richtlinien einrichten, um sicherzustellen, dass Ihre Benutzer über einmaliges Anmelden eine Verbindung zu den Diensten herstellen, werden alle Kunden Inhalte, die vorübergehend in Office für das Internet zwischengespeichert sind, in den u.s.a. gespeichert.
 
-## <a name="office-365-us-government-and-third-party-services"></a>Office 365 US Government und Drittanbieterdienste
+## <a name="office-365-government-and-third-party-services"></a>Office 365 Regierung und Drittanbieterdienste
 
 Office 365 bietet die Möglichkeit zur Integration von Drittanbieteranwendungen in SharePoint Online-Websites, Skype for Business, Office-Anwendungen, die in Microsoft 365-Apps für Unternehmen enthalten sind (wie Word, Excel, PowerPoint und Outlook) und Outlook Web App. Zusätzlich unterstützt Office 365 die Integration mit Drittanbieter-Dienstanbietern. Diese Drittanbieteranwendungen und -dienste umfassen möglicherweise das Speichern, Übertragen und Verarbeiten der Kundendaten Ihrer Organisation auf Drittanbietersystemen, die sich außerhalb der Office 365-Infrastruktur befinden und daher nicht durch die Office 365-Compliance und Datenschutzverpflichtungen abgedeckt werden. Wir empfehlen, die Datenschutz- und Konformitätserklärung zu prüfen, die Ihnen beim Zugriff auf die entsprechende Verwendung dieser Dienste für Ihre Organisation durch die Drittanbieter zur Verfügung gestellt wurden.
 
 ## <a name="restricted-data-access-by-administrators"></a>Eingeschränkte Datenzugriff durch Administratoren
 
-Der Zugriff auf Office 365 Kunden Inhalte der US-Regierung durch Microsoft-Administratoren ist auf geschirmte Mitarbeiter beschränkt. Details zu den Screening-Ebenen finden Sie auf der Seite Dienstbeschreibung für jede entsprechende Umgebung (gcc oder gcc hoch und DoD).
+Der Zugriff auf Office 365 Regierungskunden Inhalte durch Microsoft-Administratoren ist auf geschirmte Mitarbeiter beschränkt. Details zu den Screening-Ebenen finden Sie auf der Seite Dienstbeschreibung für jede entsprechende Umgebung (gcc oder gcc hoch und DoD).
 
 ## <a name="fasttrack-center-onboarding-assistance"></a>Unterstützung für das Onboarding im Panne-Center
 
