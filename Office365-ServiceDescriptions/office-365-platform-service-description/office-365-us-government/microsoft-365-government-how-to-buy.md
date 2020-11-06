@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über die Microsoft 365-Regierung und beschreibt Kauf Optionen.
-ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
+ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818665"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48931035"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-How to Buy
 
@@ -133,13 +133,16 @@ Kunden können Microsoft 365 für US-Regierungslizenzen nur über ausgewählte P
 **AOS-G Partners gcc und gcc High (unter 500 Sitze)**
 
 - Agile IT
-- Angewandte Informationswissenschaften (AIS) 
+- Angewandte Informationswissenschaften (AIS)
 - Integrierte C3-Lösungen
+- MySQL gewonnnen
 - DOX Electronics, Inc.
 - F1-Lösungen, Inc.
+- Vier Punkte
 - KTL Solutions, Inc.
 - Abflug, LLC
 - Planet-Technologien
+- Ruhige Fachleute
 - Summit 7-Systeme
 
 **Hinweis:** Alle Microsoft Licensing Solution Provider (Sprachdienstleister) in der vorstehenden Liste können sowohl gcc als auch gcc High through Enterprise Agreement (EA) zum Erstellen des Kunden Preis Blatts (CPS) abwickeln. Organisationen, die sich nicht für EA qualifizieren, können gcc-Lizenzen über die aufgeführten AOS-G-Partner oder das CSP-Partnerprogramm erwerben.
