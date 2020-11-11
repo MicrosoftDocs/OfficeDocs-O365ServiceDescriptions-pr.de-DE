@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der US Government-Cloud und der kommerziellen Cloud, wie in der Exchange Online-Dienstbeschreibung aufgeführt.
-ms.openlocfilehash: 2277f7d74cb893dd172bc13efcbd01d964b81736
-ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
+ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
+ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48793648"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48988082"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online für Umgebungen in der US-Regierung
 
@@ -66,7 +66,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Nachrichtenflussregeln|Ja|Ja|Ja||
 |Data loss prevention|Ja|Ja|Ja|Erfordert G3-oder G5-Dienstplan.|
 |Journale|Ja|Ja|Ja||
-|**[Antispam- und Antischadsoftwareschutz](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
+|**[Schutz vor Spam und Schadsoftware](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Integrierter Antispamschutz|Ja|Ja|Ja||
 |Customize anti-spam policies|Ja|Ja|Ja||
 |Integrierter Antischadsoftwareschutz|Ja|Ja|Ja||
@@ -111,6 +111,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Websitepostfächer|Ja|Ja|Ja||
 |Öffentliche Ordner|Ja|Ja|Ja||
 |**[Clients und mobile Geräte](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
+|To-do-Webseite|Ja|Nein|Nein||
 |Outlook für Windows|Ja|Ja|Ja|Um die Anforderungen an gcc High and DoD Compliance erfüllen zu können, müssen Sie mindestens Version 1803 von Office 365 ProPlus betreiben. Office 365 ProPlus ist nicht mit G1 oder F3 enthalten.|
 |Outlook im Web|Ja|Ja|Ja||
 |Outlook für Mac|Ja|Ja|Ja|Um die Anforderungen an gcc High and DoD Compliance erfüllen zu können, müssen Sie mindestens Version 1803 von Office 365 ProPlus betreiben. Office 365 ProPlus ist nicht mit G1 oder F3 enthalten.|
@@ -149,41 +150,41 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 
 ### <a name="connectivity-with-third-party-services"></a>Konnektivität mit Drittanbieterdiensten  
 
-Sowohl gcc High-als auch DoD-Umgebungen sind eingeschränkte Umgebungen, die eine explizite Genehmigung und Konfiguration von ausgehenden Verbindungen erfordern. Darüber hinaus kann Microsoft keine Anforderungen erfüllen, um ausgehenden Zugriff von diesen Umgebungen auf kommerzielle Cloud-Dienste (kommerzielle Office 365, Google GSuite, Amazon Webdienste usw.) zuzulassen.     
+Sowohl gcc High-als auch DoD-Umgebungen sind eingeschränkte Umgebungen, die eine explizite Genehmigung und Konfiguration von ausgehenden Verbindungen erfordern. Darüber hinaus kann Microsoft keine Anforderungen erfüllen, um ausgehenden Zugriff von diesen Umgebungen auf kommerzielle Cloud-Dienste (kommerzielle Office 365, Google GSuite, Amazon Webdienste usw.) zuzulassen.
 
-Aufgrund dieser Einschränkungen werden Features, die von dieser ausgehenden Verbindung von den gcc-High/DoD-Umgebungen abhängen, in der Regel nicht unterstützt, einschließlich: 
+Aufgrund dieser Einschränkungen werden Features, die von dieser ausgehenden Verbindung von den gcc-High/DoD-Umgebungen abhängen, in der Regel nicht unterstützt, einschließlich:
 
-- Verbundene Konten-Benutzer können keine Konten hinzufügen/synchronisieren (Google, POP/IMAP usw.). 
+- Verbundene Konten-Benutzer können keine Konten hinzufügen/synchronisieren (Google, POP/IMAP usw.).
 
-- Unterstützung für Dateispeicher Anbieter von Drittanbietern – nur das OneDrive for Business-Konto des Benutzers *innerhalb von gcc High/DoD* kann über die verschiedenen Outlook-Clients in Verbindung mit dem Anfügen/Freigeben von Dateien aus zugegriffen werden. Speicherkonten von Drittanbietern (Dropbox, Box, Google Drive) können nicht hinzugefügt werden. 
+- Unterstützung für Dateispeicher Anbieter von Drittanbietern – nur das OneDrive for Business-Konto des Benutzers *innerhalb von gcc High/DoD* kann über die verschiedenen Outlook-Clients in Verbindung mit dem Anfügen/Freigeben von Dateien aus zugegriffen werden. Speicherkonten von Drittanbietern (Dropbox, Box, Google Drive) können nicht hinzugefügt werden.
 
-- Konnektivität mit sozialen Netzwerken wie Facebook oder LinkedIn. 
+- Konnektivität mit sozialen Netzwerken wie Facebook oder LinkedIn.
 
-### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B-Zusammenarbeit 
+### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory B2B-Zusammenarbeit
 
 Azure Active Directory B2B-Zusammenarbeit wird derzeit nur zwischen Organisationen unterstützt, die sowohl in der Azure US Government Cloud als auch in der Unterstützung der B2B-Zusammenarbeit stehen.
 
 Darüber hinaus werden B2B-Benutzer als Gäste in Office 365 Gruppen in gcc High-und DoD-Umgebungen nicht unterstützt. 
 
-Weitere Informationen und die neuesten Updates finden Sie unter [Azure Government Security + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity). 
+Weitere Informationen und die neuesten Updates finden Sie unter [Azure Government Security + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity).
 
-### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Office 365 Nachrichten Verschlüsselungs Verhalten über gcc High/DoD-Grenze hinweg 
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Office 365 Nachrichten Verschlüsselungs Verhalten über gcc High/DoD-Grenze hinweg
 
 Wenn Sie Office 365 Nachrichtenverschlüsselung in einer gcc-High-Umgebung verwenden möchten, sollten Sie sich dieser eindeutigen Merkmale hinsichtlich der Empfänger Erfahrung bewusst sein:  
 
 - Beim Senden von verschlüsselten e-Mail-Nachrichten von gcc High oder DoD an Empfänger in derselben Umgebung:
     
-    - Absender können e-Mails manuell in Outlook für PC und Mac und Outlook im Internet verschlüsseln, oder Organisationen können eine Richtlinie zum Verschlüsseln von e-Mails mithilfe von Exchange-Nachrichtenfluss Regeln einrichten. 
+    - Absender können e-Mails manuell in Outlook für PC und Mac und Outlook im Internet verschlüsseln, oder Organisationen können eine Richtlinie zum Verschlüsseln von e-Mails mithilfe von Exchange-Nachrichtenfluss Regeln einrichten.
     
-    - Empfänger in gcc High/DoD erhalten dieselbe Inline Leseerfahrung in Outlook für PC und Mac sowie Outlook im Internet wie alle anderen Office 365-Benutzer. 
+    - Empfänger in gcc High/DoD erhalten dieselbe Inline Leseerfahrung in Outlook für PC und Mac sowie Outlook im Internet wie alle anderen Office 365-Benutzer.
 
 <!-- end list -->
 
 - Beim Senden von verschlüsselten e-Mail-Nachrichten von gcc High oder DoD an Empfänger außerhalb dieser Umgebung (einschließlich gcc und Commercial):
     
-    - Absender innerhalb von gcc High/DoD können verschlüsselte e-Mails außerhalb der gcc-Obergrenze (High/DoD) senden. 
+    - Absender innerhalb von gcc High/DoD können verschlüsselte e-Mails außerhalb der gcc-Obergrenze (High/DoD) senden.
     
-    - Alle Empfänger außerhalb des GCC High/DoD, einschließlich kommerzieller Office 365 Benutzer, Outlook.com-Benutzer und anderer Benutzer anderer e-Mail-Anbieter, erhalten eine Wrapper-e-Mail. Mit dieser Wrapper-e-Mail wird der Empfänger an das OM-Portal umgeleitet, in dem der Empfänger die Nachricht lesen und beantworten kann. 
+    - Alle Empfänger außerhalb des GCC High/DoD, einschließlich kommerzieller Office 365 Benutzer, Outlook.com-Benutzer und anderer Benutzer anderer e-Mail-Anbieter, erhalten eine Wrapper-e-Mail. Mit dieser Wrapper-e-Mail wird der Empfänger an das OM-Portal umgeleitet, in dem der Empfänger die Nachricht lesen und beantworten kann.
 
 Weitere Informationen und die neuesten Updates finden Sie unter [Compare Versionen of OM](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison).
 
@@ -201,12 +202,32 @@ In der DoD-Umgebung:
 
   - Die Verbundvertrauensstellung (einschließlich Freigabe von Frei/Gebucht-Informationen) wird derzeit nur zwischen Mandanten innerhalb der DoD-Umgebung unterstützt. Es wird nicht zwischen DoD-Mandanten und gcc-oder kommerziellen Mandanten unterstützt.
 
-### <a name="client-configuration"></a>Client Konfiguration 
+### <a name="client-configuration"></a>Client Konfiguration
 
-Zusätzliche Schritte sind bei der Bereitstellung und Konfiguration von Office ProPlus (einschließlich Outlook) beteiligt. Eine ausführliche Beschreibung dieser Schritte finden Sie unter [Leitfaden für die Bereitstellung von Microsoft 365-Apps für Unternehmen in einer gcc-hoch-oder DoD-Umgebung ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
+Zusätzliche Schritte sind bei der Bereitstellung und Konfiguration von Office ProPlus (einschließlich Outlook) beteiligt. Eine ausführliche Beschreibung dieser Schritte finden Sie unter [Leitfaden für die Bereitstellung von Microsoft 365-Apps für Unternehmen in einer gcc-hoch-oder DoD-Umgebung](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
 
 Outlook für IOS und Android steht auch für gcc High-und DoD-Umgebungen zur Verfügung. Weitere Informationen zu Funktionseinschränkungen und-Verwaltung in diesen Umgebungen finden Sie unter [Verwenden von Outlook für IOS und Android in der Government Community Cloud](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud).
 
 ### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Add-Ins in Outlook und Outlook Web App  
 
 Nur einige OWA-und Outlook-Add-Ins sind in gcc High und DoD verfügbar. Meine Vorlagen und vorgeschlagene Besprechungen sind verfügbar und werden erwartet, dass Sie funktionieren. Nur die fünf Standard-OWA-Add-Ins werden unterstützt. Die Integration in Drittanbieteranwendungen ist möglich, diese Integrationen werden jedoch nicht von den Microsoft-Konformitäts Zusagen für gcc High oder DoD abgedeckt. Kunden sollten sich vor dem Konfigurieren des Add-ons für Ihre Organisation mit Drittanbieter-Methoden für Datenverarbeitung und Compliance-Zusagen vertraut machen.
+
+## <a name="feature-nuances-within-gcc-environments"></a>Funktions Nuancen in gcc-Umgebungen
+
+| Feature | Beschreibung | WW | Verfügbarkeit in gcc |
+|:-----|:-----|:-----|:-----|
+|Unterstützte Plattformen|Internet, Android, Ios, Mac, Windows|Alle|Nur im Internet|
+|M365-Hub unterstützt|Integration in Outlook, Teams, Planer|Alle|Outlook, Planner (Teams müssen mit Teams-Aufgaben-app verfügbar sein)|
+|Wunder-Migration|Zulassen, dass Wunder-Benutzerdaten in "to do" Migrieren|Ja|Nein|
+|Pushbenachrichtigungen|Senden von Push-Benachrichtigungen an Endbenutzer für Erinnerungen usw.|Ja|Nein|
+|Helpshift-Unterstützung|Verwenden der helpshift-Schnittstelle zum Erstellen von Supportanforderungen|Ja|Nein|
+|Mein Tag|Planen des Tages|Ja|Ja|
+|Geplante Liste|Anzeigen aller Vorgänge mit einem Fälligkeitsdatum|Ja|Ja|
+|Ihnen zugewiesene Liste|Alle Ihnen zugewiesenen Aufgaben in einer freigegebenen Liste, einem Planer oder WXP (Future)|Ja|Ja|
+|Gekennzeichnete e-Mail|Anzeigen von e-Mails, die in Outlook als Aufgaben gekennzeichnet sind|Ja|Ja|
+|Unterstützung mehrerer Konten|Verwenden von Heim-und Office-Konten in einem Bereich|Ja|Ja|
+|Listen Freigabe|Freigeben von Listen mit Kollegen in derselben Organisation|Ja|Ja|
+|Mandantenübergreifende Freigabe|Aufgabenliste außerhalb Ihrer Organisation freigeben|Ja|Nein|
+|Erinnerungen und Serien|Festlegen von Erinnerungen für Ihre Aufgabe |Ja|Ja|
+
+* Andere Features, die nicht erwähnt werden, stehen in beiden Umgebungen zur Verfügung.
