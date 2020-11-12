@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: d83791aa46ca8c77227f3a7ce692f4439866a151
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
+ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830396"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999718"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -25,7 +25,7 @@ Für die Zwecke dieses Artikels handelt es sich bei einem Dienst auf Mandanteneb
 > [!NOTE]
 > Einige Mandanten Dienste können derzeit keine Vorteile für bestimmte Benutzer einschränken. Es sollten Anstrengungen unternommen werden, um die Dienst Vorteile für lizenzierte Benutzer zu begrenzen. Auf diese Weise können potenzielle Dienstunterbrechungen in Ihrer Organisation vermieden werden, sobald die Zielfunktionen verfügbar sind.
 
-Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Microsoft 365-Kompatibilitätsfunktionen ab dem 1. April 2020 profitieren, laden Sie den detaillierten Vergleich der Microsoft 365-Kompatibilitäts Lizenzierung herunter. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Microsoft 365-Kompatibilitätsfunktionen ab dem 1. April 2020 profitieren, laden Sie den detaillierten Vergleich der Microsoft 365-Kompatibilitäts Lizenzierung herunter. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -118,7 +118,7 @@ Informationen zum Konfigurieren des Diensts finden Sie unter [Basic Setup for Cl
 
 Administratoren können Ocas-Bereitstellungen durchsetzen, um zu erzwingen, wie auf bestimmte apps zugegriffen wird, und um Benutzergruppen zu begrenzen, die von Office 365 Cloud-App-Sicherheit überwacht werden. Weitere Informationen finden Sie unter [bereichsbezogene Bereitstellung](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App-Sicherheit
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security (MCAS) ist eine CASB-Lösung (Cloud Access Security Broker), die Unternehmen Einblick in Ihre Cloud-apps und-Dienste gibt, hoch entwickelte Analysen zur Identifizierung und Bekämpfung von Cyber-Bedrohungen bietet und Ihnen die Steuerung der Datenübertragung &mdash; über eine Cloud-App ermöglicht.
 
@@ -461,7 +461,7 @@ Standardmäßig sind Exchange Online-e-Mails, SharePoint-Websites und OneDrive-K
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust** anpassen  >  **Locations** .
+Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust** anpassen  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Verhinderung von Kommunikationsdaten Verlust für Teams
 
@@ -481,7 +481,7 @@ Standardmäßig sind Microsoft Teams-Chat und Kanal Nachrichten ein *aktivierter
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust** anpassen  >  **Locations** .
+Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust** anpassen  >  **Locations**.
 
 ## <a name="information-barriers"></a>Informationsbarrieren
 
@@ -489,7 +489,7 @@ Informationsbarrieren sind Richtlinien, die ein Administrator konfigurieren kann
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:<br><br>
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:<br><br>
 
 | Szenario | Wer benötigt eine Lizenz? |
 |:------|:------|:------|
@@ -523,7 +523,7 @@ Microsoft 365 E3/A3, Office 365 E3/a3 und Azure Information Protection Plan 1 bi
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren erstellen und verwalten Office 365 Nachrichten Verschlüsselungsrichtlinien im Exchange Admin Center unter **Nachrichtenfluss**  >  **Regeln** . Diese Regeln gelten standardmäßig für alle Benutzer im Mandanten. Weitere Informationen zum Einrichten neuer Office 365 Nachrichten Verschlüsselungsfunktionen finden Sie unter [Einrichten neuer Office 365 Nachrichten Verschlüsselungsfunktionen](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Administratoren erstellen und verwalten Office 365 Nachrichten Verschlüsselungsrichtlinien im Exchange Admin Center unter **Nachrichtenfluss**  >  **Regeln**. Diese Regeln gelten standardmäßig für alle Benutzer im Mandanten. Weitere Informationen zum Einrichten neuer Office 365 Nachrichten Verschlüsselungsfunktionen finden Sie unter [Einrichten neuer Office 365 Nachrichten Verschlüsselungsfunktionen](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 

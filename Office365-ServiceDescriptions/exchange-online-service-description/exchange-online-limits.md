@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 728dbb670449a941400a3951201413e79895b238
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 784d8c7a6d1e1d87db0982586c63fce73eb3fa33
+ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830426"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999728"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -268,7 +268,7 @@ Die folgenden Grenzwerte gelten für sämtliche E-Mails.
 |Grenzwert für Nachrichtengröße – Outlook für Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Nachrichtengrößenbeschränkung - Migration|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |Grenzwert für Nachrichtengröße – Outlook für IOS und Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die Office 365-Nachrichtenverschlüsselung mit neuen Funktionen verwenden)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Maximale Größe für verschlüsselte Nachrichten (für Abonnenten, die die ältere Version der Office 365-Nachrichtenverschlüsselung verwenden)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Grenzwert für Länge des Betreffs|255 Zeichen|255 Zeichen|255 Zeichen|255 Zeichen|255 Zeichen|255 Zeichen|
 |Grenzwert für Dateianlagen|250 Anlagen|250 Anlagen|250 Anlagen|250 Anlagen|250 Anlagen|250 Anlagen|
