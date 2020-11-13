@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773439"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003948"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -45,11 +45,11 @@ Alle unterstützten Abonnement Pläne sind für den Zugriff auf den Microsoft Te
 
 Microsoft Teams ist nicht als eigenständiger Dienst verfügbar.
 
-## <a name="feature-category-reference"></a>Referenz zur Funktionskategorie 
+## <a name="feature-category-reference"></a>Referenz zur Funktionskategorie
 
 In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für Lizenzierungs Pläne oder Cloud-Instanzen aufgelistet. Es gelten bestimmte Einschränkungen. Weitere Informationen finden Sie in den Fußnoten. Diese Tabelle kann ohne vorherige Ankündigung geändert werden. Weitere Informationen finden Sie unter Microsoft 365 Message Center Notifications for Core Service Change Messaging und in der [Microsoft Licensing Terms Reference Documentation](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
-| Feature | Kleinunternehmen | Enterprise-Pläne | GCC | GCC-hoch | DOD | Schulung und Weiterbildung |
+| Feature | Kleinunternehmen | Enterprise-Pläne | GCC | GCC-hoch | DOD | Education |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Chat  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
@@ -57,16 +57,17 @@ In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für 
 |Kanäle – privat  <br/> |Ja  <br/> |Ja<sup>2</sup>  <br/> |Ja <br/> |Nein  <br/> |Nein <br/> |Ja  <br/> |
 |Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Bildschirmfreigabe PowerPoint-Audio/Video-Desktop <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Sprachanrufe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Audiokonferenz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Apps, Bots, &-Konnektoren  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>4</sup>  <br/> |Ja<sup>4</sup>  <br/> |Ja<sup>3, 4</sup>  <br/> |Ja  <br/> |
-|Live-Ereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>5</sup>  <br/> |Nr.<sup>5</sup>  <br/> |Ja  <br/> |
+|Sprachanrufe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
+|Audiokonferenz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
+|Apps, Bots, &-Konnektoren  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>5</sup>  <br/> |Ja<sup>5</sup>  <br/> |Ja<sup>4, 5</sup>  <br/> |Ja  <br/> |
+|Live-Ereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>6</sup>  <br/> |Nr.<sup>6</sup>  <br/> |Ja  <br/> |
 
 > <sup>1</sup>  Microsoft Teams in GCC-High und DoD unterstützen 2500-Mitglieder in einem einzelnen Team.<br/>
 > <sup>2</sup> Microsoft Planner steht derzeit nicht für den Zugriff auf private Kanäle zur Verfügung.<br/>
-> <sup>3</sup> Microsoft OneNote ist in DoD-Clouds nicht verfügbar.<br/>
-> <sup>4</sup> Anwendungen und Anwendungsveröffentlichung stehen derzeit in diesen Clouds nicht zur Verfügung.<br/>
-> <sup>5</sup> Live-Ereignisse sind zu diesem Zeitpunkt in GCC-High oder DoD nicht verfügbar.<br/>
+> <sup>3</sup> das direkte Routing muss für Microsoft Teams-sprach-und-Audiokonferenzen für die Verwendung in GCCH und DoD konfiguriert sein.<br/>
+> <sup>4</sup> Microsoft OneNote ist in DoD-Clouds nicht verfügbar.<br/>
+> <sup>5</sup> Anwendungen und Anwendungsveröffentlichung stehen derzeit in diesen Clouds nicht zur Verfügung.<br/>
+> <sup>6</sup> Live-Ereignisse sind zu diesem Zeitpunkt in GCC-High oder DoD nicht verfügbar.<br/>
 
 ## <a name="next-steps"></a>Nächste Schritte
 
