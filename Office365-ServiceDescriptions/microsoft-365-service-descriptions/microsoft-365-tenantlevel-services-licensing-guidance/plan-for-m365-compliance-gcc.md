@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in den US-Bundesländern, Staaten, lokalen, Stammes-oder Gebietskörperschaften oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government-gcc geeignet ist, diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 33a325a0d828596c4880cfab624d3df7da5f0450
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818645"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072676"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Plan for Microsoft 365 Compliance – gcc
 
@@ -22,7 +22,7 @@ Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 36
 > [!NOTE]
 > Wenn Ihre Organisation bereits die Microsoft 365 Government-gcc-Zulassungsvoraussetzungen erfüllt und in das Programm übernommen und akzeptiert wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Schritt 1. Ermitteln, ob Ihre Organisation Microsoft 365 Government-gcc benötigt und die Zulassungsvoraussetzungen erfüllt
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---gcc-and-meets-eligibility-requirements"></a>Schritt 1: Ermitteln, ob Ihre Organisation Microsoft 365 Government-gcc benötigt und die Zulassungsvoraussetzungen erfüllt
 
 Die Microsoft 365 Government-gcc-Umgebung erfüllt die US-behördlichen Anforderungen für Cloud-Dienste, einschließlich FedRAMP moderat, und Anforderungen für Strafjustiz und Eidgenössische Steuer Informationssysteme (CJI-und FTI-Datentypen).
 
@@ -41,7 +41,7 @@ Weitere Informationen zum Microsoft 365 Government-gcc-Angebot für US-Regierung
 Die [Office 365 US Government Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) beschreibt die Vorteile der Plattform, die sich auf die Erfüllung der Compliance-Anforderungen in den Vereinigten Staaten konzentrieren.
 
 > [!TIP]
-> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n** und **den Anforderungen meiner Organisation y/n entsprechen** . Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
+> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n** und **den Anforderungen meiner Organisation y/n entsprechen**. Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
 
 > [!NOTE]
 > Microsoft 365 Government-gcc ist nur in den Vereinigten Staaten verfügbar. Kunden außerhalb der US-Regierung können aus einer Reihe von [Office 365 Government-Plänen](https://products.office.com/government/compare-office-365-government-plans)wählen.
@@ -138,7 +138,7 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Kommunikation Compliance: Übersetzen von Integritäts Inhalten während der Untersuchung | Im Entwicklungsrückstand |
 |                                         | Kommunikation Compliance: Burnout und Selbstmord Erkennung | Im Entwicklungsrückstand |
 |                                         | Informationsbarrieren | Im Entwicklungsrückstand |
-|                                         | Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
+|                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
 | **Antworten auf & ermitteln**                  | Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
 |                                         | Zentrale eDiscovery: Überwachung                                 | Available              |
 |                                         | Zentrale eDiscovery: Fallverwaltung                                 | Available              |
@@ -182,8 +182,8 @@ Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es 
 |                                         | Erweiterte Überwachung: verarbeitete Überwachungs Einblicke                               | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: Suchbegriffs Ereignisse in Exchange Online und SharePoint Online                              | Im Entwicklungsrückstand |
 |    **Verwaltung der Richtlinientreue**            | Microsoft 365 Security and Compliance Center                              | Available |
-|                                         | Compliance-Manager (Vorschau)                              | Im Entwicklungsrückstand |
-|                                         | Microsoft Cloud App-Sicherheit                              | Im Entwicklungsrückstand |
+|                                         | Compliance-Manager                              | Rollout |
+|                                         | Microsoft Cloud App Security                              | Im Entwicklungsrückstand |
 |                                         | Unterstützung von Doppelbytezeichen                              | Im Entwicklungsrückstand |
 |    **Ökosystem**            | Graph-APIs für Advanced eDiscovery                              | In der Entwicklung |
 |                                         | Erstanbieter-Daten-Konnektoren                              | Im Entwicklungsrückstand |

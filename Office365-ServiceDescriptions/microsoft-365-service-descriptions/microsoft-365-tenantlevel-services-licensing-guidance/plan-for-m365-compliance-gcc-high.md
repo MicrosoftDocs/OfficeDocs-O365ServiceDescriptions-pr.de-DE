@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – gcc High geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 8101a5801b01ba3c2d6e72e28cc0ce482b17ac8b
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830356"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072666"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan for Microsoft 365 Compliance – gcc High
 
@@ -36,7 +36,7 @@ Weitere Informationen zum Microsoft 365 Government – gcc High-Angebot für US-
 Die [Office 365 US Government Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) beschreibt die Vorteile der Plattform, die sich auf die Erfüllung der Compliance-Anforderungen in den Vereinigten Staaten konzentrieren.
 
 > [!TIP]
-> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n** und **den Anforderungen meiner Organisation y/n entsprechen** . Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
+> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n** und **den Anforderungen meiner Organisation y/n entsprechen**. Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
 
 **Entscheidungspunkte** :<br/>
 - *Entscheiden Sie, ob Microsoft 365 Government – GCC-High für Ihre Organisation geeignet ist.*
@@ -55,7 +55,7 @@ Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherhei
 
 **Entscheidungspunkt** : *entscheiden Sie, ob Sie die standardmäßigen Microsoft 365 Government-GCC-High-Sicherheitseinstellungen ändern, um zunächst die Auswirkungen von Änderungen zu verstehen, die Sie möglicherweise vornehmen.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Schritt 4: Verstehen, welche Funktionen derzeit in Microsoft 365 Government – gcc-High<sup>1</sup> standardmäßig nicht verfügbar oder deaktiviert sind
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Schritt 4. Verstehen, welche Funktionen derzeit in Microsoft 365 Government – gcc-High<sup>1</sup> standardmäßig nicht verfügbar oder deaktiviert sind
 
 Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einige Unterschiede zwischen Microsoft 365 Government – GCC-High und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu verfügbaren Features. [Hier](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) finden Sie die neuesten Kompatibilitäts Produktupdates, die im Microsoft 365-Fahrplan veröffentlicht wurden.<br><br>
 
@@ -133,7 +133,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Übersetzen von Integritäts Inhalten während der Untersuchung | Im Entwicklungsrückstand |
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Burnout und Selbstmord Erkennung | Im Entwicklungsrückstand |
 |                                         | Informationsbarrieren | Im Entwicklungsrückstand |
-|                                         | Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
+|                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
 | **Antworten auf & ermitteln**                  | Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
 |                                         | Zentrale eDiscovery: Fallverwaltung                                 | Available              |
 |                                         | Zentrale eDiscovery: Suche                                          | Available              |
@@ -181,8 +181,8 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Erweiterte Überwachung: verarbeitete Überwachungs Einblicke                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: Suchbegriffs Ereignisse in Exchange Online und SharePoint Online                              | Im Entwicklungsrückstand |
 |    **Verwaltung der Richtlinientreue**            | Microsoft 365 Security and Compliance Center                              | Available |
-|                                         | Compliance-Manager (Vorschau)                                 | Rollout              |
-|                                         | Microsoft Cloud App-Sicherheit                                 | Available              |
+|                                         | Compliance-Manager                                 | Rollout              |
+|                                         | Microsoft Cloud App Security                                 | Available              |
 |                                         | Unterstützung von Doppelbytezeichen                                 | Im Entwicklungsrückstand              |
 |    **Ökosystem**            | Graph-APIs für Advanced eDiscovery                              | In der Entwicklung |
 |                                         | Erstanbieter-Daten-Konnektoren                                 | Im Entwicklungsrückstand              |
