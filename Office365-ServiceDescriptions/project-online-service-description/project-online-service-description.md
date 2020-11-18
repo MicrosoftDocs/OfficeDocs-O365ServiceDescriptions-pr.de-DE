@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Über Office 365 bereitgestellt, bietet Project Online leistungsstarke Projektmanagementfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolio Investitionen – von fast überall auf nahezu jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 5288a0b4160ad8f48fbae17030a4726b541dc7b0
+ms.sourcegitcommit: e6626910d7ccd2898a6e550b7c46b4f623142bd9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276798"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49085739"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -102,26 +102,29 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt 
 |Vorgangsplanung | Erhalten Sie eine Übersicht über die Projekte, an denen Sie kürzlich gearbeitet haben, sowie wichtige Projekte, die Sie genau überwachen müssen.| Nur Ansicht | Ja | Ja | Ja |
 |Zeitachsenansicht (Gantt-Diagramm) | Visuelles nachverfolgen und verstehen von Projektdaten,-Abhängigkeiten und-Zuweisungen in einer hierarchischen Zeitachsenansicht.|Nur Ansicht | Ja | Ja | Ja |
 |Sammelvorgänge | Planen, verwalten und Überwachen von Lieferumfang und Phasen mithilfe von Sammelvorgängen.| Nur Ansicht | Ja | Ja | Ja |
+|Erstellen und Verwenden von benutzerdefinierten Aufgabenfeldern | Hinzufügen lokaler benutzerdefinierter Felder zu Aufgaben in einem Projekt, Hinzufügen von Daten zu diesen Feldern oder Aktualisieren von Daten in diesen Feldern.| Nein | Ja | Ja | Ja |
 |**Zusammenarbeit** ||||||
 |Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. <sup>1</sup> | Ja | Ja | Ja | Ja |
 |**Ressourcen-und Programmverwaltung** ||||||
 |Projektteam Setup | Verwalten eines Projektteams durch Hinzufügen und Entfernen von Mitgliedern und Festlegen des Arbeitskalenders. | Nein | Ja | Ja | Ja |
-|Roadmaps | Erstellen visueller, interaktiver Roadmaps in Projekten aus Microsoft Project Online, Microsoft Project für das Internet und Azure Boards-Projekten. <sup>2</sup>   Mit dem Projekt Plan 1 erhalten Sie einen schreibgeschützten Zugriff auf Roadmaps. Mit Project Plan 3 oder Project Plan 5 können Sie auch Roadmaps erstellen. | Nur anzeigen | Nur anzeigen | Ja | Ja |
+|Roadmaps | Erstellen visueller, interaktiver Roadmaps in Projekten aus Microsoft Project Online, Microsoft Project für das Internet und Azure Boards-Projekten. <sup>2</sup> mit Projekt Plan 1 erhalten Sie einen schreibgeschützten Zugriff auf Roadmaps. Mit Project Plan 3 oder Project Plan 5 können Sie auch Roadmaps erstellen. | Nur anzeigen | Nur anzeigen | Ja | Ja |
 |**Berichterstellung**<sup>3</sup> ||||||
-|Out-of-the-Box-Berichterstellung | Verwenden Sie vorab erstellte Berichte, um Projekt-, Programm-, Portfolio-und Ressourcendaten zu verstehen. | Nein | Ja | Ja | Ja |
-|Benutzerdefinierte Berichte | Grundlegendes zu den Daten, die für Ihre Organisation wichtig sind, indem Sie benutzerdefinierte Berichte basierend auf vordefinierten Berichten oder von Grund auf neu erstellen. | Nein | Ja | Ja | Ja |
-|Dashboards und Portale | Erstellen Sie benutzerdefinierte Dashboards und Portale, um bestimmte organisatorische Anforderungen zu erfüllen.| Nein | Ja | Ja | Ja |
+|Lesen von Berichten aus *Project für die* Webdaten | Anzeigen von vordefinierten oder benutzerdefinierten Power BI-Berichten, Dashboards und Portalen, um Projekt-, Programm-, Portfolio-und Ressourcendaten zu verstehen. | Nein | Nein | Ja | Ja |
+|Erstellen von Berichten mithilfe *von Project für die* Webdaten | Grundlegendes zu den Daten, die für Ihre Organisation wichtig sind, indem Sie benutzerdefinierte Power BI-Berichte basierend auf standardmäßigen Berichten oder von Grund auf neu erstellen.<br> Erstellen Sie benutzerdefinierte Power BI-Dashboards und-Portale, um bestimmte organisatorische Anforderungen zu erfüllen. | Nein | Nein | Ja | Ja |
 |**Benutzerfreundlichkeit** ||||||
 |Gemeinsame Dokumenterstellung | Arbeiten Sie mit Beteiligten und Teammitgliedern zusammen, um Aufgabenlisten, Projektzeitpläne und vieles mehr gleichzeitig zu erstellen, zu bearbeiten und zu aktualisieren.| Nur Ansicht | Ja | Ja | Ja |
 |Grafische Indikatoren | Grundlegendes zu Aufgabenstatus, Zuordnungen und mehr mit grafischen Indikatoren.| Nur Ansicht | Ja | Ja | Ja |
 |**Mobilität** ||||||
 |Mobile Anwendungen | Erstellen Sie benutzerdefinierte Mobile Anwendungen mit PowerApps. <sup>4</sup> |Nein | Nein | Ja | Ja |
 |**Anpassung und Integration**||||||
-|PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile mit PowerApps. <sup>4</sup> | Nein | Nein | Ja | Ja |
-|Workflows | Automatisieren und integrieren von Geschäftsprozessen mit Power Automation. <sup>5</sup> | Nein | Nein | Ja | Ja |
-|Microsoft-Integration | Arbeiten Sie zusammen, verwalten Sie Dokumente und vieles mehr mithilfe vertrauter Microsoft-Tools und-Anwendungen. <sup>1</sup> | Ja | Ja | Ja | Ja |
+|Verwenden der Out-of-the-Box-Projekt Anwendung | Verwenden Sie die standardmäßige Projekt Anwendung, um ein Projekt anzuzeigen, ein neues Projekt zu erstellen, einem Projekt neue Daten hinzuzufügen oder vorhandene Projektdaten zu aktualisieren. | Nur anzeigen | Ja | Ja | Ja |
+|Anpassen von Ansichten und Formularen <sup>4</sup> | Passen Sie nur Ansichten und Formulare in der vordefinierten Projekt Anwendung an. | Nein | Ja | Ja | Ja |
+|Verwenden von benutzerdefinierten Feldern | Anzeigen, hinzufügen, aktualisieren oder Löschen von Daten in einem benutzerdefinierten Feld. | Nur anzeigen | Nur anzeigen | Ja | Ja |
+|Verwenden von benutzerdefinierten Entitäten <sup>5</sup> | Erstellen und Definieren von benutzerdefinierten Entitäten, die zusätzliche Daten enthalten, die Sie für Ihre Projekte, Programme, Portfolios usw. benötigen | Nein | Nur anzeigen | Ja | Ja |
 |**Sicherheit und Benutzerverwaltung**||||||
 |Moderne Office-Gruppen | Erstellen Sie ein Projektteam, mit dem Sie zusammenarbeiten und eine Sammlung von Ressourcen für Teammitglieder einrichten können, die Sie freigeben möchten. | Ja | Ja | Ja | Ja |
+|**Drittanbieter-apps**||||||
+|Herstellen einer Verbindung mit *Project für das Internet* mit Drittanbieter-apps <sup>4</sup> | Verwenden Sie eine benutzerdefinierte oder eine Drittanbieteranwendung zum Anzeigen, erstellen, aktualisieren oder Löschen von Projektdaten in einer systemeigenen oder benutzerdefinierten Projekt Entität.<br> Erstellen von Berichten in Drittanbieteranwendungen basierend auf Project für die Webdaten. | Nein | Nein | Ja | Ja |
 
 ### <a name="project-online-features"></a>Project Online-Features
 
@@ -164,7 +167,7 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Projektteam Setup | Verwalten eines Projektteams durch Hinzufügen und Entfernen von Mitgliedern, Festlegen von Zuordnungsebenen und Hinzufügen externer Mitglieder. | Ja | Ja |
 |Ressourcen Kapazitäts Ansichten | Nachverfolgen und Verwalten der Ressourcenkapazität auf Projekt-, Team-und Organisationsebene. | Ja | Ja |
 |Ressourcen Kalkulation | Verfolgen und verwalten Sie die Ressourcenkosten Ihres Projekts. | Ja | Ja |
-|Ressourcen Engagements (Buchungen) | Projektmanager können Anforderungen für Ressourcen nach Rolle, Fertigkeiten oder Namen übermitteln. Ressourcenmanager können Anforderungen überprüfen und die besten verfügbaren Ressourcen zuweisen. |Ja<sup>7</sup> | Ja<sup>8</sup> |
+|Ressourcen Engagements (Buchungen) | Projektmanager können Anforderungen für Ressourcen nach Rolle, Fertigkeiten oder Namen übermitteln. Ressourcenmanager können Anforderungen überprüfen und die besten verfügbaren Ressourcen zuweisen. |Ja<sup>8</sup> | Ja<sup>9</sup> |
 |Ressourcen Kapazitätsplanung | Nachverfolgen und Verwalten der Ressourcenkapazität auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Roadmaps | Erstellen visueller, interaktiver Roadmaps in Projekten aus Microsoft Project Online, Microsoft Project für das Internet und Azure Boards-Projekten. <sup>2</sup> | Ja | Ja |
 |Portfolio Analyse und Priorisierung | Identifizieren, auswählen und Bereitstellen von Projektportfolios, die am besten mit der Geschäftsstrategie Ihres Unternehmens übereinstimmen und Ihren Return on Investment (ROI) maximieren. | Nein | Ja |
@@ -179,25 +182,26 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Custom fields | Fügen Sie benutzerdefinierte Felder auf Projekt-, Vorgangs-und Ressourcenebene hinzu, um Daten zu verfolgen, die für Ihre Organisation und ihre Projekte wichtig sind. | Ja | Ja |
 |Formeln | Berechnen und Erfassen wichtiger Daten mithilfe von Formeln für Vorgänge und Projekte. | Ja | Ja |
 |PowerApps | Erstellen und nutzen Sie Lösungen für das Internet und Mobile (über OData) mit PowerApps. <sup>4</sup> | Ja | Ja |
-|Workflows | Automatisieren und integrieren von Geschäftsprozessen (über OData) mit Power Automation. <sup>5</sup> | Ja | Ja |
+|Workflows | Automatisieren und integrieren von Geschäftsprozessen (über OData) mit Power Automation. <sup>7</sup> | Ja | Ja |
 |Microsoft 365-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Microsoft-Tools und-Anwendungen. <sup>1</sup> | Ja | Ja |
 |Microsoft Planner-Integration | Verbinden Sie Projektvorgänge mit einem planerplan, und verfolgen Sie detaillierte Arbeit in Planner. <sup>1</sup> | Ja | Ja |
 |**Sicherheit, Benutzer-und Dienstverwaltung**||||
-|Active Directory-Integration | Erstellen Sie Teams von einem beliebigen Mitglied der Active Directory Ihres Unternehmens. <sup>9</sup> | Ja | Ja |
+|Active Directory-Integration | Erstellen Sie Teams von einem beliebigen Mitglied der Active Directory Ihres Unternehmens. <sup>10</sup> | Ja | Ja |
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
-|Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung.  | Nein | Ja |
+|Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung. | Nein | Ja |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>Anmerkungen
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
-<sup>3</sup> die Berichterstellung für Project für das Internet und Project Online steht mithilfe von Power BI zur Verfügung. Das anzeigen, bearbeiten und Erstellen von Berichten erfordert ein Power BI-Abonnement. Microsoft stellt eine vordefinierte Gruppe von Power BI-Berichten bereit. Benutzer können diese Berichte anpassen oder zusätzliche Berichte mit Power BI erstellen.</br> 
-<sup>4</sup> das Erstellen und Verwenden von benutzerdefinierten PowerApps-mobilen Anwendungen, die auf Project für die Webdaten zugreifen, erfordert ein PowerApps-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
-<sup>5</sup> das Automatisieren und integrieren von Geschäftsprozessen mit Power Automation mit Project für die Webdaten erfordert ein Power automatisieren-Abonnement und ein Project Plan 3-oder Project Plan 5-Abonnement.</br>
+<sup>3</sup> die Berichterstellung für Project für das Internet und Project Online steht mithilfe von Power BI zur Verfügung. Erfordert eine Power BI-Lizenz.</br>
+<sup>4</sup> erstellen und Verwenden separater Power apps jenseits der vordefinierten Projekt Anwendung, die auf Project für das Internet oder Project Online Kundendaten zugreift, ist ein separates Power apps-Abonnement erforderlich.</br>
+<sup>5</sup> auf 5 benutzerdefinierte Entitäten limitiert.</br>
 <sup>6</sup> Project Online Lizenzierung für externe Benutzer entspricht der Richtlinie für interne Benutzer. Für alle Interaktionen auf einer Project Online Website ist ein Project Plan 3-oder Project Plan 5-Abonnement erforderlich.</br>
-<sup>7</sup> Benutzer mit einem Projektplan 3-oder Project Plan 5-Abonnement können Ressourceneinsatz Anforderungen übermitteln. Sie können keine Ressourceneinsatz Anforderungen überprüfen, erfüllen oder genehmigen.</br>
-<sup>8</sup> Benutzer mit einem Project Plan 5-Abonnement können Ressourceneinsatz Anforderungen überprüfen, erfüllen und genehmigen.</br>
-<sup>9</sup> Active Directory erfordert ein separates Abonnement. </br>
+<sup>7</sup> das Automatisieren und integrieren von Geschäftsprozessen mit Power Automation mit Project für die Webdaten erfordert ein Power automatisieren-Abonnement und ein Project-Abonnement für Projektplan 3 oder Project Plan 5.</br>
+<sup>8</sup> Benutzer mit einem Projektplan 3-oder Project Plan 5-Abonnement können Ressourceneinsatz Anforderungen übermitteln. Sie können keine Ressourceneinsatz Anforderungen überprüfen, erfüllen oder genehmigen.</br>
+<sup>9</sup> Benutzer mit einem Project Plan 5-Abonnement können Ressourceneinsatz Anforderungen überprüfen, erfüllen und genehmigen.</br>
+<sup>10</sup> Active Directory erfordert ein separates Abonnement. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online-Desktop Clientfeatures
 
@@ -285,7 +289,7 @@ Project für das Internet weist einige Einschränkungen auf, die in der folgende
 |Max. Dauer des Sammelvorgangs | 3650 Tage (10 Jahre) |
 |Max. Ressourcen, die einem Vorgang zugewiesen werden können | 20 Ressourcen |
 |Unterstützter Datumsbereich für Vorgang | 1/1/1984 &ndash; 12/31/2149 |
-|**Projekt** ||
+|**Project** ||
 |Max. Gesamtzahl der Vorgänge für das Projekt | 500 |
 |Max. Gesamtdauer des Projekts | 3650 Tage (10 Jahre) |
 |Max. Gesamtressourcen für das Projekt | 150 |
