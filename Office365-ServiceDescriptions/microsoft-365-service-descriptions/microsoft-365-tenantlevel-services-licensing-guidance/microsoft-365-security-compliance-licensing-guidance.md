@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999718"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330262"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -298,8 +298,8 @@ Die folgenden Lizenzen bieten die Rechte für einen Benutzer, von den Daten Konn
 - Microsoft 365 E5/a5
 - Microsoft 365 E5/A5-Info Schutz & Governance
 - Microsoft 365 E5/A5-Konformität
-- Microsoft 365 E5/A5 Insider-Risiko Management 
-- Microsoft 365 E5/A5 eDiscovery und Überwachung 
+- Microsoft 365 E5/A5 Insider-Risiko Management
+- Microsoft 365 E5/A5 eDiscovery und Überwachung
 - Office 365 E5/a5
 - Office 365 Advanced Compliance
 
@@ -377,11 +377,7 @@ Office 365 Verschlüsselungsschlüssel für Kundenschlüssel können für alle D
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Wenn Sie Daten in einer Office 365-und/oder Microsoft 365-Organisation für lizenzierte Benutzer mit Verschlüsselungsschlüsseln versehen möchten, befolgen Sie die Bereitstellungsanweisungen für die Schlüssel zur Verschlüsselung der Kunden.
-
-- Für SharePoint Online-, OneDrive für Unternehmen-und Microsoft Teams-Dateien können Dateien auf mindestens einer Website mit dem Kundenschlüssel verschlüsselt werden.
-
-- Für Exchange Online und Skype for Business können Postfächer mit dem Kundenschlüssel verschlüsselt werden.
+Für Exchange Online und Skype for Business können Postfächer mit dem Kundenschlüssel verschlüsselt werden. Sie müssen Azure einrichten, bevor Sie Customer Key für Office 365 verwenden können. Unter [Einrichten des Kunden Schlüssels](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) finden Sie die Schritte, die Sie zum Erstellen und Konfigurieren der erforderlichen Azure-Ressourcen und der Schritte zum Einrichten von Kundenschlüssel in Office 365 durchführen müssen. Nachdem Sie das Azure-Setup abgeschlossen haben, legen Sie fest, welche Richtlinie und daher welche Schlüssel zu Postfächern und Dateien in Ihrer Organisation zugewiesen werden sollen. Für Postfächer und Dateien, denen Sie keine Richtlinie zuweisen, werden Verschlüsselungsrichtlinien verwendet, die von Microsoft gesteuert und verwaltet werden. Weitere Informationen zum Kundenschlüssel oder eine allgemeine Übersicht finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide).
 
 ## <a name="office-365-customer-lockbox"></a>Office 365-Kunden-Lockbox
 
@@ -489,7 +485,7 @@ Informationsbarrieren sind Richtlinien, die ein Administrator konfigurieren kann
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:<br><br>
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:<br><br>
 
 | Szenario | Wer benötigt eine Lizenz? |
 |:------|:------|:------|
