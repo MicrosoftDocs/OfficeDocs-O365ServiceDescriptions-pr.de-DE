@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der US Government-Cloud und der kommerziellen Cloud, wie in der Exchange Online-Dienstbeschreibung aufgeführt.
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988082"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376088"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online für Umgebungen in der US-Regierung
 
@@ -111,7 +111,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Websitepostfächer|Ja|Ja|Ja||
 |Öffentliche Ordner|Ja|Ja|Ja||
 |**[Clients und mobile Geräte](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
-|To-do-Webseite|Ja|Nein|Nein||
+|Aufgaben im Internet|Ja|Nein|Nein||
 |Outlook für Windows|Ja|Ja|Ja|Um die Anforderungen an gcc High and DoD Compliance erfüllen zu können, müssen Sie mindestens Version 1803 von Office 365 ProPlus betreiben. Office 365 ProPlus ist nicht mit G1 oder F3 enthalten.|
 |Outlook im Web|Ja|Ja|Ja||
 |Outlook für Mac|Ja|Ja|Ja|Um die Anforderungen an gcc High and DoD Compliance erfüllen zu können, müssen Sie mindestens Version 1803 von Office 365 ProPlus betreiben. Office 365 ProPlus ist nicht mit G1 oder F3 enthalten.|
@@ -156,7 +156,7 @@ Aufgrund dieser Einschränkungen werden Features, die von dieser ausgehenden Ver
 
 - Verbundene Konten-Benutzer können keine Konten hinzufügen/synchronisieren (Google, POP/IMAP usw.).
 
-- Unterstützung für Dateispeicher Anbieter von Drittanbietern – nur das OneDrive for Business-Konto des Benutzers *innerhalb von gcc High/DoD* kann über die verschiedenen Outlook-Clients in Verbindung mit dem Anfügen/Freigeben von Dateien aus zugegriffen werden. Speicherkonten von Drittanbietern (Dropbox, Box, Google Drive) können nicht hinzugefügt werden.
+- Unterstützung für Dateispeicher Anbieter von Drittanbietern-nur das OneDrive für Unternehmen-Konto des Benutzers *innerhalb von gcc High/DoD* kann über die verschiedenen Outlook-Clients in Verbindung mit dem Anfügen/Freigeben von Dateien auf Sie zugreifen. Speicherkonten von Drittanbietern (Dropbox, Box, Google Drive) können nicht hinzugefügt werden.
 
 - Konnektivität mit sozialen Netzwerken wie Facebook oder LinkedIn.
 
@@ -212,13 +212,13 @@ Outlook für IOS und Android steht auch für gcc High-und DoD-Umgebungen zur Ver
 
 Nur einige OWA-und Outlook-Add-Ins sind in gcc High und DoD verfügbar. Meine Vorlagen und vorgeschlagene Besprechungen sind verfügbar und werden erwartet, dass Sie funktionieren. Nur die fünf Standard-OWA-Add-Ins werden unterstützt. Die Integration in Drittanbieteranwendungen ist möglich, diese Integrationen werden jedoch nicht von den Microsoft-Konformitäts Zusagen für gcc High oder DoD abgedeckt. Kunden sollten sich vor dem Konfigurieren des Add-ons für Ihre Organisation mit Drittanbieter-Methoden für Datenverarbeitung und Compliance-Zusagen vertraut machen.
 
-## <a name="feature-nuances-within-gcc-environments"></a>Funktions Nuancen in gcc-Umgebungen
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Funktions Nuancen in gcc-Umgebungen für Microsoft
 
 | Feature | Beschreibung | WW | Verfügbarkeit in gcc |
 |:-----|:-----|:-----|:-----|
 |Unterstützte Plattformen|Internet, Android, Ios, Mac, Windows|Alle|Nur im Internet|
 |M365-Hub unterstützt|Integration in Outlook, Teams, Planer|Alle|Outlook, Planner (Teams müssen mit Teams-Aufgaben-app verfügbar sein)|
-|Wunder-Migration|Zulassen, dass Wunder-Benutzerdaten in "to do" Migrieren|Ja|Nein|
+|Wunder-Migration|Zulassen, dass Wunder-Benutzerdaten für "to do" im Internet migrieren|Ja|Nein|
 |Pushbenachrichtigungen|Senden von Push-Benachrichtigungen an Endbenutzer für Erinnerungen usw.|Ja|Nein|
 |Helpshift-Unterstützung|Verwenden der helpshift-Schnittstelle zum Erstellen von Supportanforderungen|Ja|Nein|
 |Mein Tag|Planen des Tages|Ja|Ja|
