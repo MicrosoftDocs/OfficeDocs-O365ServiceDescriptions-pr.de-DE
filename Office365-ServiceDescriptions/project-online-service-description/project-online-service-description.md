@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Online Lösung für das Projektportfoliomanagement (ppm) und die tägliche Arbeit. Über Office 365 bereitgestellt, bietet Project Online leistungsstarke Projektmanagementfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolio Investitionen – von fast überall auf nahezu jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 5288a0b4160ad8f48fbae17030a4726b541dc7b0
-ms.sourcegitcommit: e6626910d7ccd2898a6e550b7c46b4f623142bd9
+ms.openlocfilehash: c00ab33ada0de493a0e1f79c898f735824f9e7d9
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085739"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411594"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -65,7 +65,7 @@ Microsoft Project Online Desktop Client ist ein Projektverwaltungsprogramm, das 
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Verwenden von Project für das Internet und Project Online zusammen
 
-Obwohl Project für das Internet und Project Online separate Anwendungen sind, können Sie sie nebeneinander verwenden. Sie können alle Ihre Projekte aus beiden Anwendungen in Project Home anzeigen. Sie können die Project-Roadmap-Funktion verwenden, um Roadmaps zu erstellen, die Projekte aus beiden Anwendungen umfassen. Sie können Power BI und das Projekt für das WebPower BI-Inhaltspaket verwenden, um Einblicke in Projekte und Ressourcen in den beiden Anwendungen zu gewinnen. <sup>3</sup>
+Obwohl Project für das Internet und Project Online separate Anwendungen sind, können Sie diese nebeneinander verwenden. Sie können alle Ihre Projekte aus beiden Anwendungen in Project Home anzeigen. Sie können die Project-Roadmap-Funktion verwenden, um Roadmaps zu erstellen, die Projekte aus beiden Anwendungen umfassen. Sie können Power BI und das Projekt für das WebPower BI-Inhaltspaket verwenden, um Einblicke in Projekte und Ressourcen in den beiden Anwendungen zu gewinnen. <sup>3</sup>
 
 Dieses Diagramm zeigt, wie die Anwendungen nebeneinander zusammenarbeiten können.
 
@@ -102,7 +102,7 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt 
 |Vorgangsplanung | Erhalten Sie eine Übersicht über die Projekte, an denen Sie kürzlich gearbeitet haben, sowie wichtige Projekte, die Sie genau überwachen müssen.| Nur Ansicht | Ja | Ja | Ja |
 |Zeitachsenansicht (Gantt-Diagramm) | Visuelles nachverfolgen und verstehen von Projektdaten,-Abhängigkeiten und-Zuweisungen in einer hierarchischen Zeitachsenansicht.|Nur Ansicht | Ja | Ja | Ja |
 |Sammelvorgänge | Planen, verwalten und Überwachen von Lieferumfang und Phasen mithilfe von Sammelvorgängen.| Nur Ansicht | Ja | Ja | Ja |
-|Erstellen und Verwenden von benutzerdefinierten Aufgabenfeldern | Hinzufügen lokaler benutzerdefinierter Felder zu Aufgaben in einem Projekt, Hinzufügen von Daten zu diesen Feldern oder Aktualisieren von Daten in diesen Feldern.| Nein | Ja | Ja | Ja |
+|Erstellen und Verwenden von benutzerdefinierten Aufgabenfeldern | Hinzufügen lokaler benutzerdefinierter Felder zu Aufgaben in einem Projekt, Hinzufügen von Daten zu diesen Feldern oder Aktualisieren von Daten in diesen Feldern.| Nur anzeigen | Ja | Ja | Ja |
 |**Zusammenarbeit** ||||||
 |Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. <sup>1</sup> | Ja | Ja | Ja | Ja |
 |**Ressourcen-und Programmverwaltung** ||||||
@@ -118,13 +118,13 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Projekt 
 |Mobile Anwendungen | Erstellen Sie benutzerdefinierte Mobile Anwendungen mit PowerApps. <sup>4</sup> |Nein | Nein | Ja | Ja |
 |**Anpassung und Integration**||||||
 |Verwenden der Out-of-the-Box-Projekt Anwendung | Verwenden Sie die standardmäßige Projekt Anwendung, um ein Projekt anzuzeigen, ein neues Projekt zu erstellen, einem Projekt neue Daten hinzuzufügen oder vorhandene Projektdaten zu aktualisieren. | Nur anzeigen | Ja | Ja | Ja |
-|Anpassen von Ansichten und Formularen <sup>4</sup> | Passen Sie nur Ansichten und Formulare in der vordefinierten Projekt Anwendung an. | Nein | Ja | Ja | Ja |
-|Verwenden von benutzerdefinierten Feldern | Anzeigen, hinzufügen, aktualisieren oder Löschen von Daten in einem benutzerdefinierten Feld. | Nur anzeigen | Nur anzeigen | Ja | Ja |
-|Verwenden von benutzerdefinierten Entitäten <sup>5</sup> | Erstellen und Definieren von benutzerdefinierten Entitäten, die zusätzliche Daten enthalten, die Sie für Ihre Projekte, Programme, Portfolios usw. benötigen | Nein | Nur anzeigen | Ja | Ja |
+|Anpassen von Ansichten und Formularen <sup>4</sup> | Passen Sie nur Ansichten und Formulare in der vordefinierten Projekt Anwendung an. | Nur anzeigen | Ja | Ja | Ja |
+|Verwenden von benutzerdefinierten Spalten | Anzeigen, hinzufügen, aktualisieren oder Löschen von Daten in einer Spalte, die einer Tabelle hinzugefügt wurde. | Nur anzeigen | Nur anzeigen | Ja | Ja |
+|Verwenden von benutzerdefinierten Tabellen <sup>5</sup> | Erstellen und definieren Sie benutzerdefinierte Tabellen, die zusätzliche Daten enthalten, die Sie für Ihre Projekte, Portfolios usw. benötigen. | Nein | Nur anzeigen | Ja | Ja |
 |**Sicherheit und Benutzerverwaltung**||||||
 |Moderne Office-Gruppen | Erstellen Sie ein Projektteam, mit dem Sie zusammenarbeiten und eine Sammlung von Ressourcen für Teammitglieder einrichten können, die Sie freigeben möchten. | Ja | Ja | Ja | Ja |
 |**Drittanbieter-apps**||||||
-|Herstellen einer Verbindung mit *Project für das Internet* mit Drittanbieter-apps <sup>4</sup> | Verwenden Sie eine benutzerdefinierte oder eine Drittanbieteranwendung zum Anzeigen, erstellen, aktualisieren oder Löschen von Projektdaten in einer systemeigenen oder benutzerdefinierten Projekt Entität.<br> Erstellen von Berichten in Drittanbieteranwendungen basierend auf Project für die Webdaten. | Nein | Nein | Ja | Ja |
+|Herstellen einer Verbindung mit *Project für das Internet* mit Drittanbieter-apps <sup>4</sup> | Verwenden einer benutzerdefinierten Anwendung oder eines Drittanbieters zum Anzeigen, erstellen, aktualisieren oder Löschen von Projektdaten in einer systemeigenen oder benutzerdefinierten Projekttabelle.<br> Erstellen von Berichten in Drittanbieteranwendungen basierend auf Project für die Webdaten. | Nein | Nein | Ja | Ja |
 
 ### <a name="project-online-features"></a>Project Online-Features
 
@@ -157,7 +157,7 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |Anlagen | Anfügen von Dokumenten, Bildern und anderen Dateien auf Team-, Projekt-oder Aufgabenebene. Verwalten Sie diese Anlagen in einer zentralen Bibliothek auf Team-oder Projektebene. | Ja | Ja |
 |Externe Teammitglieder |Arbeiten Sie mit Personen außerhalb Ihrer Organisation zusammen, indem Sie Ihnen Zugriff gewähren, um Ihre Projekte, Aufgaben und Dokumente anzuzeigen und mit Ihnen zu interagieren. <sup>6</sup> | Ja | Ja |
 |Projektwebsites | Erstellen und Anpassen eines Hubs für die Zusammenarbeit und Dokumente für ein Projekt. | Ja | Ja |
-Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. <sup>1</sup> | Ja | Ja |
+|Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. <sup>1</sup> | Ja | Ja |
 |**Bedarfs Verwaltung** ||||
 |Workflow Setup für Project-Anforderungsgenehmigung | Erstellen Sie die Workflows, die Sie zum Auswerten, priorisieren und genehmigen des eingehenden Bedarfs benötigen. | Nein | Ja |
 |Erstellen von Formularen für Projekt Anforderungsformulare | Erfassen Sie wichtige Daten über eingehende Anforderungen, die Sie bei der Bewertung und Priorisierung neuer Aufgaben unterstützen. | Nein | Ja |
@@ -190,13 +190,13 @@ Microsoft Teams-Integration | Zusammenarbeiten an Projekten in Microsoft Teams. 
 |Benutzerverwaltung | Verwalten von Benutzer-und Gruppen Rollen und Berechtigungen auf Projekt-, Team-und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, installieren und konfigurieren, warten und erweitern Sie Ihre Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1</sup> -Umgebung. | Nein | Ja |
 
-#### <a name="notes"></a>Anmerkungen
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> erfordert ein Office-oder Microsoft 365-kommerzielles Abonnement.</br>
 <sup>2</sup> Azure-Karten, die separat erworben werden.</br>
 <sup>3</sup> die Berichterstellung für Project für das Internet und Project Online steht mithilfe von Power BI zur Verfügung. Erfordert eine Power BI-Lizenz.</br>
 <sup>4</sup> erstellen und Verwenden separater Power apps jenseits der vordefinierten Projekt Anwendung, die auf Project für das Internet oder Project Online Kundendaten zugreift, ist ein separates Power apps-Abonnement erforderlich.</br>
-<sup>5</sup> auf 5 benutzerdefinierte Entitäten limitiert.</br>
+<sup>5</sup> benutzerdefinierte Tabellen sind auf 5 limitiert.</br>
 <sup>6</sup> Project Online Lizenzierung für externe Benutzer entspricht der Richtlinie für interne Benutzer. Für alle Interaktionen auf einer Project Online Website ist ein Project Plan 3-oder Project Plan 5-Abonnement erforderlich.</br>
 <sup>7</sup> das Automatisieren und integrieren von Geschäftsprozessen mit Power Automation mit Project für die Webdaten erfordert ein Power automatisieren-Abonnement und ein Project-Abonnement für Projektplan 3 oder Project Plan 5.</br>
 <sup>8</sup> Benutzer mit einem Projektplan 3-oder Project Plan 5-Abonnement können Ressourceneinsatz Anforderungen übermitteln. Sie können keine Ressourceneinsatz Anforderungen überprüfen, erfüllen oder genehmigen.</br>
@@ -289,7 +289,7 @@ Project für das Internet weist einige Einschränkungen auf, die in der folgende
 |Max. Dauer des Sammelvorgangs | 3650 Tage (10 Jahre) |
 |Max. Ressourcen, die einem Vorgang zugewiesen werden können | 20 Ressourcen |
 |Unterstützter Datumsbereich für Vorgang | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Projekt** ||
 |Max. Gesamtzahl der Vorgänge für das Projekt | 500 |
 |Max. Gesamtdauer des Projekts | 3650 Tage (10 Jahre) |
 |Max. Gesamtressourcen für das Projekt | 150 |

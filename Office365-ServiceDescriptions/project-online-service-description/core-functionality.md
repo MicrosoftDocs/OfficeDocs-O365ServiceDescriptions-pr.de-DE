@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Die folgenden Hauptfunktionen stehen in Project online zur Verfügung.
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294041"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411584"
 ---
 # <a name="core-functionality"></a>Hauptfunktionalität
 
@@ -52,13 +52,13 @@ Erarbeiten Sie gemeinsam mit anderen Benutzern Zeitpläne, indem Sie Zeitplandet
 
 Stellen Sie Projektinformationen mithilfe von Gantt-Diagrammen, Netzplandiagrammen, Diagramm-, Blatt-, Verwendungs-und Formularansichten grafisch dar. Weitere Informationen finden Sie unter [Auswählen der richtigen Ansicht für den Projektplan](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
+## <a name="user-interface-the-ribbon"></a>Benutzeroberfläche, das Menüband
 
-Steigern Sie die Produktivität mit dem Menüband, einer Oberfläche mit Registerkarten, über die Sie Project-Funktionen und -Steuerelemente schnell finden und verwenden können. [Hier erfahren Sie mehr über das Menüband](https://go.microsoft.com/fwlink/p/?LinkId=271325).
-  
+Steigern Sie die Produktivität mit dem Menüband, einer Oberfläche mit Registerkarten, über die Sie Project-Funktionen und -Steuerelemente schnell finden und verwenden können.
+
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-Sie können mehrere Änderungen gleichzeitig mit dem Menü "Rückgängig" rückgängig machen. 
+Sie können mehrere Änderungen gleichzeitig mit dem Menü "Rückgängig" rückgängig machen.
   
 ## <a name="network-diagram-view"></a>Ansicht "Netzplandiagramm"
 
@@ -103,5 +103,3 @@ Verwenden Sie die Zoomsteuerelemente auf der Statusleiste, um schnell die Perspe
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
 Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online Service Description](project-online-service-description.md).
-  
-

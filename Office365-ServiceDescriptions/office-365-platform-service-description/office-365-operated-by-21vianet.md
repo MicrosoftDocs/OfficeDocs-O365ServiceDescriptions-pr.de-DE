@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294131"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411654"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -295,7 +295,7 @@ Die folgende Tabelle enthält Links zu vergleichen von Office für die webfunkti
 > - Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite.
 > - Microsoft Office webapps Server 2013 lokale Kunden erhalten eine Office für die webbearbeitungs Lizenz, wenn Sie eine Office-Desktop Suite-Lizenz erworben haben (wie Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz).
 
-| Anwendung | Office für das Internet, betrieben von 21Vianet | Link zum detaillierten Funktionsvergleich |
+| App | Office für das Internet, betrieben von 21Vianet | Link zum detaillierten Funktionsvergleich |
 |:-----|:-----|:-----|
 |Word|Word für das Internet, betrieben von 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel für das Internet, betrieben von 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -334,7 +334,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Nachrichtenflussregeln (Transportregeln)|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
+|**[Schutz vor Spam und Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|
@@ -342,7 +342,7 @@ In der folgenden Tabelle sind die Exchange Online Dienste aufgeführt, die in Of
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>4</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Nein|
-|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
+|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 a1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -541,7 +541,7 @@ In der folgenden Tabelle sind die Exchange Online Archivierungs Features aufgef�
 |Outlook im Web |Nein|Ja|
 |**[Kompatibilitäts-und Sicherheitsfeatures in Exchange Online Archivierung](../exchange-online-archiving-service-description/compliance-and-security-features.md)**|||
 |Aufbewahrungsrichtlinien|Nein|Ja|
-|In-situ-Speicher und Beweissicherungsverfahren<sup>5</sup>|Nein|Ja|
+|In-Place halten und Beweissicherungsverfahren<sup>5</sup>|Nein|Ja|
 |Compliance-eDiscovery|Nein|Ja|
 |Verschlüsselung zwischen lokalen Servern und Exchange Online-Archivierung|Nein|Ja|
 |Verschlüsselung zwischen Clients und Exchange Online-Archivierung|Nein|Ja|
@@ -551,10 +551,10 @@ In der folgenden Tabelle sind die Exchange Online Archivierungs Features aufgef�
 |Überwachung|Ja|Ja|
 
 <sup>1</sup> Benutzerpostfächer müssen sich auf Exchange 2010 SP2 oder höher befinden. <br/>
-<sup>2</sup> in-Place Archive kann nur zum Archivieren von e-Mails für einen einzelnen Benutzer oder eine Entität verwendet werden, für die eine Lizenz angewendet wurde. Das Verwenden eines in-Place-Archivs als Möglichkeit zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist untersagt. Beispielsweise können IT-Administratoren freigegebene Postfächer erstellen und Benutzern das freigegebene Postfach zum expliziten Zweck der Archivierung kopieren (über das Feld Cc oder Bcc oder über eine Nachrichtenfluss Regel). <br/>
+<sup>2</sup> In-Place Archiv kann nur zum Archivieren von e-Mails für einen einzelnen Benutzer oder eine Entität verwendet werden, für die eine Lizenz angewendet wurde. Das Verwenden eines In-Place Archivs als Möglichkeit zum Speichern von e-Mails von mehreren Benutzern oder Entitäten ist untersagt. Beispielsweise können IT-Administratoren freigegebene Postfächer erstellen und Benutzern das freigegebene Postfach zum expliziten Zweck der Archivierung kopieren (über das Feld Cc oder Bcc oder über eine Nachrichtenfluss Regel). <br/>
 <sup>3</sup> eine Liste unterstützter Microsoft Outlook-Versionen finden Sie unter [Client Features in Exchange Online Archivierung](../exchange-online-archiving-service-description/client-features.md). <br/>
 <sup>4</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. <br/>
-<sup>5</sup> Wenn Sie ein Postfach in das Compliance-Archiv oder das Beweissicherungsverfahren setzen, wird der Speicherplatz sowohl im primären als auch im Archivpostfach platziert.
+<sup>5</sup> Wenn Sie ein Postfach in In-Place halten oder ein Beweissicherungsverfahren einhalten, wird der Speicherplatz sowohl im primären als auch im Archivpostfach platziert.
 
 ## <a name="sharepoint-online-features"></a>SharePoint Online-Features
 
@@ -951,7 +951,7 @@ In der folgenden Tabelle sind Skype for Business Online Features aufgeführt, di
 |Skype for Business Online Berichterstellung im Microsoft 365 Admin Center|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 
 <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Der Lync Basic-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3 beinhalten die Vollversion der Skype for Business (Lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliance-Funktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. Weitere Informationen zu lync Basic-Funktionen finden Sie unter [Desktop Client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
-<br/><sup>2</sup> die Archivierung für Skype for Business Online hängt von der Exchange-in-situ-Speicherfunktion ab, die nicht in diesem Plan enthalten ist.
+<br/><sup>2</sup> die Archivierung für Skype for Business Online hängt von der Exchange In-Place Hold-Funktion ab, die nicht in diesem Plan enthalten ist.
 <br/><sup>3</sup> Nur verfügbar über die Verwaltungsschnittstelle des Skype for Business Admin Centers.
 <br/><sup>4</sup> in Office 365 betrieben von 21Vianet wird der Skype for Business-Client für die Verwendung mit diesen Abonnementoptionen unterstützt, ist jedoch nicht enthalten. Für den Zugriff auf Video mit mehreren Teilnehmern (Galerieansicht), OneNote-Besprechungsnotizen, Aufzeichnung und Kalender Delegierungsfunktionen müssen Benutzer über Rechte für den vollständigen Skype for Business-Client verfügen. Sie können den vollständigen Skype for Business-Client abrufen, indem Sie Office 2013 Professional Plus erwerben.
 <br/><sup>5</sup> in Office 365, die von 21Vianet betrieben werden, können Mandanten mit einem eigenständigen Skype for Business-Plan auf die Berichtsfunktionen zugreifen, wenn der Mandant auch über mindestens eine Active Exchange-Lizenz verfügt, beispielsweise Exchange Online Plan 1 oder Exchange Online Plan 2.
@@ -1053,7 +1053,7 @@ In der folgenden Tabelle sind Office 365 Pläne aufgeführt, die den SharePoint 
 
 <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu lync Basic-Funktionen finden Sie unter [Desktop Client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>2</sup> ein Skype for Business Online Plan 1-Benutzer kann an einer Freigabesitzung teilnehmen, wenn er von einem Skype for Business Online-Plan 2-Benutzer eingeladen wird.
-<br/><sup>3</sup> die Archivierung für Skype for Business Online hängt von der Exchange-in-situ-Speicherfunktion ab, die nicht in diesem Plan enthalten ist.
+<br/><sup>3</sup> die Archivierung für Skype for Business Online hängt von der Exchange In-Place Hold-Funktion ab, die nicht in diesem Plan enthalten ist.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
@@ -1070,7 +1070,7 @@ Die folgenden mobilen Features werden nicht unterstützt:
 - "LinkedIn" & "Berichte an" Daten auf Personen Karte
 - Favoriten
 - Meine e-Mails abspielen
-- Add-ins
+- Add-Ins
 - Intelligente Antwort
 - Office-Feed
 - Zeit zum verlassen
@@ -1099,7 +1099,7 @@ In der folgenden Tabelle sind die Project Online Features aufgeführt, die in Of
 |[Benutzerdefinierte Felder](../project-online-service-description/core-functionality.md#custom-fields)|Nein|Ja|Ja|Ja|Nein|
 |[Verbesserte Funktionen für Kopieren und Einfügen in Microsoft Office-Anwendungen](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|Nein|Ja|Ja|Ja|Nein|
 |[Ansichten von Gantt-Diagrammen, Kalendern und Vorgangsblättern](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|Nein|Ja|Ja|Ja|Nein|
-|[Microsoft Fluent-Benutzeroberfläche, Menüband](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|Nein|Ja|Ja|Ja|Nein|
+|[Benutzeroberfläche, das Menüband](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|Nein|Ja|Ja|Ja|Nein|
 |[Funktion für das Rückgängigmachen über mehrere Ebenen](../project-online-service-description/core-functionality.md#multiple-level-undo)|Nein|Ja|Ja|Ja|Nein|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|Nein|Ja|Ja|Ja|Nein|
 |[Office Store](../project-online-service-description/core-functionality.md#office-store)|Nein|Nein|Nein|Nein|Nein|

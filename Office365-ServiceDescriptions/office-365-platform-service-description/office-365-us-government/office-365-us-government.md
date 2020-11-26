@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Artikel bietet eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind.
-ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830406"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411614"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -446,6 +446,7 @@ Die folgenden Office-Anwendungen sind in den Government Clouds verfügbar; Einig
 |Kontext Chat mit Mitverfassern: Chat mit Co-Autoren im Dokument|Nein|Nein|Nein|
 |Diktat|Nr.<sup>1</sup>|Nr.<sup>1</sup>|Nr.<sup>1</sup>|
 
+Informationen zur Verfügbarkeit von Features für Microsoft Teams in gcc/gcc High/DoD finden Sie in der [Microsoft Teams-Dienstbeschreibung](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description).
 > <sup>1</sup> Verfügbarkeit demnächst.
 <br/><sup>2</sup> Verfügbarkeit auf dem Hub für lokale Oberflächen (nicht angemeldet)
 <br/><sup>3</sup> die externe Freigabe steht für die gcc-Umgebung zur Verfügung. Erfahren Sie mehr über das [deaktivieren oder Aktivieren von Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) für Ihre Organisation. Die externe Freigabe ist für gcc-High-und DoD-Umgebungen deaktiviert; Benutzer in Ihrer Organisation können folgende Aufgaben ausführen: Ausfüllen eines Formulars und Übermitteln von Antworten, [duplizieren und Freigeben eines Formulars als Vorlage](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [Mitverfasser oder Zusammenarbeit an einem Formular](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)und [zugreifen auf Formularergebnisse](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
