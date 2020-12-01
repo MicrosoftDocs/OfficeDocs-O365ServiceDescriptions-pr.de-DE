@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der US Government-Cloud und der kommerziellen Cloud, wie in der Exchange Online-Dienstbeschreibung aufgeführt.
-ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
-ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
+ms.openlocfilehash: 0a09c43b310e5c77321c6ac9cf1a9cf5989a6bef
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376088"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519096"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online für Umgebungen in der US-Regierung
 
@@ -73,7 +73,7 @@ In der folgenden Tabelle wird erläutert, ob die angegebenen Exchange Online Fea
 |Customize anti-malware policies|Ja|Ja|Ja||
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja||
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja||
-|Advanced Threat Protection|Ja|Ja|Ja|Erfordert G5-Service Plan (oder Erwerb von Add-on).<br><br>Anti-Phishing für Benutzer-und Domänen Identitätswechsel und Spoof Intelligence steht in gcc High und DoD noch nicht zur Verfügung.|
+|Microsoft Defender für Office 365|Ja|Ja|Ja|Erfordert G5-Service Plan (oder Erwerb von Add-on).<br><br>Anti-Phishing für Benutzer-und Domänen Identitätswechsel und Spoof Intelligence steht in gcc High und DoD noch nicht zur Verfügung.|
 |**[Nachrichtenfluss](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja||
 |Secure messaging with a trusted partner|Ja|Ja|Ja||

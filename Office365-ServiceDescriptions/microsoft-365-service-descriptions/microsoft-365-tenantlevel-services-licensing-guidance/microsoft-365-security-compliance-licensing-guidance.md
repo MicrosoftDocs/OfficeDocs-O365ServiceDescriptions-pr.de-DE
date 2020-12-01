@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
-ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
+ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49330262"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518936"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -47,49 +47,49 @@ Standardmäßig sind Azure AD Identity Protection-Features auf Mandantenebene f�
 
 Administratoren können Azure AD Identitätsschutz festlegen, indem Sie Risikorichtlinien zuweisen, mit denen die Ebene für Kennwortzurücksetzungen definiert und der Zugriff nur für lizenzierte Benutzer zugelassen wird. Anweisungen zum Bereich Azure AD Identitätsschutz-Bereitstellungen finden Sie unter [configure the Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
-Azure Advanced Threat Protection (ATP) ist ein clouddienst, der Enterprise-Hybrid Umgebungen vor unterschiedlichen Arten von erweiterten, zielgerichteten Cyber-Angriffen und Insiderbedrohungen schützen kann.
+Microsoft Defender for Identity ist ein clouddienst, der Enterprise-Hybrid Umgebungen vor unterschiedlichen Arten von erweiterten, zielgerichteten Cyber-Angriffen und Insiderbedrohungen schützen kann.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-SecOp-Analysten und Sicherheitsexperten profitieren von der Fähigkeit von Azure ATP, erweiterte Bedrohungen, kompromittierte Identitäten und böswillige Insider Aktionen zu erkennen und zu untersuchen. Endbenutzer profitieren davon, dass Ihre Daten von Azure ATP überwacht werden.
+SecOp-Analysten und Sicherheitsexperten profitieren von der Fähigkeit von Microsoft Defender for Identity, erweiterte Bedrohungen, kompromittierte Identitäten und böswillige Insider Aktionen zu erkennen und zu untersuchen. Endbenutzer profitieren davon, dass Ihre Daten von Microsoft Defender für Identity überwacht werden.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security und Azure Advanced Threat Protection für Benutzer bieten die Rechte zum Nutzen von Azure ATP.
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security und Microsoft Defender for Identity for users bieten die Rechte, von Microsoft Defender for Identity zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig werden Azure ATP-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von Azure ATP finden Sie unter [Erstellen Ihrer Azure ATP-Instanz](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1).
+Standardmäßig sind Microsoft Defender for Identity-Funktionen auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von Microsoft Defender für Identity finden Sie unter [Create Your Microsoft Defender for Identity instance](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Azure ATP-Dienste können derzeit nicht die Funktionen für bestimmte Benutzer einschränken. Sie müssen jeden Benutzer lizenzieren, den Sie nutzen möchten.
+Microsoft Defender for Identity Services kann derzeit nicht die Funktionen für bestimmte Benutzer einschränken. Sie müssen jeden Benutzer lizenzieren, den Sie nutzen möchten.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
-Advanced Threat Protection (ATP) schützt Organisationen vor ausgeklügelten Angriffen wie Phishing und Zero-Day-Schadsoftware. ATP bietet auch umsetzbare Einblicke, indem Signale aus einer breiten Palette von Daten korreliert werden, um Sie bei der Identifizierung, Priorisierung und der Bereitstellung von Empfehlungen zur Lösung potenzieller Bedrohungen zu unterstützen.
+Defender for Office 365 schützt Organisationen vor ausgeklügelten Angriffen wie Phishing und Zero-Day-Schadsoftware. Defender for Office 365 bietet auch umsetzbare Einblicke, indem Signale aus einer breiten Palette von Daten korreliert werden, um Sie bei der Identifizierung, Priorisierung und der Bereitstellung von Empfehlungen zur Lösung potenzieller Bedrohungen zu unterstützen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-ATP schützt Benutzer vor ausgeklügelten Angriffen wie Phishing und Zero-Day-Schadsoftware. Eine vollständige Liste der in Plan 1 und Plan 2 bereitgestellten Dienste finden Sie unter [Office 365 Advanced Threat Protection](https://products.office.com/exchange/advance-threat-protection).
+Defender for Office 365 schützt Benutzer vor ausgeklügelten Angriffen wie Phishing und Zero-Day-Schadsoftware. Die vollständige Liste der in Plan 1 und Plan 2 bereitgestellten Dienste finden Sie unter [Microsoft Defender für Office 365](https://products.office.com/exchange/advance-threat-protection).
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können? 
 
-Office 365 Advanced Threat Protection, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Sicherheit, Microsoft 365 Business Premium und Office 365 ATP-Pläne 1 und 2 bieten die Rechte für einen Benutzer, um von Advanced Threat Protection profitieren zu können.
+Microsoft Defender für Office 365, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5-Sicherheit, Microsoft 365 Business Premium und Microsoft Defender für Office 365 Pläne 1 und 2 bieten die Rechte für einen Benutzer, von Defender für Office 365 zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig werden ATP-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von ATP-Richtlinien für lizenzierte Benutzer finden Sie unter [Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+Standardmäßig ist Microsoft Defender für Office 365-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von Defender für Office 365-Richtlinien für lizenzierte Benutzer finden Sie unter [Microsoft Defender für Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Für den Bereich ATP befolgten die Bereitstellungsrichtlinien für sichere Links und sichere Anlagen:
+Wenn Sie Microsoft Defender für Office 365 Bereich verwenden möchten, befolgten Sie die Bereitstellungsrichtlinien für sichere Links und sichere Anlagen:
 
-- Informationen zum Konfigurieren von sicheren Links für lizenzierte Benutzer finden Sie unter [Einrichten Office 365 ATP-Richtlinien für sichere Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Informationen zum Konfigurieren von sicheren Links für lizenzierte Benutzer finden Sie unter [Einrichten von Richtlinien für sichere Links in Microsoft Defender für Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
 
-- Informationen zum Konfigurieren von sicheren Anlagen für lizenzierte Benutzer finden Sie unter [Einrichten Office 365 ATP-Richtlinien für sichere Anlagen](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies).
+- Informationen zum Konfigurieren sicherer Anlagen für lizenzierte Benutzer finden Sie unter [Einrichten von Richtlinien für sichere Anlagen in Microsoft Defender für Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies).
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -174,25 +174,25 @@ Compliance-Manager ist standardmäßig für Ihren Mandanten vorgesehen. Administ
 
 Der Zugriff auf den Compliance-Manager wird durch Festlegen von Benutzerberechtigungen und Zuweisen von Rollen gesteuert. Weitere Informationen finden Sie unter [Erste Schritte mit Compliance-Manager: Festlegen von Benutzerberechtigungen und Zuweisen von Rollen](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender für Endpunkt
 
-Microsoft Defender ATP ist eine Endpunkt Sicherheitslösung, die risikobasierte Schwachstellen Verwaltung und-Bewertung umfasst. Funktionen zur angreifenden Oberflächenreduzierung; verhaltensbasierte und Cloud-gesteuerte Schutz für die nächste Generation; Endpunkterkennung und-Antwort (EDR); Automatische Untersuchung und Korrektur; und verwaltete Jagd Dienste. Weitere Informationen finden Sie unter [Microsoft Defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) -Seite.
+Microsoft Defender for Endpoint ist eine Endpunkt Sicherheitslösung, die risikobasierte Schwachstellen Verwaltung und-Bewertung umfasst. Funktionen zur angreifenden Oberflächenreduzierung; verhaltensbasierte und Cloud-gesteuerte Schutz für die nächste Generation; Endpunkterkennung und-Antwort (EDR); Automatische Untersuchung und Korrektur; und verwaltete Jagd Dienste. Weitere Informationen finden Sie unter [Microsoft Defender für Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) -Seite.
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren vom Dienst?
 
-Lizenzierte Benutzer von Windows 10 Enterprise E5, Windows 10 Education A5, Microsoft 365 E5 (M365 E5), einschließlich Windows 10 Enterprise E5, Microsoft 365 E5 Security, Microsoft 365 A5 (M365 a5) können von Microsoft Defender ATP profitieren.
+Lizenzierte Benutzer von Windows 10 Enterprise E5, Windows 10 Education A5, Microsoft 365 E5 (M365 E5), einschließlich Windows 10 Enterprise E5, Microsoft 365 E5 Security, Microsoft 365 A5 (M365 a5) können von Microsoft Defender for Endpoint profitieren.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Analysten und Sicherheitsexperten von seepolizisten profitieren von Endpoint Security-Funktionen von Microsoft Defender ATP für vorbeugenden Schutz, Erkennung nach einem Verstoß, automatische Untersuchung und Reaktion auf Erweiterte Bedrohungen. Endbenutzer profitieren davon, dass böswillige Ereignisse von Microsoft Defender ATP überwacht werden.
+Analysten und Sicherheitsexperten von seepolizisten profitieren von Endpoint Security-Funktionen von Microsoft Defender für Endpoint für vorbeugenden Schutz, Erkennung nach einem Verstoß, automatische Untersuchung und Reaktion auf Erweiterte Bedrohungen. Endbenutzer profitieren davon, dass böswillige Ereignisse von Microsoft Defender für Endpoint überwacht werden.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind die Microsoft Defender ATP-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zur Bereitstellung finden Sie unter [Bereitstellungshandbuch](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
+Standardmäßig sind Microsoft Defender für Endpoint-Funktionen auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zur Bereitstellung finden Sie unter [Bereitstellungshandbuch](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Microsoft Defender ATP-Administratoren können Rollen [basierte Zugriffssteuerung (Role-Based Access Control, RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) zum Erstellen von Rollen und Gruppen im Sicherheits Betriebsteam verwenden, um den entsprechenden Zugriff auf das Microsoft Defender-Sicherheits Center zu gewähren.
+Microsoft Defender für Endpunkt Administratoren kann Rollen [basierte Zugriffssteuerung (Role-Based Access Control, RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) zum Erstellen von Rollen und Gruppen innerhalb des Teams für Sicherheitsvorgänge verwenden, um den entsprechenden Zugriff auf das Microsoft Defender-Sicherheits Center zu gewähren.
 
 ## <a name="information-protection"></a>Informationsschutz
 
@@ -377,7 +377,7 @@ Office 365 Verschlüsselungsschlüssel für Kundenschlüssel können für alle D
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Für Exchange Online und Skype for Business können Postfächer mit dem Kundenschlüssel verschlüsselt werden. Sie müssen Azure einrichten, bevor Sie Customer Key für Office 365 verwenden können. Unter [Einrichten des Kunden Schlüssels](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) finden Sie die Schritte, die Sie zum Erstellen und Konfigurieren der erforderlichen Azure-Ressourcen und der Schritte zum Einrichten von Kundenschlüssel in Office 365 durchführen müssen. Nachdem Sie das Azure-Setup abgeschlossen haben, legen Sie fest, welche Richtlinie und daher welche Schlüssel zu Postfächern und Dateien in Ihrer Organisation zugewiesen werden sollen. Für Postfächer und Dateien, denen Sie keine Richtlinie zuweisen, werden Verschlüsselungsrichtlinien verwendet, die von Microsoft gesteuert und verwaltet werden. Weitere Informationen zum Kundenschlüssel oder eine allgemeine Übersicht finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide).
+Für Exchange Online und Skype for Business können Postfächer mit dem Kundenschlüssel verschlüsselt werden. Sie müssen Azure einrichten, bevor Sie Customer Key für Office 365 verwenden können. Unter [Einrichten des Kunden Schlüssels](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up) finden Sie die Schritte, die Sie zum Erstellen und Konfigurieren der erforderlichen Azure-Ressourcen und der Schritte zum Einrichten von Kundenschlüssel in Office 365 durchführen müssen. Nachdem Sie das Azure-Setup abgeschlossen haben, legen Sie fest, welche Richtlinie und daher welche Schlüssel zu Postfächern und Dateien in Ihrer Organisation zugewiesen werden sollen. Für Postfächer und Dateien, denen Sie keine Richtlinie zuweisen, werden Verschlüsselungsrichtlinien verwendet, die von Microsoft gesteuert und verwaltet werden. Weitere Informationen zum Kundenschlüssel oder eine allgemeine Übersicht finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview).
 
 ## <a name="office-365-customer-lockbox"></a>Office 365-Kunden-Lockbox
 

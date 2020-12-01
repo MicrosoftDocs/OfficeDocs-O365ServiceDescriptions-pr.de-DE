@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Hier erfahren Sie, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 06a4f6a51e4f7bc4fa50867441f763a15291ef47
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661263"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519156"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -34,7 +34,7 @@ Um zu sehen, welche Pläne SharePoint beinhalten, [leistungsstarke Tools zur Unt
 
 Informationen zu den Unterschieden bei SharePoint-Features für US Government Cloud-Kunden finden Sie unter [SharePoint für US Government Environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
-## <a name="whats-new"></a>Neuerungen
+## <a name="whats-new"></a>Neuigkeiten
 
 Informationen zu den neuesten Features, die veröffentlicht werden, finden Sie unter [What es New in SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -135,7 +135,7 @@ SharePoint integriert sich in die erweiterten Sicherheits-und Kompatibilitätsfu
 - [Verhinderung von Datenverlust (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [eDiscovery](/microsoft-365/compliance/ediscovery-cases) (Inhaltssuche, Aufbewahrung, Export)
 - [Informationsbarrieren](/microsoft-365/compliance/information-barriers)
-- [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Microsoft Defender für Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Aufbewahrungs Bezeichnungen und-Richtlinien](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [Vertraulichkeitsbezeichnungen](/microsoft-365/compliance/sensitivity-labels)
 - [Einheitliche Überwachung](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (Überwachung von SharePoint-Benutzer-und-Administratoraktivitäten)

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government – DoD geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: c15ca172c97c6549649e44d76dca019d866a7a4f
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830412"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519046"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 
@@ -38,9 +38,9 @@ Weitere Informationen zum Microsoft 365 Government-DoD-Angebot für Kunden der U
 Die [Office 365 US Government Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) beschreibt die Vorteile der Plattform, die sich auf die Erfüllung der Compliance-Anforderungen in den Vereinigten Staaten konzentrieren.
 
 > [!TIP]
-> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n** und **den Anforderungen meiner Organisation y/n entsprechen** . Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
+> Möglicherweise möchten Sie die Tabellen mit Informationen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: **relevant für meine Organisation y/n** und **den Anforderungen meiner Organisation y/n entsprechen**. Anschließend können Sie diese Liste mit ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst die Anforderungen Ihrer Organisation erfüllt.
 
-**Entscheidungspunkte** :<br/>
+**Entscheidungspunkte**:<br/>
 - *Entscheiden Sie, ob das Microsoft 365 Government-DoD für Ihre Organisation geeignet ist.*
 - *Stellen Sie sicher, dass Ihre Organisation die Berechtigungsanforderungen erfüllt.*
 
@@ -55,7 +55,7 @@ Nachdem Sie entschieden haben, dass dieser Dienst für Ihre Organisation geeigne
 
 Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherheitseinstellungen sorgfältig zu überprüfen, bevor Sie Sie ändern und die Auswirkungen auf die Kompatibilität berücksichtigen, bevor Sie Änderungen an den Standardsicherheitseinstellungen vornehmen.
 
-**Entscheidungspunkt** : *entscheiden Sie, ob Sie die Standardsicherheitseinstellungen von Microsoft 365 Government-DoD ändern, um zunächst die Auswirkungen von Änderungen zu verstehen, die Sie möglicherweise vornehmen.*
+**Entscheidungspunkt**: *entscheiden Sie, ob Sie die Standardsicherheitseinstellungen von Microsoft 365 Government-DoD ändern, um zunächst die Auswirkungen von Änderungen zu verstehen, die Sie möglicherweise vornehmen.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Schritt 4: Verstehen, welche Funktionen derzeit in Microsoft 365 Government – DoD<sup>1</sup> standardmäßig nicht verfügbar oder deaktiviert sind
 
@@ -109,7 +109,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Insider Risiko Management: Eskalation zur Untersuchung für Advanced eDiscovery |Im Entwicklungsrückstand|
 |                                         | Insider Risiko Management: Geräte Indikatoren für Aktivitäten unter Windows 10 Build 1809 und höher |Im Entwicklungsrückstand|
 |                                         | Insider Risiko Management: Indikatoren für Sicherheitsrichtlinienverletzungen (Vorschau) |Im Entwicklungsrückstand|
-|                                         | Insider Risiko Management: Indikatoren für ATP-Warnungen für Windows Defender (Vorschau) |Im Entwicklungsrückstand|
+|                                         | Insider Risiko Management: Indikatoren für Microsoft Defender für Endpoint Alerts (Vorschau) |Im Entwicklungsrückstand|
 |                                         | Insider Risiko Management: Richtlinienvorlagen für Datenverluste nach Prioritäts Benutzern (Vorschau) | Im Entwicklungsrückstand |
 |                                         | Insider Risiko Management: Richtlinienvorlagen für Datenverluste durch verärgerte Benutzer (Vorschau) | Im Entwicklungsrückstand |
 |                                         | Insider Risiko Management: Richtlinienvorlagen für allgemeine Sicherheitsrichtlinienverletzungen (Vorschau) | Im Entwicklungsrückstand |
@@ -174,7 +174,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Erweiterte Überwachung: verarbeitete Überwachungs Einblicke                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: Suchbegriffs Ereignisse in Exchange Online und SharePoint Online                              | Im Entwicklungsrückstand |
 |    **Verwaltung der Richtlinientreue**            | Microsoft 365 Security and Compliance Center                              | Available |
-|                                         | Microsoft Cloud App-Sicherheit                              | Im Entwicklungsrückstand |
+|                                         | Microsoft Cloud App Security                              | Im Entwicklungsrückstand |
 |                                         | Compliance-Manager                              | Im Entwicklungsrückstand |
 |                                         | Unterstützung von Doppelbytezeichen                              | Im Entwicklungsrückstand |
 |    **Ökosystem**            | Graph-APIs für Advanced eDiscovery                              | In der Entwicklung |
@@ -184,4 +184,4 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 
 <sup>1</sup> der Status "identifiziert" kann geändert werden, wenn Projektpläne und Prioritäten neu ausgewertet werden.<br/>
 
-**Entscheidungspunkt** : *entscheiden Sie, ob die Konformitäts Funktionen den Anforderungen Ihrer Organisation entsprechen.*
+**Entscheidungspunkt**: *entscheiden Sie, ob die Konformitäts Funktionen den Anforderungen Ihrer Organisation entsprechen.*

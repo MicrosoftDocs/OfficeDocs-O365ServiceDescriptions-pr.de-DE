@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Wir bei Microsoft schätzen die Partnerschaft mit unseren Kunden und messen dem Schutz und der Sicherheit ihrer Daten höchste Bedeutung bei. Weitere Informationen finden Sie im Microsoft Trust Center.
-ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131669"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519056"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -51,11 +51,10 @@ Als Microsoft-Administrator können Sie die Kunden-Lockbox verwenden, um zu steu
   
 Kunden-Lockbox ist im Office 365 Enterprise 5-Plan enthalten. Sie können aber auch ein separates Abonnement mit einem anderen Office 365 Enterprise-Plan erwerben. Weitere Informationen finden Sie unter [Kunden-Lockbox in Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
-## <a name="advanced-threat-protection"></a>Advanced Threat Protection
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
-Office 365 erweiterter Bedrohungsschutz schützt Ihre Organisation vor Schadsoftware und Viren. ATP umfasst [sichere Links](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [sichere Anlagen](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Anti-Phishing-](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)und [Spoof Intelligence](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) -Funktionen. Sichere Links schützen Ihre Benutzer proaktiv vor bösartigen Hyperlinks in einer Nachricht und bieten Schutz bei jeder ausgewählten Verknüpfung. Das Feature „Sichere Anlagen" schützt vor unbekannter Malware und Viren, leitet alle Nachrichten und Anlagen, die über keine bekannten Virus-/Malwaresignaturen verfügen, an eine bestimmte Umgebung weiter, in der ATP böswillige Absichten erkennen kann. Weitere Informationen zu ATP finden Sie unter [Office 365 Advanced Threat Protection-Dienstbeschreibung](../office-365-advanced-threat-protection-service-description.md).
+Defender for Office 365 schützt Ihre Organisation vor Schadsoftware und Viren. Defender for Office 365 enthält [sichere Links](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [sichere Anlagen](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Anti-Phishing-](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)und [Spoof Intelligence](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) -Funktionen. Sichere Links schützen Ihre Benutzer proaktiv vor bösartigen Hyperlinks in einer Nachricht und bieten Schutz bei jeder ausgewählten Verknüpfung. Sichere Anlagen schützen vor unbekannten Schadsoftware und Viren und leiten alle Nachrichten und Anlagen, die nicht über eine bekannte Virus/Malware-Signatur verfügen, in eine spezielle Umgebung, in der der Verteidiger für Office 365 böswillige Absicht erkennen kann. Weitere Informationen zum Defender für Office 365 finden Sie unter [Microsoft Defender für Office 365-Dienstbeschreibung](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
 Informationen zur Verfügbarkeit von Features in Plänen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
-  

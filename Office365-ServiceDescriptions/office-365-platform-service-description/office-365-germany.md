@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Deutschland ist eine differenzierte Option aus den Office 365 Diensten, die in Europa bereits verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
-ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367762"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518826"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
@@ -156,7 +156,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |IPv4- und IPv6-Protokolle|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**Vertrauenswürdigkeit**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |**[Datenschutz, Sicherheit und Transparenz](privacy-security-and-transparency.md)**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Advanced Threat Protection|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|Microsoft Defender für Office 365|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Kunden-Lockbox|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Erweiterte eDiscovery|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Secure Score|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -192,7 +192,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 ## <a name="office-application-features"></a>Office-Anwendungsfeatures  
 
 > [!NOTE]
-> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Client Softwareanwendungen") wie Office 365 ProPlus, Office 2013 \* und Office 2016. Client Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um [deutsche Onlinedienste](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Für Office 2013 für Office 365 Deutschland muss die [moderne Authentifizierung aktiviert sein](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
+> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Client Softwareanwendungen") wie Office 365 ProPlus, Office 2013 \* und Office 2016. Client Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um [deutsche Onlinedienste](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58)handelt. Im Sinne Ihres Vertrags mit Microsoft gelten Client-Softwareanwendungen nicht als deutsche Onlinedienste. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Für Office 2013 für Office 365 Deutschland muss die [moderne Authentifizierung aktiviert sein](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
 
 Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwischen Office 365 Deutschland-Plänen zu vergleichen.<br><br>
 
@@ -248,7 +248,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 |Volume activation (KMS/MAK)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers ("Client Softwareanwendungen") installiert und ausgeführt werden, beispielsweise Office 365 ProPlus, Office 2013 und Office 2016. Client-Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können einem Endbenutzer den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um deutsche Onlinedienste handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/>
+> <sup>1</sup> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers ("Client Softwareanwendungen") installiert und ausgeführt werden, beispielsweise Office 365 ProPlus, Office 2013 und Office 2016. Client-Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können einem Endbenutzer den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um deutsche Onlinedienste handelt. Im Sinne Ihres Vertrags mit Microsoft gelten Client-Softwareanwendungen nicht als deutsche Onlinedienste. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/>
 <sup>2</sup> Office 2013 erfordert die [Aktivierung der modernen Authentifizierung](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
 <sup>3</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden, damit die unterstützten IRM-Funktionen aktiviert werden können.<br/>
 <sup>4</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren. <br/>
@@ -262,7 +262,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 
 | Feature | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Office<sup>-Anwendungen 1, 2</sup>**||||
+|**Office <sup>-Anwendungen 1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Ja|Ja|Ja|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Ja|Ja|Ja|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Ja|Ja|Ja|
@@ -312,7 +312,7 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 |Volume activation (KMS/MAK)|Ja|Ja|Nr.<sup>10</sup>|
 
 > [!NOTE]
-> <sup>1</sup> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers ("Client Softwareanwendungen") installiert und ausgeführt werden, beispielsweise Office 365 ProPlus, Office 2013 und Office 2016. Client-Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können einem Endbenutzer den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um deutsche Onlinedienste handelt. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/>
+> <sup>1</sup> Office 365 Deutschland-Pläne umfassen Client Softwareanwendungen, die auf dem Gerät eines Endbenutzers ("Client Softwareanwendungen") installiert und ausgeführt werden, beispielsweise Office 365 ProPlus, Office 2013 und Office 2016. Client-Softwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können einem Endbenutzer den Zugriff auf Onlinedienste erlauben, bei denen es sich nicht um deutsche Onlinedienste handelt. Im Sinne Ihres Vertrags mit Microsoft gelten Client-Softwareanwendungen nicht als deutsche Onlinedienste. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/>
 <sup>2</sup> Office 2013 erfordert die [Aktivierung der modernen Authentifizierung](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
 <sup>3</sup> Archivierungs-und Kompatibilitätsfeatures werden mit dieser Version von Office unterstützt, aber die Exchange Online-und SharePoint Online Pläne sind nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Server Entsprechungen verwendet werden.<br/> <sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-on erworben werden, damit die unterstützten IRM-Funktionen aktiviert werden können.<br/> <sup>5</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.<br/>
 <sup>6</sup> Wenn Sie Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 haben, können Sie die [Power Map-Vorschau für Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-in herunterladen und verwenden.<br/>
@@ -332,7 +332,7 @@ Die folgende Tabelle enthält Links zu vergleichen von Office für die Funktione
 > - Microsoft Office webapps Server 2013 lokale Kunden erhalten eine Office für die webbearbeitungs Lizenz, wenn Sie eine Office-Desktop Suite-Lizenz erworben haben (wie Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz). <br/>
 > - Aufgrund der Art Office 365 Deutschland gibt es einige Features, die noch nicht aktiviert wurden. Mit der Zeit nähern sich die Dienste dank globaler Dienste der vollständigen Featureparität.
 
-| Anwendung | Office für das Web | Link zum detaillierten Funktionsvergleich |
+| App | Office für das Web | Link zum detaillierten Funktionsvergleich |
 |:-----|:-----|:-----|
 |Word|Word für das Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel für das Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -368,15 +368,15 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Nachrichtenflussregeln|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |Verhinderung von Datenverlust|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|**[Schutz vor Spam und Schadsoftware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Integrierter Antispamschutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Integrierter Antischadsoftwareschutz|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja<sup>9</sup>|
 |Customize anti-malware policies|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Advanced Threat Protection|Nein|--|Nein|Nein|Nein|Nein|Ja|Nein|
-|**[Nachrichtenübermittlung](../exchange-online-service-description/mail-flow.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
+|Microsoft Defender für Office 365|Nein|--|Nein|Nein|Nein|Nein|Ja|Nein|
+|**[Nachrichtenfluss](../exchange-online-service-description/mail-flow.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Benutzerdefiniertes Routing von ausgehenden e-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -520,12 +520,11 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 <sup>17</sup> In Office 365 Deutschland E3 verfügbar.<br/>
 <sup>18</sup> Als Add-On-Feature für Office 365 Deutschland verfügbar.
 
-## <a name="exchange-online-advanced-threat-protection-features"></a>Features von Exchange Online Advanced Threat Protection
+## <a name="defender-for-office-365-features"></a>Defender für Office 365 Features
 
+In der folgenden Tabelle ist der Verteidiger für Office 365 Features aufgeführt, die in Office 365 Deutschland-Plänen verfügbar sind. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.<br><br>
 
-In der folgenden Tabelle sind die Features von Exchange Online Advanced Threat Protection aufgeführt, die für Office 365 Deutschland-Pläne verfügbar sind. Ausführlichere Informationen zu EoP-Features finden Sie unter den Links in der Tabelle. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.<br><br>
-
-| Feature | ATP, eigenständig | ATP-Features in Exchange Online |
+| Feature | Defender für Office 365 Standalone | Defender für Office 365 Features in Exchange Online |
 |:-----|:-----|:-----|
 |Sichere Links|Ja|Ja|
 |Sichere Anlagen|Ja|Ja|
