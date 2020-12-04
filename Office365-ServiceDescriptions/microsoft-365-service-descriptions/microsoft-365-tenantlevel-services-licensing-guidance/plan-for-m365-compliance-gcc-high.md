@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – gcc High geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518907"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566647"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan for Microsoft 365 Compliance – gcc High
 
@@ -22,7 +22,7 @@ Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 36
 > [!NOTE]
 >Wenn Ihre Organisation bereits die hohen Zulassungsvoraussetzungen für Microsoft 365 Government – gcc erfüllt und in das Programm übernommen und akzeptiert wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
  
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>Schritt 1: Ermitteln, ob Ihre Organisation Microsoft 365 Government – gcc High benötigt und erfüllt die Zulassungsvoraussetzungen
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government--gcc-high-and-meets-eligibility-requirements"></a>Schritt 1. Ermitteln, ob Ihre Organisation Microsoft 365 Government – gcc High benötigt und erfüllt die Zulassungsvoraussetzungen
 
 Die Microsoft 365 Government-gcc High Environment erfüllt die US-behördlichen Anforderungen für Cloud-Dienste. Neben den Features und Funktionen von Office 365 profitieren Organisationen von den folgenden Features, die für Microsoft 365 Government – gcc High einzigartig sind:
 
@@ -133,7 +133,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Übersetzen von Integritäts Inhalten während der Untersuchung | Im Entwicklungsrückstand |
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Burnout und Selbstmord Erkennung | Im Entwicklungsrückstand |
 |                                         | Informationsbarrieren | Im Entwicklungsrückstand |
-|                                         | Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
+|                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
 | **Antworten auf & ermitteln**                  | Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
 |                                         | Zentrale eDiscovery: Fallverwaltung                                 | Available              |
 |                                         | Zentrale eDiscovery: Suche                                          | Available              |
@@ -181,7 +181,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Erweiterte Überwachung: verarbeitete Überwachungs Einblicke                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: Suchbegriffs Ereignisse in Exchange Online und SharePoint Online                              | Im Entwicklungsrückstand |
 |    **Verwaltung der Richtlinientreue**            | Microsoft 365 Security and Compliance Center                              | Available |
-|                                         | Compliance-Manager                                 | Rollout              |
+|                                         | Compliance-Manager                                 | Available              |
 |                                         | Microsoft Cloud App Security                                 | Available              |
 |                                         | Unterstützung von Doppelbytezeichen                                 | Im Entwicklungsrückstand              |
 |    **Ökosystem**            | Graph-APIs für Advanced eDiscovery                              | In der Entwicklung |

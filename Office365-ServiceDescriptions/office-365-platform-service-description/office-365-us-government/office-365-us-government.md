@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoft Office 365 Pläne der US-Regierung (oder Office 365 Regierung) erstellt. Dieser Artikel bietet eine Übersicht über die Features, die für Office 365 US-amerikanischen Umgebungen spezifisch sind.
-ms.openlocfilehash: 237a1f39b7c5231475c40750777212a8213a9d2b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 63cef3dfac77ae22bc413deab9d375c1cd110b46
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519086"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566677"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -79,6 +79,8 @@ Office 365 staatliche Dienste werden von Rechenzentren bereitgestellt, die sich 
 > Normalerweise speichert Skype for Business keine Kundeninhalte, wenn jedoch eine derartige Speicherung vorgenommen wird, findet dies in den Rechenzentren der Vereinigten Staaten statt.
 
 Wenn sich Ihre Benutzer in den u.s.a. befinden, während Sie Office für das Internet (früher als Office-webapps bezeichnet) verwenden, oder wenn Sie die Verwendung von Active Directory-Verbunddienste (AD FS) 2.0 und Richtlinien einrichten, um sicherzustellen, dass Ihre Benutzer über einmaliges Anmelden eine Verbindung zu den Diensten herstellen, werden alle Kunden Inhalte, die vorübergehend in Office für das Internet zwischengespeichert sind, in den u.s.a. gespeichert.
+
+Die Seite Websitenutzung für SharePoint-Websites steht für Regierungspläne zur Verfügung, allerdings gibt es einige Features dieser Seite, die nur kommerziellen Kunden zur Verfügung stehen. Weitere Informationen finden Sie unter [Website Nutzungs Seite für SharePoint-Websites in Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 
 ## <a name="office-365-government-and-third-party-services"></a>Office 365 Regierung und Drittanbieterdienste
 

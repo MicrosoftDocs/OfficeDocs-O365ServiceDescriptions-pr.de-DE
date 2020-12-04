@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518936"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566667"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -37,7 +37,7 @@ Analysten und Sicherheitsexperten von seepolizisten profitieren von konsolidiert
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten die Rechte, damit ein Benutzer vom Dienst profitieren können?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security und Azure Active Directory Premium Plan 2 bieten die Rechte für einen Benutzer, um von Azure Active Directory Identity Protection zu profitieren.
+Kunden mit E1-und E3-Lizenzen können nur auf die standardmäßige Datenschutz-Basisbewertung zugreifen. Kunden mit Office 365 E5/a5-und Microsoft 365 E5/A5-Lizenzen (Compliance, Information Protection & Governance und eDiscovery und Audit-SKUs enthalten) können auf standardmäßigen Assessments für Datenschutz, dsgvo, NIST 800-53 und ISO 27001 zugreifen. Das benutzerdefinierte Bewertungsfeature und die Premium-Bewertungen sind für Office 365 E5/a5-und Microsoft 365 E5/A5-Kunden reserviert. Premium-Bewertungen können in der ersten Hälfte von 2021 bis zu VL, CSP und webdirect erworben werden. 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -47,7 +47,7 @@ Standardmäßig sind Azure AD Identity Protection-Features auf Mandantenebene f�
 
 Administratoren können Azure AD Identitätsschutz festlegen, indem Sie Risikorichtlinien zuweisen, mit denen die Ebene für Kennwortzurücksetzungen definiert und der Zugriff nur für lizenzierte Benutzer zugelassen wird. Anweisungen zum Bereich Azure AD Identitätsschutz-Bereitstellungen finden Sie unter [configure the Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender für Identity
 
 Microsoft Defender for Identity ist ein clouddienst, der Enterprise-Hybrid Umgebungen vor unterschiedlichen Arten von erweiterten, zielgerichteten Cyber-Angriffen und Insiderbedrohungen schützen kann.
 
@@ -174,7 +174,7 @@ Compliance-Manager ist standardmäßig für Ihren Mandanten vorgesehen. Administ
 
 Der Zugriff auf den Compliance-Manager wird durch Festlegen von Benutzerberechtigungen und Zuweisen von Rollen gesteuert. Weitere Informationen finden Sie unter [Erste Schritte mit Compliance-Manager: Festlegen von Benutzerberechtigungen und Zuweisen von Rollen](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender für Endpunkt
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender für Endpoint
 
 Microsoft Defender for Endpoint ist eine Endpunkt Sicherheitslösung, die risikobasierte Schwachstellen Verwaltung und-Bewertung umfasst. Funktionen zur angreifenden Oberflächenreduzierung; verhaltensbasierte und Cloud-gesteuerte Schutz für die nächste Generation; Endpunkterkennung und-Antwort (EDR); Automatische Untersuchung und Korrektur; und verwaltete Jagd Dienste. Weitere Informationen finden Sie unter [Microsoft Defender für Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) -Seite.
 
