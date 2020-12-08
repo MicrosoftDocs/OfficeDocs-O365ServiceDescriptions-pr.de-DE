@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (ehemals Excel Web App) erweitert Ihre Microsoft Excel Erfahrung auf den Webbrowser, wo Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Kunden können Office-Dateien mithilfe von Office für das Internet anzeigen und leicht bearbeiten.
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294079"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586638"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -54,7 +54,7 @@ Die Zeitachsensteuerung ermöglicht Ihnen das Filtern modellierter Daten. Es han
   
 ## <a name="apply-conditional-formatting"></a>Anwenden bedingter Formatierung
 
-Verwenden Sie ein bedingtes Format, um Sie bei der visuellen Erkundung und Analyse von Daten, beim Erkennen von kritischen Problemen sowie bei der Ermittlung von Mustern und Trends zu unterstützen. Erfahren Sie mehr über [die Verwendung von bedingter Formatierung in Excel für das Internet](https://go.microsoft.com/fwlink/p/?LinkId=282326).
+Verwenden Sie ein bedingtes Format, um Sie bei der visuellen Erkundung und Analyse von Daten, beim Erkennen von kritischen Problemen sowie bei der Ermittlung von Mustern und Trends zu unterstützen. Erfahren Sie mehr über [die Verwendung von bedingter Formatierung in Excel für das Internet](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -89,7 +89,7 @@ Mit Excel-Diagrammen und -Tabellen ist es ganz einfach, Daten zu formatieren und
 
 ## <a name="check-spelling"></a>Rechtschreibprüfung
 
-Um die Rechtschreibung für Text in Ihrem Arbeitsblatt zu überprüfen, wählen Sie Rechtschreib **Prüfung überprüfen**aus  >  **Proofing**  >  **Spelling**. Erfahren Sie mehr über die [Rechtschreibprüfung](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Um die Rechtschreibung für Text in Ihrem Arbeitsblatt zu überprüfen, wählen Sie Rechtschreib **Prüfung überprüfen** aus  >  **Proofing**  >  **Spelling**. Erfahren Sie mehr über die [Rechtschreibprüfung](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -209,7 +209,7 @@ Hinzufügen und Formatieren von Formen wie Feldern, Kreisen, Linien, Konnektoren
 
 ## <a name="keyboard-shortcuts"></a>Tastenkombinationen
 
-Sie können Tastenkombinationen so steuern, dass Sie in Desktop-und Webversionen von Excel identisch sind, indem Sie die Einstellung für die Tastenkombinationen ändern, sodass &mdash; Sie sogar Browser Verknüpfungen außer Kraft setzen können. Wählen Sie einfach **Hilfe**  >  -**Tastenkombinationen**aus. "
+Sie können Tastenkombinationen so steuern, dass Sie in Desktop-und Webversionen von Excel identisch sind, indem Sie die Einstellung für die Tastenkombinationen ändern, sodass &mdash; Sie sogar Browser Verknüpfungen außer Kraft setzen können. Wählen Sie einfach **Hilfe**  >  -**Tastenkombinationen** aus. "
   
 ## <a name="merge-cells"></a>Merge cells
 
