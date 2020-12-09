@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government – DoD geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: a619943b5eed63007b78613ab9b6715a52ef467d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519046"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601720"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 
@@ -22,7 +22,7 @@ Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 36
 > [!NOTE]
 > Wenn Ihre Organisation bereits die Zulassungsvoraussetzungen für das Microsoft 365 Government – DoD erfüllt und in das Programm übernommen und akzeptiert wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>Schritt 1: Ermitteln, ob Ihre Organisation Microsoft 365 Government-DoD benötigt und die Zulassungsvoraussetzungen erfüllt
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>Schritt 1. Ermitteln, ob Ihre Organisation Microsoft 365 Government-DoD benötigt und die Zulassungsvoraussetzungen erfüllt
 
 Die Microsoft 365 Government-DoD-Umgebung erfüllt die US-behördlichen Anforderungen für Cloud-Dienste.
 
@@ -47,11 +47,11 @@ Die [Office 365 US Government Service Description](https://docs.microsoft.com/of
 > [!NOTE]
 > Microsoft 365 Government-DoD ist nur in den Vereinigten Staaten verfügbar. Kunden außerhalb der US-Regierung können aus einer Reihe von [Office 365 Government-Plänen](https://products.office.com/government/compare-office-365-government-plans)wählen.
 
-## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Schritt 2: Beantragen von Microsoft 365 Government-DoD
+## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Schritt 2. Beantragen von Microsoft 365 Government-DoD
 
 Nachdem Sie entschieden haben, dass dieser Dienst für Ihre Organisation geeignet ist, starten Sie den Prozess der [Beantragung dieses Diensts](https://products.office.com/government/eligibility-validation).
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Schritt 3: Grundlegendes zu Microsoft 365-Standardsicherheitseinstellungen für das Government-DoD
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Schritt 3. Grundlegendes zu Microsoft 365-Standardsicherheitseinstellungen für das Government-DoD
 
 Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherheitseinstellungen sorgfältig zu überprüfen, bevor Sie Sie ändern und die Auswirkungen auf die Kompatibilität berücksichtigen, bevor Sie Änderungen an den Standardsicherheitseinstellungen vornehmen.
 
@@ -132,7 +132,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Übersetzen von Integritäts Inhalten während der Untersuchung | Im Entwicklungsrückstand |
 |                                         | Kommunikation Compliance (einschließlich Aufsichtsrichtlinien): Burnout und Selbstmord Erkennung | Im Entwicklungsrückstand |
 |                                         | Informationsbarrieren | Im Entwicklungsrückstand |
-|                                         | Verwaltung des privilegierten Zugriffs                    | Im Entwicklungsrückstand |
+|                                         | Privileged Access Management                    | Im Entwicklungsrückstand |
 | **Antworten auf & ermitteln**                  | Zentrale eDiscovery: in-Place-Aufbewahrung                            | Available              |
 |                                         | Zentrale eDiscovery: Fallverwaltung                                 | Available              |
 |                                         | Zentrale eDiscovery: Suche                                          | Available              |
@@ -169,7 +169,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Erweiterte Überwachung: erhöhte Bandbreite zur Verwaltungs Aktivitäts-API                              | Rollout |
 |                                         | Erweiterte Überwachung: Protokollaufbewahrung (1 Jahr)                              | Rollout |
 |                                         | Erweiterte Überwachung: Sicherheit und Compliance Center-Verfügbarkeit                              | Available |
-|                                         | Erweiterte Überwachung: längerfristige Aufbewahrung in Überwachungsprotokollen                              | Im Entwicklungsrückstand |
+|                                         | Erweiterte Überwachung: längerfristige Aufbewahrung in Überwachungsprotokollen (10 Jahre)                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: e-Mail-Weiterleitung und e-Mail-Sendeereignisse                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: verarbeitete Überwachungs Einblicke                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: Suchbegriffs Ereignisse in Exchange Online und SharePoint Online                              | Im Entwicklungsrückstand |

@@ -9,16 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice ist ein Add-in-Dienst, mit dem Sie Microsoft Teams für Telefonanrufe verwenden können. Dies kombiniert Telefonsystem, Plan für Inlandsanrufe, SMS und Audiokonferenzen.
-ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
-ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
+ms.openlocfilehash: 7ce58fbd9a60871cbc5f8da981d945f10b83193f
+ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410219"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605333"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business Voice – Dienstbeschreibung
 
-Microsoft 365 Business Voice ist eine Cloud-basierte Telefonielösung, die Telefonsystem Funktionen wie Parken von anrufen, Anrufweiterleitung, automatische Telefonzentralen, Anrufwarteschlangen, Audiokonferenzen und Anrufpläne anbietet. Business Voice kann Office 365-und Microsoft 365-Abonnements hinzugefügt werden, die Microsoft Teams (bis zu 300 Lizenzen) enthalten. Weitere Informationen zum Business Voice-Dienst finden Sie unter [Microsoft 365 Business Voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice).
+Microsoft 365 Business Voice ist eine Cloud-basierte Telefonielösung in Microsoft Teams, die Telefonsystem Funktionen wie Parken von anrufen, Anrufweiterleitung, automatische Telefonzentralen, Anrufwarteschlangen, Audiokonferenzen und Anrufpläne anbietet. Business Voice kann Office 365-und Microsoft 365-Abonnements hinzugefügt werden, die Microsoft Teams (bis zu 300 Lizenzen) enthalten. Weitere Informationen zum Business Voice-Dienst finden Sie unter [Microsoft 365 Business Voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice).
 
 Sie können zwischen zwei Microsoft 365 Business Voice-Optionen wählen:
 
@@ -62,9 +62,11 @@ Microsoft 365 Business Voice ist mit den folgenden Abonnements mit bis zu 300 Li
 | Automatische Telefonzentrale/Anruf Warteschlangenübertragung an freigegebene Voicemail | Ja                              | Ja                                                   |
 | Mehrsprachige interaktive Sprachantwort (IVR)          | Ja                              | Ja                                                   |
 | Anrufrichtlinie                                         | Ja                              | Ja                                                   |
-| Plan für Inlandsanrufe                                  | Ja                              | Nein                                                    |
-| Gebührenfreie Wähleinstellungen\*                                    | Ja                              | Nein                                                    |
-| Plan für internationale Anrufe\*                           | Ja                              | Nein                                                    |
-| Audiokonferenzen                                     | Ja                              | Ja                                                   |
- 
-\*Gebührenfreie Wähleinstellungen und der internationale Anrufplan stehen unter Verwendung von [Kommunikationsguthaben](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)gegen Aufpreis zur Verfügung. Weitere Informationen finden Sie unter [gebührenfreie Wähl-](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) und [internationale Anruf Preise](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).
+| Plan für Inlandsanrufe                                  | Ja                              | Ja                                                    |
+| Gebührenfreie Wähleinstellungen\*                                    | Ja                              | Ja                                                    |
+| Plan für internationale Anrufe\*                           | Ja                              | Ja                                                    |
+| Audiokonferenzen                                     | Ja                              | Nr.<sup>1</sup>                                                   |
+
+<sup>1</sup> Für den von Drittanbietern bereitgestellten Anrufplan verfügbar.
+
+\* Gebührenfreie Wähleinstellungen und der internationale Anrufplan stehen unter Verwendung von [Kommunikationsguthaben](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)gegen Aufpreis zur Verfügung. Weitere Informationen finden Sie unter [gebührenfreie Wähl-](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) und [internationale Anruf Preise](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
-ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
+ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576010"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601766"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -25,7 +25,7 @@ Für die Zwecke dieses Artikels handelt es sich bei einem Dienst auf Mandanteneb
 > [!NOTE]
 > Einige Mandanten Dienste können derzeit keine Vorteile für bestimmte Benutzer einschränken. Es sollten Anstrengungen unternommen werden, um die Dienst Vorteile für lizenzierte Benutzer zu begrenzen. Auf diese Weise können potenzielle Dienstunterbrechungen in Ihrer Organisation vermieden werden, sobald die Zielfunktionen verfügbar sind.
 
-Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Microsoft 365-Kompatibilitätsfunktionen ab dem 1. April 2020 profitieren, laden Sie den detaillierten Vergleich der Microsoft 365-Kompatibilitäts Lizenzierung herunter. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
+Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Microsoft 365-Kompatibilitätsfunktionen ab dem 1. April 2020 profitieren, laden Sie den detaillierten Vergleich der Microsoft 365-Kompatibilitäts Lizenzierung herunter. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -71,7 +71,7 @@ Administratoren können einen Bereich Azure AD Identitäts Steuerung durch Zuwei
 - [Lizenzanforderungen für Azure AD Access Review](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
 - [Lizenzanforderungen für die Verwendung der privilegierten Identitätsverwaltung](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender für Identity
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
 Microsoft Defender for Identity (ehemals Azure Advanced Threat Protection) ist ein clouddienst, der Enterprise-Hybrid Umgebungen vor verschiedenen Arten von erweiterten Ziel-Cyber-Angriffen und Insiderbedrohungen schützt.
 
@@ -510,7 +510,7 @@ Informationsbarrieren sind Richtlinien, die ein Administrator konfigurieren kann
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:<br><br>
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:<br><br>
 
 | Szenario | Wer benötigt eine Lizenz? |
 |:------|:------|:------|

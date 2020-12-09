@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Feature-Vergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 32f3730cc53ab8c9e4de2752936c956e864f37f6
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518896"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601750"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -116,7 +116,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Unwichtige Elemente|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |MailTips|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Stellvertretungszugriff|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nr.<sup>24</sup>|
-|Posteingangsregeln|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Posteingangsregeln|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verbundene Konten|Ja|Ja|Ja|Ja|Ja<sup>17</sup>|Ja<sup>17</sup>|Ja<sup>17</sup>|Ja<sup>17</sup>|
 |Inaktive Postfächer|Nein|Nein|Nr.<sup>9</sup>|Nr.<sup>9</sup>|Nr.<sup>9</sup>|Ja|Ja|Nein <sup>9</sup>|
 |Offlineadressbuch|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -200,7 +200,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>20</sup> für eDiscovery benötigen Sie eine separate Abfrage für lokale vs. Cloud. <br/>
 <sup>21</sup> die Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. <br/>
 <sup>22</sup> Weitere Informationen finden Sie unter [Dienst Verschlüsselung mit Kundenschlüssel](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> Exchange Online um-Unterstützung für Drittanbieter-Nebenstellenanlagen über direkte Verbindungen vom Kunden betriebenen SBCS wird Ende April 2019. Weitere Informationen finden Sie in der Exchange-Teamblog [-Einstellung der Unterstützung für Session Border Controller in Exchange Online Unified Messaging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
+<sup>23</sup> Exchange Online um-Unterstützung für Drittanbieter-Nebenstellenanlagen über direkte Verbindungen vom Kunden betriebenen SBCS wird Ende April 2019. Weitere Informationen finden Sie in der Exchange-Teamblog- [Einstellung der Unterstützung für Session Border Controller in Exchange Online Unified Messaging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853). <br/>
 <sup>24</sup> ein F3-Benutzer kann keine Stellvertretungen zu seinem eigenen Postfach hinzufügen, aber Sie können auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und alle an Sie Delegierten Aktionen ausführen.<br/>
 <sup>25</sup> ein Abonnement für Microsoft 365-Apps für Enterprise ist auch für Exchange Server 2013 und Exchange Server 2016 erforderlich.
 

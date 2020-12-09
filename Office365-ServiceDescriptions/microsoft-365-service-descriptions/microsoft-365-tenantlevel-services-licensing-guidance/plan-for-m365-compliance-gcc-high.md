@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Leitfaden richtet sich an IT-Experten, die Bereitstellungen von Office 365 in US-Bundesbehörden oder anderen Entitäten mit Daten verarbeiten, die behördlichen Vorschriften und Anforderungen unterliegen, in denen die Verwendung von Microsoft 365 Government – gcc High geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: 9b4e4deec0ef79a124cc73679709970f01e73e4d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566647"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601763"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan for Microsoft 365 Compliance – gcc High
 
@@ -45,11 +45,11 @@ Die [Office 365 US Government Service Description](https://docs.microsoft.com/of
 > [!NOTE]
 > Microsoft 365 Government-gcc High ist nur in den Vereinigten Staaten verfügbar. Kunden außerhalb der US-Regierung können aus einer Reihe von [Office 365 Government-Plänen](https://products.office.com/government/compare-office-365-government-plans)wählen.
 
-## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>Schritt 2: Beantragen von Microsoft 365 Government – GCC-High
+## <a name="step-2-apply-for-microsoft-365-government--gcc-high"></a>Schritt 2. Beantragen von Microsoft 365 Government – GCC-High
 
 Nachdem Sie entschieden haben, dass dieser Dienst für Ihre Organisation geeignet ist, starten Sie den Prozess der [Beantragung dieses Diensts](https://products.office.com/government/eligibility-validation).
  
-## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>Schritt 3: Grundlegendes zu Microsoft 365 Government – GCC-High Standardsicherheitseinstellungen
+## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>Schritt 3. Grundlegendes zu Microsoft 365 Government – GCC-High Standardsicherheitseinstellungen
 
 Es wird empfohlen, dass Sie sich Zeit nehmen, um die Administrator-und Sicherheitseinstellungen sorgfältig zu überprüfen, bevor Sie Sie ändern und die Auswirkungen auf die Kompatibilität berücksichtigen, bevor Sie Änderungen an den Standardsicherheitseinstellungen vornehmen.
 
@@ -174,9 +174,9 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Erweiterte Überwachung: Zugriff auf wichtige Ereignisse (beispielsweise mailitemsaccessed)                              | Available |
 |                                         | Erweiterte Überwachung: erhöhte Bandbreite zur Verwaltungs Aktivitäts-API                              | Available |
 |                                         | Erweiterte Überwachung: Rechtliche Aufbewahrungspflicht für Microsoft Teams-Nachrichten für private Kanäle                              | Available |
-|                                         | Erweiterte Überwachung: Protokollaufbewahrung (1 Jahr)                              | Available |
+|                                         | Erweiterte Überwachung: Protokollaufbewahrung (1 Jahr)                              | Rollout |
 |                                         | Erweiterte Überwachung: Sicherheit und Compliance Center-Verfügbarkeit                              | Available |
-|                                         | Erweiterte Überwachung: längerfristige Aufbewahrung in Überwachungsprotokollen                              | Im Entwicklungsrückstand |
+|                                         | Erweiterte Überwachung: längerfristige Aufbewahrung in Überwachungsprotokollen (10 Jahre)                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: e-Mail-Weiterleitung und e-Mail-Sendeereignisse                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: verarbeitete Überwachungs Einblicke                              | Im Entwicklungsrückstand |
 |                                         | Erweiterte Überwachung: Suchbegriffs Ereignisse in Exchange Online und SharePoint Online                              | Im Entwicklungsrückstand |

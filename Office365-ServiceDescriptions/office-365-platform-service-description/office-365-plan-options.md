@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen.
-ms.openlocfilehash: 6a232a0051f26db7b049acc24233d790c27ebfc6
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 9e5b88d623052d43f361c3b6c554ff7e928d42b4
+ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519146"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605350"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Microsoft 365-und Office 365-Planoptionen
 
@@ -75,7 +75,7 @@ Jeder Microsoft 365-oder Office 365-Plan enthält eine Reihe von einzelnen Diens
 <sup>12</sup> umfasst Skype for Business Online Plan 2 mit Sprachunterstützung und ohne Client Einschränkungen.  <br/>
 <sup>13</sup> umfasst Skype for Business Online Plan 1.<br>
 <sup>14</sup> Microsoft Teams ist jetzt der primäre Client für Messaging, Besprechungen und Anrufer in Microsoft 365. Ab dem 1. Oktober 2018 werden neue Kunden mit 500 oder weniger Personen in Microsoft Teams integriert und haben keinen Zugriff auf Skype for Business Online. Mandanten, die bereits Skype for Business Online verwenden, können dies fortsetzen (einschließlich der Bereitstellungneuer Benutzer), bis Sie den Übergang zu Microsoft Teams abgeschlossen haben.<br>
-<sup>15</sup> umfasst die Microsoft 365 E5-Compliance, die automatische Klassifizierung und Aufbewahrung, Kundenschlüssel, erweiterte Nachrichtenverschlüsselung, Insider-Risiko Management, Kommunikationsrichtlinien Konformität, Informationsbarrieren, Kunden-Lockbox, privilegierte Zugriffsverwaltung, erweiterte Überwachung, Datensatzverwaltung und erweiterte eDiscovery-Funktionen bereitstellt. und Microsoft 365 E5 Security, einschließlich Microsoft Defender für Office 365 Plan 2, Microsoft Defender for Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security und Safe Documents.<br>
+<sup>15</sup> umfasst die Microsoft 365 E5-Compliance, die automatische Klassifizierung und Aufbewahrung, Kundenschlüssel, erweiterte Nachrichtenverschlüsselung, Insider-Risiko Management, Kommunikationsrichtlinien Konformität, Informationsbarrieren, Kunden-Lockbox, privilegierte Zugriffsverwaltung, erweiterte Überwachung, Datensatzverwaltung und erweiterte eDiscovery-Funktionen bereitstellt. und Microsoft 365 E5 Security, einschließlich Microsoft Defender für Office 365 Plan 2, Microsoft Defender für Endpoint, Azure Active Directory Plan 2, Microsoft Defender for Identity, Microsoft Cloud App Security und Safe Documents.<br>
 <sup>16</sup> Microsoft 365 F1 enthält keine Rechte für ein Exchange-Postfach. Um eine vollständige Teams-Erfahrung zu ermöglichen, können M365 F1-Lizenzen mit dem Exchange Online K1-Dienstplan aktiviert werden. Obwohl der Exchange Online K1-Dienstplan ein Postfach für den Benutzer zur Verfügung stellt, sind M365 F1-Benutzer nicht berechtigt, das Postfach zu verwenden. Es wird empfohlen, dass Ihre Kunden Outlook im Internet mithilfe [dieser Schritte](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) deaktivieren, und bitten Sie die Benutzer, nicht über andere Methoden auf das Exchange-Postfach zuzugreifen.<br>
 <sup>17</sup> enthält SharePoint Online Kiosk. Es kann sich nicht um Administratoren handeln. Kein websitepostfach. Keine persönliche Website.<br>
 <sup>18</sup> Microsoft 365 F1-Benutzer können Dateien mit Office für das Web lesen, aber keine Rechte zum Erstellen/Bearbeiten/speichern haben. 
