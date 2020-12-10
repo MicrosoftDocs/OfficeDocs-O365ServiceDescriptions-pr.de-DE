@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Erfahren Sie mehr über die Unterschiede zwischen den Schulungsplänen für Microsoft 365 und Office 365.
-ms.openlocfilehash: 013442afe663aa162428194777593d7c35b1c872
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
+ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072686"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49611257"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -39,6 +39,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |Project|Nr.<sup>5</sup>|Nr.<sup>5</sup>|Nr.<sup>5</sup>|Nr.<sup>5</sup>|Nr.<sup>5</sup>|Nr.<sup>5</sup>|Nr.<sup>5</sup>|Nr.<sup>5</sup>|Nr.<sup>5</sup>|
 |Yammer-Academic|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Microsoft Stream|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Microsoft Planner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**Schulungsraum Tools**|**Office 365 Education A1**|**Office 365 Education A3**|**Office 365 Education A5**|**Microsoft 365 Education A3**|**Microsoft 365 Education A5**|**Office 365 a3 Student use Benefit**|**Office 365 A5 Student use Benefit**|**Microsoft 365 Education a3 Student use Benefit**|**Microsoft 365 Education A5 Student use Benefit**|
 |Schulungsraum Erfahrungen in Microsoft Teams|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |OneNote-Kursnotizbuch|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
