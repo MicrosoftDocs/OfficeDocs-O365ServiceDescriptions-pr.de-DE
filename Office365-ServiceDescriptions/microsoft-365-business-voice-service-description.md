@@ -1,20 +1,20 @@
 ---
 title: Microsoft 365 Business Voice – Dienstbeschreibung
-ms.author: dstrome
-author: dstrome
-manager: serdars
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice ist ein Add-in-Dienst, mit dem Sie Microsoft Teams für Telefonanrufe verwenden können. Dies kombiniert Telefonsystem, Plan für Inlandsanrufe, SMS und Audiokonferenzen.
-ms.openlocfilehash: 7ce58fbd9a60871cbc5f8da981d945f10b83193f
-ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
+ms.openlocfilehash: 2f1f25dba03016ee9da086a8819394b1eab8691c
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605333"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624546"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Microsoft 365 Business Voice – Dienstbeschreibung
 
@@ -42,7 +42,7 @@ Microsoft 365 Business Voice ist mit den folgenden Abonnements mit bis zu 300 Li
 
 ## <a name="microsoft-365-business-voice-features"></a>Microsoft 365 Business Voice-Features
 
-| **Feature**                                            | **Microsoft 365 Business Voice** | **Microsoft 365 Business Voice ohne Anruf Plan** |
+| Feature | Microsoft 365 Business Voice | Microsoft 365 Business Voice ohne Anruf Plan |
 |--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Lokale Nummern                                          | Ja                              | Ja                                                   |
 | VoIP-Anrufe                                           | Ja                              | Ja                                                   |

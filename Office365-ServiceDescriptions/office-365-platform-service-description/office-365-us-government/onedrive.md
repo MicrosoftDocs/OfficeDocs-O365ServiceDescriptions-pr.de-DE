@@ -1,20 +1,20 @@
 ---
 title: OneDrive für US-Regierungs Umgebungen
-ms.author: ankirti
-author: kaarins
-manager: ankirti
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: ankirti
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Erfahren Sie mehr über die Verfügbarkeit von OneDrive-Features für US Government Cloud-Kunden.
-ms.openlocfilehash: f128a83008a67e61056fb601031815a9d83ee241
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 0094edfed04bd6c8195d6ede2cf611c9b5420541
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42175000"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624536"
 ---
 # <a name="onedrive-for-us-government-environments"></a>OneDrive für US-Regierungs Umgebungen
 
@@ -37,7 +37,7 @@ Unser Ziel ist es, alle kommerziellen Features und Funktionen von OneDrive den s
 
 Informationen zu Funktions unterschieden zwischen der kommerziellen Cloud und den staatlichen Cloud-Umgebungen finden Sie unter [File Sharing](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing).
 
-## <a name="web-features"></a>Webfunktionen
+## <a name="web-features"></a>Webfeatures
 
 Hier sind die Unterschiede zwischen den Webfunktionen für kommerzielle Kunden und denen für Government Cloud-Kunden:
 

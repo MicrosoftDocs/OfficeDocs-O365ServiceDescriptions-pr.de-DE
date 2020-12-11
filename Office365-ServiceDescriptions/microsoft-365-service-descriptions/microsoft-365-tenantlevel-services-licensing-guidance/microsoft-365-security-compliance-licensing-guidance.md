@@ -1,7 +1,8 @@
 ---
 title: Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
-ms.author: v-smandalika
-author: v-smandalika
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: v-smandalika
 audience: ITPro
 ms.topic: reference
 ms.date: 12/01/2020
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält eine Anleitung für die Lizenzierung von Microsoft 365, um mögliche Dienstunterbrechungen aufgrund von nicht lizenziertem Zugriff zu vermeiden.
-ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
-ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
+ms.openlocfilehash: de9d26c576b4dd4e77e18db3b85068eff717b0c9
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601766"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624556"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Microsoft 365-Lizenzierungs Leit Faden für Sicherheits & Compliance
 
@@ -199,7 +200,7 @@ Compliance-Manager ist standardmäßig für Ihren Mandanten vorgesehen. Administ
 
 Der Zugriff auf den Compliance-Manager wird durch Festlegen von Benutzerberechtigungen und Zuweisen von Rollen gesteuert. Weitere Informationen finden Sie unter [Erste Schritte mit Compliance-Manager: Festlegen von Benutzerberechtigungen und Zuweisen von Rollen](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender für Endpoint
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender für Endpunkt
 
 Microsoft Defender for Endpoint (ehemals Microsoft Defender ATP) ist eine Endpunkt Sicherheitslösung, die risikobasierte Schwachstellen Verwaltung und-Bewertung umfasst. Funktionen zur angreifenden Oberflächenreduzierung; verhaltensbasierte und Cloud-gesteuerte Schutz für die nächste Generation; Endpunkterkennung und-Antwort (EDR); Automatische Untersuchung und Korrektur; und verwaltete Jagd Dienste. Weitere Informationen finden Sie unter [Microsoft Defender für Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) -Seite.
 
@@ -482,7 +483,7 @@ Standardmäßig sind Exchange Online-e-Mails, SharePoint-Websites und OneDrive-K
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust** anpassen  >  **Locations**.
+Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust** anpassen  >  .
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Verhinderung von Kommunikationsdaten Verlust für Teams
 
@@ -502,7 +503,7 @@ Standardmäßig sind Microsoft Teams-Chat und Kanal Nachrichten ein *aktivierter
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust** anpassen  >  **Locations**.
+Administratoren können Speicherorte (Arbeitslasten), eingeschlossene Benutzer und ausgeschlossene Benutzer im Security & Compliance Center unter **Verhinderung von Datenverlust** anpassen  >  .
 
 ## <a name="information-barriers"></a>Informationsbarrieren
 
@@ -510,7 +511,7 @@ Informationsbarrieren sind Richtlinien, die ein Administrator konfigurieren kann
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer vom Dienst?
 
-Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Beispiel:<br><br>
+Benutzer profitieren von den erweiterten Kompatibilitätsfunktionen von Informationsbarrieren, wenn Sie von der Kommunikation mit anderen Personen eingeschränkt werden. Zum Beispiel:<br><br>
 
 | Szenario | Wer benötigt eine Lizenz? |
 |:------|:------|:------|
