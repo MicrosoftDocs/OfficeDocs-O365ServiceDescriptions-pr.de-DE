@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: dc0a9633ea3726d53ccbca89da6f87e86144280e
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519116"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683549"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
@@ -135,7 +135,7 @@ Grenzwert von <sup>3</sup> 50 GB.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Verfügbarkeit des Security &amp; Compliance Center in Office 365, betrieben von 21Vianet
 
-Das Security & Compliance Center steht in keinem Plan für Office 365 betrieben von 21Vianet zur Verfügung.
+Das Compliance Center steht im E3-Plan für Office 365 betrieben von 21Vianet zur Verfügung.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center: Verfügbarkeit in Office 365 Deutschland
 

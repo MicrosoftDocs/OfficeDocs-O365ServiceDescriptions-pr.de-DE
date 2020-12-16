@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 und Office 365 sind in einer Vielzahl von Plänen verfügbar, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Plänen suchen, einschließlich Exchange Online Pläne, werden Sie in diesem Artikel erfahren, welche Features in jedem dieser Pläne enthalten sind.
-ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519126"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683519"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365- und Office 365-Plattformdienstbeschreibung
 
@@ -187,6 +187,8 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-ons, die Sie f�
 |Kunden-Lockbox  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Kundenschlüssel<sup>14</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Erweiterte eDiscovery<sup>15</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Grundlegende Überwachung<sup>22</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Erweiterte Überwachung<sup>22</sup> <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Microsoft Secure Score<sup>7</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Informationen zu Bedrohungen  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |**[Compliance](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
@@ -225,4 +227,5 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-ons, die Sie f�
 <br/><sup>18</sup> Weitere Informationen finden Sie unter [myAnalytics-Pläne und-Umgebungen](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>19</sup> enthält die Azure Active Directory-Features, die in der Spalte **Office 365 apps** auf der Seite [Azure Active Directory Pricing](https://azure.microsoft.com/pricing/details/active-directory/) beschrieben werden. Sie müssen Azure Active Directory Plan 1 oder Plan 2, Enterprise Mobile Security oder Microsoft 365 E3 oder E5 hinzufügen, um die Premium-Azure AD Funktionen zu erhalten.<br/>
 <sup>20</sup> die Briefing-e-Mail wird automatisch allen Benutzern von Exchange Online zur Verfügung gestellt. Weitere Informationen finden Sie unter [Konfigurieren von Briefing-e-Mails](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>21</sup> Benutzern wird nur der ansichtszugriff auf Project für das Internet gewährt. Diese Rechte sind nur für die Verwendung mit dem Projekt für die Webanwendung und nur für Mandanten eingeschränkt, die über eine Lizenz für Project Plan 1, Project Plan 3 oder Project Plan 5 verfügen. Diese Rechte gewähren keinen Zugriff auf Power Platform-Anwendungen oder andere Datasets, Project Online Desktop Clients oder Project online. Details zu Features finden Sie in der [Microsoft Project-Dienstbeschreibung](../project-online-service-description/project-online-service-description.md).
+<sup>21</sup> Benutzern wird nur der ansichtszugriff auf Project für das Internet gewährt. Diese Rechte sind nur für die Verwendung mit dem Projekt für die Webanwendung und nur für Mandanten eingeschränkt, die über eine Lizenz für Project Plan 1, Project Plan 3 oder Project Plan 5 verfügen. Diese Rechte gewähren keinen Zugriff auf Power Platform-Anwendungen oder andere Datasets, Project Online Desktop Clients oder Project online. Details zu Features finden Sie in der [Microsoft Project-Dienstbeschreibung](../project-online-service-description/project-online-service-description.md).<br/>
+<sup>22</sup> die Überwachung in Microsoft 365 bietet Organisationen eine Sichtbarkeit für viele Arten von überwachten Aktivitäten in verschiedenen Diensten in Microsoft 365. Verwenden Sie die Überwachungsprotokoll Suche im [Security &amp; Compliance Center](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) , um Benutzer-und Administratoraktivitäten in Ihrer Organisation anzuzeigen. Sie können auch die [Office 365-Verwaltungs Aktivitäts-API](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen. Wenn eine überwachte Aktivität von einem Benutzer oder Administrator ausgeführt wird, wird ein Überwachungseintrag generiert und im Überwachungsprotokoll für die Organisation des Kunden gespeichert. Die Dauer der Aufbewahrung eines Überwachungsdatensatzes (und der Durchsuchung im Überwachungsprotokoll) hängt von der Office 365 des Kunden oder dem Microsoft 365 Enterprise-Abonnement und dem Typ der Lizenz ab, die bestimmten Benutzern zugewiesen ist.
