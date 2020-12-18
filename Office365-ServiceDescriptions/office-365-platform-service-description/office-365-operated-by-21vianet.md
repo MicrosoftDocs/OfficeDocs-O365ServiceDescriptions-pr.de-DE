@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 betrieben von 21Vianet wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Cloud-Dienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 64a403f935450e9b3500e352acb1dfa7f9717aeb
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683559"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709753"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -60,19 +60,6 @@ Jeder Office 365 Plan, der von 21Vianet betrieben wird, umfasst eine Reihe von e
 ## <a name="system-requirements"></a>Systemanforderungen
 
 Informationen zu Systemanforderungen für Office 365 finden Sie unter [Systemanforderungen für Office](https://products.office.com/office-system-requirements/#Office365forBEG) auf der [office.com](https://www.office.com)-Produktwebsite.
-
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Verfügbarkeit des Security &amp; Compliance Center in Office 365, betrieben von 21Vianet
-
-Das Microsoft 365 Compliance Center bietet einfachen Zugriff auf die Tools, die Sie zum Verwalten der Compliance-Anforderungen Ihrer Organisation benötigen. Die folgenden Lösungen stehen im Compliance Center für Pläne zur Verfügung, die von 21Vianet betrieben werden:
-
-- Verhinderung von Datenverlust (Data Loss Prevention, DLP)
-- Aufbewahrung
-- Überwachung
-- Microsoft Information Protection (MIP)
-
-In den einzelnen Lösungsdetails erfahren Sie, wie Sie den genauen Funktionsumfang in Plan operated by 21Vianet verstehen.
-
-Wenn Sie mehr über das Microsoft Compliance Center erfahren möchten, klicken Sie [hier](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center).
 
 ## <a name="platform-features"></a>Plattformfeatures
 
@@ -310,7 +297,7 @@ Die folgende Tabelle enthält Links zu vergleichen von Office für die webfunkti
 > - Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite.
 > - Microsoft Office webapps Server 2013 lokale Kunden erhalten eine Office für die webbearbeitungs Lizenz, wenn Sie eine Office-Desktop Suite-Lizenz erworben haben (wie Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz).
 
-| Anwendung | Office für das Internet, betrieben von 21Vianet | Link zum detaillierten Funktionsvergleich |
+| App | Office für das Internet, betrieben von 21Vianet | Link zum detaillierten Funktionsvergleich |
 |:-----|:-----|:-----|
 |Word|Word für das Internet, betrieben von 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel für das Internet, betrieben von 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|

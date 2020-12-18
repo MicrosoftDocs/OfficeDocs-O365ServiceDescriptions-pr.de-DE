@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Erfahren Sie, welche Skype for Business Online Features in den verschiedenen Plänen von Microsoft 365 und Office 365 verfügbar sind.
-ms.openlocfilehash: 18144b42d6f94f4ce93432d681e136cd8063656c
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 070ea7ca1e66b1157726bea68c4130800b21a9f5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276757"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709743"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online-Dienstbeschreibung
 
@@ -48,7 +48,7 @@ Informationen zum Anzeigen aller Pläne finden Sie unter [leistungsstarke Tools 
   
 Einen ausführlicheren Vergleich finden Sie in der folgenden Tabelle.<br><br>
   
-| Feature | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Feature | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Clients für Skype for Business Online](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
 |Skype for Business Vollständig  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -145,7 +145,7 @@ Einen ausführlicheren Vergleich finden Sie in der folgenden Tabelle.<br><br>
 |Skype und Verbundanrufe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Teamanrufe  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Videoanrufmonitor  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Voicemail  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
+|Voicemail  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Anrufpläne](skype-for-business-online-features.md#calling-plans) (Anrufplan Inland, mit erforderlichem Add-On-Erwerb)  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Nein  <br/> |
 |[Anrufpläne](skype-for-business-online-features.md#calling-plans) (Anrufplan Ausland, mit erforderlichem Add-On-Erwerb)  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Nein  <br/> |
 |[Guthaben für Kommunikation](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |Nein  <br/> |Nein  <br/> |Nr.<sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -193,7 +193,7 @@ In der folgenden Tabelle ist die Verfügbarkeit von Skype for Business Online-Fe
 > [!NOTE]
 > Skype for Business Online eigenständigen Plan 2-lizenzierten Benutzer erhalten den Skype for Business Basic-Client, nicht den vollständigen Skype for Business-Client. Wenn Sie möchten, dass die Benutzer über den Skype for Business-Client verfügen, müssen Sie diese auf eine Lizenz aktualisieren, die Sie enthält, beispielsweise eine unternehmensbasierte Lizenz. Informationen zum Bereitstellen des Skype for Business-Clients für Ihre Benutzer finden Sie unter [Bereitstellen des Skype for Business-Clients in Microsoft 365 oder Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
   
-| Feature | Skype for Business Server 2015 | Skype for Business Online eigenständiger Plan &nbsp; 1 | Skype for Business Online eigenständiger Plan &nbsp; 2 |
+| Feature | Skype for Business Server 2015 | Skype for Business Online eigenständiger Plan &nbsp; 1 | Skype for Business Online eigenständiger Plan &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |**[Clients für Skype for Business Online](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype for Business Vollständig  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
