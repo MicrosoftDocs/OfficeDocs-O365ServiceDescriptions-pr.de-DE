@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams bietet Chatnachrichten, Datei-und Datenzusammenarbeit, Audio-und Videoanrufe, umfangreiche Onlinebesprechungen, Mobile Benutzeroberflächen und umfangreiche Webkonferenzfunktionen.
-ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
-ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
+ms.openlocfilehash: 508e02d0e2d2afc3fa559e6759307c0c08a4c6d9
+ms.sourcegitcommit: eae5f1a9793fd0ca082ee81143765ae5849263dc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49003948"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724560"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -37,9 +37,9 @@ Als Referenz haben wir diese Mastertabelle mit den Abonnements aufgenommen, mit 
 
 Ausführliche Anleitungen zur Implementierung von Produktfeatures finden Sie in der [Microsoft Teams-Administratordokumentation](https://docs.microsoft.com/MicrosoftTeams). In dieser Dienstbeschreibung werden die wesentlichen Unterschiede zwischen den in den verschiedenen Cloud-Installationen bereitgestellten Diensten erläutert. Die Kernfunktionen von Microsoft Teams unterscheiden sich nicht zwischen den Abonnements. Die Verfügbarkeit der Compliance-Funktionen hängt von Ihrer Abonnementstufe ab. Weitere Informationen finden Sie unter [Security and Compliance in Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Eine detaillierte Liste der in den einzelnen Abonnements verfügbaren Features finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
-**Cloud-VoIP-Funktionen** : für Audiokonferenzen muss Ihre Organisation jedem Benutzer, der Einwahl Besprechungen einrichten wird, eine Lizenz für Audiokonferenzen kaufen und zuweisen. Für Teams-Features, die Anrufpläne erfordern, benötigt jeder Benutzer ein Telefonsystem sowie einen Plan für Inlands-, Inlands-und internationale Anrufe. Weitere Informationen finden Sie unter [Add-on-Lizenzen für Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
+**Cloud-VoIP-Funktionen**: für Audiokonferenzen muss Ihre Organisation jedem Benutzer, der Einwahl Besprechungen einrichten wird, eine Lizenz für Audiokonferenzen kaufen und zuweisen. Für Teams-Features, die Anrufpläne erfordern, benötigt jeder Benutzer ein Telefonsystem sowie einen Plan für Inlands-, Inlands-und internationale Anrufe. Weitere Informationen finden Sie unter [Add-on-Lizenzen für Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 
-**Live-Ereignisse** : Dieses Angebot in Office 365 ersetzt die im Ruhestand ausgetretene Skype-Besprechungs Sendung. Live-Ereignisfunktionen stehen für Lizenzierungs Pläne zur Verfügung, wie im Stream-Dienst detailliert beschrieben. Lesen Sie die [Details zur Microsoft Stream-Lizenzierung hier](https://docs.microsoft.com/stream/license-overview). Der Zugriff auf den Live-Ereignisdienst kann über Stream, jammern oder Microsoft Teams erfolgen. Weitere Informationen zu Live-Ereignisfunktionen finden Sie unter [Live Events Across Microsoft 365 in jammern, Microsoft Teams und Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
+**Live-Ereignisse**: Dieses Angebot in Office 365 ersetzt die im Ruhestand ausgetretene Skype-Besprechungs Sendung. Live-Ereignisfunktionen stehen für Lizenzierungs Pläne zur Verfügung, wie im Stream-Dienst detailliert beschrieben. Lesen Sie die [Details zur Microsoft Stream-Lizenzierung hier](https://docs.microsoft.com/stream/license-overview). Der Zugriff auf den Live-Ereignisdienst kann über Stream, jammern oder Microsoft Teams erfolgen. Weitere Informationen zu Live-Ereignisfunktionen finden Sie unter [Live Events Across Microsoft 365 in jammern, Microsoft Teams und Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
 
 Alle unterstützten Abonnement Pläne sind für den Zugriff auf den Microsoft Teams-WebClient, Desktop Clients und Mobile Apps berechtigt.
 
@@ -66,9 +66,11 @@ In dieser Tabelle werden die Verfügbarkeit von Microsoft Teams-Funktionen für 
 > <sup>2</sup> Microsoft Planner steht derzeit nicht für den Zugriff auf private Kanäle zur Verfügung.<br/>
 > <sup>3</sup> das direkte Routing muss für Microsoft Teams-sprach-und-Audiokonferenzen für die Verwendung in GCCH und DoD konfiguriert sein.<br/>
 > <sup>4</sup> Microsoft OneNote ist in DoD-Clouds nicht verfügbar.<br/>
-> <sup>5</sup> Anwendungen und Anwendungsveröffentlichung stehen derzeit in diesen Clouds nicht zur Verfügung.<br/>
+> <sup>5</sup> Anwendungen von Drittanbietern und Anwendungsveröffentlichung stehen in diesen Clouds derzeit nicht zur Verfügung.<br/>
 > <sup>6</sup> Live-Ereignisse sind zu diesem Zeitpunkt in GCC-High oder DoD nicht verfügbar.<br/>
 
 ## <a name="next-steps"></a>Nächste Schritte
 
 Beginnen Sie mit der Planung Ihrer Microsoft Teams-Bereitstellung, indem Sie die [Technische Dokumentation von Microsoft Teams](https://aka.ms/SuccessWithTeams)besuchen. Bleiben Sie auf dem Laufenden über die Features und Funktionen von Teams, indem Sie [unserer Community beitreten und unseren Microsoft Teams-Blog besuchen](https://aka.ms/TeamsBlog).
+
+Wenn Sie mehr über die Microsoft Teams-Features nach Betriebssystem-Plattformen erfahren möchten, lesen Sie die Microsoft [Teams-Features nach Platt Form Support Artikel](https://aka.ms/teamsfeaturesbyplatform).
