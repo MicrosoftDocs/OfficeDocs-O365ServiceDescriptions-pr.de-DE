@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Erfahren Sie mehr über die Unterschiede zwischen den Schulungsplänen für Microsoft 365 und Office 365.
-ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
-ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
+ms.openlocfilehash: 2e149dc53127046bdb813bb10ca65a857fef67d8
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49611257"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730733"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Education
 
@@ -74,7 +74,7 @@ Jeder Microsoft 365 Education-Plan umfasst eine Reihe von Einzeldiensten, wie Ex
 |Erweiterte eDiscovery|Nein|Nein|Ja|Nein|Ja|Nein|Nein|Nein|Nein|
 |Verhinderung von Datenverlust (Data Loss Prevention, DLP) für e-Mail und Dateien|Nein|Ja|Ja|Ja|Ja|Nein|Nein|Nein|Nein|
 |Endpunkt-DLP|Nein|Nein|Nein|Nein|Ja|Nein|Nein|Nein|Nein|
-|Communications DLP (Microsoft Teams Chat)|Nein|Ja|Ja|Ja|Ja|Nein|Nein|Nein|Nein|
+|Communications DLP (Microsoft Teams Chat)|Nein|Nein|Ja|Nein|Ja|Nein|Nein|Nein|Nein|
 |Kommunikationscompliance|Nein|Nein|Ja|Nein|Ja|Nein|Nein|Nein|Nein|
 |Kundenschlüssel|Nein|Nein|Ja|Nein|Ja|Nein|Nein|Nein|Nein|
 |Grundlegende Überwachung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
