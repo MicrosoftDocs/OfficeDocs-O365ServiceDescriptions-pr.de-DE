@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security &amp; Compliance Center unterstützt Sie bei der Verwaltung von Compliance-Features in Office 365 für Ihre Organisation. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730723"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740966"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
@@ -30,21 +30,19 @@ Um die Optionen für die Lizenzierung von Benutzern zu erhalten, die von den Mic
 | Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Zugriff auf das Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
-|[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1, 3</sup> |Nein   |Ja  |Ja   |Nein   |Ja   |Ja   |Nein   |
-|[Manuelle Empfindlichkeits Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | Nein | Nein  |Nein   | Ja | Ja | Ja | Nein  |
+|[Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive für Unternehmen](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> | Nein | Nein  |Nein   | Ja | Ja | Ja | Nein  |
+|[Manuelle Empfindlichkeits Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | Nein | Nein  |Nein   | Ja | Ja | Ja | Nein  |
 |[eDiscovery-Fälle](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |Ja   |
 |[eDiscovery-Speicher (einschließlich abfragebasierte eDiscovery-Speicher)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Nein   |Nein   |Nein  |Nein   |Ja   |Ja   |Nein   |
 |[eDiscovery-Export](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Nein   |Nein   |Nein   |Nein   |Ja   |Ja   |Nein   |
-|[Grundlegende Überwachung](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |Ja   |Ja   |Ja|Ja   |Ja   |Ja   |Ja   |
+|[Grundlegende Überwachung](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |Ja   |Ja   |Ja|Ja   |Ja   |Ja   |Ja   |
 |[Office 365-Nachrichtenverschlüsselung (OM) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Nein   |Nein   |Nein   |Nein   |Ja  |Ja   |Nein   |
 
-<sup>1</sup> enthält Dateien, die in Microsoft Teams-Repositorys gespeichert sind.
+<sup>1</sup> Überwachungsprotokolle für alle Pläne, die die grundlegende Überwachung beinhalten (mit Ausnahme von E5) werden für 90 Tage aufbewahrt. Da E5 erweiterte Überprüfungen umfasst, werden Überwachungsprotokolle bis zu einem Jahr aufbewahrt. Sie können auch die API für die [Office 365 Verwaltungsaktivität](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen.
 
-<sup>2</sup> Überwachungsprotokolle für alle Pläne, die die grundlegende Überwachung umfassen (mit Ausnahme von E5), werden für 90 Tage aufbewahrt. Da E5 erweiterte Überprüfungen umfasst, werden Überwachungsprotokolle bis zu einem Jahr aufbewahrt. Sie können auch die API für die [Office 365 Verwaltungsaktivität](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen.
+<sup>2</sup> erfordert Office 365-Add-on zur Verhinderung von Datenverlust.
 
-<sup>3</sup> erfordert Office 365-Add-on zur Verhinderung von Datenverlust.
-
-<sup>4</sup> Sensitivitäts Bezeichnungen sind auch in Azure Information Protection P1 und P2 enthalten.
+<sup>3</sup> Sensitivitäts Bezeichnungen sind auch in Azure Information Protection P1 und P2 enthalten.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Sicherheit &amp; Compliance Center – Verfügbarkeit für eigenständige Pläne
 
