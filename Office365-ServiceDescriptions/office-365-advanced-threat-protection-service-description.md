@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender für Office 365 ist ein cloudbasierter E-Mail-Filterdienst, der Ihre Organisation vor unbekannter Schadsoftware und Viren schützt, indem er robusten Zero-Day-Schutz bietet und Features zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
-ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
+ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2021
-ms.locfileid: "49790439"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794961"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender für Office 365-Dienstbeschreibung
 
@@ -32,7 +32,7 @@ Im Folgenden werden die wichtigsten Möglichkeiten zur Verwendung von Defender f
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Verfügbarkeit von Microsoft Defender für Office 365
 
-Microsoft Defender für Office 365 Plan 2 ist in Office 365 E5, Office 365 A5, Microsoft 365 E5 Security und Microsoft 365 E5 enthalten, wie hier angegeben: [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . Defender für Office 365 Plan 1 ist in Microsoft 365 Business Premium enthalten.
+Microsoft Defender für Office 365 Plan 2 ist in Office 365 E5, Office 365 A5, Microsoft 365 E5 Security und Microsoft 365 E5 enthalten, wie hier [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) angegeben: Defender für Office 365 Plan 1 ist in Microsoft 365 Business Premium enthalten.
 
 Sie können Defender für Office 365 den folgenden Exchange- und Microsoft 365-Abonnementplänen hinzufügen:
 
@@ -60,7 +60,7 @@ Sie können Defender für Office 365 den folgenden Exchange- und Microsoft 365-A
 
 Informationen zum Kauf von Microsoft Defender für Office 365 finden Sie unter [Microsoft Defender für Office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Informationen zum Vergleichen von Features in verschiedenen Plänen finden Sie [unter](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) Leistungsstarke Tools zur Unterstützung Ihres Unternehmens und Transformieren Ihres Unternehmens mit [Microsoft 365.](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)
+Informationen zum Vergleichen von Features in verschiedenen Plänen finden Sie unter Leistungsstarke [Tools](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) zur Unterstützung Ihres Unternehmens und Transformieren Ihres Unternehmens [mit Microsoft 365.](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans)
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Neues in Microsoft Defender für Office 365
 
@@ -78,7 +78,7 @@ Defender für Office 365 kann mit einem beliebigen SMTP-Mail-Übertragungs-Agent
 
 Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.<br><br>
 
-| Feature | Defender für Office 365 Plan 1 | Defender für Office 365 Plan 2 | Microsoft 365 E5/E5 Security|
+| Feature | Defender für Office 365 Plan 1 | Defender für Office 365 Plan 2 | Microsoft 365 E5 /E5 Security|
 |:-----|:-----|:-----|:-----|
 |*Konfiguration, Schutz und Erkennung*|
 |[Sichere Anlagen](#safe-attachments)|Ja|Ja|Ja|
@@ -97,13 +97,13 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 |*Integration in [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|Nein|Ja|Ja|
 
 > [!NOTE]
-> Wenn Ihr Mandant nur über die Testlizenz für Defender für Office 365 Plan 2 oder die Microsoft 365 E5-Testlizenz verfügt, ohne andere berechtigte Lizenz für Microsoft 365 Defender, können Sie nicht auf Microsoft 365 Defender zugreifen. Weitere Informationen finden Sie unter [Microsoft 365 Defender-Anforderungen.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+> Wenn Ihr Mandant nur über eine Office ATP P2-Testlizenz oder eine Office 365 E5-Testlizenz verfügt, ohne andere berechtigte Lizenz für Microsoft Threat Protection, können Sie nicht auf Microsoft Threat Protection zugreifen. Weitere Informationen zur MTP-Lizenz finden Sie unter <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
 
 ## <a name="defender-for-office-365-capabilities"></a>Funktionen von Defender für Office 365
 
 ### <a name="safe-attachments"></a>Sichere Anlagen
 
-["Sichere Anlagen"](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) schützt vor unbekannter Schadsoftware und Viren und bietet Zero-Day-Schutz, um Ihr Messagingsystem zu schützen. Alle Nachrichten und Anlagen ohne bekannte Viren-/Schadsoftwaresignatur werden an eine spezielle Umgebung geroutet, in der Defender für Office 365 eine Vielzahl von Machine Learning- und Analysetechniken verwendet, um böswillige Absichten zu erkennen. Wenn keine verdächtige Aktivität ermittelt wird, wird die Nachricht für die Übermittlung an das Postfach freigegeben.
+[Sichere Anlagen](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) schützen vor unbekannter Schadsoftware und Viren und bieten Zero-Day-Schutz, um Ihr Messagingsystem zu schützen. Alle Nachrichten und Anlagen, die keine bekannte Viren-/Schadsoftwaresignatur haben, werden an eine spezielle Umgebung geroutet, in der Defender für Office 365 eine Vielzahl von Machine Learning- und Analysetechniken verwendet, um böswillige Absichten zu erkennen. Wenn keine verdächtige Aktivität ermittelt wird, wird die Nachricht für die Übermittlung an das Postfach freigegeben.
 
 > [!NOTE]
 > Die Überprüfung auf sichere Anlagen findet in derselben Region statt, in der sich Ihre Office 365-Daten befinden. Weitere Informationen zur Geografie des Rechenzentrums finden Sie unter [Wo befinden sich Ihre Daten?](https://products.office.com/where-is-your-data-located?geo=All).
@@ -164,13 +164,13 @@ Die im Security & Compliance Center ( ) verfügbaren Überwachungsfunktionen umf
 
 Der Explorer (auch als Sicherheitsrisiken-Explorer bezeichnet) ist ein Echtzeitbericht, der es Ihnen ermöglicht, aktuelle Bedrohungen zu erkennen und zu analysieren. Standardmäßig werden in diesem Bericht Daten für die letzten sieben Tage angezeigt. Ansichten können jedoch geändert werden, um Daten für die letzten 30 Tage anzeigen zu können.
 
-Explorer enthält Ansichten, z. B. Schadsoftware (für E-Mails und Inhalte), Übermittlungen, Phishing und alle E-Mails. Laden Sie diese PDF herunter, um zu sehen, wie Explorer mit [Echtzeiterkennungen vergleicht.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
+Explorer enthält Ansichten, z. B. Schadsoftware (für E-Mails und Inhalte), Übermittlungen, Phishing und alle E-Mails. Um zu sehen, wie Explorer mit Echtzeiterkennungen vergleicht, [laden Sie diese PDF herunter.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
 Weitere Informationen zu Explorer (in Microsoft Defender für Office 365 Plan 2) und Echtzeiterkennungen (in Microsoft Defender für Office 365 Plan 1) finden Sie unter [Bedrohungs-Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)und Echtzeiterkennungen.
 
 ### <a name="real-time-detections"></a>Echtzeiterkennungen
 
-Bei Echtzeiterkennungen handelt es sich um einen Echtzeitbericht, der es autorisierten Benutzern ermöglicht, aktuelle Bedrohungen zu erkennen und zu analysieren. Ähnlich wie Explorer zeigt dieser Bericht standardmäßig Daten für die letzten sieben Tage an.
+Bei Echtzeiterkennungen handelt es sich um einen Echtzeitbericht, der es autorisierten Benutzern ermöglicht, aktuelle Bedrohungen zu erkennen und zu analysieren. Ähnlich wie in Explorer zeigt dieser Bericht standardmäßig Daten für die letzten sieben Tage an.
 
 Echtzeiterkennungen enthalten Ansichten, z. B. Schadsoftware (für E-Mail und Inhalt), Übermittlungen und Phishing. Um zu sehen, wie Echtzeiterkennungen mit Explorer verglichen werden, [laden Sie diese PDF herunter.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
@@ -178,12 +178,12 @@ Weitere Informationen zu Explorer (in Microsoft Defender für Office 365 Plan 2)
 
 ### <a name="threat-trackers"></a>Nachverfolgungslisten für Bedrohungen
 
-[Bedrohungsverfolgungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) sind informative Widgets und Ansichten, die autorisierten Benutzern Informationen zu Cybersicherheitsproblemen bieten, die sich auf Ihre Organisation auswirken können.
+[Bedrohungsverfolgungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) sind informative Widgets und Ansichten, die autorisierten Benutzern Informationen zu Internetsicherheitsproblemen bieten, die sich auf Ihre Organisation auswirken können.
 
 ### <a name="automated-incident-response"></a>Automatisierte Reaktion auf Vorfälle
 
-[Funktionen zur automatisierten](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) Reaktion auf Vorfälle (AIR), die in Defender für Office 365 Plan 2 verfügbar sind, ermöglichen Ihnen automatisierte Untersuchungsprozesse als Reaktion auf bekannte Bedrohungen, die heute vorhanden sind. Durch automatisierte Untersuchungsaufgaben kann Ihr Sicherheitsteam effizienter und effektiver arbeiten. Abhilfemaßnahmen, z. B. das Löschen schädlicher E-Mail-Nachrichten, werden nach Genehmigung durch Ihr Sicherheitsteam ergriffen. Weitere Informationen finden Sie unter Funktionsweise von [AIR in Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+[Funktionen zur automatisierten](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) Reaktion auf Vorfälle (AIR), die in Defender für Office 365 Plan 2 verfügbar sind, ermöglichen Ihnen automatisierte Untersuchungsprozesse als Reaktion auf bekannte Bedrohungen, die heute vorhanden sind. Durch automatisierte bestimmte Untersuchungsaufgaben kann Ihr Sicherheitsteam effizienter und effektiver arbeiten. Abhilfemaßnahmen, z. B. das Löschen schädlicher E-Mail-Nachrichten, werden nach Genehmigung durch Ihr Sicherheitsteam ergriffen. Weitere Informationen finden Sie unter [Funktionsweise von AIR in Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 ### <a name="attack-simulator"></a>Angriffssimulator
 
-[Mit dem Angriffssimulator](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) können autorisierte Benutzer realistische Angriffsszenarien in Ihrer Organisation ausführen. Es stehen verschiedene Arten von Angriffen zur Verfügung, z. B. ein Anzeigename-Phishing-Angriff, ein Kennwort-Spray-Angriff und ein Brute-Force-Kennwortangriff.
+[Mit dem Angriffssimulator](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) können autorisierte Benutzer realistische Angriffsszenarien in Ihrer Organisation ausführen. Es stehen verschiedene Arten von Angriffen zur Verfügung, z. B. ein Anzeigename zum Phishing, ein Kennwort-Spray-Angriff und ein Brute-Force-Kennwortangriff.
