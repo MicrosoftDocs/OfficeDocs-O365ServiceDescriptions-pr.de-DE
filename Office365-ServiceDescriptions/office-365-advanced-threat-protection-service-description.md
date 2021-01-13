@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender für Office 365 ist ein cloudbasierter E-Mail-Filterdienst, der Ihre Organisation vor unbekannter Schadsoftware und Viren schützt, indem er robusten Zero-Day-Schutz bietet und Features zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: b3eb9d94fdd96899a0d08e591715a07354104c25
+ms.sourcegitcommit: 29db3ccfdd875fc8968e11c040c6db46c2720134
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794961"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49799404"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender für Office 365-Dienstbeschreibung
 
@@ -97,7 +97,7 @@ Jedes Feature ist unten aufgeführt. Wenn Exchange Online erwähnt wird, beziehe
 |*Integration in [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|Nein|Ja|Ja|
 
 > [!NOTE]
-> Wenn Ihr Mandant nur über eine Office ATP P2-Testlizenz oder eine Office 365 E5-Testlizenz verfügt, ohne andere berechtigte Lizenz für Microsoft Threat Protection, können Sie nicht auf Microsoft Threat Protection zugreifen. Weitere Informationen zur MTP-Lizenz finden Sie unter <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
+> Wenn Ihr Mandant nur über eine Testlizenz für Microsoft Defender für Office Plan P2 oder eine Office 365 E5-Testlizenz verfügt, ohne andere berechtigte Lizenz für Microsoft 365 Defender, können Sie nicht auf Microsoft 365 Defender zugreifen. Weitere Informationen zur MTP-Lizenz finden Sie unter [Microsoft 365 Defender-Anforderungen.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 
 ## <a name="defender-for-office-365-capabilities"></a>Funktionen von Defender für Office 365
 
