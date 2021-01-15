@@ -124,6 +124,11 @@
       "source_path": "Office365-ServiceDescriptions/sharepoint-online-service-description/add-ons.md",
       "redirect_url": "https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Office365-ServiceDescriptions/microsoft-dynamics-365-online-service-description.md",
+      "redirect_url": "https://docs.microsoft.com/dynamics365/",
+      "redirect_document_id": false
     }
   ]
 }
