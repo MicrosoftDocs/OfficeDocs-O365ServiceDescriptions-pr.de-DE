@@ -7,169 +7,169 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Dieser Artikel bietet eine Übersicht über die Microsoft 365-Regierung und beschreibt Kauf Optionen.
-ms.openlocfilehash: c64b60a2cf22e95d7e6158240cf505abf47451d2
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+description: Dieser Artikel bietet eine Übersicht über Microsoft 365 Government und beschreibt Kaufoptionen.
+ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
+ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519136"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878668"
 ---
-# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-How to Buy
+# <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government – Kauf
 
-Als Reaktion auf die einzigartigen und sich entwickelnden Anforderungen des öffentlichen Sektors in den Vereinigten Staaten hat Microsoftspezifische Microsoft 365 Government-Umgebungen für US-Kunden im öffentlichen Sektor erstellt. Diese Dienstbeschreibung bietet eine Übersicht über die Umgebungen und weitere Informationen zum Kauf. Es wird empfohlen, diese Dienstbeschreibung neben anderen [Microsoft 365-und Office 365-Dienstbeschreibungen zu](../../office-365-service-descriptions-technet-library.md)lesen.
+Als Reaktion auf die einzigartigen und sich ständig weiterentwickelnden Anforderungen des us-amerikanischen öffentlichen Sektor hat Microsoft spezielle Microsoft 365 Government-Umgebungen für Kunden im öffentlichen US-Sektor erstellt. Diese Dienstbeschreibung bietet eine Übersicht über die Umgebungen und weitere Informationen zum Kauf. Es wird empfohlen, diese Dienstbeschreibung zusammen mit anderen [Microsoft 365- und Office 365-Dienstbeschreibungen zu lesen.](../../office-365-service-descriptions-technet-library.md)
   
 ## <a name="whats-microsoft-365-government"></a>Was ist Microsoft 365 Government?
 
-Microsoft 365 Government ist eine Reihe von Produktivitäts-, Sicherheits-und Mobilitätssoftware-Funktionen, die für US-Regierungsbehörden und Auftragnehmer, die für kontrollierte, nicht klassifizierte Informationen gehalten werden, zugeschnitten sind. Bereitgestellt durch eindeutige Umgebungen, die die strengsten Compliance-Anforderungen erfüllen, ist die Microsoft 365 Government ein Cloud-Angebot für US-Regierungskunden, das die Features und Funktionen von Microsoft Commercial Cloud Enterprise-angeboten so genau wie möglich erfüllt.
+Microsoft 365 Government ist eine Reihe von Produktivitäts-, Sicherheits- und Mobilitäts-Cloud-Softwarefunktionen, die auf us-amerikanische Regierungsbehörden und Vertragsnehmer zugeschnitten sind, die für kontrollierte, nicht klassifizierte Informationen unterstützt werden. Microsoft 365 Government wird über einzigartige Umgebungen angeboten, die die strengsten Complianceanforderungen erfüllen. Microsoft 365 Government ist ein Cloudangebot für Kunden der US-Regierung, das die Features und Funktionen der kommerziellen Cloud-Enterprise-Angebote von Microsoft so genau wie möglich erfüllt.
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Was ist der Wert von Microsoft 365 Government?
 
-Die Regierung von Microsoft 365 hilft US-Regierungschefs und Arbeitskräften überall und jederzeit produktiv zu sein, indem Sie mobile Produktivität und eine sichere Zusammenarbeit mit der Compliance sicherstellen, indem Sie Agenturen dabei helfen, Vorschriften für die Einhaltung behördlicher Daten Die folgende Tabelle enthält Beispiele für wichtige Regierungs Rollen.<br><br>
+Microsoft 365 Government hilft Führungskräften und Mitarbeitern von US-Regierungsbehörden, jederzeit und überall produktiv zu sein, indem die mobile Produktivität und die sichere Zusammenarbeit bei der Einhaltung von Vorschriften durch Behörden ermöglicht werden, die gesetzlichen Datenkonformitätsanforderungen effektiv zu verwalten. Die folgende Tabelle enthält Beispiele für wichtige Behördenrollen.<br><br>
  
-| Regierungschefs können... | Regierungsangestellte können... | Feld Personal kann... |
+| Regierungsleiter können... | Mitarbeiter der Regierung können... | Außendienstmitarbeiter können... |
 |:-----|:-----|:-----|:-----|:-----|
-|Erhöhung der öffentlichen Vertrauensstellung durch verbesserte Kommunikation und Transparenz  <br/> |Verbessern der Bürgerdienste durch bessere Zusammenarbeit <br/> | Verbessern der Dienstqualität durch mobilen Zugriff auf das Informationsfeld Mitarbeiter benötigen, wenn Sie es benötigen  |
-|Besserer Zugriff auf Einblicke, die bei der Gestaltung von Richtlinien und Budgetentscheidungen helfen können  <br/> |Verbessern Sie die Agentur übergreifende Kommunikation.  <br/> |Zusammenarbeit und Wissens Freigabe ermöglichen, um Probleme schnell zu identifizieren und zu beheben  <br/> |
-|Bleiben Sie informiert und verbunden mit Mitarbeitern und Bürgern, im Büro oder unterwegs  <br/> |Stärkere Einbindung von Beamten zur Verbesserung der Mitarbeiterbindung  <br/> | Aufbau eines stärkeren Sinns für Community-Standorte in der gesamten Agentur  <br/> |
-|Stellen Sie sicher, dass eine US-Government-konforme Lösung Kosten reduziert und Agilität verbessert  <br/> |||
+|Steigern des öffentlichen Vertrauens durch verbesserte Kommunikation und Transparenz  <br/> |Verbessern von Citizen Services durch bessere Zusammenarbeit <br/> | Verbessern der Qualität von Diensten durch mobilen Zugriff auf die benötigten Informationen, wenn mitarbeiter sie benötigen  |
+|Verbessern des Zugriffs auf Einblicke, die Bei der Gestaltung von Richtlinien- und Budgetentscheidungen helfen können  <br/> |Verbessern sie die agenturübergreifende Kommunikation.  <br/> |Ermöglichen der Zusammenarbeit und Wissensfreigabe, um Probleme schnell zu identifizieren und zu beheben  <br/> |
+|Bleiben Sie auf dem Laufenden und mit Mitarbeitern und Bürgern, im Büro oder unterwegs  <br/> |Tieferes Engagement mit der öffentlichen Öffentlichen Zusammenarbeit zur Verbesserung der Mitarbeiterbindungsraten  <br/> | Aufbau eines stärkeren Community-Gefühls über verschiedene Standorte hinweg  <br/> |
+|Sicherstellen einer us-government-kompatiblen Lösung, die Kosten senken und Agilität verbessern kann  <br/> |||
 
-## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Was unterscheidet Microsoft 365 Government von Microsoft 365 für Enterprise-Angebote?
+## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Was unterscheidet Microsoft 365 Government von Microsoft 365 Enterprise-Angeboten?
 
-Die Regierung von Microsoft 365 ist einzigartig konzipiert, um die Compliance-Anforderungen von US-Behörden in vier Schlüsselbereichen zu erfüllen:
+Microsoft 365 Government wurde speziell entwickelt, um die Complianceanforderungen von US-Regierungsbehörden in vier wichtigen Bereichen zu erfüllen:
 
-**Exklusive Community.** Government-Rechenzentren stehen nur Behörden oder Abteilungen oder kommerziellen Unternehmen zur Verfügung, die berechtigt sind, Informationen im Namen der US-Regierung zu speichern und zu verarbeiten.
+**Exklusive Community.** Rechenzentren der Regierung sind nur für Behörden oder Abteilungen verfügbar – oder kommerzielle Unternehmen, die autorisiert wurden, Im Auftrag der US-Regierung Informationen zu speichern und zu verarbeiten.
 
-**Geschirmte Mitarbeiter.** Der Zugriff auf den Kunden Inhalt Ihrer Organisation ist auf geschirmte Microsoft-Mitarbeiter beschränkt, die US-Bürger sind und erforderliche Hintergrundprüfungen bestanden haben.
-Drittanbieter Überwachungen. Die gesamte Infrastruktur wird von einem zertifizierten Auditor eines Drittanbieters überwacht, der einen Sicherheits Bewertungsbericht oder einen Bestätigungsbrief erstellt, der von Bundesbehörden zur Erteilung einer Autorisierung für den Betrieb (ATO) verwendet wird. 
+**Das angezeigte Personal.** Der Zugriff auf die Kundeninhalte Ihrer Organisation ist auf überprüfte Microsoft-Mitarbeiter beschränkt, die US-Amerikanische Bürger sind und die erforderlichen Hintergrundprüfungen bestanden haben.
+Überwachungen von Drittanbietern. Die Infrastruktur wird von einem zertifizierten Prüfer eines Drittanbieters geprüft, der einen Bericht zur Sicherheitsbewertung oder einen Nachweis zur Verfügung stellt, der von Bundesstellen verwendet wird, um eine Genehmigung für den Betrieb (ATO) ausstellen. 
 
-**Inhaltsspeicherung.** Die Daten werden in den Vereinigten Staaten von Amerika mit einer kompatiblen Infrastruktur gespeichert. In der folgenden Tabelle ist Microsoft 365 für Behörden Umgebungen und-Zusagen zusammengefasst.<br><br>
+**Inhaltsspeicherung.** Daten werden in den vereinigten Staaten mit konformer Infrastruktur gespeichert. In der folgenden Tabelle sind Umgebungen und Verpflichtungen von Microsoft 365 für Behörden zusammengefasst.<br><br>
 
 | Angebote | Verpflichtungen |
 |:----------|:----------------------------------|
-|Microsoft 365 Government gcc  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
-|Microsoft 365 Government gcc High  <br/> |FedRamp High, ITAR, DFARS, DISA SRG L4-Steuerelemente <br/> |
+|Microsoft 365 Government GCC  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
+|Microsoft 365 Government GCC High  <br/> |FedRamp High-, ITAR-, DFARS-, DISA SRG L4-Steuerelemente <br/> |
 |Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
-Weitere Informationen zur Microsoft-Sicherheits-und-Konformitäts Akkreditierung finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trustcenter/default.aspx) .  
+Weitere Informationen zur Microsoft Security and Compliance-Akkreditierung finden Sie im [Microsoft Trust Center. ](https://www.microsoft.com/trustcenter/default.aspx)  
 
-## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 staatliche Berechtigung und Validierung
+## <a name="microsoft-365-government-eligibility-and-validation"></a>Microsoft 365 Government – Berechtigung und Validierung
 
-Microsoft 365 Government steht berechtigten Regierungskunden und Nichtregierungsorganisationen zur Verfügung, die unterstützt werden, um kontrollierte Informationen zu halten oder zu verarbeiten. Die Zulassungskriterien für diese beiden Kundenkategorien sind in der Microsoft Government-Cloud konsistent.
+Microsoft 365 Government steht berechtigten Behördenkunden und nicht-staatlichen Organisationen zur Verfügung, die zum Halten oder Verarbeiten von kontrollierten Informationen unterstützt werden. Die Berechtigungskriterien für diese beiden Kategorien von Kunden sind in der Microsoft Government Cloud konsistent.
 
-Sowohl gcc-als auch gcc-High-Angebote stehen jedem Kunden zur Verfügung, der für die Microsoft Government Cloud geeignet ist, und die DoD-Umgebung dient ausschließlich dem US-Verteidigungsministerium. Dienstverfügbarkeit und Preis sind unterschiedlich, und gcc bleibt das Held-Angebot für alle Kunden, die nicht über FedRAMP hohe oder DoD-gesteuerte nicht klassifizierte Informationen (CUI) verfügen.
+Sowohl GCC- als auch GCC -High-Angebote sind für alle Kunden verfügbar, die für die Microsoft Government Cloud berechtigt sind, und die DoD-Umgebung ist für die exklusive Verwendung des US-Verteidigungsministeriums verfügbar. Verfügbarkeit und Preis des Diensts unterscheiden sich, und GCC bleibt das Heroangebot für alle Kunden, die nicht über FedRAMP High- oder DoD-kontrollierte nicht klassifizierte Informationen (CuI) halten.
 
-Ein berechtigter Regierungs Kunde wird durch einen folgenden definiert:
+Ein berechtigter Behördenkunde wird durch eine der folgenden Definiert:
 
-- Eine föderale Stelle, die als Büro, Büro, Agentur, Abteilung oder andere Entität der US-Regierung definiert ist
-- Eine Status/lokale Entität, die als eine der folgenden Definitionen definiert ist:
-    - Jede Agentur eines Staates oder einer lokalen Regierung in den USA
-    - Jedes beliebige U.S. County, Borough, Commonwealth, Stadt, Gemeinde, Stadt, Township, ein spezieller Zweck Distrikt oder eine andere ähnliche Art von staatlicher Instrumentalität, die durch die Gesetze des Kunden Staates festgelegt wurde und innerhalb der state's Jurisdiktion und geografischen Grenzen des Kunden liegt
-    - Der District of Columbia, das Commonwealth von Puerto Rico, Guam, Amerikanisch-Samoa, die amerikanischen Jungferninseln und die nördlichen Mariana Inseln
-- Eine Stammes Entität, definiert als eine staatlich anerkannte Stammes Entität, die für die Finanzierung und Dienstleistungen vom US-Innenministerium aufgrund ihres Status als Indianerstamm berechtigt ist, oder in Alaska, einem einheimischen Dorf oder einer regionalen nativen Corporation in Alaska
+- Eine Bundesbehörde, definiert als Büro, Büro, Agentur, Abteilung oder andere Entität der US-Regierung
+- Eine zustands-/lokale Entität, definiert als eine der folgenden:
+    - Jede Behörde eines Bundesstaats oder einer lokalen Regierung in den USA
+    - Alle US-Bundesstaaten, Usa, Stadt, Ort, Bezirk für besondere Zwecke oder eine ähnliche Art von staatlicher Instrumentität, die durch die Gesetze des Bundesstaats eines Kunden eingerichtet wurde und sich innerhalb der Gerichtsbarkeit und der geografischen Grenzen des Kunden befinden
+    - The District of Rico, the Vancouver of Puerto Rico, Guam, American Samoa, the United States Native Islands, and the Northern Mariana Islands
+- Eine Stammeseinheit, definiert als bundesanfeindete Stammeseinheit, die aufgrund ihres Status als "Indisch" oder, in Texas, einem nativen Ort oder einer Regional Native Corporation in Texas zur Unterstützung und Dienstleistungen des US-Innenministeriums berechtigt ist.
 
-Nichtstaatliche Organisationen, die über die folgenden Datentypen verfügen und die aufgeführten Beweise zur Verfügung stellen können, qualifizieren sich für den Microsoft Government Cloud Validation-Prozess:
+Nicht-Behörden-Organisationen, die über die folgenden Arten von Daten verfügen und die aufgeführten Nachweise bereitstellen können, qualifizieren sich für den Microsoft Government Cloud-Überprüfungsprozess:
 
-Eine kommerzielle private Entität mit Daten, die Vorschriften unterliegen. Zu den akzeptierten Datentypen der Regierung gehören:
-- Internationaler Waffen Verkehr (ITAR)
-- Kontrollierte nicht klassifizierte Informationen (CUI)
-- Department of Defense (DoD): nicht klassifizierte kontrollierte Nuklear Informationen (UCNI)
-- Department of Energy (DOE) UCNI
-- Informationen zum Strafrecht (CJI)
-- Daten des Department of Defense Impact Level
+Eine kommerzielle private Entität mit Daten, die gesetzlichen Bestimmungen unterliegen. Zu den akzeptierten Datentypen für Behörden gehören:
+- International Traffic in Arms (ITAR)
+- Kontrollierte nicht klassifizierte Informationen (CONTROLLED Unclassified Information, CUI)
+- Department of Defense (DoD) Unclassified Controlled UcNI (UCNI)
+- Department of Energy (DoE) UCNI
+- Informationen zu Straftaten (CJI)
+- Daten zur Auswirkungsstufe des Verteidigungsministeriums
 - Andere Datentypen, die Microsoft 365 Government erfordern
 
-Eine internationale Handels Entität kann qualifiziert werden, obwohl möglicherweise geregelte Daten erforderlich sind, um den Dienst über ihre US-Tochtergesellschaft zu erwerben.
+Eine internationale kommerzielle Entität kann in Frage kommen, obwohl regulierte Daten möglicherweise zum Kauf des Diensts über ihre US-Niederlassung erforderlich sind.
 
-Für den Zugriff auf Microsoft 365 Government-Angebote ist ein Nachweis der Mitgliedschaft in einer der oben aufgeführten Gruppen erforderlich.
+Für den Zugriff auf Microsoft 365 Government-Angebote ist ein Nachweis über die Mitgliedschaft in einer der oben aufgeführten Gruppen erforderlich.
 
-## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Welche Dienste und Funktionen stehen in den Microsoft 365 Government Cloud-Umgebungen zur Verfügung?
+## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Welche Dienste und Features sind in den Microsoft 365 Government-Cloudumgebungen verfügbar?
 
 Weitere Informationen zu den in Microsoft 365 Government verfügbaren Diensten finden Sie in den folgenden Ressourcen:
 
-- [Office 365 Beschreibung des Regierungs Diensts](office-365-us-government.md)
-- [Enterprise Mobility + Security für US Government Service Description](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender für Endpoint für US Government gcc High Customers](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Teams für Bereitstellungen von Government-gcc](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [Teams für hohe Bereitstellungen von öffentlichen gcc-Umgebungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Teams für Bereitstellungen von Government-DoD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [Outlook für IOS und Android in der Government Community Cloud](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Office 365 Government -Dienstbeschreibung](office-365-us-government.md)
+- [Enterprise Mobility + Security for US Government ( Dienstbeschreibung)](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Microsoft Defender for Endpoint für Kunden von US Government](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Teams für Behörden – Bereitstellungen von GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
+- [Teams für Behörden – GCC -Hochbereitstellungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams für Behörden – DoD-Bereitstellungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
+- [Outlook für iOS und Android in der Government Community Cloud](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power automatisieren US-Regierung](https://docs.microsoft.com/flow/us-govt)
-- [Microsoft 365 Government-Produktseite](https://www.microsoft.com/microsoft-365/government)
+- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft 365 Government –Produktseite](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365-Roadmap](https://www.microsoft.com/microsoft-365/roadmap)
 
-## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Welche Vertriebskanäle stehen für Microsoft 365 Government zur Verfügung?
+## <a name="what-sales-channels-are-available-for-microsoft-365-government"></a>Welche Vertriebskanäle sind für Microsoft 365 Government verfügbar?
 
-In der folgenden Tabelle sind die Optionen aufgeführt, die die Anforderungen jedes Segments erfüllen können.<br><br> 
+In der folgenden Tabelle sind die Optionen aufgeführt, die den Anforderungen der einzelnen Segmente entsprechen können.<br><br> 
 
 | Element | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
-|**SKU** |Gov for Government, GOVCON for Commercial |GCC – hoch |DOD | 
-|**Kanal** |EA (LSP), AOS-G, MPSA, Internet Direct, CSP |EA (LSP), AOS-G |EA |
+|**SKU** |Gov for Government, GOVCON für kommerzielle Zwecke |GCC – hoch |DOD | 
+|**Kanal** |EA (LSP), AOS-G, MPSA, Web Direct, CSP |EA (LSP), AOS-G |EA |
 
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Wie kaufe ich Microsoft 365 Government?
 
-Führen Sie die folgenden Schritte aus, um Microsoft 365 Government licenses zu erwerben:
+Führen Sie die folgenden Schritte aus, um Microsoft 365 Government-Lizenzen zu erwerben:
 
-1. [Füllen Sie das Formular aus, und senden](https://products.office.com/government/eligibility-validation) Sie es, um die Berechtigung Ihrer Organisation zu überprüfen.
-2. Arbeiten Sie mit dem Microsoft-Konto Team oder einem qualifizierten Partner zusammen, um eine Bestellung aufzugeben.
-Kunden können Microsoft 365 für US-Regierungslizenzen nur über ausgewählte Partner erwerben.
+1. [Füllen Sie das Formular aus,](https://products.office.com/government/eligibility-validation) und übermitteln Sie es, um die Berechtigung Ihrer Organisation zu überprüfen.
+2. Arbeiten Sie mit dem Microsoft-Kontoteam oder einem qualifizierten Partner zusammen, um eine Bestellung zu bestellen.
+Kunden können Microsoft 365 for US Government-Lizenzen nur über ausgewählte Partner erwerben.
 
-**Sprachdienstleister gcc und gcc hoch (+ 500 Sitze)**
+**LSPs GCC und GCC High (+500 Plätze)**
 
 - CDW
-- Connection (ehemals PC-Verbindung)
+- Verbindung (früher PC-Verbindung)
 - Dell
-- Hewlett Packard
-- Einblick
-- Minburn-Technologie Gruppe
-- PCM (besitzt auch en Pointe Technologies)
-- Shi
+- 1. 100.
+- Insight
+- Minburn Technology Group
+- PCM (besitzt auch En Pointe Technologies)
+- 15.
 - SoftwareOne
 - Softchoice
-- Zones International
+- Zonen international
 
-**AOS-G Partners gcc und gcc High (unter 500 Sitze)**
+**AOS-G-Partner GCC und GCC High (unter 500 Plätze)**
 
 - Agile IT
-- Angewandte Informationswissenschaften (AIS)
+- Applied Information Science (AIS)
 - Integrierte C3-Lösungen
-- MySQL gewonnnen
-- DOX Electronics, Inc.
-- F1-Lösungen, Inc.
+- Carahsoft
+- Dox Electronics, Inc.
+- F1 Solutions, Inc.
 - Vier Punkte
 - KTL Solutions, Inc.
-- Abflug, LLC
-- Planet-Technologien
-- Ruhige Fachleute
-- Summit 7-Systeme
+- LiftOff, LLC
+- Planetentechnologien
+- Stille Experten
+- 7. Februar 2013
 
-**Hinweis:** Alle Microsoft Licensing Solution Provider (Sprachdienstleister) in der vorstehenden Liste können sowohl gcc als auch gcc High through Enterprise Agreement (EA) zum Erstellen des Kunden Preis Blatts (CPS) abwickeln. Organisationen, die sich nicht für EA qualifizieren, können gcc-Lizenzen über die aufgeführten AOS-G-Partner oder das CSP-Partnerprogramm erwerben.
+**Hinweis:** Alle Microsoft-Lizenzierungslösungsanbieter (LSPs) in der vorstehenden Liste können sowohl GCC als auch GCC High über Konzernvertrag (EA) transaktivieren, um das Kundenpreisblatt (CUSTOMER Price Sheet, CPS) zu erstellen. Organisationen, die nicht für EA berechtigt sind, können #A0 über das aufgelistete AOS-G-Partner- oder #A1 erwerben.
 
-**Wenn Sie mit einem CSP-Partner zusammenarbeiten, wenden Sie sich an diesen oder [Suchen Sie einen CSP](https://www.microsoft.com/solution-providers/home).**
+**Wenn Sie mit einem #A0 zusammenarbeiten, wenden Sie sich an den [CSP, oder suchen Sie einen CSP.](https://www.microsoft.com/solution-providers/home)**
 
-## <a name="what-trials-are-available"></a>Welche Tests stehen zur Verfügung?
+## <a name="what-trials-are-available"></a>Welche Testversionen sind verfügbar?
 
-- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Kunden können die Schaltfläche jetzt testen im oberen rechten Teil der EMS-Seite auswählen, um eine Gated Sign-up-Prozess im Office-Commerce-Portal durchlaufen, die Sie an das Azure Active Directory (AAD)-Portal weitergeleitet.
-- [Office 365.](https://aka.ms/gcctrial) Ein kostenloser Test mit einem Monat steht ausschließlich für US-Regierungsorganisationen zur Verfügung. Dies gilt nur für gcc und schließt öffentliche Auftragnehmer aus.  
-- Microsoft bietet keine Testversionen von Office 365 gcc für kommerzielle Kunden an, und es gibt keine Testversionen von gcc High oder DoD.
+- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Kunden können die Schaltfläche "Jetzt testen" im oberen rechten Bereich der EMS-Seite auswählen, um einen abschr nkten Anmeldevorgang im Office-Commerce-Portal zu durchgehen, der sie an das Azure Active Directory (AAD)-Portal weiterreicht.
+- [Office 365.](https://aka.ms/gcctrial) Eine kostenlose einmonatige Testversion ist exklusiv für US-Regierungorganisationen verfügbar. Dies gilt nur für GCC und schließt Vertragsnehmer aus.  
+- Microsoft bietet keine Testversionen von Office 365 GCC für kommerzielle Kunden an, und es gibt keine Testversionen von GCC High oder DoD.
 
 ## <a name="where-can-i-learn-more"></a>Weitere Informationen
 
-Lesen Sie die folgenden Ressourcen, um weitere Informationen zu Microsoft 365 Government zu erhalten.
+Weitere Informationen zu Microsoft 365 Government finden Sie in den folgenden Ressourcen.
 
-- [Office 365 Beschreibung des Regierungs Diensts](office-365-us-government.md)
-- [Enterprise Mobility + Security für US Government Service Description](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender für Endpoint für US Government gcc High Customers](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Teams für Bereitstellungen von Government-gcc](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [Teams für hohe Bereitstellungen von öffentlichen gcc-Umgebungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Teams für Bereitstellungen von Government-DoD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [Outlook für IOS und Android in der Government Community Cloud](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Office 365 Government -Dienstbeschreibung](office-365-us-government.md)
+- [Enterprise Mobility + Security for US Government ( Dienstbeschreibung)](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Microsoft Defender for Endpoint für Kunden von US Government](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Teams für Behörden – Bereitstellungen von GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
+- [Teams für Behörden – GCC -Hochbereitstellungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams für Behörden – DoD-Bereitstellungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
+- [Outlook für iOS und Android in der Government Community Cloud](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
 - [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power automatisieren US-Regierung](https://docs.microsoft.com/flow/us-govt)
+- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
 - [Microsoft 365-Roadmap](https://www.microsoft.com/microsoft-365/roadmap)
-- [Microsoft 365 Government-Produktseite](https://www.microsoft.com/microsoft-365/government)
-- [Microsoft Government Industry-Seite](https://www.microsoft.com/enterprise/government)
-- [Microsoft IT Tech-Community – öffentlicher Sektor](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
-- [Azure-Regierung](https://azure.microsoft.com/global-infrastructure/government/)
+- [Microsoft 365 Government –Produktseite](https://www.microsoft.com/microsoft-365/government)
+- [Seite "Microsoft Government Industry"](https://www.microsoft.com/enterprise/government)
+- [Microsoft IT Tech Community – Öffentlicher Sektor](https://techcommunity.microsoft.com/t5/Public-Sector/ct-p/PublicSector)
+- [Azure Government](https://azure.microsoft.com/global-infrastructure/government/)
