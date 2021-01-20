@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Onlinelösung für projektportfoliomanagement (PPM) und alltägliche Arbeit. Project Online, das über Office 365 zur Verfügung gestellt wird, bietet leistungsstarke Projektmanagementfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolioinvestitionen – von nahezu überall auf fast jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: 961aa648ccd5cf0f143016baddf659ae9d5082b4
+ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794971"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49905148"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -38,7 +38,7 @@ Project für das Web ist das neueste Angebot von Microsoft für cloudbasiertes A
 
 Project für das Web baut auf der Microsoft Power Platform auf. Die Power Platform besteht aus PowerApps, Power Automate, Power BI und Microsoft Dataverse. Project für die Webdaten wird in Microsoft Dataverse gespeichert. 
 
-Project für das Web ist über drei Abonnements verfügbar: Project Plan 1, Project Plan 3 und Project Plan 5. Im Abschnitt ["Projekt für Webfeatures"](#project-for-the-web-features) aufgeführte Features interagieren nur mit Daten im Project für den Webdatenspeicher.
+Project für das Web ist über drei Abonnements verfügbar: Project Plan 1, Project Plan 3 und Project Plan 5. In Project [for the Web aufgeführte Features interagieren](#project-for-the-web-features) nur mit Daten im Project für den Webdatenspeicher.
 
 ### <a name="project-online"></a>Microsoft Project Online
  
@@ -46,7 +46,7 @@ Project Online ist eine flexible Onlinelösung für Project Portfolio Management
 
 Project Online baut auf der SharePoint-Plattform auf und speichert Daten im SharePoint-Datenspeicher.
 
-Project Online ist über zwei Abonnements verfügbar: Project Plan 3 und Project Plan 5. Im Abschnitt ["Project Online-Features"](#project-online-features) aufgeführte Features interagieren nur mit Daten im Project Online SharePoint-Datenspeicher.
+Project Online ist über zwei Abonnements verfügbar: Project Plan 3 und Project Plan 5. In Project Online aufgeführte [Features interagieren](#project-online-features) nur mit Daten im Project Online SharePoint-Datenspeicher.
 
 Die Teammitgliedsfunktionen für Project Online stehen über ein Project Online Essentials- oder Project Plan 1-Abonnement zur Verfügung. Project Online Essentials ist ein *Add-On-Abonnement* für Teammitglieder für Kunden mit Project Plan 3- oder Project Plan 5-Abonnements. Project Online Essentials- und Project Plan 1-Abonnements bieten Teammitgliedern eine Weboberfläche zum Ausführen von Vorgangs- und Zeitaktualisierungen für Projekte, die in Project Online verwaltet werden.
 
@@ -274,6 +274,14 @@ Die Projekt roadmap erfordert die Verwendung von Power Automate, das als Teil Ih
 Project für das Web erfordert die Verwendung von Microsoft Dataverse zum Speichern seiner Daten. Eine Microsoft Dataverse-Datenbank wird als Teil Ihres Projektabonnements bereitgestellt. Die Rechte für die Microsoft Dataverse-Funktionalität sind auf das Speichern und Zugreifen auf Daten zur Unterstützung von Project für das Web beschränkt. Microsoft Dataverse-Funktionalität, die  von Project benötigt wird, wird im Abschnitt **"Apps"** im Microsoft 365 Admin Center als Dienstplan für den gemeinsamen Datendienst für Project angezeigt.
 
 Für Projektkunden mit fünf (5) oder mehr Project für die Weblizenzen kann Project für web Kunden in Power Platform Production- und Sandkastenumgebungen bereitstellen.
+
+| Kapazität enthalten/fällig                                      | Projekt P1 | Projekt P3 | Projekt P5 |
+|--------------------------------------------------------------------|------------|------------|------------|
+| Dataverse (ehemals Common Data Service)-Datenbank: Enthalten/Mandant | 3 GB        | 5 GB        | 5 GB        |
+| Dataverse-Datenbank: Accrued/User Subscription License (USL)        | 50 MB       | 250 MB      | 250 MB      |
+| Dataverse Log: Included/tenant                                     | 2 GB        | 2 GB        | 2 GB        |
+| Dataverse-Datei: Enthalten/Mandant                                    | 20 GB       | 20 GB       | 20 GB       |
+| Dataverse-Datei: Accrued/USL                                        | 400 MB      | 2 GB        | 2 GB        |
 
 ### <a name="data-backup-and-retention"></a>Datensicherung und -aufbewahrung
 
