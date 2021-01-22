@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Microsoft 365 Government und beschreibt Kaufoptionen.
-ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878668"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919758"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government – Kauf
 
@@ -21,17 +21,17 @@ Als Reaktion auf die einzigartigen und sich ständig weiterentwickelnden Anforde
   
 ## <a name="whats-microsoft-365-government"></a>Was ist Microsoft 365 Government?
 
-Microsoft 365 Government ist eine Reihe von Produktivitäts-, Sicherheits- und Mobilitäts-Cloud-Softwarefunktionen, die auf us-amerikanische Regierungsbehörden und Vertragsnehmer zugeschnitten sind, die für kontrollierte, nicht klassifizierte Informationen unterstützt werden. Microsoft 365 Government wird über einzigartige Umgebungen angeboten, die die strengsten Complianceanforderungen erfüllen. Microsoft 365 Government ist ein Cloudangebot für Kunden der US-Regierung, das die Features und Funktionen der kommerziellen Cloud-Enterprise-Angebote von Microsoft so genau wie möglich erfüllt.
+Microsoft 365 Government ist eine Reihe von Produktivitäts-, Sicherheits- und Mobilitäts-Cloud-Softwarefunktionen, die auf us-amerikanische Regierungsbehörden und Vertragsnehmer zugeschnitten sind, die für kontrollierte, nicht klassifizierte Informationen unterstützt werden. Microsoft 365 Government wird über einzigartige Umgebungen angeboten, die die strengsten Complianceanforderungen erfüllen. Microsoft 365 Government ist ein Cloudangebot für Us Government-Kunden, das die Features und Funktionen der kommerziellen Cloud -Enterprise-Angebote von Microsoft so eng wie möglich erfüllt.
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Was ist der Wert von Microsoft 365 Government?
 
-Microsoft 365 Government hilft Führungskräften und Mitarbeitern von US-Regierungsbehörden, jederzeit und überall produktiv zu sein, indem die mobile Produktivität und die sichere Zusammenarbeit bei der Einhaltung von Vorschriften durch Behörden ermöglicht werden, die gesetzlichen Datenkonformitätsanforderungen effektiv zu verwalten. Die folgende Tabelle enthält Beispiele für wichtige Behördenrollen.<br><br>
+Microsoft 365 Government hilft Führungskräften und Mitarbeitern von US-Regierungsbehörden, jederzeit und überall produktiv zu sein, indem sie die mobile Produktivität und die sichere Zusammenarbeit bei der Einhaltung von Vorschriften gewährleisten, indem Behörden die gesetzlichen Datenkonformitätsanforderungen effektiv verwalten. Die folgende Tabelle enthält Beispiele für wichtige Behördenrollen.<br><br>
  
 | Regierungsleiter können... | Mitarbeiter der Regierung können... | Außendienstmitarbeiter können... |
 |:-----|:-----|:-----|:-----|:-----|
-|Steigern des öffentlichen Vertrauens durch verbesserte Kommunikation und Transparenz  <br/> |Verbessern von Citizen Services durch bessere Zusammenarbeit <br/> | Verbessern der Qualität von Diensten durch mobilen Zugriff auf die benötigten Informationen, wenn mitarbeiter sie benötigen  |
+|Steigern des öffentlichen Vertrauens durch verbesserte Kommunikation und Transparenz  <br/> |Verbessern von Citizen Services durch bessere Zusammenarbeit <br/> | Verbessern der Qualität von Diensten durch mobilen Zugriff auf die benötigten Informationsfeldmitarbeiter, wenn diese benötigt werden  |
 |Verbessern des Zugriffs auf Einblicke, die Bei der Gestaltung von Richtlinien- und Budgetentscheidungen helfen können  <br/> |Verbessern sie die agenturübergreifende Kommunikation.  <br/> |Ermöglichen der Zusammenarbeit und Wissensfreigabe, um Probleme schnell zu identifizieren und zu beheben  <br/> |
-|Bleiben Sie auf dem Laufenden und mit Mitarbeitern und Bürgern, im Büro oder unterwegs  <br/> |Tieferes Engagement mit der öffentlichen Öffentlichen Zusammenarbeit zur Verbesserung der Mitarbeiterbindungsraten  <br/> | Aufbau eines stärkeren Community-Gefühls über verschiedene Standorte hinweg  <br/> |
+|Bleiben Sie auf dem Laufenden und mit Mitarbeitern und Bürgern, im Büro oder unterwegs  <br/> |Tiefere Einbindung in die öffentlichen Sfähigkeiten zur Verbesserung der Mitarbeiterbindungsraten  <br/> | Aufbau eines stärkeren Community-Gefühls über verschiedene Standorte hinweg  <br/> |
 |Sicherstellen einer us-government-kompatiblen Lösung, die Kosten senken und Agilität verbessern kann  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>Was unterscheidet Microsoft 365 Government von Microsoft 365 Enterprise-Angeboten?
@@ -68,11 +68,11 @@ Ein berechtigter Behördenkunde wird durch eine der folgenden Definiert:
     - The District of Rico, the Vancouver of Puerto Rico, Guam, American Samoa, the United States Native Islands, and the Northern Mariana Islands
 - Eine Stammeseinheit, definiert als bundesanfeindete Stammeseinheit, die aufgrund ihres Status als "Indisch" oder, in Texas, einem nativen Ort oder einer Regional Native Corporation in Texas zur Unterstützung und Dienstleistungen des US-Innenministeriums berechtigt ist.
 
-Nicht-Behörden-Organisationen, die über die folgenden Arten von Daten verfügen und die aufgeführten Nachweise bereitstellen können, qualifizieren sich für den Microsoft Government Cloud-Überprüfungsprozess:
+Nicht-Behörden-Organisationen, die die folgenden Arten von Daten enthalten und die aufgeführten Nachweise bereitstellen können, qualifizieren sich für den Microsoft Government Cloud-Überprüfungsprozess:
 
 Eine kommerzielle private Entität mit Daten, die gesetzlichen Bestimmungen unterliegen. Zu den akzeptierten Datentypen für Behörden gehören:
 - International Traffic in Arms (ITAR)
-- Kontrollierte nicht klassifizierte Informationen (CONTROLLED Unclassified Information, CUI)
+- Kontrollierte nicht klassifizierte Informationen (Controlled Unclassified Information, CUI)
 - Department of Defense (DoD) Unclassified Controlled UcNI (UCNI)
 - Department of Energy (DoE) UCNI
 - Informationen zu Straftaten (CJI)
@@ -132,18 +132,32 @@ Kunden können Microsoft 365 for US Government-Lizenzen nur über ausgewählte P
 
 **AOS-G-Partner GCC und GCC High (unter 500 Plätze)**
 
-- Agile IT
-- Applied Information Science (AIS)
+- Accenture Federal Services, LLC
+- Agile IT, Inc.
+- Applied Information Science, Inc.
 - Integrierte C3-Lösungen
+- CACI
 - Carahsoft
-- Dox Electronics, Inc.
-- F1 Solutions, Inc.
-- Vier Punkte
+- CGI Federal Inc.
+- Dox Electronics Inc.
+- F1 Solutions Inc.
+- Four Points Technology, LLC
+- General Dynamics Information Technology, Inc.
+- Imager Software, Inc. d.b.a ISC
+- Jackpine
+- 10
 - KTL Solutions, Inc.
 - LiftOff, LLC
-- Planetentechnologien
-- Stille Experten
+- Northrop
+- Novetta
+- Planet Technologies, Inc.
+- Quiet Professionals, LLC
+- Red River
+- SAIC
+- Smartronix
 - 7. Februar 2013
+- TechTrend, Inc.
+- Vexcel
 
 **Hinweis:** Alle Microsoft-Lizenzierungslösungsanbieter (LSPs) in der vorstehenden Liste können sowohl GCC als auch GCC High über Konzernvertrag (EA) transaktivieren, um das Kundenpreisblatt (CUSTOMER Price Sheet, CPS) zu erstellen. Organisationen, die nicht für EA berechtigt sind, können #A0 über das aufgelistete AOS-G-Partner- oder #A1 erwerben.
 
@@ -151,7 +165,7 @@ Kunden können Microsoft 365 for US Government-Lizenzen nur über ausgewählte P
 
 ## <a name="what-trials-are-available"></a>Welche Testversionen sind verfügbar?
 
-- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Kunden können die Schaltfläche "Jetzt testen" im oberen rechten Bereich der EMS-Seite auswählen, um einen abschr nkten Anmeldevorgang im Office-Commerce-Portal zu durchgehen, der sie an das Azure Active Directory (AAD)-Portal weiterreicht.
+- [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Kunden können im oberen rechten Bereich der EMS-Seite die Schaltfläche "Jetzt testen" auswählen, um einen abschr nkten Anmeldevorgang im Office-Commerce-Portal zu durchgehen, der sie an das Azure Active Directory (AAD)-Portal weiterreicht.
 - [Office 365.](https://aka.ms/gcctrial) Eine kostenlose einmonatige Testversion ist exklusiv für US-Regierungorganisationen verfügbar. Dies gilt nur für GCC und schließt Vertragsnehmer aus.  
 - Microsoft bietet keine Testversionen von Office 365 GCC für kommerzielle Kunden an, und es gibt keine Testversionen von GCC High oder DoD.
 
