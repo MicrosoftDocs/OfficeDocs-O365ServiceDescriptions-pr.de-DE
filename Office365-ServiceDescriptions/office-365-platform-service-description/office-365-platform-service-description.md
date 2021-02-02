@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 und Office 365 stehen in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Plänen suchen, einschließlich Exchange Online-Plänen, wird in diesem Artikel gezeigt, welche Features in jedem dieser Pläne enthalten sind.
-ms.openlocfilehash: 5e0cbefa7b1bbc4e89f8b32086fc4e4534d3b5f3
-ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
+ms.openlocfilehash: a9aaa0e5e6ebcf4196ac89926cb88f30daaf67f0
+ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871148"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50072288"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Microsoft 365- und Office 365-Plattformdienstbeschreibung
 
@@ -104,6 +104,7 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-Ons, die Sie f�
 |Microsoft Planner  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft PowerApps  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> | 
 |Microsoft Project für Web <sup>21</sup> <br/> |Ja <br/> |Nein <br/>|Ja <br/> |Ja <br/> |Ja <br/> |Ja <br/> | Ja <br/> |
+|Microsoft SharePoint Syntex  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft StaffHub  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Microsoft Stream  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |Ja<sup>8</sup> <br/> |
