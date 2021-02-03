@@ -1,5 +1,5 @@
 ---
-title: Beschreibung des SharePoint -Syntex-Diensts
+title: SharePoint Syntex-Dienstbeschreibung
 ms.author: office365servicedesc
 author: pamelaar
 ms.audience: ITPro
@@ -7,14 +7,14 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: SharePoint Syntex in Microsoft 365 verwendet erweiterte künstliche Intelligenz (KI) und maschinelles Lernen, um menschliches Fachwissen zu verstärken, die Inhaltsverarbeitung zu automatisieren und Inhalte in Wissen zu transformieren.
-ms.openlocfilehash: da40dc93729e97740d7e3e3cc367ca99b9e63658
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
+ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072447"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50084728"
 ---
-# <a name="sharepoint-syntex-service-description"></a>Beschreibung des SharePoint -Syntex-Diensts 
+# <a name="sharepoint-syntex-service-description"></a>SharePoint Syntex-Dienstbeschreibung 
 
 SharePoint Syntex in Microsoft 365 verwendet erweiterte künstliche Intelligenz (KI) und maschinelles Lernen, um menschliches Fachwissen zu verstärken, die Inhaltsverarbeitung zu automatisieren und Inhalte in Wissen zu transformieren.
 
