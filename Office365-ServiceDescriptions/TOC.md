@@ -1,7 +1,7 @@
 
 # [Microsoft 365- und Office 365-Dienstbeschreibungen](office-365-service-descriptions-technet-library.md)
 ## [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)
-### [Optionen zum Office 365-Plan](office-365-platform-service-description/office-365-plan-options.md)
+### [Microsoft 365- und Office 365-Planoptionen](office-365-platform-service-description/office-365-plan-options.md)
 ### [Systemanforderungen für Office 365](office-365-platform-service-description/office-365-system-requirements.md)
 ### [Security & Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Microsoft 365 E5-Suite – Funktionen](office-365-platform-service-description/office-365-suite-features.md)
@@ -69,6 +69,8 @@
 ## [OneDrive-Dienstbeschreibung](onedrive-for-business-service-description.md)
 ## [SharePoint-Dienstbeschreibung](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [SharePoint-Beschränkungen](sharepoint-online-service-description/sharepoint-online-limits.md)
+## [SharePoint Syntex-Dienstbeschreibung](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
+### [SharePoint Syntex-Features](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Skype for Business Online-Features](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Skype for Business Online-Beschränkungen](skype-for-business-online-service-description/skype-for-business-online-limits.md)
