@@ -10,65 +10,66 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: 1964e342d53589d2b180b5e5dbe6dddc9eaedd00
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: Die in diesem Thema aufgeführten Features sind eine Sammlung webbasierter Tools, mit deren Hilfe Sie auf vielen Geräten und mehreren Office 365-Diensten sicher zusammenarbeiten und kommunizieren können. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
+ms.openlocfilehash: 17c6c5eca7023bc0fc1e43671841f7a6c716629e
+ms.sourcegitcommit: f98239a5631ba312d63753ffce83a7413a143ee5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293811"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50122185"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 E5-Suite – Funktionen
 
-Die in diesem Thema aufgeführten Features sind eine Sammlung von webbasierten Tools, die Sie bei der Zusammenarbeit und der sicheren Kommunikation über zahlreiche Geräte und mehrere Office 365 Dienste unterstützen. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
+Die in diesem Thema aufgeführten Features sind eine Sammlung webbasierter Tools, mit deren Hilfe Sie auf vielen Geräten und mehreren Office 365-Diensten sicher zusammenarbeiten und kommunizieren können. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
   
+## <a name="delve"></a>Delve
+
+Mit Delve können Benutzer in Microsoft 365 basierend auf personalisierten Einblicken nach Inhalten suchen und diese entdecken. Delve ist die erste Lösung auf Grundlage von Office Graph. Weitere Informationen zu Delve finden Sie unter [Was ist Delve?](https://go.microsoft.com/fwlink/?LinkId=511463).
+
 ## <a name="microsoft-bookings"></a>Microsoft Bookings
 
-Bei Microsoft-Buchungen handelt es sich um eine Online-und Mobile App für Unternehmen, die Dienste für Kunden auf Termin Basis bereitstellen möchten. Beispiele für solche Unternehmen sind Friseursalons, Dental Büros, Spas, Anwaltskanzleien, Finanzdienstleister, Berater, Ärzte im Gesundheitswesen, Bildungseinrichtungen und Autowerkstätten. Microsoft-Buchungen stehen Kunden in den USA und Kanada zur Verfügung, die über ein Microsoft 365 for Business-Abonnement verfügen.
+Microsoft Bookings ist eine online und mobile App für Unternehmen, die Dienstleistungen für Kunden auf Terminbasis bereitstellen möchten. Beispiele für solche Unternehmen sind Frisöre, Filialen, Spas, Anwaltskanzleien, Finanzdienstleister, Berater, Gesundheitseinrichtungen, Bildungseinrichtungen und Autowerken. Microsoft Bookings steht Kunden in den USA und Kanada zur Verfügung, die über ein Microsoft 365 Business-Abonnement verfügen.
   
-Weitere Informationen zu Microsoft-Buchungen finden Sie unter [Veröffentlichen Ihres Geschäftskalenders online mit Microsoft-Buchungen](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d).
+Weitere Informationen zu Microsoft Bookings finden Sie unter "Veröffentlichen Ihres [Geschäftskalenders online mit Microsoft Bookings".](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)
 
-## <a name="microsoft-briefing-email"></a>Microsoft Briefing-e-Mail
+## <a name="microsoft-briefing-email"></a>Microsoft Briefing-E-Mail
 
-Die Briefing-e-Mail hilft Benutzern, jeden Tag optimal zu nutzen:
+Die Briefing-E-Mail hilft Benutzern dabei, jeden Tag zu nutzen, indem sie ihnen dabei hilft:
 
-* Bereiten Sie sich auf Besprechungen vor, indem Sie zugehörige Vorgänge oder relevante Dokumente anzeigen.
-* Verwalten von in e-Mails identifizierten Aufgaben, die möglicherweise ausstehen.
-* Verbessern Sie den Fokus Zeit gemäß der Buchungszeit im Kalender und in den Muting-Benachrichtigungen.
+* Bereiten Sie sich auf Besprechungen vor, indem Sie verwandte Aufgaben oder relevante Dokumente anzeigen.
+* Verwalten Von E-Mails identifizierte Aufgaben, die möglicherweise ausstehen.
+* Nutzen Sie die Fokuszeit, indem Sie die Zeit im Kalender buchen und Benachrichtigungen stummschalten.
 
-Die e-Mail-Anweisung wird automatisch allen Benutzern von Exchange Online bereitgestellt. Weitere Informationen finden Sie in der [Übersicht über die Briefing-e-Mail](https://docs.microsoft.com/Briefing/be-overview).
+Briefing-E-Mails werden automatisch für alle Benutzer von Exchange Online bereitgestellt. Weitere Informationen finden Sie in der Übersicht über [Briefing-E-Mails.](https://docs.microsoft.com/Briefing/be-overview)
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Mit Microsoft Power Automation können Sie Workflows anwendungsübergreifend automatisieren. Sie können Flow verwenden, um E-Mails und Chatwarnungen zu verbinden, Dateien zwischen Anwendungen zu synchronisieren, Dateien von einem Dienst zu einem anderen zu kopieren, Daten aus einer App zu erfassen und sie in einer anderen zu speichern usw. Um Ihnen den Einstieg zu erleichtern, sind Vorlagen verfügbar. Weitere Informationen zu Fluss Funktionen und deren Verwendung finden Sie auf der [Power Automation-Website](https://preview.flow.microsoft.com/).
+Mit Microsoft Power Automate können Sie Workflows anwendungsübergreifend automatisieren. Sie können Flow verwenden, um E-Mails und Chatwarnungen zu verbinden, Dateien zwischen Anwendungen zu synchronisieren, Dateien von einem Dienst zu einem anderen zu kopieren, Daten aus einer App zu erfassen und sie in einer anderen zu speichern usw. Um Ihnen den Einstieg zu erleichtern, sind Vorlagen verfügbar. Weitere Informationen zu Denkfunktionen und deren Verwendung finden Sie auf der [Power Automate-Website.](https://preview.flow.microsoft.com/)
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Mit Microsoft Forms können Sie schnell und einfach benutzerdefinierte Quiz, Umfragen, Fragebögen, Registrierungen und vieles mehr erstellen. Wenn Sie ein Quiz oder ein Formular erstellen, können Sie andere dazu einladen, über einen Webbrowser darauf zu antworten, auch auf mobilen Geräten. Wenn Ergebnisse übermittelt werden, können Sie integrierte Analysen verwenden, um die Antworten auszuwerten. Formulardaten, z. B. Quizergebnisse, können einfach zur weiteren Analyse oder Bewertung nach Excel exportiert werden. Weitere Informationen finden Sie unter [Was ist Microsoft Forms?](https://support.office.com/forms).
+Mit Microsoft Forms können Sie schnell und einfach benutzerdefinierte Quizfragen, Umfragen, Fragebögen, Registrierungen und vieles mehr erstellen. Wenn Sie ein Quiz oder ein Formular erstellen, können Sie andere dazu einladen, über einen Webbrowser darauf zu antworten, auch auf mobilen Geräten. Wenn Ergebnisse übermittelt werden, können Sie integrierte Analysen verwenden, um die Antworten auszuwerten. Formulardaten, z. B. Quizergebnisse, können einfach zur weiteren Analyse oder Bewertung nach Excel exportiert werden. Weitere Informationen finden Sie unter [Was ist Microsoft Forms?](https://support.office.com/forms)
   
 ## <a name="microsoft-graph-api"></a>Microsoft Graph-API
 
 Verwenden Sie die Microsoft Graph-API zum schnellen Erstellen von App, die über einen einzelnen Endpunkt Zugriff auf eine Vielzahl von Ressourcen, Beziehungen und Daten haben: https://graph.microsoft.com. Sie können zum Beispiel Dashboards, Workflows und Apps erstellen, die Daten für Ihre Organisation abrufen. Weitere Informationen finden Sie in der [Microsoft Graph-Dokumentation](https://go.microsoft.com/fwlink/?linkid=849595).
   
-## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
+## <a name="microsoft-lists"></a>Microsoft Lists
 
-MyAnalytics bietet Einblicke in zwei der wichtigsten Faktoren in Ihrer persönlichen Produktivität: wie Sie Ihre Zeit verbringen und mit wem Sie Sie verbringen. MyAnalytics schaut sich Ihre täglichen Arbeitsmuster an, sucht nach Bereichen, die von Ihrer Aufmerksamkeit profitieren könnten, und bietet Ihnen die Tools, mit denen Sie Ihre Zeit besser nutzen können. Weitere Informationen finden Sie unter [Microsoft myAnalytics](https://products.office.com/business/myanalytics-personal-analytics) und [Microsoft myAnalytics für Administratoren](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins).
-  
+Microsoft Lists ist eine Microsoft 365-App, mit der Sie Informationen nachverfolgen und ihre Arbeit organisieren können. Listen sind einfach, intelligent und flexibel, sodass Sie über das, was für Ihr Team am wichtigsten ist, auf dem Besten bleiben können. Nachverfolgen von Problemen, Ressourcen, Routinen, Kontakten, Inventaren und mehr mithilfe anpassbarer Ansichten und intelligenter Regeln, um alle Benutzer zu benachrichtigt und synchron zu halten. Mit fertigen Vorlagen können Sie Schnelllisten online, in unserer neuen mobilen App oder in Microsoft Teams starten. Da es Teil von Microsoft 365 ist, können Sie sich auf unternehmensbereite Sicherheit und Compliance verlassen.
+
+Weitere Informationen finden Sie unter:
+
+* [Ressourcencenter **für öffentliche Microsoft Lists**](https://aka.ms/MSLists)
+* [Öffentliches **Microsoft Lists Adoption Center**](https://aka.ms/ListsAdoption)
+
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
 Microsoft Planner ist ein Tool, mit dem Benutzer die Teamarbeit visuell organisieren können. Teams können neue Pläne erstellen, Aufgaben organisieren und zuweisen, Dateien freigeben, kommunizieren, woran sie gerade arbeiten, Termine festlegen und Status aktualisieren. Microsoft Planner bietet außerdem die Möglichkeit, Dokumente mit bestimmten Aufgaben zu verknüpfen, diese gemeinsam zu bearbeiten und Gespräche zu Aufgaben zu führen. Weitere Informationen finden Sie in der [Einführung in Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
   
-## <a name="microsoft-powerapps"></a>Microsoft PowerApps
+## <a name="microsoft-power-apps"></a>Microsoft PowerApps
 
-Microsoft PowerApps ist ein Enterprise-Dienst, der Sie beim schnellen Erstellen, Integrieren und Freigeben von Apps unterstützt, die auf allen Geräten funktionieren. Mit PowerApps können Sie integrierte oder von Ihrem Unternehmen erstellte Verbindungen verwenden, um Ihre APP mit Cloud und lokalen Diensten zu verbinden, einschließlich Microsoft 365 und Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, Oracle-Datenbanken und vielem mehr. Sie können Ihre PowerApps problemlos für Kollegen freigeben, indem Sie einfach eine E-Mail-Adresse eingeben. Weitere Informationen hierzu finden Sie auf der Microsoft-Website zu [PowerApps](https://powerapps.microsoft.com/).
-
-## <a name="microsoft-project-for-the-web"></a>Microsoft Project für das Internet
-
-Project für das Internet ist das neueste Microsoft-Angebot für Cloud-basierte Arbeit und Projektmanagement. Project für das Internet bietet einfache, leistungsstarke Funktionen zur Verwaltung der Arbeit, um die meisten Anforderungen und Rollen zu erfüllen. Projektmanager und Teammitglieder können Project für das Internet verwenden, um Arbeit beliebiger Größe zu planen und zu verwalten. Weitere Informationen hierzu finden Sie auf der [Microsoft Project-Website](https://aka.ms/MicrosoftProject).
-  
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Microsoft StaffHub ist eine cloudbasierte Anwendung, in der Mitarbeiter und deren Vorgesetzte ihre mobilen Geräte verwenden können, um Zeitpläne zu verwalten und in Kontakt zu bleiben. Mitarbeiter können StaffHub verwenden, um Abwesenheitszeiten anzufordern, Schichten zu tauschen und mit anderen Mitarbeitern zu kommunizieren. Mitarbeiter können Nachrichten direkt untereinander oder mit dem gesamten Team austauschen. Vorgesetzte können StaffHub verwenden, um Nachrichten zu senden, Zeitpläne zu erstellen und dem Team Neuigkeiten oder Ankündigungen über das Unternehmen zu senden. Weitere Informationen zu StaffHub finden Sie auf der Microsoft [StaffHub-Website](https://staffhub.office.com/) und im [Microsoft 365-Team Blog](https://go.microsoft.com/fwlink/?linkid=2143889).
+Microsoft Power Apps ist ein Unternehmensdienst, mit dem Sie Apps, die auf jedem Gerät funktionieren, schnell erstellen, integrieren und freigeben können. Mit Power Apps können Sie integrierte Verbindungen oder von Ihrem Unternehmen hergestellte Verbindungen verwenden, um Ihre App mit Cloud- und lokalen Diensten wie Microsoft 365 und Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, #A0 und vielem mehr zu verbinden. Sie können Ihre Power Apps ganz einfach mit Kollegen teilen, indem Sie einfach eine E-Mail-Adresse eingeben. Weitere Informationen finden Sie auf der Microsoft [Power Apps-Website.](https://powerapps.microsoft.com/)
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -76,34 +77,54 @@ Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organ
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway ist eine professionelle digitale Storytelling-App für Unternehmen, mit der Sie und ihre Kollegen Ideen mithilfe einer interaktiven, webbasierten Leinwand Ausdrücken können. Das integrierte Entwurfsmodul von Microsoft Sway hilft Ihnen, professionelle, optisch ansprechende Berichte, Präsentationen und vieles mehr zu erstellen, ohne dass umfangreiche Formatierungen oder zusätzliche Schulungen erforderlich sind. Sie können die Ergebnisse auch ändern, um das einzigartige Aussehen und Verhalten zu erhalten, das Sie wünschen. Microsoft Sway sorgt dafür, dass Ihre Kreation in jedem Browser auf jedem Bildschirm hervorragend aussieht, und kann mit Kollegen und Kunden durch einfaches Senden eines Links freigegeben werden. Microsoft Sway hilft Ihnen, alle Arten von Inhalten zu finden und zusammenzuziehen, ohne die APP zu verlassen, sodass Sie Ihre Bilder, Text, Videos und Diagramme direkt auf Ihre Leinwand ziehen und ablegen können. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist noch nicht in [Office 365 Deutschland](office-365-germany.md)verfügbar.
+Microsoft Sway ist eine professionelle digitale Storytelling-App für Unternehmen, mit der Sie und Ihre Kollegen Ideen mithilfe einer interaktiven, webbasierten Canvas ausdrücken können. Mit dem integrierten Designmodul von Microsoft Sway können Sie professionelle, visuell ansprechende Berichte, Präsentationen und vieles mehr erstellen, ohne dass umfangreiche Formatierungen oder zusätzliche Schulungen nötig sind. Sie können die Ergebnisse auch so ändern, dass sie ein einzigartiges Aussehen und Verhalten erhalten. Microsoft Sway macht Ihre Erstellung in jedem Browser auf einem beliebigen Bildschirm großartig und kann mit Kollegen und Kunden geteilt werden, indem Sie einfach einen Link senden. Microsoft Sway hilft Ihnen, alle Arten von Inhalten zu finden und zusammen zu ziehen, ohne die App zu verlassen, sodass Sie Ihre Bilder, Texte, Videos und Diagramme direkt auf Ihre Canvas ziehen und ablegen können. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist in [Office 365 Deutschland noch nicht verfügbar.](office-365-germany.md)
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for Enterprise
 
-Microsoft Teams ist ein Chat-zentrierter Arbeitsbereich, der Teammitgliedern dabei hilft, mehr zusammen zu erreichen. Microsoft Teams dient als Hub für Teamarbeit und bietet direkten Zugriff auf Chat Unterhaltungen, Inhalte und Tools in einem einzigen Arbeitsbereich. SharePoint und OneNote sind integriert, und Teammitglieder können Office-Dokumente direkt in der App bearbeiten. Abgesehen von Chats unterstützt Microsoft Teams auch Videoanrufe und Besprechungen, damit Teams Live eintreffen können, ob bei Bedarf oder geplant. Teammitglieder können auf einfache Weise mit mehreren Teams zusammenarbeiten und jederzeit nach Personen suchen sowie Chats und Dateien durchsuchen. Microsoft Teams funktioniert auf Windows-, Mac-, Internet-, Android-und IOS-Plattformen. Weitere Informationen finden Sie in der [Microsoft Teams-Dienstbeschreibung](../teams-service-description.md) und in der [Online Hilfe von Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams ist derzeit noch nicht in [Office 365 Deutschland](office-365-germany.md) verfügbar.
-  
-## <a name="office-delve"></a>Office Delve
+Microsoft 365 Apps for Enterprise ist die stets aktuelle Suite von Desktop-Apps, die Sie bereits kennen (einschließlich Word, PowerPoint, Excel, Outlook und Teams), die als Abonnement verfügbar sind. Microsoft 365 Apps for Enterprise umfasst exklusive intelligente Funktionen wie [**"Ideen in Excel",**](https://go.microsoft.com/fwlink/p/?linkid=2109915)"Recherche in Word", [](https://go.microsoft.com/fwlink/p/?linkid=2109917)Zusammenarbeit [**in**](https://go.microsoft.com/fwlink/p/?linkid=2109916)Echtzeit, Teams als Hub für Teamarbeit und erweiterte Sicherheitsfeatures. Als benutzerbasierte Lizenz können Sie Office auf bis zu fünf PCs oder Macs, fünf Tablets und fünf mobilen Geräten bereitstellen. Mit 1 TB #A0 können Sie von überall aus auf Ihre Dateien zugreifen und an diesen zusammenarbeiten.
 
-In Office vertieft können Benutzer Inhalte in Microsoft 365 basierend auf personalisierten Einblicken suchen und ermitteln. Delve ist die erste Lösung auf Grundlage von Office Graph. Weitere Informationen zu Office Delve finden Sie unter [Was ist Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
-  
+Weitere Informationen finden Sie unter:
+
+* [Übersichtsseite](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
+* [Produktseite (zum Kauf)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
+
 ## <a name="microsoft-365-groups"></a>Microsoft 365-Gruppen
 
-Gruppen in Microsoft 365 verbindet Benutzer mit den Kollegen, Informationen und Anwendungen, die für eine bessere Zusammenarbeit benötigt werden. Gruppen sind standardmäßig offen, damit sie leichter aufgefunden und freigegeben werden können, Benutzer können aber auch private Gruppen für vertrauliche Inhalte erstellen. Weitere Informationen zu Gruppen finden Sie unter [Gruppen in Microsoft 365](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Informationen zu Gruppen Grenzwerten finden Sie unter "How do I Manage My Groups" in [Learn about Microsoft 365 Groups](https://go.microsoft.com/fwlink/?linkid=846714).
-  
+Gruppen in Microsoft 365 verbinden Benutzer mit Kollegen, Informationen und Anwendungen, die sie benötigen, um gemeinsam mehr zu erledigen. Gruppen sind standardmäßig offen, damit sie leichter aufgefunden und freigegeben werden können, Benutzer können aber auch private Gruppen für vertrauliche Inhalte erstellen. Weitere Informationen zu Gruppen finden Sie unter ["Gruppen" in Microsoft 365.](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1) Informationen zu Gruppenbeschränkungen finden Sie unter "Wie verwalte ich meine Gruppen" in [Informationen zu Microsoft 365-Gruppen.](https://go.microsoft.com/fwlink/?linkid=846714)
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+Microsoft Kaizala ist eine einfache und sichere Mobile Work Management-App, die einzigartige Funktionen in Microsoft 365 mit der Möglichkeit bietet, Personen innerhalb und außerhalb des Verzeichnisses einer Organisation – einschließlich Vertragsarbeitern, Lieferanten, Partnern, Lieferanten, Kunden und Bürgern – mithilfe großer und [flexibler](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)Gruppentypen zu verbinden und zu interagieren. Das Open Directory-Modell von Kaizala ermöglicht die telefonnummernbasierte Identität für ein einfaches Onboarding und eine einfache Benutzeroberfläche für die Messaging- und Arbeitsverwaltung. Mit der mobilen App Kaizala können Benutzer Chatnachrichten und Anlagen wie Bilder, Dokumente, Videos, Audiodateien und vieles mehr senden sowie Aktionskarten für Umfragen, Umfragen, Stellenzuweisungen, Ankündigungen, Schulungen und vieles mehr verwenden. [Kaizala funktioniert](https://products.office.com/en/business/microsoft-kaizala) auf iPhone und Android. Weitere Informationen finden Sie auf der [Kaizala-Website.](https://products.office.com/en/business/microsoft-kaizala)
+
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video ist ein sicheres, unternehmensweites Ziel, in dem Sie Videos auf Ihren Geräten hochladen, freigeben und entdecken können – angetrieben von Microsoft Azure Mediendiensten. Office 365 Video kann dazu beitragen, dass die Zuschauer beschäftigt und informiert sind, Ideen weitgehend kommuniziert werden und Organisationen im Einklang stehen. Weitere Informationen finden Sie unter [Einführung Office 365 Videos](https://go.microsoft.com/fwlink/?linkid=2144056).
-  
+Office 365 Video ist ein sicheres unternehmensweites Ziel, an dem Sie Videos auf Ihren Geräten hochladen, freigeben und entdecken können – unterstützt von Microsoft Azure Media Services. Office 365-Video kann dazu beitragen, die Benutzer zu engagieren und auf dem Laufenden zu halten, Ideen allgemein zu kommunizieren und organisationen die Uni zu halten. Weitere Informationen finden Sie unter [Einführung in Office 365 Video](https://go.microsoft.com/fwlink/?linkid=2144056).
+
 ## <a name="onenote-class-notebook"></a>OneNote-Kursnotizbuch
 
 Das Kursnotizbuch ist Teil von OneNote und für Office 365 Education und Office 365 E5 Education verfügbar. Jedes Notizbuch umfasst einen Inhaltsbibliothek für Lehrer zum Freigeben von Kursinhalten, einen Zusammenarbeitsbereich, in dem Lehrer und Kursteilnehmer zusammenarbeiten können, sowie ein privates Notizbuch für jeden Kursteilnehmer. Nachdem ein Kursnotizbuch erstellt wurde, können Lehrer und Kursteilnehmer die OneNote-App verwenden, um von einem beliebigen Gerät aus darauf zuzugreifen.
 
-## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+## <a name="to-do"></a>To Do
 
-Microsoft Kaizala ist eine einfache und sichere Mobile work Management-APP, die einzigartige Funktionen für Microsoft 365 mit der Möglichkeit bietet, sowohl innerhalb als auch außerhalb des Verzeichnisses eines Unternehmens, einschließlich Vertragsarbeitern, Lieferanten, Partnern, Lieferanten, Kunden und Bürgern, eine Verbindung herzustellen und diese einzubinden, indem große und [flexible Gruppentypen](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)verwendet werden. Das Open Directory-Modell von Kaizala ermöglicht Telefonnummern basierte Identität für einfaches Onboarding und eine einfache Benutzeroberfläche für Messaging und Arbeitsverwaltung. Mit dem Kaizala Mobile App können Benutzer Sofortnachrichten und Anlagen wie Bilder, Dokumente, Videos, Audiodateien und mehr senden sowie Aktionskarten für Umfragen, Umfragen, Auftragszuweisungen, Ankündigungen, Schulungen und vieles mehr verwenden. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) funktioniert auf iPhone und Android. Weitere Informationen finden Sie auf der [Kaizala-Website](https://products.office.com/en/business/microsoft-kaizala).
-  
+Microsoft To Do ist eine Aufgabenverwaltungsanwendung, mit der Kunden ihren Tag planen und ihre Aufgaben von jedem Gerät aus – arbeits- und lebensdauerübergreifend – verwalten können.
+
+Mit Microsoft To Do können Kunden:
+
+* Synchronisieren ihrer Aufgaben in Outlook, Teams, Planner und mehr
+* Bleiben Sie fokussiert mit "Mein Tag", einem personalisierten Tagesplaner mit vorgeschlagenen Aufgaben.
+* Ihre Listen überall, auf jedem Gerät oder auf einer beliebigen Plattform erhalten
+* Freigeben von Listen und Zuweisen von Aufgaben für Kollegen, Freunde und Familie
+
+Weitere Informationen finden Sie unter: [To Do](https://to-do.microsoft.com/)
+
+## <a name="whiteboard"></a>Whiteboard
+
+Microsoft Whiteboard ist eine freihandform- und digitale Canvas, in der Personen, Inhalte und Ideen zusammenkommen. Sie können Whiteboard für die Zusammenarbeit mit Ihrem Team verwenden, um viele Aktivitäten zu erledigen – unabhängig davon, ob sich Ihr Team am selben Ort oder an mehreren Standorten befindet. Teammitglieder können mit ihren eigenen Geräten zusammenarbeiten.
+
+Weitere Informationen zu Microsoft Whiteboard finden Sie unter [Digital Online Whiteboard App - Microsoft Whiteboard](https://www.microsoft.com/microsoft-365/microsoft-whiteboard/digital-whiteboard-app).
+
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen finden Sie in der Beschreibung des [Microsoft 365- und Office 365-Plattformdiensts.](office-365-platform-service-description.md)
   
 
