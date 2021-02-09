@@ -9,16 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Erfahren Sie mehr über die Verfügbarkeit von SharePoint-Features für Kunden der US Government Cloud.
-ms.openlocfilehash: b0f36ea92b856a3fa9c1bf4ddd4cb4265655d1ae
-ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
+ms.openlocfilehash: 505be0509dbef718e64983377c8dc75a23adfd26
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49919748"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50145982"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint für US Government Umgebungen
 
-Dieser Artikel bietet eine Übersicht über die Funktionsunterschiede zwischen der US Government Cloud und der kommerziellen Cloud, wie in der [SharePoint-Dienstbeschreibung aufgeführt.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description) SharePoint ist für die Government Community Cloud (GCC), GCC High- und DoD-Umgebungen verfügbar. 
+Dieser Artikel bietet eine Übersicht über die Funktionsunterschiede zwischen der US Government Cloud und der kommerziellen Cloud, wie in der [SharePoint-Dienstbeschreibung aufgeführt.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description) SharePoint steht für die Government Community Cloud (GCC), GCC High- und DoD-Umgebungen zur Verfügung. 
 
 Weitere Informationen zur Government Cloud, einschließlich Berechtigung und Erwerb, finden Sie unter [Microsoft 365 Government - So erwerben Sie .](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) Informationen zum Vergleichen von Office 365 Government-Plänen finden Sie [unter Office 365 Government-Pläne.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
@@ -29,9 +29,9 @@ Organisationen profitieren nicht nur von den Features und Funktionen von Office 
 -   Die Kundeninhalte Ihrer Organisation werden logisch von Kundeninhalten in den kommerziellen Office 365-Diensten von Microsoft getrennt.
 -   Der Kundeninhalt Ihrer Organisation wird in den Vereinigten Staaten gespeichert.
 -   Der Zugriff auf den Kundeninhalt Ihrer Organisation ist auf ausgewähltes Microsoft-Personal beschränkt.
--   Die Behörden-Cloud-Umgebungen erfüllen Zertifizierungen und Akkreditierungen, die für Kunden im öffentlichen Us-Sektor erforderlich sind.
+-   Die Government -Cloud-Umgebungen erfüllen Zertifizierungen und Akkreditierungen, die für Kunden des us-amerikanischen öffentlichen Sektor erforderlich sind.
 
-Es ist unser Ziel, alle kommerziellen Features und Funktionen von SharePoint für die Cloudumgebungen der Regierung bereitzustellen. Einige Features sind aufgrund der Anforderungen von Behörden-Cloud-Kunden nicht verfügbar. Andere Features kommen in die Behördenumgebungen, sind aber noch nicht verfügbar. In den folgenden Abschnitten finden Sie Informationen zur Verfügbarkeit von Features in den Government Cloud-Umgebungen.
+Es ist unser Ziel, alle kommerziellen Features und Funktionen von SharePoint für die Cloudumgebungen der Regierung bereitzustellen. Einige Features sind aufgrund der Anforderungen von Behörden-Cloud-Kunden nicht verfügbar. Andere Features werden in Behördenumgebungen verfügbar sein, sind aber noch nicht verfügbar. In den folgenden Abschnitten finden Sie Informationen zur Verfügbarkeit von Features in den Government Cloud-Umgebungen.
 
 ## <a name="developer-features"></a>Entwicklerfeatures
 
@@ -66,12 +66,13 @@ Informationen zu Azure Information Protection-Features für Behörden finden Sie
 
 ## <a name="sites-and-content"></a>Websites und Inhalte
 
-Hier sind die Unterschiede zwischen den Website- und Inhaltsfeatures für kommerzielle Kunden und denen für Government Cloud-Kunden:
+Hier sind die Unterschiede zwischen den Website- und Inhaltsfeatures für kommerzielle Kunden und den Features für Government Cloud-Kunden:
 
 - Webparts, die auf Verbindungen mit Internetdiensten wie Amazon Bing, Bing Maps, Twitter und YouTube angewiesen sind, funktionieren nicht wie erwartet
 - Bibliothek für Organisationsressourcen ist nicht verfügbar
 - Das Hinzufügen von Listen und Seiten zu Teams ist für GCC High- und DoD-Kunden nicht verfügbar.
 - Die Graphfunktionalität in SharePoint Online für GCC High ist derzeit deaktiviert. Jeder Dienst, der auf Microsoft Graph basiert, ist derzeit möglicherweise nicht verfügbar.
+- Features, die auf Verbindungen mit Internetdiensten angewiesen sind, z. B. die Registerkarte "Aktienbilder", funktionieren nicht wie erwartet
 
 ## <a name="search-features"></a>Suchfeatures
 
@@ -91,4 +92,4 @@ Ihr Wechsel in die Cloud bietet transformative Erfahrungen mit integrierten Admi
 
 Nachdem Sie Ihre Organisation in der Microsoft US Government Cloud eingerichtet haben, folgen Sie dem empfohlenen Bereitstellungspfad, der im [SharePoint Adoption Resource Center beschrieben ist.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Stellen Sie sicher, dass Sie sich mit Ihren Einführungs- und Change Management-Champions beschäftigen.
 Sie können auch mit [FastTrack oder](https://www.microsoft.com/fasttrack) Ihrem ausgewählten Partner zusammenarbeiten, um den Dienst für Ihre Benutzer zu nutzen.
-Besuchen Sie [das Microsoft Trust Center,](https://www.microsoft.com/trust-center) um mehr darüber zu erfahren, wie Microsoft Sicherheit, Datenschutz und Compliance, die wichtigsten Grundsätze für die Unterstützung von Organisationen in der Lage sind, ihre Kunden zu bedienen.
+Besuchen Sie [das Microsoft Trust Center,](https://www.microsoft.com/trust-center) um mehr darüber zu erfahren, wie Microsoft Sicherheits-, Datenschutz- und Compliance-Kernkonzepte für die Unterstützung von Organisationen in der Lage ist, ihre Kunden zu bedienen.
