@@ -13,18 +13,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bietet, mit der Sie bereits vertraut sind, z. B. Word, Excel und PowerPoint.
-ms.openlocfilehash: 26b3b91800dd4c06c584abc443d54fdb8af89ca1
-ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
+ms.openlocfilehash: 6d59f49f1b7a275e54ee872cd0590933ef8f609e
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "49905158"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241011"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
 Microsoft 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bietet, mit der Sie bereits vertraut sind, z. B. Word, Excel und PowerPoint.
   
-Obwohl Office ein cloudbasierter Dienst ist, werden keine Office-Anwendungen in der Cloud ausgeführt. Stattdessen können Benutzer Office-Anwendungen vom Office 365-Portal herunterladen und auf ihren lokalen Computern installieren. Microsoft nutzt die Klick-und-Los-Technologie, um den Download und die Installation von Office-Anwendungen schnell und mühelos zu gestalten. Klick-und-Los verwendet eine Virtualisierungstechnologie, um Office 365 in einer selbstständigen Umgebung auf dem lokalen Computer auszuführen, damit Benutzer Office-Anwendungen parallel mit früheren Office-Versionen ausführen können.
+Obwohl Office ein cloudbasierter Dienst ist, werden die Office-Anwendungen nicht in der Cloud ausgeführt. Stattdessen können Benutzer Office-Anwendungen vom Office 365-Portal herunterladen und auf ihren lokalen Computern installieren. Microsoft nutzt die Klick-und-Los-Technologie, um den Download und die Installation von Office-Anwendungen schnell und mühelos zu gestalten. Klick-und-Los verwendet eine Virtualisierungstechnologie, um Office 365 in einer selbstständigen Umgebung auf dem lokalen Computer auszuführen, damit Benutzer Office-Anwendungen parallel mit früheren Office-Versionen ausführen können.
   
 Office-Anwendungen stehen als 32-Bit- und 64-Bit-Version zur Verfügung.
   
@@ -32,7 +32,7 @@ Informationen zum Vergleichen von Features in verschiedenen Plänen finden Sie u
   
 ## <a name="feature-availability-across-plans"></a>Verfügbarkeit von Features in den Plänen
 
-Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Features in Plänen und Volumenlizenzeditionen von Microsoft Office 2013 und Office 2016 zu vergleichen.
+Vergleichen Sie mithilfe der folgenden Tabelle die Verfügbarkeit von Features in Plänen und Volumenlizenzeditionen von Microsoft Office 2013 und Office 2016.
   
 Einige der Microsoft 365 for Business-Pläne verfügen über Add-Ons, die Sie für Ihr Abonnement kaufen können. Ein Add-On stellt zusätzliche Funktionen für das Abonnement bereit. Weitere Informationen finden Sie unter [Kaufen oder Bearbeiten eines Add-Ons.](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)<br><br>
 
@@ -54,6 +54,7 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-Ons, die Sie f�
 |[Office Mobile für Android](office-applications.md#office-mobile-for-android) <br/> |Nein  <br/> |Nein <br/> |Nein  <br/>|Ja  <br/> |Ja  <br/> |Ja<sup>13</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup>  <br/> |
 |[Office Mobile für Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Ja <br/>|Ja  <br/> |Ja  <br/> |Ja<sup>13</sup>  <br/> |Ja  <br/> |Ja<sup>13</sup>  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>13</sup>  <br/> |
 |Outlook für Android  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Microsoft Teams  <br/> |Nein  <br/> |Nein  <br/> |Ja <br/>|Ja  <br/> |Ja  <br/> |Ja <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> |Ja  <br/> |Ja  <br/> |Ja <br/> |
 |**Enterprise-Wert** <br/> |**Office Professional Plus 2013** <br/> |**Office Professional Plus 2016** <br/> |**Office Professional Plus 2019** <br/> |**Microsoft 365 Apps for Enterprise** <br/> |**Microsoft 365 Apps for Business** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |5 Installationen pro Benutzer auf PC oder Mac  <br/> |Nein  <br/> |Nein  <br/>| Nein  <br/> |Ja<sup>7</sup> <br/> |Ja<sup>7</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja<sup>7</sup> <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> | 
 |Automatisiertes Bereitstellen von Benutzerkonten  <br/> |Nicht zutreffend  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -68,7 +69,7 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-Ons, die Sie f�
 |Excel Spreadsheet Inquire  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Archivierung und Vorschrifteneinhaltung mit Exchange Online und SharePoint Online  <br/> |Ja<sup>1</sup> <br/> |Ja  <br/> |Ja  <br/>|Ja<sup>1</sup> <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Unterstützung der Gruppenrichtlinie  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
-|Unterstützung von Office-Cloudrichtlinien  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|Unterstützung von Office-Cloudrichtlinien  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Ja<sup>15</sup> <br/> |Ja<sup>16</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>15</sup> <br/> |Ja<sup>16</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>16</sup> <br/> |
 |Verwaltung von Informationsrechten (Information Rights Management, IRM) mithilfe von Azure Information Protection  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Ja <br/> |No<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |No<sup>2</sup> <br/> |
 |Information Rights Management mit Windows Server AD RMS  <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Ja <br/>| Ja<sup>3</sup> <br/>|Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |
 |Unterstützung für Office-Add-In, ActiveX und BHO  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>+++<sup> <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
@@ -90,7 +91,7 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-Ons, die Sie f�
 ><sup>+</sup> Wenn Sie Office 365 oder Office 2019 installieren, erhalten Sie Standardmäßig OneNote für Windows 10. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zu OneNote.](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103)<br/>
 ><sup>++</sup> OneNote-App-Zugriff auf Notizbücher in SharePoint Server, SharePoint Online, OneDrive for Business und Office 365. <br/>
 ><sup>+++</sup> Die Unterstützung von BHO ist eine Erweiterungstechnologie für Internet Explorer. <br/>
-><sup>1</sup> Archivierungs- und Kompatibilitätsfunktionen werden mit dieser Version von Office unterstützt, aber die Exchange Online- und SharePoint Online-Pläne sind nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Serverentsprechungen verwendet werden.<br/>
+><sup>1</sup> Archivierungs- und Kompatibilitätsfeatures werden mit dieser Version von Office unterstützt, aber die Exchange Online- und SharePoint Online-Pläne sind nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Serverentsprechungen verwendet werden.<br/>
 <sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-On erworben werden und aktiviert die unterstützten Information Rights Management (IRM)-Features. Einige Azure Information Protection-Features erfordern ein Abonnement für Microsoft 365 Apps for Enterprise, das nicht in Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Education oder Office 365 F3 enthalten ist.<br/>
 <sup>3</sup> Windows Server AD RMS ist ein lokalen Server, der separat erworben und verwaltet werden muss, um die unterstützten Funktionen von IRM zu aktivieren.<br/>
 <sup>4</sup> Wenn Sie über Office 2013 Professional Plus oder eine eigenständige Version von Excel 2013 verfügen, können Sie Power Map Preview für Excel 2013 verwenden, bei dem es sich um ein nicht unterstütztes Add-In handelt. Die frühere Version von Power Map Preview ist abgelaufen und kann nicht mit einer Version von Excel verwendet werden. Wenn Sie die frühere Version installiert haben, deinstallieren Sie sie in der Systemsteuerung, und laden Sie dann die aktuelle Version der Power Map Preview herunter, und installieren Sie sie. Diese Version hat die gleiche Funktionalität wie die Version von Power Map, die mit Microsoft 365 SP1 veröffentlicht wurde.<br/> 
@@ -103,7 +104,9 @@ Einige der Microsoft 365 for Business-Pläne verfügen über Add-Ons, die Sie f�
 <sup>11</sup> Der Zugriff ist derzeit verfügbar, wenn Sie auf dem aktuellen Kanal oder auf der Zielversion für verzögerten Kanal sind. Wenn Sie den verzögerten Kanal verwenden, ist Access im Juni 2017 verfügbar. Weitere Informationen finden Sie unter Access im Rahmen [von Microsoft 365- und Office 365-Abonnements.](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)<br/> 
 <sup>12</sup> Infopath 2013 wird weiterhin unterstützt und ist in der Office Professional Plus 2016-Installation verfügbar, es gibt jedoch keine neue Version für Office 2016.<br/> 
 <sup>13</sup> Auf Geräte mit integrierten Bildschirmen mit einer Bildschirmdiagonale von 10,1 Zoll oder weniger beschränkt.<br/> 
-<sup>14</sup> Power Query ist ein kostenloses Add-In, das Sie hier herunterladen können: [Microsoft Power Query for Excel](https://www.microsoft.com/download/details.aspx?id=39379). Nach der Aktivierung ist die Power Query-Funktionalität auf der Registerkarte "Power Query" im Menüband verfügbar.
+<sup>14</sup> Power Query ist ein kostenloses Add-In, das Sie hier herunterladen können: [Microsoft Power Query for Excel](https://www.microsoft.com/download/details.aspx?id=39379). Nach der Aktivierung ist die Power Query-Funktionalität auf der Registerkarte "Power Query" im Menüband verfügbar.<br/> 
+<sup>15</sup> Beschränkt auf Richtlinien für Web-Apps und Datenschutzrichtlinien für Client-Apps.<br/> 
+<sup>16</sup> Beschränkt auf Richtlinien für Web-Apps.
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Verfügbarkeit von Office-Anwendungen in Office für Mac-Plänen
 
@@ -146,8 +149,8 @@ Die folgenden #A0 sind in den #A1 verfügbar. Einige cloudbasierte Funktionen si
 |Diagramme: Sunburst, Treemap, Wasserfall, Histogramm, Karten, Zeitachse, Trichter | Nein | Nein | Nein |
 |Versionsverlauf| Nein | Nein | Nein | 
 |**Microsoft Forms** ist vollständig in den Government Clouds verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind: | Ja | Ja | Nein |
-|E-Mail-Benachrichtigung | Nein<sup>1</sup> | Nein<sup>1</sup> | Nein |
-|Einfügen eines Bilds | Nein<sup>1</sup> | Nein<sup>1</sup> | Nein |
+|E-Mail-Benachrichtigung | Nein<sup>1</sup> | No<sup>1</sup> | Nein |
+|Einfügen eines Bilds | No<sup>1</sup> | No<sup>1</sup> | Nein |
 |Einfügen eines Videos | Nein<sup>1</sup> | Nein<sup>1</sup> | Nein |
 |Mathematik | Nein<sup>1</sup> | Nein<sup>1</sup> | Nein |
 |Office-Integration | Nein<sup>1</sup> | Nein<sup>1</sup> | Nein |
