@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365, betrieben von 21Vianet, wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Clouddienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 68f57eef2133d6993d269489b883ea1d62a745d0
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460304"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572741"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -131,7 +131,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365 aufgeführt
 |Mehrere öffentliche SharePoint Online-Websites mit benutzerdefinierten Domänennamen hosten<sup>5</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Überprüfung des Domänenbesitzes erforderlich für benutzerdefinierte Domänen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|**[Dienstintegrität und Verfügbarkeit](service-health-and-continuity.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 A1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
+|**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 A1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Status einzelner Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |RSS-Feed **Dienststatus**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -163,7 +163,7 @@ In der folgenden Tabelle sind alle Plattformfeatures für Office 365 aufgeführt
 |**[Dienstupdates](service-updates.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 A1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Bereitstellen regelmäßiger Updates für alle Kunden|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Benachrichtigungen, die an das Nachrichtencenter gesendet werden, wenn eine Aktion erforderlich ist, ein Problem behoben wird, Features bereitgestellt oder Dienständerungen vorgenommen werden|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) für einige Dienstupdates|Nein|--|Nein|Nein|Nein|Nein|Nein|
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) für einige Dienstupdates|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Option zum Aktivieren des Zielrelease|Nein|--|Nein|Nein|Ja|Ja|Ja|
 |**[Hilfe und Schulungen](help-and-training.md)**|**Office 365 Business Essentials betrieben von 21Vianet**|**Office 365 Business, betrieben von 21Vianet**|**Office 365 Business Premium betrieben von 21Vianet**|**Office 365 A1 betrieben von 21Vianet**|**Office 365 Enterprise E1 betrieben von 21Vianet**|**Office 365 Enterprise E3 betrieben von 21Vianet**|**Office 365 Enterprise F3 betrieben von 21Vianet**|
 |Onlinehilfe|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
