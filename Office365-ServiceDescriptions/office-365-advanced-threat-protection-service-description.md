@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender für Office 365 ist ein cloudbasierter E-Mail-Filterdienst, der Ihre Organisation vor unbekannter Schadsoftware und Viren schützt, indem sie einen robusten Zero-Day-Schutz bietet und Features zum Schutz Ihrer Organisation vor schädlichen Links in Echtzeit enthält.
-ms.openlocfilehash: 6116ffdce71686575258c19c7d70159bcefa2134
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: cc8d16f4a0a1058799ee3f5b0873ed6e9bf7f182
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460244"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726740"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Microsoft Defender für Office 365-Dienstbeschreibung
 
@@ -60,7 +60,7 @@ Sie können Defender für Office 365 den folgenden Exchange- und Microsoft 365-A
 
 Informationen zum Kauf von Microsoft Defender für Office 365 finden Sie unter [Microsoft Defender for Office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Informationen zum Vergleichen von Features in verschiedenen Plänen finden Sie unter [Leistungsstarke](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) Tools zur Unterstützung Ihres Unternehmens und Transformieren Ihres Unternehmens [mit Microsoft 365](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Ausführliche Planinformationen zu Abonnements, die Benutzer für Microsoft Defender für Office 365 ermöglichen, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Neues in Microsoft Defender für Office 365
 
