@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365, betrieben von 21Vianet, wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Clouddienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572741"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902060"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -275,7 +275,7 @@ In der folgenden Tabelle sind die Office 365-Anwendungsfeatures aufgeführt, die
 |Office-Telemetrie|Ja|Ja|Ja|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Offline-Unterstützung für Client-Anwendungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|Nein|Ja|Nein|
 |Optimierte parallele Client-Installation|Nein|Ja|Ja|Ja|Ja|Ja|Nein|Nein|Ja|Nein|
-|Power Map für Excel|Nr.<sup>3</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|Power Map für Excel|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |PowerPivot für Excel|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Power Query für Excel|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
 |Power View für Excel|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
@@ -310,7 +310,7 @@ Die folgende Tabelle enthält Links zu Vergleichen von Office für die Webfeatur
 > - Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite.
 > - Microsoft Office Web Apps Server 2013 erhalten lokale Kunden eine Office für die Webbearbeitungslizenz, wenn sie eine Lizenz für die Office-Desktopsuite erworben haben (z. B. Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz).
 
-| Anwendung | Office für das Web, betrieben von 21Vianet | Link zum detaillierten Funktionsvergleich |
+| Application | Office für das Web, betrieben von 21Vianet | Link zum detaillierten Funktionsvergleich |
 |:-----|:-----|:-----|
 |Word|Word für das Von 21Vianet betriebene Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel für das von 21Vianet betriebene Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|

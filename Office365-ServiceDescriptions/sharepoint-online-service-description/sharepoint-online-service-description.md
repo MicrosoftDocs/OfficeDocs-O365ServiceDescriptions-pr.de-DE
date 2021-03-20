@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Sehen Sie sich an, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726700"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901934"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -30,7 +30,7 @@ SharePoint in Microsoft 365 unterstützt Organisationen bei der Freigabe und Ver
 
 Eine kurze Übersicht finden Sie unter [Was ist SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Um zu sehen, welche Pläne SharePoint enthalten, [leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://products.office.com/business/compare-more-office-365-for-business-plans). Informationen zu Microsoft 365-Systemanforderungen finden Sie unter [Microsoft 365 und Office Resources](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
+Ausführliche Planinformationen zu Abonnements, die Benutzer für SharePoint aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans). Informationen zu Microsoft 365-Systemanforderungen finden Sie unter [Microsoft 365 und Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
 
 Weitere Informationen zu den Unterschieden zwischen SharePoint-Features für Us Government Cloud-Kunden finden Sie unter [SharePoint for US government environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
