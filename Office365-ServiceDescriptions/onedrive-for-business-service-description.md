@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie, welche OneDrive-Features in welchen Plänen zur Verfügung stehen.
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154403"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901950"
 ---
 # <a name="onedrive-service-description"></a>OneDrive-Dienstbeschreibung
 
@@ -26,7 +26,7 @@ OneDrive für Geschäfts-, Schul- oder Unikonten ist ein Onlinespeicherplatz in 
   
 OneDrive ist in den Microsoft 365-, Office 365- und SharePoint-Plänen enthalten und kann auch als eigenständiger Plan erworben werden. 
     
-Wenn Sie Pläne vergleichen möchten, lesen Sie [Leistungsstarke Tools zur Unterstützung Ihres Unternehmens](https://go.microsoft.com/fwlink/?linkid=799177) und [OneDrive for Business-Pläne vergleichen](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Detaillierte Informationen zum Plan für Abonnements, die Benutzern die Unterstützung von OneDrive ermöglichen, finden Sie in der [vollständigen Vergleichstabelle für Abonnements](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) und unter [Vergleich von OneDrive for Business-Pläne](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
   
 > [!NOTE]
 > Eigenständige Pläne von OneDrive enthalten Office im Web. 
@@ -133,7 +133,7 @@ Sofern nicht anders angegeben, stehen die folgenden Features für alle Pläne, d
 Sofern nicht anders angegeben, stehen die folgenden Features für alle Pläne, die OneDrive umfassen, und alle eigenständigen OneDrive-Pläne zur Verfügung:
 
 - [Zugriffsanforderungen](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- ["Jeder"-Links](/Office365/Enterprise/best-practices-anonymous-sharing) (die auf "Ablauf erforderlich" festgelegt werden können) 
+- ["Jeder"-Links](/Office365/Enterprise/best-practices-anonymous-sharing) (die auf "Ablauf erforderlich" festgelegt werden können) 
 - [@Erwähnungen in Kommentaren](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Erfordert einen Plan, der Office 365 für das Web oder die Office 365-Desktop-Apps umfasst.
 - [Dateianforderungen](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Verwalten des Standardfreigabelinks ([auf Organisationsebene](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) und [pro Website](/sharepoint/change-default-sharing-link))
