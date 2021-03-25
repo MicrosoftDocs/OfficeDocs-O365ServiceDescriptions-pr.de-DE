@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bietet, mit der Sie bereits vertraut sind, z. B. Word, Excel und PowerPoint.
-ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902035"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173900"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -95,7 +95,7 @@ Einige der Microsoft 365 For Business-Pläne verfügen über Add-Ons, die Sie f�
 <sup>2</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-On erworben werden und aktiviert die unterstützten Information Rights Management (IRM)-Features. Einige Azure Information Protection-Features erfordern ein Abonnement für Microsoft 365 Apps for Enterprise, das nicht in Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Education oder Office 365 F3 enthalten ist.<br/>
 <sup>3</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Features zu aktivieren.<br/>
 <sup>4</sup> Wenn Sie über Office 2013 Professional Plus oder eine eigenständige Version von Excel 2013 verfügen, können Sie Power Map Preview für Excel 2013 verwenden, bei dem es sich um ein nicht unterstütztes Add-In handelt. Die frühere Version der Power Map Preview ist abgelaufen und funktioniert nicht mit einer Version von Excel. Wenn Sie die frühere Version installiert haben, deinstallieren Sie sie aus der Systemsteuerung, und laden Sie dann die aktuelle Version der Power Map Preview herunter und installieren Sie sie. Diese Version hat die gleiche Funktionalität wie die Version von Power Map, die mit Microsoft 365 SP1 veröffentlicht wurde.<br/> 
-<sup>5</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheits-, Chat- und Konferenzfunktionen für Pläne bietet, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 E3 enthalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen umfasst. A Skype for Business Online license must be assigned for each user. Einen Vergleich der Features und Funktionen finden Sie unter [Desktop client comparison tables for Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
+<sup>5</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheits-, Chat- und Konferenzfunktionen für Pläne bietet, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 E3 enthalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen umfasst. A Skype for Business Online license must be assigned for each user. Einen Vergleich der Features und Funktionen finden Sie unter [Desktop client comparison tables for Lync Server 2013](/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
 <sup>6</sup> Einige Schulen sind für Education Plus berechtigt, das Microsoft 365 Apps for Enterprise umfasst, und ermöglicht Schülern, Lehrkräften und Mitarbeitern die Installation der neuesten Version von Office auf bis zu fünf PC- oder Mac-Computern und auf anderen mobilen Geräten, einschließlich Windows-Tablets und dem iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. <br/>
 <sup>7</sup> Office für Mac 2011 kann installiert, aber nicht aktiviert werden. <br/>
 <sup>8</sup> Microsoft 365 Apps for Enterprise wird in der vom Benutzer dedizierten virtuellen Desktopinfrastruktur (VDI) unterstützt. Microsoft 365 Apps for Enterprise unterstützt remote Desktop Services (RDS) nur, wenn sie über ein Volumenlizenzierungsprogramm erworben werden.<br/>

@@ -1,5 +1,5 @@
 ---
-title: Messaging Richtlinie und Compliance in Exchange Online Schutz
+title: Messagingrichtlinie und Compliance in Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,29 +10,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: In diesem Artikel erfahren Sie mehr über die Messagingrichtlinien-und Kompatibilitätsfeatures in Microsoft Exchange Online Protection (EoP).
-ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: In diesem Artikel erfahren Sie mehr über messaging policy and compliance features in Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: a1ed14ed555adb17801014141a3f66616e17d2e1
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293801"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173730"
 ---
-# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Messaging Richtlinie und Compliance in Exchange Online Schutz
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Messagingrichtlinie und Compliance in Exchange Online Protection
 
-Microsoft Exchange Online Protection (EoP) bietet Funktionen für Messagingrichtlinien und-Kompatibilität, mit denen Sie Ihre e-Mail-Daten verwalten können.
+Microsoft Exchange Online Protection (EOP) bietet Messagingrichtlinien- und Compliancefeatures, mit deren Hilfe Sie Ihre E-Mail-Daten verwalten können.
 
-Sie suchen nach Informationen zu allen EOP-Funktionen? Siehe [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu allen EOP-Funktionen? Weitere Informationen finden [Sie in der Beschreibung des Exchange Online Protection-Diensts](exchange-online-protection-service-description.md).
 
 ## <a name="mail-flow-rules"></a>Nachrichtenflussregeln
 
-Nachrichtenfluss Regeln (auch als Transportregeln bezeichnet) bieten Ihnen die Flexibilität, eigene unternehmensspezifische Richtlinien auf e-Mails anzuwenden. Nachrichtenfluss Regeln bestehen aus flexiblen Kriterien, mit denen Sie Bedingungen, Ausnahmen und Aktionen basierend auf den Kriterien definieren können. Weitere Informationen finden Sie unter [Mail Flow Rules (Transport Rules) in Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0).
+Nachrichtenflussregeln (auch als Transportregeln bezeichnet) bieten Ihnen die Flexibilität, ihre eigenen unternehmensspezifischen Richtlinien auf E-Mails anzuwenden. Nachrichtenflussregeln sind aus flexiblen Kriterien, mit denen Sie Bedingungen, Ausnahmen und Aktionen definieren können, die basierend auf den Kriterien zu ergreifen sind. Weitere Informationen finden Sie unter [Nachrichtenflussregeln (Transportregeln) in Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0).
 
 ## <a name="audit-logging"></a>Überwachungsprotokollierung
 
-Mit der Überwachungsprotokollierung können Sie bestimmte Änderungen von Administratoren an Ihrer Organisation protokollieren. Dank dieser Berichte können Sie gesetzliche Bestimmungen einhalten und Daten, die für Rechtsstreitigkeiten erforderlich sind, aufbewahren. Weitere Informationen finden Sie unter [Überwachungsberichte in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/auditing-reports-in-eop).
+Mit der Überwachungsprotokollierung können Sie bestimmte Änderungen von Administratoren an Ihrer Organisation protokollieren. Dank dieser Berichte können Sie gesetzliche Bestimmungen einhalten und Daten, die für Rechtsstreitigkeiten erforderlich sind, aufbewahren. Weitere Informationen finden Sie unter [Überwachungsberichte in EOP](/microsoft-365/security/office-365-security/auditing-reports-in-eop).
 
-## <a name="data-loss-prevention-dlp"></a>Verhinderung von Datenverlust (Data Loss Prevention, DLP)
+## <a name="data-loss-prevention-dlp"></a>Verhinderung von Datenverlusten (Data Loss Prevention, DLP)
 
 Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Verhinderung von Datenverlust (Data Loss Prevention, DLP) ermöglicht Ihnen das Bestimmen, Überwachen und Schützen vertraulicher Daten in Ihrer Organisation mittels einer eingehenden Inhaltsanalyse. DLP gewinnt für Nachrichtensysteme von Unternehmen zunehmend an Bedeutung, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Mit dem DLP-Feature können Sie vertrauliche Daten schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
 
@@ -40,7 +40,7 @@ Sie können DLP-Richtlinien in der Exchange-Verwaltungskonsole konfigurieren, wo
 
 - Beginnen Sie mit einer vorkonfigurierten Richtlinienvorlage, mit deren Hilfe Sie bestimmte Typen vertraulicher Informationen wie PCI DSS-Daten (Payment Card Industry Data Security Standard), Gramm-Leach-Bliley Act-Daten oder sogar standortspezifisch personenbezogene Informationen (PII) erkennen können.
 
-- Verwenden Sie die vollständige Leistungsfähigkeit vorhandener Nachrichtenfluss Regelkriterien und-Aktionen, und fügen Sie neue Nachrichtenfluss Regeln hinzu.
+- Nutzen Sie die volle Leistung der vorhandenen Kriterien und Aktionen der Nachrichtenflussregel, und fügen Sie neue Nachrichtenflussregeln hinzu.
 
 - Testen Sie die Effektivität Ihrer DLP-Richtlinien vor deren vollständiger Erzwingung.
 
@@ -48,32 +48,32 @@ Sie können DLP-Richtlinien in der Exchange-Verwaltungskonsole konfigurieren, wo
 
 - Erkennen Sie vertrauliche Informationen in E-Mail-Anlagen, -Text oder -Betreffzeilen, und passen Sie die Vertrauensstufe an, bei der Maßnahmen ergreift.
 
-- Erkennen Sie vertrauliche Formulardaten mithilfe von Dokumentfingerabdrücken. Mit dem Dokument Fingerabdruck können Sie auf einfache Weise benutzerdefinierte Typen vertraulicher Informationen basierend auf textbasierten Formularen erstellen, die Sie zum Definieren von Nachrichtenfluss Regeln und DLP-Richtlinien verwenden können.
+- Erkennen Sie vertrauliche Formulardaten mithilfe von Dokumentfingerabdrücken. Mithilfe der Dokumentfingerabdrücke können Sie ganz einfach benutzerdefinierte Typen vertraulicher Informationen basierend auf textbasierten Formularen erstellen, mit deren Hilfe Sie Nachrichtenflussregeln und DLP-Richtlinien definieren können.
 
-- Fügen Sie Richtlinien Tipps hinzu, die zur Verringerung von Datenverlusten beitragen können, indem Sie eine Mitteilung an Ihre Outlook 2013, Outlook im Internet und OWA für mobile Geräte Benutzer anzeigen und außerdem die Effektivität Ihrer Richtlinien verbessern, indem Sie eine falsch positive Berichterstellung zulassen.
+- Fügen Sie Richtlinientipps hinzu, die dazu beitragen können, Datenverluste zu reduzieren, indem Sie Ihren Benutzern in Outlook 2013, Outlook im Web und OWA für Geräte eine Benachrichtigung anzeigen und die Effektivität Ihrer Richtlinien verbessern, indem Falsch positive Berichte ermöglicht werden.
 
 - Überprüfen Sie Vorfallsdaten in DLP-Berichten, oder fügen Sie Ihre eigene Berichterstellung mithilfe einer neuen Aktion zum Generieren eines Schadensberichts hinzu.
 
 > [!NOTE]
 > DLP-Richtlinien werden nur auf E-Mails angewendet, die in Ihre oder aus Ihrer Organisation übertragen werden. Auf organisationsinterne E-Mails werden keine DLP-Richtlinien angewendet, es sei denn, Sie führen Exchange Server 2013 mit DLP lokal aus. Dies trifft auch auf DLP-Richtlinientipps zu, mit denen Benutzer über potenzielle Richtlinienverletzungen informiert werden, bevor vertrauliche Informationen versehentlich an nicht autorisierte Personen gesendet werden.
 
-Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust in Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
+Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust in Exchange Online](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 
 ## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
 
-Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Protection, ist ein Onlinedienst, der es E-Mail-Benutzern erlaubt, an beliebige Personen verschlüsselte E-Mail-Nachrichten zu senden. Lokale Kunden können auf Office 365-Nachrichtenverschlüsselung zugreifen, indem sie Azure Information Protection erwerben und Exchange Online Protection zum Einrichten der Nachrichtenübermittlung über Exchange Online verwenden. Weitere Informationen zur Office 365 Nachrichtenverschlüsselung in Exchange Online finden Sie unter [Office 365 Nachrichtenverschlüsselung](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) in der Exchange Online-Dienstbeschreibung.
+Office 365-Nachrichtenverschlüsselung, ein Bestandteil von Azure Information Protection, ist ein Onlinedienst, der es E-Mail-Benutzern erlaubt, an beliebige Personen verschlüsselte E-Mail-Nachrichten zu senden. Lokale Kunden können auf Office 365-Nachrichtenverschlüsselung zugreifen, indem sie Azure Information Protection erwerben und Exchange Online Protection zum Einrichten der Nachrichtenübermittlung über Exchange Online verwenden. Weitere Informationen zur Office 365-Nachrichtenverschlüsselung in Exchange Online finden Sie unter [Office 365-Nachrichtenverschlüsselung](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) in der Exchange Online-Dienstbeschreibung.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Features zu Messagingrichtlinien und -einhaltung in EOP-Optionen
 
-| Feature | EOP als eigenständige Lösung | EoP-Features in <br/> Exchange Online | Exchange Enterprise <br/> CAL mit Diensten |
+| Feature | EOP als eigenständige Lösung | EOP-Features in <br/> Exchange Online | Exchange Enterprise <br/> CAL mit Diensten |
 |:-----|:-----|:-----|:-----|
 |Nachrichtenflussregeln|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja<sup>1, 3</sup>|
 |Überwachungsprotokollierung|Ja<sup>2</sup>|Ja|Ja|
-|Verhinderung von Datenverlust (Data Loss Prevention, DLP)|Nein|Ja|Ja<sup>3</sup>|
+|Verhinderung von Datenverlusten (Data Loss Prevention, DLP)|Nein|Ja|Ja<sup>3</sup>|
 |Office 365-Nachrichtenverschlüsselung|Ja<sup>4</sup>|Ja|Ja<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> die verfügbaren Nachrichtenfluss Regelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EoP und Exchange Online. Diese Unterschiede werden in [Nachrichtenfluss Regel-Bedingungen und-Ausnahmen (Prädikate) in Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) -und [Nachrichtenfluss Regelaktionen in Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)aufgeführt. <br/>
+> <sup>1</sup> Die verfügbaren Nachrichtenflussregelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EOP und Exchange Online. Diese Unterschiede werden in Nachrichtenflussregelbedingungen und Ausnahmen [(Prädikate) in Exchange Online-](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) und [Nachrichtenflussregelaktionen in Exchange Online festgestellt.](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions) <br/>
 > <sup>2</sup> Die EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern. <br/>
 > <sup>3</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar. <br/>
-> <sup>4</sup> Wird für lokale Kunden unterstützt, die das Add-On Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. Für die Desktopumgebung müssen zusätzlich zum Azure Information Protection-Add-on Microsoft 365-Apps für Unternehmen erworben werden. <br/>
+> <sup>4</sup> Wird für lokale Kunden unterstützt, die das Add-On Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. Für die Desktopumgebung müssen zusätzlich zum Azure Information Protection-Add-On Microsoft 365 Apps for Enterprise erworben werden. <br/>

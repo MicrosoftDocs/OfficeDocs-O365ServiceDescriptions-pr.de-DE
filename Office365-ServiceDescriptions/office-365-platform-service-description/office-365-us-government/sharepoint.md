@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Erfahren Sie mehr über die Verfügbarkeit von SharePoint-Features für Us Government Cloud-Kunden.
-ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902024"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172930"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint für US-Regierungsumgebungen
 
-Dieser Artikel bietet eine Übersicht über die Funktionsunterschiede zwischen der US Government Cloud und der kommerziellen Cloud, wie in der Beschreibung des [SharePoint-Diensts aufgeführt.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description) SharePoint ist für die Government Community Cloud (GCC), GCC High und DoD-Umgebungen verfügbar. 
+Dieser Artikel bietet eine Übersicht über die Funktionsunterschiede zwischen der US Government Cloud und der kommerziellen Cloud, wie in der Beschreibung des [SharePoint-Diensts aufgeführt.](../../sharepoint-online-service-description/sharepoint-online-service-description.md) SharePoint ist für die Government Community Cloud (GCC), GCC High und DoD-Umgebungen verfügbar. 
 
-Weitere Informationen zur Government Cloud, einschließlich Berechtigung und Kauf, finden Sie unter [Microsoft 365 Government - how to buy](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Informationen zum Vergleich von Office 365 Government-Plänen finden Sie unter [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
+Weitere Informationen zur Government Cloud, einschließlich Berechtigung und Kauf, finden Sie unter [Microsoft 365 Government - how to buy](./microsoft-365-government-how-to-buy.md). Informationen zum Vergleich von Office 365 Government-Plänen finden Sie unter [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
 Informationen zu den erforderlichen Endpunkten beim Verwalten der Netzwerkkonnektivität finden Sie unter [Office 365 U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) oder [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
@@ -52,13 +52,13 @@ Hier sind die Unterschiede zwischen den IT-Administratorfeatures für kommerziel
 - Mover.io wird noch nicht unterstützt
 - Multi-Geo ist nicht für alle Cloudkunden der Regierung verfügbar
 
-Informationen zur FastTrack-Migration finden Sie in der [Office 365 US Government-Dienstbeschreibung](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack).
+Informationen zur FastTrack-Migration finden Sie in der [Office 365 US Government-Dienstbeschreibung](./office-365-us-government.md#data-migrations-performed-by-fasttrack).
 
 ## <a name="security-and-compliance-features"></a>Sicherheits- und Compliancefeatures
 
 Es gibt keine bekannten Unterschiede zwischen den Sicherheits- und Compliancefeatures für kommerzielle Kunden und denen für Government Cloud-Kunden.
 
-Informationen zu Sicherheits- und Compliancefeatures finden Sie im [Security & Compliance Center](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center).
+Informationen zu Sicherheits- und Compliancefeatures finden Sie im [Security & Compliance Center](../office-365-securitycompliance-center.md).
 
 Informationen zu Azure Active Directory-Features für Behörden finden Sie in [der Azure Government Security + Identity-Dokumentation](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory). 
 
@@ -83,7 +83,7 @@ Hier sind die Unterschiede zwischen den Suchfeatures für kommerzielle Kunden un
 
 ## <a name="sharing-and-sync"></a>Freigabe und Synchronisierung
 
-Funktionsunterschiede zwischen der kommerziellen Cloud und den Cloudumgebungen der Regierung finden Sie unter [Dateifreigabe](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing).
+Funktionsunterschiede zwischen der kommerziellen Cloud und den Cloudumgebungen der Regierung finden Sie unter [Dateifreigabe](./gcc-high-and-dod.md#file-sharing).
 
 ## <a name="plan-for-governance"></a>Planen der Steuerung
 

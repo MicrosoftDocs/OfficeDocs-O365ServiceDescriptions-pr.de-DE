@@ -11,37 +11,37 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: In diesem Thema werden die empfängerbezogenen Features von Microsoft Exchange Online beschrieben. Dazu gehören E-Mail, Kontakte, Verteilergruppen sowie Kalender- und Terminplanungsfunktionen.
-ms.openlocfilehash: 5156272ea444414b8da650cf294f99bdfb8b4081
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ede65581fc1962a55e565c54509998b9e05b9d0
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293861"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173560"
 ---
 # <a name="recipients"></a>Empfänger
 
 In diesem Thema werden die empfängerbezogenen Features von Microsoft Exchange Online beschrieben. Dazu gehören E-Mail, Kontakte, Verteilergruppen sowie Kalender- und Terminplanungsfunktionen.
   
-## <a name="email"></a>E-Mail
+## <a name="email"></a>E-Mail senden
 
 Jeder Microsoft Exchange Online-Abonnent erhält ein Postfach; für die Planung von Einrichtungsressourcen (wie Konferenzräume) und für den Zugriff mehrerer Benutzer auf gemeinsam genutzte E-Mail-Adressen stehen Spezialpostfächer zur Verfügung. Für die meisten Postfächer gelten obere Speichergrenzwerte, und Administratoren können die zulässigen Postfachgrößen steuern. Automatisierte Benachrichtigungen und Beschränkungen können Benutzer warnen, wenn ihre Postfächer sich der maximalen Kapazität annähern oder sie erreichen. Exchange Online verfügt auch über verschiedene Arten an Nachrichtenbeschränkungen – Grenzwerte für Nachrichtengröße, Nachrichtenrate und Empfängerliste. Informationen über alle diese Funktionen und Grenzwerte werden nachfolgend angegeben.
   
 > [!NOTE]
-> Catch-All-Adressen werden in Exchange Online nicht mehr unterstützt. Da die Empfängerfilterung vor potenziellen Spamnachrichten geschützt ist, werden e-Mail-Adressen, die nicht in Ihrer Organisation vorhanden sind, abgelehnt. 
+> Catch-All-Adressen werden in Exchange Online nicht mehr unterstützt. Aufgrund der vorhandenen Empfängerfilterung zum Schutz vor potenziellen Spamnachrichten werden E-Mail-Adressen, die in Ihrer Organisation nicht vorhanden sind, abgelehnt. 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>Mailbox-Typen, Speicherbegrenzungen und Kapazitätswarnungen
 
 Die Größe des verfügbaren Postfachspeichers für einen Benutzer und die Standardpostfachgröße werden durch den Postfachtyp sowie die Abonnementlizenz des Benutzers bestimmt. Administratoren können die maximale Postfachgröße pro Benutzer oder global reduzieren. Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eines Benutzers seine Kapazität fast oder vollständig erreicht hat:
   
-Weitere Informationen finden Sie in den Abschnitten "Speichergrenzwerte für Postfächer" und "Kapazitäts Warnungen" im Thema [Exchange Online Limits](exchange-online-limits.md).
+Weitere Informationen finden Sie in den Abschnitten "Postfachspeicherbeschränkungen" und "Kapazitätswarnungen" im Thema [Exchange Online limits](exchange-online-limits.md).
   
 ### <a name="mailtips"></a>MailTips
 
-E-Mail-Infos sind automatisierte, informative Nachrichten, die über der Zeile "An:" angezeigt werden, während Benutzer Nachrichten verfassen oder adressieren. Sie dienen dazu, eine unbeabsichtigte Zustellung, Richtlinienverletzungen oder unnötige Unzustellbarkeitsberichte zu verhindern. E-Mail-Infos können beispielsweise einen Alarm generieren, wenn Absender versuchen, Nachrichten an zu große Gruppen, an Gruppen mit externen Empfängern oder an eine moderierte oder gesperrte Verteilergruppe zu senden. Weitere Informationen finden Sie im Artikel zum Thema [E-Mail-Infos](https://go.microsoft.com/fwlink/p/?LinkId=401472).
+E-Mail-Infos sind automatisierte, informative Nachrichten, die über der Zeile "An:" angezeigt werden, während Benutzer Nachrichten verfassen oder adressieren. Sie dienen dazu, eine unbeabsichtigte Zustellung, Richtlinienverletzungen oder unnötige Unzustellbarkeitsberichte zu verhindern. E-Mail-Infos können beispielsweise einen Alarm generieren, wenn Absender versuchen, Nachrichten an zu große Gruppen, an Gruppen mit externen Empfängern oder an eine moderierte oder gesperrte Verteilergruppe zu senden. Weitere Informationen finden Sie im Artikel zum Thema [E-Mail-Infos](/exchange/clients-and-mobile-in-exchange-online/mailtips/mailtips).
   
 ### <a name="delegate-access"></a>Stellvertretungszugriff
 
-Exchange Online unterstützt Stellvertretungszugriff – die Möglichkeit für Benutzer, anderen Benutzern das Verwalten von e-Mails und Kalendern zu ermöglichen. Stellvertretungszugriff wird häufig zwischen einem Manager und einem Assistenten verwendet, wobei der Assistent die eingehenden e-Mail-Nachrichten des Managers verarbeitet und den Zeitplan des Vorgesetzten koordiniert. Stellvertretungszugriff kann durch Exchange Online von Benutzern in Outlook oder Outlook im Internet oder von Administratoren im Exchange Admin Center aktiviert werden. 
+Exchange Online unterstützt den Stellvertretungszugriff– die Möglichkeit für Benutzer, anderen die Verwaltung ihrer E-Mails und Kalender zu ermöglichen. Der Stellvertretungszugriff wird häufig zwischen einem Vorgesetzten und einem Assistenten verwendet, wobei der Assistent die eingehenden E-Mail-Nachrichten des Managers verarbeitet und den Zeitplan des Managers koordiniert. Der Stellvertretungszugriff kann von Exchange Online-Benutzern in Outlook oder Outlook im Web oder von Administratoren im Exchange Admin Center aktiviert werden. 
   
 Stellvertreter können zwei Arten von Zugriff haben:
   
@@ -49,11 +49,11 @@ Stellvertreter können zwei Arten von Zugriff haben:
     
 - **Berechtigung "Senden als"** Der Stellvertreter kann Nachrichten vom Postfach der anderen Person senden, so als sei er der Inhaber des Postfachs. Dieses Szenario kommt häufig dann zum Einsatz, wenn ein gemeinsam genutztes Postfach vorliegt und mehrere Mitarbeiter E-Mail-Nachrichten von diesem Postfach aus senden, anstatt von ihren eigenen Exchange Online-Konten. 
     
-Weitere Informationen zu Zugriffsrechten finden Sie unter [Verwalten von Berechtigungen für Empfänger](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx).
+Weitere Informationen zu Zugriffsrechten finden Sie unter [Verwalten von Berechtigungen für Empfänger](/Exchange/recipients/mailbox-permissions).
   
 ### <a name="inbox-rules"></a>Posteingangsregeln
 
-Exchange Online ermöglicht es Benutzern, Posteingangsregeln zu erstellen, die automatisch spezifische, kriteriumsbasierte Aktionen beim Eingang von Nachrichten ausführen. Sie können beispielsweise eine Regel erstellen, um automatisch alle E-Mails in einen bestimmten Ordner zu verschieben, wenn die Mail an eine bestimmte Verteilergruppe gesendet wurde. Benutzer verwalten Posteingangsregeln in Outlook oder Outlook im Internet. Administratoren können bestimmte Typen von Posteingangsregeln blockieren, indem sie die serverseitige Weiterleitung und/oder serverseitige automatische Antworten deaktivieren. Wenn beispielsweise die serverseitige E-Mail-Weiterleitung deaktiviert ist, kann dies die Benutzer daran hindern, automatisch E-Mails an persönliche Konten weiterzuleiten. Gleichermaßen gilt, dass, wenn die serverseitigen automatischen Antworten deaktiviert sind, dies verhindern kann, dass außenstehende Parteien diese Antworten dazu nutzen, um gültige E-Mail-Adresse zu identifizieren. Diese Änderungen werden über die remote Windows PowerShell vorgenommen.
+Exchange Online ermöglicht es Benutzern, Posteingangsregeln zu erstellen, die automatisch spezifische, kriteriumsbasierte Aktionen beim Eingang von Nachrichten ausführen. Sie können beispielsweise eine Regel erstellen, um automatisch alle E-Mails in einen bestimmten Ordner zu verschieben, wenn die Mail an eine bestimmte Verteilergruppe gesendet wurde. Benutzer verwalten Posteingangsregeln von Outlook oder Outlook im Web. Administratoren können bestimmte Typen von Posteingangsregeln blockieren, indem sie die serverseitige Weiterleitung und/oder serverseitige automatische Antworten deaktivieren. Wenn beispielsweise die serverseitige E-Mail-Weiterleitung deaktiviert ist, kann dies die Benutzer daran hindern, automatisch E-Mails an persönliche Konten weiterzuleiten. Gleichermaßen gilt, dass, wenn die serverseitigen automatischen Antworten deaktiviert sind, dies verhindern kann, dass außenstehende Parteien diese Antworten dazu nutzen, um gültige E-Mail-Adresse zu identifizieren. Diese Änderungen werden über die remote Windows PowerShell vorgenommen.
   
 ### <a name="clutter"></a>Unwichtige Elemente
 
@@ -61,7 +61,7 @@ Die Funktion "Unwichtige Elemente" soll Ihnen helfen, sich auf die wichtigsten N
   
 ### <a name="connected-accounts"></a>Verbundene Konten
 
-Mit dem Feature verbundene Konten können Exchange Online Benutzer externe e-Mail-Konten (beispielsweise persönliche Konten) mit ihren internen e-Mail-Konten in Exchange Online verbinden und dann Outlook im Internet verwenden, um mit allen ihren Nachrichten an einer Stelle zu interagieren. Verbundene Konten werden bei der Anmeldung bei Outlook im Internet automatisch synchronisiert; Benutzer können die Konten auch manuell aus Outlook im Internet synchronisieren. Administratoren können dieses Feature für bestimmte Benutzer oder alle Benutzer über das [Exchange Admin Center](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409)aktivieren und deaktivieren.
+Mit dem Feature Verbundene Konten können Exchange Online-Benutzer externe E-Mail-Konten (z. B. persönliche Konten) mit ihren internen E-Mail-Konten in Exchange Online verbinden und dann Outlook im Web verwenden, um mit allen nachrichten an einem Ort zu interagieren. Verbundene Konten werden bei der Anmeldung bei Outlook im Web automatisch synchronisiert. Benutzer können die Konten auch manuell aus Outlook im Web synchronisieren. Administratoren können dieses Feature für bestimmte Benutzer oder alle Benutzer über das [Exchange Admin Center aktivieren und deaktivieren.](/exchange/exchange-admin-center)
   
 ### <a name="inactive-mailboxes"></a>Inaktive Postfächer
 
@@ -74,25 +74,25 @@ Damit ein inaktives Postfach aktiviert werden kann, muss dem Postfach eine Excha
   
 Weitere Informationen finden Sie unter:
   
-- [Verwalten inaktiver Postfächer in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286991)
+- [Verwalten inaktiver Postfächer in Exchange Online](/microsoft-365/security/office-365-security/exchange-online-protection-overview)
     
-- [In-Situ-Speicher und Beweissicherungsverfahren](https://go.microsoft.com/fwlink/p/?LinkId=271746)
+- [In-Situ-Speicher und Beweissicherungsverfahren](/exchange/security-and-compliance/in-place-and-litigation-holds)
     
-- [Compliance-eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=271747)
+- [Compliance-eDiscovery](/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)
     
 ## <a name="contacts-and-distribution-groups"></a>Kontakte und Verteilergruppen
 
 ### <a name="offline-address-book"></a>Offlineadressbuch
 
-Das Offlineadressbuch-Feature stellt eine Momentaufnahme der Active Directory Informationen bereit, die in der globalen Outlook-Adressliste (GAL) verfügbar sind. Sie werden lokal in Outlook zwischengespeichert, um sie bei der Offlinearbeit verfügbar zu machen.
+Das Offlineadressbuchfeature stellt eine Momentaufnahme der Active Directory-Informationen bereit, die in der globalen Adressliste (GAL) von Outlook verfügbar sind. Sie werden lokal in Outlook zwischengespeichert, um sie bei der Offlinearbeit verfügbar zu machen.
   
 ### <a name="address-book-policies"></a>Adressbuchrichtlinien
 
-Exchange Online unterstützt adressbuchrichtlinien. Adressbuchrichtlinien ermöglichen Ihnen die Einteilung von Benutzern in bestimmte Gruppen, um benutzerdefinierte Ansichten der globalen Adressliste Ihrer Organisation bereitzustellen. Bei der Erstellung einer ABP weisen Sie der Richtlinie eine globale Adressliste (GAL), ein Offlineadressbuch (OAB), eine Raumliste und eine oder mehrere Adresslisten zu. Anschließend können Sie die adressbuchrichtlinie Postfachbenutzern zuweisen und Ihnen Zugriff auf eine benutzerdefinierte GAL in Outlook und Outlook im Internet gewähren. Administratoren können über Windows PowerShell-Remotesitzungen Adressbuchrichtlinien konfigurieren. Weitere Informationen zu Adressbuchrichtlinien finden Sie unter [Adressbücher in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=394203).
+Exchange Online unterstützt Adressbuchrichtlinien. Adressbuchrichtlinien ermöglichen Ihnen die Einteilung von Benutzern in bestimmte Gruppen, um benutzerdefinierte Ansichten der globalen Adressliste Ihrer Organisation bereitzustellen. Bei der Erstellung einer ABP weisen Sie der Richtlinie eine globale Adressliste (GAL), ein Offlineadressbuch (OAB), eine Raumliste und eine oder mehrere Adresslisten zu. Anschließend können Sie den Postfachbenutzern den APS zuweisen und ihnen Zugriff auf eine angepasste GAL in Outlook und Outlook im Web bieten. Administratoren können über Windows PowerShell-Remotesitzungen Adressbuchrichtlinien konfigurieren. Weitere Informationen zu Adressbuchrichtlinien finden Sie unter [Adressbücher in Exchange Online](/exchange/address-books/address-books).
   
 ### <a name="address-lists"></a>Adresslisten
 
-Exchange Online unterstützt die Anpassung von Adresslisten und GALs. Eine GAL ist ein organisationsweites Verzeichnis aller e-Mail-aktivierten Benutzer, Verteilergruppen und externen Kontakte. Administratoren können Benutzer, Verteilergruppen und Kontakte aus der globalen Adressliste ausblenden, indem Sie das Verzeichnissynchronisierungstool oder Remote Windows PowerShell verwenden.
+Exchange Online unterstützt die Anpassung von Adresslisten und GALs. Eine GAL ist ein organisationsweites Verzeichnis aller E-Mail-aktivierten Benutzer, Verteilergruppen und externen Kontakte. Administratoren können Benutzer, Verteilergruppen und Kontakte über das Verzeichnissynchronisierungstool oder remote Windows PowerShell.
   
 ### <a name="hierarchical-address-books"></a>Hierarchische Adressbücher
 
@@ -102,14 +102,14 @@ Exchange Online unterstützt die Anpassung von Adresslisten und GALs. Eine GAL i
 
 Eine Verteilergruppe (oder Verteilerliste) ist eine Sammlung von Benutzern, Kontakten und anderen Verteilergruppen, die allen Benutzern in einem Unternehmen zur Verfügung steht. Benutzer richten eine E-Mail an ein Verteilergruppen-Alias, um Nachrichten an alle Personen in der Gruppe zu senden. Verteilergruppen ähneln persönlichen Verteilergruppen, die einzelne Benutzer in Outlook erstellen, allerdings sind ihre Mitgliederlisten global für das Unternehmen verfügbar. Administratoren erstellen Verteilergruppen in der Exchange-Verwaltungskonsole. Die Gruppen können auch aus dem lokalen Active Directory mit Exchange Online synchronisiert werden. Sie werden in der GAL in Outlook angezeigt. Exchange Online unterstützt erweiterte Verteilergruppenfunktionen, darunter auch die nachfolgend beschriebenen:
   
-- **Eingeschränkte Verteilergruppen** Standardmäßig kann jeder E-Mails an eine beliebige Verteilergruppe senden. Administratoren können Berechtigungen ändern, um es nur bestimmten Personen zu erlauben, E-Mails an eine bestimmte Gruppe zu senden, um z. B. den unangemessenen Gebrauch großer Verteilerlisten zu vermeiden. Administratoren können auch externe Quellen blockieren, sodass sie keine E-Mails an Verteilergruppen senden können, um den Versand von Junk-E-Mails zu verhindern. Bei Verteilergruppen, die mit dem Tool zur Verzeichnissynchronisierung aus dem lokalen Active Directory synchronisiert wurden, werden die Einschränkungsattribute automatisch mit der Cloud synchronisiert. Weitere Informationen finden Sie unter [Verwalten von Verteilergruppen](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
+- **Eingeschränkte Verteilergruppen** Standardmäßig kann jeder E-Mails an eine beliebige Verteilergruppe senden. Administratoren können Berechtigungen ändern, um es nur bestimmten Personen zu erlauben, E-Mails an eine bestimmte Gruppe zu senden, um z. B. den unangemessenen Gebrauch großer Verteilerlisten zu vermeiden. Administratoren können auch externe Quellen blockieren, sodass sie keine E-Mails an Verteilergruppen senden können, um den Versand von Junk-E-Mails zu verhindern. Bei Verteilergruppen, die mit dem Tool zur Verzeichnissynchronisierung aus dem lokalen Active Directory synchronisiert wurden, werden die Einschränkungsattribute automatisch mit der Cloud synchronisiert. Weitere Informationen finden Sie unter [Verwalten von Verteilergruppen](/Exchange/recipients/distribution-groups).
     
-- **Dynamische Verteilergruppen** Die Mitgliedschaftsliste für eine dynamische Verteilergruppe (auch bekannt als dynamische Verteilerliste oder abfragebasierte Verteilerliste) wird bei jedem Senden einer Nachricht an die Gruppe berechnet. Diese Berechnung basiert auf vom Administrator definierten Filtern und Bedingungen. Sie wird in Exchange Online über die remote Windows-PowerShell verwaltet. Weitere Informationen zu dynamischen Verteilergruppen finden Sie unter [Verwalten dynamischer Verteilergruppen](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
+- **Dynamische Verteilergruppen** Die Mitgliedschaftsliste für eine dynamische Verteilergruppe (auch bekannt als dynamische Verteilerliste oder abfragebasierte Verteilerliste) wird bei jedem Senden einer Nachricht an die Gruppe berechnet. Diese Berechnung basiert auf vom Administrator definierten Filtern und Bedingungen. Sie wird in Exchange Online über die remote Windows-PowerShell verwaltet. Weitere Informationen zu dynamischen Verteilergruppen finden Sie unter [Verwalten dynamischer Verteilergruppen](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups).
     
     > [!IMPORTANT]
     > Das Office 365-Tool zur Verzeichnissynchronisierung ignoriert dynamische Verteilergruppen im lokalen Active Directory und führt keine Synchronisierung mit Exchange Online durch. Organisationen, die das Tool zur Verzeichnissynchronisierung nutzen, sollten eine Benennungskonvention verwenden, mit der Konflikte zwischen den normalen Verteilergruppen, die lokal verwaltet werden, und den dynamischen Verteilergruppen, die in Exchange Online verwaltet werden, vermieden werden. 
   
-- **Moderierte Verteilergruppen** Administratoren können einen Moderator bestimmen, der den Nachrichtenfluss für eine Verteilergruppe reguliert. Bei moderierten Verteilergruppen kann jeder eine E-Mail an das Verteilergruppen-Alias senden; bevor jedoch die Nachricht an die Mitglieder der Gruppe zugestellt werden, muss ein Moderator sie überprüfen und genehmigen. Weitere Informationen zur Moderation finden Sie im Abschnitt „Nachrichtengenehmigung" unter [Verwalten von Verteilergruppen](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
+- **Moderierte Verteilergruppen** Administratoren können einen Moderator bestimmen, der den Nachrichtenfluss für eine Verteilergruppe reguliert. Bei moderierten Verteilergruppen kann jeder eine E-Mail an das Verteilergruppen-Alias senden; bevor jedoch die Nachricht an die Mitglieder der Gruppe zugestellt werden, muss ein Moderator sie überprüfen und genehmigen. Weitere Informationen zur Moderation finden Sie im Abschnitt „Nachrichtengenehmigung" unter [Verwalten von Verteilergruppen](/Exchange/recipients/distribution-groups).
     
 - **Self-Service-Verteilergruppen** Administratoren können es Benutzern gestatten, ihre eigene Mitgliedschaft in Verteilergruppen über eine webbasierte Oberfläche zu verwalten. Benutzern können die Berechtigungen gewährt werden, um Verteilergruppen zu erstellen, zu löschen, um ihnen beizutreten oder um aus ihnen auszutreten. Diese Funktionen sind standardmäßig für alle Benutzer von Exchange Online aktiviert. Administratoren können sie bei Bedarf deaktivieren, sodass nur die IT-Abteilung Verteilergruppen verwalten kann. Sie können auch Richtlinien für Benennungskonventionen erstellen, um die Namen von Verteilergruppen, die ihre Benutzer erstellen, zu standardisieren und zu verwalten. Sie können beim Erstellen des Verteilergruppennamens beispielsweise ein bestimmtes Präfix oder Suffix hinzufügen oder bestimmte Wörter für den Gruppennamen blockieren. 
     
@@ -120,27 +120,27 @@ Eine Verteilergruppe (oder Verteilerliste) ist eine Sammlung von Benutzern, Kont
 
 Ein externer Kontakt ist ein Datensatz mit Informationen zu einer Person, die außerhalb einer bestimmten Organisation arbeitet. Externe Kontakte ähneln persönlichen Kontakten, die einzelne Benutzer in Outlook erstellen, allerdings sind sie global für das Unternehmen verfügbar. Administratoren können externe Kontakte mit der Exchange-Verwaltungskonsole oder über Windows PowerShell-Remotesitzungen erstellen. Diese Kontakte können auch aus dem lokalen Active Directory mit Exchange Online synchronisiert werden. Sie werden in der GAL in Outlook angezeigt.
   
-Weitere Informationen zu externen Kontakten finden Sie unter [Erstellen einer Organisationsbeziehung in Exchange Online](https://technet.microsoft.com/library/jj916671%28v=exchg.150%29.aspx).
+Weitere Informationen zu externen Kontakten finden Sie unter [Erstellen einer Organisationsbeziehung in Exchange Online](/exchange/sharing/organization-relationships/create-an-organization-relationship).
   
 ## <a name="calendar-and-scheduling"></a>Kalender und Terminplanung
 
 ### <a name="resource-mailboxes"></a>Ressourcenpostfächer
 
-Ressourcenpostfächer (beispielsweise für Konferenzräume und physische Geräte) stellen die Besprechungsräume eines Unternehmens oder andere Einrichtungen oder Ressourcen dar. Benutzer können Räume oder Ressourcen reservieren, indem Sie den e-Mail-Alias der Ressource zu Besprechungsanfragen in Outlook oder Outlook im Internet hinzufügen. Konferenzräume und Ressourcen werden in der globalen Adressliste in Outlook und Outlook im Internet angezeigt.
+Ressourcenpostfächer (z. B. für Konferenzräume und physische Geräte) stellen die Besprechungsräume oder andere Einrichtungen oder Ressourcen eines Unternehmens dar. Benutzer können Räume oder Ressourcen reservieren, indem sie den E-Mail-Alias der Ressource besprechungsanfragen in Outlook oder Outlook im Web hinzufügen. Konferenzräume und Ressourcen werden in der GAL in Outlook und Outlook im Web angezeigt.
   
 Administratoren erstellen Ressourcenpostfächer mithilfe der Exchange-Verwaltungskonsole oder über Windows PowerShell-Remotesitzungen. Die Postfächer können auch aus dem lokalen Active Directory mit Exchange Online synchronisiert werden.
   
 Weitere Informationen zu Ressourcenpostfächern finden Sie unter:
   
-- [Erstellen und Verwalten von Raumpostfächern](https://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
+- [Erstellen und Verwalten von Raumpostfächern](/Exchange/recipients/room-mailboxes)
     
-- [Verwalten von Gerätepostfächern](https://go.microsoft.com/fwlink/?LinkId=717534)
+- [Verwalten von Gerätepostfächern](/Exchange/recipients/equipment-mailboxes)
     
 ### <a name="conference-room-management"></a>Konferenzraumverwaltung
 
 Exchange Online umfasst eine Ressourcenbuchungsautomatik (RBA), mit der die Planung von Konferenzräumen und anderen Ressourcen automatisiert wird. Ein Ressourcenpostfach das mit der RBA konfiguriert wurde, akzeptiert oder bestätigt basierend auf der Kalenderverfügbarkeit der Ressource Besprechungsanfragen von einem Besprechungsorganisator oder lehnt sie ab. 
   
-Administratoren können automatisierte Konferenzraum Antworten anpassen und Buchungsrichtlinien in Outlook im Internet konfigurieren. Diese Richtlinien beinhalten, wer die Ressource planen kann, wann sie eingeplant werden kann, welche Besprechungsinformationen im Kalender der Ressource angezeigt werden sowie den Prozentsatz der zulässigen Planungskonflikte. Administratoren können die Ressourcenbuchungsautomatik deaktivieren und bestimmte Benutzer zuweisen, um die Besprechungsanfragen für Konferenzräume manuell zu verwalten.
+Administratoren können automatisierte Konferenzraumantworten anpassen und Buchungsrichtlinien in Outlook im Web konfigurieren. Diese Richtlinien beinhalten, wer die Ressource planen kann, wann sie eingeplant werden kann, welche Besprechungsinformationen im Kalender der Ressource angezeigt werden sowie den Prozentsatz der zulässigen Planungskonflikte. Administratoren können die Ressourcenbuchungsautomatik deaktivieren und bestimmte Benutzer zuweisen, um die Besprechungsanfragen für Konferenzräume manuell zu verwalten.
   
 Administratoren müssen die RBA-Einstellungen über die remote Windows-PowerShell definieren und verwalten.
   
@@ -152,11 +152,11 @@ Abwesenheitsnachrichten sind automatische Antworten auf eingehende Nachrichten, 
 
 Benutzer können ihre persönlichen Kalender auf zwei Arten freigeben:
   
-- **Verbundfreigabe für Kalender** Verbund bezieht sich auf die zugrunde liegende Vertrauensstellungsinfrastruktur, die die Verbundfreigabe unterstützt, eine einfache Methode für Exchange-Benutzer, die Frei/Gebucht-Daten im Kalender und Kontaktinformationen für Empfänger in anderen externen Verbundorganisationen freigeben möchten. Dazu gehören Exchange Online-Organisationen oder Organisationen, die Exchange Server 2010 oder Exchange Server 2013 lokal ausführen. Exchange Online Administratoren müssen keine Vertrauensstellung mit dem Microsoft Federation Gateway einrichten, da diese Vertrauensstellung für alle Exchange Online-Kunden vorkonfiguriert ist, wenn der Microsoft-Dienst erstellt wird. Eine Standardfreigaberichtlinie ermöglicht Benutzern das Senden von Einladungen zur Kalenderfreigabe aus Outlook im Internet oder Outlook 2010. Administratoren verwenden die remote Windows PowerShell, um diese Richtlinie zu deaktivieren oder um den Umfang an Frei/Gebucht-Daten im Kalender zu konfigurieren, die Benutzer freigeben können. Administratoren können auch eine Beziehung von einer Organisation zu einer anderen mit einer anderen Verbundorganisation erstellen, sodass der gewünschte Umfang an Frei/Gebucht-Informationen für alle Benutzer organisationsübergreifend sichtbar ist, ohne dass einzelne Benutzer eine Freigabeeinladung senden müssen. Innerhalb der vom Administrator definierten Freigaberichtlinien und/oder Organisation-zu-Organisation-Beziehungen können Benutzer den Umfang ihrer Freigabe weiter gezielt einschränken. 
+- **Verbundfreigabe für Kalender** Verbund bezieht sich auf die zugrunde liegende Vertrauensstellungsinfrastruktur, die die Verbundfreigabe unterstützt, eine einfache Methode für Exchange-Benutzer, die Frei/Gebucht-Daten im Kalender und Kontaktinformationen für Empfänger in anderen externen Verbundorganisationen freigeben möchten. Dazu gehören Exchange Online-Organisationen oder Organisationen, die Exchange Server 2010 oder Exchange Server 2013 lokal ausführen. Exchange Online-Administratoren müssen beim Microsoft Federation Gateway keine Vertrauensstellung einrichten, da diese Vertrauensstellung für alle Exchange Online-Kunden vorkonfiguriert ist, wenn der Microsoft-Dienst erstellt wird. Eine Standardfreigaberichtlinie ermöglicht Benutzern das Senden von Kalenderfreigabeeinladungen aus Outlook im Web oder Outlook 2010. Administratoren verwenden die remote Windows PowerShell, um diese Richtlinie zu deaktivieren oder um den Umfang an Frei/Gebucht-Daten im Kalender zu konfigurieren, die Benutzer freigeben können. Administratoren können auch eine Beziehung von einer Organisation zu einer anderen mit einer anderen Verbundorganisation erstellen, sodass der gewünschte Umfang an Frei/Gebucht-Informationen für alle Benutzer organisationsübergreifend sichtbar ist, ohne dass einzelne Benutzer eine Freigabeeinladung senden müssen. Innerhalb der vom Administrator definierten Freigaberichtlinien und/oder Organisation-zu-Organisation-Beziehungen können Benutzer den Umfang ihrer Freigabe weiter gezielt einschränken. 
     
-- **Kalenderfreigabe im Internet** Exchange Online ermöglicht es den Benutzern, ihre Kalender im iCal-Format für einen anonymen Zugriff von Benutzern innerhalb oder außerhalb der Organisation zu veröffentlichen. Empfänger können Exchange, eine andere Plattform oder einfach einen Webbrowser verwenden. Exchange Online Benutzer können auch Kalender abonnieren, die andere über iCal an Internetstandorten veröffentlicht haben. Diese Freigabe von persönlichen Kalendern unterscheidet sich von der Verbundfreigabe für Kalender, die von einem Administrator eingerichtet wird und die die Freigabe von Frei/Gebucht-Informationen zwischen Organisationen ermöglicht. Kein Benutzer kann Kalenderdaten im iCal-Format veröffentlichen, bis der Administrator eine Freigaberichtlinie festgelegt und angewendet hat, die dies zulässt. Administratoren können die iCal-Veröffentlichung und iCal-Abonnements für Benutzer in einer Organisation mit der remoten Windows PowerShell deaktivieren.
+- **Kalenderfreigabe im Internet** Exchange Online ermöglicht es den Benutzern, ihre Kalender im iCal-Format für einen anonymen Zugriff von Benutzern innerhalb oder außerhalb der Organisation zu veröffentlichen. Empfänger können Exchange, eine andere Plattform oder einfach einen Webbrowser verwenden. Exchange Online-Benutzer können auch Kalender abonnieren, die andere über iCal an Internetstandorten veröffentlicht haben. Diese Freigabe von persönlichen Kalendern unterscheidet sich von der Verbundfreigabe für Kalender, die von einem Administrator eingerichtet wird und die die Freigabe von Frei/Gebucht-Informationen zwischen Organisationen ermöglicht. Kein Benutzer kann Kalenderdaten im iCal-Format veröffentlichen, bis der Administrator eine Freigaberichtlinie festgelegt und angewendet hat, die dies zulässt. Administratoren können die iCal-Veröffentlichung und iCal-Abonnements für Benutzer in einer Organisation mit der remoten Windows PowerShell deaktivieren.
     
-Weitere Informationen zur Verbundfreigabe finden Sie unter [Freigabe in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
+Weitere Informationen zur Verbundfreigabe finden Sie unter [Freigabe in Exchange Online](/exchange/sharing/sharing).
   
 ### <a name="outlook-2010-room-finder"></a>Outlook 2010-Raumsuche
 
@@ -168,5 +168,4 @@ Exchange Online unterstützt die Raumsuchfunktion von Outlook 2010, mit der Räu
     
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
-  
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Protection bereitstellen, sowie einen Vergleich der Features in diesen Plänen.
-ms.openlocfilehash: 187ec7cee1b045a9e859e1157cddef29059cac2b
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901936"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173810"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
@@ -65,14 +65,14 @@ Microsoft Exchange Enterprise CAL with Services bietet die E-Mail-Schutzfunktion
 
 Weitere Informationen zur Exchange Enterprise CAL with Services-Lizenzierung finden Sie unter Häufig gestellte Fragen zur [Exchange-Lizenzierung](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
 
-Wenn Sie über Exchange Enterprise CAL mit Services-Lizenzen verfügen und EOP bereitstellen möchten, befolgen Sie die Anweisungen unter [Einrichten Ihres EOP-Diensts.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service) Die Installationsschritte sind mit den Schritten für die Installation der eigenständigen EOP-Lösung identisch.
+Wenn Sie über Exchange Enterprise CAL mit Services-Lizenzen verfügen und EOP bereitstellen möchten, befolgen Sie die Anweisungen unter [Einrichten Ihres EOP-Diensts.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Die Installationsschritte sind mit den Schritten für die Installation der eigenständigen EOP-Lösung identisch.
 
 > [!NOTE]
 > Neue Funktionen für Exchange Enterprise CAL mit Diensten werden gleichzeitig mit Exchange Online bereitgestellt, nicht mit der eigenständigen Installation von EOP. Beachten Sie, dass sich die Bereitstellungszeitpläne für EOP als eigenständige Installation und Exchange Online/Exchange Enterprise CAL mit Diensten geringfügig unterscheiden können.
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Anforderungen für Exchange Online Protection (EOP)
 
-EOP kann mit jedem SMTP-E-Mail-Übertragungs-Agent verwendet werden, z. B. Microsoft Exchange Server. Informationen zu den von EOP unterstützten Betriebssystemen, Webbrowsern und Sprachen finden Sie in den Abschnitten "Unterstützte Browser" und "Unterstützte Sprachen" im [Exchange Admin Center in Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
+EOP kann mit jedem SMTP-E-Mail-Übertragungs-Agent verwendet werden, z. B. Microsoft Exchange Server. Informationen zu den von EOP unterstützten Betriebssystemen, Webbrowsern und Sprachen finden Sie in den Abschnitten "Unterstützte Browser" und "Unterstützte Sprachen" im [Exchange Admin Center in Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
 
 ## <a name="limits"></a>Grenzwerte
 
@@ -100,8 +100,8 @@ Jedes Funktion ist unten aufgeführt. Detailliertere Informationen zu EOP-Funkti
 |[Quarantäne](anti-spam-and-anti-malware-protection-eop.md#quarantine): Verwaltung durch Administrator|Ja|Ja|Ja|
 |[Quarantäne](anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|
 |[Übermittlung](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|Nein|Ja|Nein|
-|[Melden von Nachrichten-Add-Ins für Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Ja|Ja|Ja|
-|[Junk-E-Mail-Berichterstellung in Outlook im Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Ja|Ja|Ja|
+|[Melden von Nachrichten-Add-Ins für Outlook](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Ja|Ja|Ja|
+|[Junk-E-Mail-Berichterstellung in Outlook im Web](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Ja|Ja|Ja|
 |[Weiterleiten von E-Mails zwischen Microsoft und Ihren eigenen E-Mail-Servern](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Ja|Ja|Ja|
 |[Sichere Nachrichten mit einem vertrauenswürdigen Partner](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Ja|Ja|Ja|
 |[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Ja|Ja|Ja|
@@ -117,10 +117,10 @@ Jedes Funktion ist unten aufgeführt. Detailliertere Informationen zu EOP-Funkti
 <sup>1</sup> E-Mail-Benutzer werden als „Postfächer" definiert und können zusammen mit externen E-Mail-Kontakten direkt in der Exchange-Verwaltungskonsole hinzugefügt, entfernt und anderweitig verwaltet werden. <br/>
 <sup>2</sup> Keine RBAC-Anpassung. Nur Administratorrollen. <br/>
 <sup>3</sup> In der Exchange-Verwaltungskonsole können verwaltete Domänen angezeigt und Domänentypen bearbeitet werden. Alle anderen Domänenverwaltungen müssen im Microsoft 365 Admin Center durchgeführt werden.<br/>
-<sup>4</sup> Nachrichtenflussregeln (auch als Transportregeln bezeichnet) in EOP werden unter [Nachrichtenflussregeln (Transportregeln) in Exchange Online Protection beschrieben.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) Die verfügbaren Nachrichtenflussregelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EOP und Exchange Online. Diese Unterschiede werden in Nachrichtenflussregelbedingungen und Ausnahmen [(Prädikate) in Exchange Online-](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) und [Nachrichtenflussregelaktionen in Exchange Online festgestellt.](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
+<sup>4</sup> Nachrichtenflussregeln (auch als Transportregeln bezeichnet) in EOP werden unter [Nachrichtenflussregeln (Transportregeln) in Exchange Online Protection beschrieben.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) Die verfügbaren Nachrichtenflussregelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EOP und Exchange Online. Diese Unterschiede werden in Nachrichtenflussregelbedingungen und Ausnahmen [(Prädikate) in Exchange Online-](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) und [Nachrichtenflussregelaktionen in Exchange Online festgestellt.](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
 <sup>5</sup> EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern. <br/>
 <sup>6</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar.  <br/>
-<sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit dies mit lokalen Exchange-Postfächern funktioniert, müssen Sie auch zwei Transportregeln in Ihrer lokalen Exchange-Organisation konfigurieren, um von EOP hinzugefügte Spamheader zu erkennen. Weitere Informationen finden Sie unter [Configure standalone EOP to deliver spam to the Junk Email folder in hybrid environments](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
+<sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit dies mit lokalen Exchange-Postfächern funktioniert, müssen Sie auch zwei Transportregeln in Ihrer lokalen Exchange-Organisation konfigurieren, um von EOP hinzugefügte Spamheader zu erkennen. Weitere Informationen finden Sie unter [Configure standalone EOP to deliver spam to the Junk Email folder in hybrid environments](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
 <sup>9</sup> Die EOP-Berichte sind eine Teilmenge der Exchange Online-Berichte und enthalten keine Informationen zu Postfächern.<br/>
 <sup>10</sup> Enthält DLP-Berichte. <br/>
 <sup>12</sup> Wird für lokale Kunden unterstützt, die Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. <br/>

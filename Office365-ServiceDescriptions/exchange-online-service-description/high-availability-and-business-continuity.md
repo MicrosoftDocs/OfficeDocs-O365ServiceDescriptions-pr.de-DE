@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online bietet umfangreiche Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
-ms.openlocfilehash: 395977f77d4293d18c5cf53e02d43566ca9f7313
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Exchange Online bietet umfassende Aufbewahrungs- und Wiederherstellungsunterstützung für die E-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
+ms.openlocfilehash: e205f26bfa611e388cc22557db98eeb84505ef9c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131969"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173680"
 ---
 # <a name="high-availability-and-business-continuity"></a>Hohe Verfügbarkeit und Geschäftskontinuität
 
-Microsoft Exchange Online bietet umfangreiche Aufbewahrungs-und Wiederherstellungsunterstützung für die e-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
+Microsoft Exchange Online bietet umfassende Aufbewahrungs- und Wiederherstellungsunterstützung für die E-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
   
 ## <a name="mailbox-replication-at-data-centers"></a>Postfachreplikation in Datencentern
 
@@ -30,19 +30,18 @@ Weitere Informationen dazu, wie Microsoft Ihre Daten schützt, finden Sie im [Of
   
 ## <a name="deleted-mailbox-recovery"></a>Wiederherstellung gelöschter Postfächer
 
-Administratoren können Exchange Online Postfächer löschen, indem Sie das Microsoft 365 Admin Center verwenden, um das entsprechende Benutzerkonto zu löschen oder die Exchange Online Lizenz zu entfernen, oder indem Sie das Cmdlet **Remove-Mailbox** in Remote Windows PowerShell verwenden. Wenn ein Postfach gelöscht wird, behält Exchange Online das Postfach und dessen Inhalte standardmäßig 30 Tage lang bei. Nach 30 Tagen kann das Postfach nicht mehr hergestellt werden. Ein wieder hergestelltes Postfach enthält alle darin gespeicherten Daten zu dem Zeitpunkt, zu dem es gelöscht wurde. Administratoren können ein gelöschtes Postfach innerhalb des Aufbewahrungszeitraums mithilfe des Microsoft 365 Admin Center wiederherstellen. Um ein gelöschtes Postfach wiederherzustellen, müssen Administratoren das entsprechende Benutzerkonto wiederherstellen oder dem Benutzerkonto eine Exchange Online Lizenz zuweisen. Weitere Informationen finden Sie unter [Exchange Online-Benutzerpostfächer löschen oder wiederherstellen](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+Administratoren können Exchange Online-Postfächer löschen, indem sie das Microsoft 365 Admin Center verwenden, um das entsprechende Benutzerkonto zu löschen oder die Exchange Online-Lizenz zu entfernen, oder mithilfe des **Cmdlets Remove-Mailbox** in remote Windows PowerShell. Wenn ein Postfach gelöscht wird, behält Exchange Online das Postfach und dessen Inhalt standardmäßig 30 Tage lang bei. Nach 30 Tagen kann das Postfach nicht mehr wiederhergestellt werden. Ein wiederhergestelltes Postfach enthält alle Daten, die zum Zeitpunkt des Löschens gespeichert wurden. Administratoren können ein gelöschtes Postfach innerhalb des Aufbewahrungszeitraums mithilfe des Microsoft 365 Admin Centers wiederherstellen. Zum Wiederherstellen eines gelöschten Postfachs müssen Administratoren das entsprechende Benutzerkonto wiederherstellen oder dem Benutzerkonto eine Exchange Online-Lizenz erneut zuweisen. Weitere Informationen finden Sie unter [Exchange Online-Benutzerpostfächer löschen oder wiederherstellen](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
   
 ## <a name="deleted-item-recovery"></a>Wiederherstellung gelöschter Elemente
 
-Exchange Online ermöglicht Benutzern das Wiederherstellen von Elementen, die aus einem beliebigen e-Mail-Ordner gelöscht wurden, einschließlich des Ordners "Gelöschte Elemente". Wenn ein Element gelöscht wird, bleibt es im Ordner "Gelöschte Elemente" erhalten. Es wird dort aufbewahrt, bis es entweder manuell vom Benutzer oder automatisch durch Aufbewahrungsrichtlinien entfernt wird. Administratoren können Aufbewahrungsrichtlinien mit der Exchange-Verwaltungskonsole oder der Remote-Windows PowerShell anpassen.
+Mit Exchange Online können Benutzer Elemente wiederherstellen, die sie aus einem beliebigen E-Mail-Ordner gelöscht haben, einschließlich des Ordners "Gelöschte Elemente". Wenn ein Element gelöscht wird, bleibt es im Ordner "Gelöschte Elemente" erhalten. Es wird dort aufbewahrt, bis es entweder manuell vom Benutzer oder automatisch durch Aufbewahrungsrichtlinien entfernt wird. Administratoren können Aufbewahrungsrichtlinien mit der Exchange-Verwaltungskonsole oder der Remote-Windows PowerShell anpassen.
   
-Nachdem ein Element aus dem Ordner "Gelöschte Elemente" entfernt wurde, wird es in einem Ordner "Wiederherstellbare Elemente" für weitere 14 Tage aufbewahrt, bevor es endgültig entfernt wird, Administratoren können dies jedoch mit Remote Windows PowerShell auf maximal 30 Tage verlängern. Benutzer können das Element während dieses Zeitraums wiederherstellen, indem Sie das Feature Gelöschte Elemente wiederherstellen in Outlook im Internet oder Outlook verwenden. Hier erfahren Sie, wie Sie [den Aufbewahrungszeitraum für gelöschte Elemente ändern](https://go.microsoft.com/fwlink/p/?LinkId=286940).
+Nachdem ein Element aus dem Ordner "Gelöschte Elemente" entfernt wurde, wird es für weitere 14 Tage in einem Ordner "Wiederherstellbare Elemente" aufbewahrt, bevor es endgültig entfernt wird. Administratoren können dies jedoch mithilfe von Remoteservern auf maximal 30 Tage Windows PowerShell. Benutzer können das Element während dieses Zeitraums mithilfe des Features Gelöschte Elemente wiederherstellen in Outlook im Web oder outlook wiederherstellen. Erfahren Sie, wie [Sie den Aufbewahrungszeitraum für gelöschte Elemente ändern.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention)
   
-Wenn ein Benutzer ein Element manuell aus dem Ordner "Wiederherstellbare Elemente" gelöscht hat, kann ein Administrator das Element mit der Funktion zur Wiederherstellung einzelner Elemente und der Remote-Windows PowerShell innerhalb desselben Zeitraums wiederherstellen. Die Wiederherstellung einzelner Elemente wird bei der Erstellung eines Postfachs standardmäßig aktiviert. Weitere Informationen finden Sie unter [Aktivieren oder Deaktivieren der Wiederherstellung einzelner Elemente für ein Postfach](https://go.microsoft.com/fwlink/p/?LinkID=286941).
+Wenn ein Benutzer ein Element manuell aus dem Ordner "Wiederherstellbare Elemente" gelöscht hat, kann ein Administrator das Element mit der Funktion zur Wiederherstellung einzelner Elemente und der Remote-Windows PowerShell innerhalb desselben Zeitraums wiederherstellen. Die Wiederherstellung einzelner Elemente wird bei der Erstellung eines Postfachs standardmäßig aktiviert. Weitere Informationen finden Sie unter [Aktivieren oder Deaktivieren der Wiederherstellung einzelner Elemente für ein Postfach](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-single-item-recovery).
   
-Sollen Nachrichten länger als 30 Tage im Ordner "Wiederherstellbare Elemente" aufbewahrt werden, können Organisationen Langzeitaufbewahrung oder zeitbasierte In-Situ-Speicher implementieren. Unter diesem Link finden Sie weitere Informationen zu [In-Situ-Speichern für Postfächer](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+Sollen Nachrichten länger als 30 Tage im Ordner "Wiederherstellbare Elemente" aufbewahrt werden, können Organisationen Langzeitaufbewahrung oder zeitbasierte In-Situ-Speicher implementieren. Unter diesem Link finden Sie weitere Informationen zu [In-Situ-Speichern für Postfächer](/exchange/security-and-compliance/in-place-and-litigation-holds).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
-  
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 5308770ff7fc6ab6c44f27293ff89ebbffa6e72f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 21df7d4747ae0b92f21a9da56c0d4bc9ff96ccaf
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132749"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173320"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilität, Konnektivität und Kompatibilität
 
@@ -27,15 +27,15 @@ Bei Kunden, die Microsoft Lync Server 2010, Lync Server 2013 oder Microsoft Offi
   
 Lokale Bereitstellungen von Lync Server 2010 und Lync Server 2013 unterstützen die Interoperabilität mit Exchange Online auf zwei Arten:
   
-- Interoperabilität von Sofortnachrichten und Anwesenheit in Outlook im Internet
+- Interoperabilität von Im- und Anwesenheitsinformationen in Outlook im Web
     
 - Interoperabilität von Voicemails
     
-Weitere Informationen zum Konfigurieren von Skype for Business Server 2015 mit Exchange Online finden Sie unter [Konfigurieren der Integration zwischen lokalem Skype for Business Server 2015 und Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271804). Informationen zu Hybridkonfigurationen finden Sie unter [Unterstützte Hybridkonfigurationen für Skype for Business Server 2015](https://go.microsoft.com/fwlink/?LinkID=513084).
+Weitere Informationen zum Konfigurieren von Skype for Business Server 2015 mit Exchange Online finden Sie unter [Konfigurieren der Integration zwischen lokalem Skype for Business Server 2015 und Exchange Online](/skypeforbusiness/deploy/integrate-with-exchange-server/outlook-web-app). Informationen zu Hybridkonfigurationen finden Sie unter [Unterstützte Hybridkonfigurationen für Skype for Business Server 2015](/skypeforbusiness/skype-for-business-hybrid-solutions/integration-with-exchange-and-sharepoint).
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Für Kunden, die Microsoft SharePoint Server oder SharePoint Online im Rahmen eines Abonnementplans bereitgestellt haben, kann SharePoint eine Verbindung mit Exchange Online für integrierte Dienste herstellen.
+Für Kunden, die Microsoft SharePoint Server oder SharePoint Online als Teil eines Abonnementplans bereitgestellt haben, kann SharePoint eine Verbindung mit Exchange Online für integrierte Dienste herstellen.
   
 Weitere Informationen zum Verbinden von SharePoint mit Exchange Online finden Sie unter [Verwenden von SharePoint Online zusammen mit anderen Diensten in einer benutzerdefinierten Domäne](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -49,7 +49,7 @@ Exchange Online bietet die folgenden Funktionen zum Herstellen einer Verbindung 
     
 ### <a name="exchange-web-services"></a>Exchange-Webdienste
 
-Exchange-Webdienste (Exchange Web Services, EWS) ist die bevorzugte Entwicklungs-API für Exchange Server und Exchange Online. Mithilfe von EWS oder der verwaltete EWS-API können Administratoren auf Daten zugreifen, die mit Exchange Online von Anwendungen gespeichert werden, die lokal, in Azure oder in anderen gehosteten Diensten ausgeführt werden. Mit EWS können Administratoren spezielle Aktionen durchführen, beispielsweise das Abfragen des Inhalts eines Postfachs, das Veröffentlichen eines Kalenderereignisses, das Erstellen einer Aufgabe oder das Auslösen einer bestimmten Aktion basierend auf dem Inhalt einer e-Mail-Nachricht. Exchange Online aktiviert Exchange-Webdienste-Funktionen, indem Kundenkonten Anwendungsberechtigungen gewährt werden. Diese Berechtigungen ermöglichen es der Kundenanwendung, auf das Anwendungspostfach zuzugreifen und Inhalte hinzuzufügen. Exchange-Identitätswechsel ist eine Methode, um Anwendungsberechtigungen zu gewähren. Informationen dazu, wie Sie Exchange-Webdienste mit Exchange Online verwenden können, finden Sie in den technischen Artikeln im Exchange Online Developer Center.
+Exchange-Webdienste (Exchange Web Services, EWS) ist die bevorzugte Entwicklungs-API für Exchange Server und Exchange Online. Mithilfe von EWS oder der verwalteten EWS-API können Administratoren über Anwendungen, die lokal, in Azure oder in anderen gehosteten Diensten ausgeführt werden, auf mit Exchange Online gespeicherte Daten zugreifen. MIT EWS können Administratoren spezielle Aktionen ausführen, z. B. das Abfragen des Inhalts eines Postfachs, das Veröffentlichen eines Kalenderereigniss, das Erstellen einer Aufgabe oder das Auslösen einer bestimmten Aktion basierend auf dem Inhalt einer E-Mail-Nachricht. Exchange Online aktiviert Exchange-Webdienste-Funktionen, indem Kundenkonten Anwendungsberechtigungen gewährt werden. Diese Berechtigungen ermöglichen es der Kundenanwendung, auf das Anwendungspostfach zuzugreifen und Inhalte hinzuzufügen. Exchange-Identitätswechsel ist eine Methode, um Anwendungsberechtigungen zu gewähren. Informationen dazu, wie Sie Exchange-Webdienste mit Exchange Online verwenden können, finden Sie in den technischen Artikeln im Exchange Online Developer Center.
   
 ### <a name="smtp-relay"></a>SMTP-Relay
 
@@ -57,6 +57,4 @@ Exchange Online kann als ein SMTP-Zustelldienst verwendet werden, um von Fax-Gat
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
-  
-
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).

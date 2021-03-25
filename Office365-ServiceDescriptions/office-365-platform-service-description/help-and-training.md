@@ -10,21 +10,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
-ms.openlocfilehash: 7c34c20d9f2231f278442137f1b615be4201d4c8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Office 365 bietet die folgenden Hilfe- und Schulungsressourcen.
+ms.openlocfilehash: 0de5b5d18f2744799db7db0595db78a27f39992b
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132319"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173480"
 ---
 # <a name="help-and-training"></a>Help and training
 
-Microsoft Office 365 bietet die folgenden Hilfe-und Schulungsressourcen.
+Microsoft Office 365 bietet die folgenden Hilfe- und Schulungsressourcen.
   
 ## <a name="online-help"></a>Onlinehilfe
 
-Hilfeartikel und Videos sind über einen beliebigen Inline-Hilfe-Link im Dienst verfügbar, einschließlich des Hilfe Symbols in der oberen Navigationsleiste des Office 365-Portals und des Microsoft 365 admin Centers. Außerdem können Sie die gesamte Office 365-Hilfe unter [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) durchsuchen. 
+Hilfeartikel und Videos sind über jeden Inlinehilfelink im Dienst verfügbar, einschließlich des Hilfesymbols in der oberen Navigationsleiste des Office 365-Portals und des Microsoft 365 Admin Centers. Außerdem können Sie die gesamte Office 365-Hilfe unter [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) durchsuchen. 
   
 ## <a name="training"></a>Schulungen
 
@@ -45,7 +45,7 @@ Zur Zertifizierung stehen Schulungen per Video und Webinar sowie in Form von Kur
 ## <a name="community"></a>Community
 
 > [!NOTE]
-> Community-Ressourcen gelten weltweit für Versionen von Office 365. Bei Verwendung von Office 365, betrieben von 21Vianet, können Sie WeChat verwenden. Rufen Sie die Seite [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) auf, und scrollen Sie bis zum QR-Code. 
+> Community-Ressourcen gelten weltweit für Versionen von Office 365. Bei Verwendung von Office 365, betrieben von 21Vianet, können Sie WeChat verwenden. Rufen Sie die Seite [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](/microsoft-365/admin/contact-support-for-business-products) auf, und scrollen Sie bis zum QR-Code. 
   
 Die Office 365-Community ist eine zentrale Stelle für Supportinformationen zur Selbsthilfe. Sie verfügt über aktuelle Informationen, sodass Kunden Antworten auf eine Vielzahl von technischen Fragen sowie Fragen zur Rechnungsstellung und zum Dienst in Supportforen, Wikis und Blogs finden können. Die Support-Foren werden von Microsoft Support-Spezialisten besetzt und moderiert.
   
@@ -89,23 +89,23 @@ Von der Startseite der Office 365-Community aus können Kunden auf die folgenden
     
 Weitere Informationen finden Sie in der [Office 365-Community](https://techcommunity.microsoft.com/).
   
-## <a name="manage-office-365-guidance"></a>Verwalten von Office 365 Anleitungen
+## <a name="manage-office-365-guidance"></a>Verwalten von Office 365-Anleitungen
 
-IT-Experten großer Organisationen können die Homepage Manage Office 365 Documentation besuchen. Diese Seite enthält Links zu komplexen Bereitstellungsanleitungen für große Organisationen.
+IT-Experten großer Organisationen können die Startseite der Office 365-Dokumentation verwalten besuchen. Diese Seite enthält Links zu komplexen Bereitstellungsanleitungen für große Organisationen.
   
-Weitere Informationen finden Sie unter [Manage Office 365](https://docs.microsoft.com/Office365/).
+Weitere Informationen finden Sie unter [Verwalten von Office 365](/Office365/).
   
 ## <a name="other-self-help-resources"></a>Weitere Selbsthilferessourcen
 
-Neben der Office 365 Community und der Online Hilfe umfasst Office 365 die folgenden Self-Help-Ressourcen:
+Zusätzlich zur Office 365-Community- und Onlinehilfe enthält Office 365 die folgenden Selbsthilferessourcen:
   
 - **Tool zur Problembehandlung für Office 365** Sobald Sie eine Reihe von kurzen Fragen zu Ihrem Problem beantwortet haben, schlägt das Tool zur Problembehandlung für Office 365 basierend auf Ihren Antworten nützliche Tools und Informationen vor. Gehen Sie zur Seite mit dem [Tool zur Problembehandlung für Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) in der Office 365-Community, um das Tool zu verwenden. 
     
-- **Technische Supportvideos** Anhand der am häufigsten gestellten Fragen von Kunden haben wir englischsprachige Lehrvideos zur Problembehandlung für Sie aufgezeichnet. Es gibt mehr als 35 verschiedene Videos, und jede Woche kommen weitere hinzu. Die Themen reichen von einer Übersicht über die BlackBerry®-Verwaltungskonsole bis hin zur Aktivierung und Migration der Verzeichnissynchronisierung. Besuchen Sie die Office 365-Community, um sich diese Videos anzuschauen und nach Videos zu suchen. Wir ermutigen unsere Kunden ausdrücklich, uns über das Community-Portal Videowünsche zukommen zu lassen. Sie können auch unseren [Office 365-Kanal bei YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) und unseren [Showcase-Kanal](https://go.microsoft.com/fwlink/?LinkId=272060) besuchen. 
+- **Technische Supportvideos** Anhand der am häufigsten gestellten Fragen von Kunden haben wir englischsprachige Lehrvideos zur Problembehandlung für Sie aufgezeichnet. Es gibt mehr als 35 verschiedene Videos, und jede Woche kommen weitere hinzu. Die Themen reichen von einer Übersicht über die BlackBerry®-Verwaltungskonsole bis hin zur Aktivierung und Migration der Verzeichnissynchronisierung. Besuchen Sie die Office 365-Community, um sich diese Videos anzuschauen und nach Videos zu suchen. Wir ermutigen unsere Kunden ausdrücklich, uns über das Community-Portal Videowünsche zukommen zu lassen. Sie können auch unseren [Office 365-Kanal bei YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) und unseren [Showcase-Kanal](../office-365-service-descriptions-technet-library.md) besuchen. 
     
 - **Soziale Medien** Wenn Kunden und Partner Office 365 auf [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) und [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) folgen, erhalten sie weitere Informationen über Office 365. Dies ist ein schneller und leichter Weg, um mehr über Office 365 zu erfahren. Kunden haben so Zugang zu den Meinungen und Aussagen anderer und können eigene Kommentare und Tweets posten. Microsoft-Supportmitarbeiter überwachen Facebook- und Twitter-Aktivitäten mit Microsoft-Bezug, um bei allen Support-bezogenen Anfragen zu helfen. Die neuesten Facebook-Feeds und Tweets finden Sie unten auf der Startseite der Office 365-Community. Hier können Sie die täglichen Diskussionen unserer Kunden und Partner mitverfolgen. 
     
-    Bei Verwendung von Office 365, betrieben von 21Vianet, können Sie WeChat verwenden. Rufen Sie die Seite [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) auf, und scrollen Sie bis zum QR-Code. 
+    Bei Verwendung von Office 365, betrieben von 21Vianet, können Sie WeChat verwenden. Rufen Sie die Seite [Anfordern von technischem Support und von Unterstützung bei der Abrechnung und dem Abonnement für Office 365, betrieben von 21Vianet](/microsoft-365/admin/contact-support-for-business-products) auf, und scrollen Sie bis zum QR-Code. 
     
 ## <a name="languages"></a>Sprachen
 
@@ -148,4 +148,4 @@ Hilfe- und Schulungsressourcen stehen in folgenden Sprachen zur Verfügung.
    
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie in der [Microsoft 365-und Office 365 Platform-Dienstbeschreibung](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter Beschreibung des [Microsoft 365- und Office 365-Plattformdiensts.](office-365-platform-service-description.md)

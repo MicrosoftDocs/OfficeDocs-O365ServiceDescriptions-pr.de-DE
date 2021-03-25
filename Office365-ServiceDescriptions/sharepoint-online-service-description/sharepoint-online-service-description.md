@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Sehen Sie sich an, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901934"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174100"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -32,9 +32,9 @@ Eine kurze Übersicht finden Sie unter [Was ist SharePoint?](https://support.off
   
 Ausführliche Planinformationen zu Abonnements, die Benutzer für SharePoint aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans). Informationen zu Microsoft 365-Systemanforderungen finden Sie unter [Microsoft 365 und Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
 
-Weitere Informationen zu den Unterschieden zwischen SharePoint-Features für Us Government Cloud-Kunden finden Sie unter [SharePoint for US government environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
+Weitere Informationen zu den Unterschieden zwischen SharePoint-Features für Us Government Cloud-Kunden finden Sie unter [SharePoint for US government environments](../office-365-platform-service-description/office-365-us-government/sharepoint.md).
   
-## <a name="whats-new"></a>Neuerungen
+## <a name="whats-new"></a>Neuigkeiten
 
 Informationen zu den neuesten Features, die veröffentlicht werden, finden Sie unter [Neuigkeiten in SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -54,7 +54,7 @@ OneDrive in Microsoft 365 ist Onlinespeicher für einzelne Benutzer in einer Org
 
 ## <a name="apps"></a>Apps
 
-Zum Synchronisieren von #A0 auf einem Computer können Benutzer die [#A1](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) für Windows oder Mac verwenden. Informationen zur Verfügbarkeit von Features in der Synchronisierungs-App finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description). 
+Zum Synchronisieren von #A0 auf einem Computer können Benutzer die [#A1](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) für Windows oder Mac verwenden. Informationen zur Verfügbarkeit von Features in der Synchronisierungs-App finden Sie in der [OneDrive-Dienstbeschreibung](../onedrive-for-business-service-description.md). 
 
 Um mit SharePoint-Websites auf einem mobilen Gerät zu arbeiten, können sie die [mobile SharePoint-App für iOS, Android oder Windows installieren.](https://products.office.com/sharepoint/mobile-app) 
   
@@ -81,7 +81,7 @@ Eine Übersicht über Anpassungsoptionen finden Sie unter [Customizing SharePoin
 
 Weitere Informationen zur Verfügbarkeit von Microsoft Power Apps und Power Automate finden Sie in den FAQs zur Power Apps- und [Power Automate-Lizenzierung.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Weitere Informationen zur Verfügbarkeit von Microsoft Graph finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans).
+Weitere Informationen zur Verfügbarkeit von Microsoft Graph finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans).
 
 ## <a name="it-admin-features"></a>IT-Administratorfeatures
 
@@ -110,7 +110,7 @@ Sofern nicht anders angegeben, sind die folgenden Features in allen Plänen verf
 
 Informationen zur Verfügbarkeit von FastTrack-Migrationsdiensten finden Sie unter [Berechtigte Dienste und Pläne](/fasttrack/m365-eligible-services-and-plans). 
 
-Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description).
+Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](../onedrive-for-business-service-description.md).
 
 Hilfe zu Administratoren für SharePoint finden Sie unter [SharePoint Online admin](/sharepoint/sharepoint-online).
 
@@ -127,9 +127,9 @@ Sofern nicht anders angegeben, sind die folgenden Features in allen Plänen verf
 - [Wiederherstellen einer Dokumentbibliothek zu einem früheren Zeitpunkt](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
 - [Virenprüfung](/office365/securitycompliance/virus-detection-in-spo)
 
-Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description).
+Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](../onedrive-for-business-service-description.md).
 
-SharePoint integriert sich in die erweiterten Sicherheits- und Compliancefunktionen von Microsoft 365. Informationen zur Verfügbarkeit der folgenden Features finden Sie in der Beschreibung des & [Compliance-Diensts:](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
+SharePoint integriert sich in die erweiterten Sicherheits- und Compliancefunktionen von Microsoft 365. Informationen zur Verfügbarkeit der folgenden Features finden Sie in der Beschreibung des & [Compliance-Diensts:](../office-365-platform-service-description/office-365-securitycompliance-center.md)
 
 - [Customer Lockbox](/microsoft-365/compliance/customer-lockbox-requests)
 - [Verhinderung von Datenverlust (Data Loss Prevention, DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
@@ -188,7 +188,7 @@ Sofern nicht anders angegeben, sind die folgenden Features in allen Plänen verf
 
 Weitere Informationen zur Verfügbarkeit von Microsoft Power Apps und Power Automate finden Sie in den FAQs zur Power Apps- und [Power Automate-Lizenzierung.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features).
+Informationen zu Features im Zusammenhang mit der Freigabe finden Sie in der [OneDrive-Dienstbeschreibung](../onedrive-for-business-service-description.md#sharing-and-collaboration-features).
 
 ## <a name="search-features"></a>Suchfeatures
 
@@ -202,6 +202,4 @@ Sofern nicht anders angegeben, sind die folgenden Features in allen Plänen verf
 - [Suchcenter (klassische Suche)](/sharepoint/manage-search-center)
 - [Suchschema (klassische und moderne Suche)](/sharepoint/manage-search-schema)
 
-Weitere Informationen zu Delve finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
-
-
+Weitere Informationen zu Delve finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](../office-365-platform-service-description/office-365-platform-service-description.md).

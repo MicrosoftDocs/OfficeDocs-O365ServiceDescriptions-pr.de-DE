@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Microsoft 365 Government und beschreibt Kaufoptionen.
-ms.openlocfilehash: 46a53119dd93d49699c2f8f2292d1947a4c034c9
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572711"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173000"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government – Kaufen
 
@@ -88,14 +88,14 @@ Der Nachweis der Mitgliedschaft in einer der oben aufgeführten Gruppen ist für
 Weitere Informationen zu den in Microsoft 365 Government verfügbaren Diensten finden Sie in den folgenden Ressourcen:
 
 - [Office 365 Government-Dienstbeschreibung](office-365-us-government.md)
-- [Enterprise Mobility + Security for US Government -Dienstbeschreibung](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender for Endpoint für Us Government-Kunden](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Teams for Government – GCC-Bereitstellungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [Teams for Government – GCC High deployments](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Teams for Government – DoD-Bereitstellungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [Outlook für iOS und Android in der Government Community Cloud](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Enterprise Mobility + Security for US Government -Dienstbeschreibung](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Microsoft Defender for Endpoint für Us Government-Kunden](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Teams for Government – GCC-Bereitstellungen](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams for Government – GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams for Government – DoD-Bereitstellungen](/MicrosoftTeams/plan-for-government-dod)
+- [Outlook für iOS und Android in der Government Community Cloud](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps US Government](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](/flow/us-govt)
 - [Microsoft 365 Government-Produktseite](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft 365-Roadmap](https://www.microsoft.com/microsoft-365/roadmap)
 
@@ -173,14 +173,14 @@ Führen Sie die folgenden Schritte aus, um Microsoft 365 Government-Lizenzen zu 
 Weitere Informationen zu Microsoft 365 Government finden Sie in den folgenden Ressourcen.
 
 - [Office 365 Government-Dienstbeschreibung](office-365-us-government.md)
-- [Enterprise Mobility + Security for US Government -Dienstbeschreibung](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender for Endpoint für Us Government-Kunden](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
-- [Teams for Government – GCC-Bereitstellungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
-- [Teams for Government – GCC High deployments](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Teams for Government – DoD-Bereitstellungen](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
-- [Outlook für iOS und Android in der Government Community Cloud](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
-- [Microsoft PowerApps US Government](https://docs.microsoft.com/power-platform/admin/powerapps-us-government)
-- [Microsoft Power Automate US Government](https://docs.microsoft.com/flow/us-govt)
+- [Enterprise Mobility + Security for US Government -Dienstbeschreibung](/enterprise-mobility-security/solutions/ems-govt-service-description)
+- [Microsoft Defender for Endpoint für Us Government-Kunden](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Teams for Government – GCC-Bereitstellungen](/MicrosoftTeams/plan-for-government-gcc)
+- [Teams for Government – GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Teams for Government – DoD-Bereitstellungen](/MicrosoftTeams/plan-for-government-dod)
+- [Outlook für iOS und Android in der Government Community Cloud](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)
+- [Microsoft PowerApps US Government](/power-platform/admin/powerapps-us-government)
+- [Microsoft Power Automate US Government](/flow/us-govt)
 - [Microsoft 365-Roadmap](https://www.microsoft.com/microsoft-365/roadmap)
 - [Microsoft 365 Government-Produktseite](https://www.microsoft.com/microsoft-365/government)
 - [Microsoft Government Industry-Seite](https://www.microsoft.com/enterprise/government)

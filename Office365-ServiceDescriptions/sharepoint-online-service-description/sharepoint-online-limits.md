@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Weitere Informieren zu den SharePoint-Beschränkungen für Microsoft 365- und eigenständige Pläne.
-ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
-ms.translationtype: HT
+ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726760"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172610"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -72,7 +72,7 @@ Für optimale Leistung wird empfohlen, nicht mehr als 300.000 Dateien in einer e
 Ein Benutzer kann 5.000 Gruppen per Website (Websitesammlung) angehören, und jede Gruppe kann bis zu 5.000 Benutzer enthalten. Es können bis zu 10.000 Gruppen pro Website (Websitesammlung) vorhanden sein.
 
 > [!NOTE]
-> Informationen zu Grenzwerten für Gruppen bei Azure AD finden Sie unter [Azure AD-Dienstbeschränkungen und Einschränkungen](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-service-limits-restrictions), denn solche Grenzwerte können die Verwaltung der Mitgliedschaft von privaten und öffentlichen Gruppenwebsites beeinflussen.
+> Informationen zu Grenzwerten für Gruppen bei Azure AD finden Sie unter [Azure AD-Dienstbeschränkungen und Einschränkungen](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions), denn solche Grenzwerte können die Verwaltung der Mitgliedschaft von privaten und öffentlichen Gruppenwebsites beeinflussen.
 
 ### <a name="managed-metadata"></a>Verwaltete Metadaten
 
@@ -87,7 +87,7 @@ Ein Benutzer kann 5.000 Gruppen per Website (Websitesammlung) angehören, und je
 2.000 pro Website (Websitesammlung). Wir empfehlen Websites zu erstellen und sie in Hubs zu organisieren, anstatt Unterwebsites zu erstellen. Wenn Sie Unterwebsites verwenden, empfehlen wir deren Anzahl zu beschränken (insbesondere auf stark frequentierten Websites).
 
 > [!NOTE]
-> Ihre Organisation ist auf 2.000 Hubwebsites beschränkt. Möglicherweise benötigen Sie für jede Funktion keine Hubwebsite, und es ist wichtig, dass Sie vor dem Erstellen von Hubs einiges planen. Weitere Informationen finden Sie unter [Planen Ihrer SharePoint-Hubwebsiten](https://docs.microsoft.com/sharepoint/planning-hub-sites).
+> Ihre Organisation ist auf 2.000 Hubwebsites beschränkt. Möglicherweise benötigen Sie für jede Funktion keine Hubwebsite, und es ist wichtig, dass Sie vor dem Erstellen von Hubs einiges planen. Weitere Informationen finden Sie unter [Planen Ihrer SharePoint-Hubwebsiten](/sharepoint/planning-hub-sites).
 
 ### <a name="sharepoint-hosted-applications"></a>In SharePoint gehostete Anwendungen
 
@@ -98,8 +98,8 @@ Ein Benutzer kann 5.000 Gruppen per Website (Websitesammlung) angehören, und je
 2 Millionen pro Websitesammlung.
 
 > [!NOTE]
-> Es gibt keine eindeutige Beschränkung der Anzahl von Gästen, die Sie zu SharePoint-Websites einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [Übersicht über die externe Freigabe](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+> Es gibt keine eindeutige Beschränkung der Anzahl von Gästen, die Sie zu SharePoint-Websites einladen können. Weitere Informationen zur externen Freigabe finden Sie unter [Übersicht über die externe Freigabe](/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>Mehr dazu
 
-[Suchgrenzwerte von SharePoint](https://docs.microsoft.com/sharepoint/search-limits)
+[Suchgrenzwerte von SharePoint](/sharepoint/search-limits)

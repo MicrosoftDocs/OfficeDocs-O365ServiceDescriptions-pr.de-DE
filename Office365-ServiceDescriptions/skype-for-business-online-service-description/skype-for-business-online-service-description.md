@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Sehen Sie sich an, welche Skype for Business Online-Features in den verschiedenen Microsoft 365- und Office 365-Plänen verfügbar sind.
-ms.openlocfilehash: 861521c0a99fefe0b4709ea540fb659ba845debd
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 86ccb740ec0b9ffc8e83c88636df98ebefaf9e2c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726718"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172660"
 ---
 # <a name="skype-for-business-online-service-description"></a>Skype for Business Online-Dienstbeschreibung
 
@@ -28,7 +28,7 @@ ms.locfileid: "50726718"
 > [!NOTE]
 > Skype for Business Online Plan 2 wurde am 1. Juli 2019 aus dem Verkauf zurückgezogen. Dies bedeutet, dass Sie Skype for Business Online Plan 2 für Chat, Anwesenheit, Besprechungen und Peer-to-Peer-Sprach- und Videonachrichten nicht mehr erwerben können. Diese Features werden weiterhin in allen Plänen unterstützt, die Teams enthalten, einschließlich Office 365-Suites. Wenn Ihr Plan am Ende Ihrer aktuellen Laufzeit abläuft, müssen Sie zu einem anderen Plan wechseln, um weiterhin auf diese Features zugreifen zu können. Es wird empfohlen, microsoft 365 Business Basic, Business Premium oder andere Office-Suites für Benutzer auszuwerten, denen derzeit Skype for Business Online Plan 2 zugewiesen ist. 
 
- **Möchten Sie wissen, welche Lizenzen Sie kaufen müssen, um bestimmte Skype for Business-Features zu erhalten? Weitere Informationen finden Sie unter [Skype for Business-Add-On-Lizenzierung.](https://go.microsoft.com/fwlink/?LinkID=799524)**
+ **Möchten Sie wissen, welche Lizenzen Sie kaufen müssen, um bestimmte Skype for Business-Features zu erhalten? Weitere Informationen finden Sie unter [Skype for Business-Add-On-Lizenzierung.](/SkypeForBusiness/skype-for-business-and-microsoft-teams-add-on-licensing/skype-for-business-and-microsoft-teams-add-on-licensing)**
   
 Skype for Business Online ist ein Kommunikationsdienst, der Personen jederzeit und von überall für Besprechungen und Unterhaltungen verbindet. Benutzer erhalten Zugriff auf Informationen im Zusammenhang mit Anwesenheit, Chats, Audio- und Videoanrufen, Onlinebesprechungen und Webkonferenzen. 
   
@@ -42,9 +42,9 @@ Informationen zu neuen Features in Skype for Business Online finden Sie unter [S
 
 Wir empfehlen die Verwendung unserer einfachen Vergleichsseite, um die richtige Version von Skype for Business Online auszuwählen. Weitere [Informationen finden Sie unter Find the right Microsoft Teams for your business](https://go.microsoft.com/fwlink/?linkid=798291). Einen ausführlicheren Vergleich finden Sie in den folgenden Featuretabellen. Wenn Sie zusätzliche Hilfe hierzu benötigen, rufen Sie den [Support](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support) an. Sie können Ihr Gebietsschema aus der Dropdownliste auswählen, um eine Nummer in Ihrer Region zu erhalten.
   
-Ausführliche Planinformationen zu Abonnements, die Benutzer für Skype for Business Online aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145). Einen ausführlicheren Vergleich finden Sie unter [Microsoft 365-Planoptionen](https://go.microsoft.com/fwlink/?linkid=846972).
+Ausführliche Planinformationen zu Abonnements, die Benutzer für Skype for Business Online aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145). Einen ausführlicheren Vergleich finden Sie unter [Microsoft 365-Planoptionen](../office-365-platform-service-description/office-365-plan-options.md).
   
- Informationen zum Vergleich einzelner Features für Skype for Business-Desktop- und Webclients finden Sie im Vergleich zu Desktopclientfeatures [für Skype for Business Server 2015](https://go.microsoft.com/fwlink/?linkid=829754). Einen detaillierten Vergleich der mobilen Skype for Business-Clients finden Sie im Vergleich zu [mobilen Clientfeatures für Skype for Business.](https://go.microsoft.com/fwlink/?linkid=846932)
+ Informationen zum Vergleich einzelner Features für Skype for Business-Desktop- und Webclients finden Sie im Vergleich zu Desktopclientfeatures [für Skype for Business Server 2015](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison). Einen detaillierten Vergleich der mobilen Skype for Business-Clients finden Sie im Vergleich zu [mobilen Clientfeatures für Skype for Business.](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison)
   
 Einen ausführlicheren Vergleich finden Sie in der folgenden Tabelle.<br><br>
   
@@ -148,7 +148,7 @@ Einen ausführlicheren Vergleich finden Sie in der folgenden Tabelle.<br><br>
 |Voicemail  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |[Anrufpläne](skype-for-business-online-features.md#calling-plans) (Anrufplan Inland, mit erforderlichem Add-On-Erwerb)  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Nein  <br/> |
 |[Anrufpläne](skype-for-business-online-features.md#calling-plans) (Anrufplan Ausland, mit erforderlichem Add-On-Erwerb)  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja<sup>3</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |Nein  <br/> |
-|[Guthaben für Kommunikation](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |Nein  <br/> |Nein  <br/> |Nr.<sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|[Guthaben für Kommunikation](/microsoftteams/what-are-communications-credits?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) <br/> |Nein  <br/> |Nein  <br/> |Nr.<sup>6</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Skype for Business Voice  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |**[Sicherheit und Archivierung](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |Nachrichten- und Medienverschlüsselung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -172,26 +172,26 @@ Einen ausführlicheren Vergleich finden Sie in der folgenden Tabelle.<br><br>
 |Kompetenzsuche mit SharePoint Online  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |**[Skype for Business Online-Administration und -Verwaltung](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype for Business Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |Microsoft Office 365-Portal  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft 365 Admin Center  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft 365 Admin Center  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Admin Center  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Online-Berichterstellung im Microsoft 365 Admin Center  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Der Lync Basic-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheits-, Chat- und Konferenzfunktionen für Pläne bietet, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 E3 enthalten die vollständige Skype for Business (Lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefeatures enthält. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop-Clientvergleichstabellen für Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Der Lync Basic-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheits-, Chat- und Konferenzfunktionen für Pläne bietet, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 E3 enthalten die vollständige Skype for Business (Lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefeatures enthält. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop-Clientvergleichstabellen für Lync Server 2013](/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/> <sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>3</sup> Sie müssen einen Exchange Online (Plan 2) Benutzer zuweisen, die Voicemail haben möchten. Ein Exchange Online ( Plan &nbsp; ) Plan kann nicht für Voicemail verwendet werden. 
 <br/><sup>4</sup> Ein Office 365 F3-Benutzer kann an einer Freigabesitzung teilnehmen, wenn er von einem Skype for Business Online Plan 2- oder Enterpriseplanbenutzer eingeladen wird. 
 <br/> <sup>5</sup> Audiokonferenzen können Microsoft 365 Business Standard, Office 365 E1 und Office 365 E3-Abonnementplänen als Add-On hinzugefügt werden. 
 <br/> <sup>6</sup> Kommunikationsguthaben können dem Microsoft 365 Business Standard-Abonnementplan als Add-On hinzugefügt werden, um nur Audiokonferenzen zu unterstützen. 
 <br/><sup>7</sup> Notrufe sind auf Mac- und mobilen Clients nicht verfügbar. 
-<br/> <sup>8</sup> Mit dem Kundenschlüssel können Sie die Verschlüsselungsschlüssel Ihrer Organisation steuern und Dann Microsoft so konfigurieren, dass diese zum Verschlüsseln Ihrer ruhenen Daten in Microsoft-Rechenzentren verwendet werden. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Customer Key hilft Ihnen bei der Erfüllung von Complianceverpflichtungen, da Sie die Verschlüsselungsschlüssel steuern, die Microsoft zum Entschlüsseln von Daten verwendet. Weitere Informationen finden Sie unter [Dienstverschlüsselung mit Kundenschlüssel](https://go.microsoft.com/fwlink/?linkid=862702). 
+<br/> <sup>8</sup> Mit dem Kundenschlüssel können Sie die Verschlüsselungsschlüssel Ihrer Organisation steuern und Dann Microsoft so konfigurieren, dass diese zum Verschlüsseln Ihrer ruhenen Daten in Microsoft-Rechenzentren verwendet werden. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Customer Key hilft Ihnen bei der Erfüllung von Complianceverpflichtungen, da Sie die Verschlüsselungsschlüssel steuern, die Microsoft zum Entschlüsseln von Daten verwendet. Weitere Informationen finden Sie unter [Dienstverschlüsselung mit Kundenschlüssel](/microsoft-365/compliance/customer-key-overview). 
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>Verfügbarkeit von Features in eigenständigen Skype for Business Online-Plänen
 
 In der folgenden Tabelle ist die Verfügbarkeit von Skype for Business Online-Features in verschiedenen eigenständigen Produkten angegeben. Eine Beschreibung dieser Funktionen finden Sie unter [Skype for Business Online-Features](skype-for-business-online-features.md).
   
 > [!NOTE]
-> Skype for Business Online Standalone Plan 2 lizenzierte Benutzer erhalten den Skype for Business Basic-Client, nicht den vollständigen Skype for Business-Client. Wenn Sie möchten, dass Benutzer über den Skype for Business-Client verfügen, müssen Sie sie auf eine Lizenz aktualisieren, die sie enthält, z. B. eine Enterprise-basierte Lizenz. Informationen zum Bereitstellen des Skype for Business-Clients für Ihre Benutzer finden Sie unter [Deploy the Skype for Business client in Microsoft 365 or Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
+> Skype for Business Online Standalone Plan 2 lizenzierte Benutzer erhalten den Skype for Business Basic-Client, nicht den vollständigen Skype for Business-Client. Wenn Sie möchten, dass Benutzer über den Skype for Business-Client verfügen, müssen Sie sie auf eine Lizenz aktualisieren, die sie enthält, z. B. eine Enterprise-basierte Lizenz. Informationen zum Bereitstellen des Skype for Business-Clients für Ihre Benutzer finden Sie unter [Deploy the Skype for Business client in Microsoft 365 or Office 365](/SkypeForBusiness/set-up-skype-for-business-online/deploy-the-skype-for-business-client-in-office-365). 
   
 | Feature | Skype for Business Server 2015 | Eigenständiger Skype for Business Online Plan &nbsp; 1 | Eigenständiger Skype for Business Online Plan &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
@@ -276,12 +276,12 @@ In der folgenden Tabelle ist die Verfügbarkeit von Skype for Business Online-Fe
 |Kompetenzsuche mit SharePoint Online  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |**[Skype for Business Online-Administration und -Verwaltung](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype for Business Server 2015** <br/> |**Skype for Business Online Eigenständig, Plan 1** <br/> |**Skype for Business Online Eigenständig, Plan 2** <br/> |
 |Microsoft Office 365-Portal  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft 365 Admin Center  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft 365 Admin Center  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Admin Center  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Online-Berichterstellung im Microsoft 365 Admin Center  <br/> |Nein  <br/> |Nr.<sup>4</sup> <br/> |Nr.<sup>4</sup> <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Der Lync Basic-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheits-, Chat- und Konferenzfunktionen für Pläne bietet, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 E3 enthalten die vollständige Skype for Business (Lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung und Archivierungs-Compliance-Features &amp; umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop-Clientvergleichstabellen für Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Der Lync Basic-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheits-, Chat- und Konferenzfunktionen für Pläne bietet, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 E3 enthalten die vollständige Skype for Business (Lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung und Archivierungs-Compliance-Features &amp; umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop-Clientvergleichstabellen für Lync Server 2013](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>2</sup> Ein Skype for Business Online Plan 1-Benutzer kann an einer Freigabesitzung teilnehmen, wenn der Benutzer von einem Skype for Business Online Plan 2-Benutzer eingeladen wird. 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 

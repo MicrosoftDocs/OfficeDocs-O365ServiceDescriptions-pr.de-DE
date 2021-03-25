@@ -1,5 +1,5 @@
 ---
-title: Nachrichtenfluss in Exchange Online Schutz
+title: Nachrichtenfluss in Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,46 +10,46 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Lesen Sie diesen Artikel, um mehr über den e-Mail-Fluss in Microsoft Exchange Online Protection (EoP) zu erfahren.
-ms.openlocfilehash: c6b885abe6522c3f8d1b780c8c64c621c34011c2
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: In diesem Artikel erfahren Sie mehr über den Nachrichtenfluss in Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 1d8cbe7d3483ee0cfc73e8cea372e0d36dbc7b6d
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293671"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173790"
 ---
-# <a name="mail-flow-in-exchange-online-protection"></a>Nachrichtenfluss in Exchange Online Schutz
+# <a name="mail-flow-in-exchange-online-protection"></a>Nachrichtenfluss in Exchange Online Protection
 
-Für die meisten Organisationen, die Microsoft verwenden, hosten wir Ihre Postfächer und kümmern uns um den Nachrichtenfluss. Dies ist die einfachste Konfiguration und bedeutet, dass Microsoft alle Postfächer und Filterung verwaltet. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Mit Exchange Online Protection (EoP) können Sie dies tun und in der Cloud Antivirus-und Antispam-e-Mail-Verarbeitung bereitstellen. Weitere Informationen zu EOP und den entsprechenden Kaufmodalitäten finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
+Für die meisten Organisationen, die Microsoft verwenden, hosten wir Ihre Postfächer und kümmern uns um den Nachrichtenfluss. Dies ist die einfachste Konfiguration und bedeutet, dass Microsoft alle Postfächer und Filter verwaltet. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Exchange Online Protection (EOP) ermöglicht dies und bietet Antivirus- und Antispam-E-Mail-Verarbeitung in der Cloud. Weitere Informationen zu EOP und den entsprechenden Kaufmodalitäten finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-Sie suchen nach Informationen zu Domänenverwaltung oder verzeichnisbasierter Edge-Blockierung (Directory Based Edge Blocking, DBEB)? Siehe [Empfänger-, Domänen-und Unternehmensverwaltung](recipient-domain-and-company-management.md). Weitere Informationen zu allen EoP-Features finden Sie in der [Beschreibung des Exchange Online Protection-Diensts](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu Domänenverwaltung oder verzeichnisbasierter Edge-Blockierung (Directory Based Edge Blocking, DBEB)? Weitere Informationen finden Sie [unter Recipient, domain, and company management](recipient-domain-and-company-management.md). Weitere Informationen zu allen EOP-Features finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
   
-## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Weiterleiten von e-Mails zwischen Microsoft und ihren eigenen e-Mail-Servern
+## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Weiterleiten von E-Mails zwischen Microsoft und Ihren eigenen E-Mail-Servern
 
-Sie können einen Connector so konfigurieren, dass der Nachrichtenfluss zwischen Microsoft (einschließlich Exchange Online oder EoP) und einem SMTP-basierten e-Mail-Server wie Exchange aktiviert wird. Details hierzu finden Sie unter [Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? Und [Einrichten von Connectors zum Weiterleiten von e-Mails zwischen Microsoft und ihren eigenen e-Mail-Servern](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
+Sie können einen Connector konfigurieren, um den Nachrichtenfluss zwischen Microsoft (einschließlich Exchange Online oder EOP) und einem SMTP-basierten E-Mail-Server wie Exchange zu aktivieren. Details hierzu finden Sie unter [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? Und [Richten Sie Connectors ein, um E-Mails zwischen Microsoft und Ihren eigenen E-Mail-Servern weiter zu routen.](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-Als EoP-Kunde können Sie einen sicheren e-Mail-Fluss mit einem vertrauenswürdigen Partner mithilfe von Microsoft-Connectors einrichten. Microsoft unterstützt die sichere Kommunikation über TLS (Transport Layer Security) und Sie können einen Connector erstellen, um die Verschlüsselung über TLS zu erzwingen. [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) ist ein kryptografisches Protokoll, das Sicherheit für die Kommunikation über das Internet bietet. Mithilfe von Connectors können Sie sowohl erzwungene eingehende als auch ausgehende TLS-Zertifikate mit selbstsignierten oder Zertifizierungsstellen validierten Zertifikaten konfigurieren. Sie können auch andere Sicherheitseinschränkungen anwenden, beispielsweise die Angabe von Domänennamen oder IP-Adressbereichen, aus denen Ihre Partnerorganisation e-Mails sendet. 
+Als EOP-Kunde können Sie einen sicheren E-Mail-Fluss mit einem vertrauenswürdigen Partner mithilfe von Microsoft Connectors einrichten. Microsoft unterstützt die sichere Kommunikation über Transport Layer Security (TLS), und Sie können einen Connector erstellen, um die Verschlüsselung über TLS zu erzwingen. [TLS](/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) ist ein kryptografisches Protokoll, das Sicherheit für die Kommunikation über das Internet bietet. Mithilfe von Connectors können Sie sowohl erzwungene ein- als auch ausgehende TLS mithilfe von selbst signierten oder zertifizierungsstellen-validierten Zertifikaten konfigurieren. Sie können auch andere Sicherheitseinschränkungen anwenden, z. B. das Angeben von Domänennamen oder IP-Adressbereichen, von denen Ihre Partnerorganisation E-Mails sendet. 
   
-Weitere Informationen finden Sie unter [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
+Weitere Informationen finden Sie unter [Set up connectors for secure mail flow with a partner organization](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
 ## <a name="safe-listing-a-partners-ip-address"></a>Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)
 
-Sie können die IP-Adresse eines vertrauenswürdigen Partners in eine Liste sicherer Absender aufnehmen, um zu gewährleisten, dass Nachrichten von diesem Partner von der Spamfilterung ausgenommen werden. Verwenden Sie dazu die Liste zugelassener IP-Adressen des Verbindungsfilters. Weitere Informationen finden Sie unter [Konfigurieren der Verbindungsfilterrichtlinie](https://go.microsoft.com/fwlink/p/?LinkID=287108).
+Sie können die IP-Adresse eines vertrauenswürdigen Partners in eine Liste sicherer Absender aufnehmen, um zu gewährleisten, dass Nachrichten von diesem Partner von der Spamfilterung ausgenommen werden. Verwenden Sie dazu die Liste zugelassener IP-Adressen des Verbindungsfilters. Weitere Informationen finden Sie unter [Konfigurieren der Verbindungsfilterrichtlinie](/microsoft-365/security/office-365-security/configure-the-connection-filter-policy).
   
 ## <a name="conditional-mail-routing"></a>Bedingtes E-Mail-Routing
 
-Sie können einen Connector mit einer Transportegel konfigurieren, die E-Mails basierend auf bestimmten Bedingungen an einen spezifischen Standort weiterleitet. Weitere Informationen finden Sie unter [Scenario: Conditional email routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
+Sie können einen Connector mit einer Transportegel konfigurieren, die E-Mails basierend auf bestimmten Bedingungen an einen spezifischen Standort weiterleitet. Weitere Informationen finden Sie unter [Scenario: Conditional email routing](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="hybrid-mail-routing"></a>Hybrides E-Mail-Routing
 
 Hybrid bedeutet, dass ein Teil Ihrer Postfächer lokal gehostet wird, der andere in der Cloud (Exchange Online). Sie können von einer eigenständigen (lokalen) Bereitstellung zu einer hybriden Bereitstellung wechseln.
   
-In einer hybriden Bereitstellung können Sie Ihre cloudbasierten und lokalen Postfächer mit EOP schützen. Für lokale Postfächer sind eigenständige Lizenzen erforderlich, wenn sie von EOP geschützt werden. Weitere Informationen zum E-Mail-Routing in einer hybriden Bereitstellung finden Sie unter [Transportweiterleitung in Exchange-Hybrid-Bereitstellungen](https://go.microsoft.com/fwlink/p/?LinkId=271757).
+In einer hybriden Bereitstellung können Sie Ihre cloudbasierten und lokalen Postfächer mit EOP schützen. Für lokale Postfächer sind eigenständige Lizenzen erforderlich, wenn sie von EOP geschützt werden. Weitere Informationen zum E-Mail-Routing in einer hybriden Bereitstellung finden Sie unter [Transportweiterleitung in Exchange-Hybrid-Bereitstellungen](/exchange/transport-routing).
   
-Im [Bereitstellungs-Assistent für Microsoft Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036) finden Sie darüber hinaus detaillierte Anleitungen zu Hybridbereitstellungen und zum Hybridnachrichtentransport. 
+Im [Bereitstellungs-Assistent für Microsoft Exchange Server](/exchange/exchange-deployment-assistant) finden Sie darüber hinaus detaillierte Anleitungen zu Hybridbereitstellungen und zum Hybridnachrichtentransport. 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).

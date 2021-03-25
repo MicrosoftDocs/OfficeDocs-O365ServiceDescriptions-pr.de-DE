@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-description: Erfahren Sie mehr über Nachrichtenrichtlinien und Compliance in Exchange Online.
-ms.openlocfilehash: d723d686e3e939753e8007d41b0fdaf0d0363524
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: Erfahren Sie mehr über Nachrichtenrichtlinie und Compliance in Exchange Online.
+ms.openlocfilehash: b92c129601b4de67b03638f505cbf507e7ac77d7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293831"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173380"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 
@@ -24,9 +24,9 @@ ms.locfileid: "48293831"
 
 Exchange Online-Postfächer befinden sich in der Cloud und müssen unter Verwendung eindeutiger Hostingumgebungen archiviert werden. In manchen Fällen kann Exchange Online auch zur Archivierung von lokalen Postfächern in der Cloud verwendet werden. In diesem Abschnitt werden die Optionen für die Archivierung mit Exchange Online beschrieben.
   
-Exchange Online bietet integrierte Archivierungsfunktionen für cloudbasierte Postfächer, einschließlich eines Compliance-Archivs, dass Benutzern einen praktischen Speicherort für ältere E-Mails zur Verfügung stellt. Bei einem in-Place-Archiv handelt es sich um einen speziellen Typ von Postfach, der neben den primären Postfachordnern eines Benutzers in Outlook und Outlook im Internet angezeigt wird. Benutzer können auf das Archiv genauso zugreifen und es durchsuchen, wie sie es von ihren primären Postfächern gewohnt sind. Die Verfügbarkeit der Funktionalität hängt vom jeweiligen Client ab:
+Exchange Online bietet integrierte Archivierungsfunktionen für cloudbasierte Postfächer, einschließlich eines Compliance-Archivs, dass Benutzern einen praktischen Speicherort für ältere E-Mails zur Verfügung stellt. Ein In-Place ist ein spezieller Postfachtyp, der neben den primären Postfachordnern eines Benutzers in Outlook und Outlook im Web angezeigt wird. Benutzer können auf das Archiv genauso zugreifen und es durchsuchen, wie sie es von ihren primären Postfächern gewohnt sind. Die Verfügbarkeit der Funktionalität hängt vom jeweiligen Client ab:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010 und Outlook im Internet** Benutzer haben Zugriff auf die vollständigen Features des Archivs sowie auf verwandte Compliance-Features wie die Steuerung der Aufbewahrungs-und archivrichtlinien. 
+- **Outlook 2016, Outlook 2013, Outlook 2010 und Outlook im Web** Benutzer haben Zugriff auf die vollständigen Funktionen des Archivs sowie auf zugehörige Compliancefeatures wie die Kontrolle über Aufbewahrungs- und Archivrichtlinien. 
     
 - **Outlook 2007** Benutzer erhalten grundlegenden Support für das Compliance-Archiv. Nicht alle Features für die Archivierung und Richtlinientreue sind jedoch verfügbar. So können Benutzer beispielsweise keine Aufbewahrungs- und Archivierungsrichtlinien für Postfachelemente anwenden, sondern müssen stattdessen auf Richtlinien vertrauen, die vom Administrator bereitgestellt werden. 
     
@@ -34,18 +34,18 @@ Administratoren verwenden die Exchange-Verwaltungskonsole oder Windows PowerShel
   
 Weitere Informationen finden Sie unter:
   
-- [Archivieren von Postfächern in Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features)
+- [Archivieren von Postfächern in Exchange Online](../exchange-online-archiving-service-description/archive-features.md)
     
-- [Aktivieren oder Deaktivieren von Archivpostfächern in Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Aktivieren oder Deaktivieren von Archivpostfächern in Exchange Online](/office365/securitycompliance/enable-archive-mailboxes)
     
 ### <a name="archive-sizes"></a>Größe des Archivs
 
-In einem persönlichen Archiv können nur die Nachrichtendaten eines Benutzers gespeichert werden. Die Zuweisung von Speicher hängt vom jeweiligen Abonnementplan ab. Weitere Informationen zur Größe von archivpostfächern finden Sie im Abschnitt "Speichergrenzwerte für Postfächer" in [Exchange Online Grenzwerte](exchange-online-limits.md).
+In einem persönlichen Archiv können nur die Nachrichtendaten eines Benutzers gespeichert werden. Die Zuweisung von Speicher hängt vom jeweiligen Abonnementplan ab. Weitere Informationen zur Größe von Archivpostfächern finden Sie im Abschnitt "Postfachspeicherbeschränkungen" in [Exchange Online-Beschränkungen.](exchange-online-limits.md)
   
 > [!IMPORTANT]
-> - Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, eine unbegrenzte Archivierung in Fällen zu verweigern, in denen ein Post Fach Archiv nicht in einem persönlichen Szenario oder in anderen Fällen ungeeigneter Verwendung verwendet wird.
+> - Es ist nicht zulässig, Journaling, Transportregeln oder Regeln zur automatischen Weiterleitung zu verwenden, um Nachrichten zur Archivierung in ein Exchange Online-Postfach zu kopieren. Microsoft behält sich das Recht vor, die unbegrenzte Archivierung in Fällen zu verweigern, in denen ein Postfacharchiv nicht in einem persönlichen Szenario oder in anderen Fällen unangemessener Verwendung verwendet wird.
 > - Das Compliance-Archiv hat spezielle Lizenzierungsanforderungen für Outlook-Benutzer. Die Benutzer von Outlook 2007 müssen das kumulative Office 2007-Update vom Februar 2011 installiert haben, um auf das persönliche Archiv zugreifen zu können. 
-> - Exchange Online unterstützt das Cmdlet  _New-MailboxImportRequest_ Windows PowerShell von Exchange Server 2010 Service Pack 1 oder höher für den Administrator gesteuerten Import von PST-Dateien in ein persönliches Archiv nicht. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren.
+> - Exchange Online unterstützt das  _Cmdlet New-MailboxImportRequest_ Windows PowerShell von Exchange Server 2010 Service Pack 1 oder höher nicht für den administratorgesteuerten Import von PST-Dateien in ein persönliches Archiv. Wenn ein Benutzer sowohl über das primäre Postfach als auch über das Archiv in Exchange Online verfügt, kann ein Administrator das kostenlose Tool "PST Capture" verwenden, um Daten aus PST-Dateien in das primäre Postfach oder Archiv des Benutzers zu importieren.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Cloudbasierte Archivierung von lokalen Postfächern
 
@@ -56,28 +56,28 @@ Mit der Microsoft Exchange Online-Archivierung, einer gehosteten Archivierungsl�
   
 ## <a name="retention-tags-and-retention-policies"></a>Aufbewahrungstags und Aufbewahrungsrichtlinien
 
-Exchange Online bietet Aufbewahrungsrichtlinien, die Organisationen dabei helfen, ihre Verpflichtungen hinsichtlich E-Mails und anderen Kommunikationsformen zu reduzieren. Mithilfe dieser Richtlinien haben Administratoren die Möglichkeit, Aufbewahrungseinstellungen für bestimmte Ordner des Posteingangs eines Benutzers anzuwenden. Administratoren können Benutzern auch ein Menü mit Aufbewahrungsrichtlinien erteilen und die Richtlinien auf bestimmte Elemente, Unterhaltungen oder Ordner anwenden, die Outlook 2010 oder höher oder Outlook im Internet verwenden sollen.
+Exchange Online bietet Aufbewahrungsrichtlinien, die Organisationen dabei helfen, ihre Verpflichtungen hinsichtlich E-Mails und anderen Kommunikationsformen zu reduzieren. Mithilfe dieser Richtlinien haben Administratoren die Möglichkeit, Aufbewahrungseinstellungen für bestimmte Ordner des Posteingangs eines Benutzers anzuwenden. Administratoren können Benutzern auch ein Menü mit Aufbewahrungsrichtlinien zur Verfügung stellen und ihnen ermöglichen, die Richtlinien mithilfe von Outlook 2010 oder höher oder Outlook im Web auf bestimmte Elemente, Unterhaltungen oder Ordner anzuwenden.
   
 In Exchange Online können Administratoren die Aufbewahrungsrichtlinien mithilfe der Exchange-Verwaltungskonsole oder von Windows PowerShell-Remotesitzungen verwalten.
   
 Exchange Online bietet zwei Richtlinientypen: Archiv- und Löschrichtlinien. Beide Typen können für das gleiche Element oder den gleichen Ordner kombiniert werden. Ein Benutzer kann beispielsweise eine E-Mail so markieren, dass sie nach einer bestimmten Anzahl von Tagen automatisch in das Compliance-Archiv verschoben und nach einer anderen bestimmten Anzahl von Tagen gelöscht wird.
   
-Mit Outlook 2010 oder höher und Outlook im Internet können Benutzer Aufbewahrungsrichtlinien auf Ordner, Unterhaltungen oder einzelne Nachrichten anwenden. Außerdem können sie die geltenden Aufbewahrungsrichtlinien und vorgesehenen Löschtermine von Nachrichten anzeigen. Benutzer von anderen E-Mail-Clients können E-Mails nur basierend auf serverseitigen, vom Administrator definierten Aufbewahrungsrichtlinien löschen oder archivieren lassen.
+Mit Outlook 2010 oder höher und Outlook im Web können Benutzer Aufbewahrungsrichtlinien auf Ordner, Unterhaltungen oder einzelne Nachrichten anwenden. Außerdem können sie die geltenden Aufbewahrungsrichtlinien und vorgesehenen Löschtermine von Nachrichten anzeigen. Benutzer von anderen E-Mail-Clients können E-Mails nur basierend auf serverseitigen, vom Administrator definierten Aufbewahrungsrichtlinien löschen oder archivieren lassen.
   
 Die Aufbewahrungsrichtlinienfunktionen in Exchange Online entsprechen denen von Exchange Server 2010 Service Pack 2 RU4. Administratoren können mithilfe von Windows PowerShell-Remotesitzungen Aufbewahrungsrichtlinien aus lokalen Umgebungen mit Exchange Server 2010 oder höher zu Exchange Online migrieren.
   
 > [!IMPORTANT]
 > Verwaltete Ordner, ein älterer Ansatz für die Messaging-Datensatzverwaltung, der in Exchange Server 2007 eingeführt wurde, stehen in Exchange Online nicht zur Verfügung. 
   
-Weitere Informationen finden Sie unter [Aufbewahrungstags und Aufbewahrungsrichtlinien](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies).
+Weitere Informationen finden Sie unter [Aufbewahrungstags und Aufbewahrungsrichtlinien](/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies).
   
 ## <a name="encryption-of-data-at-rest"></a>Verschlüsselung von Daten im Ruhezustand
 
-Die Verschlüsselung von Kundendaten im Ruhezustand wird von mehreren dienstseitigen Technologien bereitgestellt, einschließlich BitLocker, DKM, Azure Storage Service Encryption und Service Encryption in Exchange Online, Skype for Business, OneDrive für Unternehmen und SharePoint Online. Office 365-Dienstverschlüsselung umfasst eine Option zum Verwenden von Kunden verwalteter Verschlüsselungsschlüssel, die in Azure Key Vault gespeichert sind. Diese vom Kunden verwaltete Schlüssel Option, die als " [Kundenschlüssel](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)" bezeichnet wird, steht für Exchange Online, SharePoint Online und OneDrive für Unternehmen zur Verfügung. 
+Die Verschlüsselung ruherer Kundendaten wird von mehreren dienstseitigen Technologien bereitgestellt, einschließlich BitLocker, DKM, Azure Storage Service Encryption und Dienstverschlüsselung in Exchange Online, Skype for Business, OneDrive for Business und SharePoint Online. Office 365-Dienstverschlüsselung umfasst eine Option zum Verwenden von Kunden verwalteter Verschlüsselungsschlüssel, die in Azure Key Vault gespeichert sind. Diese vom Kunden verwaltete Schlüsseloption namens [Customer Key](/microsoft-365/compliance/customer-key-overview)ist für Exchange Online, SharePoint Online und OneDrive for Business verfügbar. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Microsoft-Server verwenden BitLocker zum Verschlüsseln der Datenträgerlaufwerke, die Kundendaten im Ruhezustand auf Volumen Ebene enthalten. BitLocker-Verschlüsselung ist eine Datenverschlüsselungsfunktion, die in Windows integriert ist. BitLocker ist eine der Technologien, die zum Schutz vor Bedrohungen verwendet werden, falls andere Prozesse oder Steuerelemente hinfällig werden (z. B. Zugriffssteuerung oder Access Control oder Recycling von Hardware), sodass andere Personen möglicherweise physischen Zugriff auf Laufwerke mit Kundendaten erlangen könnten. In diesem Fall eliminiert BitLocker das potenzielle Risiko für Datendiebstahl oder Offenlegung aufgrund von verloren gegangener, gestohlener oder nicht ordnungsgemäß außer Betrieb gesetzter Computer und Datenträger. 
+Microsoft-Server verwenden BitLocker, um datenträgerlaufwerke zu verschlüsseln, die Kundendaten enthalten, die sich auf Volumeebene befinden. BitLocker-Verschlüsselung ist eine Datenverschlüsselungsfunktion, die in Windows integriert ist. BitLocker ist eine der Technologien, die zum Schutz vor Bedrohungen verwendet werden, falls andere Prozesse oder Steuerelemente hinfällig werden (z. B. Zugriffssteuerung oder Access Control oder Recycling von Hardware), sodass andere Personen möglicherweise physischen Zugriff auf Laufwerke mit Kundendaten erlangen könnten. In diesem Fall eliminiert BitLocker das potenzielle Risiko für Datendiebstahl oder Offenlegung aufgrund von verloren gegangener, gestohlener oder nicht ordnungsgemäß außer Betrieb gesetzter Computer und Datenträger. 
   
 ### <a name="distributed-key-manager"></a>Distributed Key Manager
 
@@ -85,19 +85,19 @@ Neben Bitlocker verwenden wir eine Technologie, die Distributed Key Manager (DKM
   
 ## <a name="customer-key"></a>Kundenschlüssel
 
-Mit dem Kundenschlüssel steuern Sie die Verschlüsselungsschlüssel Ihrer Organisation und konfigurieren diese dann so, dass Sie Ihre Daten im Ruhezustand in den Microsoft-Rechenzentren verschlüsseln. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Weitere Informationen finden Sie unter [Controlling Your Data in using Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) and [Service Encryption with Customer Key FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
+Mit dem Kundenschlüssel steuern Sie die Verschlüsselungsschlüssel Ihrer Organisation und konfigurieren diese dann so, dass ihre ruhenden Daten in den Rechenzentren von Microsoft verschlüsselt werden. Zu den Daten im Ruhezustand gehören Daten aus Exchange Online und Skype for Business, die in SharePoint Online und OneDrive for Business in Postfächern und Dateien gespeichert sind. Weitere Informationen finden Sie unter [Steuern Ihrer Daten in Verwendung von Customer Key](/office365/securitycompliance/controlling-your-data-using-customer-key) and Service Encryption with Customer Key [FAQ](/office365/securitycompliance/service-encryption-with-customer-key-faq).
   
 ## <a name="office-365-message-encryption"></a>Office 365-Nachrichtenverschlüsselung
 
 E-Mail-Benutzer können mit der Office 365-Nachrichtenverschlüsselung an jeden und ganz einfach verschlüsselte E-Mail-Nachrichten senden. Wir haben neue Funktionen bei der Office-Nachrichtenverschlüsselung angekündigt, die die Schutzfunktionen von Azure Information Encryption nutzen. Diese neuen Funktionen bieten eine verbesserte Endbenutzererfahrung, die eine einfache Freigabe und Zusammenarbeit an geschützten Nachrichten mit Personen innerhalb und außerhalb der Organisation ermöglichen. Für die neuen Funktionen der Office-Nachrichtenverschlüsselung müssen einige Setupanforderungen erfüllt sein. Informationen dazu finden Sie unter „Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen". Kunden mit älteren Versionen der Office 365-Nachrichtenverschlüsselung erhalten nur Zugriff auf die neuen Funktionen, wenn Sie der aufgeführte Anleitung folgen. Weitere Informationen zu den neuen und alten Funktionen der Office 365-Nachrichtenverschlüsselung finden Sie in den [häufig gestellten Fragen](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e). 
 
-Office 365 erweiterte Nachrichtenverschlüsselung bietet zusätzlichen Schutz, indem Nachrichtenablauf und-Sperrung zugelassen werden.  Sie können auch mehrere Vorlagen für verschlüsselte e-Mails erstellen, die von Ihrer Organisation stammen.  Die erweiterte Nachrichtenverschlüsselung ist in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Preise für gemeinnützige Mitarbeiter), Office 365 Enterprise E5 (Nonprofit-Mitarbeiter Preise) oder Office 365 Education A5 enthalten. Wenn Ihre Organisation über ein Abonnement verfügt, das Office 365 erweiterte Nachrichtenverschlüsselung nicht enthält, können Sie die Microsoft 365 E5-Compliance oder die Office 365 Advanced Compliance-SKU als Add-on erwerben.
+Die erweiterte Office 365-Nachrichtenverschlüsselung bietet zusätzlichen Schutz, indem der Ablauf und der Widerruf von Nachrichten ermöglicht werden.  Sie können auch mehrere Vorlagen für verschlüsselte E-Mails erstellen, die aus Ihrer Organisation stammen.  Die erweiterte Nachrichtenverschlüsselung ist in Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (Preis für gemeinnützige Mitarbeiter), Office 365 Enterprise E5 (Preis für gemeinnützige Mitarbeiter) oder Office 365 Education A5 enthalten. Wenn Ihre Organisation über ein Abonnement verfügt, das keine erweiterte Office 365-Nachrichtenverschlüsselung umfasst, können Sie Microsoft 365 E5 Compliance oder die Office 365 Advanced Compliance SKU als Add-On erwerben.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Secure/Multipurpose Internet Mail Extensions (S/MIME)
 
 Mit S/MIME können Sie vertrauliche Daten schützen, indem Sie in Ihrer Organisation signierte und verschlüsselte E-Mails versenden. Administratoren können die remote Windows PowerShell verwenden, um S/MIME einzurichten, nachdem PKI-Zertifikate an die Benutzer ausgegeben wurden. Diese Zertifikate müssen von einem lokalen Active Directory-Zertifikatsdienst synchronisiert werden.
   
-S/MIME wird in Microsoft Edge und Internet Explorer 11 unterstützt. Derzeit wird S/MIME von Firefox, Opera und Chrome nicht unterstützt. Weitere Informationen finden Sie unter [S/MIME zum Signieren und Verschlüsseln von Nachrichten](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019&preserve-view=true).
+S/MIME wird in Microsoft Edge und Internet Explorer 11 unterstützt. Derzeit wird S/MIME von Firefox, Opera und Chrome nicht unterstützt. Weitere Informationen finden Sie unter [S/MIME zum Signieren und Verschlüsseln von Nachrichten](/Exchange/policy-and-compliance/smime?preserve-view=true&view=exchserver-2019).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Compliance-Archiv und Aufbewahrung für eventuelle Rechtsstreitigkeiten
 
@@ -126,11 +126,11 @@ Außerdem können Sie das Compliance-Archiv für Folgendes verwenden:
 > [!NOTE]
 > Wenn Sie für ein Postfach den In-Situ-Speicher oder das Beweissicherungsverfahren aktivieren, wird diese Einstellung auf das primäre und das Archivpostfach angewendet. 
   
-Weitere Informationen finden Sie unter [Compliance-Archiv](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds).
+Weitere Informationen finden Sie unter [Compliance-Archiv](/exchange/security-and-compliance/in-place-and-litigation-holds).
   
 ## <a name="in-place-ediscovery"></a>Compliance-eDiscovery
 
-Exchange Online können Kunden den Inhalt von Postfächern in einer Organisation mithilfe einer webbasierten Schnittstelle durchsuchen. Administratoren oder Verantwortliche für Richtlinientreue und Sicherheit, die autorisiert sind, eine Compliance-eDiscovery-Suche auszuführen (durch Zuweisen), können E-Mails, Anlagen, Kalendertermine, Aufgaben und Kontakte sowie andere Elemente durchsuchen. Mit der Compliance-eDiscovery-Funktion können primäre Postfächer und Archive gleichzeitig durchsucht werden. Die umfangreichen Filterfunktionen umfassen Absender, Empfänger, Nachrichtentyp, Sende-/Empfangsdatum und Cc/Bcc sowie die Verwendung der KQL-Syntax. Die Suchergebnisse beinhalten auch Elemente aus dem Ordner "Gelöschte Elemente", wenn sie mit der Suchabfrage übereinstimmen.
+Mit Exchange Online können Kunden den Inhalt von Postfächern in einer Organisation mithilfe einer webbasierten Schnittstelle durchsuchen. Administratoren oder Verantwortliche für Richtlinientreue und Sicherheit, die autorisiert sind, eine Compliance-eDiscovery-Suche auszuführen (durch Zuweisen), können E-Mails, Anlagen, Kalendertermine, Aufgaben und Kontakte sowie andere Elemente durchsuchen. Mit der Compliance-eDiscovery-Funktion können primäre Postfächer und Archive gleichzeitig durchsucht werden. Die umfangreichen Filterfunktionen umfassen Absender, Empfänger, Nachrichtentyp, Sende-/Empfangsdatum und Cc/Bcc sowie die Verwendung der KQL-Syntax. Die Suchergebnisse beinhalten auch Elemente aus dem Ordner "Gelöschte Elemente", wenn sie mit der Suchabfrage übereinstimmen.
   
 Die Ergebnisse von Compliance-eDiscovery-Suchvorgängen können in einer Vorschau in der webbasierten Oberfläche angezeigt, in eine PST-Datei exportiert oder in einen speziellen Typ von Postfach mit der Bezeichnung Discoverypostfach kopiert werden. Ein Discoverypostfach verfügt über ein Kontingent von 50 GB für die Speicherung von Suchergebnissen. Administratoren können auch Outlook mit dem Discoverypostfach verbinden, sodass der Zugriff auf die Suchergebnisse möglich ist und diese in eine PST-Datei exportiert werden können.
   
@@ -150,7 +150,7 @@ In Exchange Online können autorisierte Benutzer Compliance-eDiscovery-Suchen du
     
 - Kopiert Nachrichten, die in Suchergebnissen zurückgegeben werden, in ein Discoverypostfach.
     
-Weitere Informationen finden Sie unter [Compliance-eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery).
+Weitere Informationen finden Sie unter [Compliance-eDiscovery](/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery).
   
 ## <a name="mail-flow-rules"></a>Nachrichtenflussregeln
 
@@ -169,13 +169,13 @@ Viele Organisationen müssen gegenwärtig zur Einhaltung von Gesetzen, Vorschrif
 - Hinzufügen von Haftungsausschlüssen zu Nachrichten während des Transports innerhalb der Organisation
     
 > [!IMPORTANT]
-> Anlagendateitypen, für die iFilter von Drittanbietern auf dem E-Mail-Server installiert werden müssen (z. B. Adobe PDF-Dateien), können erst nach der Installation eines geeigneten iFilters mithilfe von Nachrichtenflussregeln überprüft werden. Weitere Informationen zu Dateitypen, die von Nachrichtenflussregeln unterstützt werden, finden Sie unter [in Office 365 ](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
+> Anlagendateitypen, für die iFilter von Drittanbietern auf dem E-Mail-Server installiert werden müssen (z. B. Adobe PDF-Dateien), können erst nach der Installation eines geeigneten iFilters mithilfe von Nachrichtenflussregeln überprüft werden. Weitere Informationen zu Dateitypen, die von Nachrichtenflussregeln unterstützt werden, finden Sie unter [in Office 365 ](/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
   
-Weitere Informationen zu Nachrichtenflussregeln finden Sie unter [Nachrichtenflussregeln in Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019&preserve-view=true).
+Weitere Informationen zu Nachrichtenflussregeln finden Sie unter [Nachrichtenflussregeln in Exchange 2016](/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?preserve-view=true&view=exchserver-2019).
   
 ## <a name="data-loss-prevention"></a>Verhinderung von Datenverlust
 
-Das Feature zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) hilft Ihnen dabei, vertrauliche Informationen in Ihrer Organisation über eine eingehende Inhaltsanalyse zu identifizieren, zu überwachen und zu schützen. DLP ist ein Premium-Feature, dessen Bedeutung für Nachrichtensysteme von Unternehmen ständig zunimmt, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Mit der DLP-Funktion in Exchange Online können Sie vertrauliche Daten schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
+Das Feature zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) hilft Ihnen dabei, vertrauliche Informationen in Ihrer Organisation über eine eingehende Inhaltsanalyse zu identifizieren, zu überwachen und zu schützen. DLP ist ein Premium-Feature, dessen Bedeutung für Nachrichtensysteme von Unternehmen ständig zunimmt, da geschäftskritische E-Mails vertrauliche Daten enthalten, die geschützt werden müssen. Mit dem DLP-Feature in Exchange Online können Sie vertrauliche Daten schützen, ohne die Produktivität der Mitarbeiter zu beeinträchtigen.
   
 Sie können DLP-Richtlinien in der Verwaltungsschnittstelle der Exchange-Verwaltungskonsole konfigurieren, die Ihnen Folgendes ermöglicht: 
   
@@ -191,11 +191,11 @@ Sie können DLP-Richtlinien in der Verwaltungsschnittstelle der Exchange-Verwalt
     
 - Erkennen Sie vertrauliche Formulardaten mithilfe von Dokumentfingerabdrücken. Dokumentfingerabdrücke helfen Ihnen, problemlos benutzerdefinierte Typen vertraulicher Informationen auf Basis textbasierter Formulare zu erstellen, die Sie zum Definieren von Transportregeln und DLP-Richtlinien verwenden können.
     
-- Fügen Sie Richtlinien Tipps hinzu, die zur Verringerung von Datenverlusten beitragen können, indem Sie einen Hinweis zu Outlook 2016, Outlook 2013, Outlook im Internet und OWA für mobile Geräte Benutzern anzeigen und die Effektivität Ihrer Richtlinien verbessern, indem Sie eine falsch positive Berichterstellung zulassen. 
+- Fügen Sie Richtlinientipps hinzu, die dazu beitragen können, Datenverluste zu reduzieren, indem Sie Ihren Benutzern in Outlook 2016, Outlook 2013, Outlook im Web und OWA für Geräte eine Benachrichtigung anzeigen und die Effektivität Ihrer Richtlinien verbessern, indem falsch positive Berichte ermöglicht werden. 
     
 - Überprüfen Sie Vorfallsdaten in DLP-Berichten, oder fügen Sie Ihre eigene Berichterstellung mithilfe einer neuen Aktion zum Generieren eines Schadensberichts hinzu.
     
-Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
+Weitere Informationen zu DLP finden Sie unter [Verhinderung von Datenverlust](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
   
 ## <a name="journaling"></a>Journaling
 
@@ -215,10 +215,8 @@ Wenn Sie eine erfolgreiche und zuverlässige Journalinglösung sicherstellen mö
     
 - Stellen Sie die entsprechende Interoperabilität mit Exchange-Server und Exchange-Transport bereit, einschließlich Nachrichtenformate, der Integration von Absender-/Empfängerinformationen und angemessener Inhaltskonvertierung.
     
-Weitere Informationen zum Journaling finden Sie unter [Journaling](https://docs.microsoft.com/exchange/security-and-compliance/journaling/journaling).
+Weitere Informationen zum Journaling finden Sie unter [Journaling](/exchange/security-and-compliance/journaling/journaling).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
-  
-
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).

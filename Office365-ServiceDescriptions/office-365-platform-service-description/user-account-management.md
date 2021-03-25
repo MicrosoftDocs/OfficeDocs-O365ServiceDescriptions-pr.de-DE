@@ -12,26 +12,26 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
-description: Microsoft unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: 56bc8c2e89df4540ec5a74edf76216a4401d6666
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: Microsoft unterstützt die folgenden Methoden zum Erstellen, Verwalten und Authentifizieren von Benutzern.
+ms.openlocfilehash: 31fe2a1df472b6fc22df5cb7ff29b8658519cbc7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294211"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172780"
 ---
 # <a name="user-account-management"></a>User account management
 
-Microsoft unterstützt die folgenden Methoden zum Erstellen, verwalten und Authentifizieren von Benutzern. 
+Microsoft unterstützt die folgenden Methoden zum Erstellen, Verwalten und Authentifizieren von Benutzern. 
   
 > [!NOTE]
-> Dieses Thema enthält keine Informationen zu Sicherheitsfeatures, die den Zugriff auf einzelne Microsoft-Ressourcen zulassen oder verbieten (beispielsweise rollenbasierte Zugriffssteuerung in Microsoft Exchange Online oder Konfigurieren der Sicherheit in Microsoft SharePoint Online). Ausführliche Informationen zu diesen Features finden Sie unter [Exchange Online Dienstbeschreibung](../exchange-online-service-description/exchange-online-service-description.md) und [SharePoint Online Dienstbeschreibung](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
+> Dieses Thema enthält keine Informationen zu Sicherheitsfeatures, die den Zugriff auf einzelne Microsoft-Ressourcen zulassen oder verbieten (z. B. rollenbasierte Zugriffssteuerung in Microsoft Exchange Online oder Konfigurieren der Sicherheit in Microsoft SharePoint Online). Ausführliche Informationen zu diesen Features finden Sie in der [Exchange Online-Dienstbeschreibung](../exchange-online-service-description/exchange-online-service-description.md) und in der [SharePoint Online-Dienstbeschreibung](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
-Wenn Sie Informationen zu Tools benötigen, die Ihnen bei der Ausführung von Verwaltungsaufgaben helfen können, finden Sie unter [Tools to manage Microsoft Accounts](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Informationen zum Ausführen von alltäglichen Verwaltungsaufgaben finden Sie unter [allgemeine Verwaltungsaufgaben](https://docs.microsoft.com/office365/admin/manage/manage).
+Wenn Sie Informationen zu Tools benötigen, mit deren Hilfe Sie Administrative Aufgaben ausführen können, finden Sie weitere Informationen unter [Tools to manage Microsoft accounts](/office365/enterprise/manage-office-365-accounts). Informationen zum Ausführen von täglichen Verwaltungsaufgaben finden Sie unter [Allgemeine Verwaltungsaufgaben](/office365/admin/manage/manage).
   
-## <a name="need-help-with-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Benötigen Sie Hilfe beim anmelden, bei der Installation oder Deinstallation oder beim kündigen Ihres Abonnements?
+## <a name="need-help-with-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Benötigen Sie Hilfe beim Anmelden, Installieren oder Deinstallieren oder Kündigen Ihres Abonnements?
 
-Erhalten Sie Hilfe zu: [Anmelden beim](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [installieren oder Deinstallieren von Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [Canceling Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Hilfe zu: [Anmelden beim Installieren](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)oder  |  [Deinstallieren von Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [Canceling Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 Weitere Probleme finden Sie im [Microsoft Support Center](https://support.microsoft.com/contactus/). Support für Office 365 betrieb von 21Vianet in China erhalten Sie vom [21Vianet-Supportteam](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Ansprechpartner für Office 365 Deutschland ist das [Office 365 Deutschland-Supportteam](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9). 
   
@@ -39,21 +39,21 @@ Weitere Probleme finden Sie im [Microsoft Support Center](https://support.micros
 
 Microsoft verfügt über zwei Systeme, die für Benutzeridentitäten verwendet werden können:
   
-- Geschäfts- **oder Schulkonto (Cloud Identity)** – Benutzer erhalten Azure Active Directory Cloud-Anmeldeinformationen – getrennt von anderen Desktop-oder Unternehmensanmeldeinformationen – für die Anmeldung bei Microsoft Cloud Services. Dies ist die Standardidentität und wird empfohlen, um die Komplexität der Bereitstellung zu minimieren. Kennwörter für Arbeits-oder Schul Konten verwenden die Azure Active Directory- [Kennwortrichtlinie](https://docs.microsoft.com/previous-versions/azure/jj943764(v=azure.100)).
+- **Geschäfts- oder Schulkonto (Cloudidentität)** – Benutzer erhalten Azure Active Directory-Cloudanmeldeinformationen – getrennt von anderen Desktop- oder Unternehmensanmeldeinformationen – für die Anmeldung bei Microsoft Cloud Services. Dies ist die Standardidentität und wird empfohlen, um die Komplexität der Bereitstellung zu minimieren. Kennwörter für Arbeits- oder Schulkonten verwenden die Azure Active [Directory-Kennwortrichtlinie](/previous-versions/azure/jj943764(v=azure.100)).
     
-- **Verbund Konto (Verbundidentität)** – für alle Abonnements in Organisationen mit lokalen Active Directory mit einmaligem Anmelden (Single Sign-on, SSO) können sich Benutzer bei Microsoft-Diensten anmelden, indem Sie Ihre Active Directory Anmeldeinformationen verwenden. Das firmeneigene Active Directory speichert und steuert die Kennwortrichtlinie. Weitere Informationen über SSO finden Sie unter [Fahrplan für einmaliges Anmelden](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100)).
+- **Verbundkonto (Verbundidentität)** – Für alle Abonnements in Organisationen mit lokalem Active Directory, die einmaliges Anmelden (Single Sign-On, SSO) verwenden, können sich Benutzer mit ihren Active Directory-Anmeldeinformationen bei Microsoft-Diensten anmelden. Das firmeneigene Active Directory speichert und steuert die Kennwortrichtlinie. Weitere Informationen über SSO finden Sie unter [Fahrplan für einmaliges Anmelden](/previous-versions/azure/azure-services/hh967643(v=azure.100)).
     
 Die Art der Identität hat Auswirkungen auf die Benutzerfreundlichkeit, Verwaltungsoptionen für Benutzerkonten, Hardware- und Softwareanforderungen sowie weitere Bereitstellungsüberlegungen.
   
 ### <a name="custom-domains-and-identity-options"></a>Benutzerdefinierte Domänen und Identitätsoptionen
 
-Wenn Sie einen neuen Benutzer erstellen, werden der Anmeldename und die e-Mail-Adresse des Benutzers der Standarddomäne zugewiesen, die im Microsoft 365 Admin Center festgelegt ist. Weitere Informationen finden Sie unter [Hinzufügen Ihrer Benutzer und Domäne](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
+Wenn Sie einen neuen Benutzer erstellen, werden der Anmeldename und die E-Mail-Adresse des Benutzers der Standarddomäne zugewiesen, die im Microsoft 365 Admin Center festgelegt ist. Weitere Informationen finden Sie unter [Add your users and domain](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
-Standardmäßig verwendet das Abonnement die <Domäne des *Firmennamens* > **onmicrosoft.com** , die mit dem Konto erstellt wurde. Wenn Sie Office 365 betrieben von 21Vianet in China verwenden, lautet die Standarddomäne <*CompanyName* > **. onmsChina.cn**. Wenn Sie Office 365 Deutschland verwenden, lautet die Standarddomäne <*CompanyName* > **. onmicrosoft.de**. Sie können eine oder mehrere benutzerdefinierte Domänen zu Microsoft hinzufügen, anstatt die **onmicrosoft.com** -Domäne beizubehalten, und Sie können Benutzern zuweisen, sich mit einer der überprüften Domänen anzumelden. Die einem Benutzer zugewiesene Domäne ist die E-Mail-Adresse, die in gesendeten und empfangenen E-Mails angezeigt wird. 
+Standardmäßig verwendet das Abonnement den < > **.onmicrosoft.com,die** mit dem Konto erstellt wurde. Wenn Sie Office 365 verwenden, das von 21Vianet in China betrieben wird, ist die Standarddomäne <> **Firmenname .onmsChina.cn**. Wenn Sie Office 365 Deutschland verwenden, ist die Standarddomäne <> **Firmenname .onmicrosoft.de**. Sie können Microsoft eine oder mehrere benutzerdefinierte  Domänen hinzufügen, anstatt die onmicrosoft.com-Domäne zu behalten, und Benutzern die Anmeldung bei einer der überprüften Domänen zuweisen. Die einem Benutzer zugewiesene Domäne ist die E-Mail-Adresse, die in gesendeten und empfangenen E-Mails angezeigt wird. 
   
 Sie können bis zu 900 registrierte Internetdomänen hosten, die jeweils durch einen anderen Namespace dargestellt werden. 
   
-In Organisationen, die einmaliges Anmelden verwenden, müssen alle Benutzer in einer Domäne dasselbe Identitätssystem verwenden: Cloudidentität oder Verbundidentität. Sie können beispielsweise eine Gruppe von Benutzern haben, die nur eine Cloud-Identität benötigt, da Sie nicht auf lokale Systeme zugreifen, und eine andere Gruppe von Benutzern, die Microsoft und lokale Systeme verwenden. Sie würden Office 365 zwei Domänen hinzufügen, wie **Contractors.contoso.com** und **staff.contoso.com**, und nur SSO für eine davon einrichten. Eine ganze Domäne kann von Cloudidentität in Verbundidentität und von Verbundidentität in Cloudidentität konvertiert werden.
+In Organisationen, die einmaliges Anmelden verwenden, müssen alle Benutzer in einer Domäne dasselbe Identitätssystem verwenden: Cloudidentität oder Verbundidentität. Sie könnten beispielsweise eine Gruppe von Benutzern haben, die nur eine Cloudidentität benötigt, da sie nicht auf lokale Systeme zugreifen, und eine andere Gruppe von Benutzern, die Microsoft und lokale Systeme verwenden. Sie würden Office 365 zwei Domänen hinzufügen, z. B. **contractors.contoso.com** und **staff.contoso.com**, und SSO nur für eine dieser Domänen einrichten. Eine ganze Domäne kann von Cloudidentität in Verbundidentität und von Verbundidentität in Cloudidentität konvertiert werden.
   
 Weitere Informationen zu Domänen in Office 365 finden Sie unter [Domänen](domains.md). 
   
@@ -61,37 +61,37 @@ Weitere Informationen zu Domänen in Office 365 finden Sie unter [Domänen](doma
 
 Mit Ausnahme von Internetwebsites für anonymen Zugriff, die mit SharePoint Online erstellt wurden, müssen Benutzer beim Zugriff auf Microsoft-Dienste authentifiziert werden. 
   
-- **Moderne Authentifizierung** – moderne Authentifizierung bringt die Microsoft-Authentifizierungsbibliothek-basierte Anmeldung bei Office-Client-apps plattformübergreifend. Dadurch werden Anmeldefeatures wie Multi-Factor Authentication (MFA, mehrstufige Authentifizierung), SAML-basierte Drittanbieter-Identitätsanbieter mit Office-Clientanwendungen sowie eine Smartcard- und zertifikatbasierte Authentifizierung ermöglicht. Außerdem muss Microsoft Outlook nicht mehr das grundlegende Authentifizierungsprotokoll verwenden. Weitere Informationen, einschließlich der Verfügbarkeit moderner Authentifizierung in Office-Anwendungen, finden Sie unter [Funktionsweise der modernen Authentifizierung für Office 2013-und Office 2016-Client-apps](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
+- **Moderne Authentifizierung** – Die moderne Authentifizierung führt dazu, dass sich die Microsoft-Authentifizierungsbibliothek plattformübergreifend bei Office-Client-Apps anmeldet. Dadurch werden Anmeldefeatures wie Multi-Factor Authentication (MFA, mehrstufige Authentifizierung), SAML-basierte Drittanbieter-Identitätsanbieter mit Office-Clientanwendungen sowie eine Smartcard- und zertifikatbasierte Authentifizierung ermöglicht. Außerdem muss Microsoft Outlook nicht mehr das grundlegende Authentifizierungsprotokoll verwenden. Weitere Informationen, einschließlich der Verfügbarkeit moderner Authentifizierung in office-Anwendungen, finden Sie unter Funktionsweise der modernen Authentifizierung für [Office 2013- und Office 2016-Client-Apps.](/office365/enterprise/modern-auth-for-office-2013-and-2016)
     
-    Die moderne Authentifizierung ist für Exchange Online standardmäßig aktiviert. Informationen zum Aktivieren oder Deaktivieren dieser Funktion finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+    Die moderne Authentifizierung ist für Exchange Online standardmäßig aktiviert. Informationen zum Aktivieren oder Deaktivieren finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
     
-- **Cloud Identity Authentication** – Benutzer mit Cloud-Identitäten werden mit herkömmlicher Challenge/Response authentifiziert. Der Webbrowser wird an den Microsoft-Anmeldedienst umgeleitet, in dem Sie den Benutzernamen und das Kennwort für Ihr geschäftliches oder Schulkonto eingeben. Der Anmeldedienst authentifiziert Ihre Anmeldeinformationen und generiert ein Diensttoken, das der Webbrowser dem angeforderten Dienst bereitstellt, und Sie werden angemeldet. 
+- **Cloudidentitätsauthentifizierung** : Benutzer mit Cloudidentitäten werden mithilfe herkömmlicher Herausforderungen/Antworten authentifiziert. Der Webbrowser wird an den Microsoft-Anmeldedienst umgeleitet, in dem Sie den Benutzernamen und das Kennwort für Ihr Arbeits- oder Schulkonto eingeben. Der Anmeldedienst authentifiziert Ihre Anmeldeinformationen und generiert ein Diensttoken, das der Webbrowser dem angeforderten Dienst bereitstellt, und Sie werden angemeldet. 
     
-- **Authentifizierung mit Verbundidentität** – Benutzer mit Verbundidentitäten werden mit Active Directory-Verbunddienste (AD FS) 2.0 oder anderen Sicherheitstokendienst authentifiziert. Der Webbrowser wird an den Microsoft-Anmeldedienst umgeleitet, in dem Sie Ihre Unternehmens-ID in das Format a User Principal Name (UPN) eingeben, beispielsweise: *Isabel@contoso.com*. Der Anmeldedienst ermittelt, dass Sie Teil einer Verbunddomäne sind, und bietet an, Sie zur Authentifizierung an den lokalen Verbundserver weiterzuleiten. Wenn Sie am Desktop (Domäne Joined) angemeldet sind, werden Sie authentifiziert (mit Kerberos oder NTLMv2), und der lokale Sicherheitstokendienst generiert ein Anmelde Token, das der Webbrowser an den Microsoft-Anmeldedienst sendet. Der Anmeldedienst generiert mithilfe des Anmeldetokens ein Diensttoken, das vom Webbrowser an den angeforderten Dienst weitergeleitet wird, und meldet Sie an. Eine Liste der verfügbaren Sicherheits Token-Dienste finden Sie unter [Single Sign-on Roadmap](https://docs.microsoft.com/previous-versions/azure/azure-services/hh967643(v=azure.100)).
+- **Verbundidentitätsauthentifizierung** : Benutzer mit Verbundidentitäten werden mithilfe von Active Directory Federation Services (AD FS) 2.0 oder anderen Sicherheitstokendiensten authentifiziert. Der Webbrowser wird an den Microsoft-Anmeldedienst umgeleitet, bei dem Sie Ihre Unternehmens-ID in form eines Benutzerprinzipalnamens (User Principal Name, UPN) eingeben, z. B. *isabel@contoso.com*. Der Anmeldedienst ermittelt, dass Sie Teil einer Verbunddomäne sind, und bietet an, Sie zur Authentifizierung an den lokalen Verbundserver weiterzuleiten. Wenn Sie am Desktop angemeldet sind (Domäne beigetreten), werden Sie authentifiziert (mit Kerberos oder NTLMv2), und der lokale Sicherheitstokendienst generiert ein Anmeldetoken, das der Webbrowser an den Microsoft-Anmeldedienst postet. Der Anmeldedienst generiert mithilfe des Anmeldetokens ein Diensttoken, das vom Webbrowser an den angeforderten Dienst weitergeleitet wird, und meldet Sie an. Eine Liste der verfügbaren Sicherheitstokendienste finden Sie unter Roadmap für einmaliges [Anmelden](/previous-versions/azure/azure-services/hh967643(v=azure.100)).
     
-Microsoft verwendet die formularbasierte Authentifizierung, und der Authentifizierungsdatenverkehr über das Netzwerk wird immer mit TLS/SSL mit Port 443 verschlüsselt. Der Authentifizierungsdatenverkehr verwendet einen vernachlässigbaren Prozentsatz an Bandbreite für Microsoft-Dienste. 
+Microsoft verwendet die formularbasierte Authentifizierung, und der Authentifizierungsverkehr über das Netzwerk wird immer mit TLS/SSL über Port 443 verschlüsselt. Der Authentifizierungsverkehr verwendet einen vernachlässigbaren Prozentsatz der Bandbreite für Microsoft-Dienste. 
   
 ### <a name="multi-factor-authentication"></a>Mehrstufige Authentifizierung
 
-Bei der mehrstufigen Authentifizierung müssen Benutzer nach der korrekten Eingabe Ihres Kennworts einen Telefonanruf, eine Textnachricht oder eine APP-Benachrichtigung auf dem Smartphone bestätigen. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Microsoft-Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Erfahren Sie mehr über die mehrstufige [Authentifizierung](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Bei der mehrstufigen Authentifizierung müssen Benutzer einen Anruf, eine SMS oder eine App-Benachrichtigung auf ihrem Smartphone bestätigen, nachdem sie ihr Kennwort richtig eingegeben haben. Erst nach dieser zweiten Authentifizierung kann sich der Benutzer anmelden. Microsoft-Administratoren können Benutzer für die mehrstufige Authentifizierung im Microsoft 365 Admin Center registrieren. Erfahren Sie mehr [über mehrstufige Authentifizierung](/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
   
 ### <a name="rich-client-authentication"></a>Rich-Client-Authentifizierung
 
 Rich-Clients wie Microsoft Office-Desktopanwendungen können auf zwei Arten authentifiziert werden:
   
-- **Microsoft Online Services-Anmeldeassistent** : der Anmelde Assistent, der von Desktop Setup installiert wird, enthält einen Client Dienst, der ein Diensttoken aus dem Anmeldedienst abruft und an den Rich-Client zurückgibt. 
+- **Microsoft Online Services Sign-In-Assistent** : Der Vom Desktop-Setup installierte Anmelde-Assistent enthält einen Clientdienst, der ein Diensttoken vom Anmeldedienst erhält und an den Rich-Client zurückgibt. 
     
-  - Wenn Sie über eine Cloud-Identität verfügen, erhalten Sie eine Aufforderung zur Eingabe von Anmeldeinformationen, die der Client Dienst zur Authentifizierung (mithilfe von WS-Trust) an den Anmeldedienst sendet.
+  - Wenn Sie über eine Cloudidentität verfügen, erhalten Sie eine Eingabeaufforderung für Anmeldeinformationen, die der Clientdienst zur Authentifizierung an den Anmeldedienst sendet (mithilfe von WS-Trust).
     
-  - Wenn Sie über eine Verbundidentität verfügen, kontaktiert der Client Dienst zuerst den AD FS 2.0-Server, um die Anmeldeinformationen zu authentifizieren (mit Kerberos oder NTLMv2) und ein Anmeldetoken abzurufen, das an den Anmeldedienst gesendet wird (mithilfe von WS-Federation und WS-Trust).
+  - Wenn Sie über eine Verbundidentität verfügen, kontaktiert der Clientdienst zuerst den AD FS 2.0-Server, um die Anmeldeinformationen zu authentifizieren (mithilfe von Kerberos oder NTLMv2) und ein Anmeldetoken abzurufen, das an den Anmeldedienst gesendet wird (mithilfe von WS-Federation und WS-Trust).
     
-- **Basic/Proxy-Authentifizierung über SSL** : der Outlook-Client übergibt grundlegende Authentifizierungsanmeldeinformationen über SSL an Exchange Online. Exchange Online Proxys die Authentifizierungsanforderung an die Identitäts Plattform und anschließend an den lokalen Active Directory Verbund Server (für SSO). 
+- **Standard-/Proxyauthentifizierung über SSL** : Der Outlook-Client übergibt grundlegende Authentifizierungsanmeldeinformationen über SSL an Exchange Online. Exchange Online proxiert die Authentifizierungsanforderung an die Identitätsplattform und dann an den lokalen Active Directory-Verbundserver (für SSO). 
     
-Um eine ordnungsgemäße Ermittlung und Authentifizierung für Microsoft-Dienste sicherzustellen, müssen Administratoren eine Reihe von Komponenten und Updates auf jeder Arbeitsstation anwenden, die Rich-Clients (wie Microsoft Office 2010) verwendet und eine Verbindung mit Office 365 herstellt. Desktop Setup ist ein automatisches Tool zum Konfigurieren von Arbeitsstationen mit den erforderlichen Updates. Weitere Informationen finden Sie unter [Use My Current Office Desktop Apps](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7).
+Um eine ordnungsgemäße Ermittlung und Authentifizierung von Microsoft-Diensten sicherzustellen, müssen Administratoren auf jede Arbeitsstation, die Rich Clients (z. B. Microsoft Office 2010) verwendet und eine Verbindung mit Office 365 herstellt, eine Reihe von Komponenten und Updates anwenden. Desktopeinrichtung ist ein automatisiertes Tool zum Konfigurieren von Arbeitsstationen mit den erforderlichen Updates. Weitere Informationen finden Sie unter [Use my current Office desktop apps](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7).
   
 ### <a name="sign-in-experience"></a>Anmeldung
 
-Die Anmelde Erfahrung ändert sich abhängig vom verwendeten Identitätstyp:<br><br>
+Die Anmeldeerfahrung ändert sich abhängig vom verwendeten Identitätstyp:<br><br>
   
 | Dienst | Cloudidentität | Identitätsverbund |
 |:-----|:-----|:-----|
@@ -101,89 +101,88 @@ Die Anmelde Erfahrung ändert sich abhängig vom verwendeten Identitätstyp:<br>
 |Outlook 2010 oder Office Outlook 2007 auf Windows Vista  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
 |POP, IMAP, Outlook für Mac  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
-|Weberlebnisse: Microsoft 365 Admin Center/Outlook im Internet/SharePoint Online/Office für das Internet  <br/> |Jede Browsersitzung anmelden <sup>4</sup> <br/> |Jede Sitzung anmelden <sup>3</sup> <br/> |
+|Weberfahrungen: Microsoft 365 Admin Center / Outlook im Web/ SharePoint Online / Office für das Web  <br/> |Jede Browsersitzung anmelden <sup>4</sup> <br/> |Jede Sitzung anmelden <sup>3</sup> <br/> |
 |Office 2010 oder Office 2007 mit SharePoint Online  <br/> |Jede SharePoint Online-Sitzung anmelden <sup>4</sup> <br/> |Jede SharePoint Online-Sitzung anmelden <sup>3</sup> <br/> |
 |Skype for Business Online  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Keine Aufforderung  <br/> |
 |Outlook für Mac  <br/> |Jede Sitzung anmelden <sup>1</sup> <br/> |Jede Sitzung anmelden <sup>2</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Wenn Sie zum ersten Mal aufgefordert werden, können Sie Ihr Kennwort für die spätere Verwendung speichern. Sie erhalten keine weitere Aufforderung, bis Sie das Kennwort ändern. <br/> 
-<sup>2</sup> geben Sie Ihre Unternehmensanmeldeinformationen ein. Sie können Ihr Kennwort speichern und werden nicht wieder aufgefordert, bis Sie Ihr Kennwort ändern. <br/> 
-<sup>3</sup> für alle apps müssen Sie Ihren Benutzernamen eingeben oder auswählen, um sich anzumelden. Sie werden nicht zur Kennworteingabe aufgefordert, wenn Ihr Computer der Domäne hinzugefügt wurde. Wenn Sie die Option **angemeldet lassen** auswählen, werden Sie erst wieder aufgefordert, nachdem Sie sich abgemeldet haben. <br/> 
-<sup>4</sup> Wenn Sie die Option **angemeldet lassen** auswählen, werden Sie erst wieder aufgefordert, wenn Sie sich abmelden. 
+> <sup>1</sup> Wenn Sie zum ersten Mal dazu aufgefordert werden, können Sie Ihr Kennwort für die zukünftige Verwendung speichern. Sie erhalten keine weitere Aufforderung, bis Sie das Kennwort ändern. <br/> 
+<sup>2</sup> Sie geben Ihre Unternehmensanmeldeinformationen ein. Sie können Ihr Kennwort speichern und werden nicht wieder aufgefordert, bis Sie Ihr Kennwort ändern. <br/> 
+<sup>3</sup> Für alle Apps müssen Sie Ihren Benutzernamen eingeben oder auswählen, um sich anmelden zu können. Sie werden nicht zur Kennworteingabe aufgefordert, wenn Ihr Computer der Domäne hinzugefügt wurde. Wenn Sie **Anmelden** anmelden auswählen, werden Sie erst dann erneut aufgefordert, wenn Sie sich abmelden. <br/> 
+<sup>4</sup> Wenn Sie **Anmelden** anmelden auswählen, werden Sie erst wieder aufgefordert, wenn Sie sich abmelden. 
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-Es gibt mehrere Möglichkeiten zum Hinzufügen von Benutzern. Weitere Informationen finden Sie unter [Hinzufügen von Benutzern einzeln oder in der Hilfe zum Massen Administrator](https://docs.microsoft.com/office365/admin/add-users/add-users) sowie [hinzufügen, entfernen und Verwalten von Benutzern in der Microsoft 365 Admin Center-Vorschau](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3). Wenn Sie Office 365 im Betrieb durch 21Vianet in China verwenden, finden Sie Informationen unter [Erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet - Admininstratorhilfe](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Es gibt mehrere Möglichkeiten zum Hinzufügen von Benutzern. Weitere Informationen finden Sie unter [Add users individually or in bulk - Admin Help](/office365/admin/add-users/add-users) and [Add, remove, and manage users in Microsoft 365 Admin Center Preview](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3). Wenn Sie Office 365 im Betrieb durch 21Vianet in China verwenden, finden Sie Informationen unter [Erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet - Admininstratorhilfe](/office365/admin/add-users/add-users).
   
 ## <a name="delete-user-accounts"></a>Löschen von Benutzerkonten
 
 Wie Sie Konten löschen, hängt davon ab, ob Sie die Verzeichnissynchronisierung nutzen: 
   
-- Wenn Sie die Verzeichnissynchronisierung nicht verwenden, können Konten mithilfe der Administratorseite oder mithilfe von Windows PowerShell gelöscht werden.
+- Wenn Sie keine Verzeichnissynchronisierung verwenden, können Konten mithilfe der Administratorseite oder mithilfe von Windows PowerShell.
     
 - Wenn Sie die Verzeichnissynchronisierung nutzen, müssen Sie Benutzer aus der lokalen Active Directory-Instanz und nicht aus Office 365 löschen.
     
-Wenn ein Konto gelöscht wird, wird es inaktiv. Sie können das Konto für etwa 30 Tage nach dem Löschen wiederherstellen. Weitere Informationen zum Löschen und Wiederherstellen von Konten finden Sie unter [Löschen von Benutzern](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) und [Wiederherstellen von Benutzern](https://docs.microsoft.com/office365/admin/add-users/restore-user) oder, wenn Sie Office 365 betrieben von 21Vianet in China verwenden, finden Sie unter [erstellen oder Bearbeiten von Benutzerkonten in Office 365 betrieben von 21Vianet-admin Help](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Wenn ein Konto gelöscht wird, wird es inaktiv. Sie können das Konto ungefähr 30 Tage nach dem Löschen wiederherstellen. Weitere Informationen zum Löschen und [](/office365/admin/add-users/delete-a-user) Wiederherstellen [](/office365/admin/add-users/restore-user) von Konten finden Sie unter Löschen von Benutzern und Wiederherstellen von Benutzern oder, wenn Sie Office 365, betrieben von 21Vianet in China, verwenden, finden Sie unter Erstellen oder Bearbeiten von Benutzerkonten [in Office 365, betrieben von 21Vianet – Administratorhilfe](/office365/admin/add-users/add-users).
   
 ## <a name="password-management"></a>Kennwortverwaltung
 
 Die Richtlinien und Verfahren für die Kennwortverwaltung hängen vom Identitätssystem ab.
   
-### <a name="cloud-identity-password-management"></a>Kennwortverwaltung in Cloud-Identität
+### <a name="cloud-identity-password-management"></a>Verwaltung von Cloudidentitätskennworten
   
 Bei der Verwendung von Cloudidentitäten werden Kennwörter automatisch generiert, wenn das Konto erstellt wird.
   
-- Die Anforderungen für sichere Kennwörter bei Cloudidentitäten finden Sie unter [Kennwortrichtlinie](https://docs.microsoft.com/previous-versions/azure/jj943764(v=azure.100)).
+- Die Anforderungen für sichere Kennwörter bei Cloudidentitäten finden Sie unter [Kennwortrichtlinie](/previous-versions/azure/jj943764(v=azure.100)).
     
-- Um die Sicherheit zu verbessern, müssen Benutzer ihre Kennwörter ändern, wenn Sie zum ersten Mal auf Microsoft-Dienste zugreifen. Daher müssen Sie sich beim Microsoft 365 Admin Center anmelden, damit Sie aufgefordert werden, ihre Kennwörter zu ändern, bevor Benutzer auf Microsoft-Dienste zugreifen können.
+- Um die Sicherheit zu erhöhen, müssen Benutzer ihre Kennwörter ändern, wenn sie zum ersten Mal auf Microsoft-Dienste zugreifen. Damit Benutzer auf Microsoft-Dienste zugreifen können, müssen sie sich daher beim Microsoft 365 Admin Center anmelden, wo sie aufgefordert werden, ihre Kennwörter zu ändern.
     
-- Administratoren können die Kennwortablaufrichtlinie festlegen. Weitere Informationen finden Sie unter [Festlegen der Ablaufrichtlinie für ein Benutzerkennwort](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
+- Administratoren können die Kennwortablaufrichtlinie festlegen. Weitere Informationen finden Sie unter [Festlegen der Ablaufrichtlinie für ein Benutzerkennwort](/office365/admin/manage/set-password-expiration-policy).
     
 Es gibt mehrere Tools zum Zurücksetzen von Kennwörtern für Benutzer mit Cloudidentitäten:
   
-- **Administrator setzt das Kennwort** zurück – wenn Benutzer ihre Kennwörter verlieren oder vergessen, können Administratoren die Kennwörter der Benutzer im Admin Center oder mithilfe von Windows PowerShell zurücksetzen. Benutzer können ihr eigenes Kennwort nur ändern, wenn sie ihr bestehendes Kennwort kennen. 
+- **Administrator setzt Kennwort zurück** – Wenn Benutzer ihre Kennwörter verlieren oder vergessen, können Administratoren die Kennwörter der Benutzer im Admin Center oder mithilfe von Windows PowerShell. Benutzer können ihr eigenes Kennwort nur ändern, wenn sie ihr bestehendes Kennwort kennen. 
     
-    Wenn Administratoren für Enterprise-Pläne ihre Kennwörter verlieren oder vergessen, kann ein anderer Administrator mit der globalen Administratorrolle die Kennwörter von Administratoren im Microsoft 365 Admin Center oder mithilfe von Windows PowerShell zurücksetzen. Weitere Informationen finden Sie im Artikel zum Thema [Zurücksetzen von Administratorkennwörtern](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+    Wenn Administratoren bei Unternehmensplänen ihre Kennwörter verlieren oder vergessen, kann ein anderer Administrator mit der Rolle Globaler Administrator die Kennwörter von Administratoren im Microsoft 365 Admin Center oder mithilfe von Windows PowerShell. Weitere Informationen finden Sie im Artikel zum Thema [Zurücksetzen von Administratorkennwörtern](/office365/admin/add-users/reset-passwords). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **Benutzer ändert Kennwörter mit Outlook im Internet** -die Seite Outlook auf der Weboption enthält einen Hyperlink Kennwort ändern, mit dem Benutzer zur Seite **Kennwort ändern** umgeleitet werden. Der Benutzer muss das bisherige Kennwort kennen. Weitere Informationen finden Sie im Artikel zum Thema [Ändern des Kennworts](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- **Benutzer ändert Kennwörter mit Outlook im Web** – Die Seite Outlook im Weboptionen enthält einen Link Kennwort ändern, der Benutzer zur Seite Kennwort **ändern** umleite. Der Benutzer muss das bisherige Kennwort kennen. Weitere Informationen finden Sie im Artikel zum Thema [Ändern des Kennworts](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Change or reset your password in Office 365 operated by 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **Rollenbasierte kennwortrechte für das Zurücksetzen** -für Unternehmenspläne können autorisierten Benutzern wie Helpdesk-Mitarbeitern das Benutzerrecht " **Kennwort zurücksetzen** " und das Recht zum Ändern von Kennwörtern mithilfe vordefinierter oder benutzerdefinierter Rollen zugewiesen werden, ohne dass Sie vollständige Dienstadministratoren werden. In Enterprise-Plänen können Administratoren mit der Rolle globaler Administrator, Kennwort-Administrator oder Benutzer Verwaltungs Administrator standardmäßig Kennwörter ändern. Weitere Informationen finden Sie unter [Zuweisen von Adminrollen](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+- Rollenbasierte Zurücksetzen von Kennwortrechten **–** Für Unternehmenspläne können autorisierten  Benutzern wie Helpdeskmitarbeitern das Benutzerrecht Kennwort zurücksetzen und das Recht zum Ändern von Kennwörtern mithilfe vordefinierter oder benutzerdefinierter Rollen zugewiesen werden, ohne Volldienstadministratoren zu werden. In Unternehmensplänen können Administratoren mit der Rolle globaler Administrator, Kennwortadministrator oder Benutzerverwaltungsadministrator standardmäßig Kennwörter ändern. Weitere Informationen finden Sie unter [Zuweisen von Adminrollen](/office365/admin/add-users/assign-admin-roles).
     
-- **Zurücksetzen von Kennwörtern mit Windows PowerShell** -Dienstadministratoren können Windows PowerShell zum Zurücksetzen von Kennwörtern verwenden. 
+- **Zurücksetzen von Kennwörtern mithilfe Windows PowerShell** - Dienstadministratoren können Windows PowerShell zum Zurücksetzen von Kennwörtern verwenden. 
     
-### <a name="federated-identity-password-management"></a>Kennwortverwaltung für Identitätsverbund
+### <a name="federated-identity-password-management"></a>Verwaltung von Verbundidentitätskennworten
   
-Bei der Verwendung von Verbundidentitäten werden Kennwörter in Active Directory verwaltet. Der lokale Sicherheitstokendienst verhandelt die Authentifizierung mit dem Verbund Gateway, ohne die lokalen Active Directory Kennwörter der Benutzer über das Internet an Office 365 zu übergeben. Lokale Kennwortrichtlinien werden verwendet, oder für Webclients zweistufige Identifikation. Outlook im Internet enthält keinen Link zum Ändern eines Kennworts. Benutzer ändern ihre Kennwörter mit standardmäßigen, lokalen Tools oder mit Ihren Desktop-PC-Anmeldeoptionen.
+Bei Verwendung von Verbundidentitäten werden Kennwörter in Active Directory verwaltet. Der lokale Sicherheitstokendienst handelt die Authentifizierung mit dem Verbundgateway aus, ohne die lokalen Active Directory-Kennwörter der Benutzer über das Internet an Office 365 zu übergeben. Lokale Kennwortrichtlinien werden verwendet, oder für Webclients wird die zwei-Faktor-Identifikation verwendet. Outlook im Web enthält keinen Link zum Ändern des Kennworts. Benutzer ändern ihre Kennwörter mit standardmäßigen, lokalen Tools oder über ihre Desktop-PC-Anmeldeoptionen.
   
-Wenn Sie die [Verzeichnissynchronisierung mit einmaligem Anmelden (SSO)](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100)) in Ihrer Organisationsumgebung aktiviert haben und ein Ausfall auftritt, der sich auf Ihren Partner Identitätsanbieter auswirkt, bietet die Kenn Wort Synchronisierungs Sicherung für die Verbundanmeldung die Möglichkeit, Ihre Domäne manuell zur Kennwortsynchronisierung zu wechseln. Durch die Verwendung der Kennwortsynchronisierung können Ihre Benutzer zugreifen, während der Ausfall behoben ist. Hier erfahren Sie, [wie Sie von der einmaligen Anmeldung zur Kennwortsynchronisierung wechseln](https://go.microsoft.com/fwlink/p/?LinkId=509832).
+Wenn Sie die Verzeichnissynchronisierung mit einmaligem Anmelden [(Single Sign-On, SSO)](/previous-versions/azure/azure-services/dn441213(v=azure.100)) in Ihrer Organisationsumgebung aktiviert haben und ein Ausfall vor liegt, der sich auf Ihren Verbundidentitätsanbieter aus wirkt, bietet die Kennwortsynchronisierungssicherung für die Verbundregistrierung die Möglichkeit, Ihre Domäne manuell auf Kennwortsynchronisierung umzusetzen. Die Verwendung der Kennwortsynchronisierung ermöglicht Benutzern den Zugriff, während der Ausfall behoben ist. Erfahren [Sie, wie Sie von single Sign-On zu Password Sync wechseln.](https://go.microsoft.com/fwlink/p/?LinkId=509832)
   
 ## <a name="license-management"></a>Lizenzverwaltung
 
-Eine Lizenz ermöglicht einem Benutzer den Zugriff auf eine Reihe von Microsoft-Diensten. Ein Administrator weist jedem Benutzer für jeden Dienst, auf den er zugreifen muss, eine Lizenz zu. Sie können beispielsweise einem Benutzer den Zugriff auf Skype for Business Online, aber nicht auf SharePoint Online gewähren.
+Eine Lizenz gewährt einem Benutzer Zugriff auf eine Reihe von Microsoft-Diensten. Ein Administrator weist jedem Benutzer für jeden Dienst, auf den er zugreifen muss, eine Lizenz zu. Sie können beispielsweise einem Benutzer den Zugriff auf Skype for Business Online, aber nicht auf SharePoint Online gewähren.
   
-Microsoft-Abrechnungs Administratoren können Änderungen an den Abonnementdetails vornehmen, beispielsweise die Anzahl der Benutzerlizenzen und die Anzahl der zusätzlichen Dienste, die Ihr Unternehmen verwendet. Auschecken [zuweisen oder Entfernen einer Lizenz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). Wenn Sie Office 365 über 21Vianet verwenden, lesen Sie [Assign or remove licenses in Office 365 operated by 21Vianet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Microsoft-Abrechnungsadministratoren können Änderungen an Abonnementdetails vornehmen, z. B. die Anzahl der Benutzerlizenzen und die Anzahl zusätzlicher Dienste, die Ihr Unternehmen verwendet. Lesen Sie [Zuweisen oder Entfernen einer Lizenz](/office365/admin/subscriptions-and-billing/assign-licenses-to-users). Wenn Sie Office 365 über 21Vianet verwenden, lesen Sie [Assign or remove licenses in Office 365 operated by 21Vianet](/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
 ## <a name="group-management"></a>Gruppenverwaltung
 
-Sicherheitsgruppen werden in SharePoint Online zum Steuern des Zugriffs auf Websites verwendet. Sicherheitsgruppen können im Microsoft 365 Admin Center erstellt werden. Weitere Informationen zu Sicherheitsgruppen finden Sie unter [Erstellen, Bearbeiten oder Entfernen einer Sicherheitsgruppe](https://docs.microsoft.com/office365/admin/email/create-edit-or-delete-a-security-group).
+Sicherheitsgruppen werden in SharePoint Online zum Steuern des Zugriffs auf Websites verwendet. Sicherheitsgruppen können im Microsoft 365 Admin Center erstellt werden. Weitere Informationen zu Sicherheitsgruppen finden Sie unter [Erstellen, Bearbeiten oder Entfernen einer Sicherheitsgruppe](/office365/admin/email/create-edit-or-delete-a-security-group).
   
 ## <a name="administrator-roles"></a>Administratorrollen
 
-Office 365 für Unternehmen folgt einem rollenbasierten Zugriffssteuerungsmodell: Berechtigungen und Funktionen werden durch Verwaltungsrollen definiert. Die Person, die sich für ihre Organisation für Office 365 registriert, wird automatisch globaler Administrator (oder Hauptadministrator). Es gibt fünf Administratorrollen: globaler Administrator, Rechnungsadministrator, Kennwortadministrator, Dienstadministrator und Benutzerverwaltungsadministrator. Weitere Informationen zu Administratorrollen in Office 365 für Unternehmen, einschließlich der Anwendung auf Exchange Online, SharePoint Online und Skype for Business Online Verwaltung finden Sie unter [Zuweisen von Administratorrollen](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Zuweisen von Administratorrollen in Office 365 Business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Office 365 for Enterprise folgt einem rollenbasierten Zugriffssteuerungsmodell(RBAC): Berechtigungen und Funktionen werden durch Verwaltungsrollen definiert. Die Person, die sich für ihre Organisation für Office 365 registriert, wird automatisch globaler Administrator (oder Hauptadministrator). Es gibt fünf Administratorrollen: globaler Administrator, Rechnungsadministrator, Kennwortadministrator, Dienstadministrator und Benutzerverwaltungsadministrator. Weitere Informationen zu Administratorrollen in Office 365 Enterprise, einschließlich ihrer Anwendung auf Exchange Online, SharePoint Online und Skype for Business Online,finden Sie unter [Assigning administrator roles](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Wenn Sie Office 365 über 21Vianet in China verwenden, lesen Sie [Zuweisen von Administratorrollen in Office 365 Business](/office365/admin/add-users/assign-admin-roles).
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Delegierte Verwaltung und Unterstützung für Partner
 
-Partner können zum Verwalten von Konten im Namen von Kunden autorisiert werden. Der Kunde benötigt kein Benutzerkonto für die Partner, und es wird keine Lizenz verwendet, wenn Delegierte Verwaltungsautorität erteilt wird. Partner können Benutzern in ihrer Organisation vollständigen oder eingeschränkten Zugriff zuweisen. Zum eingeschränkten Zugriff gehören Rechte wie das Zurücksetzen von Kennwörtern, das Verwalten von Serviceanfragen und das Überwachen des Dienstzustands. 
+Partner können zum Verwalten von Konten im Namen von Kunden autorisiert werden. Der Kunde benötigt kein Benutzerkonto für die Von partnern verwendeten Und nutzt keine Lizenz, wenn er delegierte Verwaltungsbehörde gewährt. Partner können Benutzern in ihrer Organisation vollständigen oder eingeschränkten Zugriff zuweisen. Zum eingeschränkten Zugriff gehören Rechte wie das Zurücksetzen von Kennwörtern, das Verwalten von Serviceanfragen und das Überwachen des Dienstzustands. 
   
 > [!NOTE]
 > Die Möglichkeit zum Verwenden und Angeben eines Partners als delegierter Administrator kann je nach Region variieren. 
   
 ## <a name="azure-active-directory-services"></a>Azure Active Directory-Dienste
 
-Azure Active Directory (AD) bietet umfassende Identitäts- und Zugriffsverwaltungsfunktionen für Office 365. Es kombiniert Verzeichnisdienste, erweiterte Identity Governance, Anwendungszugriffsverwaltung und eine funktionsreiche standardbasierte Plattform für Entwickler. Weitere Informationen zu AD-Features in Office 365 finden Sie unter [Sign-in-Page Branding und Cloud User Self-Service Password Reset]() https://go.microsoft.com/fwlink/?linkid=2144147 . Hier erfahren Sie mehr über die [Azure Active Directory-Editionen Free, Basic und Premium](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) bietet umfassende Identitäts- und Zugriffsverwaltungsfunktionen für Office 365. Es kombiniert Verzeichnisdienste, erweiterte Identity Governance, Anwendungszugriffsverwaltung und eine funktionsreiche standardbasierte Plattform für Entwickler. Weitere Informationen zu AD-Features in Office 365 finden Sie unter [Sign in page branding and cloud user self-service password reset]() https://go.microsoft.com/fwlink/?linkid=2144147 . Hier erfahren Sie mehr über die [Azure Active Directory-Editionen Free, Basic und Premium](/previous-versions/azure/dn532272(v=azure.100)). 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie in der [Microsoft 365-und Office 365 Platform-Dienstbeschreibung](office-365-platform-service-description.md).
-  
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter Beschreibung des [Microsoft 365- und Office 365-Plattformdiensts.](office-365-platform-service-description.md)

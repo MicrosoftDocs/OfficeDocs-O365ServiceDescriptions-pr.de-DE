@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: a6245acdeaeda173f1a675d1ce34d9086e3f077a
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe1d1f5a58012498e5b0f71c9a4299e61a4456ad
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132549"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173390"
 ---
 # <a name="voice-message-services"></a>Sprachnachrichtendienste
 
@@ -39,15 +39,15 @@ Die Features der Voicemessagingdienste in Exchange Online sind mit den Features 
     
 - Anrufer-ID (mithilfe der Informationen in der globale Adressliste, den persönlichen Kontakten der Benutzer, dem benutzerdefinierten Ordner "Kontakte" und Kontakten aus externen sozialen Netzwerken).
     
-- Zurücksetzen der Voicemail-PIN aus Outlook im Web und Outlook (Details siehe [Zurücksetzen einer Voicemail-PIN](https://go.microsoft.com/fwlink/p/?LinkId=286328))
+- Zurücksetzen der Voicemail-PIN aus Outlook im Web und Outlook (Details siehe [Zurücksetzen einer Voicemail-PIN](/exchange/voice-mail-unified-messaging/set-outlook-voice-access-pin-security/reset-a-voice-mail-pin))
     
-- Message Waiting Indicator (Details siehe [MWI in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271794)) 
+- Message Waiting Indicator (Details siehe [MWI in Exchange Online](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/mwi-in-exchange-online)) 
     
-- Mailboxansageregeln (Weitere Informationen finden Sie unter [Allow Voice Mail users to forward Calls](https://go.microsoft.com/fwlink/p/?LinkId=271795) for Details).
+- Anrufbeantwortungsregeln (weitere Informationen finden Sie unter [Zulassen](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) der Weiterleitung von Anrufen durch Voicemailbenutzer).
     
-- Geschützte Voicemail in Exchange Online (Weitere Informationen finden Sie unter [Protect Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796) for Details).
+- Geschützte Voicemail in Exchange Online (Weitere Informationen finden Sie unter Schützen von [Voicemail in Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
     
-- Voicemailvorschau (siehe [zulassen, dass Benutzer ein Voicemail-Transkript](https://go.microsoft.com/fwlink/p/?LinkId=271797) für eine Liste unterstützter Sprachen anzeigen können).
+- Voicemailvorschau (siehe Zulassen, dass Benutzern eine [Voicemail-Transkription](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) für eine Liste der unterstützten Sprachen angezeigt wird).
     
 - Sprachzugriff auf E-Mail, Voicemail, Kalender, persönliche Kontakte und persönliche Kontaktgruppen.
     
@@ -55,16 +55,16 @@ Die Features der Voicemessagingdienste in Exchange Online sind mit den Features 
     
 - Administratoren konfigurieren und verwalten die Interoperabilität von Voicemessagingdiensten mithilfe der Exchange-Verwaltungskonsole.
     
-Weitere Informationen zu Voicemail-Funktionen finden Sie unter [Voicemail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+Weitere Informationen zu Voicemailfeatures finden Sie unter [Voicemail in Exchange Online](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging).
   
 > [!IMPORTANT]
 > Die automatische Spracherkennung (ASR) ist nicht verfügbar in der Menünavigation oder Verzeichnissuche für Outlook Voice Access-Benutzer oder Anrufer bei der automatischen Telefonzentrale, die Sprachbefehle verwenden. 
 >
-> Der Kunde muss eine telefonieverbindung aus dem Festnetz (Public Switched Telephone Network, PSTN) mit einem VoIP-Gateway und einer Nebenstellenanlage, einer IP-Nebenstellenanlage oder Skype for Business Server 2015 bereitstellen. 
+> Der Kunde muss über ein VoIP-Gateway und eine Nebenstellenanlage, IP-PBX oder Skype for Business Server 2015 eine Telefonieverbindung über das Festnetz (Public Switched Telephone Network, PSTN) bereitstellen. 
 >
 > Der Kunde muss die lokalen SBC-Hardwaregeräte bereitstellen und sicherstellen, dass die SBCs ordnungsgemäß konfiguriert sind, um eine Verbindung zu den Online-Voicemaildiensten herzustellen. Dazu gehört das Konfigurieren der entsprechenden Sicherheitsebene, indem Zertifikate sowie öffentliche und private IP-Schnittstellen verwendet und die richtigen TCP-Ports in den lokalen Firewalls aktiviert werden. 
 >
-> Gehostete Voicemail steht nur Exchange Online Plan 2-und Office 365 Enterprise E3-Abonnenten zur Verfügung. 
+> Gehostete Voicemail ist nur für Exchange Online Plan 2- und Office 365 Enterprise E3-Abonnenten verfügbar. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilität von Voicemails eines Drittanbieters
 
@@ -75,10 +75,8 @@ Lokale Voicemaillösungen von Drittanbietern können mit Exchange Online zusamme
   
 ## <a name="skype-for-business-integration"></a>Skype for Business-Integration
 
-Organisationen können Skype for Business Online als eigenständigen Dienst oder als Teil von Microsoft Office 365 erwerben. Lokales Skype for Business 2015 wird ebenfalls unterstützt. Weitere Informationen zu Skype for Business Online finden Sie unter [Skype for Business Online-Dienstbeschreibung](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Organisationen können Skype for Business Online als eigenständigen Dienst oder als Teil von Microsoft Office 365 erwerben. Lokales Skype for Business 2015 wird ebenfalls unterstützt. Weitere Informationen zu Skype for Business Online finden Sie unter [Skype for Business Online service description](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
-  
-
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).

@@ -1,5 +1,5 @@
 ---
-title: OneDrive für US-Regierungs Umgebungen
+title: OneDrive for US Government Environments
 ms.author: office365servicedesc
 author: pamelaar
 ms.reviewer: ankirti
@@ -8,47 +8,47 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Erfahren Sie mehr über die Verfügbarkeit von OneDrive-Features für US Government Cloud-Kunden.
-ms.openlocfilehash: 0094edfed04bd6c8195d6ede2cf611c9b5420541
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+description: Erfahren Sie mehr über die Verfügbarkeit von OneDrive-Features für Us Government Cloud-Kunden.
+ms.openlocfilehash: 66e3e45ccd15d0486370c2f4049648fdbb0e01c5
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624536"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172940"
 ---
-# <a name="onedrive-for-us-government-environments"></a>OneDrive für US-Regierungs Umgebungen
+# <a name="onedrive-for-us-government-environments"></a>OneDrive for US Government Environments
 
-Dieser Artikel bietet eine Übersicht über Funktionsunterschiede zwischen der US Government-Cloud und der kommerziellen Cloud, wie in der [OneDrive-Dienstbeschreibung](/office365/servicedescriptions/onedrive-for-business-service-description)aufgeführt. OneDrive ist für die Umgebungen Government Community Cloud (gcc), gcc High und DoD verfügbar. 
+Dieser Artikel bietet eine Übersicht über die Funktionsunterschiede zwischen der US Government Cloud und der kommerziellen Cloud, wie in der [OneDrive-Dienstbeschreibung aufgeführt.](../../onedrive-for-business-service-description.md) OneDrive ist für die Government Community Cloud (GCC), GCC High und DoD-Umgebungen verfügbar. 
 
-Weitere Informationen zur Government-Cloud, einschließlich der Berechtigung und des Kaufs, finden Sie unter [Microsoft 365 Government-How to Buy](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Informationen zum Vergleich Office 365er Regierungspläne finden Sie unter [Office 365 Government Plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
+Weitere Informationen zur Government Cloud, einschließlich Berechtigung und Kauf, finden Sie unter [Microsoft 365 Government - how to buy](./microsoft-365-government-how-to-buy.md). Informationen zum Vergleich von Office 365 Government-Plänen finden Sie unter [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
-Informationen zu den erforderlichen Endpunkten beim Verwalten der Netzwerkkonnektivität finden Sie unter [Office 365 US Government gcc High Endpoint](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) oder [Office 365 US Government DoD Endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Informationen zu den erforderlichen Endpunkten beim Verwalten der Netzwerkkonnektivität finden Sie unter [Office 365 U.S. Government GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) oder [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
-Neben den Features und Funktionen von Office 365 profitieren Organisationen von den folgenden Features, die für die US Government Cloud-Umgebungen einzigartig sind:
+Organisationen profitieren nicht nur von den Features und Funktionen von Office 365, sondern profitieren auch von den folgenden Features, die für die Cloudumgebungen der US-Regierung einzigartig sind:
 
--   Der Kunden Inhalt Ihrer Organisation wird logischerweise von Kundeninhalten in den kommerziellen Office 365 Diensten von Microsoft getrennt.
+-   Die Kundeninhalte Ihrer Organisation werden logisch von Kundeninhalten in den kommerziellen Office 365-Diensten von Microsoft getrennt.
 -   Der Kundeninhalt Ihrer Organisation wird in den Vereinigten Staaten gespeichert.
 -   Der Zugriff auf den Kundeninhalt Ihrer Organisation ist auf ausgewähltes Microsoft-Personal beschränkt.
--   Die staatlichen Cloud-Umgebungen entsprechen Zertifizierungen und Akkreditierungen, die für US-Kunden des öffentlichen Sektors erforderlich sind.
+-   Die Cloudumgebungen der Regierung entsprechen den Zertifizierungen und Akkreditierungen, die für Kunden des öffentlichen US-Sektors erforderlich sind.
 
-Unser Ziel ist es, alle kommerziellen Features und Funktionen von OneDrive den staatlichen Cloud-Umgebungen bereitzustellen. Einige Funktionen sind aufgrund der Anforderungen von Government Cloud-Kunden nicht verfügbar. Andere Features kommen in die Regierungs Umgebungen, aber noch nicht zur Verfügung. In den folgenden Abschnitten finden Sie Informationen zur Verfügbarkeit von Features in den Government-Cloud-Umgebungen.
+Unser Ziel ist es, alle kommerziellen #A0 und -Funktionen für die #A1 bereitzustellen. Einige Features sind aufgrund der Anforderungen von Government Cloud-Kunden nicht verfügbar. Andere Features kommen in die Regierungsumgebungen, sind aber noch nicht verfügbar. In den folgenden Abschnitten finden Sie Informationen zur Verfügbarkeit von Features in den Cloudumgebungen der Regierung.
 
 ## <a name="sharing-features"></a>Freigabefeatures
 
-Informationen zu Funktions unterschieden zwischen der kommerziellen Cloud und den staatlichen Cloud-Umgebungen finden Sie unter [File Sharing](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing).
+Funktionsunterschiede zwischen der kommerziellen Cloud und den Cloudumgebungen der Regierung finden Sie unter [Dateifreigabe](./gcc-high-and-dod.md#file-sharing).
 
 ## <a name="web-features"></a>Webfeatures
 
-Hier sind die Unterschiede zwischen den Webfunktionen für kommerzielle Kunden und denen für Government Cloud-Kunden:
+Hier sind die Unterschiede zwischen den Webfeatures für kommerzielle Kunden und denen für Government-Cloud-Kunden:
 
-- Dateikarten sind in den gcc-High-und DoD-Umgebungen nicht verfügbar.
-- Zugriff auf SharePoint-Bibliothek ("freigegebene Bibliotheken" im Navigationsbereich) ist in den gcc-Umgebungen mit hoher und DoD-Umgebung nicht verfügbar.
+- Dateikarten sind in den GCC High- und DoD-Umgebungen nicht verfügbar
+- Der Zugriff auf die SharePoint-Bibliothek ("Freigegebene Bibliotheken" im Navigationsbereich) ist in den GCC High- und DoD-Umgebungen nicht verfügbar.
 
 ## <a name="mobile-features"></a>Mobile Funktionen
 
-Hier sind die Unterschiede zwischen den mobilen Features für kommerzielle Kunden und denen für Government Cloud-Kunden:
+Hier sind die Unterschiede zwischen den mobilen Features für kommerzielle Kunden und denen für Government-Cloud-Kunden:
 
-- Die Windows 10-App für Xbox One, HoloLens, Surface Hub und Tablets ist für die Government-Umgebungen (gcc, gcc High und DoD) nicht verfügbar.
+- Die Windows 10-App für XBox One, HoloLens, Surface Hub und Tablets ist für die Regierungsumgebungen (GCC, GCC High und DoD) nicht verfügbar.
 
 ## <a name="sync-features"></a>Synchronisierungsfeatures
 
@@ -56,8 +56,6 @@ Hier sind die Unterschiede zwischen den Synchronisierungsfeatures für kommerzie
 
 - Wenn Sie die B2B-Synchronisierung verwenden, können Sie möglicherweise keine Dateien aus einer Organisation in einer anderen Umgebung synchronisieren.
 
-## <a name="security-compliance-and-administration-features"></a>Sicherheits-, Compliance-und Verwaltungsfunktionen
+## <a name="security-compliance-and-administration-features"></a>Sicherheits-, Compliance- und Verwaltungsfeatures
 
-Informationen zu Funktions unterschieden zwischen der kommerziellen Cloud und den staatlichen Cloud-Umgebungen finden Sie unter [SharePoint für US Government Environments](sharepoint.md) .
-
-
+Featureunterschiede zwischen der kommerziellen Cloud und den Cloudumgebungen der Regierung finden Sie unter [SharePoint for US government environments.](sharepoint.md)

@@ -10,24 +10,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Microsoft Admins können den Status von Diensten anzeigen und herausfinden, wann Wartungsarbeiten geplant sind. Dienstinte health information is any time by signing in.
-ms.openlocfilehash: bb9e789cd8f72a792ce43f952d35c3f47323b2f8
-ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
+description: Microsoft-Administratoren können den Status der Dienste anzeigen und herausfinden, wann Die Wartung geplant ist. Dienstinte health information is at any time by signing in.
+ms.openlocfilehash: ea9beb020d2f868eb51638c4729924a7ac873b7b
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50031259"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174140"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
-Microsoft Admins können den Status von Diensten anzeigen und herausfinden, wann Wartungsarbeiten geplant sind. Dienstinte health information is any time by signing in.
+Microsoft-Administratoren können den Status der Dienste anzeigen und herausfinden, wann Die Wartung geplant ist. Dienstinte health information is at any time by signing in.
   
 > [!NOTE]
 > Bei Verwendung von Office 365, betrieben von 21Vianet, treffen einige unten aufgeführten Informationen möglicherweise nicht zu. Lesen Sie stattdessen die [Vereinbarung zum Servicelevel von 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="view-status-of-services"></a>Anzeigen des Status von Diensten
 
-Der Abschnitt "Dienststatus" enthält den aktuellen Status des Diensts sowie Details zu Dienstunterbrechungen und -ausausfällen. Informationen zu geplanten Wartungszeiten stehen im Nachrichtencenter zur Verfügung. Weitere Informationen finden Sie unter [Dienststatus anzeigen](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Im Abschnitt Dienstintestatus werden der aktuelle Status des Diensts und Details zu Dienstunterbrechungen und -ausbrüchen angezeigt. Informationen zu geplanten Wartungszeiten stehen im Nachrichtencenter zur Verfügung. Weitere Informationen finden Sie unter [Dienststatus anzeigen](/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>Dienstincidents
 
@@ -35,17 +35,17 @@ Ein Dienstincident (auch als Servicevorfall bezeichnet) ist ein Ereignis, das di
   
 Es gibt zwei Arten von Benachrichtigungen über Zeiten, zu denen Dienste möglicherweise nicht zur Verfügung stehen:
   
-- **Geplante Wartungsereignisse:** Die geplante Wartung umfasst regelmäßige von Microsoft gestartete Dienstupdates an der Infrastruktur und den Softwareanwendungen. Benachrichtigungen zur geplanten Wartung informieren Kunden über Dienstarbeiten, die sich auf die Funktionalität eines Microsoft Service auswirken können. Kunden werden nicht später als fünf Tage vor der geplanten Wartung über das Message Center im Microsoft 365 Admin Center benachrichtigt. Microsoft plant die Wartung normalerweise für Zeiten ein, zu denen die Dienstnutzung üblicherweise am geringsten ist, basierend auf regionalen Zeitzonen. 
+- **Geplante Wartungsereignisse:** Die geplante Wartung umfasst regelmäßige von Microsoft gestartete Dienstupdates an der Infrastruktur und den Softwareanwendungen. Geplante Wartungsbenachrichtigungen informieren Kunden über Dienstarbeiten, die sich auf die Funktionalität eines Microsoft-Diensts auswirken können. Kunden werden nicht später als fünf Tage im Voraus über das Message Center im Microsoft 365 Admin Center über die geplante Wartung benachrichtigt. Microsoft plant die Wartung normalerweise für Zeiten ein, zu denen die Dienstnutzung üblicherweise am geringsten ist, basierend auf regionalen Zeitzonen. 
     
-- **Ungeplante Downtime:** Ungeplante Dienstvorfälle treten auf, wenn einer der Dienste nicht verfügbar ist oder nicht reagiert. 
+- **Ungeplante Ausfallzeiten:** Ungeplante Dienstvorfälle treten auf, wenn einer der Dienste nicht verfügbar oder nicht reagiert. 
 
 ### <a name="recent-worldwide-uptimes"></a>Aktuelle weltweite Uptimes
 
-Der Wechsel zu einem Clouddienst sollte nicht bedeuten, dass die Fähigkeit verloren geht, zu wissen, was passiert. Bei Office 365 ist dies nicht der Dieb. Wir möchten in unseren Vorgängen transparent sein, damit Sie den Status Ihres Diensts überwachen, Probleme nachverfolgen und einen historischen Überblick über die Verfügbarkeit haben können. In den folgenden Tabellen sind aktuelle daten zur weltweiten Uptime dargestellt.
+Der Wechsel zu einem Clouddienst sollte nicht bedeuten, dass die Fähigkeit verloren geht, zu wissen, was los ist. Bei Office 365 nicht. Wir möchten in unseren Vorgängen transparent sein, damit Sie den Status Ihres Diensts überwachen, Probleme nachverfolgen und einen historischen Überblick über die Verfügbarkeit haben können. In den folgenden Tabellen sind aktuelle Daten zur weltweiten Uptime dargestellt.
 
 **2020**
 
-| F1 | F2 | F3 | F4 |
+| F1 | F2 | Q3 | F4 |
 |:-----|:-----|:-----|:-----|
 | 99.98% <br/> | 99,99 %<br/> | 99.97%<br/> | 99.97%<br/> |
 
@@ -53,7 +53,7 @@ Der Wechsel zu einem Clouddienst sollte nicht bedeuten, dass die Fähigkeit verl
 
 **2019**
 
-| F1 | F2 | F3 | F4 |
+| F1 | F2 | Q3 | F4 |
 |:-----|:-----|:-----|:-----|
 | 99.97% <br/> | 99.97% <br/> | 99.98% <br/> | 99.98% <br/> |
 
@@ -61,7 +61,7 @@ Der Wechsel zu einem Clouddienst sollte nicht bedeuten, dass die Fähigkeit verl
 
 **2018**
 
-| F1 | F2 | F3 | F4 |
+| F1 | F2 | Q3 | F4 |
 |:-----|:-----|:-----|:-----|
 | 99,99 % <br/> | 99.98% <br/> | 99.97% <br/> | 99.98% <br/> |
 
@@ -69,33 +69,33 @@ Der Wechsel zu einem Clouddienst sollte nicht bedeuten, dass die Fähigkeit verl
 
 **2017**
 
-| F1 | F2 | F3 | F4 |
+| F1 | F2 | Q3 | F4 |
 |:-----|:-----|:-----|:-----|
 | 99,99 % <br/> | 99.97% <br/> | 99.98% <br/> | 99,99 % <br/> |
 
 ## <a name="notification-policy"></a>Benachrichtigungsrichtlinie
 
-Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Administratoren, indem das mandantenspezifische Service Health Dashboard (SHD) im Microsoft 365 Admin Center aktualisiert wird. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. 
+Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Administratoren, indem es das mandantenspezifische Dienstinteschashboard (Service Health Dashboard, SHD) im Microsoft 365 Admin Center aktualisiert. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. 
   
-## <a name="service-health-communication-channels"></a>Kommunikationskanäle für den Dienstzustand
+## <a name="service-health-communication-channels"></a>Kommunikationskanäle für den Dienstinte health
 
-### <a name="admin-app"></a>Admin App
+### <a name="admin-app"></a>Administrator-App
 
-Die Administrator-App für Organisationsadministratoren bietet Ihnen die Möglichkeit, unterwegs eine Verbindung mit dem Microsoft-Dienststatus Ihrer Organisation herzustellen. Die Administratoren von Microsoft können Dienststatusinformationen und Wartungsstatusupdates von ihren mobilen Geräten aus anzeigen. Weitere Informationen finden Sie unter „Häufig gestellte Fragen zur Admin-App“[Admin-App FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app).
+Mit der Admin App für Organisationsadministratoren können Sie unterwegs eine Verbindung mit dem Microsoft-Dienststatus Ihrer Organisation herstellen. Microsoft-Administratoren können Dienststatusinformationen und Wartungsstatusupdates von ihren mobilen Geräten anzeigen. Weitere Informationen finden Sie unter „Häufig gestellte Fragen zur Admin-App“[Admin-App FAQ](/office365/admin/admin-overview/admin-mobile-app).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack für Microsoft System Center 2012 R2
 
-Microsoft System Center ist eine integrierte Verwaltungsplattform, die Ihnen hilft, Ihr Rechenzentrum, Ihre Clientgeräte und Hybrid Cloud-IT-Umgebungen zu verwalten. Microsoft-Administratoren, die System Center verwenden, haben jetzt die Möglichkeit, das Office 365 Management Pack zu importieren, mit dem sie die gesamte Dienstkommunikation in Operations Manager in System Center anzeigen können. Dieses Tool ermöglicht den Zugriff auf den Status Ihrer abonnierten Dienste, aktive und abgeschlossene Dienstereignisse sowie die Message Center-Kommunikation. Weitere Informationen finden Sie im Microsoft Download Center im Microsoft System Center Management Pack für [Office 365.](https://www.microsoft.com/download/details.aspx?id=43708) 
+Microsoft System Center ist eine integrierte Verwaltungsplattform, die Ihnen hilft, Ihr Rechenzentrum, Ihre Clientgeräte und Hybrid Cloud-IT-Umgebungen zu verwalten. Microsoft-Administratoren, die System Center verwenden, haben jetzt die Möglichkeit, das Office 365 Management Pack zu importieren, mit dem sie die gesamte Dienstkommunikation im Operations Manager im System Center anzeigen können. Dieses Tool ermöglicht den Zugriff auf den Status Ihrer abonnierten Dienste, aktive und abgeschlossene Dienstereignisse sowie die Message Center-Kommunikation. Weitere Informationen finden Sie unter [Microsoft System Center Management Pack für Office 365](https://www.microsoft.com/download/details.aspx?id=43708) im Microsoft Download Center. 
   
 ### <a name="office-365-service-communications-api"></a>Office 365-Dienstkommunikations-API
 
-Mit der Office 365-Dienstkommunikations-API können Sie auf die Dienstkommunikation zugreifen, wie Sie möchten. Mit dieser API haben Sie die Möglichkeit, Ihre Tools mit der Dienstkommunikation zu erstellen oder zu verbinden, was die Überwachung Ihrer Umgebung potenziell vereinfacht. Mit der Dienstkommunikations-API können Sie die folgenden Elemente in Ihrer Umgebung überwachen:
+Mit der Office 365 Service Communications-API können Sie auf die Dienstkommunikation zugreifen, wie Sie möchten. Mit dieser API haben Sie die Möglichkeit, Ihre Tools mit der Dienstkommunikation zu erstellen oder zu verbinden, was die Überwachung Ihrer Umgebung potenziell vereinfacht. Mit der Dienstkommunikations-API können Sie die folgenden Elemente in Ihrer Umgebung überwachen:
   
 - Dienststatus in Echtzeit
     
 - Message Center-Kommunikation
     
-Weitere Informationen finden Sie in der [Referenz zur Office 365-Dienstkommunikations-API.](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference) 
+Weitere Informationen finden Sie unter [Office 365 Service Communications API reference](/office/office-365-management-api/office-365-service-communications-api-reference). 
   
 ## <a name="post-incident-reviews"></a>Bewertungen nach Vorfällen
 
@@ -117,9 +117,9 @@ Bei allen anderen Dienstincidents stellt das Service Health Dashboard eine Zusam
   
 ## <a name="service-continuity"></a>Service continuity
 
-Die Angebote von Microsoft werden von äußerst ausfallsicheren Systemen angeboten, die zur Aufrechterhaltung der Spitzenleistung beitragen. Dienstkontinuitätsbestimmungen sind Teil des Systementwurfs. Diese Bestimmungen ermöglichen Microsoft die schnelle Wiederherstellung nach unerwarteten Ereignissen wie Hardware- oder Anwendungsfehlern, Datenbeschädigungen oder anderen Vorfällen, die Benutzer betreffen. Diese Lösungen für die Dienstverfügbarkeit gelten auch bei schwerwiegenden Ausfällen (wie Naturkatastrophen oder einem Incident in einem Microsoft-Rechenzentrum, durch den das gesamte Rechenzentrum nicht mehr funktionsfähig ist).
+Microsoft-Angebote werden von besonders ausfallsicheren Systemen angeboten, die dazu beitragen, die Leistung des Diensts auf hohem Stand zu halten. Dienstkontinuitätsbestimmungen sind Teil des Systementwurfs. Diese Bestimmungen ermöglichen Microsoft die schnelle Wiederherstellung von unerwarteten Ereignissen wie Hardware- oder Anwendungsfehlern, Datenbeschädigungen oder anderen Vorfällen, die Sich auf Benutzer auswirken. Diese Lösungen für die Dienstverfügbarkeit gelten auch bei schwerwiegenden Ausfällen (wie Naturkatastrophen oder einem Incident in einem Microsoft-Rechenzentrum, durch den das gesamte Rechenzentrum nicht mehr funktionsfähig ist).
   
-Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gewisse Zeit, bis die vollständige Rechenzentrumsredundanz für den Dienst wiederhergestellt ist. Beispiel: Wenn Rechenzentrum 1 ausfällt, werden die Dienste durch Ressourcen in Rechenzentrum 2 wiederhergestellt. Allerdings kann es u. U. eine gewisse Zeit dauern, bis die Dienste in Rechenzentrum 2 unterbrechungsfrei ausgeführt werden, sei es durch wiederhergestellte Ressourcen in Rechenzentrum 1 oder neue Ressourcen in Rechenzentrum 3. Der Microsoft [Service Level Agreement](service-level-agreement.md) (SLA) gilt während dieser Zeit. Office 365, betrieben von 21Vianet, verfügt über eine andere SLA. Weitere Informationen finden Sie auf der [21Vianet-Website.](https://www.21vbluecloud.com/office365/O365-SLA/) 
+Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gewisse Zeit, bis die vollständige Rechenzentrumsredundanz für den Dienst wiederhergestellt ist. Beispiel: Wenn Rechenzentrum 1 ausfällt, werden die Dienste durch Ressourcen in Rechenzentrum 2 wiederhergestellt. Allerdings kann es u. U. eine gewisse Zeit dauern, bis die Dienste in Rechenzentrum 2 unterbrechungsfrei ausgeführt werden, sei es durch wiederhergestellte Ressourcen in Rechenzentrum 1 oder neue Ressourcen in Rechenzentrum 3. Der Microsoft [Service Level Agreement](service-level-agreement.md) (SLA) gilt während dieser Zeit. Office 365, betrieben von 21Vianet, verfügt über eine andere SLA. Weitere Informationen finden Sie auf der [21Vianet-Website](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Sicherstellen der Datenverfügbarkeit
 
@@ -127,7 +127,7 @@ Mit den folgenden Features stellt Microsoft sicher, dass Kundendaten immer zur V
   
 - **Datenspeicherung und -redundanz:** Die Daten der Kunden werden in einer redundanten Umgebung mit zuverlässigen Datenschutzfunktionen gespeichert, um Verfügbarkeit, Geschäftskontinuität und schnelle Wiederherstellung zu ermöglichen. Mehrere Ebenen von Datenredundanz sind implementiert. Sie reichen von redundanten Datenträgern zum Schutz vor lokalen Datenträgerfehlern über die fortlaufende Replikation bis zu geografisch verteilten Rechenzentren. 
     
-- **Datenüberwachung:** Die Dienste von Microsoft behalten ein hohes Leistungsniveau durch Überwachung bei: 
+- **Datenüberwachung:** Microsoft-Dienste behalten ein hohes Leistungsniveau durch Überwachung bei: 
     
   - Datenbanken
     
@@ -143,19 +143,18 @@ Mit den folgenden Features stellt Microsoft sicher, dass Kundendaten immer zur V
     
 ## <a name="support"></a>Support
 
-Die Entwicklungs- und Betriebsteams von Microsoft werden durch eine dedizierte Supportorganisation ergänzt, die eine wichtige Rolle bei der Bereitstellung von Geschäftskontinuität für Kunden spielt. Supportmitarbeiter sind über tiefe Kenntnisse des Diensts und der zugehörigen Anwendungen sowie über direkten Zugriff auf Microsoft-Experten für Architektur, Entwicklung und Tests verfügt.
+Die Entwicklungs- und Betriebsteams von Microsoft werden durch eine dedizierte Supportorganisation ergänzt, die eine wichtige Rolle bei der Bereitstellung von Geschäftskontinuität für Kunden spielt. Supportmitarbeiter haben ein tiefes Wissen über den Dienst und die zugehörigen Anwendungen sowie direkten Zugriff auf Microsoft-Experten in Architektur, Entwicklung und Tests.
   
 Die Supportorganisation ist eng am Betrieb und der Produktentwicklung ausgerichtet, bietet Lösungen in kurzer Zeit und ermöglicht es den Kunden, ihre Meinung zu sagen. Feedback von Kunden leistet Beiträge zu Planungs-, Entwicklungs- und Betriebsprozessen.
   
-- **Onlineverfolgung von Problemen:** Die Kunden müssen wissen, dass ihre Probleme behandelt werden, und sie müssen in der Lage sein, zeitnah die Lösung zu verfolgen. Das Microsoft 365 Admin Center bietet eine einzige webbasierte Benutzeroberfläche für den Support. Die Kunden können über das Portal Dienstanforderungen hinzufügen und überwachen und Feedback von Microsoft-Supportteams erhalten. 
+- **Onlineverfolgung von Problemen:** Die Kunden müssen wissen, dass ihre Probleme behandelt werden, und sie müssen in der Lage sein, zeitnah die Lösung zu verfolgen. Das Microsoft 365 Admin Center bietet eine einzige webbasierte Benutzeroberfläche zur Unterstützung. Die Kunden können über das Portal Dienstanforderungen hinzufügen und überwachen und Feedback von Microsoft-Supportteams erhalten. 
     
-- **Selbsthilfe, unterstützt durch fortlaufenden Support durch Mitarbeiter:** Microsoft bietet eine Vielzahl von Ressourcen und Tools zur Selbsthilfe, mit denen Kunden Probleme im Zusammenhang mit dem Dienst beheben können, ohne dass der Support von Microsoft erforderlich ist. 
+- **Selbsthilfe, unterstützt durch kontinuierliche Unterstützung durch Mitarbeiter:** Microsoft bietet eine breite Palette von Selbsthilferessourcen und Tools, die Kunden dabei helfen können, dienstbezogene Probleme zu beheben, ohne microsoft support zu benötigen. 
     
 Bevor Kunden Dienstanforderungen eingeben, können Sie auf Artikel der Knowledge Base und häufig gestellte Fragen zugreifen, die Hilfe bei den am häufigsten auftretenden Problemen bieten. Diese Ressourcen werden ständig mit aktuellen Informationen aktualisiert, sodass Verzögerungen bei Lösungen für bekannte Probleme vermieden werden. Wenn jedoch ein Problem auftritt, bei dem die Hilfe eines Supportmitarbeiters erforderlich ist, stehen entsprechende Mitarbeiter täglich rund um die Uhr für eine unmittelbare Unterstützung per Telefon und über das Verwaltungsportal zur Verfügung.
   
-Weitere Informationen zum Support finden Sie im [Supportartikel.](support.md) 
+Weitere Informationen zum Support [](support.md) finden Sie im Support-Artikel. 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in verschiedenen Plänen finden Sie in der Beschreibung des [Microsoft 365- und Office 365-Plattformdiensts.](office-365-platform-service-description.md)
-  
+Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).

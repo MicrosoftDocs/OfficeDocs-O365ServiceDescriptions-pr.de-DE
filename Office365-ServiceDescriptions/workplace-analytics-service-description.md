@@ -9,42 +9,42 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: Microsoft Workplace Analytics bietet umfangreiche, umsetzbare Einblicke in die Kommunikations-und Zusammenarbeits Trends in Ihrer Organisation, damit Sie effektivere geschäftliche Entscheidungen treffen können.
-ms.openlocfilehash: 1698590614c202075532de9977077da2195c3ebe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Workplace Analytics bietet umfassende, umsetzbare Einblicke in die Kommunikations- und Zusammenarbeitstrends Ihrer Organisation, damit Sie effektivere Geschäftsentscheidungen treffen können.
+ms.openlocfilehash: 4bb007df02c1773045c1cb60a0cb77326b9878a2
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132929"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174050"
 ---
 # <a name="workplace-analytics-service-description"></a>Workplace Analytics-Dienstbeschreibung
 
-Microsoft Workplace Analytics bietet umfangreiche, umsetzbare Einblicke in die Kommunikations-und Zusammenarbeits Trends in Ihrer Organisation, damit Sie effektivere geschäftliche Entscheidungen treffen können.
+Microsoft Workplace Analytics bietet umfassende, umsetzbare Einblicke in die Kommunikations- und Zusammenarbeitstrends Ihrer Organisation, damit Sie effektivere Geschäftsentscheidungen treffen können.
 
-## <a name="transform-unprecedented-insights-into-action"></a>Umwandeln beispielloser Einblicke in die Aktion
+## <a name="transform-unprecedented-insights-into-action"></a>Transformieren von nie dagewesenen Einblicken in Aktion
 
-* Address Collaboration-Überladung
-* Gliedern von org-Silos
-* Vorgehensweisen auf der Ebene der Vorgesetzten
-* Schnellere Akquisitionen
-* Ineffizienzen beim Ausmerzen des Prozesses
-* Steigern der Produktivität im Vertrieb
-* Transformieren der Mitarbeiter Erfahrung
-* Planen von Arbeitsbereichen
+* Adresszusammenarbeitsüberlastung
+* Aufbrechen von Organisationssilos
+* Vorgehensweisen für vorgesetzte Manager auf ebener Ebene
+* Beschleunigen von Käufen
+* Ineffizienzen des Root-Out-Prozesses
+* Steigern der Umsatzproduktivität
+* Transformieren der Mitarbeitererfahrung
+* Arbeitsbereichsplanung
 
-## <a name="gain-objective-actionable-insights"></a>Gewinnen Sie Objektive, umsetzbare Einblicke
+## <a name="gain-objective-actionable-insights"></a>Gewinnen objektiver, umsetzbarer Einblicke
 
-Erfahren Sie, wie Ihre Organisation Zeit verbringt und intern und extern mit beispiellosen Einblicken aus Office 365 zusammenarbeitet. Die Arbeitsplatzanalyse gibt Geschäftsführern Dutzende von Verhaltens Metriken zu Zeit und Netzwerken, um eine Vielzahl von strategischen Entscheidungen zu informieren, darunter Teaming-Modelle, Ressourcenzuteilung und Arbeitsbereichs Planung.
+Erfahren Sie, wie Ihre Organisation Zeit verbringt und intern und extern mit nie dagewesenen Einblicken aus Office 365 zusammenarbeitt. Workplace Analytics bietet Führungskräften Dutzende von Verhaltensmetriken mit Aktionen zu Zeit und Netzwerken, um eine Vielzahl strategischer Entscheidungen zu informieren, einschließlich Teammodellen, Ressourcenzuweisung und Arbeitsbereichsplanung.
 
-## <a name="drive-organizational-change-with-data"></a>Steuern der organisatorischen Änderung mit Daten
+## <a name="drive-organizational-change-with-data"></a>Organisatorische Änderungen mit Daten andingen
 
-Die Arbeitsplatzanalyse bietet umfangreiche objektive Daten, um bessere geschäftliche Entscheidungen zu treffen. Geführte Explorations-Dashboards markieren potenzielle Problembereiche, während flexible Abfragen gezielte geschäftliche Fragen zu Einstellungsstrategien, neuen Organisationsstrukturen und Geschäftsprogrammen beantworten. Erweitern Sie Daten mit Geschäftsergebnis Informationen, um bewährte Methoden, Vorhersagemodelle und Benchmarks festzulegen. Einführung von Änderungsinitiativen basierend auf Verhaltensdaten und Messen des Erfolgs von Programmen im Laufe der Zeit. Wenden Sie sich an Ihren Microsoft-Kundendienstmitarbeiter, um mehr über die verfügbaren Beratungsdienste zu erfahren, mit denen Sie geschäftliche Herausforderungen quantifizieren und Änderungen umsetzen können.
+Workplace Analytics bietet eine reihe von objektiven Daten, um bessere Geschäftliche Entscheidungen zu treffen. In geführten Erkundungsdashboards werden potenzielle Problembereiche hervorgehoben, während flexible Abfragen gezielte Geschäftsfragen zu Einstellungsstrategien, neuen Organisationsstrukturen und Geschäftsprogrammen beantworten. Erweitern Sie Daten mit Geschäftsergebnisinformationen, um bewährte Methoden, Vorhersagemodelle und Benchmarks zu erstellen. Führen Sie Änderungsinitiativen auf der Grundlage von Verhaltensdaten ein, und messen Sie den Erfolg von Programmen im Laufe der Zeit. Wenden Sie sich an Ihren Microsoft Customer Service-Mitarbeiter, um mehr über die verfügbaren Beratungsdienste zu erfahren, mit denen Sie geschäftliche Herausforderungen quantifizieren und Änderungen implementieren können.
 
-## <a name="privacy-and-compliance-designed-for-you"></a>Datenschutz und Compliance für Sie entwickelt
+## <a name="privacy-and-compliance-designed-for-you"></a>Datenschutz und Compliance für Sie
 
-Die Arbeitsplatzanalyse bietet Datenschutz-Steuerelemente, die Ihren Anforderungen und ihrer Einhaltung entsprechen, um Ihre Daten zu schützen. Kunden entscheiden, welche Populationen analysiert werden sollen, und behalten die Kontrolle über Datenaggregation und deidentifikations Standards. Die Analyse am Arbeitsplatz analysiert nur Microsoft-Metadaten. Datenanzeige und Aggregationsebenen basieren auf Rollen-und Kundeneinstellungen.
+Workplace Analytics bietet Datenschutzkontrollen, um Ihre Anforderungen und Compliance zum Schutz Ihrer Daten zu erfüllen. Kunden entscheiden, welche Populationen analysiert und die Kontrolle über Datenaggregation und Entidentifizierungsstandards beibehalten werden sollen. Workplace Analytics analysiert nur Microsoft-Metadaten. Datenansichts- und Aggregationsebenen basieren auf Rollen- und Kundeneinstellungen.
 
-Weitere Informationen finden Sie unter [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Weitere Informationen zur Verwendung der Arbeitsplatzanalyse finden Sie in der [Dokumentation zur Arbeitsplatzanalyse](https://docs.microsoft.com/workplace-analytics/).
+Weitere Informationen finden Sie unter [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Weitere Informationen zur Verwendung von Workplace Analytics finden Sie in [der Workplace Analytics-Dokumentation](/workplace-analytics/).
   
 ## <a name="licensing-requirements"></a>Lizenzierungsanforderungen
 

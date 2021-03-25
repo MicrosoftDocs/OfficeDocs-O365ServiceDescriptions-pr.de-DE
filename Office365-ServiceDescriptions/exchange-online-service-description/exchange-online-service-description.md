@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Funktionsvergleich von Abonnements, die Exchange Online enthalten? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 7fccd99b34860b0f07604e2dc7b079e932625fc4
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: dc3dd3828e31bd6f3e146a63aafc750197f4b927
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726750"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173660"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -27,10 +27,10 @@ Suchen Sie nach einem Funktionsvergleich von Abonnements, die Exchange Online en
 > [!NOTE]
 > Wenn Sie Unterstützung bei einer Aufgabe benötigen oder wenn Sie ein Problem beheben, finden Sie möglicherweise die folgenden Ressourcen hilfreich: <br/>
 [E-Mail](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed) zur Unterstützung beim Erstellen und Senden von E-Mails. <br/> 
-[Verwalten von E-Mails und Kalendern](https://docs.microsoft.com/office365/admin/email/email)<br/> 
+[Verwalten von E-Mails und Kalendern](/office365/admin/email/email)<br/> 
 [Informationen zum Microsoft Support and Recovery Assistant](https://diagnostics.office.com/)<br/> 
-[E-Mail-Unzustellungsberichte in Exchange Online](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
-[Exchange Online-Hilfe](https://docs.microsoft.com/exchange/exchange-online)
+[E-Mail-Unzustellungsberichte in Exchange Online](/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
+[Exchange Online-Hilfe](/exchange/exchange-online)
   
 Microsoft Exchange Online ist eine gehostete Lösung für Nachrichten, die die Funktionen von Microsoft Exchange Server in einem cloudbasierten Dienst bereitstellt. Benutzer erhalten damit Zugriff auf E-Mails, Kalender, Kontakte und Aufgaben von PCs, dem Web und mobilen Geräten. Die Lösung ist vollständig in Active Directory integriert, sodass Administratoren Gruppenrichtlinien und andere Verwaltungstools verwenden können, um Exchange Online-Funktionen in ihrer gesamten Umgebung zu verwalten.
   
@@ -39,11 +39,11 @@ Organisationen, die Exchange Online abonnieren, behalten die Kontrolle über die
 Informationen zum Vergleichen von Features in verschiedenen Plänen finden Sie unter [Leistungsstarke Tools zur Unterstützung Ihres Unternehmens.](https://products.office.com/business/compare-more-office-365-for-business-plans) Informationen zum Vergleichen der Pläne für Office 365 für Deutschland finden Sie unter [ Abonnementpläne für Office 365 Deutschland ](https://go.microsoft.com/fwlink/?linkid=839016).
   
 > [!TIP]
-> Sie können Seiten in den Microsoft-Dienstbeschreibungen exportieren, speichern und drucken. Erfahren Sie, [wie Sie Inhaltssuchergebnisse exportieren.](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 
+> Sie können Seiten in den Microsoft-Dienstbeschreibungen exportieren, speichern und drucken. Erfahren Sie, [wie Sie Inhaltssuchergebnisse exportieren.](/office365/securitycompliance/export-search-results) 
   
 ## <a name="whats-new-in-exchange-admin-center"></a>Neuerungen im Exchange Admin Center
 
-Weitere Informationen zu neuen Features im Exchange Admin Center finden Sie unter [What's new in Exchange Admin Center](https://docs.microsoft.com/exchange/whats-new).
+Weitere Informationen zu neuen Features im Exchange Admin Center finden Sie unter [What's new in Exchange Admin Center](/exchange/whats-new).
   
 ## <a name="plans-for-exchange-online"></a>Pläne für Exchange Online
 
@@ -54,7 +54,7 @@ Jeder Benutzer, der auf den Exchange Online-Dienst zugreift, muss einem Abonneme
 Benutzerabonnements sind für Konferenzräume und freigegebene Postfächer nicht erforderlich. Diese speziellen Postfachtypen verfügen nicht über Anmeldeinformationen. Stattdessen erfolgt die Verwaltung und der Zugriff von lizenzierten Benutzern mit den entsprechenden Berechtigungen über Delegation.
 
 **Microsoft 365 F1 Benutzerpostfach-Nutzungsrechte** <br/>
-Microsoft 365 F1 enthält keine Rechte für ein Exchange-Postfach. Um eine vollständige Teams-Erfahrung zu ermöglichen, können M365 F1-Lizenzen den Exchange Online K1-Dienstplan aktiviert haben. Obwohl der Exchange Online K1-Dienstplan ein Postfach für den Benutzer bereitstellen wird, sind M365 F1-Benutzer nicht berechtigt, das Postfach zu verwenden. Es wird empfohlen, Outlook im [](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) Web über diese Schritte zu deaktivieren und Ihre Benutzer zu bitten, nicht über andere Methoden auf das Exchange-Postfach zu zugreifen.
+Microsoft 365 F1 enthält keine Rechte für ein Exchange-Postfach. Um eine vollständige Teams-Erfahrung zu ermöglichen, können M365 F1-Lizenzen den Exchange Online K1-Dienstplan aktiviert haben. Obwohl der Exchange Online K1-Dienstplan ein Postfach für den Benutzer bereitstellen wird, sind M365 F1-Benutzer nicht berechtigt, das Postfach zu verwenden. Es wird empfohlen, Outlook im [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) Web über diese Schritte zu deaktivieren und Ihre Benutzer zu bitten, nicht über andere Methoden auf das Exchange-Postfach zu zugreifen.
   
 ## <a name="system-requirements-for-exchange-online"></a>Systemanforderungen für Exchange Online
 
@@ -97,7 +97,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Transport rules|Ja <sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|
 |Verhinderung von Datenverlust|Ja<sup>5, 14</sup>|Ja<sup>5, 14</sup>|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Schutz vor Spam und Schadsoftware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Integrierter Antispamschutz|Ja <sup>6</sup>|Ja <sup>6</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>8</sup>|Ja <sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|
@@ -105,7 +105,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Microsoft Defender für Office 365|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Benutzerdefiniertes Routing ausgehender E-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -123,7 +123,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Adressbuchrichtlinien|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Hierarchisches Adressbuch|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Adresslisten und globale Adressliste|Ja|Ja|Ja|Ja|Ja<sup>18</sup>|Ja<sup>18</sup>|Ja<sup>18</sup>|Ja<sup>18</sup>|
-|Microsoft 365-Gruppen|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
+|Microsoft 365-Gruppen|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verteilergruppen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Externe Kontakte (global)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Universelle Visitenkarte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -183,7 +183,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>3</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Features zu aktivieren. <br/>
 <sup>4</sup> Transportregeln sind flexible Kriterien, mit denen Sie Bedingungen und Ausnahmen definieren können, sowie Aktionen, die basierend auf den Kriterien zu ergreifen sind. Für Exchange Online und Microsoft Exchange Server 2013 sind unterschiedliche Kriterien und Aktionen verfügbar. Eine Liste der verfügbaren Kriterien und Aktionen finden Sie in den entsprechenden Themen zu Kriterien und Aktionen für jedes Produkt. <br/>
 <sup>5</sup> Für Exchange 2013 erfordert DLP eine Exchange Enterprise Client Access License (CAL). Weitere Informationen zu CALs und Serverlizenzierung finden Sie unter Häufig gestellte Fragen zur [Exchange-Lizenzierung](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business). <br/>
-<sup>6</sup> Exchange Server 2013 verfügt über die meisten der gleichen integrierten Antispamfunktionen wie Exchange Server 2010. Informationen zu den Vorteilen der von Exchange gehosteten Spamfilterung über die lokalen Angebote finden Sie unter Vorteile von Antispamfeatures [in Exchange Online Protection Over Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
+<sup>6</sup> Exchange Server 2013 verfügt über die meisten der gleichen integrierten Antispamfunktionen wie Exchange Server 2010. Informationen zu den Vorteilen der von Exchange gehosteten Spamfilterung über die lokalen Angebote finden Sie unter Vorteile von Antispamfeatures [in Exchange Online Protection Over Exchange Server 2013](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
 <sup>7</sup> Zugriff nur über direkten Zugriff auf die Verwaltungsschnittstelle des Exchange Admin Center (EAC). <br/>
 <sup>8</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/>
 <sup>9</sup> Ein EOA-Abonnement kann für jedes Postfach separat erworben werden, für das entweder das inaktive Postfach oder das Archivfeature erforderlich ist.<br/>
@@ -199,7 +199,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>19</sup> Einige Webparts und Add-Ins von Drittanbietern sind möglicherweise nicht verfügbar. <br/>
 <sup>20</sup> Für eDiscovery benötigen Sie eine separate Abfrage für lokale und cloudbasierte Abfragen. <br/>
 <sup>21</sup> Die Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. <br/>
-<sup>22</sup> Weitere Informationen finden Sie unter [Dienstverschlüsselung mit Kundenschlüssel](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
+<sup>22</sup> Weitere Informationen finden Sie unter [Dienstverschlüsselung mit Kundenschlüssel](/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> Die Exchange Online UM-Unterstützung für Nebenstellenanlagen von Drittanbietern über direkte Verbindungen von vom Kunden betriebenen SBCs endet im April 2019. Weitere Informationen finden Sie im Exchange-Teamblog Abbruch der Unterstützung für [Session Border Controllers in Exchange Online Unified Messaging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853). <br/>
 <sup>24</sup> Ein F3-Benutzer kann keine Stellvertretung zu seinem eigenen Postfach hinzufügen, aber er kann auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und aktionen ausführen, die an sie delegiert wurden.<br/>
 <sup>25</sup> Ein Abonnement für Microsoft 365 Apps for Enterprise ist auch für Exchange Server 2013 und Exchange Server 2016 erforderlich.<br/>
@@ -233,14 +233,14 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Transportregeln|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|
 |Verhinderung von Datenverlust|Ja<sup>10, 14</sup>|Ja<sup>10, 14</sup>|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|
-|**[Schutz vor Spam und Schadsoftware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
+|**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
 |Integrierter Antispamschutz|Ja <sup>2</sup>|Ja <sup>2</sup>|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja <sup>8</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>7</sup>|Ja <sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |Customize anti-malware policies|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|
-|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
+|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
 |Benutzerdefiniertes Routing ausgehender E-Mails|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|
@@ -313,7 +313,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Outlook-Add-Ins und Outlook MAPI|Ja|Ja|Ja<sup>21</sup>|Ja<sup>21</sup>|Nein|
 
 <sup>1</sup> Transportregeln sind aus flexiblen Kriterien, mit denen Sie Bedingungen und Ausnahmen definieren und Aktionen basierend auf den Kriterien ausführen können. Für Exchange Online und Microsoft Exchange Server 2013 sind unterschiedliche Kriterien und Aktionen verfügbar. Eine Liste der verfügbaren Kriterien und Aktionen finden Sie in den entsprechenden Themen zu Kriterien und Aktionen für jedes Produkt. <br/>
-<sup>2</sup> Informationen zu den Vorteilen der von Exchange gehosteten Spamfilterung über die lokalen Angebote finden Sie unter Vorteile von [Antispamfunktionen in Exchange Online Protection over Exchange Server 2013](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
+<sup>2</sup> Informationen zu den Vorteilen der von Exchange gehosteten Spamfilterung über die lokalen Angebote finden Sie unter Vorteile von [Antispamfunktionen in Exchange Online Protection over Exchange Server 2013](/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help). <br/>
 <sup>3</sup> SharePoint muss in der lokalen Exchange-Organisation bereitgestellt werden. <br/>
 <sup>4</sup> SharePoint Online muss im Abonnementplan enthalten sein. <br/>
 <sup>5</sup> Erfordert ein Exchange Online-Archivierung für jeden lokalen Postfachbenutzer, der über ein cloudbasiertes Archiv verfügt. <br/>
@@ -328,7 +328,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>14</sup> Kunden, die Exchange Server 2013 oder höher ausgeführt werden, müssen das neueste kumulative Update (CU) oder das unmittelbar vorherige KU herunterladen und installieren, um auf Dokumentfingerabdrücke und Richtlinientipps in OWA und OWA für Geräte zu zugreifen. <br/>
 <sup>15</sup> Verfügbar für Kunden, die Exchange Server 2013 oder höher ausführen. <br/>
 <sup>16</sup> BitLocker Drive Encryption wird für Exchange Server 2013 unterstützt, aber ein Administrator muss das Feature aktivieren. <br/>
-<sup>17</sup> Exchange Online Plan 1 hat eine [Größenbeschränkung für](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)das Postfach und Archiv . Exchange Online-Archivierung für Exchange Online-Add-On fügt unbegrenztes cloudbasiertes Archiv und [In-Place Hold hinzu.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold) <br/>
+<sup>17</sup> Exchange Online Plan 1 hat eine [Größenbeschränkung für](./exchange-online-limits.md)das Postfach und Archiv . Exchange Online-Archivierung für Exchange Online-Add-On fügt unbegrenztes cloudbasiertes Archiv und [In-Place Hold hinzu.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18</sup> Exchange Online-Kiosk Kalender können nur über OWA zugegriffen oder freigegeben werden. <br/>
 <sup>19</sup> Verbundene Konten werden für POP-IMAP-Konten unterstützt, jedoch für Outlook.com &amp; (Hotmail). <br/>
 <sup>20</sup> Die Verwendung von Cmdlets in Exchange Online PowerShell zum Anpassen von Standardadressenlisten und die standardmäßige globale Adressliste (GAL) wird nicht unterstützt. <br/>

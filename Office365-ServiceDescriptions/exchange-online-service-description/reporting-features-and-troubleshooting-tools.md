@@ -10,37 +10,37 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online bietet eine Vielzahl von Berichtsfeatures sowohl in als auch außerhalb des Exchange Admin Center (EAC).
-ms.openlocfilehash: f2cc51c9923be8d399fa2837e5b5fabe3117d5ba
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Microsoft Exchange Online bietet eine Vielzahl von Berichtsfunktionen sowohl in als auch aus dem Exchange Admin Center (EAC).
+ms.openlocfilehash: 45eab90643f2abcbed7a2a791845284aa599e044
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132599"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173360"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Berichterstellungsfeatures und Tools zur Problembehandlung
 
-Microsoft Exchange Online bietet eine Vielzahl von Berichtsfeatures sowohl in als auch außerhalb des Exchange Admin Center (EAC).
+Microsoft Exchange Online bietet eine Vielzahl von Berichtsfunktionen sowohl in als auch aus dem Exchange Admin Center (EAC).
   
-## <a name="reporting-features"></a>Berichtsfeatures
+## <a name="reporting-features"></a>Berichterstellungsfeatures
 
-Exchange Online Kunden können auf Berichte im Microsoft 365 Admin Center, durch Herunterladen einer Excel-Berichtsarbeitsmappe oder mithilfe von Webdiensten zugreifen.
+Exchange Online-Kunden können auf Berichte im Microsoft 365 Admin Center zugreifen, indem sie eine Excel-Berichtsarbeitsmappe herunterladen oder Webdienste verwenden.
   
 ### <a name="reporting-in-the-microsoft-365-admin-center"></a>Berichterstellung im Microsoft 365 Admin Center
 
-Es gibt Berichte auf der Seite Berichte im Microsoft 365 Admin Center, die zusammenfassende Informationen zu Postfächern und Gruppen bereitstellen. Beispielsweise wird in einem Bericht die Anzahl der Gruppen aufgeführt, die pro Tag, Woche, Monat oder Jahr erstellt und gelöscht wurden. Es gibt auch Zusammenfassungsberichte für neue und gelöschte sowie aktive und inaktive Postfächer. 
+Es gibt Berichte auf der Seite Berichte im Microsoft 365 Admin Center, die Zusammenfassende Informationen zu Postfächern und Gruppen bereitstellen. Beispielsweise wird in einem Bericht die Anzahl der Gruppen aufgeführt, die pro Tag, Woche, Monat oder Jahr erstellt und gelöscht wurden. Es gibt auch Zusammenfassungsberichte für neue und gelöschte sowie aktive und inaktive Postfächer. 
   
-Darüber hinaus enthält die Seite "Berichte" im Microsoft 365 Admin Center Nachrichtendaten Berichte, die Informationen zum Nachrichten Datenverkehr, zu Spam-und Schadsoftware-Erkennungen sowie Nachrichten enthalten, die von Exchange-Transport Regeln oder DLP-Richtlinien (Data Loss Prevention, Verhinderung von Datenverlust) betroffen sind. Die optimierten Berichte zu Schutz, Regeln und DLP (Data Loss Prevention, Verhinderung von Datenverlust) bieten Exchange Online-Administratoren eine interaktive Umgebung für die Berichterstellung. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
+Darüber hinaus enthält die Seite Berichte im Microsoft 365 Admin Center Messagingdatenberichte, die Informationen zu Nachrichtendatenverkehr, Spam- und Schadsoftwareerkennungen und Nachrichten bereitstellen, die von Exchange-Transportregeln oder DLP-Richtlinien (Data Loss Prevention) betroffen sind. Die optimierten Berichte zu Schutz, Regeln und DLP (Data Loss Prevention, Verhinderung von Datenverlust) bieten Exchange Online-Administratoren eine interaktive Umgebung für die Berichterstellung. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
   
-Weitere Informationen darüber, welche Berichte mit den einzelnen Abonnements zur Verfügung stehen, finden Sie unter [Reports](../office-365-platform-service-description/reports.md). Ausführlichere Informationen zur Seite "Berichte" im Microsoft 365 Admin Center finden Sie unter [anzeigen und Herunterladen von Berichten über die Verwendung von Diensten in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) und [Verwenden von e-Mail-Schutz Berichten zum Anzeigen von Daten zu Schadsoftware, Spam und Regel Erkennungen](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Weitere Informationen dazu, welche Berichte für jedes Abonnement verfügbar sind, finden Sie unter [Berichte](../office-365-platform-service-description/reports.md). Ausführlichere Informationen zur Seite Berichte im Microsoft 365 Admin Center finden Sie unter Anzeigen und Herunterladen von Berichten zur Dienstnutzung [in Office 365](/microsoft-365/admin/activity-reports/activity-reports) und Verwenden von E-Mail-Schutzberichten zum Anzeigen von Daten zu Schadsoftware, Spam und Regelerkennungen. [](/exchange/monitoring/use-mail-protection-reports)
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Berichte über die Excel-Arbeitsmappe mit Berichten
 
-Sie können auch die Excel 2013-Berichtsarbeitsmappe verwenden, um Zusammenfassungsberichte mit Drilldownfunktionalitäten anzuzeigen. Es wird jedoch empfohlen, stattdessen die verbesserten Microsoft 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe wird voraussichtlich in naher Zukunft eingestellt. Einen detaillierteren Überblick und Links zum Herunterladen und Installieren der Arbeitsmappe finden Sie auf [dieser Downloadseite](https://go.microsoft.com/fwlink/p/?LinkId=271776). Informationen zur Verwendung der Arbeitsmappe finden Sie unter [E-Mail-Schutzberichte in der Excel-Berichtsarbeitsmappe](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
+Sie können auch die Excel 2013-Berichtsarbeitsmappe verwenden, um Zusammenfassungsberichte mit Drilldownfunktionalitäten anzuzeigen. Es wird jedoch empfohlen, stattdessen die erweiterten Microsoft 365 Admin Center-Berichte zu verwenden. Die Excel 2013-Berichtsarbeitsmappe wird voraussichtlich in naher Zukunft eingestellt. Einen detaillierteren Überblick und Links zum Herunterladen und Installieren der Arbeitsmappe finden Sie auf [dieser Downloadseite](https://go.microsoft.com/fwlink/p/?LinkId=271776). Informationen zur Verwendung der Arbeitsmappe finden Sie unter [E-Mail-Schutzberichte in der Excel-Berichtsarbeitsmappe](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
   
 ### <a name="reporting-using-web-services"></a>Reporting using web services
 
-Der Zugriff auf zusammenfassende und detaillierte Berichte über Postfächer, Gruppen und Messagingdaten ist mithilfe der Rest/OData-Mandanten Berichterstattungswebdienst, die eine programmgesteuerte Schnittstelle ist, mit der Sie benutzerdefinierte Berichte erstellen können, verfügbar. Weitere Informationen finden Sie unter [Office 365 Reporting-Webdienste](https://go.microsoft.com/fwlink/p/?LinkId=287041).
+Der Zugriff auf zusammenfassende und detaillierte Berichte zu Postfächern, Gruppen und Messagingdaten ist über den REST/OData-Mandantenberichtswebdienst verfügbar, einer programmgesteuerten Schnittstelle, mit der Sie benutzerdefinierte Berichte erstellen können. Weitere Informationen finden Sie unter [Office 365 Reporting Web Services](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15)).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Berichtsfeatures und Problembehandlungstools in der Exchange-Verwaltungskonsole
 
@@ -48,12 +48,12 @@ Die folgenden Berichtsfeatures und Problembehandlungstools stehen in der Exchang
   
 ### <a name="trace-an-email-message"></a>Verfolgen einer E-Mail
 
-Mit dem Feature Nachrichtenablaufverfolgung können Sie als Administrator e-Mail-Nachrichten bei der Weitergabe Ihres Exchange Online Diensts befolgten. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. So können Sie in effizienter Weise Fragen der Benutzer beantworten und Probleme mit dem Nachrichtenfluss behandeln und müssen seltener den technischen Support um Unterstützung bitten.
+Mit dem Feature zur Nachrichtenverfolgung können Sie als Administrator E-Mail-Nachrichten beim Passieren Ihres Exchange Online-Diensts verfolgen. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. So können Sie in effizienter Weise Fragen der Benutzer beantworten und Probleme mit dem Nachrichtenfluss behandeln und müssen seltener den technischen Support um Unterstützung bitten.
   
 > [!IMPORTANT]
 > Verwenden Sie für die Behandlung allgemeiner Probleme und Trends die Berichtstools, um solche Daten abzurufen. Verwenden Sie bei speziellen Besonderheiten, bei denen Details zu einer Nachricht erforderlich sind, das Tool für die Nachrichtenablaufverfolgung. 
   
-Weitere Informationen zum Feature für die Nachrichtenablaufverfolgung finden Sie unter [Verfolgen einer E-Mail](https://go.microsoft.com/fwlink/p/?LinkId=271777).
+Weitere Informationen zum Feature für die Nachrichtenablaufverfolgung finden Sie unter [Verfolgen einer E-Mail](/exchange/monitoring/trace-an-email-message/trace-an-email-message).
   
 ### <a name="auditing-reports"></a>Überwachungsberichte
 
@@ -63,14 +63,12 @@ Sie können die Überwachungsprotokollierung zum Behandeln von Konfigurationspro
     
 - Bei der Postfachüberwachungsprotokollierung werden alle Postfachzugriffe erfasst, die von Personen vorgenommen werden, bei denen es sich nicht um den Besitzer des Postfachs handelt. Dadurch können Sie feststellen, wer auf ein Postfach zugegriffen hat und welche Aktionen ausgeführt wurden. 
     
-Weitere Informationen zur Überwachungsprotokollierung finden Sie im Artikel zum Thema [Überwachungsberichte](https://go.microsoft.com/fwlink/p/?LinkId=271779).
+Weitere Informationen zur Überwachungsprotokollierung finden Sie im Artikel zum Thema [Überwachungsberichte](/exchange/security-and-compliance/exchange-auditing-reports/exchange-auditing-reports).
   
 ### <a name="unified-messaging-reports"></a>Unified Messaging-Berichte
 
-Mithilfe dieser Berichte können Sie Unified Messaging (UM) in Ihrer Exchange Online-Organisation überwachen und Probleme beheben. Weitere Informationen finden Sie im Artikel zum Thema [Erstellen von Berichten für Voicemailanrufe](https://go.microsoft.com/fwlink/p/?LinkId=287042).
+Mithilfe dieser Berichte können Sie Unified Messaging (UM) in Ihrer Exchange Online-Organisation überwachen und Probleme beheben. Weitere Informationen finden Sie im Artikel zum Thema [Erstellen von Berichten für Voicemailanrufe](/exchange/voice-mail-unified-messaging/run-voice-mail-call-reports/run-voice-mail-call-reports).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
-  
-
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).

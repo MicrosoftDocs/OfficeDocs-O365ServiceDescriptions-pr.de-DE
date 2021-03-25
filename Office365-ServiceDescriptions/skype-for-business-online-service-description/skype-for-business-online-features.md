@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Wenn Sie Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online-Features unter Einrichten von Skype for Business Online.
-ms.openlocfilehash: 0ed4c057ba8421a14a4848993159587506abeeac
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572701"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172670"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
@@ -29,7 +29,7 @@ Wenn Sie Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten
     
 - Die verfügbaren Skype for Business-Optionen für Mobilgeräte finden Sie unter [Installieren von Skype for Business auf einem Mobilgerät](https://go.microsoft.com/fwlink/?linkid=847564).
     
-- Einen ausführlichen Vergleich der Skype for Business-Desktopclients und -Webclients finden Sie unter [ Clientvergleichstabellen für Skype for Business Online ](https://go.microsoft.com/fwlink/?linkid=829754). Einen ausführlichen Vergleich der mobilen Skype for Business-Clients finden Sie unter [ Vergleichstabellen für mobile Clients ](https://go.microsoft.com/fwlink/?linkid=846932).
+- Einen ausführlichen Vergleich der Skype for Business-Desktopclients und -Webclients finden Sie unter [ Clientvergleichstabellen für Skype for Business Online ](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison). Einen ausführlichen Vergleich der mobilen Skype for Business-Clients finden Sie unter [ Vergleichstabellen für mobile Clients ](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison).
     
 Um den Client für Ihr mobiles Gerät, Ihren PC oder Mac herunterzuladen, wechseln Sie zu Skype for Business auf [allen Geräten herunterladen.](https://go.microsoft.com/fwlink/?linkid=846929)
   
@@ -57,7 +57,7 @@ Informationen zum Festlegen von [Audiogeräteoptionen in Skype for Business](htt
 
 Über externe Skype for Business-Verbindungen (Verbund) können Skype for Business-Benutzer eine Verbindung mit Benutzern in anderen Organisationen herstellen, die Skype for Business verwenden, sowie mit Benutzern, die ihren eigenen Skype for Business Server lokal hosten. Verbundkontakte können die Anwesenheit anzeigen, mittels Sofortnachrichten kommunizieren und Audio- und Videoanrufe von Skype zu Skype durchführen. Die Verbundkommunikation zwischen Sofortnachrichtensystemen über Zugriffsproxyserver findet verschlüsselt statt. Microsoft steuert nicht die Verschlüsselung, nachdem Nachrichten an das Netzwerk des Verbundpartners übertragen wurden (sofern sich der Partner in einem Verbund mit einem lokalen Skype for Business-Server oder Drittanbieternetzwerk befindet).
   
-Für die externe Skype for Business-Konnektivität müssen beide Seiten des Verbunds ihr Einverständnis gegeben haben und ordnungsgemäß eingerichtet sein. Nachdem der Verbund von den Administratoren beider Seiten eingerichtet wurde, können Benutzer in jeder Organisation Anwesenheits- und Kommunikation mit Benutzern in der anderen Organisation sehen. Der Verbund wird nur zwischen anderen Skype for Business-Umgebungen mit entsprechend konfigurierten Zugriffsproxy- oder Edgeservern unterstützt. Weitere Informationen zur Edgeserverkonfiguration finden Sie unter [Komponenten, die für den externen Benutzerzugriff in Lync Server 2013 erforderlich sind.](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access)
+Für die externe Skype for Business-Konnektivität müssen beide Seiten des Verbunds ihr Einverständnis gegeben haben und ordnungsgemäß eingerichtet sein. Nachdem der Verbund von den Administratoren beider Seiten eingerichtet wurde, können Benutzer in jeder Organisation Anwesenheits- und Kommunikation mit Benutzern in der anderen Organisation sehen. Der Verbund wird nur zwischen anderen Skype for Business-Umgebungen mit entsprechend konfigurierten Zugriffsproxy- oder Edgeservern unterstützt. Weitere Informationen zur Edgeserverkonfiguration finden Sie unter [Komponenten, die für den externen Benutzerzugriff in Lync Server 2013 erforderlich sind.](/lyncserver/lync-server-2013-components-required-for-external-user-access)
   
 ## <a name="skype-for-business-online-meetings"></a>Skype for Business Online-Besprechungen
 
@@ -100,7 +100,7 @@ Skype for Business Online bietet daher den Kundenadministratoren die folgenden T
   
 - Microsoft Office 365-Portal
     
-- Microsoft 365 Admin Center
+- Microsoft 365 Admin Center
     
 - Skype for Business Admin Center
     
@@ -112,15 +112,15 @@ Informationen zu den neuesten Skype for Business Online Admin-Hilfethemen und Ho
 
 Als Audiokonferenz wird eine Konferenz bezeichnet, in der mindestens ein Teilnehmer sich per Telefon für den Audioteil einwählt. Die Möglichkeit zum Zugreifen auf eine Besprechung über ein Telefon ist für Personen hilfreich, die unterwegs sind oder nicht per Mobilgerät oder Computer an einer Besprechung teilnehmen können. Die Verwendung eines Telefons kann auch in anderen Szenarien die bessere Wahl sein, z. B. wenn die Internetverbindung begrenzt ist oder wenn eine Besprechung nur einen Audioteil umfasst.
   
-Mit Audiokonferenzen können Benutzer in Ihrer Organisation Besprechungen, die Einwahltelefonnummern enthalten, hosten oder erstellen. Anrufer können dann diese Telefonnummern zum Einwählen in eine Besprechung mit ihrem Telefon verwenden (Benutzer, die sich in eine Besprechung einwählen, erhalten nur Audio, keine Sofortnachrichten, freigegebenen Desktops oder in der Besprechung freigegebenen Dateien). Sie müssen Einwahlkonferenzen nur für Benutzer einrichten, die Besprechungen planen oder leiten möchten. Sofern der Organisator die Besprechung nicht gesperrt hat, kann jeder, der die Einwahlnummer und die Konferenz-ID hat, der Besprechung beitreten. Weitere Informationen finden Sie unter [Erste Schritte mit Audiokonferenzen](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) und [Für Audiokonferenzen verfügbare Einwahlnummern](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Mit Audiokonferenzen können Benutzer in Ihrer Organisation Besprechungen, die Einwahltelefonnummern enthalten, hosten oder erstellen. Anrufer können dann diese Telefonnummern zum Einwählen in eine Besprechung mit ihrem Telefon verwenden (Benutzer, die sich in eine Besprechung einwählen, erhalten nur Audio, keine Sofortnachrichten, freigegebenen Desktops oder in der Besprechung freigegebenen Dateien). Sie müssen Einwahlkonferenzen nur für Benutzer einrichten, die Besprechungen planen oder leiten möchten. Sofern der Organisator die Besprechung nicht gesperrt hat, kann jeder, der die Einwahlnummer und die Konferenz-ID hat, der Besprechung beitreten. Weitere Informationen finden Sie unter [Erste Schritte mit Audiokonferenzen](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) und [Für Audiokonferenzen verfügbare Einwahlnummern](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 Sie können Einwahlkonferenzen entweder mithilfe von Microsoft als Einwahlkonferenzanbieter oder mithilfe eines Drittanbieters für Einwahlkonferenzen (auch als Audiokonferenzanbieter oder ACP bezeichnet) aktivieren.
   
-Audiokonferenzen sind nicht in allen Ländern und Regionen verfügbar. Eine Liste der Länder und Regionen, in denen Sie Audiokonferenzen erwerben können, finden Sie unter [Länder und Regionen, in denen Audiokonferenzen unterstützt werden](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+Audiokonferenzen sind nicht in allen Ländern und Regionen verfügbar. Eine Liste der Länder und Regionen, in denen Sie Audiokonferenzen erwerben können, finden Sie unter [Länder und Regionen, in denen Audiokonferenzen unterstützt werden](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json).
   
 ## <a name="calling-plans"></a>Anrufpläne
 
-Skype for Business umfasst Anruffunktionen im Telefonfestnetz (Public Switched Telephone Network, PSTN). Anrufpläne sind ein Add-On zum Telefonsystem, mit dem Sie Telefonnummern für Benutzer in Ihrer Organisation suchen, erwerben und zuweisen können, damit sie Anrufe von Personen innerhalb und außerhalb der Organisation direkt von Office 365 aus an- und empfangen können. [](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365) Benutzer, denen Telefonnummern zugewiesen sind, können alle Skype for Business-Geräte anrufen, einschließlich VoIP-Telefone, PCs und Mobilgeräte. Sie können ihre Anrufe auch mithilfe der Features zum Stummschalten/Aufheben der Stummschaltung, Anhalten/Fortsetzen, für die Anrufdurchstellung und Anrufweiterleitung steuern, und bei Bedarf einen Notruf tätigen. 
+Skype for Business umfasst Anruffunktionen im Telefonfestnetz (Public Switched Telephone Network, PSTN). Anrufpläne sind ein Add-On zum Telefonsystem, mit dem Sie Telefonnummern für Benutzer in Ihrer Organisation suchen, erwerben und zuweisen können, damit sie Anrufe von Personen innerhalb und außerhalb der Organisation direkt von Office 365 aus an- und empfangen können. [](#phone-system-in-office-365) Benutzer, denen Telefonnummern zugewiesen sind, können alle Skype for Business-Geräte anrufen, einschließlich VoIP-Telefone, PCs und Mobilgeräte. Sie können ihre Anrufe auch mithilfe der Features zum Stummschalten/Aufheben der Stummschaltung, Anhalten/Fortsetzen, für die Anrufdurchstellung und Anrufweiterleitung steuern, und bei Bedarf einen Notruf tätigen. 
   
 Informationen zu den verfügbaren Anrufplänen erhalten Sie unter [Anrufpläne für Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Weitere Informationen und zum Einrichten eines Anrufplans finden Sie unter [Welcher Anrufplan ist für Sie richtig?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

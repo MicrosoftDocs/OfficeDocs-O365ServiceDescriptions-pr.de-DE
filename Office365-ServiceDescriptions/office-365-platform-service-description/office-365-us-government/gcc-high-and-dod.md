@@ -1,5 +1,5 @@
 ---
-title: Office 365 gcc High und DoD
+title: Office 365 GCC High and DoD
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -8,39 +8,39 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: Hier finden Sie Informationen zu den eindeutigen Verpflichtungen und Unterschieden der Office 365 gcc High-und DoD-Umgebungen im Vergleich zur Office 365 kommerziellen Umgebung.
-ms.openlocfilehash: 549399c1cbd669413b6ea40023a4ab43a5181403
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+description: Erfahren Sie mehr über die einzigartigen Verpflichtungen und Unterschiede der Office 365 GCC High- und DoD-Umgebungen im Vergleich zur kommerziellen Office 365-Umgebung.
+ms.openlocfilehash: c4dfdabde7090a7a0b89975eb329eb92016e22f2
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261517"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173960"
 ---
-# <a name="office-365-gcc-high-and-dod"></a>Office 365 gcc High und DoD
+# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High and DoD
 
 Zur Einhaltung der einzigartigen und sich ständig weiterentwickelnden Anforderungen des Verteidigungsministeriums der Vereinigten Staaten (DoD) sowie von Partnern, die vom DoD gesteuerte, nicht klassifizierte Informationen bzw. Informationen, die den ITAR-Vorschriften (International Traffic in Arms Regulations, Vorschriften zum internationalen Waffenhandel) unterliegen, besitzen oder verarbeiten, bietet Microsoft GCC High and DoD-Umgebungen an. Diese stehen über Volumenlizenzierung zur Verfügung. Interessierte Organisationen müssen einen Überprüfungsprozess durchlaufen, um sich zu qualifizieren, bevor eine Umgebung eingerichtet wird. Testversionen sind zurzeit nicht verfügbar.  
   
-Wenden Sie Ihr Konto Team oder bevorzugten Partner an, um mehr darüber zu erfahren oder den Validierungsprozess zu initiieren. Weitere Informationen zum Kauf finden Sie unter [Microsoft 365 Government-How to Buy](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
+Engagieren Sie Ihr Kontoteam oder Ihren bevorzugten Partner, um mehr zu erfahren oder den Überprüfungsprozess zu initiieren. Weitere Informationen zum Kaufen finden Sie unter [Microsoft 365 Government - How to Buy](./microsoft-365-government-how-to-buy.md).
   
 ## <a name="how-to-use-this-service-description"></a>Verwenden dieser Dienstbeschreibung
 
-Die Office 365 US Government-Dienstbeschreibung dient als Overlay zur allgemeinen Office 365 Dienstbeschreibung. Es definiert die eindeutigen Verpflichtungen und Unterschiede im Vergleich zu Office 365 für Enterprise-Angebote.
+Die Office 365 US Government-Dienstbeschreibung dient als Überlagerung zur allgemeinen Office 365-Dienstbeschreibung. Es definiert die eindeutigen Verpflichtungen und Unterschiede im Vergleich zu Office 365 für Unternehmensangebote.
   
 ## <a name="compliance"></a>Compliance
 
 GCC High and DoD sorgt für die Einhaltung der Complianceanforderungen für die folgenden Zertifizierungen und Akkreditierungen: 
   
-- Das Bundesprogramm zur Risiko-und Autorisierungs Verwaltung bei FedRAMP High, einschließlich der Sicherheitskontrollen und-Verbesserungen, wie in der speziellen Publikation National Institute of Standards and Technology (NIST) 800-53 beschrieben.
+- The Federal Risk and Authorization Management Program at FedRAMP High, including those security controls and control enhancements as outlined in the National Institute of Standards and Technology (NIST) Special Publication 800-53.
     
 - Die Sicherheitskontrollen und Kontrollverbesserungen für den Leitfaden zu Sicherheitsanforderungen (SRG) für Cloud-Computing des Verteidigungsministeriums der Vereinigten Staaten für Informationen bis zu Wirkungsebene 5 (L5).
     
-Abonnenten des Verteidigungsministeriums der Vereinigten Staaten von Office 365 erhalten Dienste aus der DoD-exklusiven Umgebung, die DOD SRG L5 entspricht. Nicht-Department of Defense-Abonnenten erhalten Dienste aus dem US-Verteidigungsministerium, die bei L5 bewertet werden, jedoch die L4-Segmentierung verwenden.
+Abonnenten des Verteidigungsministeriums der Vereinigten Staaten von Office 365 erhalten Dienste aus der DoD-exklusiven Umgebung, die DOD SRG L5 entspricht. Nicht-Department of Defense-Abonnenten erhalten Dienste aus der US Government Defense-Umgebung, die mit L5 bewertet wird, aber L4-Segmentierung verwendet.
   
 ## <a name="background-screening"></a>Hintergrundprüfung
 
-Office 365-Mitarbeiter haben keinen Zugriff auf die GCC High and DoD-Produktion. Alle Mitarbeiter, die eine temporäre Berechtigungserweiterung anfordern, die Zugriff auf Kunden Inhalte gewähren würde, müssen zuerst die folgenden Hintergrundprüfungen bestanden haben.<br><br>
+Office 365-Mitarbeiter haben keinen Zugriff auf die GCC High and DoD-Produktion. Alle Mitarbeiter, die eine temporäre Berechtigungserweiterung anfordern, die Zugriff auf Kundeninhalte gewähren würde, müssen zunächst die folgenden Hintergrundprüfungen bestanden haben.<br><br>
   
-| Microsoft Personal Screening and Background Checks<sup>1</sup> | Beschreibung |
+| Microsoft-Personalprüfung und<sup>Hintergrundprüfungen 1</sup> | Beschreibung |
 |:-----|:-----|
 |US-amerikanische Staatsbürgerschaft  <br/> |Überprüfung der US-amerikanischen Staatsbürgerschaft  <br/> |
 |Prüfung des beruflichen Lebenslaufs  <br/> |Überprüfung von sieben (7) Jahren der bisherigen Berufstätigkeit  <br/> |
@@ -53,10 +53,10 @@ Office 365-Mitarbeiter haben keinen Zugriff auf die GCC High and DoD-Produktion.
 |Fingerabdrücke  <br/> |Hintergrundprüfung von Fingerabdrücken in FBI-Datenbanken  <br/> |
 |Verteidigungsministerium IT-2  <br/> |Mitarbeiter, die erweiterte Berechtigungen für Kundendaten oder privilegierten Administratorzugriff auf SRG L5-Dienstfunktionen des Verteidigungsministerium der Vereinigten Staaten anfordern, müssen die Beurteilung des Verteidigungsministeriums IT-2 basierend auf einer erfolgreichen OPM-Untersuchung der Stufe 3 bestehen.  <br/> |
 
-<sup>1</sup> gilt nur für Mitarbeiter mit einem temporären oder ständigen Zugriff auf Kunden Inhalte, die in Office 365 US gcc-High oder DoD Clouds gehostet werden.
+<sup>1</sup> Gilt nur für Mitarbeiter mit temporärem oder ständigem Zugriff auf Kundeninhalte, die in Office 365 US-GCC-High oder DOD-Clouds gehostet werden.
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Feature-Nuancen basierend auf kompatibler Cloudarchitektur
 
-Abonnements in den gcc-Umgebungen mit hoher und DoD-Umgebung umfassen die Kern Exchange Online-, SharePoint-und Skype for Business-Features. Angesichts der verstärkten Zertifizierung und Akkreditierung der Infrastruktur gibt es einige Feature-Unterschiede zwischen den allgemeinen kommerziellen Office 365-Angeboten und den Angeboten, die in GCC High and DoD verfügbar sind.
+Abonnements in den GCC High- und DoD-Umgebungen umfassen die zentralen Exchange Online-, SharePoint- und Skype for Business-Features. Angesichts der verstärkten Zertifizierung und Akkreditierung der Infrastruktur gibt es einige Feature-Unterschiede zwischen den allgemeinen kommerziellen Office 365-Angeboten und den Angeboten, die in GCC High and DoD verfügbar sind.
   
 ### <a name="exchange-online"></a>Exchange Online
 
@@ -64,23 +64,23 @@ Abonnements in den gcc-Umgebungen mit hoher und DoD-Umgebung umfassen die Kern E
   
 ### <a name="file-sharing"></a>Dateifreigabe
 
-Benutzer verfügen über mehrere Optionen zum Freigeben von Dateien und Ordnern in SharePoint und OneDrive. Alle Optionen sind in den gcc-High-und DoD-Umgebungen verfügbar. Weitere Informationen zum Verwalten dieser Optionen finden Sie unter [Manage Sharing Settings](/sharepoint/turn-external-sharing-on-or-off). Benutzer in gcc-High können nur für andere Organisationen in gcc-High freigeben. Darüber hinaus werden nicht-gcc hohe e-Mail-Adressen, die an Benutzerprofile angehängt sind, nicht unterstützt und erlauben keine Benachrichtigung über gesendete e-Mails. Beispielsweise wird auf dem lokalen Benutzer a eine Gmail-e-Mail-Adresse zugewiesen und dann mit einer Azure gcc High Organization synchronisiert. Benutzer a navigiert zu einer Bibliothek und erstellt eine Warnung für alle Änderungen. Die Benachrichtigung wird nicht an die gmail-Adresse gesendet.
+Benutzer haben mehrere Optionen für die Freigabe von Dateien und Ordnern in SharePoint und OneDrive. Alle Optionen sind in den GCC High- und DoD-Umgebungen verfügbar. Weitere Informationen zum Verwalten dieser Optionen finden Sie unter [Manage sharing settings](/sharepoint/turn-external-sharing-on-or-off). Benutzer in GCC-High können nur mit anderen Organisationen in GCC-High teilen. Darüber hinaus werden hohe E-Mail-Adressen, die an Benutzerprofile angefügt sind, nicht unterstützt und das Senden von Benachrichtigungs-E-Mails nicht zulässig. Beispielsweise wird dem lokalen Benutzer A eine Gmail-E-Mail-Adresse zugewiesen und dann mit einer Azure GCC High-Organisation synchronisiert. Benutzer A navigiert zu einer Bibliothek und erstellt eine Warnung für alle Änderungen. Die Warnung wird nicht an die Gmail-Adresse gesendet.
 
 > [!NOTE]
-> Benutzer in gcc-High können derzeit nicht für Benutzer in nicht-gcc-High-Organisationen freigeben.
+> Benutzer in GCC-High sind derzeit nicht in der Lage, Benutzer in Organisationen ohne GCC High zu teilen.
 
-[Dateianforderungen](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af) sind für Office 365 Regierung nicht verfügbar.
+[Dateianforderungen](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af) sind für Office 365 Government nicht verfügbar.
 
-### <a name="skype-for-business-online"></a>Skype for Business Online
+### <a name="skype-for-business-online"></a>Skype for Business Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
 
-### <a name="microsoft-teams"></a>Microsoft Teams
+### <a name="microsoft-teams"></a>Microsoft Teams
 
-**Telefonsystem und Audiokonferenzen (über direktes Routing)** – Telefonsystem und Audiokonferenzen für gcc High-und DoD-Umgebungen werden über Direct Routing zugestellt. Weitere Informationen finden Sie in der Dokumentation zum Service Level hier:
+**Telefonsystem und Audiokonferenzen (über** direktes Routing) – Telefonsystem und Audiokonferenzen für GCC High- und DoD-Umgebungen werden über direktes Routing zugestellt. Weitere Informationen finden Sie in der Dokumentation zum Servicelevel:
 
-- [Telefon System über direktes Routing](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
-- [Audiokonferenzen mit direktem Routing für GCC High und DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+- [Telefonsystem über direktes Routing](/microsoftteams/here-s-what-you-get-with-phone-system)
+- [Audiokonferenzen mit direktem Routing für GCC High und DoD](/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
 ### <a name="identity"></a>Identität
 
@@ -88,10 +88,10 @@ Die mehrstufige Authentifizierung unter Verwendung eines Identitätsmodells erm�
   
 ### <a name="yammer"></a>Yammer
 
-Jammern für Unternehmen ist in den gcc-High-und DoD-Umgebungen nicht verfügbar.
+Yammer für Unternehmen ist in den GCC High- und DoD-Umgebungen nicht verfügbar.
   
 ## <a name="customer-support"></a>Kundensupport
 
-Microsoft erinnert Sie daran, keine kontrollierten, vertraulichen oder vertraulichen Informationen mit dem Kundensupportmitarbeiter im Rahmen Ihres Support-Vorfalls bei Verwendung Office 365 gcc High/DoD freizugeben, zumindest bis Sie die Autorisierung des Support-Agents zur Anzeige oder zum Zugriff auf solche Daten bestätigt haben.
+Microsoft erinnert Sie daran, keine kontrollierten, vertraulichen oder vertraulichen Informationen im Rahmen Ihres Supportvorfalls an Das Supportpersonal zu teilen, wenn Sie Office 365 GCC High/DOD verwenden, zumindest bis Sie die Autorisierung des Support-Agents zum Anzeigen oder Zugreifen auf diese Daten bestätigen.
 
-Microsoft verpflichtet sich zum Schutz Ihrer [Privatsphäre](https://privacy.microsoft.com/privacystatement)). Office 365 gcc High/DoD-Unterstützung ist jedoch nicht in der Dienst Akkreditierungs Grenze enthalten und stellt keine FedRAMP-, DoD-, ITAR-, IRS 1075-oder CJIS-Datenverarbeitung zur Einhaltung von Vorschriften zur Verfügung.
+Microsoft verpflichtet sich zum Schutz Ihrer [Privatsphäre](https://privacy.microsoft.com/privacystatement)). Der Office 365 GCC High/DoD-Support ist jedoch nicht in der Dienstakkreditierungsgrenze enthalten und bietet keine FedRAMP-, DOD-SRG-, ITAR-, IRS 1075- oder CJIS-Datenverarbeitungssicherheiten.

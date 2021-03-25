@@ -10,37 +10,37 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: In diesem Artikel erfahren Sie mehr über die Berichterstellung und Nachrichtenablaufverfolgung in Microsoft Exchange Online Protection (EoP).
-ms.openlocfilehash: 6690c246620d4324610213b4968367cff0d30cf9
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: In diesem Artikel erfahren Sie mehr über Reporting and message trace in Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: e07b7b9f6f7bee2715314021d9a7e96a29af8b21
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293661"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173330"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Berichterstellung und Nachrichtenablaufverfolgung in Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte an, mit deren Hilfe Sie den allgemeinen Status und die Integrität Ihrer Organisation ermitteln können. Einige Berichte stehen im Microsoft 365 Admin Center zur Verfügung, während andere im Exchange Admin Center (EAC) verfügbar sind.
+Microsoft Exchange Online Protection (EOP) bietet viele verschiedene Berichte an, mit deren Hilfe Sie den allgemeinen Status und die Integrität Ihrer Organisation ermitteln können. Einige Berichte sind im Microsoft 365 Admin Center verfügbar, andere im Exchange Admin Center (EAC).
 
-Sie suchen nach Informationen zu allen EOP-Funktionen? Siehe [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu allen EOP-Funktionen? Weitere Informationen finden [Sie in der Beschreibung des Exchange Online Protection-Diensts](exchange-online-protection-service-description.md).
 
 ## <a name="microsoft-365-admin-center-reports"></a>Microsoft 365 Admin Center-Berichte
 
-Die Seite Berichte im Microsoft 365 Admin Center enthält Informationen zum Nachrichten Datenverkehr, zu Spam-und Schadsoftware-Erkennungen sowie zu Nachrichten, die von Nachrichtenfluss Regeln (auch bekannt als Transportregeln) oder von DLP-Richtlinien (Data Loss Prevention) betroffen sind. Die erweiterten Berichte zu Schutz, Regeln und DLP bieten eine interaktive Berichterstellungserfahrung für EOP-Administratoren. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
+Die Seite Berichte im Microsoft 365 Admin Center enthält Informationen zu Nachrichtenverkehr, Spam- und Schadsoftwareerkennungen und Nachrichten, die von Nachrichtenflussregeln (auch als Transportregeln bezeichnet) oder DLP-Richtlinien (Data Loss Prevention) betroffen sind. Die erweiterten Berichte zu Schutz, Regeln und DLP bieten eine interaktive Berichterstellungserfahrung für EOP-Administratoren. Diese Berichte stellen Übersichtsinformationen und die Möglichkeit der Detailsuche in einzelnen Nachrichten zur Verfügung.
 
-Ausführlichere Informationen zu diesen Berichten finden Sie unter [Verwenden von e-Mail-Schutz Berichten zum Anzeigen von Daten über Schadsoftware, Spam und Regel Erkennungen](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports).
+Ausführlichere Informationen zu diesen Berichten finden Sie unter Verwenden von E-Mail-Schutzberichten zum Anzeigen von Daten zu Schadsoftware, Spam und [Regelerkennungen.](/exchange/monitoring/use-mail-protection-reports)
 
 ## <a name="reporting-using-web-services"></a>Reporting using web services
 
 > [!NOTE]
-> Viele der Rest-basierten Berichtsfeatures und zugehörigen Cmdlets wurden im Januar 2018 veraltet. Informationen zu den verfügbaren Ersatz-Microsoft Graph-Berichten in Office 365 finden Sie in den Unterthemen [Arbeiten mit Verwendungsberichten in Microsoft Graph](https://go.microsoft.com/fwlink/p/?LinkID=865135).
+> Viele der REST-basierten Berichtsfunktionen und zugehörigen Cmdlets waren im Januar 2018 veraltet. Informationen zu den verfügbaren Microsoft Graph-Ersatzberichten in Office 365 finden Sie in den Untertopen arbeiten mit [Verwendungsberichten in Microsoft Graph](/graph/api/resources/report).
 
-Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Sie können den Rest/OData-Mandanten Berichterstattungswebdienst verwenden, um zusammenfassende und detaillierte Berichte zu Messagingdaten programmgesteuert zu sammeln, und Sie können die Daten auf einer Webseite in einem benutzerdefinierten Webverwaltungs Portal anzeigen.
+Nicht verfügbar für Kunden der eigenständigen Lösung von EOP. Sie können den REST/OData-Mandantenberichtswebdienst verwenden, um zusammenfassungs- und detaillierte Berichte zu Messagingdaten programmgesteuert zu erfassen, und Sie können die Daten auf einer Webseite in einem benutzerdefinierten Webverwaltungsportal anzeigen.
 
 ## <a name="message-trace"></a>Nachrichtenablaufverfolgung
 
-Mit dem Feature Nachrichtenablaufverfolgung in der Exchange-Verwaltungskonsole können Sie als Administrator e-Mail-Nachrichten beim Durchlaufen des EoP verfolgen. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. Außerdem wird gezeigt, welche Aktionen in der Nachricht vorgenommen wurden, bevor der endgültige Status erreicht wurde. Wenn Sie detaillierte Informationen zu einer bestimmten Nachricht erhalten, können Sie Ihre Benutzer Fragen effizient beantworten, Probleme mit dem Nachrichtenfluss beheben, Richtlinienänderungen überprüfen und die Notwendigkeit entschärfen, den technischen Support um Unterstützung zu bitten. Weitere Informationen finden Sie unter [Ausführen einer Nachrichtenablaufverfolgung und Anzeigen der Ergebnisse im Exchange Admin Center](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
+Mit dem Nachrichtenverfolgungsfeature in der EAC können Sie als Administrator E-Mail-Nachrichten beim Passieren des EOP verfolgen. Sie können damit bestimmen, ob eine bestimmte E-Mail vom Dienst empfangen, abgelehnt, zurückgestellt oder zugestellt wurde. Außerdem wird gezeigt, welche Aktionen für die Nachricht vor dem Erreichen des endgültigen Status aufgetreten sind. Durch das Abrufen detaillierter Informationen zu einer bestimmten Nachricht können Sie die Fragen Ihres Benutzers effizient beantworten, Probleme mit dem Nachrichtenfluss beheben, Richtlinienänderungen überprüfen und den technischen Support um Unterstützung bitten. Weitere Informationen finden Sie unter [Ausführen einer Nachrichtenverfolgung und Anzeigen der Ergebnisse im Exchange Admin Center](/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).

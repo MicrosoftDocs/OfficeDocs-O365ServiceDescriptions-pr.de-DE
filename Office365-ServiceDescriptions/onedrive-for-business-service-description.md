@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie, welche OneDrive-Features in welchen Plänen zur Verfügung stehen.
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901950"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172730"
 ---
 # <a name="onedrive-service-description"></a>OneDrive-Dienstbeschreibung
 
@@ -85,7 +85,7 @@ Informationen zu den Anforderungen an die OneDrive-Synchronisierungs-App und die
 > [!NOTE]
 > Sie müssen einem Benutzer mindestens eine Lizenz zuweisen, bevor Sie den Standardspeicherplatz für OneDrive erhöhen können. 
   
-Wenn Sie über die anfänglichen 5 TB hinaus Cloud-Speicherplatz für einzelne Benutzer benötigen, können Administratoren [einen Fall mit dem technischen Support von Microsoft eröffnen](https://go.microsoft.com/fwlink/?linkid=869559), um ihn anzufordern. Weiterer Cloud-Speicherplatz wird wie folgt gewährt: 
+Wenn Sie über die anfänglichen 5 TB hinaus Cloud-Speicherplatz für einzelne Benutzer benötigen, können Administratoren [einen Fall mit dem technischen Support von Microsoft eröffnen](/microsoft-365/admin/contact-support-for-business-products), um ihn anzufordern. Weiterer Cloud-Speicherplatz wird wie folgt gewährt: 
   
 - Wenn ein Benutzer seine 5 TB OneDrive-Speicher zu mindestens 90 % ausgeschöpft hat, erhöht Microsoft Ihren Standardspeicherplatz in OneDrive auf bis zu 25 TB pro Benutzer (Administratoren können bei Bedarf eine niedrigere Grenze pro Benutzer festlegen). 
     
@@ -101,7 +101,7 @@ Das Speichern von anderen Daten als den Arbeitsdateien eines einzelnen Benutzers
   
 ## <a name="onedrive-limits"></a>OneDrive-Grenzwerte
 
-Weitere Informationen zu den Grenzwerten für Dateien und Synchronisierungen finden Sie unter [SharePoint-Grenzwerte](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) und [Ungültige Dateinamen und Dateitypen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+Weitere Informationen zu den Grenzwerten für Dateien und Synchronisierungen finden Sie unter [SharePoint-Grenzwerte](./sharepoint-online-service-description/sharepoint-online-limits.md) und [Ungültige Dateinamen und Dateitypen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
   
 Beachten Sie bei Plänen, die unbegrenzten Cloud-Speicherplatz für einzelne Benutzer umfassen, dass diese Einschränkungen für nicht speicherrelevante Features gelten. 
 
@@ -185,5 +185,4 @@ Sofern nicht anders angegeben, stehen die folgenden Features für alle Pläne, d
 
 ## <a name="it-admin-security-and-compliance-features"></a>IT-Administrator-, Sicherheits- und Compliancefeatures
 
-Informationen zu diesen Features finden Sie unter [SharePoint-Dienstbeschreibung](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
-
+Informationen zu diesen Features finden Sie unter [SharePoint-Dienstbeschreibung](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features).

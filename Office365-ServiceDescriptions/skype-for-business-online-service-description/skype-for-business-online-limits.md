@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: In diesem Artikel werden die Grenzwerte beschrieben, die in Skype for Business Online erzwungen werden.
-ms.openlocfilehash: 8a12d55db211dadfe9f86ace39f091b003985530
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+description: In diesem Artikel werden die Einschränkungen beschrieben, die in Skype for Business Online erzwungen werden.
+ms.openlocfilehash: 5c11586661e822f666096659b114f727c2df89e5
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276716"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174080"
 ---
 # <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -33,53 +33,53 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 - [Minutenlimits](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Die Beschränkungen, die auf eine Microsoft 365-Organisation angewendet werden, können je nachdem, wie lange die Organisation im Dienst registriert wurde, unterschiedlich sein. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
+> Die auf eine Microsoft 365-Organisation angewendeten Beschränkungen können je nach Dauer der Registrierung der Organisation im Dienst variieren. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
   
 ## <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte
 
-- **Datei Übertragungslimit** : die maximale Größe einer Datei, die in einer Skype for Business Online Chat Unterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **Dateiübertragungslimit** : Die maximale Größe einer Datei, die in einer Skype for Business Online Chat-Unterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
-- **Limit für Registerkarten-Unterhaltungen öffnen** : die maximale Anzahl von Unterhaltungs Registerkarten, die ein Skype for Business Benutzer gleichzeitig öffnen kann. 
+- **Grenzwert für Geöffnete** Unterhaltungen – Die maximale Anzahl von Unterhaltungsregisterkarten, die ein Skype for Business-Benutzer gleichzeitig geöffnet haben kann. 
     
 ### <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte 
 
-| Feature | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 F3 |
+| Feature | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Die Obergrenze für übertragene Datei  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Nicht zutreffend  <br/> |
-|Konversations Grenzwert<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Unterhaltungslimit<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Nicht zutreffend  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> ein Client kann einen Chat mit bis zu 99 Benutzern starten, indem er Sie entweder manuell hinzufügt oder eine Sofortnachricht aus dem Kontextmenü einer Gruppe oder Verteilerliste sendet. Weitere Informationen zu Chatnachrichten in Skype for Business Online finden Sie unter [Senden eines Chats in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> Ein Client kann einen Chat mit bis zu 99 Benutzern starten, indem er diese entweder manuell hinzufügungen oder eine Sofortnachricht aus dem Kontextmenü einer Gruppe oder Verteilerliste sendet. Weitere Informationen zu Chatnachrichten in Skype for Business Online finden Sie unter [Senden einer Chatnachricht in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Peer-to-Peer-Grenzwerte für Standalone-Optionen
 
-| Feature | Skype for Business Server 2015 | Skype for Business Online eigenständiger Plan &nbsp; 1 | Skype for Business Online eigenständiger Plan &nbsp; 2 |
+| Feature | Skype for Business Server 2015 | Eigenständiger Skype for Business Online Plan &nbsp; 1 | Eigenständiger Skype for Business Online Plan &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Die Obergrenze für übertragene Datei  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |Unbegrenzt  <br/> |
-|Konversations Grenzwert<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Unterhaltungslimit<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Beschränken der geöffneten Unterhaltungen mit Registerkarten  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> ein Client kann einen Chat mit bis zu 99 Benutzern starten, indem er Sie entweder manuell hinzufügt oder eine Sofortnachricht aus dem Kontextmenü einer Gruppe oder Verteilerliste sendet. Weitere Informationen zu Chatnachrichten in Skype for Business Online finden Sie unter [Senden eines Chats in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> Ein Client kann einen Chat mit bis zu 99 Benutzern starten, indem er diese entweder manuell hinzufügungen oder eine Sofortnachricht aus dem Kontextmenü einer Gruppe oder Verteilerliste sendet. Weitere Informationen zu Chatnachrichten in Skype for Business Online finden Sie unter [Senden einer Chatnachricht in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Meeting-Grenzwerte
 
-- **Limit für Dateiuploads** : die maximale Größe der Dateien, die in eine Skype for Business Besprechung hochgeladen werden können, einschließlich Handzetteln und PowerPoint-Präsentationen. 
+- **Grenzwert für den** Dateiupload: Die maximale Größe der Dateien, die in eine Skype for Business-Besprechung hochgeladen werden können, einschließlich Handzetteln und PowerPoint-Präsentationen. 
     
-- **Teilnehmer an einer Skype for Business Besprechung** – die maximale Anzahl von Teilnehmern (einschließlich des Referenten), die an einer einzelnen Skype for Business Besprechung teilnehmen können. 
+- **Teilnehmer an einer Skype for Business-Besprechung** – Die maximale Anzahl von Teilnehmern (einschließlich des Moderators), die an einer einzelnen Skype for Business-Besprechung teilnehmen können. 
     
-- **Referenten in einer Skype for Business Besprechung** – die maximale Anzahl von Referenten in einer einzelnen Skype for Business Besprechung. 
+- **Moderatoren in einer Skype for Business-Besprechung** – Die maximale Anzahl von Moderatoren in einer einzelnen Skype for Business-Besprechung. 
     
-- **Skype for Business-Webanwendungs-Besprechungsteilnehmer** : die maximale Anzahl von Skype for Business-Webanwendungs-Besprechungsteilnehmern, die einer Besprechung beitreten können. 
+- **Skype for Business Web App-Besprechungsteilnehmer** – Die maximale Anzahl von Skype for Business Web App-Besprechungsteilnehmern, die an einer Besprechung teilnehmen können. 
     
-- **Anonyme Teilnehmer Skype for Business Webanwendung** : die maximale Anzahl von Skype for Business-Webanwendungs-Besprechungsteilnehmern, die anonym an einer Besprechung teilnehmen können. 
+- **Anonyme Skype for Business-Web-App-Teilnehmer** – Die maximale Anzahl von Skype for Business-Web-App-Besprechungsteilnehmern, die anonym an einer Besprechung teilnehmen können. 
     
-- **Gäste, die per Telefon beitreten** – die maximale Anzahl von Gästen, die sich bei einer Besprechung einwählen können. 
+- **Gäste, die per Telefon beitreten** – Die maximale Anzahl von Gästen, die an einer Besprechung anrufen können. 
     
 ### <a name="meeting-limits"></a>Meeting-Grenzwerte
 
-| Feature | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 F3 |
+| Feature | Skype for Business Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |Nicht zutreffend  <br/> |
 |Teilnehmer an einer Skype for Business-Besprechung<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Nicht zutreffend  <br/> |
@@ -94,7 +94,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
   
 ### <a name="meeting-limits-across-standalone-options"></a>Besprechungsgrenzwerte bei Optionen für eigenständige Pläne
 
-| Feature | Skype for Business Server 2015 | Skype for Business Online eigenständiger Plan &nbsp; 1 | Skype for Business Online eigenständiger Plan &nbsp; 2 |
+| Feature | Skype for Business Server 2015 | Eigenständiger Skype for Business Online Plan &nbsp; 1 | Eigenständiger Skype for Business Online Plan &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Grenzwert bei Dateiuploads  <br/> |500 MB  <br/> |Nicht zutreffend  <br/> |500 MB  <br/> |
 |Teilnehmer an einer Skype for Business-Besprechung  <br/> |250  <br/> |Nicht zutreffend  <br/> |250  <br/> |
@@ -106,23 +106,22 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
    
 ## <a name="meeting-retention-limits"></a>Besprechungsaufbewahrungsgrenzwerte
 
-- **Aufbewahrungszeitraum für Besprechungsinhalte** – die Zeitspanne, nach der die letzte Person eine Besprechung verlässt, dass hochgeladene Besprechungsinhalte in Skype for Business aufbewahrt werden, bevor Sie endgültig gelöscht werden. 
+- **Aufbewahrungszeitraum für** Besprechungsinhalte – Der Zeitraum, nach dem die letzte Person eine Besprechung verlässt, bis hochgeladene Besprechungsinhalte in Skype for Business aufbewahrt werden, bevor sie endgültig gelöscht werden. 
     
-- **Besprechungs Ablaufzeitraum** – die Zeitspanne nach Beendigung einer Besprechung, auf die Benutzer auf die Besprechung zugreifen können. 
+- **Ablaufzeitraum für Besprechungen** – Der Zeitraum nach dem Ende einer Besprechung, für den Benutzer auf die Besprechung zugreifen können. 
     
-### <a name="meeting-retention-limits-across-plans"></a>Treffen von Aufbewahrungs Grenzwerten in allen Plänen
+### <a name="meeting-retention-limits-across-plans"></a>Besprechungsaufbewahrungsgrenzwerte in Plänen
 
 > [!NOTE]
 > Jede Person kann in der Datenbank jederzeit über maximal 1000 Konferenzen verfügen. 
   
 | Besprechungstyp | Beschreibung |
 |:-----|:-----|
-|Einmalige Besprechung| Auf Besprechungen kann mindestens bis 14 Tage nach dem geplanten Zeitpunkt oder der letzten Aktivierung der Besprechung oder der letzten Besprechungsaktualisierung zugegriffen werden, je nachdem, welche Uhrzeit aktuell ist.
-|Besprechungsserie mit Enddatum| Auf Besprechungen kann mindestens bis 14 Tage nach der geplanten Endzeit des letzten Besprechungstermins oder der letzten Besprechungs Aktivierung oder Aktualisierung der letzten Besprechung zugegriffen werden, je nachdem, welche Uhrzeit spätestens aktuell ist.
-|Wiederkehrende Besprechung ohne Enddatum| Auf die Besprechung kann immer zugegriffen werden, vorausgesetzt, es gibt neue Konferenz Beitritt (Aktivierungen) oder Zeitplanaktualisierungen mindestens einmal pro Jahr.
-|Jetzt treffen|Die Besprechung ist mindestens 8 Stunden lang verfügbar.
+|Einmalige Besprechung| Besprechungen sind mindestens bis 14 Tage nach dem geplanten Zeitpunkt, der letzten Besprechungsaktivierung oder dem letzten Besprechungsupdate zugänglich, unabhängig davon, ob dies der letzte Zeitpunkt ist.
+|Besprechungsserie mit Enddatum| Besprechungen sind mindestens bis 14 Tage nach der geplanten Endzeit des letzten Besprechungstermins, der letzten Besprechungsaktivierung oder der letzten Besprechungsaktualisierung zugänglich, unabhängig davon, ob dies der neueste Zeitpunkt ist.
+|Besprechungsserie ohne Enddatum| Auf Besprechungen kann immer zugegriffen werden, vorausgesetzt, es gibt neue Konferenzanschließungen (Aktivierungen) oder Planungsupdates mindestens einmal pro Jahr.
+|Meet Now|Die Besprechung ist mindestens 8 Stunden lang zugänglich.
 
 ## <a name="minute-limits"></a>Minutenlimits
 
-Informationen zu Minuten Einschränkungen im Plan für Inlandsanrufe oder zum internationalen Anrufplan finden Sie unter [Verfügbarkeit von Ländern und Regionen für Audiokonferenz-und Anrufpläne](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
-  
+Informationen zu Minuteneinschränkungen im Nationalen Anrufplan oder im internationalen Anrufplan finden Sie unter Verfügbarkeit von Ländern und Regionen für [Audiokonferenzen und Anrufpläne.](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)

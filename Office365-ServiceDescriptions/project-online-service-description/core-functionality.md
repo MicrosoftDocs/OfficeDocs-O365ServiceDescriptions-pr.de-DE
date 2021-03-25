@@ -10,19 +10,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Die folgenden Hauptfunktionen stehen in Project online zur Verfügung.
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: Die folgenden Hauptfunktionen sind in Project Online verfügbar.
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411584"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172710"
 ---
 # <a name="core-functionality"></a>Hauptfunktionalität
 
-Die folgenden Hauptfunktionen stehen in Project online zur Verfügung.
+Die folgenden Hauptfunktionen sind in Project Online verfügbar.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
   
 ## <a name="add-columns"></a>Hinzufügen von Spalten
 
@@ -30,11 +30,11 @@ Fügen Sie Ihrer Ansicht eine Spalte hinzu. Weitere Informationen finden Sie im 
   
 ## <a name="backstage"></a>Backstage
 
-Wählen Sie **Datei** aus, um Features in der Backstage-Funktion zu verwenden, in der Sie Ihre Projektdateien und die darin enthaltenen Daten verwalten können. Verwenden Sie Backstage für alle von Ihnen vorgenommenen Aufgaben in Bezug auf eine Projektdatei, die Sie nicht in der Datei vornehmen - dies umfasst die Erstellung, Speicherung, Untersuchung in Bezug auf ausgeblendete Metadaten oder persönliche Informationen sowie Einstellungsoptionen. 
+Wählen **Sie Datei** aus, um Features im Backstage-Bereich zu verwenden, in dem Sie Ihre Projektdateien und die daten darüber verwalten können. Verwenden Sie Backstage für alle von Ihnen vorgenommenen Aufgaben in Bezug auf eine Projektdatei, die Sie nicht in der Datei vornehmen - dies umfasst die Erstellung, Speicherung, Untersuchung in Bezug auf ausgeblendete Metadaten oder persönliche Informationen sowie Einstellungsoptionen. 
   
 ## <a name="click-to-run"></a>Klick-und-Los
 
-Installieren Sie Project online schnell über das Internet, interne Netzwerke, lokale Dateisysteme oder von Offline Medien, um sicherzustellen, dass Sie mit der neuesten Version der Project-Desktopanwendung auf dem neuesten Stand sind. Weitere Informationen finden Sie unter [Klick-und-Los](https://go.microsoft.com/fwlink/p/?LinkId=271596).
+Installieren Sie Project Online schnell über das Internet, interne Netzwerke, lokale Dateisysteme oder über Offlinemedien, um sicherzustellen, dass Sie mit der neuesten Version der Project-Desktopanwendung auf dem neuesten Stand sind. Weitere Informationen finden Sie unter [Klick-und-Los](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Contextual right-click menus
 
@@ -50,15 +50,15 @@ Erarbeiten Sie gemeinsam mit anderen Benutzern Zeitpläne, indem Sie Zeitplandet
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
-Stellen Sie Projektinformationen mithilfe von Gantt-Diagrammen, Netzplandiagrammen, Diagramm-, Blatt-, Verwendungs-und Formularansichten grafisch dar. Weitere Informationen finden Sie unter [Auswählen der richtigen Ansicht für den Projektplan](https://go.microsoft.com/fwlink/?LinkId=402905).
+Präsentieren Sie Projektinformationen mithilfe von Gantt-Diagramm, Netzwerkdiagramm, Diagramm, Blatt-, Verwendungs- und Formularansichten grafisch. Weitere Informationen finden Sie unter [Auswählen der richtigen Ansicht für den Projektplan](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="user-interface-the-ribbon"></a>Benutzeroberfläche, das Menüband
+## <a name="user-interface-the-ribbon"></a>Benutzeroberfläche, Menüband
 
 Steigern Sie die Produktivität mit dem Menüband, einer Oberfläche mit Registerkarten, über die Sie Project-Funktionen und -Steuerelemente schnell finden und verwenden können.
 
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-Sie können mehrere Änderungen gleichzeitig mit dem Menü "Rückgängig" rückgängig machen.
+Sie können mehrere Änderungen gleichzeitig rückgängig machen, indem Sie das Menü Rückgängig verwenden.
   
 ## <a name="network-diagram-view"></a>Ansicht "Netzplandiagramm"
 
@@ -66,15 +66,15 @@ Zeigen Sie Aufgaben, Abhängigkeiten und den kritischen Weg Ihres Projekts in ei
   
 ## <a name="office-store"></a>Office Store
 
-Benötigen Sie eine Anwendung, die Sie bei Project unterstützt? Suchen Sie nach neuen Anwendungen für Project im Office Store. Weitere Informationen finden Sie unter [Add-Ins für Project](https://go.microsoft.com/fwlink/?LinkId=273883).
+Benötigen Sie eine Anwendung, die Ihnen bei Project hilft? Suchen Sie neue Anwendungen für Project im Office Store. Weitere [Informationen finden Sie unter Add-Ins for Project](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Onlinehilfe
 
-Die Project-Hilfe steht in Office.com oder in erste Schritte direkt in Project zur Verfügung (Wählen Sie **Datei** \> **neu**) aus. [Sehen Sie sich diese Videos an, um den Wechsel zu Project 2013 zu ermöglichen](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Die Projekthilfe ist in Office.com oder unter Erste Schritte Handbücher direkt in Project verfügbar (wählen **Sie Datei** \> **Neu** aus). [Sehen Sie sich diese Videos an, um zu Project 2013 zu wechseln.](https://go.microsoft.com/fwlink/p/?LinkId=271325)
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-Speichern Sie eine Projektdatei als PDF-oder XPS-Datei. Weitere Informationen finden Sie unter [Speichern einer Projektdatei als PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Speichern Sie eine Project-Datei als PDF- oder XPS-Datei. Weitere Informationen finden Sie unter [Speichern einer Projektdatei als PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -102,4 +102,4 @@ Verwenden Sie die Zoomsteuerelemente auf der Statusleiste, um schnell die Perspe
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online Service Description](project-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online service description](project-online-service-description.md).

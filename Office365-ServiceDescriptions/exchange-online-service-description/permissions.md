@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: In Microsoft Exchange Online wird ein Modell der rollenbasierten Zugriffssteuerung (Role Based Access Control, RBAC) verwendet, damit Organisationsadministratoren genau steuern können, welche Funktionen Benutzer und IT-Mitarbeiter in dem Dienst nutzen können. Wenn beispielsweise ein Compliance Officer für Postfachsuchanfragen zuständig ist, kann der Administrator dieses administrative Feature über RBAC an diesen Mitarbeiter delegieren. Exchange Online verwendet das gleiche RBAC-Framework wie Microsoft Exchange Server 2013.
-ms.openlocfilehash: 0593c98857a7ce0c487c628018097395d7a5fe50
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: b66dc5b0cfdfea5c700afbb5ac38a8309236b427
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132689"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173760"
 ---
 # <a name="permissions"></a>Berechtigungen
 
@@ -24,7 +24,7 @@ In Microsoft Exchange Online wird ein Modell der rollenbasierten Zugriffssteueru
   
 Auf der obersten Ebene setzt sich RBAC aus Verwaltungsrollen, Verwaltungsrollengruppen und Zuweisungsrichtlinien für Verwaltungsrollen zusammen. Die folgenden Abschnitte enthalten weitere Informationen zu den einzelnen RBAC-Komponenten.
   
-Weitere Informationen zu dem in Exchange Online verwendeten RBAC-Berechtigungsmodell finden Sie unter [Berechtigungen](https://go.microsoft.com/fwlink/p/?LinkId=271935).
+Weitere Informationen zu dem in Exchange Online verwendeten RBAC-Berechtigungsmodell finden Sie unter [Berechtigungen](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-based-permissions"></a>Rollenbasierte Berechtigungen
 
@@ -34,7 +34,7 @@ Es gibt zwei Typen von Rollen, Administratorrollen und Endbenutzerrollen:
   
 - **Administrative Rollen** Diese Rollen umfassen Berechtigungen, die Administratoren oder spezialisierten Benutzern mithilfe von Rollengruppen zur Verwaltung eines bestimmten Bereichs der Exchange Online-Organisation (z. B. Empfänger, Server oder Datenbanken) zugewiesen werden können. 
     
-- **Endbenutzerrollen** Mit diesen Rollen, die mithilfe von Rollenzuweisungsrichtlinien zugewiesen werden, können Benutzer Aspekte ihrer eigenen Postfächer und Verteilergruppen verwalten. Endbenutzerrollen beginnen mit dem Präfix  `My`.
+- **Endbenutzerrollen** Mit diesen Rollen, die mithilfe von Rollenzuweisungsrichtlinien zugewiesen werden, können Benutzer Aspekte ihrer eigenen Postfächer und Verteilergruppen verwalten, die sie besitzen. Endbenutzerrollen beginnen mit dem Präfix  `My`.
     
 Mit Rollen werden Administratoren und Benutzern Berechtigungen zum Ausführen von Aufgaben erteilt, indem ihnen die entsprechenden Cmdlets zur Verfügung gestellt werden. Da die Exchange-Verwaltungskonsole und die Exchange-Verwaltungsshell zur Verwaltung von Exchange Online Cmdlets verwenden, können Administratoren oder Benutzer mit Zugriff auf ein Cmdlet die entsprechende Aufgabe über jede der Exchange Online-Verwaltungsoberflächen ausführen.
   
@@ -43,16 +43,16 @@ Die rollenbasierten Berechtigungen für Microsoft Online Services überschneiden
 > [!IMPORTANT]
 > Einige Rollen, die in der lokalen Version von Microsoft Exchange Server 2013 verfügbar sind, stehen in Exchange Online möglicherweise nicht zur Verfügung. 
   
-Weitere Informationen zu Berechtigungen in Exchange Online finden Sie unter [Rollenbasierte Berechtigungen](https://go.microsoft.com/fwlink/p/?LinkId=271936).
+Weitere Informationen zu Berechtigungen in Exchange Online finden Sie unter [Rollenbasierte Berechtigungen](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-groups"></a>Rollengruppen
 
-Verwaltungsrollengruppen ordnen Verwaltungsrollen einer Gruppe von Administratoren oder spezialisierten Benutzern zu. Administratoren verwalten eine umfassende Konfiguration der Exchange Online-Organisation oder -Empfänger. Spezialisierte Benutzer verwalten bestimmte Features von Exchange Online, beispielsweise Richtlinientreue, oder sie verfügen über beschränkte Verwaltungsfunktionen, wie Helpdeskmitglieder, ihnen wurden aber keine umfassenden Administratorrechte gewährt. Rollengruppen ordnen in der Regel Verwaltungsrollen zu, mit denen Administratoren und spezialisierte Benutzer die Konfiguration Ihrer Organisation und ihrer Empfänger verwalten können. Ob Administratoren Empfänger verwalten oder Postfachdiscoveryfeatures verwenden können, wird beispielsweise durch Rollengruppen gesteuert. 
+Verwaltungsrollengruppen ordnen Verwaltungsrollen einer Gruppe von Administratoren oder spezialisierten Benutzern zu. Administratoren verwalten eine umfassende Konfiguration der Exchange Online-Organisation oder -Empfänger. Spezialisierte Benutzer verwalten bestimmte Features von Exchange Online, beispielsweise Richtlinientreue, oder sie verfügen über beschränkte Verwaltungsfunktionen, wie Helpdeskmitglieder, ihnen wurden aber keine umfassenden Administratorrechte gewährt. Rollengruppen ordnen in der Regel administrative Verwaltungsrollen zu, mit deren Hilfe Administratoren und spezialisierte Benutzer die Konfiguration ihrer Organisation und empfänger verwalten können. Ob Administratoren Empfänger verwalten oder Postfachdiscoveryfeatures verwenden können, wird beispielsweise durch Rollengruppen gesteuert. 
   
 > [!IMPORTANT]
 > Einige Rollengruppen, die in der lokalen Version von Microsoft Exchange Server 2013 verfügbar sind, stehen in Exchange Online möglicherweise nicht zur Verfügung. 
   
-Weitere Informationen zu Rollengruppen finden Sie unter [Rollengruppen und Rollenzuweisungsrichtlinien](https://go.microsoft.com/fwlink/p/?LinkId=271937).
+Weitere Informationen zu Rollengruppen finden Sie unter [Rollengruppen und Rollenzuweisungsrichtlinien](/exchange/permissions-exchange-2013-help).
   
 ## <a name="role-assignment-policies"></a>Rollenzuweisungsrichtlinien
 
@@ -61,10 +61,8 @@ Durch die Richtlinien für die Verwaltungsrollenzuweisung werden Endbenutzer-Ver
 > [!IMPORTANT]
 > Einige Rollenzuweisungen, die in der lokalen Version von Microsoft Exchange Server 2013 verfügbar sind, stehen in Exchange Online möglicherweise nicht zur Verfügung. 
   
-Weitere Informationen zu Rollenzuweisungsrichtlinien finden Sie unter [Rollengruppen und Rollenzuweisungsrichtlinien](https://go.microsoft.com/fwlink/p/?LinkId=271937).
+Weitere Informationen zu Rollenzuweisungsrichtlinien finden Sie unter [Rollengruppen und Rollenzuweisungsrichtlinien](/exchange/permissions-exchange-2013-help).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
-  
-
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
