@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Protection bereitstellen, sowie einen Vergleich der Features in diesen Plänen.
-ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 95b544ead98aca12460f1b828a8f4083f9252b41
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173810"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215778"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
@@ -34,7 +34,7 @@ In der folgenden Liste werden die wichtigsten Möglichkeiten beschrieben, wie Si
 
 ## <a name="available-plans"></a>Verfügbare Pläne
 
-Ausführliche Planinformationen zu Abonnements, die Benutzer für Exchange Online Protection aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans).
+Ausführliche Planinformationen zu Abonnements, die Benutzer für Exchange Online Protection aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 Weitere Informationen zum Kauf von Exchange Online Protection finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 

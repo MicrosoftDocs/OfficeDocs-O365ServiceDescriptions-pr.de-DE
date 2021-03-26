@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Sehen Sie sich an, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174100"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215738"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -30,7 +30,7 @@ SharePoint in Microsoft 365 unterstützt Organisationen bei der Freigabe und Ver
 
 Eine kurze Übersicht finden Sie unter [Was ist SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Ausführliche Planinformationen zu Abonnements, die Benutzer für SharePoint aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans). Informationen zu Microsoft 365-Systemanforderungen finden Sie unter [Microsoft 365 und Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
+Ausführliche Planinformationen zu Abonnements, die Benutzer für SharePoint aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145). Informationen zu Microsoft 365-Systemanforderungen finden Sie unter [Microsoft 365 und Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
 
 Weitere Informationen zu den Unterschieden zwischen SharePoint-Features für Us Government Cloud-Kunden finden Sie unter [SharePoint for US government environments](../office-365-platform-service-description/office-365-us-government/sharepoint.md).
   
@@ -81,7 +81,7 @@ Eine Übersicht über Anpassungsoptionen finden Sie unter [Customizing SharePoin
 
 Weitere Informationen zur Verfügbarkeit von Microsoft Power Apps und Power Automate finden Sie in den FAQs zur Power Apps- und [Power Automate-Lizenzierung.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Weitere Informationen zur Verfügbarkeit von Microsoft Graph finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans).
+Weitere Informationen zur Verfügbarkeit von Microsoft Graph finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans).
 
 ## <a name="it-admin-features"></a>IT-Administratorfeatures
 

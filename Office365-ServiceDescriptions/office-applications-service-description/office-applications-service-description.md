@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bietet, mit der Sie bereits vertraut sind, z. B. Word, Excel und PowerPoint.
-ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173900"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215758"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -28,7 +28,7 @@ Obwohl Office ein cloudbasierter Dienst ist, werden Office-Anwendungen nicht in 
   
 Office-Anwendungen stehen als 32-Bit- und 64-Bit-Version zur Verfügung.
   
-Ausführliche Planinformationen zu Abonnements, die Benutzern die Dienstbeschreibung für Office-Anwendungen ermöglichen, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans).
+Ausführliche Planinformationen zu Abonnements, die Benutzern die Dienstbeschreibung für Office-Anwendungen ermöglichen, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
   
 ## <a name="feature-availability-across-plans"></a>Verfügbarkeit von Features in den Plänen
 
