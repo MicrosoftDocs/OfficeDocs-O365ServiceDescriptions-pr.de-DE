@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium ist eine integrierte Lösung, die die beste Produktivität mit erweiterten Sicherheits- und Geräteverwaltungsfunktionen zusammen bringt, um Ihr Unternehmen zu schützen. In dieser Dienstbeschreibung werden die Planoptionen und -features beschrieben.
-ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173540"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484818"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Microsoft 365 Business Premium – Dienstbeschreibung
 
@@ -43,7 +43,7 @@ Microsoft 365 Business Premium umfasst im Wesentlichen alle in Microsoft 365 Bus
 |Microsoft Stream  <br/> |Ja<sup>6</sup>  <br/> |Ja<sup>6</sup>  <br/> |
 |[Microsoft 365-Verwaltung](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Azure AD Connect-Synchronisierungstool<br/> |Ja  <br/> |Ja  <br/> |
-|Aktivierung gemeinsam genutzter Computer <br/> |Nein <br/> |Ja  <br/> |
+|[Aktivierung gemeinsam genutzter Computer](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |Nein <br/> |Ja  <br/> |
 |[Messagingrichtlinie und -einhaltung](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Langfristige Archivierung von Exchange Online-basierten Postfächern  <br/> |Nein  <br/> |Ja<sup>3</sup> <br/> |
 |Azure Information Protection-Plan 1 |Nein <br/>|Ja<sup>2</sup> </br>|
@@ -100,7 +100,7 @@ Microsoft 365 Business Premium umfasst im Wesentlichen alle in Microsoft 365 Bus
 |Ordner vor Bedrohungen wie Ransomware schützen <br/> |Ja  <br/> |
 |Schützen von Dateien und Ordnern auf PCs vor unbefugtem Zugriff mit Bitlocker <br/> |Ja  <br/> |
 
-### <a name="notes"></a>Notizen
+### <a name="notes"></a>Notes
 <sup>1</sup> Umfasst Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) aktiviert die unterstützten Information Rights Management (IRM)-Features. AIP Plan 1 ist in Microsoft 365 Business Premium enthalten. <br/>
 <sup>3</sup> Microsoft 365 Business Premium umfasst Exchange Online-Archivierung Abonnement. Jeder Exchange Online-Archivierung-Abonnent erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter [Übersicht zur unbeschränkten Archivierung](/office365/securitycompliance/unlimited-archiving). <br/>

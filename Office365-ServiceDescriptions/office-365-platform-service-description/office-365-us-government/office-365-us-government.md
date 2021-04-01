@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich ständig entwickelnden Anforderungen des öffentlichen Us-Amerikanischen Sektors hat Microsoft Office 365 US Government-Pläne (oder Office 365 Government) erstellt. Dieser Artikel enthält eine Übersicht über features, die speziell für Office 365 Government US-Umgebungen sind.
-ms.openlocfilehash: a2568a77406954a2d3461a0e33f7ca5f3e9160d8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172960"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484828"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -348,7 +348,7 @@ In der folgenden Tabelle sind die Office-Anwendungsfeatures dargestellt, die in 
 |Office-Telemetrie|Nein|Ja<sup>4</sup>|Ja<sup>4</sup>|Nein|
 |Offline-Unterstützung für Client-Anwendungen|Nein|Ja|Ja|Nein|
 |Optimierte parallele Client-Installation|Nein|Ja|Ja|Nein|
-|Power Map für Excel|Nein|Ja<sup>4</sup>|Ja<sup>4</sup>|Nein|
+|Power Map für Excel|Nein|Nein|Nein|Nein|
 |PowerPivot für Excel|Nein|Ja<sup>4</sup>|Ja<sup>4</sup>|Nein|
 |Power Query für Excel|Nein|Ja<sup>4</sup>|Ja<sup>4</sup>|Nein|
 |Power View für Excel|Nein|Ja<sup>4</sup>|Ja<sup>4</sup>|Nein|

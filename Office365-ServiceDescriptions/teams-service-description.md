@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Erfahren Sie mehr über die Dienst- und Featureverfügbarkeit von Microsoft Teams in Microsoft 365- und Office 365-Plänen.
-ms.openlocfilehash: 59eaee9a36eaff8dd79d5ff9690bf04e966f3dfe
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215728"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484858"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -43,22 +43,21 @@ Die aktuelle, vollständige Liste der Teams-Features in Microsoft 365- und Offic
 | Feature | Pläne für kleine Unternehmen | Enterprise-Pläne | GCC | GCC – Hoch | DOD | Bildungspläne |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Chat  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
+|Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
 |Kanäle – Standard  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Kanäle – Privat  <br/> |Ja  <br/> |Ja<sup>2</sup>  <br/> |Ja <br/> |Nein  <br/> |Nein <br/> |Ja  <br/> |
 |Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Bildschirmfreigabe PowerPoint Audio/Video Desktop <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Sprachanrufe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
 |Audiokonferenz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
-|Apps, Bots, & Connectors  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>5</sup>  <br/> |Ja<sup>5</sup>  <br/> |Ja<sup>4,5</sup>  <br/> |Ja  <br/> |
-|Liveereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nr.<sup>6</sup>  <br/> |Nr.<sup>6</sup>  <br/> |Ja  <br/> |
+|Apps, Bots, & Connectors  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>4</sup>  <br/> |Ja<sup>4</sup>  <br/> |Ja<sup>4</sup>  <br/> |Ja  <br/> |
+|Liveereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |No<sup>5</sup>  <br/> |No<sup>5</sup>  <br/> |Ja  <br/> |
 
 <sup>1</sup> Microsoft Teams in GCC-High und DOD unterstützen 2500 Mitglieder in einem einzelnen Team.<br/>
 <sup>2</sup> Microsoft Planner ist derzeit nicht für den Zugriff in privaten Kanälen verfügbar.<br/>
 <sup>3</sup> Direktes Routing muss so konfiguriert sein, dass Voice- und Audiokonferenzen von Microsoft Teams in GCCH und DoD funktionieren.<br/>
-<sup>4</sup> Microsoft OneNote ist in DOD-Clouds nicht verfügbar.<br/>
-<sup>5</sup> Anwendungen von Drittanbietern und die Anwendungsveröffentlichung sind derzeit nicht in diesen Clouds verfügbar.<br/>
-<sup>6</sup> Liveereignisse sind derzeit nicht in GCC-High oder DOD verfügbar.<br/>
+<sup>4</sup> Anwendungen von Drittanbietern und die Anwendungsveröffentlichung sind derzeit nicht in diesen Clouds verfügbar.<br/>
+<sup>5</sup> Liveereignisse sind derzeit nicht in GCC-High oder DOD verfügbar.<br/>
 
 ### <a name="cloud-voice-features"></a>Cloud-Sprachfeatures
 

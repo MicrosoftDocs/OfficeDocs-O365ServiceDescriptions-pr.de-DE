@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Weitere Informieren zu den SharePoint-Beschränkungen für Microsoft 365- und eigenständige Pläne.
-ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172610"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484778"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -29,7 +29,7 @@ Weitere Informationen zu Dienstbeschränkungen in SharePoint für Microsoft 365.
 |Websites (Websitesammlungen) pro Organisation  <br/> |2 Mio.<sup>6</sup> <br/> |2 Mio.<sup>6</sup> <br/> |2 Mio.<br/> |
 |Anzahl der Benutzer  <br/> |Bis zu 300  <br/> |1-500.000<sup>7</sup> <br/> |1-500.000<sup>7</sup> <br/> |
    
-<sup>1</sup> [Erfahren Sie, wie Sie den gesamten und verfügbaren Speicherplatz für Ihre Organisation finden können](/sharepoint/manage-site-collection-storage-limits). Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher kaufen. Siehe [Ändern von Speicherplatz für Ihr Abonnement](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> [Erfahren Sie, wie Sie den gesamten und verfügbaren Speicherplatz für Ihre Organisation finden können](/sharepoint/manage-site-collection-storage-limits). Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher kaufen. Weitere [Informationen finden Sie unter Hinzufügen von Speicherplatz für Ihr Abonnement.](/office365/admin/subscriptions-and-billing/add-storage-space) 
 <br/><sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der vom Papierkorb belegte Speicherplatz ist Teil des Limits des Gesamtspeicherplatzes der Organisation. 
 <br/> <sup>3</sup> Wenn Sie ein Microsoft 365-Abonnement und einen zusätzlichen Office 365-Dateispeicherplatz-Add-On haben, werden die Speichermengen hinzugefügt. 
 <br/> <sup>4</sup> dies ist das *Limit* des Speichers für eine einzelne Website (früher als „Websitesammlung“ bezeichnet), nicht die Größe des Speicherplatzes, der für jede Website *bereitgestellt* wird. Dieses Limit gilt für alle Typen von Websites, einschließlich Office 365-Teamwebsites, die mit einer Gruppe verbunden sind, und OneDrive. SharePoint-Administratoren können [manuell niedrigere Speicherlimits festlegen](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
