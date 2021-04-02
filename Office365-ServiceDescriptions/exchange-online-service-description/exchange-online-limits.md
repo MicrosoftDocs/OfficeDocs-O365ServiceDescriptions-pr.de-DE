@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Bereichen, einschließlich Adressbuchbeschränkungen, Speicherbegrenzungen für Postfächer und Grenzwerte für Berichterstellung und Nachrichtenablaufverfolgung, um nur einige zu nennen.
-ms.openlocfilehash: 06017db419d1f62c907e5bd5004d8d2eef2f54c1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 47f56be9b431b6f2b5e0340291ea6e3d156674d8
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173710"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484838"
 ---
 # <a name="exchange-online-limits"></a>Exchange Online-Begrenzungen
 
@@ -321,7 +321,7 @@ Empfangs- und Sendegrenzen werden angewendet, um Spam und Massen-E-Mail-Würmer 
 
 ### <a name="receiving-limits"></a>Empfangsgrenzen
 
-Empfangsgrenzen gelten für die Anzahl von Nachrichten, die ein Benutzer, eine Gruppe oder ein öffentlicher Ordner pro Stunde empfangen kann. Dies gilt sowohl für Nachrichten aus dem Internet als auch für Nachrichten von lokalen Servern. Wird die Empfangsgrenze überschritten, erhalten die Absender von E-Mails an dieses Postfach einen Unzustellbarkeitsbericht mit der Information, dass das Postfach den zulässigen Schwellenwert für die Anzahl zugestellter Nachrichten überschritten hat. Nach einer Stunde wird die Grenze zurückgesetzt, und das Postfach kann wieder Nachrichten empfangen.
+Empfangsgrenzen gelten für die Anzahl von Nachrichten, die ein Benutzer, eine Gruppe oder ein öffentlicher Ordner pro Stunde *aus beliebigen Quellen* empfangen kann. Dies umfasst Nachrichten von internen Absendern, Nachrichten aus dem Internet und Nachrichten von lokalen Servern. Wenn das Empfangslimit für ein Postfach überschritten wurde, werden an das Postfach gesendete Nachrichten in einem Unzustellbarkeitsbericht (auch als NDR (non-delivery report) oder Unzustellbarkeitsnachricht bezeichnet) an den Absender zurückgesendet, in dem angegeben wird, dass das Postfach den maximalen Zustellungsschwellenwert überschritten hat. Nach einer Stunde wird die Grenze zurückgesetzt, und das Postfach kann wieder Nachrichten empfangen.
 
 | Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard Office | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -369,7 +369,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 |Empfängerratengrenzwert|Keine Beschränkung<sup>1</sup>|10.000 Empfänger pro Tag<sup>2</sup>|10.000 Empfänger pro Tag<sup>2</sup>|10.000 Empfänger pro Tag<sup>2</sup>|
 |Empfängergrenzwert|1.000 Empfänger<sup>1</sup>|1.000 Empfänger|1.000 Empfänger|1.000 Empfänger|
 |Grenzwert für Empfängerproxyadresse|400|400|400|400|
-|Nachrichtenratengrenzwert|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|
+|Nachrichtenratengrenzwert|Kein Grenzwert|30 Nachrichten pro Minute|30 Nachrichten pro Minute|30 Nachrichten pro Minute|
 
 > [!NOTE]
 > <sup>1</sup> Dies ist der standardmäßige Grenzwert für Exchange Server 2013-Organisationen. Administratoren können diesen Wert für ihre Organisation ändern.<br/>
