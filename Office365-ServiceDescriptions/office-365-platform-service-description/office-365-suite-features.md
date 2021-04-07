@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung webbasierter Tools, mit deren Hilfe Sie auf vielen Geräten und mehreren Office 365-Diensten sicher zusammenarbeiten und kommunizieren können. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173980"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599047"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 E5-Suite – Funktionen
 
@@ -25,12 +25,6 @@ Die in diesem Thema aufgeführten Features sind eine Sammlung webbasierter Tools
 ## <a name="delve"></a>Delve
 
 Mit Delve können Benutzer inhalte in Microsoft 365 basierend auf personalisierten Einblicken suchen und entdecken. Delve ist die erste Lösung auf Grundlage von Office Graph. Weitere Informationen zu Delve finden Sie unter [Was ist Delve?](https://go.microsoft.com/fwlink/?LinkId=511463).
-
-## <a name="microsoft-bookings"></a>Microsoft Bookings
-
-Microsoft Bookings ist eine online und mobile App für Unternehmen, die Kunden auf Terminbasis Dienste bereitstellen möchten. Beispiele für solche Unternehmen sind Haarstudios, Zahnärzte, Spas, Anwaltskanzleien, Finanzdienstleister, Berater, Ärztinen, Bildungseinrichtungen und Autogeschäfte. Microsoft Bookings steht Kunden in den USA und Kanada zur Verfügung, die über ein Microsoft 365 Business-Abonnement verfügen.
-  
-Weitere Informationen zu Microsoft Bookings finden Sie unter [Veröffentlichen Ihres Geschäftskalenders online mit Microsoft Bookings](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d).
 
 ## <a name="microsoft-briefing-email"></a>Microsoft Briefing-E-Mail
 
@@ -69,7 +63,7 @@ Microsoft Planner ist ein Tool, mit dem Benutzer die Teamarbeit visuell organisi
   
 ## <a name="microsoft-power-apps"></a>Microsoft PowerApps
 
-Microsoft Power Apps ist ein Unternehmensdienst, mit dem Sie Apps, die auf jedem Gerät funktionieren, schnell erstellen, integrieren und freigeben können. Mit Power Apps können Sie integrierte Verbindungen oder von Ihrem Unternehmen hergestellte Verbindungen verwenden, um Ihre App mit Cloud- und lokalen Diensten wie Microsoft 365 und Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, #A0 und mehr zu verbinden. Sie können Ihre Power Apps ganz einfach mit Kollegen teilen, indem Sie einfach eine E-Mail-Adresse eingeben. Weitere Informationen finden Sie auf der Microsoft [Power Apps-Website](https://powerapps.microsoft.com/).
+Microsoft Power Apps ist ein Unternehmensdienst, mit dem Sie Apps, die auf jedem Gerät funktionieren, schnell erstellen, integrieren und freigeben können. Mit Power Apps können Sie integrierte Verbindungen oder von Ihrem Unternehmen hergestellte Verbindungen verwenden, um Ihre App mit Cloud- und lokalen Diensten wie Microsoft 365 und Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, #A0 und mehr zu verbinden. Sie können Ihre Power Apps ganz einfach mit Kollegen teilen, indem Sie eine E-Mail-Adresse eingeben. Weitere Informationen finden Sie auf der Microsoft [Power Apps-Website](https://powerapps.microsoft.com/).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,7 +71,7 @@ Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organ
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway ist eine professionelle digitale Storytelling-App für Unternehmen, die Ihnen und Ihren Kollegen hilft, Ideen mithilfe einer interaktiven, webbasierten Canvas zum Ausdruck zu bringen. Das integrierte Designmodul von Microsoft Sway hilft Ihnen, professionelle, visuell ansprechende Berichte, Präsentationen und vieles mehr zu erstellen, ohne umfangreiche Formatierungen oder zusätzliche Schulungen zu benötigen. Sie können die Ergebnisse auch ändern, um das einzigartige Aussehen und Verhalten zu erhalten, das Sie möchten. Microsoft Sway macht Ihre Erstellung in jedem Browser auf jedem Bildschirm großartig, und sie kann mit Kollegen und Kunden geteilt werden, indem Sie einfach einen Link senden. Microsoft Sway hilft Ihnen, alle Möglichen von Inhalten zu finden und zusammen zu ziehen, ohne die App zu verlassen, sodass Sie Ihre Bilder, Text, Videos und Diagramme direkt auf Ihre Canvas ziehen und ablegen können. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist in [Office 365 Deutschland noch nicht verfügbar.](office-365-germany.md)
+Microsoft Sway ist eine professionelle digitale Storytelling-App für Unternehmen, die Ihnen und Ihren Kollegen hilft, Ideen mithilfe einer interaktiven, webbasierten Canvas zum Ausdruck zu bringen. Das integrierte Designmodul von Microsoft Sway hilft Ihnen, professionelle, visuell ansprechende Berichte, Präsentationen und vieles mehr zu erstellen, ohne umfangreiche Formatierungen oder zusätzliche Schulungen zu benötigen. Sie können die Ergebnisse auch ändern, um das einzigartige Aussehen und Verhalten zu erhalten, das Sie möchten. Microsoft Sway macht Ihre Erstellung in jedem Browser auf jedem Bildschirm großartig und kann mit Kollegen und Kunden geteilt werden, indem Sie einen Link senden. Microsoft Sway hilft Ihnen, alle Möglichen von Inhalten zu finden und zusammen zu ziehen, ohne die App zu verlassen, sodass Sie Ihre Bilder, Text, Videos und Diagramme direkt auf Ihre Canvas ziehen und ablegen können. Weitere Informationen finden Sie unter [Sway](https://sway.com). Microsoft Sway ist in [Office 365 Deutschland noch nicht verfügbar.](office-365-germany.md)
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for Enterprise
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 ist ein Abonnementdienst, der Ihnen die neueste Version der Office-Desktopanwendungen bietet, mit der Sie bereits vertraut sind, z. B. Word, Excel und PowerPoint.
-ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215758"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599057"
 ---
 # <a name="office-applications-service-description"></a>Dienstbeschreibung zu Office-Anwendungen
 
@@ -81,7 +81,7 @@ Einige der Microsoft 365 For Business-Pl채ne verf체gen 체ber Add-Ons, die Sie f�
 |Power Query f체r Excel  <br/> |No<sup>14</sup>  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Power View f체r Excel  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Roaming-Einstellungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Nein <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
-|Aktivierung gemeinsam genutzter Computer  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
+|[Aktivierung gemeinsam genutzter Computer](/DeployOffice/overview-shared-computer-activation)  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Unterst체tzung f체r das Blockieren von Cloud-basierten Dateispeichern  <br/> |Ja  <br/> |Ja  <br/>|Ja  <br/> |Ja  <br/>|Ja  <br/> |Nein  <br/> |Nein  <br/> |Ja <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein  <br/> |
 |Tippen, um Inhalte zu suchen und wiederzuverwenden  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/>|Nein  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |Nein <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
 |Versionsupgrades  <br/> |Nein  <br/> |Nein  <br/>|Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |Ja  <br/> |Ja <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |Nein  <br/> |
