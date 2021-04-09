@@ -2,6 +2,7 @@
 title: OneDrive-Dienstbeschreibung
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie, welche OneDrive-Features in welchen Plänen zur Verfügung stehen.
-ms.openlocfilehash: 9bdf54b8fa59601a46fb4dae3a0265444fe7727a
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: e4c83a4a8310375940737957381c2cf5fca2c3fd
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215798"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652319"
 ---
 # <a name="onedrive-service-description"></a>OneDrive-Dienstbeschreibung
 

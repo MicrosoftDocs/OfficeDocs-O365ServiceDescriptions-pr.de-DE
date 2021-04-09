@@ -2,6 +2,7 @@
 title: Word für das Web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word für das Web (früher Word Web App) erweitert Ihre Microsoft Word-Erfahrung auf den Webbrowser, in dem Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist.
-ms.openlocfilehash: 50d1e7ceeff9e6b117e127a0d62b208e9b1b325c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174150"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652329"
 ---
 # <a name="word-for-the-web"></a>Word für das Web
 

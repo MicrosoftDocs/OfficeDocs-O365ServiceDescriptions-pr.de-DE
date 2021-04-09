@@ -2,6 +2,7 @@
 title: SharePoint für US-Regierungsumgebungen
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
@@ -9,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Erfahren Sie mehr über die Verfügbarkeit von SharePoint-Features für Us Government Cloud-Kunden.
-ms.openlocfilehash: 69900e2da0040882992677f7db764033ff01308d
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 8688c80ee2214ad77f4c27fa79dd38dca3c6cbb9
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215788"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653147"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint für US-Regierungsumgebungen
 

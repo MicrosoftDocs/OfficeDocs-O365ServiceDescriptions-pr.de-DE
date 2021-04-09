@@ -2,6 +2,7 @@
 title: Clients und mobile Geräte
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 description: Exchange Online funktioniert mit Desktop- und mobilen Versionen von Outlook sowie Outlook im Web.
-ms.openlocfilehash: 4f72bb4f598a0c274b352163142f72b562fa2518
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173690"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653117"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients und mobile Geräte
 

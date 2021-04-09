@@ -2,6 +2,7 @@
 title: Vereinbarung zum Servicelevel
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 50f48c895a0f4f856f531f4f08bbcf4c981908b8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a8ddf782fca857d81c91d717dffbcb774a31a2f0
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172840"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652439"
 ---
 # <a name="service-level-agreement"></a>Vereinbarung zum Servicelevel
 

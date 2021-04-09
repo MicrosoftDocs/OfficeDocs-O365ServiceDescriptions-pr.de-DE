@@ -2,6 +2,7 @@
 title: Planung und Bereitstellung
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: Erfahren Sie mehr über die Planung und Bereitstellung in Microsoft Exchange Online.
-ms.openlocfilehash: fb9a63fecd0a64e8b896fb63acfffeb873a56281
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: eabef8014f64295058b4f41ccd9835a8dea473d8
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173340"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652699"
 ---
 # <a name="planning-and-deployment"></a>Planung und Bereitstellung
 

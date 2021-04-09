@@ -2,6 +2,7 @@
 title: Verwaltungs- und Sicherheitsfunktionen in Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Die folgenden Verwaltungs- und Sicherheitsfeatures sind in Yammer.
-ms.openlocfilehash: 8043e18bcacb8056c4a109a1d909ddf190908e9c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e31e3df763ef4fa2fd17522a634b5a66e4be6958
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173870"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653557"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Verwaltungs- und Sicherheitsfunktionen in Yammer
 

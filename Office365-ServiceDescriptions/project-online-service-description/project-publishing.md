@@ -2,6 +2,7 @@
 title: Projektveröffentlichung
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,21 +11,21 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: Die folgenden SharePoint-und Skype for Business-Interoperabilitätsfeatures stehen in Project online zur Verfügung.
-ms.openlocfilehash: da4b75c49ab270a6fff3f6bc4ef5b6285a2972a8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Die folgenden SharePoint- und Skype for Business-Interoperabilitätsfeatures sind in Project Online verfügbar.
+ms.openlocfilehash: 6c3538a2829d1367713763391ffb4fd960792412
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131149"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651188"
 ---
 # <a name="project-publishing"></a>Projektveröffentlichung
 
-Die folgenden SharePoint-und Skype for Business-Interoperabilitätsfeatures stehen in Project online zur Verfügung.
+Die folgenden SharePoint- und Skype for Business-Interoperabilitätsfeatures sind in Project Online verfügbar.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
   
-## <a name="create-a-project-site"></a>Erstellen eines Projektwebsite
+## <a name="create-a-project-site"></a>Erstellen einer Projektwebsite
 
 Wenn Sie Project Web App verwenden, können Sie ein Projekt für andere freigeben, indem Sie eine neue Projektwebsite in SharePoint erstellen oder eine Synchronisierung mit einer vorhandenen Website ausführen. Auf der Website werden die Aufgaben des Projekts als SharePoint-Aufgabenliste freigegeben. Erfahren Sie mehr über das [Synchronisieren mit SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
   
@@ -42,14 +43,14 @@ Veröffentlichen Sie ein Projekt mithilfe von Project Web Access. Erfahren Sie m
   
 ## <a name="save-a-project-mpp-file-on-sharepoint"></a>Speichern einer Project-MPP-Datei in SharePoint
 
-Speichern Sie ein Projekt in einer SharePoint-Dokumentbibliothek, um es für Teammitglieder freizugeben, die nicht über Project Server verfügen. Erfahren Sie mehr über das [Synchronisieren mit einer SharePoint-Aufgabenliste](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+Speichern Sie ein Projekt in einer SharePoint-Dokumentbibliothek, um es mit Teammitgliedern zu teilen, die nicht über Project Server verfügen. Erfahren Sie mehr über das [Synchronisieren mit einer SharePoint-Aufgabenliste](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
-## <a name="task-list-sync-to-sharepoint"></a>Aufgabenlisten Synchronisierung mit SharePoint
+## <a name="task-list-sync-to-sharepoint"></a>Aufgabenlistensynchronisierung mit SharePoint
 
 Nachdem Sie Ihr Projekt mit einer SharePoint-Aufgabenliste erstmals verknüpft haben, können Sie eine Synchronisierung mit der Aufgabenliste vornehmen, während Sie das Projekt aktualisieren. Beziehungen zu vorherigen Aufgaben, Meilensteinen und Feldzuordnungen (einschließlich Notizen) bleiben bei der Synchronisierung erhalten. Ihre Teammitglieder müssen Project Professional 2013 nicht installiert haben, um auf ihre Aufgaben zugreifen zu können. Erfahren Sie mehr über das [Synchronisieren mit einer SharePoint-Aufgabenliste](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online Service Description](project-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online service description](project-online-service-description.md).
   
 

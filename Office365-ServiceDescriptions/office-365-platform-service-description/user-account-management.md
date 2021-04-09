@@ -2,6 +2,7 @@
 title: User account management
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft unterstützt die folgenden Methoden zum Erstellen, Verwalten und Authentifizieren von Benutzern.
-ms.openlocfilehash: 31fe2a1df472b6fc22df5cb7ff29b8658519cbc7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 16c12692107e789692b28351eed7dae5b32b18d9
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172780"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652409"
 ---
 # <a name="user-account-management"></a>User account management
 

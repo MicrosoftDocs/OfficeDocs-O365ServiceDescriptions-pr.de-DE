@@ -2,6 +2,7 @@
 title: BlackBerry
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: BlackBerry®-Smartphones können in Office 365 auf E-Mails und Dokumente zugreifen.
-ms.openlocfilehash: df7c477a64da2d2460f869f8a45e5a9697b41a0d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 4c76e00364351b601a7566446b040ac5bd461535
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132362"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653387"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -33,7 +34,7 @@ Weitere Informationen finden Sie unter [Einrichten E-Mails auf einem BlackBerry]
   
 ## <a name="blackberry-7-and-earlier-smartphones-with-microsoft-exchange-online"></a>Smartphones mit BlackBerry® 7 und älter mit Microsoft Exchange Online
 
-Sie können Smartphones mit BlackBerry® Internet Service (BIS) verwenden, um eine Verbindung zwischen Blackberry 7 und früheren Smartphones und Exchange Online herzustellen. Bis ermöglicht BlackBerry-Benutzern den Zugriff auf Ihre e-Mail-Konten über das Internet über IMAP oder Pop.
+Sie können Smartphones mit BlackBerry® Internet Service (BIS) verwenden, um eine Verbindung zwischen Blackberry 7 und früheren Smartphones und Exchange Online herzustellen. BIS ermöglicht BlackBerry-Benutzern den Zugriff auf ihre E-Mail-Konten über das Internet über IMAP oder POP.
   
 Die meisten Mobilfunkanbieter haben BIS eingerichtet haben, daher müssen Endbenutzer die E-Mail-, Kalender- und Kontaktsynchronisierung mithilfe der Anweisungen in den folgenden Knowledge Base-Artikeln konfigurieren:
   
@@ -48,9 +49,9 @@ Die meisten Mobilfunkanbieter haben BIS eingerichtet haben, daher müssen Endben
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>BlackBerry-Smartphones mit SharePoint Online
 
-Für Zugriff auf Microsoft SharePoint Online können BlackBerry-Benutzer den systemeigenen Browser auf ihrem BlackBerry-Smartphone verwenden, um auf SharePoint Online-Websites zuzugreifen. BlackBerry-Benutzer können Word-, Excel-und PowerPoint-Dokumente mit Office für das webrendering im mobilen Browser anzeigen.
+Für Zugriff auf Microsoft SharePoint Online können BlackBerry-Benutzer den systemeigenen Browser auf ihrem BlackBerry-Smartphone verwenden, um auf SharePoint Online-Websites zuzugreifen. BlackBerry-Benutzer können Word-, Excel- und PowerPoint-Dokumente mithilfe von Office für das Webrendering im mobilen Browser anzeigen.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Funktionen in Office 365 Plänen finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Funktionsverfügbarkeit in Office 365-Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
   

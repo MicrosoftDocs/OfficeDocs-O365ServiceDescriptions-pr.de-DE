@@ -2,6 +2,7 @@
 title: Messagingrichtlinie und -einhaltung
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Erfahren Sie mehr über Nachrichtenrichtlinie und Compliance in Exchange Online.
-ms.openlocfilehash: b92c129601b4de67b03638f505cbf507e7ac77d7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173380"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652709"
 ---
 # <a name="message-policy-and-compliance"></a>Messagingrichtlinie und -einhaltung
 

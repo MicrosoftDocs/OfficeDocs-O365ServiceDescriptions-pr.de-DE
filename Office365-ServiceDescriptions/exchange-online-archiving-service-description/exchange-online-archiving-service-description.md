@@ -2,6 +2,7 @@
 title: Beschreibung des Exchange Online-Archivierungsdiensts
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: In diesem Artikel erfahren Sie mehr über Microsoft Exchange Online Archivierung.
-ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 1dcd594017f4699bbccdd29c109269bc9dea7875
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215768"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653077"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Beschreibung des Exchange Online-Archivierungsdiensts
 

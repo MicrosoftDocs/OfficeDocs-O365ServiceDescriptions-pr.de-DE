@@ -2,6 +2,7 @@
 title: Office 365 Education
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365-Bildungsplänen suchen, wird in diesem Artikel gezeigt, welche Features in jedem dieser Pläne enthalten sind. Office 365 kombiniert die vertraute Microsoft Office-Desktopsuite mit cloudbasierten Versionen der Kommunikations- und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und Microsoft Skype for Business Online, um Benutzern zu helfen, von praktisch überall über das Internet produktiv zu &mdash; &mdash; sein.
-ms.openlocfilehash: 62f8c255d7e86f597140765b0ab0909ec45f3871
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173850"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653217"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 

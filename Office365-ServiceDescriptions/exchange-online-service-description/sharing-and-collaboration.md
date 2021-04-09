@@ -2,6 +2,7 @@
 title: Freigabe und Zusammenarbeit
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 0081394efe976c330c95dc67bbb304c720a5e567
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 1afee4f2868a8bf0f0a1662e2d70bd8de3f2043a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173570"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653297"
 ---
 # <a name="sharing-and-collaboration"></a>Freigabe und Zusammenarbeit
 

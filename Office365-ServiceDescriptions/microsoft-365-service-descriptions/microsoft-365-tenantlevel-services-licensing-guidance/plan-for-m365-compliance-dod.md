@@ -2,18 +2,19 @@
 title: Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Diese Anleitung gilt für IT-Profis, die Bereitstellungen von Office 365 in Us Federal Government-Entitäten oder anderen Entitäten antreibt, die Daten verarbeiten, die staatlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government – DoD geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 0730ecf23d4c2fd167edf9f0e8b0dc5dcf67b646
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 74907afc24dd468111e3f530dc316346784b2996
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173530"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652619"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 
@@ -132,7 +133,7 @@ Um die Anforderungen unserer Government-Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Übersetzen von Integritätsinhalten während der Untersuchung | On Engineering Backlog |
 |                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Burnout- und Suiziderkennung | On Engineering Backlog |
 |                                         | Informationsbarrieren | On Engineering Backlog |
-|                                         | Verwaltung privilegierter Zugriffe                    | On Engineering Backlog |
+|                                         | Privileged Access Management                    | On Engineering Backlog |
 | **Ermitteln & Antworten**                  | Core eDiscovery: In-Place-Erhaltung                            | Available              |
 |                                         | Kern-eDiscovery: Fallverwaltung                                 | Available              |
 |                                         | Core eDiscovery: Search                                          | Available              |

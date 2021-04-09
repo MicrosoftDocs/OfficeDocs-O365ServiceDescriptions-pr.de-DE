@@ -2,6 +2,7 @@
 title: Sprachnachrichtendienste
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: fe1d1f5a58012498e5b0f71c9a4299e61a4456ad
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 23cc82d51d1afcbd2662e86dd6bc2aeebfb22346
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173390"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652679"
 ---
 # <a name="voice-message-services"></a>Sprachnachrichtendienste
 

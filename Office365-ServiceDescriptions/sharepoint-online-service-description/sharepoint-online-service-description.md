@@ -2,6 +2,7 @@
 title: SharePoint-Dienstbeschreibung
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Sehen Sie sich an, welche SharePoint-Features in welchen Plänen verfügbar sind.
-ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 929156fe985764615dc3e7a7797e87f5d97cdd3b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215738"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651168"
 ---
 # <a name="sharepoint-service-description"></a>SharePoint-Dienstbeschreibung
 
@@ -34,7 +35,7 @@ Ausführliche Planinformationen zu Abonnements, die Benutzer für SharePoint akt
 
 Weitere Informationen zu den Unterschieden zwischen SharePoint-Features für Us Government Cloud-Kunden finden Sie unter [SharePoint for US government environments](../office-365-platform-service-description/office-365-us-government/sharepoint.md).
   
-## <a name="whats-new"></a>Neuigkeiten
+## <a name="whats-new"></a>Neuerungen
 
 Informationen zu den neuesten Features, die veröffentlicht werden, finden Sie unter [Neuigkeiten in SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -158,7 +159,7 @@ Sofern nicht anders angegeben, sind die folgenden Features in allen Plänen verf
 - [Dokumentbibliotheken](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [Dokumentsätze](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - Dateikarten (Aktivitäten, Unterhaltungen, Viewer)
-- [Listen](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [Megamenüs](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Microsoft Forms-Integration](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). Erfordert ein Abonnement mit Office 365 und erfordert, dass der Benutzer für Formulare lizenziert ist.
 - [Neuigkeiten](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)

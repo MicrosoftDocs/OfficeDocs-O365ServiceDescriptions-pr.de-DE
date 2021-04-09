@@ -2,17 +2,18 @@
 title: Microsoft Teams Dienstbeschreibung
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Erfahren Sie mehr über die Dienst- und Featureverfügbarkeit von Microsoft Teams in Microsoft 365- und Office 365-Plänen.
-ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484858"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653567"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 

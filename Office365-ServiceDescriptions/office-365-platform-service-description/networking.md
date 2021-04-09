@@ -2,6 +2,7 @@
 title: Netzwerk
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft unterstützt die folgenden Netzwerkfunktionen.
-ms.openlocfilehash: 318437ce65c5ced55d42e798bf76774cda6708f9
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: df2fb9343529a7722fc434a79bf74621b78b787e
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173020"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652539"
 ---
 # <a name="networking"></a>Netzwerk
 

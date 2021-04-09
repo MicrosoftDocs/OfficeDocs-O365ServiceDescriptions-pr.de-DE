@@ -2,6 +2,7 @@
 title: Partner
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Als autorisierter Microsoft-Partner bietet Ihnen Microsoft Office 365 die Möglichkeit, Ihren Kundenstamm zu erweitern und dauerhafte Geschäftsbeziehungen zu Ihren Kunden aufzubauen. Für eine monatlich oder jährlich an Sie zu entrichtende Gebühr können Ihre Kunden cloudbasierte Dienste nutzen, sodass sie sich nicht um die Verwaltung von Datensicherungen, Serverhardware und Serverupdates kümmern müssen. Welche Dienste Ihnen zur Verfügung stehen, hängt von den Diensttypen ab, für deren Bereitstellung Sie autorisiert sind.
-ms.openlocfilehash: e9de8e6b3aadc5c1dcc7ef9d3949439336220f32
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: adb7e7d8587ffa6ffc6e0e6d39023bae554b095a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131689"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653427"
 ---
 # <a name="partners"></a>Partner
 
@@ -40,7 +41,7 @@ Mit der delegierten Administration verfügt ein Partner über vollständigen Adm
   
 Bevor Sie mit der Verwaltung des Kundenkontos beginnen können, muss der Kunde Sie als delegierten Administrator autorisieren. Um die Genehmigung des Kunden zu erhalten, senden Sie ihm zunächst ein Angebot für die delegierte Administration. Dieses Angebot kann zusammen mit einer Einladung oder einem Angebot zu Testzwecken gesendet werden. Der Kunden autorisiert einen Partner als delegierten Administrator, indem er auf die E-Mail des Partners mit der Einladung antwortet.
   
-Jeder Kunde ist berechtigt, über einen Delegierten VERWALTUNGSPARTNER zu verfügen. Bei diesem Partner kann es sich auch um einen Partner of Record (POR) des Kunden handeln. Die Rollen des POR und des delegierten Administrators unterscheiden sich und werden vom Kunden getrennt voneinander festgelegt. So ist es dem Kunden möglich, einen Partner für die Kaufberatung und einen für die Implementierung oder verwaltete Dienste auszuwählen. Darüber hinaus bietet dies Partnern die Möglichkeit, zu entscheiden, ob sie ein Geschäft mit einer Spezialisierung in einer oder in beiden Rollen aufbauen.
+Jeder Kunde ist berechtigt, einen delegierten Verwaltungspartner zu haben. Bei diesem Partner kann es sich auch um einen Partner of Record (POR) des Kunden handeln. Die Rollen des POR und des delegierten Administrators unterscheiden sich und werden vom Kunden getrennt voneinander festgelegt. So ist es dem Kunden möglich, einen Partner für die Kaufberatung und einen für die Implementierung oder verwaltete Dienste auszuwählen. Darüber hinaus bietet dies Partnern die Möglichkeit, zu entscheiden, ob sie ein Geschäft mit einer Spezialisierung in einer oder in beiden Rollen aufbauen.
   
 Selbst wenn ein Kunde einen Partner autorisiert hat, Verwaltungsaufgaben in seinem Auftrag auszuführen, hat der Kunde weiterhin die Möglichkeit, Microsoft Support direkt zu kontaktieren und Dienstanforderungen zu übermitteln.
   
@@ -52,5 +53,5 @@ Das Microsoft Partner Network engagiert sich dafür, den Anforderungen unserer P
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in den Plänen von Microsoft 365 und Office 365 finden Sie unter [Microsoft 365 und Office 365 Platform Service Description](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Microsoft 365- und Office 365-Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
   

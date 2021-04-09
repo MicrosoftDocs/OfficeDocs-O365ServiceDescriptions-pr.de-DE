@@ -2,6 +2,7 @@
 title: Help and training
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 bietet die folgenden Hilfe- und Schulungsressourcen.
-ms.openlocfilehash: 0de5b5d18f2744799db7db0595db78a27f39992b
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173480"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653237"
 ---
 # <a name="help-and-training"></a>Help and training
 

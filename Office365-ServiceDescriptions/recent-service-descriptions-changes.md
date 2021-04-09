@@ -2,6 +2,7 @@
 title: Neueste Änderungen der Dienstbeschreibungen
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dienstbeschreibungen vorgenommen wurden.
-ms.openlocfilehash: c4f8635af11b41bcd9e12e147d5fe04b394dbe12
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174110"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651040"
 ---
 # <a name="recent-service-descriptions-changes"></a>Neueste Änderungen der Dienstbeschreibungen
 
@@ -31,7 +32,7 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 |Exchange Online  <br/> |[Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md) <br/> |Die Verfügbarkeit in Microsoft 365 Apps for Business wurde aktualisiert.  <br/> |
 |Office-Anwendungen  <br/> |[Dienstbeschreibung zu Office-Anwendungen](office-applications-service-description/office-applications-service-description.md) <br/> |Aktualisierte Verfügbarkeit auf mobilen Plattformen.  <br/> |
 |Workplace Analytics  <br/> |[Beschreibung zu Workplace Analytics](workplace-analytics-service-description.md) <br/> |Lizenzplatzbeschränkung aktualisiert, Link zum Artikel Erste Schritte hinzugefügt, Voraussetzungen aktualisiert.  <br/> |
-|Microsoft Project Online  <br/> |[Project Online-Dienstbeschreibung](project-online-service-description/project-online-service-description.md) <br/> |Erläuterte Lizenzierung.  <br/> |
+|Project Online  <br/> |[Project Online-Dienstbeschreibung](project-online-service-description/project-online-service-description.md) <br/> |Erläuterte Lizenzierung.  <br/> |
 |Visio Online  <br/> |[Visio Online-Dienstbeschreibung](visio-online-service-description/visio-online-service-description.md) <br/> |Die Featurestabelle wurde aktualisiert, um zusätzliche Features zu zeigen, die jetzt in Visio Online verfügbar sind.  <br/> |
    
 ## <a name="may-2018"></a>Mai 2018

@@ -2,6 +2,7 @@
 title: Posteingangsfeatures in Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,28 +11,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
-description: Die folgenden Posteingangs Funktionen stehen in "jammern" zur Verfügung.
-ms.openlocfilehash: e8cf9c963a00166910bc34e2f2cfc0e19d6575d1
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Die folgenden Posteingangsfeatures sind in Yammer.
+ms.openlocfilehash: 2060f2debe7deae4f0297f71e227b7e3a17419c2
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133049"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653527"
 ---
 # <a name="inbox-features-in-yammer"></a>Posteingangsfeatures in Yammer
 
-Die folgenden Posteingangs Funktionen stehen in "jammern" zur Verfügung.
+Die folgenden Posteingangsfeatures sind in Yammer.
   
 ## <a name="inbox"></a>Posteingang
 
-Der Posteingang aggregiert automatisch Ihre @Mentions, Gruppen Ansagen, Unterhaltungen und private Nachrichten, sodass Sie Antworten problemlos priorisieren können.
+Posteingang aggregiert automatisch Ihre @mentions, Gruppenansagen, Unterhaltungen und privaten Nachrichten, damit Sie Antworten problemlos priorisieren können.
   
-## <a name="inbox-search"></a>Posteingangs Suche
+## <a name="inbox-search"></a>Posteingangssuche
 
 Durchsuchen Sie den gesamten Posteingang, um Unterhaltungen, private Nachrichten und Ankündigungen schnell zu finden.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Yammer Service description](yammer-service-description.md).
   
 

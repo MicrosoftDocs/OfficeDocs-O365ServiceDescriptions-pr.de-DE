@@ -2,6 +2,7 @@
 title: Projektplanung
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
-description: Die folgenden Projekt Planungsfeatures stehen in Project online zur Verfügung.
-ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Die folgenden Projektplanungsfeatures sind in Project Online verfügbar.
+ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131099"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651050"
 ---
 # <a name="project-planning"></a>Projektplanung
 
-Die folgenden Projekt Planungsfeatures stehen in Project online zur Verfügung.
+Die folgenden Projektplanungsfeatures sind in Project Online verfügbar.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Siehe [Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
   
 ## <a name="baseline-rollup"></a>Rollup für Basispläne
 
@@ -54,7 +55,7 @@ Wenden Sie auf einen Projektplan mehrere Gruppierungszeilen an. Erfahren Sie meh
   
 ## <a name="reports"></a>Berichte
 
-Mit Project 2016 können Sie prägnante, farbenfrohe, professionelle Berichte erstellen, ohne die Daten in ein anderes Programm exportieren zu müssen. Fügen Sie Bilder, Diagramme, Animationen, Links und vieles mehr hinzu, &mdash; um Projektstatusinformationen eindeutig und effektiv für beteiligte und Teammitglieder freizugeben. Erfahren Sie mehr über das [Erstellen von Projektberichten](https://go.microsoft.com/fwlink/p/?LinkId=271349).
+Mit Project 2016 können Sie prägnante, farbenfrohe, professionelle Berichte erstellen, ohne die Daten in ein anderes Programm exportieren zu müssen. Fügen Sie Bilder, Diagramme, Animationen, Links und mehr hinzu, die Sie für eine klare und effektive Freigabe von Projektstatusinformationen an Projektbeteiligten und &mdash; Teammitglieder haben müssen. Erfahren Sie mehr über das [Erstellen von Projektberichten](https://go.microsoft.com/fwlink/p/?LinkId=271349).
   
 ## <a name="team-planner"></a>Teamplaner
 
@@ -62,5 +63,5 @@ Verwenden Sie eine Ansicht, auf der Personen und deren Zuweisungen dargestellt s
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online Service Description](project-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online service description](project-online-service-description.md).
   

@@ -2,6 +2,7 @@
 title: Domänen
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Wenn Sie eine Domäne hinzufügen, hilft Ihnen ein schrittweiser Assistent, Benutzer hinzuzufügen und Ihre E-Mail-Adressen und anderen Dienste in Ihren Geschäftsnamen zu konvertieren. Wenn Sie den Assistenten abschließen, wird Ihre Geschäfts-E-Mail an Microsoft gesendet, anstatt zu Ihrem aktuellen E-Mail-Anbieter zu wechseln. Weitere Informationen finden Sie unter Add your users and domains to Microsoft. Wenn Sie Office 365, betrieben von 21Vianet verwenden, lesen Sie Prüfen der Domäne.
-ms.openlocfilehash: 57df3e7fb22e8a576099432b8cdc7c84a8462bad
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172990"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652569"
 ---
 # <a name="domains"></a>Domänen
 

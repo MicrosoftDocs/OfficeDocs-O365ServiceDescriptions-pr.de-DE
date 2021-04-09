@@ -2,6 +2,7 @@
 title: Office 365 GCC
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Microsoft bietet Office 365 US Government Community (GCC)-Dienste, um die einzigartigen und sich ständig weiterentwickelnden Anforderungen der Us States Federal, State, Local und Tribal Government sowie von Auftragnehmern zu erfüllen, die Daten im Auftrag der US-Regierung halten oder verarbeiten. Über mehrere Kanäle, einschließlich Volumenlizenzierung, können interessierte Organisationen einen Überprüfungsprozess durchgehen, um die Berechtigung sicherzustellen, bevor eine Umgebung eingerichtet wird. Testversionen stehen derzeit nur us Government-Entitäten zur Verfügung.
-ms.openlocfilehash: 0c283631baa613e83619efff4423609ae8a3a59f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173040"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653167"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 

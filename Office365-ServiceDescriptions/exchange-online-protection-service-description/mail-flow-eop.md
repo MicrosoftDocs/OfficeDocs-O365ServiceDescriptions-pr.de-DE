@@ -2,6 +2,7 @@
 title: Nachrichtenfluss in Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: In diesem Artikel erfahren Sie mehr über den Nachrichtenfluss in Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 1d8cbe7d3483ee0cfc73e8cea372e0d36dbc7b6d
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 0923f31ccb639271303654cbdccf4890b2a55062
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173790"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653137"
 ---
 # <a name="mail-flow-in-exchange-online-protection"></a>Nachrichtenfluss in Exchange Online Protection
 

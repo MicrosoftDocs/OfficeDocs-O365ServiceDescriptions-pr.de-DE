@@ -2,6 +2,7 @@
 title: Profilfunktionen in Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Die nachfolgenden Profilfunktionen stehen in Yammer zur Verfügung.
-ms.openlocfilehash: 4a3b0dc2a73a7d05b1acbee27ad23e732c127e02
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ac686eccca1536c3c06b3211c401b6f1822a8703
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133029"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653007"
 ---
 # <a name="profile-features-in-yammer"></a>Profilfunktionen in Yammer
 
@@ -24,7 +25,7 @@ Die nachfolgenden Profilfunktionen stehen in Yammer zur Verfügung.
  
 ## <a name="expertise"></a>Expertise (Fachkenntnisse)
 
-Greifen Sie über die Organisation zu, um die Experten zu finden, die Sie benötigen. Da Fachwissen sofort durchsuchbar ist, können nützliche Informationen bei Bedarf gefunden werden.
+Greifen Sie in der gesamten Organisation zu, um die benötigten Experten zu finden. Da Fachwissen sofort durchsuchbar ist, finden Sie bei Bedarf nützliche Informationen.
 
 ## <a name="leaderboards"></a>Leaderboards
 
@@ -36,18 +37,18 @@ Durchsuchen Sie das Mitgliederverzeichnis, um Personen in Ihrem Team und Kollege
   
 ## <a name="org-chart"></a>Organigramm
 
-Fügen Sie Manager und Berichte hinzu, um ein Organigramm zusammen mit ihren Kollegen zu erstellen. Informationen zum Organigramm werden automatisch in Profilen angezeigt.
+Fügen Sie Manager und Berichte hinzu, um zusammen mit Ihren Kollegen ein Organisationsdiagramm zu erstellen. Organigramminformationen werden automatisch in Profilen angezeigt.
   
-## <a name="praise"></a>Praise (Lob)
+## <a name="praise"></a>Lob
 
-Erteilen und erhalten Sie Lob für gute Leistungen bei der Arbeit. Errungenschaften und Abzeichen werden auf den Profilen auf der Registerkarte **LOB** angezeigt.
+Erteilen und erhalten Sie Lob für gute Leistungen bei der Arbeit. Erfolge und Signalen werden in Profilen auf der Registerkarte **Loben** angezeigt.
  
 ## <a name="user-profiles"></a>Benutzerprofile
 
-Laden Sie ein Bild hoch, füllen Sie Kontaktdetails aus, und Listen Sie Ihr Fachwissen auf. In Profilen werden alle Ihre Informationen gesammelt, auch Unterhaltungen und Dateien.
+Laden Sie ein Bild hoch, geben Sie Kontaktdetails ein, und listen Sie Ihr Fachwissen auf. In Profilen werden alle Ihre Informationen gesammelt, auch Unterhaltungen und Dateien.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen der Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [jammern der Dienstbeschreibung](yammer-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Yammer Service description](yammer-service-description.md).
   
 

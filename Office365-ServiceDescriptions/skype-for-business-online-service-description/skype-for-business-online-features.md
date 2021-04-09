@@ -2,6 +2,7 @@
 title: Skype for Business Online-Features
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Wenn Sie Administrator sind, finden Sie ausführliche Anweisungen zum Einrichten von Skype for Business Online-Features unter Einrichten von Skype for Business Online.
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172670"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651020"
 ---
 # <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
@@ -120,7 +121,7 @@ Audiokonferenzen sind nicht in allen Ländern und Regionen verfügbar. Eine List
   
 ## <a name="calling-plans"></a>Anrufpläne
 
-Skype for Business umfasst Anruffunktionen im Telefonfestnetz (Public Switched Telephone Network, PSTN). Anrufpläne sind ein Add-On zum Telefonsystem, mit dem Sie Telefonnummern für Benutzer in Ihrer Organisation suchen, erwerben und zuweisen können, damit sie Anrufe von Personen innerhalb und außerhalb der Organisation direkt von Office 365 aus an- und empfangen können. [](#phone-system-in-office-365) Benutzer, denen Telefonnummern zugewiesen sind, können alle Skype for Business-Geräte anrufen, einschließlich VoIP-Telefone, PCs und Mobilgeräte. Sie können ihre Anrufe auch mithilfe der Features zum Stummschalten/Aufheben der Stummschaltung, Anhalten/Fortsetzen, für die Anrufdurchstellung und Anrufweiterleitung steuern, und bei Bedarf einen Notruf tätigen. 
+Skype for Business umfasst Anruffunktionen im Telefonfestnetz (Public Switched Telephone Network, PSTN). Anrufpläne sind ein Add-On zum Telefonsystem, mit dem Sie Telefonnummern für Benutzer in Ihrer Organisation suchen, erwerben und zuweisen können, damit sie Anrufe von Personen innerhalb und außerhalb der Organisation direkt von Office 365 aus an- und empfangen können. [](#phone-system) Benutzer, denen Telefonnummern zugewiesen sind, können alle Skype for Business-Geräte anrufen, einschließlich VoIP-Telefone, PCs und Mobilgeräte. Sie können ihre Anrufe auch mithilfe der Features zum Stummschalten/Aufheben der Stummschaltung, Anhalten/Fortsetzen, für die Anrufdurchstellung und Anrufweiterleitung steuern, und bei Bedarf einen Notruf tätigen. 
   
 Informationen zu den verfügbaren Anrufplänen erhalten Sie unter [Anrufpläne für Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Weitere Informationen und zum Einrichten eines Anrufplans finden Sie unter [Welcher Anrufplan ist für Sie richtig?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

@@ -2,18 +2,19 @@
 title: Planen von Microsoft 365 Compliance – GCC
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Diese Anleitung gilt für IT-Profis, die Bereitstellungen von Office 365 in Us-Bundesstaaten, Bundesstaaten, lokalen, Stammes- oder Gebietsregierungen oder anderen Entitäten, die Daten verarbeiten, die staatlichen Vorschriften und Anforderungen unterliegen, wo die Verwendung von Microsoft 365 Government - GCC geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 702ed14de312588aee1cad6094683fcada2333bc
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cf5a5caa5cf0793141e7498006aff1224fbcc659
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173510"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652629"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planen der Microsoft 365-Compliance – GCC
 
@@ -138,7 +139,7 @@ Um die Anforderungen unserer Government Cloud-Kunden zu erfüllen, gibt es einig
 |                                         | Kommunikationskonformität: Übersetzen von Integritätsinhalten während der Untersuchung | On Engineering Backlog |
 |                                         | Kommunikationskonformität: Erkennung von Burnout und Suizid | On Engineering Backlog |
 |                                         | Informationsbarrieren | On Engineering Backlog |
-|                                         | Verwaltung privilegierter Zugriffe                    | On Engineering Backlog |
+|                                         | Privileged Access Management                    | On Engineering Backlog |
 | **Ermitteln & Antworten**                  | Core eDiscovery: In-Place-Erhaltung                            | Available              |
 |                                         | Kern-eDiscovery: Überwachung                                 | Available              |
 |                                         | Kern-eDiscovery: Fallverwaltung                                 | Available              |

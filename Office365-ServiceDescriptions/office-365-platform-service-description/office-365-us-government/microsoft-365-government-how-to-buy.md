@@ -2,18 +2,19 @@
 title: Kaufempfehlungen für Microsoft 365 Government
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über Microsoft 365 Government und beschreibt Kaufoptionen.
-ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173000"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653447"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government – Kaufen
 
@@ -89,7 +90,7 @@ Weitere Informationen zu den in Microsoft 365 Government verfügbaren Diensten f
 
 - [Office 365 Government-Dienstbeschreibung](office-365-us-government.md)
 - [Enterprise Mobility + Security for US Government -Dienstbeschreibung](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender for Endpoint für Us Government-Kunden](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Microsoft Defender für Endpunkt für Kunden der US-Regierung](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams for Government – GCC-Bereitstellungen](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government – GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams for Government – DoD-Bereitstellungen](/MicrosoftTeams/plan-for-government-dod)
@@ -174,7 +175,7 @@ Weitere Informationen zu Microsoft 365 Government finden Sie in den folgenden Re
 
 - [Office 365 Government-Dienstbeschreibung](office-365-us-government.md)
 - [Enterprise Mobility + Security for US Government -Dienstbeschreibung](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender for Endpoint für Us Government-Kunden](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Microsoft Defender für Endpunkt für Kunden der US-Regierung](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams for Government – GCC-Bereitstellungen](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government – GCC High deployments](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams for Government – DoD-Bereitstellungen](/MicrosoftTeams/plan-for-government-dod)

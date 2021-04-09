@@ -2,6 +2,7 @@
 title: Einrichtung und Verwaltung in Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: In diesem Artikel werden die Verwaltungssteuerelemente und -unterstützung beschrieben, die verfügbar sind, um Exchange Online-Einstellungen anzupassen und die Exchange Online-Umgebung einer Organisation auf dem laufenden zu halten. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
-ms.openlocfilehash: 169752df12564131e4b5fb0f95b94f62273cd5ff
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173670"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652729"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Einrichtung und Verwaltung in Exchange Online
 

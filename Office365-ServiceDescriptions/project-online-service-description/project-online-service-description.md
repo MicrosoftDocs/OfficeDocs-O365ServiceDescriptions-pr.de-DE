@@ -2,6 +2,7 @@
 title: Microsoft Project – Dienstbeschreibung
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Onlinelösung für das Projektportfoliomanagement (PROJECT Portfolio Management, PPM) und die tägliche Arbeit. Project Online, das über Office 365 zur Verfügung gestellt wird, bietet leistungsstarke Projektverwaltungsfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolioinvestitionen – von nahezu jedem Beliebigen Gerät aus. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 992da5d280066914e1744ec31cd8d1ca341a98dd
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215808"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652259"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -27,7 +28,7 @@ ms.locfileid: "51215808"
 Microsoft Project bietet die folgenden Anwendungen, um die Anforderungen Ihrer Organisation an die Projekt- und Arbeitsverwaltung zu erfüllen:
 
 - Project für das Web
-- Microsoft Project Online 
+- Project Online 
 - Project Online-Desktopclient
 
 Dieser Artikel hilft Ihnen zu verstehen, welche Anwendungen in jedem Project-Abonnement bereitgestellt werden und welche Funktionen die einzelnen Anwendungen bieten.
@@ -40,7 +41,7 @@ Project for the web baut auf der Microsoft Power Platform auf. Die Power Platfor
 
 Project for the web ist über drei Abonnements verfügbar: Project Plan 1, Project Plan 3 und Project Plan 5. In [Project für die Webfeatures aufgeführte Features](#project-for-the-web-features) interagieren nur mit Daten im Project for the Web Data Store.
 
-### <a name="project-online"></a>Microsoft Project Online
+### <a name="project-online"></a>Project Online
  
 Project Online ist eine flexible Onlinelösung für Project Portfolio Management (PPM) und tägliche Arbeit. Project Online bietet leistungsstarke Projektverwaltungsfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolioinvestitionen von nahezu jedem Beliebigen &mdash; Gerät aus. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
 
@@ -80,7 +81,7 @@ Microsoft Project steht über drei verschiedene Abonnements zur Verfügung, um d
 |Produkt | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project für das Web |**x**  | **x x** | **x x** |
-|Microsoft Project Online |**x** |**x x**| **x x x** |
+|Project Online |**x** |**x x**| **x x x** |
 |Project Online-Desktopclient | |**x**|**x**|
 
 In der obigen Tabelle gibt die Anzahl der Prüfungen (**x**) die allgemeine Ebene der Funktionen an, die von einem Plan bereitgestellt werden. Beispielsweise bietet Plan 5 für Project Online mehr Funktionen als Plan 3.
@@ -190,7 +191,7 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Project 
 |Benutzerverwaltung | Verwalten von Benutzer- und Gruppenrollen und -berechtigungen auf Projekt-, Team- und Organisationsebene. | Nein | Ja |
 |Dienstverwaltung | Planen, Installieren und Konfigurieren, Warten und Erweitern Ihrer Microsoft Project-Umgebung als Teil Ihrer Office 365<sup>1-Umgebung.</sup> | Nein | Ja |
 
-#### <a name="notes"></a>Notizen
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> Erfordert ein kommerzielles Office- oder Microsoft 365-Abonnement.</br>
 <sup>2</sup> Azure Boards separat erworben.</br>
@@ -300,7 +301,7 @@ Project für das Web hat einige Einschränkungen, die in der folgenden Tabelle b
 |Max. Dauer des Sammelvorganges | 3650 Tage (10 Jahre) |
 |Max. Ressourcen, die einem Vorgang zugewiesen werden können | 20 Ressourcen |
 |Unterstützter Datumsbereich für Vorgang | 01.01.1984 &ndash; 31.12.2149 |
-|**Projekt** ||
+|**Project** ||
 |Max. Gesamtaufgaben für das Projekt | 500 |
 |Max. Gesamtdauer des Projekts | 3650 Tage (10 Jahre) |
 |Max. Gesamtressourcen für das Projekt | 150 |

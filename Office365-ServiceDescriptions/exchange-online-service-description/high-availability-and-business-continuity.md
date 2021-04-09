@@ -2,6 +2,7 @@
 title: Hohe Verfügbarkeit und Geschäftskontinuität
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online bietet umfassende Aufbewahrungs- und Wiederherstellungsunterstützung für die E-Mail-Infrastruktur einer Organisation. Dazu zählen die Postfachreplikation in Datencentern und die Möglichkeit, gelöschte Postfächer und gelöschte Elemente wiederherzustellen.
-ms.openlocfilehash: e205f26bfa611e388cc22557db98eeb84505ef9c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5415499e85d0e6fb0334e2e23abc435d0df9d2ab
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173680"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653337"
 ---
 # <a name="high-availability-and-business-continuity"></a>Hohe Verfügbarkeit und Geschäftskontinuität
 
