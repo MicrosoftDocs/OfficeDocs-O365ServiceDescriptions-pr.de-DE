@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich ständig entwickelnden Anforderungen des öffentlichen Us-Amerikanischen Sektors hat Microsoft Office 365 US Government-Pläne (oder Office 365 Government) erstellt. Dieser Artikel enthält eine Übersicht über features, die speziell für Office 365 Government US-Umgebungen sind.
-ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: d72294f222850b5b3d2705302f578d9a67f6075d
+ms.sourcegitcommit: c64da86e181eb61e622c2f29e1ab994b5de6894a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767485"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857825"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -401,11 +401,11 @@ Die folgenden #A0 sind in den #A1 verfügbar. Einige cloudbasierte Funktionen si
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) ist vollständig in den Government Clouds  verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:|**GCC**|**GCC High**|**DOD**|
 |Recherche|Nein|Nein|Nein|
 |Intelligente digitale Freihandeingabe|Nein|Nein|Nein|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) ist vollständig in den Government Clouds  verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:|**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) ist vollständig in den Government Clouds verfügbar, mit Ausnahme der folgenden Features, die nicht in allen Government Clouds verfügbar sind, wie in der folgenden Tabelle angegeben.|**GCC**|**GCC High**|**DOD**|
 |Office-Sounds (einige)|Nein|Nein|Nein|
 |Dynamic Data Exchange (DDE) standardmäßig deaktiviert|Nein|Nein|Nein|
-|Diktat|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) ist vollständig in den Government Clouds  verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:|**GCC**|**GCC High**|**DOD**|
+|Diktat|Ja|Ja|No<sup>1</sup>|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) ist vollständig in den Government Clouds verfügbar, mit Ausnahme der folgenden Features, die nicht in allen Government Clouds verfügbar sind, wie in der folgenden Tabelle angegeben.|**GCC**|**GCC High**|**DOD**|
 |Intelligentes Nachschlagen|Nein|Nein|Nein|
 |Office-Sounds (einige)|Nein|Nein|Nein|
 |3D-Modelle und eingebettete 3D-Animationen|Nein|Nein|Nein|
@@ -418,7 +418,7 @@ Die folgenden #A0 sind in den #A1 verfügbar. Einige cloudbasierte Funktionen si
 |Versionsverlauf|Nein|Nein|Nein|
 |Office 365-Gruppen|Nein|Nein|Nein|
 |Echtzeitzusammenarbeit (Anwesenheit, regelmäßige Gemeinsame Dokumentautorisierung, Dokumentchat)|Nein|Nein|Nein|
-|Diktat|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
+|Diktat|Ja|Ja|No<sup>1</sup>|
 |Wiederverwenden von Folien|Nein|Nein|Nein|
 |**Microsoft Whiteboard** in Government Clouds ist derzeit nur auf Hub-Clients und nicht auf dem Desktop verfügbar.|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |Einfügen von Notizen, Text und Bildern|Ja<sup>2</sup> <br/>|Ja<sup>2</sup> <br/>|Ja<sup>2</sup> <br/>|
@@ -431,7 +431,7 @@ Die folgenden #A0 sind in den #A1 verfügbar. Einige cloudbasierte Funktionen si
 |Anwesenheit in Echtzeit|Nein|Nein|Nein|
 |Reaktionen auf Inhalte|Nein|Nein|Nein|
 |Board gallery of whiteboards, including shared with you|Nein|Nein|Nein|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) ist vollständig in den Government Clouds  verfügbar, mit Ausnahme der folgenden Features, die derzeit nicht verfügbar sind:|**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) ist vollständig in den Government Clouds verfügbar, mit Ausnahme der folgenden Features, die nicht in allen Government Clouds verfügbar sind, wie in der folgenden Tabelle angegeben.|**GCC**|**GCC High**|**DOD**|
 |Intelligentes Nachschlagen|Nein|Nein|Nein|
 |Recherche|Nein|Nein|Nein|
 |Office-Sounds|Nein|Nein|Nein|
@@ -447,7 +447,7 @@ Die folgenden #A0 sind in den #A1 verfügbar. Einige cloudbasierte Funktionen si
 |Versionsverlauf|Nein|Nein|Nein|
 |Office 365-Gruppen|Nein|Nein|Nein|
 |Kontextchat mit Mitautoren: Chat mit Mitautoren innerhalb des Dokuments|Nein|Nein|Nein|
-|Diktat|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
+|Diktat|Ja|Ja|No<sup>1</sup>|
 
 Informationen zur Verfügbarkeit von Features für Microsoft Teams in GCC/GCC High/DoD finden Sie in der [Microsoft Teams-Dienstbeschreibung](../../teams-service-description.md).
 > <sup>1</sup> Verfügbarkeit wird in Kürze verfügbar sein.
