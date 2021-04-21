@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält Lizenzierungsleitfaden für Microsoft 365-Compliance, um potenzielle Dienstunterbrechungen aufgrund des nicht lizenzierten Zugriffs zu vermeiden.
-ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652659"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900765"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365-Lizenzierungsleitfass für die &amp; Sicherheitskonformität
 
@@ -26,7 +26,7 @@ Für die Zwecke dieses Artikels ist ein Dienst auf Mandantenebene ein Onlinedien
 > [!NOTE]
 > Einige Mandantendienste sind derzeit nicht in der Lage, die Vorteile auf bestimmte Benutzer zu beschränken. Es sollten Anstrengungen unternommen werden, um die Dienstvorteile auf lizenzierte Benutzer zu beschränken. Dies hilft Ihnen, potenzielle Dienstunterbrechungen in Ihrer Organisation zu vermeiden, sobald Zielgruppenfunktionen verfügbar sind.
 
-Laden Sie den detaillierten Microsoft 365 Compliance Licensing Comparison herunter, um die Optionen für die Lizenzierung Ihrer Benutzer anzuzeigen, um von Microsoft 365-Compliancefeatures ab dem 1. April 2020 zu profitieren. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
+Laden Sie den detaillierten Microsoft 365 Compliance Licensing Comparison herunter, um die Optionen für die Lizenzierung Ihrer Benutzer anzuzeigen, um von Microsoft 365-Compliancefeatures zu profitieren. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -218,7 +218,7 @@ Standardmäßig sind Microsoft Defender for Endpoint-Features auf Mandantenebene
 
 Microsoft Defender for Endpoint-Administratoren können rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC) verwenden, um Rollen und Gruppen innerhalb des Sicherheitsbetriebsteams zu erstellen, um den entsprechenden Zugriff auf das Microsoft Defender Security Center zu gewähren. Weitere Informationen finden Sie unter [Verwalten des Portalzugriffs mithilfe der rollenbasierten Zugriffssteuerung](/windows/security/threat-protection/microsoft-defender-atp/rbac).
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Analyse der Datenklassifizierung in Microsoft 365: Übersicht über den &amp; Inhaltsaktivitäts-Explorer  
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Analyse der Datenklassifizierung in Microsoft 365: Übersicht über den &amp; Inhaltsaktivitäts-Explorer
 
 Analysefunktionen für die Datenklassifizierung sind in der Microsoft 365 Compliance Center-Erfahrung verfügbar. Übersicht zeigt die Speicherorte digitaler Inhalte und die gängigsten Typen und Bezeichnungen für vertrauliche Informationen. Der Inhalts-Explorer bietet Einblick in Menge und Typen vertraulicher Daten und ermöglicht Benutzern das Filtern nach Bezeichnung oder Vertraulichkeitstyp, um eine detaillierte Ansicht der Speicherorte zu erhalten, an denen die vertraulichen Daten gespeichert werden. Der Aktivitäts-Explorer zeigt Aktivitäten im Zusammenhang mit vertraulichen Daten und Bezeichnungen an, z. B. Herabstufungen von Bezeichnungen oder externe Freigaben, die Ihre Inhalte riskant machen könnten.
 

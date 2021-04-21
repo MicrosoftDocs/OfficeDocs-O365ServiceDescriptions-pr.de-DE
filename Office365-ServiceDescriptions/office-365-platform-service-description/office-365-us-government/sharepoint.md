@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Erfahren Sie mehr über die Verfügbarkeit von SharePoint-Features für Us Government Cloud-Kunden.
-ms.openlocfilehash: 8688c80ee2214ad77f4c27fa79dd38dca3c6cbb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653147"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900775"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint für US-Regierungsumgebungen
 
@@ -75,6 +75,7 @@ Hier sind die Unterschiede zwischen den Websites und Inhaltsfeatures für kommer
 - Die Graph-Funktionalität in SharePoint Online für GCC High ist derzeit deaktiviert. Alle Dienste, die auf Microsoft Graph angewiesen sind, sind derzeit möglicherweise nicht verfügbar.
 - Features, die auf Verbindungen mit Internetdiensten beruhen, z. B. die Registerkarte "Bestandsbilder", funktionieren nicht wie erwartet
 - Benachrichtigungen für Datei- und Websiteaktivitäten sind nicht verfügbar
+- Das Newsweb part wird nur Nachrichten von der aktuellen Website ziehen. Nachrichten von ausgewählten Websites oder Hub-Newsrollups von zugeordneten Websites sind für GCC High- und DoD-Kunden nicht verfügbar.
 
 ## <a name="search-features"></a>Suchfeatures
 
