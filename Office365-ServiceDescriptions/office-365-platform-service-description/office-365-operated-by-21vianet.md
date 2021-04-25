@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365, betrieben von 21Vianet, wurde entwickelt, um die Anforderungen an sichere, zuverlässige und skalierbare Clouddienste in China zu erfüllen. Dieser Dienst verfügt über die Technologie, die Microsoft an 21Vianet lizenziert hat.
-ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: be29bc918e8db388e51d44e39dab88018706bbda
+ms.sourcegitcommit: 1bdc4b442c34cfd291872760d5b7a01b207cd716
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653207"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52001791"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365, betrieben von 21Vianet
 
@@ -67,7 +67,7 @@ Microsoft 365 Compliance Center bietet einfachen Zugriff auf die Tools, die Sie 
 
 - Verhinderung von Datenverlust (Data Loss Prevention, DLP)
 - Aufbewahrung
-- Überwachung
+- Überwachung mit Daten aus Azure Active Directory und Exchange
 - Microsoft Information Protection (MIP) und Vertraulichkeitsbezeichnungen für Office-Clients und Outlook mithilfe des AIP Unified Label-Clients
 
 > [!NOTE]
