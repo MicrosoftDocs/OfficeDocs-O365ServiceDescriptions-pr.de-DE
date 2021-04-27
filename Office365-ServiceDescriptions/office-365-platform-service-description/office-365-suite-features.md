@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung webbasierter Tools, mit deren Hilfe Sie auf vielen Geräten und mehreren Office 365-Diensten sicher zusammenarbeiten und kommunizieren können. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
+ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653177"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "52023570"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 E5-Suite – Funktionen
 
@@ -53,7 +53,7 @@ Verwenden Sie die Microsoft Graph-API zum schnellen Erstellen von App, die über
 
 Microsoft Lists ist eine Microsoft 365-App, mit der Sie Informationen nachverfolgen und Arbeit organisieren können. Listen sind einfach, intelligent und flexibel, sodass Sie auf dem Wichtigsten für Ihr Team bleiben können. Nachverfolgen von Problemen, Ressourcen, Routinen, Kontakten, Inventaren und mehr mithilfe von anpassbaren Ansichten und Intelligenten Regeln, um alle Benutzer zu benachrichtigten und synchron zu halten. Mit fertigen Vorlagen können Sie Schnelllisten online, in unserer neuen mobilen App oder in Microsoft Teams starten. Da es Teil von Microsoft 365 ist, können Sie sich auf unternehmensbereite Sicherheit und Compliance verlassen.
 
-Weitere Informationen finden Sie unter:
+Weitere Informationen finden Sie hier:
 
 * [Öffentliches **Microsoft Lists-Ressourcencenter**](https://aka.ms/MSLists)
 * [Öffentliches **Microsoft Lists Adoption Center**](https://aka.ms/ListsAdoption)
@@ -78,7 +78,7 @@ Microsoft Sway ist eine professionelle digitale Storytelling-App für Unternehme
 
 Microsoft 365 Apps for Enterprise ist die immer aktuelle Suite von Desktop-Apps, die Sie bereits kennen (einschließlich Word, PowerPoint, Excel, Outlook und Teams), die als Abonnement verfügbar sind. Microsoft 365 Apps for Enterprise umfasst exklusive intelligente Funktionen wie [**Ideen in Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915) [**Researcher in Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)Zusammenarbeit in [**Echtzeit,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams als Hub für Teamarbeit und erweiterte Sicherheitsfeatures. Als benutzerbasierte Lizenz können Sie Office auf bis zu fünf PCs oder Macs, fünf Tablets und fünf mobilen Geräten bereitstellen. Mit 1 TB OneDrive-Cloudspeicher können Sie von überall aus auf Ihre Dateien zugreifen und an diesen zusammenarbeiten.
 
-Weitere Informationen finden Sie unter:
+Weitere Informationen finden Sie hier:
 
 * [Übersichtsseite](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [Produktseite (zu erwerben)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
@@ -111,6 +111,18 @@ Mit Microsoft To Do können Kunden:
 * Freigeben von Listen und Zuweisen von Aufgaben für Kollegen, Freunde und Familie
 
 Weitere Informationen finden Sie unter: [To Do](https://to-do.microsoft.com/)
+
+## <a name="windows-update-for-business-deployment"></a>Windows Update for Business-Bereitstellung  
+
+Der Windows Update for Business-Bereitstellungsdienst bietet Kontrolle über die Genehmigung, Planung und den Schutz von Inhalten, die von Windows Update übermittelt werden. Es ist für die Zusammenarbeit mit Ihren vorhandenen Windows Update for Business-Richtlinien konzipiert, um umfassende Kontrolle über einzelne Updates zu bieten. Zu den vom Bereitstellungsdienst bereitgestellten Funktionen gehören:
+
+* Planen von Bereitstellungen für Featureupdates, die an einem bestimmten Datum beginnen
+* Stage deployments over a period of days or weeks by using rich expressions
+* Umgehen vordefinierter Windows Update for Business-Richtlinien zur sofortigen Bereitstellung eines Sicherheitsupdates in Ihrer Organisation
+* Sicherstellen der Abdeckung von Hardware und Software in Ihrer Organisation durch Bereitstellungen, die auf Ihre eindeutige Gerätegesamtheit zugeschnitten sind
+* Automatisches Identifizieren und Anhalten von Bereitstellungen für Geräte, die wahrscheinlich von einem Schutz hold [betroffen sind](/windows/deployment/update/safeguard-holds)
+
+Diese Funktionen werden über Microsoft Graph-APIs und die Integration in Microsoft Endpoint Manager verfügbar gemacht. Weitere Informationen finden Sie unter [Windows Update for Business deployment service Overview](https://aka.ms/wufb/deployment-service).
 
 ## <a name="whiteboard"></a>Whiteboard
 
