@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Die in diesem Thema aufgeführten Features sind eine Sammlung webbasierter Tools, mit deren Hilfe Sie auf vielen Geräten und mehreren Office 365-Diensten sicher zusammenarbeiten und kommunizieren können. Diese Features dienen zum Einrichten neuer Verbindungen in Ihrer Organisation durch die Vereinheitlichung der Erstellung, Speicherung und Verwaltung digitaler Inhalte mithilfe von Tools für soziale Netzwerke zur Erkennung und Freigabe von Informationen zwischen Benutzern.
-ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
-ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
+ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52023570"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074476"
 ---
 # <a name="microsoft-365-suite-features"></a>Microsoft 365 E5-Suite – Funktionen
 
@@ -112,7 +112,7 @@ Mit Microsoft To Do können Kunden:
 
 Weitere Informationen finden Sie unter: [To Do](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment"></a>Windows Update for Business-Bereitstellung  
+## <a name="windows-update-for-business-deployment-service"></a>Windows Update for Business-Bereitstellungsdienst 
 
 Der Windows Update for Business-Bereitstellungsdienst bietet Kontrolle über die Genehmigung, Planung und den Schutz von Inhalten, die von Windows Update übermittelt werden. Es ist für die Zusammenarbeit mit Ihren vorhandenen Windows Update for Business-Richtlinien konzipiert, um umfassende Kontrolle über einzelne Updates zu bieten. Zu den vom Bereitstellungsdienst bereitgestellten Funktionen gehören:
 

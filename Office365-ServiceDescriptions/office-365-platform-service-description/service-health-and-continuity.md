@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Microsoft-Administratoren können den Status der Dienste anzeigen und herausfinden, wann Die Wartung geplant ist. Dienstinte health information is at any time by signing in.
-ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ec8e03d31a300755ab741723b81651d6d6969b37
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652449"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074496"
 ---
 # <a name="service-health-and-continuity"></a>Dienststatus und Verfügbarkeit
 
@@ -43,6 +43,14 @@ Es gibt zwei Arten von Benachrichtigungen über Zeiten, zu denen Dienste möglic
 ### <a name="recent-worldwide-uptimes"></a>Aktuelle weltweite Uptimes
 
 Der Wechsel zu einem Clouddienst sollte nicht bedeuten, dass die Fähigkeit verloren geht, zu wissen, was los ist. Bei Office 365 nicht. Wir möchten in unseren Vorgängen transparent sein, damit Sie den Status Ihres Diensts überwachen, Probleme nachverfolgen und einen historischen Überblick über die Verfügbarkeit haben können. In den folgenden Tabellen sind aktuelle Daten zur weltweiten Uptime dargestellt.
+
+**2021**
+
+| F1 | F2 | Q3 | F4 |
+|:-----|:-----|:-----|:-----|
+| 99.97% <br/> | | | |
+
+<br>
 
 **2020**
 

@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Erfahren Sie mehr über die Dienst- und Featureverfügbarkeit von Microsoft Teams in Microsoft 365- und Office 365-Plänen.
-ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 721c4bd99fd8f81e471ea79e6725c2d6c53d1791
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767455"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074486"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams Dienstbeschreibung
 
@@ -59,7 +59,7 @@ Die aktuelle, vollständige Liste der Teams-Features in Microsoft 365- und Offic
 <sup>1</sup> Microsoft Teams in GCC-High und DOD unterstützen 2500 Mitglieder in einem einzelnen Team.<br/>
 <sup>2</sup> Microsoft Planner ist derzeit nicht für den Zugriff in privaten Kanälen verfügbar.<br/>
 <sup>3</sup> Direktes Routing muss so konfiguriert sein, dass Voice- und Audiokonferenzen von Microsoft Teams in GCCH und DoD funktionieren.<br/>
-<sup>4</sup> Anwendungen von Drittanbietern und die Anwendungsveröffentlichung sind derzeit nicht in diesen Clouds verfügbar.<br/>
+<sup>4</sup> Anwendungen von Drittanbietern und die Anwendungsveröffentlichung sind derzeit nicht in diesen Clouds verfügbar. Connectors werden in GCCH und DOD nicht unterstützt.<br/>
 <sup>5</sup> Liveereignisse sind derzeit nicht in GCC-High oder DOD verfügbar.<br/>
 
 ### <a name="cloud-voice-features"></a>Cloud-Sprachfeatures
@@ -68,7 +68,7 @@ Für Audiokonferenzen muss Ihre Organisation eine Lizenz für Audiokonferenzen e
 
 ### <a name="live-events"></a>Liveereignisse
 
-Dieses Angebot in Office 365 ersetzt die eingestellte Skype-Besprechungsübertragung. Funktionen für Liveereignisse stehen für Lizenzierungspläne zur Verfügung, wie im Stream-Dienst detailliert. Weitere Informationen finden Sie in der [Microsoft Stream-Lizenzierungsübersicht](/stream/license-overview). Auf den Liveereignissedienst kann über Stream, Yammer oder Microsoft Teams zugegriffen werden. Weitere Informationen zu Liveereignisfunktionen finden Sie unter [Liveereignisse in Microsoft 365 in Yammer, Microsoft Teams und Microsoft Stream](/stream/live-event-m365).
+Dieses Angebot in Office 365 ersetzt die eingestellte Skype-Besprechungsübertragung. Funktionen für Liveereignisse stehen für Lizenzierungspläne zur Verfügung, wie im Stream-Dienst detailliert. Weitere Informationen finden Sie in der [Microsoft Stream-Lizenzierungsübersicht](/stream/license-overview). Auf den Liveereignissedienst kann über Stream, Yammer oder Microsoft Teams zugegriffen werden. Weitere Informationen zu Liveereignisfunktionen finden Sie unter [Liveereignisse in Microsoft 365 in Yammer, Microsoft Teams und Microsoft Stream](/stream/live-event-m365). Weitere Informationen zur Planung von Liveereignissen, einschließlich Lizenzanforderungen, finden Sie unter [Plan for live events in Microsoft Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events).
 
 ## <a name="learn-more"></a>Weitere Informationen
 
