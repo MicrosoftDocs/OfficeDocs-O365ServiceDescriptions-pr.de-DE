@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie, welche OneDrive-Features in welchen Plänen zur Verfügung stehen.
-ms.openlocfilehash: e4c83a4a8310375940737957381c2cf5fca2c3fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
+ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652319"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264793"
 ---
 # <a name="onedrive-service-description"></a>OneDrive-Dienstbeschreibung
 
@@ -50,6 +50,7 @@ Informationen zu den Anforderungen an die OneDrive-Synchronisierungs-App und die
 - Microsoft 365 Apps for Business
 - Microsoft 365 Business Standard
 - Microsoft 365 Apps for Enterprise
+- Office 365 A1
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Microsoft 365 Business Basic für gemeinnützige Organisationen
@@ -61,11 +62,10 @@ Informationen zu den Anforderungen an die OneDrive-Synchronisierungs-App und die
 
 **Ab 1 TB, bis unbegrenzt**
  
-1 TB pro Benutzer für Abonnements mit weniger als 5 Benutzern. Für Abonnements ab 5 Benutzern (kann jede beliebige Kombination berechtigter Pläne sein) stellt Microsoft zunächst 1 TB pro Benutzer bereit, die von Administratoren auf bis zu 5 TB pro Benutzer erhöht werden können. (Weitere Informationen hierzu finden Sie unter [Festlegen des Standardspeicherplatzes für OneDrive-Benutzer](/onedrive/set-default-storage-space).) Wenn Sie zusätzlichen Speicher anfordern möchten, müssen Administratoren sich diesbezüglich an den Microsoft-Support wenden.
+1 TB pro Benutzer für Abonnements mit weniger als fünf Benutzern. Für Abonnements ab fünf Benutzern (kann jede beliebige Kombination berechtigter Pläne sein) stellt Microsoft zunächst 1 TB pro Benutzer bereit, die von Administratoren auf bis zu 5 TB pro Benutzer erhöht werden können. (Weitere Informationen hierzu finden Sie unter [Festlegen des Standardspeicherplatzes für OneDrive-Benutzer](/onedrive/set-default-storage-space).) Wenn Sie zusätzlichen Speicher anfordern möchten, müssen Administratoren sich diesbezüglich an den Microsoft-Support wenden.
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
-- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
@@ -98,7 +98,7 @@ Um den Speicherplatz und die Nutzung für einen einzelnen Benutzer anzuzeigen, g
 
 OneDrive-Speicherplatz wird pro Benutzer bereitgestellt und richtet sich an die Anforderungen einzelner Benutzer.
   
-Das Speichern von anderen Daten als den Arbeitsdateien eines einzelnen Benutzers, einschließlich Sicherungen und Daten auf Abteilungs- und Organisationsebene, wird nicht unterstützt. Ebenso wenig wird das Zuweisen einer Lizenz vom Typ „Pro Benutzer“ für Bots, Abteilungen oder andere nicht menschliche Entitäten unterstützt. SharePoint ist die beste Lösung für das komplexere Content Management und die Zusammenarbeit, einschließlich des Speicherns und Verwaltens von Dateien, Kommunikation und Intranetwebsites über ein Team oder eine Organisation hinweg.
+Das Speichern von anderen Daten als den persönlichen Arbeitsdateien eines einzelnen Benutzers, einschließlich Sicherungen und Daten auf Abteilungs- und Organisationsebene, wird nicht unterstützt. Ebenso wenig wird das Zuweisen einer Lizenz vom Typ „Pro Benutzer" für Bots, Abteilungen oder andere nicht menschliche Entitäten unterstützt. SharePoint ist die beste Lösung für das komplexere Content Management und die Zusammenarbeit, einschließlich des Speicherns und Verwaltens von Dateien, Kommunikation und Intranetwebsites über ein Team oder eine Organisation hinweg.
   
 ## <a name="onedrive-limits"></a>OneDrive-Grenzwerte
 
