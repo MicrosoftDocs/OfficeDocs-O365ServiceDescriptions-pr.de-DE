@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online ist eine flexible Onlinelösung für projektportfolioverwaltung (PPM) und tägliche Arbeit. Über Office 365 bietet Project Online leistungsstarke Projektverwaltungsfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolioinvestitionen – von nahezu jedem Beliebigen Gerät aus. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
-ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
+ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52247973"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52266365"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -122,6 +122,10 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Project 
 |Anpassen von Ansichten und <sup>Formularen 4</sup> | Passen Sie nur Ansichten und Formulare in der Standardanwendung Project an. | Nur anzeigen | Ja | Ja | Ja |
 |Verwenden benutzerdefinierter Spalten | Anzeigen, Hinzufügen, Aktualisieren oder Löschen von Daten in einer Spalte, die einer Tabelle hinzugefügt wurde. | Nur anzeigen | Nur anzeigen | Ja | Ja |
 |Verwenden benutzerdefinierter <sup>Tabellen 5</sup> | Erstellen und definieren Sie benutzerdefinierte Tabellen, um zusätzliche Daten zu speichern, die Sie für Ihre Projekte, Portfolios usw. benötigen. | Nein | Nur anzeigen | Ja | Ja |
+|**Power Automate Workflows und Geschäftsprozessabläufe** <sup>7</sup> ||||||
+| | Definieren und verwenden Power Automate Cloudflüsse, die Project, einschließlich benutzerdefinierter Tabellen und Spalten, verwenden. | Nein | Ja | Ja | Ja |
+| | Definieren Power Automate Geschäftsprozessabläufe, die Project, einschließlich benutzerdefinierter Tabellen und Spalten, verwenden. | Nein | Nein | Ja | Ja |
+| | Verwenden Power Automate Geschäftsprozessabläufe, die Project verwenden. | Nein | Ja | Ja | Ja |
 |**Sicherheit und Benutzerverwaltung**||||||
 |Office Moderne Gruppen | Erstellen Sie ein Projektteam für die Zusammenarbeit und einfaches Einrichten einer Sammlung von Ressourcen, die Teammitglieder freigeben können. | Ja | Ja | Ja | Ja |
 |**Apps von Drittanbietern**||||||
@@ -199,7 +203,14 @@ In diesem Abschnitt aufgeführte Features interagieren nur mit Daten im Project 
 <sup>4</sup> Das Erstellen und Verwenden separater Power Apps über die out-of-the-box-Project-Anwendung hinaus, die auf Project für das Web oder Project Online-Kundendaten zutritt, erfordert ein separates Power Apps-Abonnement.</br>
 <sup>5</sup> Auf 5 benutzerdefinierte Tabellen beschränkt.</br>
 <sup>6</sup> Project Online lizenzierung für externe Benutzer folgt derselben Richtlinie wie für interne Benutzer. Jede Interaktion auf einer Project Online erfordert ein Project Plan 3 oder Project Plan 5 Abonnement.</br>
-<sup>7 Das</sup> Automatisieren und Integrieren von Geschäftsprozessen in Power Automate Project für die Webdaten erfordert ein Power Automate-Abonnement und ein Project Plan 3- oder Project Plan 5-Abonnement.</br>
+<sup>7</sup> Power Automate innerhalb Project ist auf den Kontext der Project beschränkt. Dies bedeutet, dass sowohl für Trigger als auch für Aktionen Flussberechtigungen, die im Lieferumfang enthalten sind, Project können:
+
+- Verbinden auf eine beliebige Datenquelle innerhalb der Nutzungsrechte der Project anwendung:
+  - Datenquellen, die über Standardconnectors verfügbar sind
+  - Project daten über den Microsoft Dataverse-Connector
+- Direkt aus der Anwendung Project (über integrierte Trigger/Aktion) ausgelöst werden
+
+Wenn der Fluss isoliert ist und nichts mit der Project zu tun hat, muss eine Plattformlizenz erworben werden.</br>
 <sup>8</sup> Benutzer mit einem Project Plan 3 oder Project Plan 5 können Anforderungen an die Ressourcenbindung übermitteln. Ressourcenengagementanforderungen können nicht überprüft, erfüllt oder genehmigt werden.</br>
 <sup>9</sup> Benutzer mit einem Project Plan 5 können Ressourcenbindungsanforderungen überprüfen, erfüllen und genehmigen.</br>
 <sup>10</sup> Active Directory erfordert ein separates Abonnement. </br>
