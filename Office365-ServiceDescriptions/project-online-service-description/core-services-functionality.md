@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
-description: Die folgenden Features für die Hauptfunktionen der Dienste sind in Project Online verfügbar.
+description: Die folgenden Features für die Hauptfunktionen der Dienste sind in Project Online.
 ms.openlocfilehash: 685c14a18af853c206bb9db0aaa294b7f96b1dfe
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652289"
 ---
 # <a name="core-services-functionality"></a>Hauptfunktionalitäten des Diensts
 
-Die folgenden Features für die Hauptfunktionen der Dienste sind in Project Online verfügbar.
+Die folgenden Features für die Hauptfunktionen der Dienste sind in Project Online.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen [finden Project Online Dienstbeschreibung](project-online-service-description.md).
   
 ## <a name="active-directory-integration"></a>Active Directory-Integration
 
@@ -33,7 +33,7 @@ Project Online und Project Server 2013 stellen Features für Administratoren zum
   
 ## <a name="getting-started"></a>Erste Schritte
 
-Inhalte für erste Schritte sind für Project Online verfügbar. Siehe [Erste Schritte mit Project Online](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
+Inhalte für erste Schritte stehen für Project Online. Siehe [Erste Schritte mit Project Online](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Problem- und Risikoverwaltung (für Teammitglieder)
 
@@ -53,11 +53,11 @@ Wir stehen zu unserem 99,9-prozentigem Zeitversprechen mit einer branchenführen
   
 ## <a name="service-updates"></a>Dienstupdates
 
-Wir aktualisieren die Microsoft-Dienste regelmäßig mit neuen Features und Funktionen. Weitere [Informationen finden Sie unter Dienstupdates](../office-365-platform-service-description/service-updates.md).
+Wir aktualisieren regelmäßig Microsoft-Dienste mit neuen Features und Funktionen. Weitere [Informationen finden Sie unter Dienstupdates](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Zusammenarbeit von Teammitgliedern
 
-Durch die Teamzusammenarbeit werden der gesamte Projekterfolg und die Effektivität unterstützt und angekurbelt. Informationen dazu, wie Organisationen mit Project Server 2013 an Projekten zusammenarbeiten können, finden Sie unter [Video: Collaborate with your team](https://go.microsoft.com/fwlink/?LinkId=402628).
+Durch die Teamzusammenarbeit werden der gesamte Projekterfolg und die Effektivität unterstützt und angekurbelt. Informationen dazu, wie Project Server 2013 Organisationen an Projekten zusammenarbeiten können, finden Sie unter [Video: Collaborate with your team](https://go.microsoft.com/fwlink/?LinkId=402628).
   
 ## <a name="time-and-task-management-for-team-members"></a>Zeit- und Aufgabenverwaltung (für Teammitglieder)
 

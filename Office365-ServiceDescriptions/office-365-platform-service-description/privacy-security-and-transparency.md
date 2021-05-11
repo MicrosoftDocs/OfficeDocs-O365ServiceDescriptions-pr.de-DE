@@ -32,7 +32,7 @@ Informationen dazu, wie Microsoft Office 365 Ihre Daten schützt finden Sie unte
   
 Welche Schritte Administratoren für Enterprise, Business, Government und Education ausführen können, um Datenschutzeinstellungen für Office 365 vorzunehmen, wird unter [Advanced Privacy Options for Administrators](https://go.microsoft.com/fwlink/p/?LinkID=285202) beschrieben.
   
-Informationen zu Sicherheit und Datenschutz für andere Microsoft-Dienste, einschließlich Microsoft 365 Apps for Enterprise, finden Sie unter Für welche Onlinedienste gilt [das Trust Center?](https://www.microsoft.com/trustcenter/default.aspx)
+Informationen zu Sicherheit und Datenschutz für andere Microsoft-Dienste, einschließlich Microsoft 365 Apps for Enterprise, finden Sie unter Auf welche Onlinedienste gilt das [Trust Center?](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>Sicherheit
 
@@ -44,7 +44,7 @@ Als Kunde können Sie herausfinden, wo Sich Ihre Daten befinden, wer bei Microso
   
 ## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
-Als eDiscovery (electronic discovery) wird das Identifizieren und Übermitteln elektronischer Informationen bezeichnet, die als Indizien in einem Rechtsstreit verwendet werden können. Advanced eDiscovery baut auf den vorhandenen eDiscovery-Funktionen in Office 365 auf, sodass Sie große, unstrukturierte Datensätze analysieren und die Für einen Rechtsstreit relevante Datenmenge reduzieren können. Sie können die Suchfunktion im Office 365 Compliance Center zum Durchführen einer ersten Suche über alle Inhaltsquellen in Ihrer Organisation verwenden, um die Daten zu ermitteln und zu sammeln, die für einen bestimmten Rechtsfall relevant sein könnten. Anschließend können Sie die Daten mithilfe der Textanalyse, von maschinellem Lernen und Relevanz-/Vorhersagencodierungsschemen der erweiterten eDiscovery analysieren. Weitere Informationen finden Sie unter [Advanced eDiscovery](/microsoft-365/compliance/overview-ediscovery-20).
+Als eDiscovery (electronic discovery) wird das Identifizieren und Übermitteln elektronischer Informationen bezeichnet, die als Indizien in einem Rechtsstreit verwendet werden können. Advanced eDiscovery baut auf den vorhandenen eDiscovery-Funktionen in Office 365 auf, sodass Sie große, unstrukturierte Datensätze analysieren und die Datenmenge reduzieren können, die für einen Rechtsstreit relevant ist. Sie können die Suchfunktion im Office 365 Compliance Center zum Durchführen einer ersten Suche über alle Inhaltsquellen in Ihrer Organisation verwenden, um die Daten zu ermitteln und zu sammeln, die für einen bestimmten Rechtsfall relevant sein könnten. Anschließend können Sie die Daten mithilfe der Textanalyse, von maschinellem Lernen und Relevanz-/Vorhersagencodierungsschemen der erweiterten eDiscovery analysieren. Weitere Informationen finden Sie unter [Advanced eDiscovery](/microsoft-365/compliance/overview-ediscovery-20).
   
 ## <a name="customer-lockbox"></a>Kunden-Lockbox
 
@@ -54,8 +54,8 @@ Kunden-Lockbox ist im Office 365 Enterprise 5-Plan enthalten. Sie können aber a
   
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
-Defender für Office 365 schützt Ihre Organisation vor Schadsoftware und Viren. Defender für Office 365 umfasst Features für [sichere Links,](/office365/securitycompliance/atp-safe-links)sichere [Anlagen,](/office365/securitycompliance/atp-safe-attachments) [Antiphishing](/office365/securitycompliance/atp-anti-phishing)und [Spoof-Intelligenz.](/office365/securitycompliance/learn-about-spoof-intelligence) Sichere Links schützen Ihre Benutzer proaktiv vor schädlichen Hyperlinks in einer Nachricht und bieten bei jeder Auswahl des Links Schutz. Sichere Anlagen schützen vor unbekannter Schadsoftware und Viren und weiterleiten alle Nachrichten und Anlagen, die keine bekannte Viren-/Schadsoftwaresignatur haben, an eine spezielle Umgebung, in der Defender for Office 365 böswillige Absichten erkennen kann. Weitere Informationen zu Defender for Office 365 finden Sie unter [Microsoft Defender for Office 365 service description](../office-365-advanced-threat-protection-service-description.md).
+Defender for Office 365 schützt Ihre Organisation vor Schadsoftware und Viren. Defender for Office 365 [enthält Features für sichere Links,](/office365/securitycompliance/atp-safe-links)sichere [Anlagen,](/office365/securitycompliance/atp-safe-attachments) [Antiphishing](/office365/securitycompliance/atp-anti-phishing)und [Spoof-Intelligenz.](/office365/securitycompliance/learn-about-spoof-intelligence) Sichere Links schützen Ihre Benutzer proaktiv vor schädlichen Hyperlinks in einer Nachricht und bieten bei jeder Auswahl des Links Schutz. Sichere Anlagen schützen vor unbekannter Schadsoftware und Viren und weiterleiten alle Nachrichten und Anlagen, die keine bekannte Viren-/Schadsoftwaresignatur haben, an eine spezielle Umgebung, in der Defender for Office 365 böswillige Absichten erkennen kann. Weitere Informationen zu Defender for Office 365 finden Sie unter [Microsoft Defender for Office 365 service description](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie [unter Microsoft 365 und Office 365 Beschreibung des Plattformdiensts](office-365-platform-service-description.md).

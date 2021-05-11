@@ -24,7 +24,7 @@ ms.locfileid: "51652519"
 
 Sofern Sie Ihren Microsoft Online-Abonnementvertrag einhalten, können Sie die Onlinedienste und dazugehörige Software gemäß der ausdrücklichen Erlaubnis unter [Nutzungsrechte für Microsoft-Onlinedienste](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true) nutzen.
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a>Von 21Vianet betriebene Office 365-Nutzungsrechte
+## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 von 21Vianet-Nutzungsrechten betrieben
 
 Lesen Sie die [Standardvereinbarung für Onlinedienste](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) und die [Nutzungsbedingungen](https://www.21vbluecloud.com/office365/O365-TOU/).
   
@@ -34,6 +34,6 @@ Weitere Informationen zu den Lizenzierungsprogrammen für Organisationen finden 
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie [unter Microsoft 365 und Office 365 Beschreibung des Plattformdiensts](office-365-platform-service-description.md).
   
 

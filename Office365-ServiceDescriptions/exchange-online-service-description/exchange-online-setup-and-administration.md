@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: In diesem Artikel werden die Verwaltungssteuerelemente und -unterstützung beschrieben, die verfügbar sind, um Exchange Online-Einstellungen anzupassen und die Exchange Online-Umgebung einer Organisation auf dem laufenden zu halten. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
+description: In diesem Artikel werden die Verwaltungssteuerelemente und -unterstützung beschrieben, die verfügbar sind, um Exchange Online-Einstellungen anzupassen und die Exchange Online einer Organisation auf dem laufenden zu halten. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
 ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,11 +23,11 @@ ms.locfileid: "51652729"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Einrichtung und Verwaltung in Exchange Online
 
-In diesem Artikel werden die Verwaltungssteuerelemente und -unterstützung beschrieben, die verfügbar sind, um Exchange Online-Einstellungen anzupassen und die Exchange Online-Umgebung einer Organisation auf dem laufenden zu halten. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
+In diesem Artikel werden die Verwaltungssteuerelemente und -unterstützung beschrieben, die verfügbar sind, um Exchange Online-Einstellungen anzupassen und die Exchange Online einer Organisation auf dem laufenden zu halten. Er enthält Informationen über Self-Service-Verwaltungstools und -funktionen, die Organisationen zur Verfügung stehen, Verwaltungszuständigkeiten und Leistungsverpflichtungen von Microsoft sowie Dienst- und Produktupgrades.
   
 ## <a name="self-service-administration-tools"></a>Self-Service-Verwaltungstools
 
-Obwohl Microsoft direkt alle Exchange Online-Rechenzentren steuert und für die Gesamtleistung des Systems verantwortlich ist, kann es nur einen Teil der Elemente steuern, die kombiniert werden, um die Gesamterfahrung für Benutzer zu ermöglichen. Die Organisationen selbst sind für die Netzwerkverbindungen mit den Datencentern, das Fernnetz (WAN, Wide Area Network) des Kunden und die lokalen Netzwerke (LANs, Local Area Networks) des Kunden zuständig. Darüber hinaus sind sie für Benutzergeräte und deren Konfiguration verantwortlich.Sie sind auch für die Verwaltung der erforderlichen Lizenzierung pro Benutzer für alle gewünschten Features zuständig, einschließlich der Fähigkeit, diese Features zu verwalten, solange der Benutzer Zugriff auf die Funktion benötigt.
+Obwohl Microsoft direkt alle Exchange Online steuert und für die Gesamtleistung des Systems verantwortlich ist, kann es nur einen Teil der Elemente steuern, die kombiniert werden, um die Gesamterfahrung für Benutzer zu ermöglichen. Die Organisationen selbst sind für die Netzwerkverbindungen mit den Datencentern, das Fernnetz (WAN, Wide Area Network) des Kunden und die lokalen Netzwerke (LANs, Local Area Networks) des Kunden zuständig. Darüber hinaus sind sie für Benutzergeräte und deren Konfiguration verantwortlich.Sie sind auch für die Verwaltung der erforderlichen Lizenzierung pro Benutzer für alle gewünschten Features zuständig, einschließlich der Fähigkeit, diese Features zu verwalten, solange der Benutzer Zugriff auf die Funktion benötigt.
   
 Exchange Online bietet daher den Kundenadministratoren die im Folgenden beschriebenen Tools, um eine Vielzahl von Aufgaben im Zusammenhang mit Nachrichten zu bewältigen:
   
@@ -43,9 +43,9 @@ Exchange Online bietet daher den Kundenadministratoren die im Folgenden beschrie
 
 Das Microsoft Office 365-Portal, auf [https://portal.office.com](https://portal.office.com), ist die Website, über die Administratoren und Partner Office 365-Dienste erwerben und verwalten. Zudem greifen Benutzer über dieses Portal auf Office 365-Tools für die Zusammenarbeit zu.
   
-### <a name="microsoft-365-admin-center"></a>Microsoft 365 Admin Center
+### <a name="microsoft-365-admin-center"></a>Microsoft 365 Admin Center
 
-Das Microsoft 365 Admin Center ist das Webportal, über das der Dienstadministrator jedes Unternehmens Benutzerkonten und Einstellungen für jeden der Von ihnen abonnierten Microsoft-Dienste verwalten kann. Innerhalb des Microsoft 365 Admin Centers können Administratoren Links zum Exchange Admin Center (EAC) folgen, wo sie spezifische Einstellungen für Exchange Online verwalten können. Weitere Informationen zum Einrichten und Ausführen des Microsoft 365 Admin Centers finden Sie im folgenden Video: [Einführung in Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+Das Microsoft 365 Admin Center ist das Webportal, über das der Dienstadministrator der einzelnen Unternehmen Benutzerkonten und Einstellungen für jede der Microsoft-Dienste verwalten kann, die sie abonnieren. Innerhalb des Microsoft 365 Admin Center können Administratoren Links zum Exchange Admin Center (EAC) folgen, wo sie einstellungen für bestimmte Benutzer Exchange Online. Weitere Informationen zum Einrichten und Ausführen des Microsoft 365 Admin Center finden Sie im folgenden Video: [Introducing Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Exchange-Verwaltungskonsole
 
@@ -102,4 +102,4 @@ Nachdem Microsoft eine Hauptversion von Exchange veröffentlicht hat, haben Kund
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Exchange Online Service description](exchange-online-service-description.md).

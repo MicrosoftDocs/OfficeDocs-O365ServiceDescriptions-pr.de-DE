@@ -53,5 +53,5 @@ Das Microsoft Partner Network engagiert sich dafür, den Anforderungen unserer P
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Microsoft 365- und Office 365-Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zur Funktionsverfügbarkeit Microsoft 365 und Office 365 finden Sie unter [Microsoft 365 und Office 365 Plattformdienstbeschreibung](office-365-platform-service-description.md).
   

@@ -29,7 +29,7 @@ Integrieren Sie vorhandene Geschäftsanwendungen, indem Sie dem Social Graph Dat
   
 ## <a name="browser-extension"></a>Browsererweiterung
 
-Fügt ihrem Browsermenü eine Yammer-Registerkarte hinzu und ermöglicht es Ihnen, eine beliebige Webseite, die Sie anzeigen, schnell zu teilen, indem Sie das Yammer-Symbol auswählen, die Gruppe auswählen, in der Sie Ihre Nachricht posten möchten, und Ihre eigenen Kommentare über einen Link zur Seite freigeben. Die Erweiterung benachrichtigt Sie auch, wenn eine vorhandene Yammer über die Seite vorhanden ist. 
+Fügt ihrem Browsermenü eine Yammer-Registerkarte hinzu und ermöglicht es Ihnen, schnell alle angezeigten Webseiten zu teilen, indem Sie das Yammer-Symbol auswählen, die Gruppe auswählen, in der Sie Ihre Nachricht veröffentlichen möchten, und Ihre eigenen Kommentare über einen Link zur Seite freigeben. Die Erweiterung benachrichtigt Sie auch, wenn eine vorhandene Yammer über die Seite vorhanden ist. 
 
 ## <a name="embeddable-feeds"></a>Einbettende Feeds
 

@@ -21,13 +21,13 @@ ms.locfileid: "51653137"
 ---
 # <a name="mail-flow-in-exchange-online-protection"></a>Nachrichtenfluss in Exchange Online Protection
 
-Für die meisten Organisationen, die Microsoft verwenden, hosten wir Ihre Postfächer und kümmern uns um den Nachrichtenfluss. Dies ist die einfachste Konfiguration und bedeutet, dass Microsoft alle Postfächer und Filter verwaltet. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Exchange Online Protection (EOP) ermöglicht dies und bietet Antivirus- und Antispam-E-Mail-Verarbeitung in der Cloud. Weitere Informationen zu EOP und den entsprechenden Kaufmodalitäten finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
+Für die meisten Organisationen, die Microsoft verwenden, hosten wir Ihre Postfächer und kümmern uns um den Nachrichtenfluss. Dies ist die einfachste Konfiguration und bedeutet, dass Microsoft alle Postfächer und Filter verwaltet. Einige Organisationen jedoch müssen aufgrund geschäftlicher Anforderungen alle ihre Postfächer lokal hosten. Exchange Online Protection (EOP) können Sie dies tun und bietet Antivirus- und Antispam-E-Mail-Verarbeitung in der Cloud. Weitere Informationen zu EOP und den entsprechenden Kaufmodalitäten finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-Sie suchen nach Informationen zu Domänenverwaltung oder verzeichnisbasierter Edge-Blockierung (Directory Based Edge Blocking, DBEB)? Weitere Informationen finden Sie [unter Recipient, domain, and company management](recipient-domain-and-company-management.md). Weitere Informationen zu allen EOP-Features finden Sie in der [Exchange Online Protection-Dienstbeschreibung](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu Domänenverwaltung oder verzeichnisbasierter Edge-Blockierung (Directory Based Edge Blocking, DBEB)? Weitere Informationen finden Sie [unter Recipient, domain, and company management](recipient-domain-and-company-management.md). Weitere Informationen zu allen EOP-Features finden Sie unter [Exchange Online Protection Dienstbeschreibung](exchange-online-protection-service-description.md).
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Weiterleiten von E-Mails zwischen Microsoft und Ihren eigenen E-Mail-Servern
 
-Sie können einen Connector konfigurieren, um den Nachrichtenfluss zwischen Microsoft (einschließlich Exchange Online oder EOP) und einem SMTP-basierten E-Mail-Server wie Exchange zu aktivieren. Details hierzu finden Sie unter [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? Und [Richten Sie Connectors ein, um E-Mails zwischen Microsoft und Ihren eigenen E-Mail-Servern weiter zu routen.](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
+Sie können einen Connector konfigurieren, um den Nachrichtenfluss zwischen Microsoft (einschließlich Exchange Online oder EOP) und einem SMTP-basierten E-Mail-Server wie Exchange. Details hierzu finden Sie unter [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? Und [Richten Sie Connectors ein, um E-Mails zwischen Microsoft und Ihren eigenen E-Mail-Servern weiter zu routen.](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
@@ -53,4 +53,4 @@ Im [Bereitstellungs-Assistent für Microsoft Exchange Server](/exchange/exchange
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Exchange Online Protection Service description](exchange-online-protection-service-description.md).

@@ -19,7 +19,7 @@ ms.locfileid: "51653397"
 
 SharePoint Syntex in Microsoft 365 verwendet erweiterte künstliche Intelligenz (KI) und maschinelles Lernen, um menschliches Fachwissen zu verstärken, die Inhaltsverarbeitung zu automatisieren und Inhalte in Wissen zu transformieren.
 
-Syntex baut auf SharePoint auf, um Premiumfunktionen für die Verarbeitung von Inhalten mit hohem Volumen, das Extrahieren von Metadaten für die Prozessautomatisierung und die Verbesserung von Sicherheit und Compliance zu bieten. Und sie baut auf der Intelligenz von Microsoft Search mit Links zu [Microsoft Graph-Connectors auf.](/microsoftsearch/connectors-overview)
+Syntex baut auf SharePoint, um Premiumfunktionen für die Verarbeitung von Inhalten mit hohem Volumen, das Extrahieren von Metadaten für die Prozessautomatisierung und die Verbesserung von Sicherheit und Compliance zu bieten. Und es basiert auf der Intelligenz von Microsoft Search, mit Links zu [Microsoft Graph Connectors](/microsoftsearch/connectors-overview).
 
 Eine detaillierte Übersicht und weitere Produktdetails finden Sie auf der [SharePoint Syntex-Produktseite](https://aka.ms/sharepointsyntex).
 
@@ -27,11 +27,11 @@ Eine detaillierte Übersicht und weitere Produktdetails finden Sie auf der [Shar
 
 Syntex steht über mehrere Abonnementpläne zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Jeder Plan bietet den gleichen Satz von Funktionen
 
-Benutzer müssen über eine gültige Office 365-, Microsoft 365- oder SharePoint Online-Lizenz verfügen, um syntex mit einer Syntex-Lizenz verwenden zu können.
+Benutzer müssen über eine gültige Office 365, Microsoft 365 oder SharePoint Online-Lizenz verfügen, um syntex mit einer Syntex-Lizenz verwenden zu können.
 
-Für die Verarbeitung von Microsoft PowerApps AI Builder-Formularen erhalten Mandanten mit 300 oder mehr lizenzierten Benutzern von Syntex monatlich 1M AI Builder-Guthaben sowie Zugriff auf Microsoft Dataverse. Diese Guthaben werden pro Mandant und nicht pro Benutzer zugewiesen, sodass sie nicht skaliert werden, wenn die Anzahl der Benutzer zunimmt.
+Für Microsoft PowerApps ai Builder-Formularverarbeitung erhalten Mandanten mit 300 oder mehr lizenzierten Benutzern von Syntex monatlich 1M AI Builder-Guthaben sowie Zugriff auf Microsoft Dataverse. Diese Guthaben werden pro Mandant und nicht pro Benutzer zugewiesen, sodass sie nicht skaliert werden, wenn die Anzahl der Benutzer zunimmt.
 
-In der folgenden Tabelle sind die Pläne aufgeführt, zu der Syntex hinzugefügt werden kann. Weitere Plandetails finden Sie unter [Microsoft 365- und Office 365-Planoptionen](../office-365-platform-service-description/office-365-plan-options.md).<br><br>
+In der folgenden Tabelle sind die Pläne aufgeführt, zu der Syntex hinzugefügt werden kann. Weitere Plandetails finden Sie [unter Microsoft 365 und Office 365 Planoptionen](../office-365-platform-service-description/office-365-plan-options.md).<br><br>
 
 
 | Pläne für kleine Unternehmen            | Enterprise-Pläne         | Bildungspläne     |
@@ -50,7 +50,7 @@ In der folgenden Tabelle sind die Pläne aufgeführt, zu der Syntex hinzugefügt
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-In der folgenden Tabelle sind die wichtigsten Syntex-Features aufgeführt, die planübergreifend verfügbar sind. Es gelten bestimmte Vorbehalte. Diese Tabelle kann sich ohne vorherige Ankündigung ändern. Die aktuelle, vollständige Liste der Features finden Sie auf der [Seite SharePoint Syntex-Pläne und Preise](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex).<br><br>
+In der folgenden Tabelle sind die wichtigsten Syntex-Features aufgeführt, die planübergreifend verfügbar sind. Es gelten bestimmte Vorbehalte. Diese Tabelle kann sich ohne vorherige Ankündigung ändern. Die aktuelle, vollständige Liste der Features finden Sie auf der Seite [SharePoint Syntex-Pläne und -Preise](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex).<br><br>
 
 | Feature | Pläne für kleine Unternehmen | Enterprise-Pläne | Bildungspläne |
 |--|--|--|--|
@@ -58,7 +58,7 @@ In der folgenden Tabelle sind die wichtigsten Syntex-Features aufgeführt, die p
 | [Objekterkennung](sharepoint-syntex-features.md#object-recognition) | Ja | Ja | Ja |
 | [Dokumentverständnis](sharepoint-syntex-features.md#document-understanding) | Ja | Ja | Ja |
 | [Formularverarbeitung](sharepoint-syntex-features.md#form-processing) | Ja | Ja | Ja |
-| [Microsoft Graph-Inhaltsconnectors](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | Ja | Ja | Ja |
+| [Microsoft Graph Inhaltsconnectors](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | Ja | Ja | Ja |
 | [Erweiterte Taxonomiedienste](sharepoint-syntex-features.md#advanced-taxonomy-services) | Ja | Ja | Ja |
 
 ## <a name="learn-more"></a>Weitere Informationen
@@ -69,11 +69,11 @@ Weitere Informationen zu Syntex finden Sie in den folgenden Ressourcen:
 
   - Weitere Informationen zu Syntex und deren Verwendung finden Sie in der [SharePoint Syntex-Produktdokumentation](/microsoft-365/contentunderstanding/).
 
-  - Besuchen Sie unseren [Microsoft 365-Blog,](https://go.microsoft.com/fwlink/?linkid=2084915)um auf dem neuesten Stand zu bleiben.
+  - Um auf dem neuesten Stand zu bleiben, besuchen Sie unseren Microsoft 365 [Blog](https://go.microsoft.com/fwlink/?linkid=2084915).
 
 ### <a name="licensing-terms"></a>Lizenzierungsbedingungen
 
-Syntex ist als benutzerbasiertes Add-On für Microsoft 365-Pläne verfügbar. Um sich für eine kostenlose Testversion zu registrieren oder Syntex zu erwerben, besuchen Sie die [SharePoint Syntex-Produktseite](https://aka.ms/sharepointsyntex).
+Syntex ist als benutzerbasiertes Add-On für Microsoft 365 verfügbar. Um sich für eine kostenlose Testversion zu registrieren oder Syntex zu erwerben, besuchen Sie die [SharePoint Syntex-Produktseite](https://aka.ms/sharepointsyntex).
 
 Lizenzbedingungen für Produkte und Dienste, die über Kommerzielle Volumenlizenzprogramme von Microsoft erworben wurden, finden Sie auf der [Website "Produktbedingungen".](https://www.microsoft.com/licensing/terms/)
 
@@ -83,4 +83,4 @@ Besuchen Sie das [Nachrichtencenter,](https://go.microsoft.com/fwlink/p/?linkid=
 
 ### <a name="accessibility"></a>Barrierefreiheit
 
-Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center und](https://www.microsoft.com/trust-center) im Office Accessibility [Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und im Office Accessibility [Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

@@ -35,7 +35,7 @@ Während der Eingabe werden Suchergebnisse vorgeschlagen, damit Sie das, wonach 
 
 Erfahren Sie in Echtzeit, woran Ihre Kollegen gerade arbeiten. Ticker zeigt Aktivitätsberichte in Echtzeit, einschließlich Seitenbearbeitungen, Dateiuploads und Updates, die in anderen Geschäftsanwendungen vorgenommen wurden.
   
-## <a name="topics"></a>Themen
+## <a name="topics"></a>Viva Topics
 
 Markieren Sie Inhalte mit Themen, um anderen zu helfen, verwandte Nachrichten, Dateien, Notizen und vieles mehr schnell zu finden, indem Sie vor dem Wort ein Hashtag (#) hinzufügen oder nach vorhandenen Themen suchen.
   

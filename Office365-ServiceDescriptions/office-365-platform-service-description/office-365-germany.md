@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
-description: Office 365 Deutschland ist eine differenzierte Option von den Office 365-Diensten, die bereits in Europa verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
+description: Office 365 Deutschland ist eine differenzierte Option von den Office 365, die bereits in Europa verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
 ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,11 +19,11 @@ ms.locfileid: "51653497"
 ---
 # <a name="office-365-germany"></a>Office 365 Deutschland
 
-Office 365 Deutschland ist eine differenzierte Option von den Office 365-Diensten, die bereits in Europa verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
+Office 365 Deutschland ist eine differenzierte Option von den Office 365, die bereits in Europa verfügbar sind. Damit können die Anforderungen eines Großteils der regulierten Kunden in Deutschland, der Europäischen Union (EU) und der Europäischen Freihandelsgemeinschaft (EFTA) erfüllt werden, indem unsere branchenführenden Produktivitätsdienste für digitales Arbeiten aus deutschen Rechenzentren (wobei sich die Daten in Deutschland befinden) sowie strenge Maßnahmen für Datenzugriff- und steuerung über ein einzigartiges vertrauenswürdiges Modell bereitgestellt werden, die sich nach deutschem Recht richten.
 
 Der Vertrauensnehmer der Daten, T-Systems International, bei dem es sich um ein unabhängiges deutsches Unternehmen und eine Niederlassung der Deutschen Telekom handelt, steuert den physischen und logischen Zugriff auf Kundendaten. Auf Kundendaten kann nur mit Genehmigung oder unter Aufsicht des Vertrauensnehmers zugegriffen werden, der sich nach deutschen Recht richtet.
 
-Basierend auf dieser Weiterentwicklung der Kundenanforderungen wird sich unsere Cloudstrategie für Deutschland auf die Bereitstellung der neuen Cloudregionen in Deutschland konzentrieren, die mit unserem globalen Cloudangebot konsistent sind. Mit diesem Fokus akzeptieren wir keine neuen Kunden mehr oder stellen keine neuen Dienste aus der derzeit verfügbaren Microsoft Cloud Deutschland bereit. Vorhandene Kunden können weiterhin die aktuellen Clouddienste nutzen, die wir mit den erforderlichen Sicherheitsupdates verwalten werden. [Erfahren Sie mehr über Office 365 Deutschland](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c).
+Basierend auf dieser Weiterentwicklung der Kundenanforderungen wird sich unsere Cloudstrategie für Deutschland auf die Bereitstellung der neuen Cloudregionen in Deutschland konzentrieren, die mit unserem globalen Cloudangebot konsistent sind. Mit diesem Fokus akzeptieren wir keine neuen Kunden mehr oder stellen keine neuen Dienste aus der derzeit verfügbaren Microsoft Cloud Deutschland bereit. Vorhandene Kunden können weiterhin die aktuellen Clouddienste nutzen, die wir mit den erforderlichen Sicherheitsupdates verwalten werden. [Erfahren Sie mehr Office 365 Deutschland](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c).
 
 ## <a name="service-availability-for-each-plan"></a>Dienstverfügbarkeit nach Plan
 
@@ -31,7 +31,7 @@ Jeder Office 365 Deutschland-Plan umfasst eine Reihe von Einzeldiensten, wie Exc
 
 | Dienst | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E1 | Office 365 Deutschland Enterprise E3 | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Office 365-Plattform <sup>1</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Office 365 <sup>1</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Exchange Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |SharePoint Online|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |OneDrive for Business|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
@@ -40,15 +40,15 @@ Jeder Office 365 Deutschland-Plan umfasst eine Reihe von Einzeldiensten, wie Exc
 |Office 365 ProPlus <sup>2</sup>|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Project Online<sup>3</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Power BI<sup>3</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Visio für Web <sup>4</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Visio für das Web <sup>4</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Yammer Enterprise|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|Nicht zutreffend|
 |Azure Information Protection|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 
 > [!NOTE]
-> <sup>1</sup> Cloudbasierter Abonnementdienst mit zugehörigen Features, einschließlich des Microsoft 365 Admin Centers, in dem Sie Benutzer und Domänen einrichten können. <br/>
-<sup>2</sup> Sie können einen Office 365 ProPlus-Plan separat erwerben. Office 365 ProPlus ist in Office 365 Deutschland Enterprise E3 und Office 365 Deutschland Enterprise E4 enthalten. [Die moderne Authentifizierung](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) muss für die Verwendung mit Office 365 Deutschland aktiviert sein. <br/>
-<sup>3</sup> Project Online und Power BI sind nicht enthalten, können jedoch als separater Add-On-Dienst erworben oder kostenlos zum Office 365 Germany Education A1-Plan hinzugefügt werden. <br/>
-<sup>4</sup> Visio für den Webverbrauch (Ansichtsfunktion) ist kostenlos verfügbar. Visio für das Web zum Erstellen und Bearbeiten von Funktionen erfordert eine Lizenz. Weitere Informationen zu Visio für das Web finden Sie unter [Visio für die Webdienstbeschreibung](../visio-online-service-description/visio-online-service-description.md).
+> <sup>1</sup> Cloudbasierter Abonnementdienst mit zugehörigen Features, einschließlich Microsoft 365 Admin Center, in dem Sie Benutzer und Domänen einrichten können. <br/>
+<sup>2</sup> Sie können einen Office 365 ProPlus separat erwerben. Office 365 ProPlus ist in Office 365 Deutschland Enterprise E3 und Office 365 Deutschland Enterprise E4 enthalten. [Die moderne Authentifizierung](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) muss für die Verwendung mit Office 365 aktiviert sein. <br/>
+<sup>3</sup> Project Online und Power BI sind nicht enthalten, können jedoch als separater Add-On-Dienst erworben oder kostenlos zum Office 365 Deutschland Education A1-Plan hinzugefügt werden. <br/>
+<sup>4</sup> Visio für den Webverbrauch (Ansichtsfunktion) stehen kostenlos zur Verfügung. Visio für die Web-Erstellungs- und -bearbeitungsfunktionen benötigen eine Lizenz. Weitere Informationen zu Visio für das Web finden Sie im Visio [der Webdienstbeschreibung](../visio-online-service-description/visio-online-service-description.md).
 
 ## <a name="system-requirements"></a>Systemanforderungen
 
@@ -72,7 +72,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 | Feature | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E1 | Office 365 Deutschland Enterprise E3 | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Office 365-Verwaltungsfeatures](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-germany#admin-center-features-and-settings)**|||||||||
-|Verwalten von Office 365 mithilfe des Microsoft 365 Admin Centers oder Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Verwalten Office 365 mithilfe des Microsoft 365 Admin Center oder Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Schutz von Inhalten mit Azure Information Protection|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nein|Nein|Nr.<sup>2</sup>|
 |**[Funktionen der Office 365-Suite](office-365-suite-features.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Microsoft Bookings|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -117,7 +117,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Status einzelner Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Status einzelner Warnungen, die im Microsoft 365 Admin Center verfügbar sind|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |RSS-Feed **Dienststatus**|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Berichte](reports.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Aktive und inaktive Postfächer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -142,7 +142,7 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 |Herunterladbare Berichte zum E-Mail-Schutz|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verwendeter Browser|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verwendetes Betriebssystem|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Erstellen eigener Berichte mithilfe von Microsoft 365-Berichterstellungswebdiensten|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Erstellen eigener Berichte mithilfe Microsoft 365 Berichterstellungswebdienste|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Dienstupdates](service-updates.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Bereitstellen regelmäßiger Updates für alle Kunden|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Senden von Benachrichtigungen an das Nachrichtencenter, wenn Aktion erforderlich|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -187,19 +187,19 @@ Weitere Informationen zu Preisen und Funktionen in den Plänen für verschiedene
 <sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. This does not apply to subscriptions paid on a monthly basis.<br/>
 <sup>6</sup> Office 365 Deutschland Education A1-Pläne unterstützen keine Lizenzplatzänderungen aus dem Microsoft 365 Admin Center.<br/>
 <sup>7</sup> The right to use client software applications, such as Office 365 ProPlus Office 2016, and Office 2013 is included in some Office 365 Germany plans. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Clientsoftwareanwendungen können auch einen Endbenutzer auf Onlinedienste zugreifen, die keine deutschen Onlinedienste sind. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
-<sup>8</sup> [Modern authentication](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) must be enabled for use with Office 365 Germany.<br/>
-<sup>9</sup> Office 365 Deutschland ist in der Einhaltung der Cloudsicherheits- und Compliancestandards von Office 365 aufgebaut. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
+<sup>8</sup> [Die moderne Authentifizierung](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) muss für die Verwendung mit Office 365 aktiviert sein.<br/>
+<sup>9</sup> Office 365 Deutschland ist in der Einhaltung der Cloudsicherheits- und Compliancestandards von Office 365. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
 
 ## <a name="office-application-features"></a>Office-Anwendungsfeatures  
 
 > [!NOTE]
-> Office 365 Deutschland-Pläne umfassen Clientsoftwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Clientsoftwareanwendungen"), z. B. Office 365 ProPlus, Office 2013 \* und Office 2016. Clientsoftwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können einem Endbenutzer den Zugriff auf Onlinedienste gestatten, die keine [deutschen Onlinedienste sind.](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58) For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Office 2013 für Office 365 Deutschland erfordert, dass [die moderne Authentifizierung aktiviert ist.](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)
+> Office 365 Zu den deutschen Plänen gehören Clientsoftwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Clientsoftwareanwendungen"), z. B. Office 365 ProPlus, Office 2013 \* und Office 2016. Clientsoftwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können einem Endbenutzer den Zugriff auf Onlinedienste gestatten, die keine [deutschen Onlinedienste sind.](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58) For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/> \*Office 2013 für Office 365 Deutschland erfordert, dass die [moderne Authentifizierung aktiviert ist.](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)
 
 Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwischen Office 365 Deutschland-Plänen zu vergleichen.<br><br>
 
 | Feature | Office 365 Deutschland Business | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E1 | Office 365 Deutschland Enterprise E3<sup>9</sup> | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Office-Anwendungen**<sup>1, &nbsp; 2</sup>|||||||||
+|**Office Anwendungen**<sup>1, &nbsp; 2</sup>|||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Ja|Nein|Ja|No<sup>7</sup>|Nein|Ja|Ja|Nein|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Ja|Nein|Ja|No<sup>7</sup>|Nein|Ja|Ja|Nein|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Ja|Nein|Ja|No<sup>7</sup>|Nein|Ja|Ja|Nein|
@@ -228,11 +228,11 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 |Desktop-Virtualisierung|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Excel Spreadsheet Compare|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Excel Spreadsheet Inquire|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
-|Exchange Online- und SharePoint Online-Archivierung und -Compliance|Ja|Nein|Ja<sup>5</sup>|Nein|Nein|Ja|Ja|Nein|
+|Exchange Online und SharePoint Onlinearchivierung und Compliance|Ja|Nein|Ja<sup>5</sup>|Nein|Nein|Ja|Ja|Nein|
 |Unterstützung der Gruppenrichtlinie|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Information Rights Management mithilfe von Azure Information Protection<sup>3</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Information Rights Management mit Windows Server AD RMS<sup>4</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Office-Add-In-, ActiveX- und BHO-Unterstützung|Nein|Nein|Ja|Nein|Nein|Ja|Ja|Nein|
+|Office-, ActiveX- und BHO-Unterstützung|Nein|Nein|Ja|Nein|Nein|Ja|Ja|Nein|
 |OneNote-Clientzugriff auf Notizbücher auf SharePoint Server, SharePoint Online, OneDrive for Business und Office 365|Ja|Nein|Ja|Nein|Nein|Ja|Ja|Nein|
 |Office Lens|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Office-Telemetrie|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
@@ -250,20 +250,20 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Deutschland-Pläne umfassen Clientsoftwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Clientsoftwareanwendungen"), z. B. Office 365 ProPlus, Office 2013 und Office 2016. Clientsoftwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste gestatten, die keine deutschen Onlinedienste sind. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/>
-<sup>2</sup> Für Office 2013 muss die [moderne Authentifizierung aktiviert sein.](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)<br/>
+<sup>2</sup> Office 2013 erfordert, dass [die moderne Authentifizierung aktiviert ist.](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)<br/>
 <sup>3</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-On erworben werden, um die unterstützten IRM-Features zu aktivieren.<br/>
 <sup>4</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Features zu aktivieren. <br/>
-<sup>5</sup> Wenn Sie über Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 verfügen, können Sie die Power Map Preview für [Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-In herunterladen und verwenden. <br/>
-<sup>6</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Deutschland Enterprise E3 enthalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Dektop client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
-<sup>7</sup> Einige Schulen sind für Education Plus berechtigt, das Office 365 ProPlus umfasst, und ermöglicht Schülern, Lehrkräften und Mitarbeitern die Installation der neuesten Version von Office auf bis zu fünf PC- oder Mac-Computern und auf anderen mobilen Geräten, einschließlich Windows-Tablets und dem iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar.<br/>
+<sup>5</sup> Wenn Sie über Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 verfügen, können Sie die [Power Map Preview für Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-In herunterladen und verwenden. <br/>
+<sup>6</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Deutschland Enterprise E3 enthalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefeatures umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Dektop client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
+<sup>7</sup> Einige Schulen sind für Education Plus berechtigt, einschließlich Office 365 ProPlus, und ermöglicht Es Schülern, Lehrkräften und Mitarbeitern, die neueste Version von Office auf bis zu fünf PC- oder Mac-Computern und auf anderen mobilen Geräten zu installieren, einschließlich Windows Tablets und iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar.<br/>
 <sup>8</sup> Office 2011 für Mac kann installiert, aber nicht aktiviert werden. <br/>
-<sup>9</sup> Die Volumenaktivierung für Office 365 Deutschland Enterprise E3 und Office 365 ProPlus ist auf Installationen auf Windows Server 2008 R2 und neuer mit aktivierter RDS-Rolle oder Windows To Go-Installationen beschränkt. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Deutschland Enterprise E3 oder Office 365 ProPlus sein.<br/>
+<sup>9</sup> Die Volumenaktivierung für Office 365 Deutschland Enterprise E3 und Office 365 ProPlus ist auf Installationen auf Windows Server 2008 R2 und neuer beschränkt, wenn die RDS-Rolle aktiviert oder Windows To Go ist. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Deutschland Enterprise E3 oder Office 365 ProPlus.<br/>
 <sup>10</sup> Access ist derzeit verfügbar, wenn Sie auf dem aktuellen Kanal oder in der gezielten Version für verzögerten Kanal sind. Wenn Sie den verzögerten Kanal verwenden, ist Access im Juni 2017 verfügbar. Weitere Informationen finden Sie unter [Access included as part of Office 365 Business and Business Premium](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/>
 <sup>11</sup> Nicht verfügbar für Office 365 Deutschland, aber in Kürze verfügbar.
 
 | Feature | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**<sup>Office-Anwendungen 1, 2</sup>**||||
+|**Office Anwendungen <sup>1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Ja|Ja|Ja|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Ja|Ja|Ja|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Ja|Ja|Ja|
@@ -314,24 +314,24 @@ Verwenden Sie die folgenden Tabellen, um die Verfügbarkeit von Features zwische
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Deutschland-Pläne umfassen Clientsoftwareanwendungen, die auf dem Gerät eines Endbenutzers installiert und ausgeführt werden ("Clientsoftwareanwendungen"), z. B. Office 365 ProPlus, Office 2013 und Office 2016. Clientsoftwareanwendungen funktionieren nicht ausschließlich in deutschen Rechenzentren und können Endbenutzern den Zugriff auf Onlinedienste gestatten, die keine deutschen Onlinedienste sind. For purposes of your agreement with Microsoft, client software applications are not German Online Services. Zusicherungen betreffend die Datenspeicherung in Deutschland und die Zugriffssteuerung durch den deutschen Datentreuhänder gelten nur für die deutschen Onlinedienste.<br/>
-<sup>2</sup> Für Office 2013 muss die [moderne Authentifizierung aktiviert sein.](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)<br/>
+<sup>2</sup> Office 2013 erfordert, dass [die moderne Authentifizierung aktiviert ist.](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a)<br/>
 <sup>3</sup> Archivierungs- und Compliancefeatures werden mit dieser Version von Office unterstützt, aber die Exchange Online- und SharePoint Online-Pläne sind nicht enthalten und müssen separat erworben oder mit unterstützten lokalen Serveräquivalenten verwendet werden.<br/> <sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-On erworben werden, um die unterstützten IRM-Features zu aktivieren.<br/> <sup>5</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Features zu aktivieren.<br/>
 <sup>6</sup> Wenn Sie über Office Professional Plus 2013 oder eine eigenständige Version von Excel 2013 verfügen, können Sie die Power Map Preview für [Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) als nicht unterstütztes Add-In herunterladen und verwenden.<br/>
 <sup>7</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype_for_Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Office 365 ProPlus und Office 365 Enterprise E3  beinhalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen enthält. Jedem Benutzer muss eine Skype for Business Online-Lizenz zugewiesen werden. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop-Clientvergleichstabellen](/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
 <sup>8</sup> Office 2011 für Mac kann installiert, aber nicht aktiviert werden.<br/>
-<sup>9</sup> Office 365 ProPlus wird in der vom Benutzer dedizierten virtuellen Desktopinfrastruktur (VDI) unterstützt. Office 365 ProPlus unterstützt Remotedesktopdienste (RDS) nur, wenn sie über ein Volumenlizenzierungsprogramm erworben werden.<br/>
-<sup>10</sup> Die Volumenaktivierung für Office 365 Deutschland Enterprise E3 und Office 365 ProPlus ist auf Installationen auf Windows Server 2008 R2 und neuer mit aktivierter RDS-Rolle oder Windows To Go-Installationen beschränkt. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Deutschland Enterprise E3 oder Office 365 ProPlus sein.<br/>
+<sup>9</sup> Office 365 ProPlus wird auf der vom Benutzer dedizierten virtuellen Desktopinfrastruktur (VDI) unterstützt. Office 365 ProPlus unterstützt Remotedesktopdienste (RDS) nur, wenn sie über ein Volumenlizenzierungsprogramm erworben werden.<br/>
+<sup>10</sup> Die Volumenaktivierung für Office 365 Deutschland Enterprise E3 und Office 365 ProPlus ist auf Installationen auf Windows Server 2008 R2 und neuer mit aktivierter oder Windows To Go RDS-Rolle beschränkt. In beiden Fällen müssen Benutzer, die auf diese Installationen zugreifen, lizenzierte Benutzer von Office 365 Deutschland Enterprise E3 oder Office 365 ProPlus.<br/>
 <sup>11</sup> Nicht verfügbar für Office 365 Deutschland, aber in Kürze verfügbar.
 
 ## <a name="office-for-the-web-features"></a>Office für die Webfeatures
 
-Die folgende Tabelle enthält Links zu Vergleichen von Office für die Webfeaturefunktionen, die in Office 365 Deutschland-Plänen für funktionsreiche Microsoft Office verfügbar sind. Verwenden Sie die Vergleiche, um zu ermitteln, welche Features in Office für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie können feststellen, dass einige Personen in Ihrer Organisation möglicherweise die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere möglicherweise nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Web anzeigen und leicht bearbeiten müssen.
+In der folgenden Tabelle finden Sie Links zu Office Vergleichen der Webfeaturefunktionen, die in Office 365 Deutschland zur Verfügung stehen, um funktionsreiche Microsoft Office zu erstellen. Verwenden Sie die Vergleiche, um zu ermitteln, welche Features in Office für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie können feststellen, dass einige Personen in Ihrer Organisation möglicherweise die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere möglicherweise nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Web anzeigen und leicht bearbeiten müssen.
 
 > [!NOTE]
 > - Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabelle enthält nicht alle Microsoft Office-Funktionen. <br/>
 > - Microsoft Office 365 ProPlus ist ein monatliches Abonnementangebot der aktuellen Office-Desktopsuite. <br/>
-> - Microsoft Office Web Apps Server 2013 erhalten lokale Kunden eine Office für die Webbearbeitungslizenz, wenn sie eine Lizenz für die Office-Desktopsuite erworben haben (z. B. Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz). <br/>
-> - Aufgrund der Art von Office 365 Deutschland gibt es einige Features, die noch nicht aktiviert wurden. Mit der Zeit nähern sich die Dienste dank globaler Dienste der vollständigen Featureparität.
+> - Microsoft Office Lokale Web Apps Server 2013-Kunden erhalten eine Office für die Webbearbeitungslizenz, wenn sie eine Office-Desktopsuite-Lizenz erworben haben (z. B. Office Professional Plus, Office Standard oder eine Office 365 ProPlus-Lizenz). <br/>
+> - Aufgrund der Art der Office 365 gibt es einige Features, die noch nicht aktiviert wurden. Mit der Zeit nähern sich die Dienste dank globaler Dienste der vollständigen Featureparität.
 
 | Anwendung | Office für das Web | Link zum detaillierten Funktionsvergleich |
 |:-----|:-----|:-----|
@@ -362,7 +362,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Verschlüsselung von Daten im Ruhezustand (BitLocker)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |IRM mit Azure Information Protection<sup>3</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nein|Nein|Nr.<sup>4</sup>|
 |IRM mit Windows Server AD RMS<sup>3</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|No<sup>5</sup>|
-|Office 365-Nachrichtenverschlüsselung|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Ja|Ja|Nr.<sup>4</sup>|
+|Office 365 Nachrichtenverschlüsselung|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Ja|Ja|Nr.<sup>4</sup>|
 |S/MIME|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja||
 |In-Situ-Speicher und Beweissicherungsverfahren|Nein|--|Nein|Ja|Nein|Ja|Ja|Nein|
 |Compliance-eDiscovery|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja<sup>6</sup>|Ja|
@@ -427,20 +427,20 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Voicemail|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Integration zwischen Voicemail und Fax von Drittanbietern|Nein|Nein|Nein|Nein|Nein|Ja|Ja|Nein|
 |Interoperabilität von Voicemails eines Drittanbieters|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Skype for Business-Integration|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Skype for Business Integration|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Hohe Verfügbarkeit und Geschäftskontinuität](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Postfachreplikation in Datencentern|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Wiederherstellung gelöschter Postfächer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Wiederherstellung gelöschter Elemente|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Wiederherstellung einzelner Elemente|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein||
 |**[Interoperabilität, Konnektivität und Kompatibilität](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
-|Skype for Business-Anwesenheit in OWA<sup>3</sup> und Outlook|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|SharePoint-Interoperabilität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Skype for Business anwesenheit in OWA<sup>3</sup> und Outlook|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|SharePoint Interoperabilität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unterstützung der EWS-Konnektivität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |SMTP-Relayunterstützung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Einrichtung und Verwaltung in Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Zugriff auf das Microsoft Office 365-Portal|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Microsoft 365 Admin Center Access|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Microsoft 365 Admin Center-Zugriff|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Zugriff auf die Exchange-Verwaltungskonsole|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Zugriff auf die remote verwendete Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |ActiveSync-Richtlinien für mobile Geräte|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -449,15 +449,15 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in d
 |Outlook-Add-Ins und Outlook MAPI|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Ja<sup>16</sup>|Nein|
 
 > [!NOTE]
-> <sup>1</sup> Exchange 2010 unterstützt nur minimale Hybridbereitstellung. (Die vollständige Hybridbereitstellung wird für Exchange 2010 nicht unterstützt.) Weitere Informationen zur minimalen Hybridbereitstellung finden Sie unter [Use express migration to migrate Exchange mailboxes to Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef).<br/>
-<sup>2</sup> Office 365 Deutschland Business Essentials und Office 365 Deutschland Business Premium bieten keine Zugriffsrechte für die Verwendung mit lokalen Servern. Um kompatibel zu sein, muss der Kunde die entsprechenden CALs erwerben oder zuvor erworben haben oder ein Upgrade auf eine Unternehmens-SKU durchführen, die diese Zugriffsrechte bietet.<br/>
+> <sup>1</sup> Exchange 2010 unterstützt nur eine minimale Hybridbereitstellung. (Die vollständige Hybridbereitstellung wird für Exchange 2010 nicht unterstützt.) Weitere Informationen zur minimalen Hybridbereitstellung finden Sie unter [Use express migration to migrate Exchange mailboxes to Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef).<br/>
+<sup>2</sup> Office 365 Germany Business Essentials und Office 365 Germany Business Premium bieten keine Zugriffsrechte für die Verwendung mit lokalen Servern. Um kompatibel zu sein, muss der Kunde die entsprechenden CALs erwerben oder zuvor erworben haben oder ein Upgrade auf eine Enterprise SKU durchführen, die diese Zugriffsrechte bietet.<br/>
 <sup>3</sup> Nicht verfügbar für Office 365 Deutschland, aber in Kürze verfügbar.<br/>
-<sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-On erworben werden (oder kostenlos zum Office 365 Deutschland Education A1-Plan hinzugefügt werden), um die unterstützten IRM-Features zu aktivieren. Die Office 365-Nachrichtenverschlüsselung hängt von Azure Information Protection ab.<br/>
+<sup>4</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-On erworben werden (oder kostenlos zum Office 365 Deutschland Education A1 Plan hinzugefügt) werden, um die unterstützten IRM-Features zu aktivieren. Office 365-Nachrichtenverschlüsselung hängt von Azure Information Protection ab.<br/>
 <sup>5</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Features zu aktivieren.<br/>
 <sup>6</sup> Für eDiscovery benötigen Sie eine separate Abfrage für lokale und Cloud.<br/>
 <sup>7</sup> Nachrichtenflussregeln (auch als Transportregeln bezeichnet) sind flexible Kriterien, mit denen Sie Bedingungen, Ausnahmen und Aktionen basierend auf den Kriterien definieren können. Die verfügbaren Bedingungen, Ausnahmen und Aktionen unterscheiden sich zwischen Exchange Online und Microsoft Exchange Server. Weitere Informationen finden Sie in den entsprechenden Themen für jedes Produkt.<br/>
-<sup>8</sup> Zugriff nur über direkten Zugriff auf die Verwaltungsschnittstelle des Exchange Admin Center (EAC). <br/>
-<sup>9</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/> <sup>10</sup> Verbundene Konten werden für &amp; POP-IMAP-Konten unterstützt, jedoch für Outlook.com (Hotmail). <br/>
+<sup>8</sup> Zugriff nur über direkten Zugriff auf die Verwaltungsschnittstelle Exchange Admin Center (EAC). <br/>
+<sup>9</sup> Exchange Server 2013 verwendet nur das Microsoft-Anti-Malware-Modul. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/> <sup>10</sup> Verbundene Konten werden für &amp; POP-IMAP-Konten unterstützt, aber für Outlook.com (Hotmail) deaktiviert. <br/>
 <sup>11</sup> Ein EOA-Abonnement kann separat für jedes Postfach erworben werden, für das das Inaktive Postfachfeature erforderlich ist. <br/>
 <sup>12</sup> Die Verwendung eines Cmdlets für die Verwendung mit der Adressliste und der globalen Adressliste wird nicht unterstützt. <br/>
 <sup>13</sup> Erfordert die Verwendung von Verfügbarkeitsadressenraum, um die Freigabe für andere Mandanten zu unterstützen. Weitere Informationen zum Erstellen eines Verfügbarkeitsadressraums finden Sie unter [Add-AvailabilityAddressSpace](/powershell/module/exchange/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind.<br/>
@@ -488,7 +488,7 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 |[Quarantäne](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|
 |[Erweiterte Datenkontrolle](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|Nein|Ja|Ja|
 |[Office 365 Threat Intelligence](/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|Nein|Ja|Ja|
-|[Junk-E-Mail-Berichterstellung in Outlook im Web](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Ja<sup>8</sup>|No<sup>8</sup>|No<sup>8</sup>|
+|[Junk-E-Mail-Outlook im Web](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Ja<sup>8</sup>|No<sup>8</sup>|No<sup>8</sup>|
 |[Weiterleiten von E-Mails zwischen Microsoft und Ihren eigenen E-Mail-Servern](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Ja|Ja|Ja|
 |[Sichere Nachrichten mit einem vertrauenswürdigen Partner](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Ja|Ja|Ja|
 |[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Ja|Ja|Ja|
@@ -504,14 +504,14 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 > [!NOTE]
 > <sup>1</sup> E-Mail-Benutzer werden als „Postfächer" definiert und können zusammen mit externen E-Mail-Kontakten direkt in der Exchange-Verwaltungskonsole hinzugefügt, entfernt und anderweitig verwaltet werden.<br/>
 <sup>2</sup> Keine RBAC-Anpassung. Nur Administratorrollen.<br/>
-<sup>3</sup> In der Exchange-Verwaltungskonsole können verwaltete Domänen angezeigt und Domänentypen bearbeitet werden. Alle anderen Domänenverwaltungen müssen im Microsoft 365 Admin Center durchgeführt werden.<br/>
-<sup>4</sup> Nachrichtenflussregeln (auch als Transportregeln bezeichnet) in EOP werden unter [Nachrichtenflussregeln (Transportregeln) in Exchange Online Protection beschrieben.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0) Die verfügbaren Nachrichtenflussregelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EOP und Exchange Online. Diese Unterschiede werden in Nachrichtenflussregelbedingungen und Ausnahmen [(Prädikate) in Exchange Online-](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) und [Nachrichtenflussregelaktionen in Exchange Online festgestellt.](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)<br/>
+<sup>3</sup> In der Exchange-Verwaltungskonsole können verwaltete Domänen angezeigt und Domänentypen bearbeitet werden. Alle anderen Domänenverwaltungen müssen im Microsoft 365 durchgeführt werden.<br/>
+<sup>4</sup> Nachrichtenflussregeln (auch als Transportregeln bezeichnet) in EOP werden [unter Nachrichtenflussregeln (Transportregeln) in Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). Die verfügbaren Nachrichtenflussregelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EOP und Exchange Online. Diese Unterschiede werden in Nachrichtenflussregelbedingungen und Ausnahmen [(Prädikate) in](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) Exchange Online und [Nachrichtenflussregelaktionen in](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)Exchange Online .<br/>
 <sup>5</sup> EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern.<br/>
 <sup>6</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar.<br/>
-<sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit dies mit lokalen Exchange-Postfächern funktioniert, müssen Sie auch zwei Transportregeln in Ihrer lokalen Exchange-Organisation konfigurieren, um von EOP hinzugefügte Spamheader zu erkennen. Weitere Informationen finden Sie unter Sicherstellen, dass Spam an den Junk-E-Mail-Ordner jedes [Benutzers geroutet wird.](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
-<sup>8</sup> Diese Funktion steht derzeit den Exchange Server 2013 Service Pack 1 (SP1)-Kunden zur Verfügung, deren Posteingänge von EOP gefiltert werden, und wird in Kürze auch für Exchange Online-Kunden zugänglich sein. <br/>
-<sup>9</sup> Die EOP-Berichte sind eine Teilmenge der Exchange Online-Berichte und enthalten keine Informationen zu Postfächern. <br/>
-<sup>10</sup> Enthält DLP-Berichte. <br/>
+<sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit dies mit lokalen Exchange funktioniert, müssen Sie auch zwei Transportregeln in Ihrer lokalen Exchange-Organisation konfigurieren, um von EOP hinzugefügte Spamheader zu erkennen. Weitere Informationen finden Sie unter Sicherstellen, dass Spam an den Junk-E-Mail-Ordner jedes [Benutzers geroutet wird.](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
+<sup>8</sup> Diese Funktion steht derzeit den Exchange Server 2013 Service Pack 1 (SP1)-Kunden zur Verfügung, deren Posteingänge von EOP gefiltert werden, und wird in Kürze auch für Exchange Online-Kunden zugänglich sein.<br/>
+<sup>9</sup> Die EOP-Berichte sind eine Teilmenge der Exchange Online-Berichte und enthalten keine Informationen zu Postfächern.<br/>
+<sup>10</sup> Enthält DLP-Berichte.<br/>
 <sup>11</sup> Kunden von Exchange Enterprise CAL mit Diensten sollten die Arbeitsmappe durch Auswahl des **Exchange Online**-Diensts anstatt des **Exchange Online Protection**-Diensts installieren.<br/>
 <sup>12</sup> Wird für lokale Kunden unterstützt, die Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden.<br/>
 <sup>13</sup> Scannt ein- und ausgehende Nachrichten, aber keine internen Nachrichten, die ein Absender in Ihrer Organisation an einen Empfänger in Ihrer Organisation gesendet hat.<br/>
@@ -521,11 +521,11 @@ In der folgenden Tabelle sind die Exchange Online Protection (EOP)-Features aufg
 <sup>17</sup> In Office 365 Deutschland E3 verfügbar.<br/>
 <sup>18</sup> Als Add-On-Feature für Office 365 Deutschland verfügbar.
 
-## <a name="defender-for-office-365-features"></a>Defender für Office 365-Features
+## <a name="defender-for-office-365-features"></a>Defender für Office 365 Features
 
-In der folgenden Tabelle sind die Defender for Office 365-Features aufgeführt, die in office 365 Deutschland-Plänen verfügbar sind. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.<br><br>
+In der folgenden Tabelle sind die Defender for Office 365 aufgeführt, die in den Office 365 verfügbar sind. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.<br><br>
 
-| Feature | Defender für Office 365 eigenständig | Defender für Office 365-Features in Exchange Online |
+| Feature | Defender for Office 365 standalone | Defender for Office 365 features in Exchange Online |
 |:-----|:-----|:-----|
 |Sichere Links|Ja|Ja|
 |Sichere Anlagen|Ja|Ja|
@@ -548,7 +548,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |App-Katalog (SharePoint)|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |App-Bereitstellung: In der Cloud gehostete Apps|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|App-Bereitstellung: in SharePoint gehostete Apps|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|App-Bereitstellung: SharePoint gehostete Apps|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |App-Verwaltungsdienst|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |BCS: Warnungen für externe Listen|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
 |BCS: App-bereichsierte externe Inhaltstypen (ECTs)|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
@@ -654,7 +654,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |Verwandte Elemente|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Rich-Media-Verwaltung|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Freigegebene Inhaltstypen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|SharePoint-Übersetzungsdienste|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
+|SharePoint Übersetzungsdienste|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Umfragen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unique Document IDs|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Videosuche|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
@@ -691,7 +691,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |SQL Server Reporting Services (SSRS) Integrated Mode|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Zeitachsenschnitt|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
 |Verwenden von und Interagieren mit Excel-Arbeitsmappen, die Datenmodelle enthalten|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Visio für web<sup>18</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Visio für das Web<sup>18</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Visio Services<sup>18</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**Such funktionen**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Advanced Content Processing|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -729,7 +729,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |Benutzerdefinierte verwaltete Pfade|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Governance|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Hybrid-App-Startfeld|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>19</sup>|
-|Hybrid oneDrive for Business und Websites|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>19</sup>|
+|Hybrid OneDrive for Business und Websites|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>19</sup>|
 |Skalierbarkeit und Verwaltung großer Listen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Mobile Konnektivität|Nein|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|Ja<sup>11</sup>|
 |Mehrsprachige Benutzeroberfläche|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|Ja<sup>12</sup>|
@@ -741,7 +741,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |Project Summary web part|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Project workspace|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |SharePoint-Listen|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
-|SharePoint-Menüband|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
+|SharePoint Menüband|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Dokumentbibliotheken|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Task list|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Teamwebsite: Ziehen & Drop|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -769,7 +769,7 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |Profil|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Ratings|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Shared with Me|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Websitefeed (klassische Teamwebsite mit SharePoint Social)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
+|Websitefeed (klassische Teamwebsite mit SharePoint sozialen Netzwerken)|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |OneDrive for Business|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja<sup>2</sup>|
 |Tag profiles|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Tasks integrated with Outlook|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
@@ -783,29 +783,29 @@ Alle Office 365-Pläne enthalten den SharePoint Online-Dienst, aber nicht alle P
 |Duet Online|Nein|Nein|Nein|Ja|Nein|Ja|Ja|Nein|
 
 > [!NOTE]
-> <sup>1</sup> Um die Ordnersynchronisierung verwenden zu können, müssen Sie über Office 2013 oder höher (Standard oder Professional Edition) oder über ein Abonnement verfügen, das Office-Anwendungen enthält. Office 365 Deutschland Business Essentials, Office 365 Deutschland Enterprise E1Office 365 Deutschland Enterprise E1 und Office 365 Deutschland Education A1-Pläne enthalten keine Abonnements für Office-Desktopanwendungen. Sie können allerdings die Ordnersynchronisierung verwenden, sofern Sie Office 2013 oder höher installiert haben und einen dieser Pläne abonnieren.<br/>
-<sup>2</sup> Kioskkonten verfügen über eingeschränkte OneDrive for #A0 Kioskkunden können die OneDrive for #A0 zum Synchronisieren von Teamwebsitedokumentbibliotheken mit einem freigegebenen Computer verwenden und offline auf Dokumente zugreifen. Kioskkonten enthalten jedoch keine persönliche OneDrive for Business-Website, sodass sie nicht von einer persönlichen OneDrive for #A0 mit 1 TB Onlinespeicher profitieren.<br/>
+> <sup>1</sup> Zum Verwenden der Ordnersynchronisierung müssen Sie über Office 2013 oder höher (Standard- oder Professional Edition) oder über ein Abonnement verfügen, das Office enthält. Office 365 Deutschland Business Essentials, Office 365 Deutschland Enterprise E1Office 365 Deutschland Enterprise E1 und Office 365 Deutschland Education A1-Pläne enthalten keine Abonnements für Office Desktopanwendungen. Sie können allerdings die Ordnersynchronisierung verwenden, sofern Sie Office 2013 oder höher installiert haben und einen dieser Pläne abonnieren.<br/>
+<sup>2</sup> Kioskkonten verfügen über eingeschränkte OneDrive for Business Funktionalität. Kioskkunden können die Clientanwendung OneDrive for Business Ordnersynchronisierung verwenden, um Teamwebsitedokumentbibliotheken mit einem freigegebenen Computer zu synchronisieren und offline auf Dokumente zu zugreifen. Kioskkonten enthalten jedoch keine OneDrive for Business persönliche Website, sodass sie nicht von einer OneDrive for Business mit 1 TB Onlinespeicher profitieren.<br/>
 <sup>3</sup> Azure Information Protection ist nicht enthalten, kann aber als separates Add-In erworben werden, um die unterstützten IRM-Features zu aktivieren. Zum Erstellen von RMS-geschützten Inhalten Office Professional Plus 2013, Office Professional Plus 2016, Microsoft 365 Apps oder Outlook Web Access.<br/>
-<sup>4</sup> Da Kioskbenutzer keine Administratoren sein können, benötigen Mandanten mit Kioskbenutzern mindestens einen Enterprise-Benutzer, um auf das Admin Center zu zugreifen. <br/>
+<sup>4</sup> Da Kioskbenutzer keine Administratoren sein können, benötigen Mandanten mit Kioskbenutzern mindestens einen Enterprise, um auf das Admin Center zu zugreifen. <br/>
 <sup>5</sup> SharePoint Online-Kunden müssen die kostenlose Bewertungsmodelloptimierungs-App herunterladen und installieren, um Bewertungsmodelle zu erstellen und anzupassen.<br/>
-<sup>6</sup> Wenn Sie eDiscovery-Features verwenden, gilt die Lizenzierungsanforderung für einen Plan, der dieses Feature zulässt, für alle Endbenutzer, die Teil der eDiscovery-Aktion sind (Suchen, Halten, Exportieren).<br/> <sup>7</sup> Authentifizierte SharePoint Online-Benutzer können über facettierte Navigation auf private Websitesammlungen zugreifen.<br/>
+<sup>6</sup> Wenn Sie eDiscovery-Features verwenden, gilt die Lizenzierungsanforderung für einen Plan, der dieses Feature zulässt, für alle Endbenutzer, die Teil der eDiscovery-Aktion sind (Suchen, Halten, Exportieren).<br/> <sup>7</sup> Authentifizierte SharePoint Onlinebenutzer können über facettierte Navigation auf private Websitesammlungen zugreifen.<br/>
 <sup>8</sup> Einige Anbieter sind möglicherweise nicht in Ihrem Locale verfügbar.<br/>
 <sup>9</sup> Freigeben eines Dokuments, einer Bibliothek oder einer Website per E-Mail für eine Person außerhalb Ihrer Organisation. Administratoren können diese Option aktivieren, es wird jedoch eine Warnmeldung angezeigt, die darauf hinweist, dass auf freigegebene Dateien dadurch möglicherweise außerhalb Ihres Landes zugegriffen werden kann. Benutzer, die versuchen, Dateien für Personen außerhalb der Organisation freizugeben, erhalten dieselbe Warnmeldung.<br/>
-<sup>10 #A0</sup> verfügen über eingeschränkte OneDrive for Business-Funktionen. Kioskkunden können die OneDrive for #A0 zum Synchronisieren von Teamwebsitedokumentbibliotheken mit einem freigegebenen Computer verwenden und offline auf Dokumente zugreifen. Kioskkonten enthalten jedoch keine persönliche OneDrive for Business-Website, sodass sie nicht von einer persönlichen OneDrive for #A0 mit 1 TB oder 5 TB Onlinespeicher profitieren.<br/> <sup>11</sup> Sie können Dokumente in jedem mobilen Browser anzeigen. Sie müssen die Office Mobile App zum Bearbeiten von Dokumenten installieren. Office Mobile ist derzeit für Windows Phone und Tablets, Android-Mobiltelefone und Tablets, iPhone und iPad verfügbar.<br/>
+<sup>10</sup> Kioskkonten verfügen über eingeschränkte OneDrive for Business Funktionalität. Kioskkunden können die Clientanwendung OneDrive for Business Ordnersynchronisierung verwenden, um Teamwebsitedokumentbibliotheken mit einem freigegebenen Computer zu synchronisieren und offline auf Dokumente zu zugreifen. Kioskkonten enthalten jedoch keine OneDrive for Business persönliche Website, sodass sie nicht von einer OneDrive for Business persönlichen Bibliothek mit 1 TB oder 5 TB Onlinespeicher profitieren.<br/> <sup>11</sup> Sie können Dokumente in jedem mobilen Browser anzeigen. Sie müssen die Office Mobile App zum Bearbeiten von Dokumenten installieren. Office Mobile ist derzeit für Windows Phone und Tablets, Android-Mobiltelefone und Tablets, iPhone und iPad verfügbar.<br/>
 <sup>12</sup> Hilfe ist nur in vereinfachtem Chinesisch und Englisch verfügbar.<br/>
 <sup>13</sup> Kommentare zu Blogs können nicht hinzugefügt werden.<br/>
 <sup>14</sup> Die Communitywebsite der Organisation ist verfügbar, von der öffentlichen Community bereitgestellte Hilfe ist jedoch nicht verfügbar.<br/>
-<sup>15</sup> Access 2010 wird nicht unterstützt.<br/> <sup>16</sup> Kioskbenutzer können keine Office-Dokumente mithilfe von Livekacheln erstellen. Zum Erstellen eines Dokuments müssen Kioskbenutzer dies auf einer SharePoint Online-Website tun, indem sie **im** Menü Neue Datei erstellen einen Dateityp auswählen – Word-Dokument, Excel-Arbeitsmappe, PowerPoint-Präsentation, OneNote-Notizbuch oder Excel-Umfrage.  <br/>
+<sup>15</sup> Access 2010 wird nicht unterstützt.<br/> <sup>16</sup> Kioskbenutzer können keine Office mit Livekacheln erstellen. Zum Erstellen eines Dokuments müssen Kioskbenutzer dies auf einer  SharePoint Online-Website tun, indem sie im Menü Neue Datei erstellen einen Dateityp auswählen – Word-Dokument, Excel-Arbeitsmappe, PowerPoint-Präsentation, OneNote-Notizbuch oder Excel-Umfrage.  <br/>
 <sup>17</sup> InfoPath-Formulare, die Benutzercode (Sandbox) enthalten, können nur in InfoPath Rich Client verwendet werden.<br/>
-<sup>18</sup> Visio für den Webverbrauch (Ansichtsfunktion) ist kostenlos verfügbar. Visio für das Web zum Erstellen und Bearbeiten von Funktionen erfordert eine Lizenz. Weitere Informationen zu Visio für das Web finden Sie unter [Visio für die Webdienstbeschreibung](../visio-online-service-description/visio-online-service-description.md).<br/>
-<sup>19</sup> K1-Benutzer können in einer Hybrideinrichtung auf SharePoint Server zugreifen, Office 365 K1 enthält jedoch keine #A0 für den Zugriff auf den Server. diese Rechte müssen separat erworben werden.
+<sup>18</sup> Visio für den Webverbrauch (Ansichtsfunktion) stehen kostenlos zur Verfügung. Visio für die Web-Erstellungs- und -bearbeitungsfunktionen benötigen eine Lizenz. Weitere Informationen zu Visio für das Web finden Sie im Visio [der Webdienstbeschreibung](../visio-online-service-description/visio-online-service-description.md).<br/>
+<sup>19</sup> K1-Benutzer können SharePoint Server in einer Hybrideinrichtung zugreifen, aber Office 365 K1 enthält keine #A0 für den Zugriff auf den Server. diese Rechte müssen separat erworben werden.
 
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
 In der folgenden Tabelle sind Skype for Business Online-Features aufgeführt, die in den Office 365 Deutschland-Plänen verfügbar sind.
 
 > [!NOTE]
-> In dieser Tabelle ist die Client- und Dienstverfügbarkeit für die verschiedenen Office 365 Deutschland-Optionen aufgeführt. Wenn Sie einzelne Features zwischen den verschiedenen Skype for Business-Desktopclients, Webclients und mobilen Clients vergleichen möchten, finden Sie weitere Informationen unter [Desktopclientvergleichstabellen](/lyncserver/lync-server-2013-desktop-client-comparison-tables) und Vergleichstabellen für [mobile Clients.](/lyncserver/lync-server-2013-mobile-client-comparison-tables)
+> In dieser Tabelle ist die Client- und Dienstverfügbarkeit für die verschiedenen Office 365 Deutschland-Optionen aufgeführt. Wenn Sie einzelne Features zwischen den verschiedenen Skype for Business Desktopclients, Webclients und mobilen Clients vergleichen möchten, finden Sie weitere Informationen unter [Desktopclientvergleichstabellen](/lyncserver/lync-server-2013-desktop-client-comparison-tables) und [Mobile Client Comparison Tables](/lyncserver/lync-server-2013-mobile-client-comparison-tables).
 
 | Feature | Office 365 Deutschland Business Essentials | Office 365 Deutschland Business | Office 365 Deutschland Business Premium | Office 365 Deutschland Education A1 | Office 365 Deutschland Enterprise E3 | Office 365 Deutschland Enterprise E4 | Office 365 Deutschland Enterprise K1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -848,25 +848,25 @@ In der folgenden Tabelle sind Skype for Business Online-Features aufgeführt, di
 |High-Definition-Video oder Bilder aller Teilnehmer|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Presentersteuerelemente|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Ausgewählte Ansicht des Teilnehmers|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|OneNote-Freigabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|OneNote freigabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Ad-hoc- und Zeitplanwebkonferenzen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Skype for Business-Besprechungs-Einwahl über Audiokonferenzen (Erste Partei)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
-|Skype for Business-Besprechungs-Einwahl über zertifizierten Audiokonferenzanbieter (ACP)|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nein|
-|PowerPoint-Freigabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Skype for Business Besprechungs-Einwahl über Audiokonferenzen (Erste Partei)|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
+|Skype for Business Besprechungs-Einwahl über zertifizierten Audiokonferenzanbieter (ACP)|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nein|
+|PowerPoint freigabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Dateiübertragung|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Whiteboard und Anmerkungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|PowerPoint-Upload|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|PowerPoint hochladen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Abrufen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Clientseitige Aufzeichnung und Wiedergabe|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Serverseitige Aufzeichnung und Wiedergabe|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Besprechungslobby|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Skype-Livekonferenz<sup>6</sup>|Nein|Nein|Nr.<sup>6</sup>|Nein|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nein|
-|Gastzugriff auf Skype-Besprechungen mit Skype for Business Web App|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Planen von Skype for Business-Besprechungen in Outlook|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Planen von Skype for Business-Besprechungen in Outlook im Namen anderer (Delegierung)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Planen von Skype for Business-Besprechungen mit web scheduler|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nein|
+|Gastzugriff auf Skype Besprechungen mit Skype for Business-Web-App|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Planen Skype for Business Besprechungen in Outlook|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Planen Skype for Business Besprechungen in Outlook im Namen anderer (Delegierung)|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Planen Skype for Business Besprechungen mit dem Webplaner|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nein|
 |Planen von Onlinebesprechungen in Outlook im Web|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Outlook-Delegierung für die Planung von Besprechungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Outlook zum Planen von Besprechungen|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Erstellen von öffentlichen Besprechungen mit statischen Besprechungs-IDs aus Outlook|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**Sprachanrufe**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Gebucht-Optionen|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
@@ -921,25 +921,25 @@ In der folgenden Tabelle sind Skype for Business Online-Features aufgeführt, di
 |Anwesenheitsinteroperabilität mit Exchange Online|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Unified Messaging-Interoperabilität mit Exchange Server|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Unified Messaging-Interoperabilität mit Exchange Online|Nein|Nein|Nein|Nein|Nein| Nein|Nein|
-|Interoperabilität von Outlook im Web|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Outlook in der Webinteroperabilität|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Archivierungsinteroperabilität mit Exchange Server|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Archivierungsinteroperabilität mit Exchange Online|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Kompetenzsuche mit SharePoint Server|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |Kompetenzsuche mit SharePoint Online|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |**[Skype for Business Online-Administration und -Verwaltung](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Deutschland Business Essentials**|**Office 365 Deutschland Business**|**Office 365 Deutschland Business Premium**|**Office 365 Deutschland Education A1**|**Office 365 Deutschland Enterprise E3**|**Office 365 Deutschland Enterprise E4**|**Office 365 Deutschland Enterprise K1**|
 |Microsoft Office 365-Portal|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Microsoft 365 Admin Center|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Microsoft 365 Admin Center|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Skype for Business Online Admin Center|Ja|Ja<sup>3</sup>|Ja|Ja|Ja|Ja|Nein|
 |Windows PowerShell|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
-|Skype for Business Online-Berichterstellung im Microsoft 365 Admin Center|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
+|Skype for Business Onlineberichte im Microsoft 365 Admin Center|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging, and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus und Office 365 Enterprise E3 enthalten die vollständige Skype for Business (Lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefeatures umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop-Clientvergleichstabellen](/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
-<sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan.<br/> <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface. <br/>
+<sup>2</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan.<br/> <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface.<br/>
 <sup>4</sup> You must assign an Exchange Online (Plan 2) plan to users who you want to have voice mail. An Exchange Online (Plan 1) plan can't be used for voice mail. <br/>
 <sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. Verbundrufe werden jedoch unterstützt.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon.
 
 ## <a name="visio-for-the-web-features"></a>Visio für die Webfeatures
 
-Visio für das Web ist für Office 365 Deutschland verfügbar. Weitere Informationen zu Visio für das Web finden Sie unter [Visio für die Webdienstbeschreibung](../visio-online-service-description/visio-online-service-description.md).
+Visio für das Web ist für Office 365 Verfügbar. Weitere Informationen zu Visio für das Web finden Sie im Visio [der Webdienstbeschreibung](../visio-online-service-description/visio-online-service-description.md).

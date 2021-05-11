@@ -28,10 +28,10 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 |:-----|:-----|:-----|
 |**Dienstbeschreibung** <br/> |**Thema** <br/> |**Änderung** <br/> |
 |Office 365-Plattform  <br/> |[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |Die mobile Verfügbarkeit in A1-Plänen wurde aktualisiert.  <br/> |
-||[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |Verweise auf das Rechtssicherungsverfahren in den Abschnitten Education Security and Compliance Center und Exchange Online aktualisiert.  <br/> |
-|Exchange Online  <br/> |[Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md) <br/> |Die Verfügbarkeit in Microsoft 365 Apps for Business wurde aktualisiert.  <br/> |
+||[Office 365 Education](office-365-platform-service-description/office-365-education.md) <br/> |Verweise im Education Security and Compliance Center und in den abschnitten Exchange Online aktualisiert.  <br/> |
+|Exchange Online  <br/> |[Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md) <br/> |Aktualisierte Verfügbarkeit in Microsoft 365 Apps for Business.  <br/> |
 |Office-Anwendungen  <br/> |[Dienstbeschreibung zu Office-Anwendungen](office-applications-service-description/office-applications-service-description.md) <br/> |Aktualisierte Verfügbarkeit auf mobilen Plattformen.  <br/> |
-|Workplace Analytics  <br/> |[Beschreibung zu Workplace Analytics](workplace-analytics-service-description.md) <br/> |Lizenzplatzbeschränkung aktualisiert, Link zum Artikel Erste Schritte hinzugefügt, Voraussetzungen aktualisiert.  <br/> |
+|Workplace Analytics  <br/> |[Beschreibung zu Workplace Analytics](workplace-analytics-service-description.md) <br/> |Lizenzplatzbeschränkung aktualisiert, Link zu Erste Schritte Artikel, aktualisierte Voraussetzungen hinzugefügt.  <br/> |
 |Project Online  <br/> |[Project Online-Dienstbeschreibung](project-online-service-description/project-online-service-description.md) <br/> |Erläuterte Lizenzierung.  <br/> |
 |Visio Online  <br/> |[Visio Online-Dienstbeschreibung](visio-online-service-description/visio-online-service-description.md) <br/> |Die Featurestabelle wurde aktualisiert, um zusätzliche Features zu zeigen, die jetzt in Visio Online verfügbar sind.  <br/> |
    
@@ -40,8 +40,8 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 ||||
 |:-----|:-----|:-----|
 |**Dienstbeschreibung** <br/> |**Thema** <br/> |**Änderung** <br/> |
-|Office 365-Plattform  <br/> |[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Erläuterte GCC High- und DoD-Freigabefunktionen.  <br/> |
-||[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Abschnitt "FastTrack" zum Thema "GCC" hinzugefügt.  <br/> |
+|Office 365-Plattform  <br/> |[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Erläuterte GCC Funktionen für hohe und doD-Freigabe.  <br/> |
+||[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Der Abschnitt FastTrack wurde zu GCC hinzugefügt.  <br/> |
    
 ## <a name="april-2018"></a>April 2018
 
@@ -50,9 +50,9 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 |**Dienstbeschreibung** <br/> |**Thema** <br/> |**Änderung** <br/> |
 |Office 365-Plattform  <br/> |[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Die Plattform-Dienstbeschreibung wurde um Multi-Geo-Informationen erweitert.  <br/> |
 ||[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Microsoft 365 Business wurde hinzugefügt.  <br/> |
-||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Der Archivierungsgrenzeintrag wurde für Microsoft 365 Business Basic und Microsoft 365 Business Standard auf "Ja" geändert.  <br/> |
+||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Der Archivierungsgrenzwert wurde in "Ja" für Microsoft 365 Business Basic und Microsoft 365 Business Standard.  <br/> |
 ||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"Advanced Security Management" wurde zu "Office 365 Cloud App Security" geändert.  <br/> |
-|Office für das Web  <br/> |[Excel für das Web](office-online-service-description/excel-online.md) <br/> |Der erste Hinweis im Thema wurde in "Arbeitsmappen, die mehr als 30 Megabyte (MB) überschreiten, in Excel für das Web von Microsoft SharePoint Online aus nicht angezeigt werden" geändert. Zuvor hieß es „10 MB".  <br/> |
+|Office für das Web  <br/> |[Excel für das Web](office-online-service-description/excel-online.md) <br/> |Der erste Hinweis im Thema wurde in "Arbeitsmappen, die mehr als 30 Megabyte (MB) überschreiten, in Excel für das Web von innerhalb Microsoft Office SharePoint Online" geändert. Zuvor hieß es „10 MB".  <br/> |
 |OneDrive for Business  <br/> |[OneDrive for Business - Dienstbeschreibung](onedrive-for-business-service-description.md) <br/> |Umfangreiche Aktualisierung der Dienstbeschreibung von OneDrive for Business.  <br/> |
    
 ## <a name="march-2018"></a>März 2018
@@ -74,13 +74,13 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 ||||
 |:-----|:-----|:-----|
 |**Dienstbeschreibung** <br/> |**Thema** <br/> |**Änderung** <br/> |
-|Office 365-Plattform  <br/> |[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Die StaffHub-Verfügbarkeit für Microsoft 365 Business Standard wurde aktualisiert.  <br/> |
+|Office 365-Plattform  <br/> |[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Aktualisierte StaffHub-Verfügbarkeit für Microsoft 365 Business Standard.  <br/> |
 ||[Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Die [Compliance[ServiceDesc]](/compliance/regulatory/offering-home)-Seite der Industriezertifizierungen wurde aktualisiert.  <br/> |
 ||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Die manuellen Aufbewahrungsrichtlinien für den Office 365 Enterprise 1-Plan wurde aktualisiert.  <br/> |
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Mehrere Updates und Umstrukturierungen.  <br/> |
 ||[Office 365, betrieben von 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Die Voicemail- und Voicemailintegration-Verfügbarkeit wurde korrigiert.  <br/> |
 |Exchange Online  <br/> |[Exchange Online-Dienstbeschreibung](exchange-online-service-description/exchange-online-service-description.md) <br/> |Die Verfügbarkeit von Gruppen für Exchange Online-Pläne wurde genauer erläutert.  <br/> |
-|Skype for Business Online  <br/> |[Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Aktualisierte Telefonsystem- und Konferenzverfügbarkeit für Microsoft 365 Business Standard-Kunden.  <br/> |
+|Skype for Business Online  <br/> |[Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Aktualisierte Telefonsystem und Konferenzverfügbarkeit für Microsoft 365 Business Standard Kunden.  <br/> |
    
 ## <a name="january-2018"></a>Januar 2018
 
@@ -129,8 +129,8 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 ||[Office 365 US Government](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Tabelle zu Datenmigrationen hinzugefügt, die von FastTrack durchgeführt werden.  <br/> |
 ||[Office 365 Deutschland](office-365-platform-service-description/office-365-germany.md) <br/> |Hinweis hinzugefügt, dass für die Verbundfreigabe die Verwendung des Verfügbarkeitsadressraums zur Unterstützung der Freigabe für andere Mandanten erforderlich ist.  <br/> |
 |Exchange Online  <br/> |[Exchange Online-Begrenzungen](exchange-online-service-description/exchange-online-limits.md) <br/> |Grenzwerte für ältere Version der Office 365-Nachrichtenverschlüsselung (OME) und für Office 365-Nachrichtenverschlüsselung (OME) mit neuen Funktionen hinzugefügt.  <br/> |
-|Skype for Business  <br/> |[Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Beachten Sie, dass Audiokonferenzen microsoft 365 Business Standard, Office 365 Enterprise E1 und Office 365 Enterprise E3-Abonnementplänen als Add-On hinzugefügt werden können.  <br/> |
-||[Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Beachten Sie, dass Kommunikationsguthaben dem Microsoft 365 Business Standard-Abonnementplan als Add-On hinzugefügt werden können, um nur Audiokonferenzen zu unterstützen.  <br/> |
+|Skype for Business  <br/> |[Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Beachten Sie, dass Audiokonferenzen als Add-On zu Microsoft 365 Business Standard, Office 365 Enterprise E1 und Office 365 Enterprise E3-Abonnementplänen hinzugefügt werden können.  <br/> |
+||[Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Beachten Sie, dass Kommunikationsguthaben dem Abonnementplan Microsoft 365 Business Standard als Add-On hinzugefügt werden können, um nur Audiokonferenzen zu unterstützen.  <br/> |
 ||[Skype for Business Online-Dienstbeschreibung](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Funktionen für Dateiübertragung in Office 365 Enterprise F1 erläutert.  <br/> |
 |Visio Online  <br/> |[Visio Online-Dienstbeschreibung](visio-online-service-description/visio-online-service-description.md) <br/> |Neue Seite zur Visio Online-Dienstbeschreibung hinzugefügt und mehrere Seiten diesem Zusatz entsprechend aktualisiert.  <br/> |
    
@@ -186,4 +186,4 @@ In den folgenden Tabellen werden Änderungen aufgeführt, die vor Kurzem an Dien
 ||[Sprachnachrichtendienste](exchange-online-service-description/voice-message-services.md) <br/> |Wurde um eine Ankündigung des Lebenzyklusendes für Exchange Online Unified Messaging über SBC erweitert.  <br/> |
 | Workplace Analytics  <br/> |[Beschreibung zu Workplace Analytics](workplace-analytics-service-description.md) <br/> |Neue Dienstbeschreibung wurde hinzugefügt.  <br/> |
 |Mehrere  <br/> |Mehrere  <br/> |Azure RMS wurde in Azure Information Protection (AIP) umbenannt.  <br/> |
-|Mehrere  <br/> |Mehrere  <br/> |Entfernte Vergleichsdetails für Office für das Web und Office Desktop aus Office 365 Deutschland und Office 365, betrieben von 21Vianet-Seiten. Zeiger auf denselben Inhalt wurde auf der Seite "Webdienstbeschreibung" auf Office hinzugefügt.  <br/> |
+|Mehrere  <br/> |Mehrere  <br/> |Die Office für das Web und Office Desktopvergleichsdetails aus Office 365 Deutschland und Office 365 21Vianet-Seiten entfernt. Zeiger auf denselben Inhalt auf der Office für die Webdienstbeschreibungsseite hinzugefügt.  <br/> |

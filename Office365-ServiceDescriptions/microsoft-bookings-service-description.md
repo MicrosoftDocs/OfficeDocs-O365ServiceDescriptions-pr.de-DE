@@ -17,7 +17,7 @@ ms.locfileid: "51653377"
 ---
 # <a name="microsoft-bookings-service-description"></a>Microsoft Bookings – Dienstbeschreibung
 
-Microsoft Bookings vereinfacht das Planen und Verwalten von Terminen. Bookings umfasst einen webbasierten Buchungskalender und synchronisiert mit Outlook, um die Verfügbarkeit zu optimieren und Kunden und Endbenutzern Flexibilität bei der Buchung einer für sie besten Zeit zu bieten. Automatisierte Benachrichtigungs-E-Mails und Erinnerungen reduzieren No-Shows und verbessern die Kundenzufriedenheit, und Organisationen sparen Zeit mit einer Reduzierung der sich wiederholenden Zeitplanungsaufgaben. Bookings wird in Microsoft Teams integriert, um virtuelle Termine über Onlinebesprechungen und die Bookings-Kalenderverwaltung über die Bookings-App in Teams zu unterstützen.
+Microsoft Bookings vereinfacht das Planen und Verwalten von Terminen. Bookings umfasst einen webbasierten Buchungskalender und synchronisiert Outlook, um die Verfügbarkeit zu optimieren und Kunden und Endbenutzern Flexibilität zu geben, eine Für sie optimale Zeit zu reservieren. Automatisierte Benachrichtigungs-E-Mails und Erinnerungen reduzieren No-Shows und verbessern die Kundenzufriedenheit, und Organisationen sparen Zeit mit einer Reduzierung der sich wiederholenden Zeitplanungsaufgaben. Bookings integriert sich in Microsoft Teams, um virtuelle Termine über Onlinebesprechungen und die Bookings-Kalenderverwaltung über die Bookings-App in Teams.
 
 ## <a name="available-plans"></a>Verfügbare Pläne
 
@@ -27,21 +27,21 @@ Ausführliche Planinformationen zu Abonnements, die Benutzer für Microsoft Book
 
 In der folgenden Tabelle sind die wichtigsten Microsoft Bookings-Features aufgeführt, die planübergreifend verfügbar sind. Es gelten bestimmte Vorbehalte. Weitere Informationen finden Sie in den Fußnoten. Diese Tabelle kann sich ohne vorherige Ankündigung ändern.
 
-| Hauptfeature | Small Business | Enterprise-Pläne | GCC | GCC – hoch | DOD | Education |
+| Hauptfeature | Small Business | Enterprise-Pläne | GCC | GCC – hoch | DOD | Bildung |
 | --- | --- | --- | --- | --- | --- | --- |
 | Webbasierte Planungsseite (Buchungsseite) | Ja | Ja | Ja | Nein | Nein | Ja |
 | Zugriffssteuerung für Buchungsseiten (nur Mandanten) | Ja | Ja | Ja | Nein | Nein | Ja |
 | Onlinebesprechungen über Skype und Teams<sup>1</sup> <br/> | Ja | Ja | Ja | Nein | Nein | Ja |
 | Gruppenbuchungen (1 Mitarbeiter: N Kunden) | Ja | Ja | Ja | Nein | Nein | Ja |
 | Terminbenachrichtigungs-E-Mails | Ja | Ja | Ja | Nein | Nein | Ja |
-| SMS zur Terminbenachrichtigung | Ja<sup>2</sup> <br/> | Ja<sup>2</sup> <br/> | Ja<sup>2</sup> <br/> | Nein | Nein | Ja |
+| Terminbenachrichtigungen SMS | Ja<sup>2</sup> <br/> | Ja<sup>2</sup> <br/> | Ja<sup>2</sup> <br/> | Nein | Nein | Ja |
 | Personal-/Dienstverwaltung | Ja | Ja | Ja | Nein | Nein | Ja |
 | Benutzerdefinierte Felder in der Benutzerdatensammlung | Ja | Ja | Ja | Nein | Nein | Ja |
 | Bookings-API in Microsoft Graph | Ja | Ja | Nein | Nein | Nein | Ja |
 | Bookings-App in Teams | Ja | Ja | Nein | Nein | Nein | Ja |
 
-<sup>1</sup> Für Onlinebesprechungen muss der Mitarbeiter über eine Microsoft Teams- oder Skype for Business-Lizenz verfügen, die das Erstellen von Besprechungen ermöglicht.
-<br/><sup>2</sup> SMS-Benachrichtigungen befinden sich derzeit in der Betaversion und sind nur in Nordamerika verfügbar.
+<sup>1</sup> Für Onlinebesprechungen muss der Mitarbeiter über eine Microsoft Teams oder Skype for Business verfügen, die das Erstellen von Besprechungen ermöglicht.
+<br/><sup>2</sup> SMS Benachrichtigungen sind derzeit in der Betaversion und nur in Nordamerika verfügbar.
 
 ## <a name="learn-more"></a>Weitere Informationen
 
@@ -50,7 +50,7 @@ Technische Informationen zu Microsoft Bookings finden Sie in den folgenden Resso
 - [Microsoft Bookings-Dokumentation zu Microsoft Docs](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
 - [Microsoft Bookings-API in Microsoft Graph](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
 - [Bookings-Produktseite](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app)
-- [Bookings-Blog in der Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
+- [Bookings Blog in Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
 
 ### <a name="licensing-terms"></a>Lizenzierungsbedingungen
 
@@ -62,4 +62,4 @@ Informationen zu bevorstehenden Änderungen, einschließlich neuer und geändert
 
 ### <a name="accessibility"></a>Barrierefreiheit
 
-Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center und](https://www.microsoft.com/trust-center) im Office Accessibility [Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und im Office Accessibility [Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

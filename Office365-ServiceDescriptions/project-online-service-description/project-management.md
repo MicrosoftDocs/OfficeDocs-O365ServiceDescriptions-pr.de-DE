@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
-description: Die folgenden Projektverwaltungsfeatures sind in Project Online verfügbar.
+description: Die folgenden Projektverwaltungsfeatures sind in Project Online.
 ms.openlocfilehash: 77f5e4e0478f20eabe89f4b3c3a578733f3d93f8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,9 +19,9 @@ ms.locfileid: "51652269"
 ---
 # <a name="project-management"></a>Projektmanagement
 
-Die folgenden Projektverwaltungsfeatures sind in Project Online verfügbar.
+Die folgenden Projektverwaltungsfeatures sind in Project Online.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen [finden Project Online Dienstbeschreibung](project-online-service-description.md).
   
 ## <a name="issues-and-risk-management"></a>Problem- und Risikoverwaltung
 
@@ -43,6 +43,6 @@ Im Zeitplan werden die Aufgaben und Projektleistungen dargestellt, die abgeschlo
 
 Verwenden Sie einen zentralisierten und gemeinsamen Ansatz für die Verwaltung der Zeiterfassung und der Vorgänge. Erfassen Sie Arbeitszeiten und arbeitsfreie Zeiten für die Personalabrechnung, die Fakturierung und andere geschäftliche Zwecke. Informieren Sie effizient über den Projektstatus oder tägliche Arbeiten sowie über Ad-hoc-Anfragen, um hohe und niedrige Auslastung oder den Fortschritt von Vorgängen abzuschätzen. Damit können Sie die Auswirkung auf die Planungen im Hinblick auf Aufwand, Kosten und Zeitplan antizipieren. Erfahren Sie mehr über das [Verfolgen Ihrer Arbeitszeiten und des Vorgangsfortschritts](https://go.microsoft.com/fwlink/p/?LinkId=271321).
 
-## <a name="project-home"></a>Project Home
+## <a name="project-home"></a>Project Startseite
 
-Project Home ist der Ausgangspunkt, mit dem Sie schnell und einfach auf projekte zugreifen können, die kürzlich bearbeitet wurden, und wichtige, top-of-mind-Projekte. Sie können diese Projekte mit einfach zu verwendenden Steuerelementen als Favoriten markieren, damit sie in Project Home prominent angezeigt werden. Weitere Informationen finden Sie unter [Erste Schritte mit Project Home](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).
+Project Home ist der Ausgangspunkt, mit dem Sie schnell und einfach auf projekte zugreifen können, die kürzlich bearbeitet wurden, und wichtige, top-of-mind-Projekte. Sie können diese Projekte mit einfach zu verwendenden Steuerelementen als Favoriten markieren, damit sie in der Startseite Project werden. Weitere Informationen finden Sie unter [Erste Schritte mit Project Home](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).

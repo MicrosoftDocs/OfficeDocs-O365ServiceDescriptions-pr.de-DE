@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word für das Web (früher Word Web App) erweitert Ihre Microsoft Word-Erfahrung auf den Webbrowser, in dem Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist.
+description: Word für das Web (früher Word Web App) erweitert Ihre Microsoft Word auf den Webbrowser, in dem Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist.
 ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,7 +23,7 @@ ms.locfileid: "51652329"
 ---
 # <a name="word-for-the-web"></a>Word für das Web
 
-Word für das Web (früher Word Web App) erweitert Ihre Microsoft Word-Erfahrung auf den Webbrowser, in dem Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist. 
+Word für das Web (früher Word Web App) erweitert Ihre Microsoft Word auf den Webbrowser, in dem Sie mit Dokumenten direkt auf der Website arbeiten können, auf der das Dokument gespeichert ist. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Hilfslinien und Echtzeitlayout
 
@@ -63,7 +63,7 @@ In Word für das Web nicht verfügbar. Sie können vorhandene Zitate in Word fü
   
 ## <a name="clipboard"></a>Zwischenablage
 
-Aufgrund der Einschränkungen der Webbrowsertechnologie unterscheidet sich das Kopieren und Einfügen von Text in Office für das Web vom Kopieren und Einfügen von Text in den Office-Desktopanwendungen. Erfahren Sie mehr [über kopieren und einfügen in Office für das Web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
+Aufgrund der Einschränkungen der Webbrowsertechnologie unterscheidet sich das Kopieren und Einfügen von Text in Office für das Web vom Kopieren und Einfügen von Text in Office Desktopanwendungen. Erfahren Sie mehr [über kopieren und einfügen in Office für das Web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
   
 ## <a name="collaboration-advanced"></a>Zusammenarbeit, erweitert
 
@@ -111,7 +111,7 @@ Sie können Ihren Dokumenten in Word für das Web Fußnoten und Endnoten hinzuf�
   
 ## <a name="full-fidelity-reading-view"></a>Originalgetreue Leseansicht
 
-Wenn Sie Ihr Dokument in OneDrive oder SharePoint öffnen, öffnet Word für das Web das Dokument im Browser. Layout und Formatierung entsprechen dem, was Sie sehen, wenn Sie das Dokument in der Word-Desktop-App in der Drucklayoutansicht öffnen.
+Wenn Sie Ihr Dokument in OneDrive oder SharePoint öffnen, wird das Dokument von Word für das Web im Browser geöffnet. Layout und Formatierung entsprechen dem, was Sie sehen, wenn Sie das Dokument in der Word-Desktop-App in der Drucklayoutansicht öffnen.
   
 ## <a name="graphic-effect-presets"></a>Voreinstellungen für grafische Effekte
 
@@ -131,7 +131,7 @@ Ein Index enthält die Begriffe und Themen, die in einem Dokument erläutert wer
   
 ## <a name="insert-online-pictures"></a>Einfügen von Onlinebildern
 
-Mit Word für das Web können Sie ein Bild aus einer Datei einfügen, die auf Ihrer lokalen Festplatte oder in Bing Images gespeichert ist. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Dokuments im Browser und in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Mit Word für das Web können Sie ein Bild aus einer Datei einfügen, die auf Ihrer lokalen Festplatte oder in Bing gespeichert ist. Erfahren Sie mehr über die [Unterschiede zwischen der Verwendung eines Dokuments im Browser und in Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="irm-and-password-protection"></a>IRM- und Kennwortschutz
 
@@ -151,7 +151,7 @@ In Word für das Web nicht verfügbar. Erweiterte Features für die Datenintegra
   
 ## <a name="offline-viewing-and-authoring"></a>Offlineansicht und -erstellung
 
-In Word für das Web nicht verfügbar. Office für das Web erfordert eine Internetverbindung und einen Internetbrowser. Sie benötigen die auf Ihrem Computer installierte Word-Desktop-App zum Anzeigen und Bearbeiten eines Dokuments, während die Verbindung mit dem Internet oder dem lokalen Office Web Apps Server Ihrer Organisation getrennt ist. Wenn Sie die Word-Desktop-App installiert haben, können Sie alle Word-Funktionen zum Anzeigen und Bearbeiten Ihres Dokuments verwenden. Beim Speichern wird das Onlinedokument mit Ihren Änderungen aktualisiert. Sie können auch eine Offlinekopie des Dokuments herunterladen und speichern; diese wird aber nicht mit der Onlineversion synchronisiert sein. Erfahren Sie mehr über [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
+In Word für das Web nicht verfügbar. Office für das Web erfordert eine Internetverbindung und einen Internetbrowser. Sie benötigen die auf Ihrem Computer installierte Word-Desktop-App, um ein Dokument anzeigen und bearbeiten zu können, während die Verbindung mit dem Internet oder dem lokalen Web Apps Server ihrer Organisation Office ist. Wenn Sie die Word-Desktop-App installiert haben, können Sie alle Word-Funktionen zum Anzeigen und Bearbeiten Ihres Dokuments verwenden. Beim Speichern wird das Onlinedokument mit Ihren Änderungen aktualisiert. Sie können auch eine Offlinekopie des Dokuments herunterladen und speichern; diese wird aber nicht mit der Onlineversion synchronisiert sein. Erfahren Sie mehr über [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
   
 ## <a name="page-breaks"></a>Seitenwechsel
 
@@ -293,7 +293,7 @@ Die Zoomfunktion ist im Ansichtsmodus verfügbar. Verwenden Sie mit Word für da
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Office für die Webdienstbeschreibung](office-online-service-description.md). 
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Office der Webdienstbeschreibung](office-online-service-description.md). 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>Einschränkungen und Spezifikationen für Betriebsparameter
 

@@ -25,7 +25,7 @@ Microsoft unterstützt die folgenden Netzwerkfunktionen.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Ports, Protokolle und IP-Adressen
 
-Microsoft verwendet IPv4- und IPv6-Adressen. Die Verwendung von IPv6-Adressen ist optional und für Konnektivität mit Office 365 nicht erforderlich. Nicht alle Microsoft 365-Features sind mit IPv6 vollständig aktiviert. Weitere Informationen zum Ipv6-Support finden Sie unter [IPv6-Support in Microsoft Services](/office365/enterprise/ipv6-support).
+Microsoft verwendet IPv4- und IPv6-Adressen. Die Verwendung von IPv6-Adressen ist optional und für Konnektivität mit Office 365 nicht erforderlich. Nicht alle Microsoft 365 sind mit IPv6 vollständig aktiviert. Weitere Informationen zur Ipv6-Unterstützung finden Sie unter [IPv6-Support in Microsoft-Dienste](/office365/enterprise/ipv6-support).
   
 Microsoft verwaltet eine Liste der zulässigen IP-Adressen in der Microsoft-Hilfe. Weitere Informationen finden Sie unter [URLs und IP-Adressbereiche](/office365/enterprise/urls-and-ip-address-ranges). Für Office 365 betrieben von 21Vianet finden Sie entsprechende Informationen unter [URLs and IP Addresses for Office 365 operated by 21Vianet](/office365/enterprise/managing-office-365-endpoints). Für Office 365 Deutschland finden Sie die betreffenden Informationen unter [Endpunkte - Office 365 Deutschland](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
@@ -64,4 +64,4 @@ Weitere Informationen finden Sie im [Office 365 Trust Center](https://www.micros
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie [unter Microsoft 365 und Office 365 Beschreibung des Plattformdiensts](office-365-platform-service-description.md).

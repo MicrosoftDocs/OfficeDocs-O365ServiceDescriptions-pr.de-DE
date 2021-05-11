@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Die folgenden Aufgabenverwaltungsfeatures sind in Project Online verfügbar.
+description: Die folgenden Aufgabenverwaltungsfeatures sind in Project Online.
 ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651060"
 ---
 # <a name="task-management"></a>Vorgangsverwaltung
 
-Die folgenden Aufgabenverwaltungsfeatures sind in Project Online verfügbar.
+Die folgenden Aufgabenverwaltungsfeatures sind in Project Online.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen [finden Project Online Dienstbeschreibung](project-online-service-description.md).
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -53,7 +53,7 @@ Zeigen Sie Faktoren an, die Einfluss auf die Planung eines Vorgangs haben, z. B
 
 Zeigen Sie an, wie ein Vorgang sich mit einem anderen verbindet, indem Sie den Aufgabenpfad im gesamten Projekt hervorheben. Erfahren Sie mehr über das [Hervorheben von Aufgabenverknüpfungen](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
-## <a name="top-down-summary-tasks"></a>Top-down-Sammelvorgänge
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 
 Erstellen Sie eine Ressourcenzuordnung für einen Sammelvorgang. Erfahren Sie mehr über die [Projektplanung mit der Top-down-Methode](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
@@ -67,5 +67,5 @@ Verwenden Sie den Modus "Vorgang manuell planen" zum manuellen Planen von Aufgab
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online service description](project-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Project Online Service description](project-online-service-description.md).
   

@@ -36,7 +36,7 @@ Weitere Informationen zum Konfigurieren von Skype for Business Server 2015 mit E
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Für Kunden, die Microsoft SharePoint Server oder SharePoint Online als Teil eines Abonnementplans bereitgestellt haben, kann SharePoint eine Verbindung mit Exchange Online für integrierte Dienste herstellen.
+Für Kunden, die Microsoft SharePoint Server oder SharePoint Online als Teil eines Abonnementplans bereitgestellt haben, kann SharePoint verbindung mit Exchange Online integrierten Diensten herstellen.
   
 Weitere Informationen zum Verbinden von SharePoint mit Exchange Online finden Sie unter [Verwenden von SharePoint Online zusammen mit anderen Diensten in einer benutzerdefinierten Domäne](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -50,7 +50,7 @@ Exchange Online bietet die folgenden Funktionen zum Herstellen einer Verbindung 
     
 ### <a name="exchange-web-services"></a>Exchange-Webdienste
 
-Exchange-Webdienste (Exchange Web Services, EWS) ist die bevorzugte Entwicklungs-API für Exchange Server und Exchange Online. Mithilfe von EWS oder der verwalteten EWS-API können Administratoren über Anwendungen, die lokal, in Azure oder in anderen gehosteten Diensten ausgeführt werden, auf mit Exchange Online gespeicherte Daten zugreifen. MIT EWS können Administratoren spezielle Aktionen ausführen, z. B. das Abfragen des Inhalts eines Postfachs, das Veröffentlichen eines Kalenderereigniss, das Erstellen einer Aufgabe oder das Auslösen einer bestimmten Aktion basierend auf dem Inhalt einer E-Mail-Nachricht. Exchange Online aktiviert Exchange-Webdienste-Funktionen, indem Kundenkonten Anwendungsberechtigungen gewährt werden. Diese Berechtigungen ermöglichen es der Kundenanwendung, auf das Anwendungspostfach zuzugreifen und Inhalte hinzuzufügen. Exchange-Identitätswechsel ist eine Methode, um Anwendungsberechtigungen zu gewähren. Informationen dazu, wie Sie Exchange-Webdienste mit Exchange Online verwenden können, finden Sie in den technischen Artikeln im Exchange Online Developer Center.
+Exchange-Webdienste (Exchange Web Services, EWS) ist die bevorzugte Entwicklungs-API für Exchange Server und Exchange Online. Mithilfe von EWS oder der verwalteten EWS-API können Administratoren auf mit Exchange Online gespeicherte Daten von Anwendungen zugreifen, die lokal, in Azure oder in anderen gehosteten Diensten ausgeführt werden. MIT EWS können Administratoren spezielle Aktionen ausführen, z. B. das Abfragen des Inhalts eines Postfachs, das Veröffentlichen eines Kalenderereigniss, das Erstellen einer Aufgabe oder das Auslösen einer bestimmten Aktion basierend auf dem Inhalt einer E-Mail-Nachricht. Exchange Online aktiviert Exchange-Webdienste-Funktionen, indem Kundenkonten Anwendungsberechtigungen gewährt werden. Diese Berechtigungen ermöglichen es der Kundenanwendung, auf das Anwendungspostfach zuzugreifen und Inhalte hinzuzufügen. Exchange-Identitätswechsel ist eine Methode, um Anwendungsberechtigungen zu gewähren. Informationen dazu, wie Sie Exchange-Webdienste mit Exchange Online verwenden können, finden Sie in den technischen Artikeln im Exchange Online Developer Center.
   
 ### <a name="smtp-relay"></a>SMTP-Relay
 
@@ -58,4 +58,4 @@ Exchange Online kann als ein SMTP-Zustelldienst verwendet werden, um von Fax-Gat
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Exchange Online Service description](exchange-online-service-description.md).

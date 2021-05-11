@@ -24,7 +24,7 @@ ms.locfileid: "51653517"
 Die folgenden Supportfeatures sind in Yammer.
   
 > [!IMPORTANT]
-> Yammer unterstützt nicht das Wiederherstellen gelöschter Inhalte wie externe Netzwerke, Benutzer, Nachrichten, Gruppen und Dateien, einschließlich inhalte, die von Netzwerkadministratoren versehentlich &mdash; &mdash; gelöscht wurden.
+> Yammer unterstützt nicht das Wiederherstellen gelöschter Inhalte wie externe Netzwerke, Benutzer, Nachrichten, Gruppen und Dateien, einschließlich Inhalte, die von Netzwerkadministratoren versehentlich &mdash; &mdash; gelöscht wurden.
 >
 > Microsoft stellt keine benutzerdefinierten oder Ad-hoc-Berichte außerhalb der analysefeatures bereit, die in Yammer. Gelegentlich kann Microsoft im Rahmen einer Supportanfrage einen benutzerdefinierten Bericht bereitstellen, kann aber in den meisten Prozenten keine direkten Anforderungen für die Daten erfüllen.
 
@@ -34,11 +34,11 @@ Yammer Enterprise-Administratoren sind für die Kontowartung zuständig und sind
 
 ## <a name="customer-support"></a>Kundensupport
 
-Der technische Support beantwortet Kundenfragen und hilft bei der raschen Problembehebung. Yammer Kunden erhalten Unterstützung, indem sie im öffentlichen Supportforum veröffentlichen, das 24 Stunden am Tag, sieben Tage die Woche von Supportmitarbeitern überwacht wird. Wenn Sie ein Yammer-Kunde sind und nach Support suchen, besuchen Sie [Yammer Public Support](https://go.microsoft.com/fwlink/p/?LinkId=330921).
+Der technische Support beantwortet Kundenfragen und hilft bei der raschen Problembehebung. Yammer Kunden erhalten Support, indem sie im öffentlichen Supportforum veröffentlichen, das 24 Stunden am Tag, sieben Tage die Woche von Supportmitarbeitern überwacht wird. Wenn Sie ein Yammer-Kunde sind und nach Support suchen, besuchen Sie [Yammer Public Support](https://go.microsoft.com/fwlink/p/?LinkId=330921).
    
 ## <a name="fasttrack-center"></a>FastTrack Center
 
-Der Microsoft FastTrack-Dienst kann Ihre Organisation bei ihrem Wechsel zur Microsoft Cloud unterstützen, indem sie bei jedem Schritt Hilfe zur Verfügung stellt. Mit FastTrack können Sie Rollouts strategisch planen, neue Dienste schnell hochfahren und neue Benutzer integrieren. Ausführliche Informationen finden Sie im [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Informationen zum Erstellen Ihres Yammer-Netzwerks, einschließlich Vorabstart, Start und Support von Dokumenten und Aktivitäten, finden Sie auf der Seite [Envision: Identifizieren](https://fasttrack.microsoft.com/office/envision/identify-scenarios) von Szenarien, und wählen Sie dann Ihre Organisation **zusammenbringen aus.**
+Der Microsoft FastTrack-Dienst kann Ihre Organisation bei ihrem Wechsel zur Microsoft Cloud unterstützen, indem sie bei jedem Schritt Hilfe zur Verfügung stellt. Mit FastTrack können Sie Rollouts strategisch planen, neue Dienste schnell hochfahren und neue Benutzer integrieren. Ausführliche Informationen finden Sie im [FastTrack Center](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Informationen zum Erstellen Ihres Yammer-Netzwerks, einschließlich Vorabstart, Start und Support von Dokumenten und Aktivitäten, finden Sie auf der Seite [Envision: Identifizieren](https://fasttrack.microsoft.com/office/envision/identify-scenarios) von Szenarien, und wählen Sie dann **Zusammenbringen Ihrer Organisation aus.**
 
 ## <a name="support-features-across-yammer-plans"></a>Supportfunktionen in Yammer-Plänen
 

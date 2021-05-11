@@ -35,4 +35,4 @@ Weitere Informationen finden Sie unter [Vereinbarung zum Servicelevel zu 21Viane
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie [unter Microsoft 365 und Office 365 Beschreibung des Plattformdiensts](office-365-platform-service-description.md).

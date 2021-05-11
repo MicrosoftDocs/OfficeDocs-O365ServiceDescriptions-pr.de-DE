@@ -27,13 +27,13 @@ Die folgenden Nachrichten- und Unterhaltungsfeatures sind in Yammer verfügbar.
 
 Benachrichtigen Sie andere Kollegen, und beziehen Sie sie durch die Erwähnung ihres Namens in eine Unterhaltung ein.
 
-## <a name="events"></a>Veranstaltungen
+## <a name="events"></a>Ereignisse
 
-Organisieren Sie Besprechungen und Ereignisse, teilen Sie sie mit Kollegen, und verfolgen Sie die Anwesenheit. Ereignisse können Outlook-, Google-, Yahoo!- und iCal-Kalendern hinzugefügt werden.
+Organisieren Sie Besprechungen und Ereignisse, teilen Sie sie mit Kollegen, und verfolgen Sie die Anwesenheit. Ereignisse können zu Kalendern Outlook, Google, Yahoo! und iCal hinzugefügt werden.
   
 ## <a name="office-for-the-web-support"></a>Office für den Websupport
 
-Mit office for the web support in Yammer können Dokumente, die in Yammer hochgeladen wurden, mit Office für das Web direkt in der Yammer. Auf diese Weise können Dokumente mit Office für das Web schön gerendert werden, ermöglicht die gleichzeitige Dokumenterstellung durch verschiedene Benutzer und zeigt relevante Yammer Unterhaltungen direkt in Ihrem Browser an.
+Mit Office für die Webunterstützung in Yammer können Dokumente, die in Yammer hochgeladen wurden, mit Office für das Web direkt in der Yammer. Auf diese Weise können Dokumente mit Office für das Web schön gerendert werden, ermöglicht die gleichzeitige Dokumenterstellung durch verschiedene Benutzer und zeigt relevante Yammer Unterhaltungen direkt im Browser an.
 
 ## <a name="online-now"></a>Jetzt online
 
@@ -57,5 +57,5 @@ Teilen Sie Unterhaltungen im Feed einer anderen Gruppe oder über eine private N
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zum Anzeigen von Featureverfügbarkeitsplänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Yammer Dienstbeschreibung](yammer-service-description.md).
+Informationen zum Anzeigen von Featureverfügbarkeitsplänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Yammer Service description](yammer-service-description.md).
   

@@ -36,7 +36,7 @@ Ein Dienstincident (auch als Servicevorfall bezeichnet) ist ein Ereignis, das di
   
 Es gibt zwei Arten von Benachrichtigungen über Zeiten, zu denen Dienste möglicherweise nicht zur Verfügung stehen:
   
-- **Geplante Wartungsereignisse:** Die geplante Wartung umfasst regelmäßige von Microsoft gestartete Dienstupdates an der Infrastruktur und den Softwareanwendungen. Geplante Wartungsbenachrichtigungen informieren Kunden über Dienstarbeiten, die sich auf die Funktionalität eines Microsoft-Diensts auswirken können. Kunden werden nicht später als fünf Tage im Voraus über das Message Center im Microsoft 365 Admin Center über die geplante Wartung benachrichtigt. Microsoft plant die Wartung normalerweise für Zeiten ein, zu denen die Dienstnutzung üblicherweise am geringsten ist, basierend auf regionalen Zeitzonen. 
+- **Geplante Wartungsereignisse:** Die geplante Wartung umfasst regelmäßige von Microsoft gestartete Dienstupdates an der Infrastruktur und den Softwareanwendungen. Geplante Wartungsbenachrichtigungen informieren Kunden über Dienstarbeiten, die sich auf die Funktionalität eines Microsoft-Diensts auswirken können. Kunden werden nicht später als fünf Tage im Voraus über das Message Center im Microsoft 365 benachrichtigt. Microsoft plant die Wartung normalerweise für Zeiten ein, zu denen die Dienstnutzung üblicherweise am geringsten ist, basierend auf regionalen Zeitzonen. 
     
 - **Ungeplante Ausfallzeiten:** Ungeplante Dienstvorfälle treten auf, wenn einer der Dienste nicht verfügbar oder nicht reagiert. 
 
@@ -84,7 +84,7 @@ Der Wechsel zu einem Clouddienst sollte nicht bedeuten, dass die Fähigkeit verl
 
 ## <a name="notification-policy"></a>Benachrichtigungsrichtlinie
 
-Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Administratoren, indem es das mandantenspezifische Dienstinteschashboard (Service Health Dashboard, SHD) im Microsoft 365 Admin Center aktualisiert. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. 
+Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Administratoren, indem das mandantenspezifische Service Health Dashboard (SHD) im Microsoft 365 aktualisiert wird. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. 
   
 ## <a name="service-health-communication-channels"></a>Kommunikationskanäle für den Dienstinte health
 
@@ -94,11 +94,11 @@ Mit der Admin App für Organisationsadministratoren können Sie unterwegs eine V
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Office 365 Management Pack für Microsoft System Center 2012 R2
 
-Microsoft System Center ist eine integrierte Verwaltungsplattform, die Ihnen hilft, Ihr Rechenzentrum, Ihre Clientgeräte und Hybrid Cloud-IT-Umgebungen zu verwalten. Microsoft-Administratoren, die System Center verwenden, haben jetzt die Möglichkeit, das Office 365 Management Pack zu importieren, mit dem sie die gesamte Dienstkommunikation im Operations Manager im System Center anzeigen können. Dieses Tool ermöglicht den Zugriff auf den Status Ihrer abonnierten Dienste, aktive und abgeschlossene Dienstereignisse sowie die Message Center-Kommunikation. Weitere Informationen finden Sie unter [Microsoft System Center Management Pack für Office 365](https://www.microsoft.com/download/details.aspx?id=43708) im Microsoft Download Center. 
+Microsoft System Center ist eine integrierte Verwaltungsplattform, die Ihnen hilft, Ihr Rechenzentrum, Ihre Clientgeräte und Hybrid Cloud-IT-Umgebungen zu verwalten. Microsoft-Administratoren, die System Center verwenden, haben jetzt die Möglichkeit, das Office 365 Management Pack zu importieren, mit dem sie die gesamte Dienstkommunikation im Operations Manager in System Center. Dieses Tool ermöglicht den Zugriff auf den Status Ihrer abonnierten Dienste, aktive und abgeschlossene Dienstereignisse sowie die Message Center-Kommunikation. Weitere Informationen finden Sie unter [Microsoft System Center Management Pack for Office 365](https://www.microsoft.com/download/details.aspx?id=43708) im Microsoft Download Center. 
   
 ### <a name="office-365-service-communications-api"></a>Office 365-Dienstkommunikations-API
 
-Mit der Office 365 Service Communications-API können Sie auf die Dienstkommunikation zugreifen, wie Sie möchten. Mit dieser API haben Sie die Möglichkeit, Ihre Tools mit der Dienstkommunikation zu erstellen oder zu verbinden, was die Überwachung Ihrer Umgebung potenziell vereinfacht. Mit der Dienstkommunikations-API können Sie die folgenden Elemente in Ihrer Umgebung überwachen:
+Mit Office 365 Service Communications-API können Sie auf die Dienstkommunikation zugreifen, wie Sie möchten. Mit dieser API haben Sie die Möglichkeit, Ihre Tools mit der Dienstkommunikation zu erstellen oder zu verbinden, was die Überwachung Ihrer Umgebung potenziell vereinfacht. Mit der Dienstkommunikations-API können Sie die folgenden Elemente in Ihrer Umgebung überwachen:
   
 - Dienststatus in Echtzeit
     
@@ -128,7 +128,7 @@ Bei allen anderen Dienstincidents stellt das Service Health Dashboard eine Zusam
 
 Microsoft-Angebote werden von besonders ausfallsicheren Systemen angeboten, die dazu beitragen, die Leistung des Diensts auf hohem Stand zu halten. Dienstkontinuitätsbestimmungen sind Teil des Systementwurfs. Diese Bestimmungen ermöglichen Microsoft die schnelle Wiederherstellung von unerwarteten Ereignissen wie Hardware- oder Anwendungsfehlern, Datenbeschädigungen oder anderen Vorfällen, die Sich auf Benutzer auswirken. Diese Lösungen für die Dienstverfügbarkeit gelten auch bei schwerwiegenden Ausfällen (wie Naturkatastrophen oder einem Incident in einem Microsoft-Rechenzentrum, durch den das gesamte Rechenzentrum nicht mehr funktionsfähig ist).
   
-Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gewisse Zeit, bis die vollständige Rechenzentrumsredundanz für den Dienst wiederhergestellt ist. Beispiel: Wenn Rechenzentrum 1 ausfällt, werden die Dienste durch Ressourcen in Rechenzentrum 2 wiederhergestellt. Allerdings kann es u. U. eine gewisse Zeit dauern, bis die Dienste in Rechenzentrum 2 unterbrechungsfrei ausgeführt werden, sei es durch wiederhergestellte Ressourcen in Rechenzentrum 1 oder neue Ressourcen in Rechenzentrum 3. Der Microsoft [Service Level Agreement](service-level-agreement.md) (SLA) gilt während dieser Zeit. Office 365, betrieben von 21Vianet, verfügt über eine andere SLA. Weitere Informationen finden Sie auf der [21Vianet-Website](https://www.21vbluecloud.com/office365/O365-SLA/). 
+Nach der Wiederherstellung nach einem schwerwiegenden Ausfall dauert es eine gewisse Zeit, bis die vollständige Rechenzentrumsredundanz für den Dienst wiederhergestellt ist. Beispiel: Wenn Rechenzentrum 1 ausfällt, werden die Dienste durch Ressourcen in Rechenzentrum 2 wiederhergestellt. Allerdings kann es u. U. eine gewisse Zeit dauern, bis die Dienste in Rechenzentrum 2 unterbrechungsfrei ausgeführt werden, sei es durch wiederhergestellte Ressourcen in Rechenzentrum 1 oder neue Ressourcen in Rechenzentrum 3. Der Microsoft [Service Level Agreement](service-level-agreement.md) (SLA) gilt während dieser Zeit. Office 365 von 21Vianet betrieben wird, verfügt über eine andere SLA. Weitere Informationen finden Sie auf der [21Vianet-Website](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Sicherstellen der Datenverfügbarkeit
 
@@ -136,7 +136,7 @@ Mit den folgenden Features stellt Microsoft sicher, dass Kundendaten immer zur V
   
 - **Datenspeicherung und -redundanz:** Die Daten der Kunden werden in einer redundanten Umgebung mit zuverlässigen Datenschutzfunktionen gespeichert, um Verfügbarkeit, Geschäftskontinuität und schnelle Wiederherstellung zu ermöglichen. Mehrere Ebenen von Datenredundanz sind implementiert. Sie reichen von redundanten Datenträgern zum Schutz vor lokalen Datenträgerfehlern über die fortlaufende Replikation bis zu geografisch verteilten Rechenzentren. 
     
-- **Datenüberwachung:** Microsoft-Dienste behalten ein hohes Leistungsniveau durch Überwachung bei: 
+- **Datenüberwachung: Microsoft-Dienste** hohe Leistung durch Überwachung beibehalten: 
     
   - Datenbanken
     
@@ -166,4 +166,4 @@ Weitere Informationen zum Support [](support.md) finden Sie im Support-Artikel.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in allen Plänen finden Sie [unter Microsoft 365 und Office 365 Beschreibung des Plattformdiensts](office-365-platform-service-description.md).

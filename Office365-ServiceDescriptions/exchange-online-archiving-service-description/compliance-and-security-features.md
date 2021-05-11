@@ -27,7 +27,7 @@ In diesem Artikel werden die Compliancefeatures der Microsoft Exchange Online be
   
 ### <a name="retention-policies"></a>Aufbewahrungsrichtlinien
 
-Exchange Online-Archivierung bietet Aufbewahrungsrichtlinien, die Organisationen dabei helfen, ihre Verpflichtungen hinsichtlich E-Mails und anderen Kommunikationsformen zu reduzieren. Mithilfe dieser Richtlinien haben Administratoren die Möglichkeit, Aufbewahrungseinstellungen für bestimmte Ordner des Posteingangs eines Benutzers anzuwenden. Administratoren können Benutzern auch ein Menü mit Aufbewahrungsrichtlinien zur Verfügung stellen und ihnen ermöglichen, die Richtlinien mithilfe von Outlook 2010 oder höher oder Outlook im Web auf bestimmte Elemente, Unterhaltungen oder Ordner anzuwenden. In Exchange Online-Archivierung verwalten Administratoren Aufbewahrungsrichtlinien aus der lokalen Infrastruktur.
+Exchange Online-Archivierung bietet Aufbewahrungsrichtlinien, die Organisationen dabei helfen, ihre Verpflichtungen hinsichtlich E-Mails und anderen Kommunikationsformen zu reduzieren. Mithilfe dieser Richtlinien haben Administratoren die Möglichkeit, Aufbewahrungseinstellungen für bestimmte Ordner des Posteingangs eines Benutzers anzuwenden. Administratoren können Benutzern auch ein Menü mit Aufbewahrungsrichtlinien zur Verfügung stellen und ihnen die Anwendung der Richtlinien auf bestimmte Elemente, Unterhaltungen oder Ordner mithilfe von Outlook 2010 oder höher oder Outlook im Web ermöglichen. In Exchange Online-Archivierung verwalten Administratoren Aufbewahrungsrichtlinien aus der lokalen Infrastruktur.
   
 Exchange Online-Archivierung bietet zwei Arten von Richtlinien: archivieren und löschen. Beide Typen können auf das gleiche Element oder den gleichen Ordner angewendet werden. Ein Benutzer kann beispielsweise eine E-Mail so markieren, dass sie nach einer bestimmten Anzahl von Tagen automatisch in das persönliche Archiv verschoben oder nach einer anderen festgelegten Anzahl von Tagen gelöscht wird.
   
@@ -95,7 +95,7 @@ TLS wird zum Verschlüsseln der Verbindung zwischen E-Mail-Servern verwendet, um
 
 Bei Clientverbindungen zu Exchange Online-Archivierung wird die Sicherheit anhand der folgenden Verschlüsselungsmethoden erhöht:
   
-- SSL wird zum Sichern des Datenverkehrs von Outlook, Outlook im Web und Exchange Web Services mithilfe von TCP-Port 443 verwendet.
+- SSL wird zum Sichern von Outlook, Outlook im Web und Exchange Web Services-Datenverkehr mithilfe von TCP-Port 443 verwendet.
     
 - Clientverbindungen zu lokalen Servern ändern sich mit der Einführung von Exchange Online-Archivierung nicht.
     
@@ -121,7 +121,7 @@ IRM-geschützte Nachrichten sind indiziert und durchsuchbar, einschließlich Kop
 
 Exchange Online-Archivierung bietet zwei Arten von integrierten Überwachungsfunktionen:
   
-- **Administrator-Überwachungsprotokollierung** – Mit der Administrator-Überwachungsprotokollierung können Kunden Änderungen nachverfolgen, die von ihren Administratoren in der Exchange Online-Archivierung-Umgebung vorgenommen wurden, einschließlich Änderungen an ROLLEN-VERWALTUNGSROLLEN oder Exchange-Richtlinien und -Einstellungen. 
+- **Administrator-Überwachungsprotokollierung** – Mit der Administrator-Überwachungsprotokollierung können Kunden Änderungen nachverfolgen, die von ihren Administratoren in der Exchange Online-Archivierung-Umgebung vorgenommen wurden, einschließlich Änderungen an rollen- oder Exchange Richtlinien und Einstellungen. 
     
 - **Postfach-Überwachungsprotokollierung** – Die Postfach-Überwachungsprotokollierung ermöglicht Es Kunden, den Zugriff auf Postfächer von anderen Benutzern als dem Postfachbesitzer nachverfolgt zu werden. 
     

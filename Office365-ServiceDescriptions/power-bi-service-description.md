@@ -27,13 +27,13 @@ Power BI ist derzeit im Rahmen der Office 365 Enterprise E5-Version verfügbar. 
 
 ## <a name="available-plans"></a>Verfügbare Pläne
 
-In der folgenden Tabelle sind die Pläne aufgeführt, die Power BI enthalten, damit Sie die Lösung auswählen können, die den Anforderungen Ihrer Organisation am besten entspricht. Ausführliche Planinformationen finden Sie unter [Leistungsstarke Tools zur Unterstützung Ihres Unternehmens.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans)
+In der folgenden Tabelle sind die Pläne aufgeführt, die Power BI, sodass Sie die Lösung auswählen können, die den Anforderungen Ihrer Organisation am besten entspricht. Ausführliche Planinformationen finden Sie unter [Leistungsstarke Tools zur Unterstützung Ihres Unternehmens.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans)
 
-Ausführliche Planinformationen zu Abonnements, die Benutzer für Power BI aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
+Ausführliche Planinformationen zu Abonnements, die Benutzern Power BI ermöglichen, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
  
 ## <a name="power-bi-plans"></a>Power BI-Tarife
 
-Sie können sich für den [Power BI-Plan registrieren,](https://go.microsoft.com/fwlink/?LinkID=786854) der Ihren Anforderungen am besten entspricht. 
+Sie können sich für den [Power BI, der](https://go.microsoft.com/fwlink/?LinkID=786854) Ihren Anforderungen am besten entspricht. 
   
 > [!NOTE]
 > Power BI und Power BI für Office 365 sind unterschiedliche Produkte. Power BI für Office 365 ist ein Dienst der Version 1 und ist veraltet. 

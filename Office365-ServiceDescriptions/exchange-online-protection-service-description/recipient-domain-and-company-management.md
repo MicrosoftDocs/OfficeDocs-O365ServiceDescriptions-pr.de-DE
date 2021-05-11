@@ -21,9 +21,9 @@ ms.locfileid: "51652997"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Empfänger-, Domänen- und Unternehmensverwaltung in Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) bietet verschiedene Möglichkeiten zum Verwalten von Empfänger-, Domänen- und Unternehmensinformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben im Exchange Admin Center (EAC) ausführen und andere Verwaltungsaufgaben überprüfen, die im Microsoft 365 Admin Center ausgeführt werden.
+Microsoft Exchange Online Protection (EOP) bietet verschiedene Möglichkeiten zum Verwalten von Empfänger-, Domänen- und Unternehmensinformationen. Als Administrator können Sie bestimmte Verwaltungsaufgaben im Exchange Admin Center (EAC) ausführen und andere Verwaltungsaufgaben überprüfen, die im Microsoft 365 ausgeführt werden.
   
-Sie suchen nach Informationen zu allen EOP-Funktionen? Weitere Informationen finden [Sie in der Beschreibung des Exchange Online Protection-Diensts](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu allen EOP-Funktionen? Weitere Informationen [finden Exchange Online Protection Dienstbeschreibung](exchange-online-protection-service-description.md).
   
 ## <a name="mail-recipients"></a>Mail recipients
 
@@ -49,4 +49,4 @@ Zum Aktivieren von DBEB ist eine bestimmte Benutzer- und Domänenkonfiguration e
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Exchange Online Protection Service description](exchange-online-protection-service-description.md).

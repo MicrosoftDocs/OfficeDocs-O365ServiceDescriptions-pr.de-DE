@@ -25,7 +25,7 @@ Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unterneh
   
 Eine Liste der Pläne, die Yammer enthalten, finden Sie unter [Microsoft service families and plans](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans).
   
-Ausführliche Planinformationen zu Abonnements, die Benutzern Yammer ermöglichen, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
+Ausführliche Planinformationen zu Abonnements, die Benutzern Yammer, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
   
 ## <a name="system-requirements"></a>Systemanforderungen
 
@@ -38,15 +38,15 @@ Yammer ist in den folgenden Plänen verfügbar:<br><br>
 | Plan | Beschreibung |
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Social Networking im Unternehmen - jederzeit und überall.  <br/> |
-|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Soziale Netzwerke in Unternehmen mit erweiterter Sicherheit, Verwaltung und Integration.  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise soziale Netzwerke mit erweiterter Sicherheit, Verwaltung und Integrationen.  <br/> |
    
 > [!NOTE]
-> Die in microsoft [365 und Office 365-Plattformdienstbeschreibung](../office-365-platform-service-description/office-365-platform-service-description.md) beschriebenen Features und Richtlinien gelten nicht für den Yammer Dienst. 
+> Die features and policies described in [Microsoft 365 and Office 365 platform service description](../office-365-platform-service-description/office-365-platform-service-description.md) don't apply to the Yammer service. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer Unternehmensdienstkommunikationsrichtlinie
 <a name="YammerCommsPolicy"> </a>
 
-Yammer der [Microsoft 365-Änderungsverwaltungsrichtlinie,](https://aka.ms/ManageChange)verwendet jedoch keine gezielte Version zum Rollout von Updates. 
+Yammer hält sich an [](https://aka.ms/ManageChange)Microsoft 365 Änderungsverwaltungsrichtlinie, verwendet jedoch keine gezielte Version zum Rollout von Updates. 
   
 Mit allen Yammer-Benutzern werden A/B-Featuretests durchgeführt. Auf diese Weise kann Microsoft Features auf Stabilität, Leistung und Benutzererfahrung in vielen Umgebungen und Geräten testen. Aufgrund der Tests haben unter Umständen Benutzer im gleichen Netzwerk unterschiedliche Benutzererfahrungen. Kunden haben nicht die Möglichkeit, A/B-Tests abzuwählen.
   
@@ -56,8 +56,8 @@ Die verwendeten Kommunikationskanäle hängen von den Auswirkungen ab:<br><br>
   
 | Änderungstyp | Kommunikationskanal |
 |:-----|:-----|
-|**Änderungen, die eine Aktion erfordern (Änderungsplan)** <br/>Administrator muss Änderungen vornehmen, damit der Dienst ausgeführt wird, Updates, die sich auf die Compliance Ihrer Organisation auswirken können  <br/> |– Office 365 Message Center-E-Mails direkt an Yammer bestätigten Administratoren <br/>– Microsoft 365 Roadmap<br/>- Yammer Dienstupdates<br/>- Externe Gruppe<br/>Bei Änderungen, die eine spezielle Benutzergruppe betreffen, können wir diese Benutzer auch direkt benachrichtigen. |
-|**Änderungen, die ein Bewusstsein erfordern (informiert bleiben)**<br/>Änderungen, die keine Administratoraktion erfordern, Änderungen am visuellen Design  <br/> |- Office 365 Message Center<br/>– Microsoft 365 Roadmap<br/>- Yammer Dienstupdates<br/>- Externe Gruppe<br/>Bei Änderungen, die eine spezielle Benutzergruppe betreffen, können wir diese Benutzer auch direkt benachrichtigen. |
+|**Änderungen, die eine Aktion erfordern (Änderungsplan)** <br/>Administrator muss Änderungen vornehmen, damit der Dienst ausgeführt wird, Updates, die sich auf die Compliance Ihrer Organisation auswirken können  <br/> |- Office 365 Nachrichtencenter-E-Mails direkt an Yammer überprüfte Administratoren <br/>- Microsoft 365 Roadmap<br/>– Yammer Dienstupdates<br/>- Externe Gruppe<br/>Bei Änderungen, die eine spezielle Benutzergruppe betreffen, können wir diese Benutzer auch direkt benachrichtigen. |
+|**Änderungen, die ein Bewusstsein erfordern (informiert bleiben)**<br/>Änderungen, die keine Administratoraktion erfordern, Änderungen am visuellen Design  <br/> |- Office 365 Nachrichtencenter<br/>- Microsoft 365 Roadmap<br/>– Yammer Dienstupdates<br/>- Externe Gruppe<br/>Bei Änderungen, die eine spezielle Benutzergruppe betreffen, können wir diese Benutzer auch direkt benachrichtigen. |
 |**Nicht kritisch** <br/>Änderungen, die nicht kritisch sind und keine Aktion oder Bewusstsein erfordern, auch wenn sie von einigen Benutzern beobachtet werden können  <br/> |Keine allgemeine Mitteilung |
    
 ## <a name="feature-availability-across-yammer-plans"></a>Verfügbarkeit von Features in Yammer-Plänen

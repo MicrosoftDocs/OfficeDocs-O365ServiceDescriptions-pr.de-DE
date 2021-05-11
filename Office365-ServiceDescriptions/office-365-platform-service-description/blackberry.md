@@ -49,9 +49,9 @@ Die meisten Mobilfunkanbieter haben BIS eingerichtet haben, daher müssen Endben
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>BlackBerry-Smartphones mit SharePoint Online
 
-Für Zugriff auf Microsoft SharePoint Online können BlackBerry-Benutzer den systemeigenen Browser auf ihrem BlackBerry-Smartphone verwenden, um auf SharePoint Online-Websites zuzugreifen. BlackBerry-Benutzer können Word-, Excel- und PowerPoint-Dokumente mithilfe von Office für das Webrendering im mobilen Browser anzeigen.
+Für Zugriff auf Microsoft SharePoint Online können BlackBerry-Benutzer den systemeigenen Browser auf ihrem BlackBerry-Smartphone verwenden, um auf SharePoint Online-Websites zuzugreifen. BlackBerry-Benutzer können Word-, Excel- und PowerPoint mit Office für das Webrendering im mobilen Browser anzeigen.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Funktionsverfügbarkeit in Office 365-Plänen finden Sie unter [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description.md).
+Informationen zur Verfügbarkeit von Features in Office 365 Plänen finden Sie unter [Microsoft 365 und Office 365 Plattformdienstbeschreibung](office-365-platform-service-description.md).
   

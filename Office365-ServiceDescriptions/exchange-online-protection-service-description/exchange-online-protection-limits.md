@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Die folgenden Grenzwerte sind derzeit für Exchange Online Protection vorhanden. Diese Grenzwerte können nur konfiguriert werden, wenn anders angegeben.
+description: Die folgenden Grenzwerte sind derzeit für Exchange Online Protection. Diese Grenzwerte können nur konfiguriert werden, wenn anders angegeben.
 ms.openlocfilehash: c4bce8f7b501a7a00eea723464e20964899b3560
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,10 +21,10 @@ ms.locfileid: "51653052"
 ---
 # <a name="exchange-online-protection-limits"></a>Beschränkungen von Exchange Online Protection
 
-Die folgenden Grenzwerte sind derzeit für Exchange Online Protection vorhanden. Diese Grenzwerte können nur konfiguriert werden, wenn anders angegeben. 
+Die folgenden Grenzwerte sind derzeit für Exchange Online Protection. Diese Grenzwerte können nur konfiguriert werden, wenn anders angegeben. 
   
 > [!TIP]
-> Weitere Informationen zu Grenzwerten in Exchange Online finden Sie unter [Exchange Online-Grenzwerte](../exchange-online-service-description/exchange-online-limits.md). Die Grenzwerte für Transportregeln gelten auch für Kunden der eigenständigen Lösung von EOP. Die Grenzwerte für Empfängerrate und Nachrichtenrate für Exchange Online gelten nicht für Kunden der eigenständigen Lösung von EOP. 
+> Weitere Informationen zu Grenzwerten in Exchange Online finden Sie [unter Exchange Online Limits](../exchange-online-service-description/exchange-online-limits.md). Die Grenzwerte für Transportregeln gelten auch für Kunden der eigenständigen Lösung von EOP. Die Grenzwerte für Empfängerrate und Nachrichtenrate für Exchange Online gelten nicht für Kunden der eigenständigen Lösung von EOP. 
   
 - **Domänenbeschränkung** : Sie können bis zu 900 Domänen pro Mandant hinzufügen. Unterdomänen können in diesem Grenzwert von 900 enthalten sein oder, falls erforderlich, als Teil einer CatchAll-Option Unterdomänen entsprechen. Weitere Informationen finden Sie unter [Verwalten akzeptierter Domänen in EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
 
@@ -44,7 +44,7 @@ Die folgenden Grenzwerte sind derzeit für Exchange Online Protection vorhanden.
     
 - **Spamquarantänebenachrichtigungen** für Endbenutzer – Standardmäßig werden bei Aktivierter Spamquarantänebenachrichtigungen für Endbenutzer alle 3 Tage gesendet. Sie können so konfiguriert werden, dass sie alle 1 bis 15 Tage versendet werden. 
     
-- Grenzwerte für Die Berichterstellung und Nachrichtenverfolgung – Informationen zu Grenzwerten für Die Berichterstellung und Nachrichtenverfolgung finden Sie im Abschnitt **"Verfügbarkeit** und Latenz von Daten zur Berichterstellung und Nachrichtenverfolgung" [unter Reporting and message trace in Exchange Online Protection](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection).
+- **Grenzwerte für die** Berichterstellung und Nachrichtenverfolgung – Informationen zu Grenzwerten für Die Berichterstellung und Nachrichtenverfolgung finden Sie im Abschnitt "Verfügbarkeit und Latenz von Daten für Die Berichterstellung und Nachrichtenverfolgung" unter Reporting [and message trace in Exchange Online Protection](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection).
     
 ### <a name="limits-across-eop-options"></a>Beschränkungen bei EOP-Optionen
 

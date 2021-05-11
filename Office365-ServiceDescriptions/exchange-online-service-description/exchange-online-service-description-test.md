@@ -7,7 +7,7 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
-description: Erfahren Sie Microsoft Exchange Online Dienst- und Featureverfügbarkeit in Microsoft 365- und Office 365-Plänen.
+description: Erfahren Sie Microsoft Exchange Online Service- und Featureverfügbarkeit Microsoft 365 und Office 365 Plänen.
 ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
 ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
 ms.translationtype: MT
@@ -19,13 +19,13 @@ ms.locfileid: "51414881"
 
 Microsoft Exchange Online ist eine gehostete Lösung für Nachrichten, die die Funktionen von Microsoft Exchange Server in einem cloudbasierten Dienst bereitstellt. Benutzer erhalten damit Zugriff auf E-Mails, Kalender, Kontakte und Aufgaben von PCs, dem Web und mobilen Geräten. Die Lösung ist vollständig in Active Directory integriert, sodass Administratoren Gruppenrichtlinien und andere Verwaltungstools verwenden können, um Exchange Online-Funktionen in ihrer gesamten Umgebung zu verwalten.
   
-Organisationen, die Exchange Online abonnieren, behalten die Kontrolle über die Messagingdienste, die sie Benutzern anbieten, haben jedoch nicht die operative Last der lokalen Serversoftware. Mit den in dieser Dienstbeschreibung beschriebenen gehosteten Exchange Online-Plänen werden E-Mails auf Servern gehostet, die mehrere Kunden gleichzeitig unterstützen. Diese Server befinden sich in Microsoft-Rechenzentren und sind für Benutzer auf einer Vielzahl von Geräten innerhalb eines Unternehmensnetzwerks oder über das Internet zugänglich.
+Organisationen, die Exchange Online, behalten die Kontrolle über die Messagingdienste, die sie Benutzern anbieten, aber sie haben nicht die operative Last der lokalen Serversoftware. Mit den Exchange Online in dieser Dienstbeschreibung beschriebenen gehosteten Plänen werden E-Mails auf Servern gehostet, die mehrere Kunden gleichzeitig unterstützen. Diese Server befinden sich in Microsoft-Rechenzentren und sind für Benutzer auf einer Vielzahl von Geräten innerhalb eines Unternehmensnetzwerks oder über das Internet zugänglich.
 
-In dieser Dienstbeschreibung werden die wichtigsten Unterschiede zwischen diensten beschrieben, die in den verschiedenen Cloudinstallationen bereitgestellt werden. Exchange Online-Kernfunktionen unterscheiden sich nicht zwischen den Abonnements. Die Verfügbarkeit von Compliancefunktionen hängt von Ihrem Abonnementlevel ab.
+In dieser Dienstbeschreibung werden die wichtigsten Unterschiede zwischen diensten beschrieben, die in den verschiedenen Cloudinstallationen bereitgestellt werden. Exchange Online Kernfunktionen unterscheiden sich nicht zwischen den Abonnements. Die Verfügbarkeit von Compliancefunktionen hängt von Ihrem Abonnementlevel ab.
   
 ## <a name="available-plans"></a>Verfügbare Pläne
 
-Ausführliche Planinformationen zu Abonnements, die Benutzer für Exchange Online aktivieren, finden Sie in der [Vergleichstabelle für Microsoft-Lösungen.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Ausführliche Planinformationen zu Abonnements, die Benutzern Exchange Online ermöglichen, finden Sie in der [Vergleichstabelle für Microsoft-Lösungen.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 Jeder Benutzer, der auf den Exchange Online-Dienst zugreift, muss einem Abonnementplan zugewiesen sein, und jedes Benutzerabonnement weist ein eigenes Postfach auf. Ordner und Nachrichten in diesen Postfächern befinden sich auf einem Computer, Exchange Server einem Microsoft-Rechenzentrum ausgeführt wird.
   
@@ -33,7 +33,7 @@ Benutzerabonnements sind für Konferenzräume und freigegebene Postfächer nicht
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-In der folgenden Tabelle sind die wichtigsten Exchange Online-Features aufgeführt, die planübergreifend verfügbar sind. Es gelten bestimmte Vorbehalte*. Diese Tabelle kann sich ohne vorherige Ankündigung ändern. Die aktuelle, vollständige Liste der Exchange Online-Features in allen Plänen finden Sie unter [Compare Exchange Online plans](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans).<br><br>
+In der folgenden Tabelle sind die wichtigsten Exchange Online aufgeführt, die planübergreifend verfügbar sind. Es gelten bestimmte Vorbehalte*. Diese Tabelle kann sich ohne vorherige Ankündigung ändern. Eine aktuelle, vollständige Liste der Exchange Online Plänen finden Sie unter [Compare Exchange Online plans](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans).<br><br>
   
 | Feature | Pläne für kleine Unternehmen | Enterprise-Pläne | Bildungspläne | GCC | GCC – hoch | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -56,8 +56,8 @@ In der folgenden Tabelle sind die wichtigsten Exchange Online-Features aufgefüh
 
 Weitere Informationen zu Exchange Online finden Sie in den folgenden Ressourcen:
 
-- [Exchange Online-Administratordokumentation](/exchange/exchange-online)
-- [Exchange Online-Speicher- und Empfängerbeschränkungen](exchange-online-limits.md)
+- [Exchange Online Administratordokumentation](/exchange/exchange-online)
+- [Exchange Online Speicher- und Empfängergrenzwerte](exchange-online-limits.md)
 - [Neuerungen im Exchange Admin Center](/exchange/whats-new)
 
 ### <a name="licensing-terms"></a>Lizenzierungsbedingungen
@@ -70,4 +70,4 @@ Besuchen Sie das Nachrichtencenter, um über bevorstehende Änderungen, einschli
 
 ### <a name="accessibility"></a>Barrierefreiheit
 
-Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die Barrierefreiheit unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center und](https://www.microsoft.com/trust-center) im Office Accessibility [Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die Barrierefreiheit unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und im Office Accessibility [Center](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

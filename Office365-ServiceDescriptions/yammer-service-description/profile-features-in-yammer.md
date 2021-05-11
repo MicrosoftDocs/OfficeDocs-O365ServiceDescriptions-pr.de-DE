@@ -41,11 +41,11 @@ Fügen Sie Manager und Berichte hinzu, um zusammen mit Ihren Kollegen ein Organi
   
 ## <a name="praise"></a>Lob
 
-Erteilen und erhalten Sie Lob für gute Leistungen bei der Arbeit. Erfolge und Signalen werden in Profilen auf der Registerkarte **Loben** angezeigt.
+Erteilen und erhalten Sie Lob für gute Leistungen bei der Arbeit. Erfolge und Signalen werden auf profilen auf der Registerkarte **Lob** angezeigt.
  
 ## <a name="user-profiles"></a>Benutzerprofile
 
-Laden Sie ein Bild hoch, geben Sie Kontaktdetails ein, und listen Sie Ihr Fachwissen auf. In Profilen werden alle Ihre Informationen gesammelt, auch Unterhaltungen und Dateien.
+Hochladen Sie ein Bild, geben Sie Kontaktdetails ein, und listen Sie Ihr Fachwissen auf. In Profilen werden alle Ihre Informationen gesammelt, auch Unterhaltungen und Dateien.
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 

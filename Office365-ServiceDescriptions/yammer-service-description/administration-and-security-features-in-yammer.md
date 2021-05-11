@@ -74,7 +74,7 @@ Stellen Sie fest, auf welchen Geräten die Benutzer angemeldet sind, und melden 
 
 ## <a name="single-identity"></a>Einzelne Identität
 
-Wenn Sie Yammer als Standarderfahrung für soziale Netzwerke für Ihre Organisation auswählen, werden Die Mitarbeiter ihren vorhandenen Konten Yammer zugeordnet. Das bedeutet, dass sie sich nicht erneut anmelden müssen, wenn sie zu Yammer in Office 365 navigieren. Wenn Mitarbeiter auf Yammer von Office 365, über eine mobile Yammer-App oder über das Browsen zu Yammer.com werden sie basierend auf vorhandenen Organisationsanmeldeinformationen automatisch &mdash; &mdash; angemeldet.
+Wenn Sie Yammer als Standarderfahrung für soziale Netzwerke für Ihre Organisation auswählen, werden Die Mitarbeiter ihren vorhandenen Yammer zugeordnet. Das bedeutet, dass sie sich nicht erneut anmelden müssen, wenn sie zu Yammer in Office 365 navigieren. Wenn Mitarbeiter von Yammer über Office 365, über eine mobile Yammer-App oder durch Browsen zu Yammer.com zugreifen, werden sie basierend auf vorhandenen Organisationsanmeldeinformationen automatisch &mdash; &mdash; angemeldet.
 
 ## <a name="usage-policy"></a>Verwendungsrichtlinie
 

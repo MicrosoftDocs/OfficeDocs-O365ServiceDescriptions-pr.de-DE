@@ -20,7 +20,7 @@ ms.locfileid: "51652599"
 
 MyAnalytics fasst zusammen, wie Sie Ihre Zeit bei der Arbeit verbringen, und schlägt dann Möglichkeiten vor, um intelligenter zu arbeiten. MyAnalytics bietet diese Einblicke über [Elemente,](#elements) auf die Sie in Microsoft Outlook oder über Ihren Webbrowser zugreifen können.
 
-Einige der Elemente von MyAnalytics werden Benutzern verschiedener Office 365-Pläne automatisch bereitgestellt. Informationen dazu, welche Elemente in welchen Office 365- und Microsoft 365-Plänen enthalten sind, finden Sie unter [MyAnalytics-Pläne und -Umgebungen](/workplace-analytics/myanalytics/overview/plans-environments).  
+Einige der Elemente von MyAnalytics werden Benutzern verschiedener Plänen automatisch Office 365 bereitgestellt. Informationen dazu, welche Elemente in welchen Office 365 und Microsoft 365 enthalten sind, finden Sie unter [MyAnalytics plans and environments](/workplace-analytics/myanalytics/overview/plans-environments).  
 
 MyAnalytics verarbeitet Informationen auf eine Weise, die die Privatsphäre der Mitarbeiter schützt. Weitere Informationen finden Sie unter [Datenschutz](#data-privacy).
 
@@ -33,7 +33,7 @@ Ausführliche Planinformationen zu Abonnements, die Benutzer für MyAnalytics ak
 MyAnalytics besteht aus den folgenden Elementen:
 
 * [Dashboard](/workplace-analytics/myanalytics/use/dashboard-2): Hilft Ihnen, Ihre Arbeitsmuster zu reflektieren, z. B. Zeit für konzentrierte Arbeit, Besprechungs- und E-Mail-Praktiken und Netzwerke.
-* [Outlook-Add-In:](/workplace-analytics/myanalytics/use/add-in)Bietet Ihnen aktionenfähige Einblicke in Outlook, mit deren Hilfe Sie ihre Aufgaben weiter ausführen und mehr erledigen können.
+* [Outlook -Add-In](/workplace-analytics/myanalytics/use/add-in): Bietet Ihnen aktionenfähige Einblicke in Outlook, die Ihnen helfen, ihre Aufgaben zu übernehmen und mehr zu erledigen.
 * [E-Mail-Digests:](/workplace-analytics/myanalytics/use/email-digest-2)Geben Sie Ihnen wichtige Highlights zu Ihren Arbeitsmustern in einer wöchentlichen E-Mail.
 * [Inlinevorschläge:](/workplace-analytics/myanalytics/use/mya-notifications)Diese kurzen, daten- und KI-gesteuerten Vorschläge werden in Outlook angezeigt, während Sie eine E-Mail oder eine Besprechungseinladung lesen oder verfassen.
 

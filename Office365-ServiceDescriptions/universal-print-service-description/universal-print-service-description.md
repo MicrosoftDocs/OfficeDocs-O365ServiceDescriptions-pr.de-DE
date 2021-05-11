@@ -7,7 +7,7 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: Universal Print, ein Microsoft 365-Clouddruckdienst, entferne die Notwendigkeit für lokale Druckserver.
+description: Universal Print, ein Microsoft 365 cloud printing service, entfernt die Notwendigkeit für lokale Druckserver.
 ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -17,7 +17,7 @@ ms.locfileid: "51653607"
 ---
 # <a name="universal-print-service-description"></a>Universelles Drucken-Dienstbeschreibung
 
-[Universal Print](https://www.microsoft.com/microsoft-365/windows/universal-print), ein Microsoft 365-Clouddruckdienst, entfernt die Notwendigkeit für lokale Druckserver. Dieser Dienst ermöglicht es Windows 10-Endpunkten, am Arbeitsplatz beigetretene Drucker auszuwählen und auf registrierte Azure AD-Drucker zu drucken, ohne eine andere Clientsoftware installieren zu müssen.
+[Universal Print](https://www.microsoft.com/microsoft-365/windows/universal-print), ein Microsoft 365-Cloud-Druckdienst, entfernt die Notwendigkeit für lokale Druckserver. Mit diesem Dienst können Windows 10 endpunkte in Azure AD registrierte Drucker auswählen und drucken, ohne dass eine andere Clientsoftware installiert werden muss.
 
 Benutzer profitieren von treiberlosem Drucken, optimierter standortbasierter Druckererkennung und einer intuitiven Druckumgebung ohne Lernkurve, die den vorhandenen Druckfluss auf ihrem Gerät nutzt.
 
@@ -27,7 +27,7 @@ Universal Print ist ein Clouddienst für die Druckinfrastruktur, der mit erweite
 
 Universal Print ist in den folgenden Abonnements enthalten, um die Anforderungen einer vielzahl von Organisationen optimal zu erfüllen.
 
-| Small Business                 | Enterprise Microsoft 365     | Education Microsoft 365 |
+| Small Business                 | Enterprise Microsoft 365     | Bildungseinrichtungen Microsoft 365 |
 |--------------------------------|------------------------------|-------------------------|
 | Microsoft 365 Business Premium | Windows 10 Enterprise E3     | Windows 10 Education E3 |
 |                                | Windows 10 Enterprise E5     | Windows 10 Education E5 |
@@ -43,7 +43,7 @@ Eine vollständige Liste aller Universal Print-Features finden Sie in der [Dokum
 |------------------------------------------|----------------------|------------------|-----------------|
 | [Zentrale Druckfunktionalität](/universal-print/)             | Ja                  | Ja              | Ja             |
 | [Dokumentkonvertierung](/universal-print/fundamentals/universal-print-document-conversion)                  | Ja                  | Ja              | Ja             |
-| [Universal Print Connector Software](/universal-print/fundamentals/universal-print-connector-overview)   | Ja                  | Ja              | Ja             |
+| [Konnektor für universelles Drucken Software](/universal-print/fundamentals/universal-print-connector-overview)   | Ja                  | Ja              | Ja             |
 | [Universal Print PowerShell-Skripting](/universal-print/fundamentals/universal-print-powershell) | Ja                  | Ja              | Ja             |
 
 ## <a name="learn-more"></a>Weitere Informationen
@@ -64,4 +64,4 @@ Informationen zu bevorstehenden Änderungen, einschließlich neuer und geändert
 
 ### <a name="accessibility"></a>Barrierefreiheit
 
-Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center und](https://www.microsoft.com/trust-center) im Office Accessibility [Center](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft setzt sich weiterhin für die Sicherheit Ihrer Daten und die [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste ein. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und im Office Accessibility [Center](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

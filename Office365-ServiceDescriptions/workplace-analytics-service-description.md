@@ -35,7 +35,7 @@ Microsoft Workplace Analytics bietet umfassende, umsetzbare Einblicke in die Kom
 
 ## <a name="gain-objective-actionable-insights"></a>Gewinnen objektiver, umsetzbarer Einblicke
 
-Erfahren Sie, wie Ihre Organisation Zeit verbringt und intern und extern mit nie dagewesenen Einblicken aus Office 365 zusammenarbeitt. Workplace Analytics bietet Führungskräften Dutzende von Verhaltensmetriken mit Aktionen zu Zeit und Netzwerken, um eine Vielzahl strategischer Entscheidungen zu informieren, einschließlich Teammodellen, Ressourcenzuweisung und Arbeitsbereichsplanung.
+Erfahren Sie, wie Ihre Organisation Zeit verbringt und intern und extern mit nie dagewesenen Einblicken aus Office 365. Workplace Analytics bietet Führungskräften Dutzende von Verhaltensmetriken mit Aktionen zu Zeit und Netzwerken, um eine Vielzahl strategischer Entscheidungen zu informieren, einschließlich Teammodellen, Ressourcenzuweisung und Arbeitsbereichsplanung.
 
 ## <a name="drive-organizational-change-with-data"></a>Organisatorische Änderungen mit Daten andingen
 

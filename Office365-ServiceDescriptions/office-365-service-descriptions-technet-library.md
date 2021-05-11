@@ -25,20 +25,20 @@ ms.locfileid: "51652389"
 
 Microsoft 365 und Office 365 sind cloudbasierte Dienste, die dazu beitragen, die Anforderungen Ihrer Organisation an robuste Sicherheit, Zuverlässigkeit und Benutzerproduktivität zu erfüllen. 
   
-Die Artikel in dieser Bibliothek enthalten detaillierte Beschreibungen der Dienste und Features, die mit Microsoft 365 und Office 365 verfügbar sind. Informationen zu Microsoft Dynamics 365-Geschäftsanwendungen finden Sie in der [Microsoft Dynamics 365-Dokumentation](/dynamics365/).
+Die Artikel in dieser Bibliothek enthalten detaillierte Beschreibungen der Dienste und Features, die mit Microsoft 365 und Office 365. Informationen zu Microsoft Dynamics 365-Geschäftsanwendungen finden Sie in der [Microsoft Dynamics 365-Dokumentation](/dynamics365/).
 
 Informationen zum Vergleichen von Features in verschiedenen Plänen finden Sie unter [Leistungsstarke](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) Tools zur Unterstützung Ihres Unternehmens oder der entsprechenden Dienstbeschreibung in der folgenden Liste. 
   
-Supportartikel und Informationen finden Sie unter [Office Help & Training,](https://support.office.com/) [Office documentation for admins and IT professionals](/office/)und Microsoft [365 Help Center for admins and IT pros](/microsoft-365/).
+Supportartikel und Informationen finden Sie unter [Office Help & Training](https://support.office.com/), Office Dokumentation für Administratoren und [IT-Experten](/office/)und Microsoft 365 Help Center für Administratoren und [IT-Spezialisten](/microsoft-365/).
   
 > [!NOTE]
-> Wenn Sie nach der Vergleichstabelle für Dienstbeschreibungen suchen, wurde sie eingestellt. Die Verfügbarkeitstabellen für Produktfeatures auf jeder Dienstbeschreibungsseite wurden aktualisiert, um Ihnen bei der Auswahl der Version von Office 365 zu helfen, die Ihren Anforderungen entspricht. 
+> Wenn Sie nach der Vergleichstabelle für Dienstbeschreibungen suchen, wurde sie eingestellt. Die Verfügbarkeitstabellen für Produktfeatures auf jeder Dienstbeschreibungsseite wurden aktualisiert, um Ihnen bei der Auswahl der version von Office 365, die Ihren Anforderungen entspricht, zu helfen. 
   
-Microsoft bietet den FastTrack Center-Vorteil für Office 365 für berechtigte Dienste in berechtigten Plänen an. Mit dem Vorteil können Sie remote mit Microsoft-Spezialisten zusammenarbeiten, um Ihre Office 365-Umgebung einsatzbereit zu machen. Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft bietet den FastTrack Center-Vorteil für Office 365 für berechtigte Dienste in berechtigten Plänen. Mit dem Vorteil können Sie remote mit Microsoft-Spezialisten zusammenarbeiten, um Ihre Office 365 einsatzbereit zu machen. Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Lesen Sie für einen Einstieg in die Thematik die folgenden Dienstbeschreibungen:
   
-- [Microsoft 365- und Office 365-Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 und Office 365 Plattformdienstbeschreibung](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Dienstbeschreibung zu Office-Anwendungen](office-applications-service-description/office-applications-service-description.md)
 

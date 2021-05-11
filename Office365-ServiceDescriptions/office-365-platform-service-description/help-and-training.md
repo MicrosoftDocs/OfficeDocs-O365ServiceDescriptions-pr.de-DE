@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 bietet die folgenden Hilfe- und Schulungsressourcen.
+description: Microsoft Office 365 stellt die folgenden Hilfe- und Schulungsressourcen zur Verfügung.
 ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,11 +21,11 @@ ms.locfileid: "51653237"
 ---
 # <a name="help-and-training"></a>Help and training
 
-Microsoft Office 365 bietet die folgenden Hilfe- und Schulungsressourcen.
+Microsoft Office 365 stellt die folgenden Hilfe- und Schulungsressourcen zur Verfügung.
   
 ## <a name="online-help"></a>Onlinehilfe
 
-Hilfeartikel und Videos sind über jeden Inlinehilfelink im Dienst verfügbar, einschließlich des Hilfesymbols in der oberen Navigationsleiste des Office 365-Portals und des Microsoft 365 Admin Centers. Außerdem können Sie die gesamte Office 365-Hilfe unter [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) durchsuchen. 
+Hilfeartikel und Videos sind über jeden Inlinehilfelink im Dienst verfügbar, einschließlich des Hilfesymbols in der oberen Navigationsleiste des Office 365-Portals und Microsoft 365 Admin Center. Außerdem können Sie die gesamte Office 365-Hilfe unter [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056) durchsuchen. 
   
 ## <a name="training"></a>Schulungen
 
@@ -90,15 +90,15 @@ Von der Startseite der Office 365-Community aus können Kunden auf die folgenden
     
 Weitere Informationen finden Sie in der [Office 365-Community](https://techcommunity.microsoft.com/).
   
-## <a name="manage-office-365-guidance"></a>Verwalten von Office 365-Anleitungen
+## <a name="manage-office-365-guidance"></a>Verwalten Office 365 Anleitungen
 
-IT-Experten großer Organisationen können die Startseite der Office 365-Dokumentation verwalten besuchen. Diese Seite enthält Links zu komplexen Bereitstellungsanleitungen für große Organisationen.
+IT-Experten großer Organisationen können die Startseite Office 365 Verwalten der Dokumentation besuchen. Diese Seite enthält Links zu komplexen Bereitstellungsanleitungen für große Organisationen.
   
-Weitere Informationen finden Sie unter [Verwalten von Office 365](/Office365/).
+Weitere Informationen finden Sie unter [Manage Office 365](/Office365/).
   
 ## <a name="other-self-help-resources"></a>Weitere Selbsthilferessourcen
 
-Zusätzlich zur Office 365-Community- und Onlinehilfe enthält Office 365 die folgenden Selbsthilferessourcen:
+Neben der Office 365 Community und Onlinehilfe enthält Office 365 die folgenden Selbsthilferessourcen:
   
 - **Tool zur Problembehandlung für Office 365** Sobald Sie eine Reihe von kurzen Fragen zu Ihrem Problem beantwortet haben, schlägt das Tool zur Problembehandlung für Office 365 basierend auf Ihren Antworten nützliche Tools und Informationen vor. Gehen Sie zur Seite mit dem [Tool zur Problembehandlung für Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) in der Office 365-Community, um das Tool zu verwenden. 
     
@@ -149,4 +149,4 @@ Hilfe- und Schulungsressourcen stehen in folgenden Sprachen zur Verfügung.
    
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter Beschreibung des [Microsoft 365- und Office 365-Plattformdiensts.](office-365-platform-service-description.md)
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Microsoft 365 und Office 365 Plattformdienstbeschreibung](office-365-platform-service-description.md).

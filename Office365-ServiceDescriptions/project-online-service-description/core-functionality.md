@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Die folgenden Hauptfunktionen sind in Project Online verfügbar.
+description: Die folgenden hauptfunktionsfeatures sind in Project Online.
 ms.openlocfilehash: bb379be082439793fcfba0a24cc4728181537ed8
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51652299"
 ---
 # <a name="core-functionality"></a>Hauptfunktionalität
 
-Die folgenden Hauptfunktionen sind in Project Online verfügbar.
+Die folgenden hauptfunktionsfeatures sind in Project Online.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen [finden Project Online Dienstbeschreibung](project-online-service-description.md).
   
 ## <a name="add-columns"></a>Hinzufügen von Spalten
 
@@ -35,7 +35,7 @@ Wählen **Sie Datei** aus, um Features im Backstage-Bereich zu verwenden, in dem
   
 ## <a name="click-to-run"></a>Klick-und-Los
 
-Installieren Sie Project Online schnell über das Internet, interne Netzwerke, lokale Dateisysteme oder über Offlinemedien, um sicherzustellen, dass Sie mit der neuesten Version der Project-Desktopanwendung auf dem neuesten Stand sind. Weitere Informationen finden Sie unter [Klick-und-Los](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
+Installieren Sie Project Online schnell über das Internet, interne Netzwerke, lokale Dateisysteme oder von Offlinemedien, um sicherzustellen, dass Sie mit der neuesten Version der Project auf dem neuesten Stand sind. Weitere Informationen finden Sie unter [Klick-und-Los](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Contextual right-click menus
 
@@ -67,15 +67,15 @@ Zeigen Sie Aufgaben, Abhängigkeiten und den kritischen Weg Ihres Projekts in ei
   
 ## <a name="office-store"></a>Office Store
 
-Benötigen Sie eine Anwendung, die Ihnen bei Project hilft? Suchen Sie neue Anwendungen für Project im Office Store. Weitere [Informationen finden Sie unter Add-Ins for Project](https://go.microsoft.com/fwlink/?LinkId=273883).
+Benötigen Sie eine Anwendung, die Ihnen bei der Project? Suchen Sie neue Anwendungen für Project im Office Store. Weitere Informationen finden Sie [unter Add-Ins Project](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Onlinehilfe
 
-Die Projekthilfe ist in Office.com oder unter Erste Schritte Handbücher direkt in Project verfügbar (wählen **Sie Datei** \> **Neu** aus). [Sehen Sie sich diese Videos an, um zu Project 2013 zu wechseln.](https://go.microsoft.com/fwlink/p/?LinkId=271325)
+Project Hilfe finden Sie unter Office.com oder unter Erste Schritte Handbücher direkt in Project (wählen **Sie Datei** \> **Neu** aus). [Sehen Sie sich diese Videos an, um den Wechsel zu Project 2013 zu machen.](https://go.microsoft.com/fwlink/p/?LinkId=271325)
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-Speichern Sie eine Project-Datei als PDF- oder XPS-Datei. Weitere Informationen finden Sie unter [Speichern einer Projektdatei als PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Speichern Sie Project datei als PDF- oder XPS-Datei. Weitere Informationen finden Sie unter [Speichern einer Projektdatei als PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -89,7 +89,7 @@ Sie können bei der Projekterstellung viel Zeit sparen, wenn Sie ein altes Proje
 
 Statt Ihnen ein leeres Projekt zu präsentieren, bietet Project 2013 eine Oberfläche mit allen Funktionen für den Start des Projekts. Sie können Kundenvorlagen oder eine integrierte Anleitung verwenden, um in vier einfachen Schritten mit der Arbeit zu beginnen.
   
-## <a name="text-wrap"></a>Textumbruch
+## <a name="text-wrap"></a>Text wrap
 
 Fügen Sie Textumbrüche in die Namen von Aufgaben oder Ressourcen ein, damit diese in einer zweiten Zeile fortgesetzt werden. Weitere Informationen finden Sie im Artikel zum Thema [Umbrechen von Text durch Ändern der Zeilenhöhe](https://go.microsoft.com/fwlink/p/?LinkId=271344).
   
@@ -103,4 +103,4 @@ Verwenden Sie die Zoomsteuerelemente auf der Statusleiste, um schnell die Perspe
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online service description](project-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Project Online Service description](project-online-service-description.md).

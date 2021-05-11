@@ -23,15 +23,15 @@ ms.locfileid: "51653067"
 
 In diesem Artikel werden Verwaltungsschnittstellen beschrieben, die für Microsoft Exchange Online (EOP)-Administratoren verfügbar sind.
   
-Sie suchen nach Informationen zu allen EOP-Funktionen? Weitere Informationen finden [Sie in der Beschreibung des Exchange Online Protection-Diensts](exchange-online-protection-service-description.md).
+Sie suchen nach Informationen zu allen EOP-Funktionen? Weitere Informationen [finden Exchange Online Protection Dienstbeschreibung](exchange-online-protection-service-description.md).
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Zugriff auf das Microsoft 365 Admin Center
 
-Das Microsoft 365 Admin Center ist das Webportal, über das der Dienstadministrator jedes Unternehmens Benutzerkonten und Einstellungen für jeden der Von ihnen abonnierten Microsoft-Dienste verwalten kann. Innerhalb des Microsoft 365 Admin Centers können Administratoren Links zur EAC folgen, in der sie EOP-spezifische Einstellungen verwalten können.
+Das Microsoft 365 Admin Center ist das Webportal, über das der Dienstadministrator der einzelnen Unternehmen Benutzerkonten und Einstellungen für jede der Microsoft-Dienste verwalten kann, die sie abonnieren. Innerhalb des Microsoft 365 Admin Center können Administratoren Links zur EAC folgen, in der sie EOP-spezifische Einstellungen verwalten können.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Zugriff auf die Exchange-Verwaltungskonsole
 
-Die Exchange-Verwaltungskonsole ist eine einheitliche, benutzerfreundliche Verwaltungskonsole, die für sämtliche Arten von Bereitstellungen optimiert ist. Die neue und verbesserte Exchange-Verwaltungskonsole ersetzt Forefront Online Protection für die Exchange-Verwaltungskonsole. Die EAC bietet eine engere Integration in Microsoft 365 und eine konsistente, nahtlose Benutzeroberflächenoberfläche für exchange-Produkte (Microsoft Exchange Online und Microsoft Exchange Server 2013). Weitere Informationen zum EAC finden Sie unter [Exchange Admin Center in Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
+Die Exchange-Verwaltungskonsole ist eine einheitliche, benutzerfreundliche Verwaltungskonsole, die für sämtliche Arten von Bereitstellungen optimiert ist. Die neue und verbesserte Exchange-Verwaltungskonsole ersetzt Forefront Online Protection für die Exchange-Verwaltungskonsole. EAC bietet eine engere Integration in Microsoft 365 und eine konsistente, nahtlose Benutzeroberflächenoberfläche für Exchange Produkte (Microsoft Exchange Online und Microsoft Exchange Server 2013). Weitere Informationen zum EAC finden Sie unter [Exchange Admin Center in Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
   
 ## <a name="remote-windows-powershell-access"></a>Zugriff auf die remote verwendete Windows PowerShell
 
@@ -39,4 +39,4 @@ Die Exchange-Verwaltungskonsole ist eine einheitliche, benutzerfreundliche Verwa
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Exchange Online Protection Service description](exchange-online-protection-service-description.md).

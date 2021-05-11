@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365-Bildungsplänen suchen, wird in diesem Artikel gezeigt, welche Features in jedem dieser Pläne enthalten sind. Office 365 kombiniert die vertraute Microsoft Office-Desktopsuite mit cloudbasierten Versionen der Kommunikations- und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und Microsoft Skype for Business Online, um Benutzern zu helfen, von praktisch überall über das Internet produktiv zu &mdash; &mdash; sein.
+description: Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, wird in diesem Artikel gezeigt, welche Features in jedem dieser Pläne enthalten sind. Office 365 kombiniert die vertraute Microsoft Office-Desktopsuite mit cloudbasierten Versionen der Kommunikations- und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft Office SharePoint Online, Office für das Web und Microsoft Skype for Business Online, um Benutzern zu helfen, von praktisch überall über das Internet produktiv zu &mdash; &mdash; sein.
 ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -19,15 +19,15 @@ ms.locfileid: "51653217"
 ---
 # <a name="office-365-education"></a>Office 365 Education
 
-Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365-Bildungsplänen suchen, wird in diesem Artikel gezeigt, welche Features in jedem dieser Pläne enthalten sind. Office 365 kombiniert die vertraute Microsoft Office-Desktopsuite mit cloudbasierten Versionen der Kommunikations- und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft SharePoint Online, Office für das Web und Microsoft Skype for Business Online, um Benutzern zu helfen, von praktisch überall über das Internet produktiv zu &mdash; &mdash; sein.
+Microsoft Office 365 steht in einer Vielzahl von Plänen zur Verfügung, um die Anforderungen Ihrer Organisation optimal zu erfüllen. Wenn Sie nach den Unterschieden zwischen den Office 365 Bildungsplänen suchen, wird in diesem Artikel gezeigt, welche Features in jedem dieser Pläne enthalten sind. Office 365 kombiniert die vertraute Microsoft Office-Desktopsuite mit cloudbasierten Versionen der Kommunikations- und Zusammenarbeitsdienste der nächsten Generation von Microsoft, einschließlich Microsoft Exchange Online, Microsoft Office SharePoint Online, Office für das Web und Microsoft Skype for Business Online, um Benutzern zu helfen, von praktisch überall über das Internet produktiv zu &mdash; &mdash; sein.
   
-In diesem Artikel werden die Features für Office 365-Bildungspläne (A1, A3 und A5) aufgeführt. Informationen zum Vergleichen von Features in Geschäfts- und Unternehmensplänen finden Sie unter Vergleichen von [Office 365 for](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) Business-Plänen oder, eine ausführlichere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter [Microsoft 365- und Office 365-Dienstbeschreibungen](../office-365-service-descriptions-technet-library.md).
+In diesem Artikel werden die Features für Office 365 (A1, A3 und A5) aufgeführt. Informationen zum Vergleichen von Features in Geschäfts- und Unternehmensplänen finden Sie unter Vergleichen von [Office 365 for Business-Plänen](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) oder , eine ausführlichere Liste der Features finden Sie in der entsprechenden Dienstbeschreibung unter Microsoft 365 und Office 365 [Servicebeschreibungen](../office-365-service-descriptions-technet-library.md).
   
-Informationen zum Suchen nach Supportartikeln und -informationen finden Sie unter [Office Help &amp; Training](https://support.office.com/).
+Informationen zum Suchen nach Supportartikeln und -informationen finden Sie [unter Office Help &amp; Training](https://support.office.com/).
   
 ## <a name="service-availability-for-each-plan"></a>Dienstverfügbarkeit nach Plan
 
-Jeder Office 365-Bildungsplan umfasst eine Reihe von einzelnen Diensten, z. B. Exchange Online und SharePoint Online. In der folgenden Tabelle werden die Dienste dargestellt, die in jedem Office 365-Plan verfügbar sind.<br><br>
+Jeder Office 365 umfasst eine Reihe von individuellen Diensten, z. B. Exchange Online und SharePoint Online. In der folgenden Tabelle werden die Dienste dargestellt, die in jedem Office 365-Plan verfügbar sind.<br><br>
   
 | Dienst | Office 365 A1 | Office 365 A3 | Office 365 A5<sup>3</sup> |
 |:-----|:-----|:-----|:-----|
@@ -44,9 +44,9 @@ Jeder Office 365-Bildungsplan umfasst eine Reihe von einzelnen Diensten, z. B. E
 |Azure Information Protection<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Microsoft Project ist nicht in Office 365 enthalten, kann aber separat erworben werden. Project Online Essentials ist kostenlos. Wenn Sie ein Student oder eine Bildungseinrichtung sind, sind Sie möglicherweise berechtigt, Projektplan 3 und Plan 5 zu Bildungspreisen zu erwerben.   <br/> 
+> <sup>1</sup> Microsoft Project ist nicht in Office 365 enthalten, kann aber separat erworben werden. Project Online Essentials ist kostenlos. Wenn Sie ein Student oder eine Bildungseinrichtung sind, sind Sie möglicherweise berechtigt, Project Plan 3 und Plan 5 zu Bildungspreisen zu erwerben.   <br/> 
 <sup>2</sup> Weitere Informationen dazu, welche Features von Azure Information Protection in Office 365-Plänen enthalten sind, finden Sie unter [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/> 
-<sup>3</sup> Office 365 A5 enthält Funktionen für Telefonsystem, Audiokonferenzen und Anrufplan. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). <br/> <sup>4</sup> Umfasst Exchange Online Plan 2. <br/> 
+<sup>3</sup> Office 365 A5 enthält Telefonsystem, Audiokonferenzen und Anrufplanfunktionen. Zum Implementieren von Anrufplanfunktionen muss ein zusätzlicher Plan erworben werden (inländischer Anrufplan oder internationaler Anrufplan). <br/> <sup>4</sup> Umfasst Exchange Online Plan 2.<br/> 
 <sup>5</sup> Umfasst Exchange Online Plan 1 sowie zusätzliche Features.<br/> 
 <sup>6</sup> Umfasst Skype for Business Online Plan 2.<br> <sup>7</sup> Umfasst Skype for Business Online Plan 1 sowie zusätzliche Features. 
   
@@ -60,12 +60,12 @@ Informationen über Vereinbarungen zum Servicelevel finden Sie unter [Vereinbaru
   
 ## <a name="platform-features"></a>Plattformfeatures
 
-In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in office 365 Education-Plänen verfügbar sind. Genaue Informationen zur Preisgestaltung und zu Features im Plan finden Sie unter [Office 365 Education-Pläne](https://products.office.com/en/academic/compare-office-365-education-plans).<br><br>
+In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in den Office 365 verfügbar sind. Genaue Informationen zur Preisgestaltung und zu Features im Plan finden Sie unter [Office 365 Education-Pläne](https://products.office.com/en/academic/compare-office-365-education-plans).<br><br>
   
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |**[Office 365-Verwaltungsfeatures](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||
-|Verwalten von Office 365 mithilfe des Microsoft 365 Admin Centers oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Verwalten Office 365 mithilfe des Microsoft 365 Admin Center oder Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Schutz von Inhalten mit Azure Information Protection  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Funktionen der Office 365-Suite](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Bookings  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
@@ -112,7 +112,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in office 
 |Automatisierte Optionen für Erwerb und Überprüfung von Domänen verfügbar, die über Go Daddy erworben wurden  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Dienststatus und Verfügbarkeit](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Statusinformationen auf der Seite **Dienststatus** oder **Servicequalität**  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Status einzelner Warnungen, die im Microsoft 365 Admin Center-Dashboard verfügbar sind  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Status einzelner Warnungen, die im Microsoft 365 Admin Center verfügbar sind  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |RSS-Feed Dienststatus  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Berichte](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Aktive und inaktive Postfächer  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -138,7 +138,7 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in office 
 |Herunterladbare Berichte zum E-Mail-Schutz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verwendeter Browser  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Verwendetes Betriebssystem  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Erstellen eigener Berichte mithilfe von Microsoft 365-Berichterstellungswebdiensten  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Erstellen eigener Berichte mithilfe Microsoft 365 Berichterstellungswebdienste  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Dienstupdates](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Bereitstellen regelmäßiger Updates für alle Kunden  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Senden von Benachrichtigungen an das Nachrichtencenter, wenn Aktion erforderlich  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -184,14 +184,14 @@ In der folgenden Tabelle sind alle Plattformfeatures aufgeführt, die in office 
 <sup>4</sup> Die Reduzierung der mit einem Laufzeitrabatt erworbenen Plätze kann einer Gebühr für die vorzeitige Kündigung unterliegen. Dies gilt nicht für Abonnements, für die monatlich gezahlt wird. <br/> 
 <sup>5</sup> Verfügbar unter [https://securescore.office.com](https://securescore.office.com/) (Link erfordert Administratorberechtigungen). Weitere Informationen finden Sie unter [Einführung in Office 365 Secure Score](/office365/securitycompliance/microsoft-secure-score).<br/> 
 <sup>6</sup> Microsoft Sway ist derzeit nicht für Kunden in bestimmten Regionen verfügbar. Einige ältere Office 365-Pläne, die ab August 2015 nicht mehr erhältlich sind, haben möglicherweise auch keinen Zugriff auf Microsoft Sway. <br/> 
-<sup>7</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.) <br>
+<sup>7</sup> Advanced eDiscovery werden in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.) <br>
 <sup>8</sup> Informationen zu Microsoft Stream-Features, die in jedem Plan enthalten sind, finden Sie unter [Stream licensing overview](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
 <sup>9</sup> Weitere Informationen finden Sie unter [MyAnalytics-Pläne und -Umgebungen](/workplace-analytics/myanalytics/overview/plans-environments).<br>
-<sup>10</sup> Die Briefing-E-Mail wird automatisch allen Benutzern von Exchange Online bereitgestellt. Weitere Informationen finden Sie unter [Configure the Briefing email](/Briefing/be-admin).<br>
+<sup>10</sup> Die Briefing-E-Mail wird automatisch allen Benutzern von Exchange Online. Weitere Informationen finden Sie unter [Configure the Briefing email](/Briefing/be-admin).<br>
 
 ## <a name="security-amp-compliance-center-features"></a>Security &amp; Compliance Center-Features
 
-Das [Security &amp; Compliance Center](/microsoft-365/compliance/go-to-the-securitycompliance-center) soll Ihnen dabei helfen, Compliancefeatures in Office 365 für Ihre Organisation zu verwalten. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365. 
+Das [Security &amp; Compliance Center](/microsoft-365/compliance/go-to-the-securitycompliance-center) wurde entwickelt, um Ihnen bei der Verwaltung von Compliancefeatures Office 365 Ihrer Organisation zu helfen. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365. 
   
 > [!NOTE]
 > Derzeit sind viele der Compliancefeatures noch über dienstspezifische Verwaltungsschnittstellen erreichbar, z. B. das Exchange Admin Center (EAC). Dies wird jedoch künftig geändert, wenn weitere dienstunabhängige Compliancefeatures zum Security &amp; Compliance Center hinzugefügt werden. 
@@ -220,13 +220,13 @@ Das [Security &amp; Compliance Center](/microsoft-365/compliance/go-to-the-secur
 > <sup>1</sup> Die Datensteuerung ermöglicht Benutzern das Erstellen, Veröffentlichen und manuelle Anwenden von Bezeichnungen auf Dokumente; Importieren von Daten mithilfe des Laufwerkversands oder über das Netzwerk; und Erstellen und Anwenden von Aufbewahrungs-/Löschrichtlinien für arbeitsauslastungs-, benutzer- und gruppenübergreifend. Für Aufbewahrungsrichtlinien, die auf Postfächer angewendet werden, ist Office 365 Enterprise E3 oder E5 erforderlich. <br/> 
 <sup>2</sup> Erweiterte Datensteuerung ermöglicht es Ihnen, wichtige Informationen zu speichern und unwichtige Informationen zu löschen, indem Sie Informationen basierend auf einer Aufbewahrungs- oder Löschrichtlinie oder beidem klassifizieren. Sie beinhaltet intelligente/automatisierte Aktionen wie z. B. Empfehlungen von Richtlinien, automatisches Anwenden von Bezeichnungen auf Daten, Anwenden von Bezeichnungen basierend auf vertraulichen Datentypen oder Abfragen und Verwenden intelligenter Importfilter. Sie umfasst zudem die Supervisorfunktion für die Überprüfung der Mitarbeiterkommunikation zu Sicherheits- und Compliancezwecken. <br/> 
 <sup>3</sup> Unlimited. <br/> 
-<sup>4</sup> Advanced eDiscovery wird in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.) <br/> 
-<sup>5</sup> Microsoft Defender für Office 365 ist in Office 365 A5 und als eigenständiger Dienst für Office 365 A1 und Office 365 A3 verfügbar.<br/>
-<sup>6</sup> Sie können auch die [Office 365-Verwaltungsaktivitäts-API](/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen. <br/>
+<sup>4</sup> Advanced eDiscovery werden in den USA und in der Region Westeuropa (Niederlande) unterstützt. (Kundendaten aus Kanada und dem asiatisch-pazifischen Raum werden in die USA exportiert. Kundendaten aus Europa, dem Nahen Osten und Afrika werden nach Westeuropa [Niederlande] exportiert.) <br/> 
+<sup>5</sup> Microsoft Defender for Office 365 ist in Office 365 A5 und als eigenständiger Dienst für Office 365 A1 und Office 365 A3.<br/>
+<sup>6</sup> Sie können auch die Office 365 [Management Activity API](/office/office-365-management-api/office-365-management-activity-api-reference) verwenden, um Ereignisse aus dem einheitlichen Überwachungsprotokoll abzurufen. <br/>
   
 ## <a name="office-application-features"></a>Office-Anwendungsfeatures  
 
-Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Features in Office 365 Education-Plänen zu vergleichen.<br><br>
+Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Features für Office 365 zu vergleichen.<br><br>
   
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -279,19 +279,19 @@ Verwenden Sie die folgende Tabelle, um die Verfügbarkeit von Features in Office
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS ist ein lokaler Server, der separat erworben und verwaltet werden muss, um die unterstützten IRM-Funktionen zu aktivieren.<br/> 
-<sup>2</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 Enterprise E3 enthalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefunktionen umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop-Clientvergleichstabellen](/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
-<sup>3</sup> Einige Schulen sind für Education Plus berechtigt, das Microsoft 365 Apps for Enterprise umfasst, und ermöglicht Schülern, Lehrkräften und Mitarbeitern die Installation der neuesten Version von Office auf bis zu fünf PC- oder Mac-Computern und auf anderen mobilen Geräten, einschließlich Windows-Tablets und dem iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. <br/> 
-<sup>4</sup> Office für die Webversionen sind enthalten. Weitere Informationen finden Sie unter [Office for the web features.](office-365-education.md#office-for-the-web-features)
+<sup>2</sup> Skype for Business Basic ist für alle Kunden verfügbar. Der Skype for Business-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheitsinformationen, Chats und Konferenzfeatures für Office 365-Pläne bereitstellt, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 Enterprise E3 enthalten die vollständige Skype-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefeatures umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop-Clientvergleichstabellen](/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
+<sup>3</sup> Einige Schulen sind für Education Plus berechtigt, das Microsoft 365 Apps for Enterprise umfasst, und ermöglicht Schülern, Lehrkräften und Mitarbeitern die Installation der neuesten Version von Office auf bis zu fünf PC- oder Mac-Computern und auf anderen mobilen Geräten, einschließlich Windows Tablets und iPad. Schulen kommen für Office 365 Education Plus in Frage, wenn sie Office in der gesamten Einrichtung für Lehrpersonal und Mitarbeiter über Enrollment for Education Solutions, Open Value Subscription Education Solutions oder einen Schulvertrag lizenzieren. Beachten Sie, dass Access und Publisher nur auf PCs verfügbar sind. OneNote für Mac ist im Mac App Store als gesonderter Download verfügbar. <br/> 
+<sup>4</sup> Office für die Webversionen sind enthalten. Weitere Informationen finden Sie [unter Office für die Webfeatures.](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>Office für die Webfeatures
 
-Die folgende Tabelle enthält Links zu Vergleichen von Office für die Webfeaturefunktionen, die in Office 365 Education-Plänen verfügbar sind, mit funktionsreichen Microsoft Office Desktop-Apps. Verwenden Sie die Vergleiche, um zu ermitteln, welche Features in Office für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie können feststellen, dass einige Personen in Ihrer Organisation möglicherweise die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere möglicherweise nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Web anzeigen und leicht bearbeiten müssen.
+In der folgenden Tabelle finden Sie Links zu Office Vergleichen der Webfeaturefunktionen, die in Office 365 Bildungsplänen für funktionsreiche Microsoft Office verfügbar sind. Verwenden Sie die Vergleiche, um zu ermitteln, welche Features in Office für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie können feststellen, dass einige Personen in Ihrer Organisation möglicherweise die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere möglicherweise nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Web anzeigen und leicht bearbeiten müssen.
   
 > [!NOTE]
 > - Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. <br/>
 > - Die Tabellen enthalten nicht alle Microsoft Office-Funktionen. <br/> 
-> - Microsoft Microsoft 365 Apps for Enterprise ist ein monatliches Abonnementangebot der neuesten Office-Desktopsuite. <br/>
-> - Microsoft Office Lokalen Online Server-Kunden erhalten eine Office für die Webbearbeitungslizenz, wenn sie eine Lizenz für die Office-Desktopsuite erworben haben (z. B. eine Office Professional Plus-, Office Standard- oder Microsoft 365 Apps for Enterprise-Lizenz). 
+> - Microsoft Microsoft 365 Apps for Enterprise ist ein monatliches Abonnementangebot der neuesten Office Desktopsuite. <br/>
+> - Microsoft Office Lokale Online Server-Kunden erhalten eine Office für die Webbearbeitungslizenz, wenn sie eine Office-Desktopsuite-Lizenz erworben haben (z. B. eine Office Professional Plus-, Office Standard- oder Microsoft 365 Apps for Enterprise-Lizenz). 
   
 | Anwendung | Office für das Web | Link zum detaillierten Funktionsvergleich |
 |:-----|:-----|:-----|
@@ -303,7 +303,7 @@ Die folgende Tabelle enthält Links zu Vergleichen von Office für die Webfeatur
    
 ## <a name="exchange-online-features"></a>Exchange Online-Features
 
-In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in office 365 Education-Plänen verfügbar sind.<br><br>
+In der folgenden Tabelle sind die Exchange Online aufgeführt, die in allen Bildungsplänen Office 365 verfügbar sind.<br><br>
   
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -390,20 +390,20 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in o
 |Voicemail  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Integration zwischen Voicemail und Fax von Drittanbietern  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
 |Interoperabilität von Voicemails eines Drittanbieters  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Skype for Business-Integration  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Skype for Business Integration  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Hohe Verfügbarkeit und Geschäftskontinuität](../exchange-online-service-description/high-availability-and-business-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Postfachreplikation in Datencentern  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Wiederherstellung gelöschter Postfächer  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Wiederherstellung gelöschter Elemente  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Wiederherstellung einzelner Elemente  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> ||
 |**[Interoperabilität, Konnektivität und Kompatibilität](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Skype for Business-Anwesenheit in OWA und Outlook  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|SharePoint-Interoperabilität  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Skype for Business anwesenheit in OWA und Outlook  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|SharePoint Interoperabilität  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unterstützung der EWS-Konnektivität  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |SMTP-Relayunterstützung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |**[Einrichtung und Verwaltung in Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Zugriff auf das Microsoft Office 365-Portal  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft 365 Admin Center Access  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft 365 Admin Center-Zugriff  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Zugriff auf die Exchange-Verwaltungskonsole  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Zugriff auf die remote verwendete Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |ActiveSync-Richtlinien für mobile Geräte  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
@@ -416,7 +416,7 @@ In der folgenden Tabelle sind die Exchange Online-Features aufgeführt, die in o
 <sup>2</sup> Transportregeln bestehen aus flexiblen Kriterien, mit denen Sie Bedingungen und Ausnahmen sowie die Aktionen, die basierend auf den Kriterien ausgeführt werden sollen, definieren können. Für Exchange Online und Microsoft Exchange Server 2013 sind unterschiedliche Kriterien und Aktionen verfügbar. Eine Liste der verfügbaren Kriterien und Aktionen finden Sie in den entsprechenden Themen zu Kriterien und Aktionen für jedes Produkt. <br/> 
 <sup>3</sup> Exchange Server 2013 verwendet nur das Antischadsoftwaremodul von Microsoft. Exchange Online verwendet mehrere Antischadsoftwaremodule, um eingehende, ausgehende und interne Nachrichten auf Schadsoftware zu untersuchen. <br/> 
 <sup>4</sup> SharePoint Online muss im Abonnementplan enthalten sein. <br/> 
-<sup>5</sup> Verbundene Konten werden für POP- und IMAP-Konten unterstützt, sind für Outlook.com (Hotmail) jedoch deaktiviert. <br/> <sup>6</sup> Das Verwenden eines Cmdlets für die Verwendung der Adressliste und der globalen Adressliste wird nicht unterstützt. <br/> 
+<sup>5</sup> Verbundene Konten werden für POP- und IMAP-Konten unterstützt, sind für Outlook.com (Hotmail) jedoch deaktiviert.<br/> <sup>6</sup> Das Verwenden eines Cmdlets für die Verwendung der Adressliste und der globalen Adressliste wird nicht unterstützt.<br/> 
 <sup>7</sup> Einige Drittanbieter-Webparts und -Add-Ins sind möglicherweise nicht verfügbar.<br/> 
 <sup>8</sup> Bei eDiscovery benötigen Sie eine separate Abfrage für lokale und Cloudumgebungen.<br/> 
 <sup>9</sup> Die Tabelle gibt an, ob der Client mit den zugeordneten Plänen verwendet werden kann. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. 
@@ -430,7 +430,7 @@ Suchen Sie die Exchange Online-Begrenzungen für eine Vielzahl von Service-Berei
 > - [E-Mail](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) zur Unterstützung beim Erstellen und Senden von E-Mails. 
 >- [E-Mails in Office 365 Business - Hilfe für Administratoren](/microsoft-365/admin/email/)
 >- [Beschränkungen der Nachrichtengröße](/exchange/message-size-limits-exchange-2013-help)
->- [Beheben von Outlook- und Office 365-Problemen mit dem Microsoft Support and Recovery Assistant für Office 365](https://diagnostics.office.com/)
+>- [Beheben Outlook und Office 365 Probleme mit Microsoft Support- und Wiederherstellungs-Assistent für Office 365](https://diagnostics.office.com/)
 >- [Unzustellbarkeitsberichte für E-Mails in Office 365](/exchange/message-size-limits-exchange-2013-help)
 >- [Hilfe zu Exchange Online](/exchange/exchange-online)<br/>
 
@@ -469,13 +469,13 @@ Die Grenzwerte bei Microsoft Exchange Online fallen in eine der folgenden Katego
   
 #### <a name="address-book-limits"></a>Adressbuchbeschränkungen
 
-- **Adresslistenbeschränkung** – Die maximale Anzahl von Adresslisten, die in einer Exchange Online- oder Exchange Server 2013-Organisation erstellt werden können. Diese Zahl schließt die Standardadresslisten in Exchange Online ein, z. B. alle Kontakte und alle Gruppen. 
+- **Adresslistenbeschränkung** – Die maximale Anzahl von Adresslisten, die in einer organisation Exchange Online oder Exchange Server 2013 erstellt werden können. Diese Zahl schließt die Standardadresslisten in Exchange Online ein, z. B. alle Kontakte und alle Gruppen. 
     
-- **Grenzwert für** Offlineadressbücher – Die maximale Anzahl von Offlineadressbüchern (OAB), die in einer Exchange Online- oder Exchange Server 2013-Organisation erstellt werden können. 
+- **Grenzwert für** Offlineadressbücher – Die maximale Anzahl von Offlineadressbüchern (OAB), die in einer Exchange Online oder Exchange Server 2013-Organisation erstellt werden können. 
     
-- **Grenzwert für Adressbuchrichtlinien** – Die maximale Anzahl von Adressbuchrichtlinien, die in einer Exchange Online- oder Exchange Server 2013-Organisation erstellt werden. 
+- **Grenzwert für** Adressbuchrichtlinien – Die maximale Anzahl von Adressbuchrichtlinien, die in einer organisation Exchange Online oder Exchange Server 2013 erstellt werden. 
     
-- **Globale Adresslisten** – Die maximale Anzahl globaler Adresslisten (GAL), die in einer Exchange Online- oder Exchange Server 2013-Organisation erstellt werden. 
+- **Globale Adresslisten** – Die maximale Anzahl globaler Adresslisten (GAL), die in einer organisation Exchange Online oder Exchange Server 2013 erstellt werden. 
     
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -503,7 +503,7 @@ Die Größe des verfügbaren Postfachspeichers ist abhängig von Postfachtyp und
    
 > [!NOTE]
 > <sup>1</sup> Jeder Benutzer erhält anfänglich 100 GB Speicherplatz im Archivpostfach. Wenn die automatisch erweiterte Archivierung aktiviert ist, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB erreicht ist. Weitere Informationen finden Sie unter „Übersicht zur unbeschränkten Archivierung in Office 365“. Informationen zur Verfügbarkeit finden Sie unter „Office 365 Roadmap“. <br/> 
-<sup>2</sup> Für den Zugriff auf ein freigegebenes Postfach muss ein Benutzer über eine Exchange Online-Lizenz verfügen. Freigegebene Postfächer erfordern keine separate Lizenz. Wenn Sie jedoch ein In-Situ-Archiv aktivieren oder einen In-Situ-Speicher oder ein Beweissicherungsverfahren für ein freigegebenes Postfach einrichten möchten, benötigen Sie eine Exchange Online Plan 2-Lizenz oder einen Exchange Online Plan 1 mit Exchange Online-Archivierungslizenz. Wenn Sie In-Situ-Archiv und automatisch erweiterte Archivierung für ein freigegebenes Postfach aktivieren, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB für das Archivpostfach erreicht ist. <br/> 
+<sup>2</sup> Für den Zugriff auf ein freigegebenes Postfach muss ein Benutzer über eine Exchange Online verfügen. Freigegebene Postfächer erfordern keine separate Lizenz. Wenn Sie jedoch ein In-Situ-Archiv aktivieren oder einen In-Situ-Speicher oder ein Beweissicherungsverfahren für ein freigegebenes Postfach einrichten möchten, benötigen Sie eine Exchange Online Plan 2-Lizenz oder einen Exchange Online Plan 1 mit Exchange Online-Archivierungslizenz. Wenn Sie In-Situ-Archiv und automatisch erweiterte Archivierung für ein freigegebenes Postfach aktivieren, wird automatisch zusätzlicher Speicher hinzugefügt, wenn die Speicherkapazität von 100 GB für das Archivpostfach erreicht ist. <br/> 
 <sup>3</sup> Ressourcenpostfächer benötigen keine Lizenz.<br/> 
 <sup>4</sup> Websitepostfächer werden in SharePoint Online erstellt und verwaltet. Weitere Informationen finden Sie unter „Vorbereiten der Verwendung von Websitepostfächern in Office 365“.<br/> 
 <sup>5</sup> Sie sind auf 1.000 Postfächer für öffentliche Ordner beschränkt, und die maximale Gesamtgröße aller Postfächer für öffentliche Ordner beträgt 50 TB.<br/> 
@@ -518,7 +518,7 @@ Exchange Online bietet drei Arten von Benachrichtigungen, wenn das Postfach eine
     
 - **Senden verbieten** – Der Benutzer empfängt eine Benachrichtigung per Benachrichtigung zum Verbieten des Sendens, wenn der Grenzwert für die Postfachgröße erreicht ist. Der Benutzer kann keine neuen Nachrichten mehr senden, bis ausreichend E-Mails gelöscht wurden, um die Größe des Postfachs auf einen Wert unter dem Grenzwert zu senken. 
     
-- **Senden/Empfangen** verbieten – Exchange Online lehnt eingehende E-Mails ab, wenn die Postfachgröße erreicht ist, und sendet einen Unzustellbarkeitsbericht (Non-Delivery Report, Unzustellbarkeitsbericht) an den Absender. Der Absender hat die Möglichkeit, die E-Mail später erneut zu versenden. Um wieder Nachrichten zu erhalten, muss der Benutzer E-Mails löschen, bis die Größe des Postfachs wieder unter dem Grenzwert liegt. 
+- **Senden/Empfangen** verbieten – Exchange Online alle eingehenden E-Mails zurück, wenn die Postfachgröße erreicht ist, und sendet einen Unzustellbarkeitsbericht (Non-Delivery Report, Unzustellbarkeitsbericht) an den Absender. Der Absender hat die Möglichkeit, die E-Mail später erneut zu versenden. Um wieder Nachrichten zu erhalten, muss der Benutzer E-Mails löschen, bis die Größe des Postfachs wieder unter dem Grenzwert liegt. 
     
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -536,11 +536,11 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
     
 - Maximale Anzahl von Nachrichten pro Ordner im Ordner **"Wiederherstellbare Elemente"** – Gibt die maximale Anzahl von Nachrichten an, die in jedem Ordner im Ordner "Wiederherstellbare Elemente" enthalten sein können. Wenn ein Ordner diesen Grenzwert überschreitet, können darin keine Nachrichten mehr gespeichert werden. Wenn der Ordner "Löschen" im Ordner "Wiederherstellbare Elemente" die maximale Anzahl an Nachrichten überschritten hat und der Postfachbesitzer versucht, Elemente permanent aus seinem Postfach zu löschen, wird der Löschvorgang fehlschlagen. 
     
-- Warnung für die Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare **Elemente":** Gibt die Anzahl der Nachrichten an, die jeder Ordner im Ordner "Wiederherstellbare Elemente" speichern kann, bevor Exchange Online ein Ereignis im Anwendungsereignisprotokoll protokolliert. 
+-  Warnung für die Anzahl der Nachrichten pro Ordner im Ordner "Wiederherstellbare Elemente": Gibt die Anzahl der Nachrichten an, die jeder Ordner im Ordner "Wiederherstellbare Elemente" speichern kann, bevor Exchange Online ein Ereignis im Anwendungsereignisprotokoll protokolliert. 
     
 - **Maximale Anzahl von Unterordnern pro** Postfachordner – Gibt die maximale Anzahl von Unterordnern an, die in einem Postfachordner erstellt werden können. Der Postfachbesitzer wird keinen neuen Unterordner erstellen können, wenn dieser Grenzwert erreicht ist. 
     
-- **Warnung für die** Anzahl der Unterordner pro Postfachordner – Gibt die Anzahl der Unterordner an, die in einem Postfachordner erstellt werden können, bevor Exchange Online eine Warnmeldung an den Postfachbesitzer sendet. Wenn dieses Kontingent erreicht ist, werden einmal am Tag Warnmeldungen gesendet. 
+- **Warnung für die** Anzahl der Unterordner pro Postfachordner : Gibt die Anzahl der Unterordner an, die in einem Postfachordner erstellt werden können, bevor Exchange Online eine Warnmeldung an den Postfachbesitzer sendet. Wenn dieses Kontingent erreicht ist, werden einmal am Tag Warnmeldungen gesendet. 
     
 - **Maximale Ordnerhierarchietiefe** – Gibt die maximale Anzahl von Ebenen in der Ordnerhierarchie eines Postfachs an. Der Postfachbesitzer wird keine neue Ebene in der Ordnerhierarchie des Postfachordners erstellen können, wenn dieser Grenzwert erreicht ist. 
     
@@ -613,7 +613,7 @@ Diese Begrenzungen sollen Postfächer im Rahmen bekannter Abmessungen halten, di
 > <sup>1</sup> Microsoft-Administratoren können einen benutzerdefinierten Grenzwert zwischen 1 MB und 150 MB festlegen. Die Größe der Nachricht, die Sie senden oder empfangen können, ist jedoch auch davon abhängig, was in Ihrem E-Mail-Client oder in Ihrer E-Mail-Lösung unterstützt wird. Weitere Informationen zum Anpassen von der maximal zulässigen Nachrichtengröße für Ihre Organisation finden Sie unter [Microsoft unterstützt größere E-Mail-Nachrichten](https://go.microsoft.com/fwlink/?linkid=2144144).<br/> 
 <sup>2</sup> Sie können bis zu 150 MB Nachrichten zwischen Benutzern senden und empfangen (wobei die Nachricht niemals die Microsoft-Rechenzentren verlässt). Nachrichten, die außerhalb der Microsoft-Datencenter weitergeleitet werden, werden aufgrund der Übersetzungscodierung noch einmal um 33 % größer. In diesem Fall beträgt die maximale Nachrichtengröße 112 MB. <br/> 
 <sup>3</sup> OWA berücksichtigt die Möglichkeit, dass Ihre Nachricht aufgrund der Codierung um 33 % größer wird, und beschränkt die Größe der Nachricht, die Sie senden können, auf einen um 25 % niedrigeren Wert als die konfigurierte Einstellung. Wenn Sie beispielsweise die Einstellungen für eine maximale Nachrichtengröße von 100 MB anpassen, können Sie Nachrichten mit bis zu 75 MB senden. <br/> 
-<sup>4</sup> Die Größe von Nachrichten, die in Exchange Online verschoben werden sollen, wird von Exchange Online berechnet. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. Dieser Grenzwert gilt für auf Verschiebungen basierende Migrationen mit einem beliebigen unterstützten Exchange-Postfachreplikationsdienst. Andere Migrationsmethoden (einstufig, mehrstufig, IMAP, PST-Datei) und andere Tools von Drittanbietern werden durch allgemeine Nachrichtengröße begrenzt. <br/> 
+<sup>4</sup> Die Größe der Nachrichten, die in die Exchange Online verschoben werden sollen, wird von der Exchange Online. Ältere Exchange-Versionen als Exchange Server 2013 melden möglicherweise eine geringere Elementgröße. Dieser Grenzwert gilt für auf Verschiebungen basierende Migrationen mit einem beliebigen unterstützten Exchange-Postfachreplikationsdienst. Andere Migrationsmethoden (einstufig, mehrstufig, IMAP, PST-Datei) und andere Tools von Drittanbietern werden durch allgemeine Nachrichtengröße begrenzt. <br/> 
 <sup>5</sup> Informationen zu OME mit neuen Funktionen finden Sie unter [Einrichten der neuen Office 365-Nachrichtenverschlüsselungsfunktionen, die auf Azure Information Protection aufbauen](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e). 
   
 #### <a name="receiving-and-sending-limits"></a>Empfangs- und Sendegrenzen
@@ -635,7 +635,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
 > [!NOTE]
 > Für im Adressbuch einer Organisation gespeicherte Verteilergruppen wird die Gruppe als ein Empfänger betrachtet. Für Verteilergruppen, die im Ordner "Kontakte" eines Postfachs gespeichert sind, werden die Mitglieder der Gruppe einzeln gezählt. 
   
-- **Empfängerratenbeschränkung** – Um die Zustellung von unerwünschten Massennachrichten zu verhindern, verfügt Exchange Online über Empfängerbeschränkungen, die verhindern, dass Benutzer und Anwendungen große Mengen an E-Mails senden. Diese Grenzwerte gelten pro Benutzer für alle ausgehenden und internen Nachrichten. 
+- **Empfängerratenbeschränkung** – Um die Zustellung von unaufgeforderten Massennachrichten zu verhindern, verfügt Exchange Online über Empfängerbeschränkungen, die Benutzer und Anwendungen daran hindern, große Mengen an E-Mails zu senden. Diese Grenzwerte gelten pro Benutzer für alle ausgehenden und internen Nachrichten. 
     
     > [!NOTE]
     > Exchange Online-Kunden, die seriöse kommerzielle E-Mails versenden müssen (z. B. Kunden-Newsletter), sollten einen Drittanbieter in Anspruch nehmen, der sich auf diese Dienste spezialisiert. 
@@ -645,7 +645,7 @@ Sendegrenzen gelten für die Anzahl von Empfängern, die Anzahl von Nachrichten 
     > [!NOTE]
     > Eine Verteilerliste, die im freigegebenen Adressbuch der Organisation gespeichert ist, zählt in Bezug auf den Empfängerratengrenzwert und die Empfängereinschränkung als ein Empfänger. In einer persönlichen Verteilerliste wird jeder Empfänger separat gezählt. 
   
-- **Grenzwert für Nachrichtenrate** – Nachrichtenrategrenzwerte bestimmen, wie viele Nachrichten ein Benutzer innerhalb eines bestimmten Zeitraums von ihrem Exchange Online-Konto senden kann. Dieser Grenzwert verhindert den übermäßigen Verbrauch von Systemressourcen durch einen einzelnen Absender. Wenn ein Benutzer Nachrichten mit einer Häufigkeit übermittelt, welche die SMTP-Clientübermittlungsgrenze überschreitet, werden die Nachrichten abgelehnt, und der Client muss es erneut versuchen. 
+- **Beschränkung der Nachrichtenrate** – Nachrichtenrategrenzwerte bestimmen, wie viele Nachrichten ein Benutzer innerhalb eines bestimmten Zeitraums von Exchange Online konto senden kann. Dieser Grenzwert verhindert den übermäßigen Verbrauch von Systemressourcen durch einen einzelnen Absender. Wenn ein Benutzer Nachrichten mit einer Häufigkeit übermittelt, welche die SMTP-Clientübermittlungsgrenze überschreitet, werden die Nachrichten abgelehnt, und der Client muss es erneut versuchen. 
     
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -755,9 +755,9 @@ Diese Grenzwerte steuern die Moderationseinstellungen für die Nachrichtengenehm
 
 Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei handelt es sich um ein Clientprotokoll, das Postfachdaten zwischen Mobilgeräten und Exchange synchronisiert. 
   
-- **Exchange ActiveSync Gerätelimit** : Die maximale Anzahl Exchange ActiveSync Geräte pro Postfach. 
+- **Exchange ActiveSync Gerätegrenzwert** : Die maximale Anzahl Exchange ActiveSync Geräte pro Postfach. 
     
-- **Exchange ActiveSync -** Die maximale Anzahl Exchange ActiveSync Geräte, die ein Exchange-Administrator in einem einzigen Monat löschen kann. 
+- **Exchange ActiveSync -** Die maximale Anzahl Exchange ActiveSync Geräte, die ein Exchange Administrator in einem einzigen Monat löschen kann. 
     
 - **Exchange ActiveSync Dateianlage–** Die maximale Größe einer Nachrichtendateianlage, die von einem gerät gesendet oder empfangen Exchange ActiveSync kann. 
     
@@ -769,9 +769,9 @@ Die folgenden Grenzwerte gelten für Microsoft Exchange ActiveSync. Hierbei hand
    
 ## <a name="onedrive-for-business-features"></a>OneDrive for Business-Features
 
-OneDrive for Business (vormals SkyDrive Pro) ist ein persönlicher Onlinespeicherplatz in der Cloud. Verwenden Sie diesen, um Ihre Arbeitsdateien bequem und sicher geräteübergreifend zu speichern. Teilen Sie Ihre Dateien bei Bedarf mit Kollegen, und bearbeiten Sie Office-Dokumente zusammen in Echtzeit mit Office für das Web. Synchronisieren Sie Dateien mit Ihrem lokalen Computer mithilfe der Sychronisierungs-App OneDrive for Business.
+OneDrive for Business (vormals SkyDrive Pro) ist ein persönlicher Onlinespeicherplatz in der Cloud. Verwenden Sie diesen, um Ihre Arbeitsdateien bequem und sicher geräteübergreifend zu speichern. Teilen Sie Ihre Dateien bei Bedarf mit Kollegen, und bearbeiten Office dokumente zusammen in Echtzeit mit Office für das Web. Synchronisieren Sie Dateien mit Ihrem lokalen Computer mithilfe der Sychronisierungs-App OneDrive for Business.
   
-OneDrive for Business ist in SharePoint Online enthalten und kann ebenfalls als eigenständiger Plan erworben werden. Die eigenständige OneDrive for Business-Option umfasst Office für das Web. Weitere Informationen finden Sie unter [Was ist OneDrive for Business?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
+OneDrive for Business ist in SharePoint Online enthalten und kann ebenfalls als eigenständiger Plan erworben werden. Die OneDrive for Business eigenständige Option enthält Office für das Web. Weitere Informationen finden Sie unter [What is OneDrive for Business?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
   
 ### <a name="system-requirements"></a>Systemanforderungen
 
@@ -797,15 +797,15 @@ OneDrive for Business ist in SharePoint Online enthalten. Informationen zu zusä
   
 ### <a name="subscription-plans"></a>Abonnementpläne
 
-OneDrive for Business Plan 2 ist für Office 365 A1, A3 und A5 verfügbar. Informationen zum Anzeigen der im Plan verfügbaren Features finden Sie in der [OneDrive for Business-Dienstbeschreibung](../onedrive-for-business-service-description.md).
+OneDrive for Business Plan 2 ist für Office 365 A1, A3 und A5 verfügbar. Informationen zum Anzeigen der im Plan verfügbaren Features finden Sie unter [OneDrive for Business Dienstbeschreibung](../onedrive-for-business-service-description.md).
   
 ## <a name="sharepoint-online-features"></a>SharePoint Online-Features
 
-Informationen zu SharePoint Online-Features finden Sie in der [SharePoint Online-Dienstbeschreibung](../sharepoint-online-service-description/sharepoint-online-service-description.md).
+Weitere Informationen zu SharePoint Onlinefeatures finden Sie unter [SharePoint Online-Dienstbeschreibung](../sharepoint-online-service-description/sharepoint-online-service-description.md).
 
 ### <a name="sharepoint-online-limits"></a>SharePoint Online-Beschränkungen
 
-In der folgenden Tabelle sind die SharePoint-Grenzwerte für jeden Office 365-Bildungsplan aufgeführt.<br><br>
+In der folgenden Tabelle sind die SharePoint für jeden Bildungsplan Office 365 aufgeführt.<br><br>
   
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -818,17 +818,17 @@ In der folgenden Tabelle sind die SharePoint-Grenzwerte für jeden Office 365-Bi
    
 > [!NOTE]
 > <sup>1</sup> Sie können eine unbegrenzte Menge an zusätzlichem SharePoint Online-Speicher kaufen. Weitere [Informationen finden Sie unter Hinzufügen von Speicherplatz für Ihr Abonnement.](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C) <br/> <sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der vom Papierkorb verwendete Speicherplatz wird beim Grenzwert für den Gesamtspeicher der Organisation mit berücksichtigt.<br/> 
-<sup>3</sup> Wenn Sie über ein Abonnement und einen eigenständigen SharePoint Online-Plan verfügen, werden die Speicherbeträge hinzugefügt.<br/> 
+<sup>3</sup> Wenn Sie über ein Abonnement und einen eigenständigen SharePoint Online verfügen, werden die Speicherbeträge hinzugefügt.<br/> 
 <sup>4</sup> SharePoint Online-Administratoren können Speichergrenzwerte für Websitesammlungen und Websites festlegen.<br/> 
 <sup>5</sup> Ohne OneDrive for Business-Websitesammlungen, die für jeden lizenzierten Benutzer erstellt wurden.<br/> 
 <sup>6</sup> Wenn Sie über mehr als 500.000 Benutzer verfügen, wenden Sie sich an einen Microsoft-Vertriebsmitarbeiter. 
   
 ## <a name="skype-for-business-online-features"></a>Skype for Business Online-Features
 
-In der folgenden Tabelle sind skype for Business Online-Features aufgeführt, die für jeden Office 365-Bildungsplan verfügbar sind.
+In der folgenden Tabelle sind Skype for Business Onlinefeatures aufgeführt, die für jeden Bildungsplan Office 365 verfügbar sind.
   
 > [!NOTE]
-> In dieser Tabelle wird die Client- und Dienstverfügbarkeit für office 365 Education-Optionen angegeben. Wenn Sie die verschiedenen Skype for Business-Desktopclients, -Webclients und mobilen Clients hinsichtlich einzelner Features miteinander vergleichen möchten, finden Sie entsprechende Informationen in den [Clientvergleichstabellen für Skype for Business Online](/lyncserver/lync-server-2013-desktop-client-comparison-tables) und [Vergleichstabelle für mobile Clients](/lyncserver/lync-server-2013-mobile-client-comparison-tables). 
+> Diese Tabelle zeigt die Verfügbarkeit von Clients und Office 365 Bildungseinrichtungen an. Wenn Sie die verschiedenen Skype for Business-Desktopclients, -Webclients und mobilen Clients hinsichtlich einzelner Features miteinander vergleichen möchten, finden Sie entsprechende Informationen in den [Clientvergleichstabellen für Skype for Business Online](/lyncserver/lync-server-2013-desktop-client-comparison-tables) und [Vergleichstabelle für mobile Clients](/lyncserver/lync-server-2013-mobile-client-comparison-tables). 
   
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -872,25 +872,25 @@ In der folgenden Tabelle sind skype for Business Online-Features aufgeführt, di
 |High-Definition-Video oder Bilder aller Teilnehmer  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Presentersteuerelemente  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Ausgewählte Ansicht des Teilnehmers  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|OneNote-Freigabe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|OneNote freigabe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Ad-hoc- und Zeitplanwebkonferenzen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Skype for Business-Besprechungs-Einwahl über Audiokonferenzen (Erste Partei)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
-|Skype for Business-Besprechungs-Einwahl über zertifizierten Audiokonferenzanbieter (ACP)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|PowerPoint-Freigabe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Skype for Business Besprechungs-Einwahl über Audiokonferenzen (Erste Partei)  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
+|Skype for Business besprechungswählen über zertifizierten Audiokonferenzanbieter (ACP)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|PowerPoint freigabe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Dateiübertragung  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Whiteboard und Anmerkungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|PowerPoint-Upload  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|PowerPoint hochladen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Abrufen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Clientseitige Aufzeichnung und Wiedergabe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Serverseitige Aufzeichnung und Wiedergabe  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Besprechungslobby  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype-Livekonferenz  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |
-|Gastzugriff auf Skype-Besprechungen mit Skype for Business Web App  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Planen von Skype for Business-Besprechungen in Outlook  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Planen von Skype for Business-Besprechungen in Outlook im Namen anderer (Delegierung)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Planen von Skype for Business-Besprechungen mit Web Scheduler  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Gastzugriff auf Skype Besprechungen mit Skype for Business-Web-App  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Planen Skype for Business Besprechungen in Outlook  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Planen Skype for Business Besprechungen in Outlook im Namen anderer (Delegierung)  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Planen Skype for Business besprechungen mit Web Scheduler  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Planen von Onlinebesprechungen in Outlook im Web  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Outlook-Delegierung für die Planung von Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Outlook zum Planen von Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Erstellen von öffentlichen Besprechungen mit statischen Besprechungs-IDs aus Outlook  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |**Sprachanrufe** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Automatische Telefonzentralen  <br/> |Nein  <br/> |Nein  <br/> |Ja  <br/> |
@@ -946,21 +946,21 @@ In der folgenden Tabelle sind skype for Business Online-Features aufgeführt, di
 |Anwesenheitsinteroperabilität mit Exchange Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Unified Messaging-Interoperabilität mit Exchange Server  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Unified Messaging-Interoperabilität mit Exchange Online  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
-|Interoperabilität von Outlook im Web  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Outlook in der Webinteroperabilität  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Archivierungsinteroperabilität mit Exchange Server  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Archivierungsinteroperabilität mit Exchange Online  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Qualifikationssuche mit SharePoint Server  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |Qualifikationssuche mit SharePoint Online  <br/> |Nein  <br/> |Nein  <br/> |Nein  <br/> |
 |**[Skype for Business Online-Administration und -Verwaltung](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Microsoft Office 365-Portal  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft 365 Admin Center  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Microsoft 365 Admin Center  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Skype for Business Admin Center  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
 |Windows PowerShell  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Skype for Business Online-Berichterstellung im Microsoft 365 Admin Center  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
+|Skype for Business Onlineberichte im Microsoft 365 Admin Center  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Der Lync Basic-Desktopclient ist eine lokal installierte Anwendung, die Anwesenheits-, Chat- und Konferenzfunktionen für Pläne bietet, die Skype for Business Online enthalten. Microsoft 365 Apps for Enterprise und Office 365 A3 enthalten die vollständige Skype for Business (Lync)-Anwendung, die zusätzliche Features wie erweiterte Telefonieunterstützung, Archivierung und Compliancefeatures umfasst. A Skype for Business Online license must be assigned for each user. Weitere Informationen zu Lync Basic-Features finden Sie unter [Desktop client comarison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
-<sup>2</sup> Sie müssen einen Exchange Online (Plan 2) Benutzern zuweisen, die Voicemail haben möchten. Für Voicemail kann kein Exchange Online-Plan (Plan 1) verwendet werden. 
+<sup>2</sup> Sie müssen benutzern, Exchange Online (Plan 2) Voicemail haben möchten, einen Plan zuweisen. Für Voicemail kann kein Exchange Online-Plan (Plan 1) verwendet werden. 
   
 ### <a name="skype-for-business-online-limits"></a>Skype for Business Online-Beschränkungen
 
@@ -975,13 +975,13 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
 - [Minutenlimits](../skype-for-business-online-service-description/skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Die auf eine Microsoft 365-Organisation angewendeten Beschränkungen können je nach Dauer der Registrierung der Organisation im Dienst variieren. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
+> Die auf eine Organisation angewendeten Microsoft 365 können sich je nach Dauer der Registrierung der Organisation im Dienst unterscheiden. Wenn ein Grenzwert in Microsoft-Datencentern geändert wird, kann es eine Weile dauern, um die Änderung für alle vorhandenen Kunden zu übernehmen. 
   
 #### <a name="peer-to-peer-limits"></a>Peer-to-Peer-Grenzwerte
 
-- **Dateiübertragungslimit** : Die maximale Größe einer Datei, die in einer Skype for Business Online Chat-Unterhaltung übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
+- **Dateiübertragungsgrenzwert** – Die maximale Größe einer Datei, die in einer online Skype for Business übertragen werden kann. Informationen dazu, welche Dateitypen von der Dateiübertragung ausgenommen sind, finden Sie im Microsoft Support-Artikel zum [Senden und Empfangen von Dateien oder Anhängen in Skype for Business Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
-- **Grenzwert für Geöffnete** Unterhaltungen – Die maximale Anzahl von Unterhaltungsregisterkarten, die ein Skype for Business-Benutzer gleichzeitig geöffnet haben kann. 
+- **Grenzwert für Geöffnete** Unterhaltungen – Die maximale Anzahl von Unterhaltungsregisterkarten, die Skype for Business Benutzer gleichzeitig geöffnet haben können. 
     
 | Feature | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -990,15 +990,15 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
    
 #### <a name="meeting-limits"></a>Meeting-Grenzwerte
 
-- **Grenzwert für den** Dateiupload: Die maximale Größe der Dateien, die in eine Skype for Business-Besprechung hochgeladen werden können, einschließlich Handzetteln und PowerPoint-Präsentationen. 
+- **Grenzwert für den** Dateiupload: Die maximale Größe von Dateien, die in eine Skype for Business hochgeladen werden können, einschließlich Handzetteln und PowerPoint Präsentationen. 
     
-- **Teilnehmer an einer Skype for Business-Besprechung** – Die maximale Anzahl von Teilnehmern (einschließlich des Moderators), die an einer einzelnen Skype for Business-Besprechung teilnehmen können. 
+- **Teilnehmer an einer Skype for Business** - Die maximale Anzahl von Teilnehmern (einschließlich des Moderators), die an einer einzelnen Besprechung Skype for Business können. 
     
-- **Moderatoren in einer Skype for Business-Besprechung** – Die maximale Anzahl von Moderatoren in einer einzelnen Skype for Business-Besprechung. 
+- **Presenters in Skype for Business Meeting** – Die maximale Anzahl von Moderatoren in einer Skype for Business Besprechung. 
     
-- **Skype for Business Web App-Besprechungsteilnehmer** – Die maximale Anzahl von Skype for Business Web App-Besprechungsteilnehmern, die an einer Besprechung teilnehmen können. 
+- **Skype for Business Web-App-Besprechungsteilnehmer** – Die maximale Anzahl Skype for Business Web-App-Besprechungsteilnehmer, die an einer Besprechung teilnehmen können. 
     
-- **Anonyme Skype for Business-Web-App-Teilnehmer** – Die maximale Anzahl von Skype for Business-Web-App-Besprechungsteilnehmern, die anonym an einer Besprechung teilnehmen können. 
+- **Skype for Business anonyme** Web-App-Teilnehmer – Die maximale Anzahl Skype for Business Web-App-Besprechungsteilnehmer, die anonym an einer Besprechung teilnehmen können. 
     
 - **Gäste, die per Telefon beitreten** – Die maximale Anzahl von Gästen, die an einer Besprechung anrufen können. 
     
@@ -1017,7 +1017,7 @@ Die Beschränkungen in Skype for Business Online fallen in die folgenden Kategor
   
 #### <a name="meeting-retention-limits"></a>Besprechungsaufbewahrungsgrenzwerte
 
-- **Aufbewahrungszeitraum für** Besprechungsinhalte – Der Zeitraum, nach dem die letzte Person eine Besprechung verlässt, bis hochgeladene Besprechungsinhalte in Skype for Business aufbewahrt werden, bevor sie endgültig gelöscht werden. 
+- **Aufbewahrungszeitraum** für Besprechungsinhalte – Der Zeitraum, nach dem die letzte Person eine Besprechung verlässt, in der hochgeladene Besprechungsinhalte in Skype for Business aufbewahrt werden, bevor sie endgültig gelöscht werden. 
     
 - **Ablaufzeitraum für Besprechungen** – Der Zeitraum nach dem Ende einer Besprechung, für den Benutzer auf die Besprechung zugreifen können. 
     

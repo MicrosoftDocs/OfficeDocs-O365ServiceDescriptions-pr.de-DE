@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Die folgenden Ressourcenverwaltungsfeatures sind in Project Online verfügbar.
+description: Die folgenden Ressourcenverwaltungsfeatures sind in Project Online.
 ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651205"
 ---
 # <a name="project-resource-management"></a>Projektressourcenverwaltung
 
-Die folgenden Ressourcenverwaltungsfeatures sind in Project Online verfügbar.
+Die folgenden Ressourcenverwaltungsfeatures sind in Project Online.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen [finden Project Online Dienstbeschreibung](project-online-service-description.md).
   
 ## <a name="cost-resources"></a>Kostenressourcen
 
@@ -55,6 +55,6 @@ Fügen Sie dem Projekt Ressourcen hinzu, beispielsweise Arbeitsressourcen wie Pe
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online service description](project-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Project Online Service description](project-online-service-description.md).
   
 

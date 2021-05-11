@@ -46,7 +46,7 @@ Die Features der Voicemessagingdienste in Exchange Online sind mit den Features 
     
 - Anrufbeantwortungsregeln (weitere Informationen finden Sie unter [Zulassen](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) der Weiterleitung von Anrufen durch Voicemailbenutzer).
     
-- Geschützte Voicemail in Exchange Online (Weitere Informationen finden Sie unter Schützen von [Voicemail in Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
+- Geschützte Voicemail in Exchange Online (Weitere Informationen finden Sie unter [Protect voice mail in Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
     
 - Voicemailvorschau (siehe Zulassen, dass Benutzern eine [Voicemail-Transkription](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) für eine Liste der unterstützten Sprachen angezeigt wird).
     
@@ -65,7 +65,7 @@ Weitere Informationen zu Voicemailfeatures finden Sie unter [Voicemail in Exchan
 >
 > Der Kunde muss die lokalen SBC-Hardwaregeräte bereitstellen und sicherstellen, dass die SBCs ordnungsgemäß konfiguriert sind, um eine Verbindung zu den Online-Voicemaildiensten herzustellen. Dazu gehört das Konfigurieren der entsprechenden Sicherheitsebene, indem Zertifikate sowie öffentliche und private IP-Schnittstellen verwendet und die richtigen TCP-Ports in den lokalen Firewalls aktiviert werden. 
 >
-> Gehostete Voicemail ist nur für Exchange Online Plan 2- und Office 365 Enterprise E3-Abonnenten verfügbar. 
+> Gehostete Voicemail ist nur für Exchange Online Plan 2 und Office 365 Enterprise E3-Abonnenten verfügbar. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilität von Voicemails eines Drittanbieters
 
@@ -76,8 +76,8 @@ Lokale Voicemaillösungen von Drittanbietern können mit Exchange Online zusamme
   
 ## <a name="skype-for-business-integration"></a>Skype for Business-Integration
 
-Organisationen können Skype for Business Online als eigenständigen Dienst oder als Teil von Microsoft Office 365 erwerben. Lokales Skype for Business 2015 wird ebenfalls unterstützt. Weitere Informationen zu Skype for Business Online finden Sie unter [Skype for Business Online service description](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Organisationen können Skype for Business Online als eigenständigen Dienst oder als Teil von Microsoft Office 365 erwerben. Lokales Skype for Business 2015 wird ebenfalls unterstützt. Weitere Informationen zu Skype for Business Online finden Sie [unter Skype for Business Online service description](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Exchange Online Service Description](exchange-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Exchange Online Service description](exchange-online-service-description.md).

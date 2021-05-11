@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office für das Web (früher Office Web Apps) öffnet Word-, Excel-, OneNote- und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von überall mit einer Internetverbindung, von fast jedem Gerät aus. Microsoft 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
+description: Office für das Web (früher Office Web Apps) öffnet Word-, Excel-, OneNote- und PowerPoint im Webbrowser. Office für das Web erleichtert das Arbeiten und freigeben Office dateien von überall mit einer Internetverbindung, von fast jedem Gerät aus. Microsoft 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
 ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,21 +21,21 @@ ms.locfileid: "51652369"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
-Office für das Web (früher Office Web Apps) öffnet Word-, Excel-, OneNote- und PowerPoint-Dokumente in Ihrem Webbrowser. Office für das Web erleichtert das Arbeiten und Freigeben von Office-Dateien von überall mit einer Internetverbindung, von fast jedem Gerät aus. Microsoft 365-Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
+Office für das Web (früher Office Web Apps) öffnet Word-, Excel-, OneNote- und PowerPoint im Webbrowser. Office für das Web erleichtert das Arbeiten und freigeben Office dateien von überall mit einer Internetverbindung, von fast jedem Gerät aus. Microsoft 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten. 
   
 ## <a name="available-plans"></a>Verfügbare Pläne
 
-Ausführliche Planinformationen zu Abonnements, die Benutzer für Office für das Web aktivieren, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
+Ausführliche Planinformationen zu Abonnements, die Benutzern Office Web ermöglichen, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
   
-## <a name="feature-availability-across-office-for-the-web-plans"></a>Verfügbarkeit von Features in Office für die Webpläne
+## <a name="feature-availability-across-office-for-the-web-plans"></a>Verfügbarkeit von Features Office für die Webpläne
 
-Benötigen Sie Hilfe beim Herausfinden, welche Office-Lösung am besten zu Ihrer Organisation passt? In den folgenden Tabellen wird Office für die Webfeaturefunktionen mit funktionsreichen Microsoft Office Desktop-Apps verglichen. Verwenden Sie die Tabellen, um zu ermitteln, welche Features in Office für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie können feststellen, dass einige Personen in Ihrer Organisation die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Web anzeigen und leicht bearbeiten müssen. 
+Benötigen Sie Hilfe, um herauszufinden, Office lösung am besten für Ihre Organisation geeignet ist? In den folgenden Tabellen Office die Funktionen der Webfeatures mit funktionsreichen Microsoft Office Desktop-Apps verglichen. Verwenden Sie die Tabellen, um zu ermitteln, welche Features in Office für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie können feststellen, dass einige Personen in Ihrer Organisation die erweiterte Diagrammfunktion der Excel-Desktop-App benötigen, während andere nur Word-Dokumente und PowerPoint-Präsentationen mit Office für das Web anzeigen und leicht bearbeiten müssen. 
   
 > [!NOTE]
->  Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabellen enthalten nicht alle Microsoft Office-Funktionen.<br/>  Microsoft Microsoft 365 Apps for Enterprise ist ein monatliches Abonnementangebot der neuesten Office-Desktopsuite. <br/>  Microsoft Office Lokalen Online Server-Kunden erhalten eine Office für die Webbearbeitungslizenz, wenn sie eine Lizenz für die Office-Desktopsuite erworben haben (z. B. eine Office Professional Plus-, Office Standard- oder Microsoft 365 Apps for Enterprise-Lizenz). 
+>  Eine eingeschränkte Auswahl von Office-Funktionen soll hier die erweiterten Funktionen der Office-Desktopsuite darstellen. Die Tabellen enthalten nicht alle Microsoft Office-Funktionen.<br/>  Microsoft Microsoft 365 Apps for Enterprise ist ein monatliches Abonnementangebot der neuesten Office Desktopsuite. <br/>  Microsoft Office Lokale Online Server-Kunden erhalten eine Office für die Webbearbeitungslizenz, wenn sie eine Office-Desktopsuite-Lizenz erworben haben (z. B. eine Office Professional Plus-, Office Standard- oder Microsoft 365 Apps for Enterprise-Lizenz). 
   
 > [!NOTE]
-> Wenn Sie ein Office-Dokument öffnen, entweder als Outlook-E-Mail-Anlage oder in einer SharePoint-Dokumentbibliothek, wird das Dokument in Office für das Web gestartet und ist schreibgeschützt. Zum Bearbeiten eines Dokuments in Office für das Web (Bearbeitungsmodus) benötigen Sie eine Suitelizenz, z. B. Office 365 Enterprise E1. Zum Bearbeiten eines Dokuments in der Desktop-App benötigen Sie eine Office-Desktopsuite-Lizenz, z. B. ein Microsoft 365 Apps for Enterprise-Abonnement oder eine installierte Version von Office Professional Plus 2010. 
+> Wenn Sie ein Office öffnen, entweder als Outlook-E-Mail-Anlage oder aus einer SharePoint-Dokumentbibliothek, wird das Dokument in Office für das Web gestartet und ist schreibgeschützt. Zum Bearbeiten eines Dokuments im Office web (Bearbeitungsmodus) benötigen Sie eine Suitelizenz, z. B. Office 365 Enterprise E1. Zum Bearbeiten eines Dokuments in der Desktop-App benötigen Sie eine Office-Desktopsuite-Lizenz, z. B. ein Microsoft 365 Apps for Enterprise-Abonnement oder eine installierte Version von Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 
@@ -109,8 +109,8 @@ Benötigen Sie Hilfe beim Herausfinden, welche Office-Lösung am besten zu Ihrer
 |[Zoom](word-online.md#zoom) <br/> |Ja  <br/> |Ja  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Diese werden im Viewer gerendert, sie können jedoch nicht in Office für das Web erstellt oder bearbeitet werden. <br/>
-> <sup>2</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar. <br/>
+> <sup>1</sup> Diese werden im Viewer gerendert, sie können jedoch nicht in Office web erstellt oder bearbeitet werden. <br/>
+> <sup>2</sup> Einige, jedoch nicht alle, Office-Add-Ins sind verfügbar.<br/>
   
 ### <a name="excel"></a>Excel
 
@@ -137,7 +137,7 @@ Benötigen Sie Hilfe beim Herausfinden, welche Office-Lösung am besten zu Ihrer
 |[Drag and drop cells](excel-online.md#drag-and-drop-cells) <br/> |Ja  <br/> |Ja  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |Ja  <br/> |Ja  <br/>|
 |[Doppelte Arbeitsblätter (Kopieren)](excel-online.md#duplicate-copy-worksheets) <br/> |Ja  <br/> |Ja  <br/>|
-|[Einbetten von Arbeitsmappen auf Web- oder Blogseite (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Ja  <br/> |Nein  <br/> |
+|[Einbetten einer Arbeitsmappe auf Web- oder Blogseite (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Ja  <br/> |Nein  <br/> |
 |[Externe Referenzen](excel-online.md#external-references-links) <br/> |Nr.<sup>4</sup> <br/> |Ja  <br/> |
 |[Füllhandle](excel-online.md#fill-handle) <br/> |Ja  <br/> |Ja  <br/> |
 |[Suchen](excel-online.md#find) <br/> |Ja  <br/> |Ja  <br/> |
@@ -191,9 +191,9 @@ Benötigen Sie Hilfe beim Herausfinden, welche Office-Lösung am besten zu Ihrer
 
 > [!NOTE] 
 > <sup>1</sup> PivotCharts kann nicht nur angezeigt werden.
- <br/><sup>2</sup> Je nachdem, wie Ihre Umgebung konfiguriert ist, werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die in Excel für das Web angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
- <br/><sup>3</sup> Makros können nicht mit VBA in Excel für das Web erstellt oder ausgeführt werden, Sie können jedoch VBA-aktivierte Tabellen öffnen und bearbeiten, ohne den in der Datei enthaltenen VBA zu entfernen (oder zu beschädigen).
- <br/><sup>4</sup> In Excel für das Web wird der letzte bekannte Referenzwert im Browserfenster angezeigt. Sie muss jedoch mithilfe der Excel-Desktop-App aktualisiert werden. 
+ <br/><sup>2</sup> Je nachdem, wie Ihre Umgebung konfiguriert ist, werden einige Arten von Datenverbindungen für Arbeitsmappen unterstützt, die Excel web angezeigt werden. Weitere Informationen finden Sie unter Aktualisieren von Daten in einer Arbeitsmappe in einem Browserfenster. 
+ <br/><sup>3</sup> Makros können nicht mit VBA in Excel für das Web erstellt oder ausgeführt werden, Sie können jedoch VBA-aktivierte Tabellenblätter öffnen und bearbeiten, ohne den in der Datei enthaltenen VBA zu entfernen (oder zu beschädigen).
+ <br/><sup>4</sup> In Excel für das Web wird der letzte bekannte Referenzwert im Browserfenster angezeigt. Sie muss jedoch mithilfe der Excel aktualisiert werden. 
  <br/><sup>5</sup> Einige, aber nicht alle Office-Add-Ins sind verfügbar. 
   
 ### <a name="onenote"></a>OneNote
@@ -295,8 +295,8 @@ Benötigen Sie Hilfe beim Herausfinden, welche Office-Lösung am besten zu Ihrer
 > [!NOTE]
 ><sup>1</sup> PowerPoint für das Web unterstützt einen Katalog mit acht Übergängen und 37 Animationen. Für eine größere Auswahl oder zum Erstellen benutzerdefinierter Animationen verwenden Sie die PowerPoint-Desktop-App. 
  <br/>
-<sup>2</sup> Das Gerät, auf dem Sie arbeiten, muss Freihandobjekte unterstützen. <br/> 
-<sup>3</sup> Einige, aber nicht alle Office-Add-Ins sind verfügbar. <br/>
+<sup>2</sup> Das Gerät, auf dem Sie arbeiten, muss Freihandobjekte unterstützen.<br/> 
+<sup>3</sup> Einige, aber nicht alle Office Add-Ins sind verfügbar. <br/>
 <sup>4</sup> Sie können keine PivotCharts oder PivotTables erstellen, diese aber im Viewer anzeigen. 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Unterstützte Dateitypen für Office für das Web

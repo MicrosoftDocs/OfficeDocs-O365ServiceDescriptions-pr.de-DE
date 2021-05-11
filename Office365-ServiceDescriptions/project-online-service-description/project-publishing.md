@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: Die folgenden SharePoint- und Skype for Business-Interoperabilitätsfeatures sind in Project Online verfügbar.
+description: Die folgenden SharePoint und Skype for Business Interoperabilitätsfeatures sind in Project Online.
 ms.openlocfilehash: 6c3538a2829d1367713763391ffb4fd960792412
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651188"
 ---
 # <a name="project-publishing"></a>Projektveröffentlichung
 
-Die folgenden SharePoint- und Skype for Business-Interoperabilitätsfeatures sind in Project Online verfügbar.
+Die folgenden SharePoint und Skype for Business Interoperabilitätsfeatures sind in Project Online.
   
-Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen finden [Sie in der Project Online-Dienstbeschreibung](project-online-service-description.md).
+Sie suchen nach Informationen zu allen Project Online-Features? Weitere Informationen [finden Project Online Dienstbeschreibung](project-online-service-description.md).
   
 ## <a name="create-a-project-site"></a>Erstellen einer Projektwebsite
 
@@ -41,9 +41,9 @@ Verwenden Sie Nachrichtenfunktionalitäten für die Kommunikation mit den Teammi
 
 Veröffentlichen Sie ein Projekt mithilfe von Project Web Access. Erfahren Sie mehr über das [Speichern und Veröffentlichen eines Projekts in Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271354).
   
-## <a name="save-a-project-mpp-file-on-sharepoint"></a>Speichern einer Project-MPP-Datei in SharePoint
+## <a name="save-a-project-mpp-file-on-sharepoint"></a>Speichern einer Project -MPP-Datei auf SharePoint
 
-Speichern Sie ein Projekt in einer SharePoint-Dokumentbibliothek, um es mit Teammitgliedern zu teilen, die nicht über Project Server verfügen. Erfahren Sie mehr über das [Synchronisieren mit einer SharePoint-Aufgabenliste](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+Speichern Sie ein Projekt in SharePoint Dokumentbibliothek, um es für Teammitglieder zu freigeben, die keinen Project haben. Erfahren Sie mehr über das [Synchronisieren mit einer SharePoint-Aufgabenliste](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="task-list-sync-to-sharepoint"></a>Aufgabenlistensynchronisierung mit SharePoint
 
@@ -51,6 +51,6 @@ Nachdem Sie Ihr Projekt mit einer SharePoint-Aufgabenliste erstmals verknüpft h
   
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie unter [Project Online service description](project-online-service-description.md).
+Informationen zur Verfügbarkeit von Features in Plänen, eigenständigen Optionen und lokalen Lösungen finden Sie [unter Project Online Service description](project-online-service-description.md).
   
 
