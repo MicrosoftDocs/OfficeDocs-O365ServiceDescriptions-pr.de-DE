@@ -8,181 +8,197 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Diese Anleitung gilt für IT-Profis, die Bereitstellungen von Office 365 in Us Federal Government-Entitäten oder anderen Entitäten antreibt, die Daten verarbeiten, die staatlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government – DoD geeignet ist, um diese Anforderungen zu erfüllen.
-ms.openlocfilehash: 74907afc24dd468111e3f530dc316346784b2996
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Diese Anleitung richtet sich an IT-Profis, die den Einsatz von Office 365 in Einrichtungen der US-Bundesregierung oder anderen Stellen vorantreiben, die Daten verarbeiten, die staatlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Regierung – DoD geeignet ist, diese Anforderungen zu erfüllen.
+ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
+ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652619"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52546002"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planen von Microsoft 365 Compliance – DoD-Bereitstellungen
 
-Diese Anleitung gilt für IT-Profis, die Bereitstellungen von Office 365 in Us Federal Government-Entitäten oder anderen Entitäten antreibt, die Daten verarbeiten, die staatlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Government – DoD geeignet ist, um diese Anforderungen zu erfüllen.
+Diese Anleitung richtet sich an IT-Profis, die den Einsatz von Office 365 in Einrichtungen der US-Bundesregierung oder anderen Stellen vorantreiben, die Daten verarbeiten, die staatlichen Vorschriften und Anforderungen unterliegen, wobei die Verwendung von Microsoft 365 Regierung – DoD geeignet ist, diese Anforderungen zu erfüllen.
 
 > [!NOTE]
-> Wenn Ihre Organisation die Anforderungen für die Microsoft 365 Government – DoD-Berechtigung bereits erfüllt hat und die Schritte 1 und 2 für das Programm beantragt und akzeptiert hat, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
+> Wenn Ihre Organisation die Anforderungen für die Microsoft 365 Regierung – DoD-Berechtigung stagniert und beantragt und in das Programm aufgenommen wurde, können Sie die Schritte 1 und 2 überspringen und direkt zu Schritt 3 wechseln.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>Schritt 1. Bestimmen, ob Ihre Organisation eine Microsoft 365 benötigt – DoD und erfüllt Berechtigungsanforderungen
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>Schritt 1. Bestimmen, ob Ihre Organisation Microsoft 365-DoD benötigt und die Berechtigungsanforderungen erfüllt
 
-Die Microsoft 365 Government - DoD-Umgebung entspricht den Anforderungen der US-Regierung für Clouddienste.
+Die Microsoft 365 Regierung - DoD-Umgebung erfüllt die Anforderungen der US-Regierung für Cloud-Dienste.
 
-Organisationen profitieren nicht nur von den Features und Funktionen von Office 365, sondern profitieren auch von den folgenden Features, die für Microsoft 365 Government – DoD einzigartig sind:
+Neben den Funktionen und Funktionen Office 365 profitieren Unternehmen von den folgenden Funktionen, die für Microsoft 365 Regierung – DoD – einzigartig sind:
 
-- Die Kundeninhalte Ihrer Organisation werden logisch von Kundeninhalten in den kommerziellen Office 365 von Microsoft getrennt.
+- Die Kundeninhalte Ihrer Organisation werden logisch von Kundeninhalten in den kommerziellen Office 365 Diensten von Microsoft getrennt.
 - Der Kundeninhalt Ihrer Organisation wird in den Vereinigten Staaten gespeichert.
 - Der Zugriff auf den Kundeninhalt Ihrer Organisation ist auf ausgewähltes Microsoft-Personal beschränkt.
-- Microsoft 365 Government – DoD entspricht den Zertifizierungen und Akkreditierungen, die für Kunden des öffentlichen US-Amerikanischen Öffentlichen Diensts erforderlich sind.
+- Microsoft 365 Regierung - DoD erfüllt Zertifizierungen und Akkreditierungen, die für Kunden des öffentlichen Sektors in den USA erforderlich sind.
 
-Weitere Informationen zum Angebot Microsoft 365 Government – DoD für Us Government-Kunden finden Sie unter [Office 365 Government-](https://products.office.com/government/compare-office-365-government-plans)und Berechtigungsanforderungen.
+Weitere Informationen zum Microsoft 365 Government - DoD-Angebot für Kunden der US-Regierung finden Sie unter [Office 365 Government Plänen](https://products.office.com/government/compare-office-365-government-plans), einschließlich der Berechtigungsvoraussetzungen.
 
-In [Office 365 us Government service description](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) werden die Vorteile der Plattform beschrieben, die sich auf die Einhaltung von Complianceanforderungen in den USA zentriert haben.
+Die Office 365 Servicebeschreibung der [US-Regierung](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) beschreibt die Vorteile der Plattform, die sich auf die Einhaltung der Compliance-Anforderungen in den Vereinigten Staaten konzentrieren.
 
 > [!TIP]
-> Möglicherweise möchten Sie die Informationstabellen in der Dienstbeschreibung in eine Excel-Arbeitsmappe übertragen und zwei Spalten hinzufügen: Relevant für meine Organisation **Y/N** und Erfüllt die Anforderungen meiner Organisation **Y/N**. Anschließend können Sie diese Liste mit Ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst den Anforderungen Ihrer Organisation entspricht.
+> Sie können die Informationstabellen in der Servicebeschreibung in eine Excel Arbeitsmappe übertragen und zwei Spalten hinzufügen: **Relevant für meine Organisation Y/N** und erfüllt die Anforderungen meiner Organisation **Y/N**. Anschließend können Sie diese Liste mit Ihren Kollegen überprüfen, um zu bestätigen, dass dieser Dienst den Anforderungen Ihrer Organisation entspricht.
 
 **Entscheidungspunkte**:<br/>
-- *Entscheiden Sie, Microsoft 365 government – DoD für Ihre Organisation geeignet ist.*
+- *Entscheiden Sie, ob Microsoft 365-DoD für Ihre Organisation geeignet ist.*
 - *Vergewissern Sie sich, dass Ihre Organisation die Berechtigungsanforderungen erfüllt.*
 
 > [!NOTE]
-> Microsoft 365 Government – DoD ist nur in den USA verfügbar. Kunden außerhalb der USA können aus einer Reihe von Office 365 Government [auswählen.](https://products.office.com/government/compare-office-365-government-plans)
+> Microsoft 365 Regierung - DoD ist nur in den Vereinigten Staaten verfügbar. Nicht-US-Regierungskunden können aus einer Reihe von [Office 365 Government Plänen](https://products.office.com/government/compare-office-365-government-plans)wählen.
 
-## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Schritt 2. Beantragen einer Microsoft 365 - DoD
+## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Schritt 2. Bewerben Sie sich für Microsoft 365 Regierung - DoD
 
-Nachdem Sie entschieden haben, dass dieser Dienst für Ihre Organisation richtig ist, starten Sie den Prozess der [Anwendung für diesen Dienst.](https://products.office.com/government/eligibility-validation)
+Nachdem Sie entschieden haben, dass dieser Dienst für Ihre Organisation am richtigen ist, beginnen Sie mit der [Bewerbung für diesen Dienst](https://products.office.com/government/eligibility-validation).
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Schritt 3: Verstehen Microsoft 365 Government – DoD-Standardsicherheitseinstellungen
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Schritt 3: Verstehen Microsoft 365 Regierung - DoD-Standardsicherheitseinstellungen
 
-Es wird empfohlen, sich zeit zu nehmen, ihre Administrator- und Sicherheitseinstellungen sorgfältig zu überprüfen, bevor Sie sie ändern, und die Auswirkungen auf die Compliance zu berücksichtigen, bevor Sie Änderungen an den Standardsicherheitseinstellungen vornehmen.
+Es wird empfohlen, dass Sie sich Zeit nehmen, ihre Administrator- und Sicherheitseinstellungen sorgfältig zu überprüfen, bevor Sie sie ändern und die Auswirkungen auf die Compliance berücksichtigen, bevor Sie Änderungen an den Standardsicherheitseinstellungen vornehmen.
 
-**Entscheidungspunkt**: Entscheiden Sie, ob Sie eine der standardmäßigen Microsoft 365 Government - DoD-Sicherheitseinstellungen ändern, um zunächst die Auswirkungen etwaiger Änderungen *zu verstehen.*
+**Entscheidungspunkt**: *Entscheiden Sie, ob Sie eine der standardmäßigen Microsoft 365-DoD-Sicherheitseinstellungen ändern, um die Auswirkungen der möglicherweise vorgenommenen Änderungen zu verstehen.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Schritt 4. Verstehen, welche Funktionen derzeit nicht verfügbar sind oder standardmäßig in Microsoft 365 Government – DoD<sup>1 deaktiviert sind</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Schritt 4. Verstehen, welche Funktionen derzeit in Microsoft 365 Regierung nicht verfügbar oder deaktiviert sind – DoD<sup>1</sup>
 
-Um die Anforderungen unserer Government-Cloud-Kunden zu erfüllen, gibt es einige Unterschiede zwischen Microsoft 365 Government - DoD und Enterprise-Plänen. In der folgenden Tabelle finden Sie Informationen zu den verfügbaren Features. Hier [finden](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) Sie die neuesten Kompatibilitätsproduktupdates, die auf der Microsoft 365 veröffentlicht werden.<br><br>
+Um den Anforderungen unserer Government Cloud-Kunden gerecht zu werden, gibt es einige Unterschiede zwischen Microsoft 365 Regierung - DoD und Unternehmensplänen. Lesen Sie in der folgenden Tabelle, welche Funktionen verfügbar sind. Hier [](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) finden Sie die neuesten Compliance-Produktupdates, die auf Microsoft 365 Roadmap veröffentlicht wurden.<br><br>
 
-| Bereich                                    | Feature                                         | GCC Status             |
-| --------------------------------------- | ----------------------------------------------- | ---------------------- |
-| **Schutz von Daten**              | Client und Scanner für einheitliche Bezeichnungen         | Available              |
-|                                         | Genaue Übereinstimmung der Daten          | Available               |
-|                                         | Automatische Klassifizierung und Bezeichnung für Exchange Online, SharePoint Online und OneDrive                      | Rollout              |
-|                                         | Automatische Klassifizierung und Bezeichnung für Office-Apps (Word, Excel, PowerPoint, Outlook) plattformübergreifend (Web, Android, iOS, Windows und Mac)            | In der Entwicklung |
-|                                         | Automatische Klassifizierung und Bezeichnung für Mobile                                       | On Engineering Backlog              |
-|                                         | Automatische Klassifizierung und Bezeichnung für Teams                            | On Engineering Backlog |
-|                                         | Datenklassifizierung: Übersicht und Inhalts-Explorer                            | In der Entwicklung |
-|                                         | Analytics: Machine Learning-Klassifizierungen mit automatischer Bezeichnung auf Dienstseite                           | On Engineering Backlog  |
-|                                         | Analyse: Maschinelles Lernen mit automatischer Bezeichnung auf Office/Clientseite                           | On Engineering Backlog  |
-|                                         | Grundlegende Office 365-Nachrichtenverschlüsselung (E3)                            | Available              |
-|                                         | Erweiterte Office 365-Nachrichtenverschlüsselung (E5)  | Available              |
-|                                         | Kundenschlüssel für Office 365    | Available |
-|                                         | Bring Your Own Key (BYOK) für den Lebenszyklus der Bereitstellung von kundenver verwalteten Schlüsseln                            | Available |
-|                                         | Hold Your Own Key (HYOK), der Azure Information Protection und Active Directory (AD) Rights Management für stark regulierte Szenarien umfasst (Vorschau)                         | Available |
-|                                         | Verschlüsselung mit Doppelschlüssel                           | Rollout |
-|                                         | Verhinderung von Datenverlust (Data Loss Prevention, DLP) für Dateien und E-Mails         | Available |
-|                                         | DLP für Teams und Kanalunterhaltungen         | On Engineering Backlog |
-|                                         | DLP genaue Daten übereinstimmen         | On Engineering Backlog |
-|                                         | DLP-Endpunkt | On Engineering Backlog |
-| **Informationsgovernance** | Information Governance: E-Mail-Archivierung                                       | Available              |
-|                                         | Informationsverwaltung: Erhaltungssperre          | Available              |
-|                                         | Information Governance: Importieren von PST                      | Available              |
-|                                         | Information Governance: Manuelle Aufbewahrungsbezeichnungen ohne Datensatz            | Available |
-|                                         | Information Governance: Standardaufbewahrungsbezeichnungen für SharePoint/OneDrive for Business Bibliotheken, Ordner und Dokumentenmappen; Exchange Posteingang; und Office 365 Gruppen | Available              |
-|                                         | Information Governance: Aufbewahrungsrichtlinien für die gesamte Organisation; bestimmte Speicherorte oder Benutzer; und automatisch basierend auf einer bestimmten Bedingung (z. B. Schlüsselwörter oder vertrauliche Informationen)                                       | Available              |
-|                                         | Information Governance: Aufbewahrungsrichtlinien mit trainierbaren Klassifizierungen                            | On Engineering Backlog |
-|                                         | Information Governance: Aufbewahrungsrichtlinien für Teams Besprechungsaufzeichnung                            | On Engineering Backlog |
-|                                         | Information Governance: Aufbewahrungsrichtlinien für Yammer und Teams                           | On Engineering Backlog              |
-|                                         | Datensatzverwaltung: Manuelle Klassifizierung für Datensatzbeschriftungen                              | Available              |
-|                                         | Datensatzverwaltung: Standarddatensatzbezeichnungen für SharePoint, OneDrive for Business, Ordner und Dokumentmappen; und Office 365 Gruppen                            | Available              |
-|                                         | Datensatzverwaltung: Automatische Datensatzrichtlinien basierend auf bestimmten Bedingungen (z. B. Schlüsselwörter oder vertrauliche Informationen); und basierend auf einem Ereignis  | Available              |
-|                                         | Datensatzverwaltung: Dispositionsüberprüfung    | Available |
-|                                         | Datensatzverwaltung: Dateiplan-Manager                            | Available |
-|                                         | Datensatzverwaltung: Nachweis der Entsorgung                         | Available |
-|                                         | Datensatzverwaltung: Behördliche Datensätze | On Engineering Backlog |
-|                                         | Datensatzverwaltung: Mehrstufige Dispositionsüberprüfung | On Engineering Backlog |
-|                                         | Datensatzverwaltung: Verwenden SharePoint Syntexklassifizierung zum Anwenden von Datensatzbezeichnungen         | On Engineering Backlog |
-| **Insider-Risikomanagement**             | Kunden-Lockbox                                | Available            |
-|                                         | Insider Risk Management: Office Indikatoren für Teams, SharePoint Websites, E-Mail-Nachrichten                         | On Engineering Backlog |
-|                                         | Insider Risk Management: Datendiebstahl durch ausscheidende Benutzer                        | On Engineering Backlog |
-|                                         | Insider Risk Management: Allgemeine Datenlecks                                | On Engineering Backlog              |
-|                                         | Insider Risk Management: Untersuchen von Insider-Risikomanagementwarnungen                                   | On Engineering Backlog              |
-|                                         | Insider-Risikomanagement: Falldashboard, Inhalts-Explorer und Benachrichtigungsvorlagen | On Engineering Backlog |
-|                                         | Insider Risk Management: Eskalieren der Untersuchung für Advanced eDiscovery |On Engineering Backlog|
-|                                         | Insider Risk Management: Geräteindikatoren für Aktivitäten auf Windows 10 Build 1809 und höher |On Engineering Backlog|
-|                                         | Insider Risk Management: Indikatoren für Sicherheitsrichtlinienverletzung (Vorschau) |On Engineering Backlog|
-|                                         | Insider Risk Management: Indikatoren für Microsoft Defender for Endpoint-Warnungen (Vorschau) |On Engineering Backlog|
-|                                         | Insider Risk Management: Richtlinienvorlagen für Datenlecks nach Prioritätsbenutzern (Vorschau) | On Engineering Backlog |
-|                                         | Insider Risk Management: Richtlinienvorlagen für Datenlecks von unzufriedenen Benutzern (Vorschau) | On Engineering Backlog |
-|                                         | Insider Risk Management: Richtlinienvorlagen für allgemeine Sicherheitsrichtlinienverletzungen (Vorschau) | On Engineering Backlog |
-|                                         | Insider Risk Management: Richtlinienvorlagen für Sicherheitsrichtlinienverletzungen durch Prioritätsbenutzer, ausscheidende Benutzer, unzufriedene Benutzer (Vorschau) | On Engineering Backlog |
-|                                         | Insider Risk Management: Policy customization (preview) | On Engineering Backlog |
-|                                         | Insider Risk Management: Export alerts (preview) | On Engineering Backlog |
-|                                         | Insider Risk Management: Priority user groups (preview) | On Engineering Backlog |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Erstellen von Kundenrichtlinien, 3 vorkonfiguriert  | On Engineering Backlog |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Unterstützung für Teams, Exchange und Teams Nachricht | On Engineering Backlog |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Zugriffswarnungen; Benachrichtigungsvorlagen; Kommunikationsrichtliniendashboard | On Engineering Backlog  |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Eskalieren der Untersuchung für Advanced eDiscovery | On Engineering Backlog |
-|                                         | Kommunikationskonformität (inkl. Aufsichtsrichtlinien): Erkennen von Inhalten für Erwachsene | On Engineering Backlog |
-|                                         | Kommunikationskonformität(inkl. Aufsichtsrichtlinien): Erkennt im Laufe der Zeit wiederholte Verhaltensverletzungen | Rollout |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Unterstützung für differenziertere Berechtigungen | Rollout |
-|                                         | Kommunikationskonformität (inkl. Aufsichtsrichtlinien): Analysieren Teams Chatdaten von Benutzern mit einem postfachvoreingespeicherten Postfach | Rollout |
-|                                         | Kommunikationskonformität (inkl. Aufsichtsrichtlinien): Vorlage für Interessenkonflikte | On Engineering Backlog |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Möglichkeit, E-Mail-Signatur oder Haftungsausschluss zu ignorieren | On Engineering Backlog |
-|                                         | Kommunikationskonformität (inkl. Aufsichtsrichtlinien): Hand-off für Insider-Risikomanagement | On Engineering Backlog |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Überprüfung der Richtlinienintegität und Möglichkeit zum Anhalten von Richtlinien | On Engineering Backlog |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Übersetzen von Integritätsinhalten während der Untersuchung | On Engineering Backlog |
-|                                         | Kommunikationskonformität (einschließlich Aufsichtsrichtlinien): Burnout- und Suiziderkennung | On Engineering Backlog |
-|                                         | Informationsbarrieren | On Engineering Backlog |
-|                                         | Privileged Access Management                    | On Engineering Backlog |
-| **Ermitteln & Antworten**                  | Core eDiscovery: In-Place-Erhaltung                            | Available              |
-|                                         | Kern-eDiscovery: Fallverwaltung                                 | Available              |
-|                                         | Core eDiscovery: Search                                          | Available              |
-|                                         | Core eDiscovery: Export                                          | Available              |
-|                                         | Kern-eDiscovery: RMS-Entschlüsselung                                  | Available              |
-|                                         | Kern-eDiscovery: Nativer Export                                   | Available              |
-|                                         | Kern-eDiscovery: Überwachung                                        | Available              |
-|                                         | Advanced eDiscovery: Erweiterte Verarbeitung                                 | Rollout |
-|                                         | Advanced eDiscovery: Zuordnung von Verwahrer zu Arbeitsauslastung                                 | Rollout |
-|                                         | Advanced eDiscovery: Custodian Communications                                 | Rollout |
-|                                         | Advanced eDiscovery: Dashboard                   | Rollout |
-|                                         | Advanced eDiscovery: E-Mail-Threading                                          | Rollout |
-|                                         | Advanced eDiscovery: Exportieren (Herunterladen, Exportieren, Hinzufügen zu einem anderen Überprüfungssatz)                               | Rollout |
-|                                         | Advanced eDiscovery: Filtern                 | Rollout |
-|                                         | Advanced eDiscovery: Rechtlicher Halteraum für nachrichten Teams privaten Kanälen                                         | Rollout |
-|                                         | Advanced eDiscovery: Beinahe doppelte Identifikation                                         | Rollout |
-|                                         | Advanced eDiscovery: Nicht Office 365 Aufnahme                                      | Rollout |
-|                                         | Advanced eDiscovery: Vorhersagecodierung                                       | Rollout |
-|                                         | Advanced eDiscovery: Verarbeiteter Export mit Ladedatei                   | Rollout |
-|                                         | Advanced eDiscovery: Redactions                        | Rollout |
-|                                         | Advanced eDiscovery: Überprüfen von Sätzen                                     | Rollout |
-|                                         | Advanced eDiscovery: Überprüfen und Kommentieren                             | Rollout |
-|                                         | Advanced eDiscovery: Suchbegriffsbericht                        | Rollout |
-|                                         | Advanced eDiscovery: Unterstützung verknüpfter Inhalte von OneDrive und SharePoint Online (moderne Anlagen)                        | Rollout |
-|                                         | Advanced eDiscovery: Tagging                              | Rollout |
-|                                         | Advanced eDiscovery: Unterstützung Teams Reaktionen                              | Rollout |
-|                                         | Advanced eDiscovery: Mandantenberichte                              | Rollout |
-|                                         | Advanced eDiscovery: Designs                              | Rollout |
-|                                         | Advanced eDiscovery: Viewer                              | Rollout |
-|                                         | Advanced eDiscovery: Yammer Advanced eDiscovery im Microsoft Compliance Center                              | Rollout |
-|                                         | Advanced eDiscovery: CJK/Double-Byteunterstützung für Advanced eDiscovery                              | In der Entwicklung |
-|                                         | Grundlegende Überwachung                              | Available |
-|                                         | Erweiterte Überwachung: Zugriff auf wichtige Ereignisse (z. B. mailitemsaccessed)                              | Rollout |
-|                                         | Erweiterte Überwachung: Erhöhte Bandbreite für die Verwaltungsaktivitäts-API                              | Rollout |
-|                                         | Erweiterte Überwachung: Protokollaufbewahrung (1 Jahr)                              | Rollout |
-|                                         | Erweiterte Überwachung: Verfügbarkeit von Security and Compliance Center                              | Available |
-|                                         | Erweiterte Überwachung: Langfristige Aufbewahrung in Überwachungsprotokollen (10 Jahre)                              | On Engineering Backlog |
-|                                         | Erweiterte Überwachung: E-Mail-Weiterleitungs- und E-Mail-Sendeereignisse                              | On Engineering Backlog |
-|                                         | Erweiterte Überwachung: Verarbeitete Überwachungseinblicke                              | On Engineering Backlog |
-|                                         | Erweiterte Überwachung: Suchbegriffsereignisse in Exchange Online und SharePoint Online                              | On Engineering Backlog |
-|    **Verwaltung der Richtlinientreue**            | Microsoft 365 Security and Compliance Center                              | Available |
-|                                         | Microsoft Cloud App Security                              | On Engineering Backlog |
-|                                         | Compliance-Manager                              | On Engineering Backlog |
-|                                         | Unterstützung für Doppelte Bytezeichen                              | On Engineering Backlog |
-|    **Ökosystem**            | Graph APIs für Advanced eDiscovery                              | In der Entwicklung |
-|                                         | First-Party-Datenconnectors                              | On Engineering Backlog |
-|                                         | Daten-Connectoren von Drittanbietern                              | On Engineering Backlog |
-|                                         | Graph APIs für Teams Exportieren von Daten                              | On Engineering Backlog |
+| Bereich | Feature | DoD-Status |
+|------|---------|------------|
+| **Schutz von Daten** | Einheitliche Kennzeichnung von Client und Scanner | Available |
+| | Genaue Datenübereinstimmung | Available |
+| | Automatische Klassifizierung und Beschriftung für Exchange Online, SharePoint Online und OneDrive for Business | Rollout |
+| | Automatische Klassifizierung und Beschriftung für Office Apps (Word, Excel, PowerPoint, Outlook) plattformübergreifend (Web, Windows und Mac) | Available |
+| | Automatische Klassifizierung und Kennzeichnung für Office Kunden - Mobile | Auf Engineering-Rückstand |
+| | Automatische Klassifizierung und Beschriftung für Teams,Microsoft 365 Und SharePoint Websites | Available |
+| | Obligatorische Kennzeichnung | Available |
+| | Manuelle Empfindlichkeitsbeschriftung in Office Apps (iOS, Android, Windows) | Available |
+| | Sensitivitätsbezeichnungskonfiguration für nur verschlüsselnden Schutz bei Outlook Nachrichten | Rollout |
+| **Analyse** | Datenklassifizierung: Übersicht und Inhalts-Explorer | Rollout |
+| | Analytics: Machine Learning-Klassifikatoren mit Automatischer Etikettierung auf Service-Seite | In Entwicklung |
+| | Analytics: Machine Learning-Klassifikatoren mit automatischer Kennzeichnung auf Office-Apps/Client-Seite | Rollout |
+| **Verschlüsselung** | Grundlegende Office 365-Nachrichtenverschlüsselung (E3) | Available |
+| | Fortgeschrittene Office 365-Nachrichtenverschlüsselung (E5) | Available |
+| | Bring Your Own Key (BYOK) für den lebenszyklus der kundenverwalteten Schlüsselbereitstellung | Available |
+| | Kundenschlüssel für Office 365 | Available |
+| | Verschlüsselung mit Doppelschlüssel | Available |
+| **Verhinderung von Datenverlust** | Datenverlustprävention (DLP) für Dateien und E-Mails | Available |
+| | DLP für Teams Chat- und Channel-Unterhaltungen | Available |
+| | DLP: Warnungs-Dashboard | Rollout |
+| | DLP-Endpunkt | In Entwicklung |
+| | DLP On-prem | Auf Engineering-Rückstand |
+| | DLP Übersichtsseite | In Entwicklung |
+| **Informationsgovernance** | Informations-Governance: E-Mail-Archivierung | Available |
+| | Informations-Governance: Aufbewahrungssperre | Available |
+| | Informations-Governance: Import PST | Available |
+| | Information Governance: Anwenden von Aufbewahrungsetiketten ohne Datensatz manuell | Available |
+| | Informations-Governance: Wenden Sie standardmäßige Aufbewahrungsbeschriftungen für SharePoint/OneDrive for Business-Bibliotheken, Ordner und Dokumentsätze an. Exchange Posteingänge; und Office 365 Gruppen | Available |
+| | Informations-Governance: Wenden Sie eine einzelne Standardaufbewahrungsbezeichnung auf die gesamte Organisation an; bestimmte Standorte oder Benutzer; und automatisch basierend auf bestimmten Bedingungen (z. B. Schlüsselwörter oder vertrauliche Informationen) | Available |
+| | Informations-Governance: Anwenden einer Standardbezeichnung für Exchange Posteingänge | Available |
+| | Informations-Governance: Mehrstufige Dispositionsüberprüfung | Auf Engineering-Rückstand |
+| | Informations-Governance: Aufbewahrungsrichtlinien mit aussetzbaren Klassifikatoren | In Entwicklung |
+| | Information Governance: Aufbewahrungsrichtlinien für Teams Chat | Rollout |
+| | Informations-Governance: Aufbewahrungsrichtlinien für Teams Meeting-Aufzeichnung | Available |
+| | Informations-Governance: Aufbewahrungsrichtlinien für Teams Private Channel-Nachrichten | Auf Engineering-Rückstand |
+| | Informations-Governance: Aufbewahrungs- und Kennzeichnungsrichtlinien adaptive Randbereiche | In Entwicklung |
+| | Records Management: Record Label manuell anwenden | Available |
+| | Datensatzverwaltung: Wenden Sie eine Standarddatensatzbezeichnung für SharePoint, OneDrive for Business Bibliotheken, Ordner und Dokumentsätze an. und Office 365 Gruppen | Available |
+| | Datensatzverwaltung: Automatische Datensatzrichtlinien basierend auf bestimmten Bedingungen (z. B. Schlüsselwörter oder vertrauliche Informationen); und basierend auf einem Ereignis | Available |
+| | Datensatzverwaltung: Dispositionsüberprüfung | Available |
+| | Datensatzverwaltung: Dateiplan-Manager | Available |
+| | Datensatzmanagement: Entsorgungsnachweis | Available |
+| | Datensatzverwaltung: Records-Versionierung | Available |
+| | Datensatzverwaltung: Regulatorische Aufzeichnungen | Available |
+| | Datensatzverwaltung: Verwenden SharePoint Syntex-Klassifizierung zum Anwenden von Datensatzlabels | Auf Engineering-Rückstand |
+| **Insider-Risikomanagement** | Kunden-Lockbox | Available |
+| | Insider-Risikomanagement: Fall-Dashboard, Content Explorer und Benachrichtigungsvorlagen | Rollout |
+| | Insider-Risikomanagement: Ermittlungen für Advanced eDiscovery eskalieren | Rollout |
+| | Insider Risk Management: Datendiebstahl durch abgehende Nutzer | Rollout |
+| | Insider Risk Management: Allgemeine Datenlecks | Rollout |
+| | Insider-Risikomanagement: Insider-Risikomanagementwarnungen untersuchen | Rollout |
+| | Insider Risk Management: Office Indikatoren für Teams, SharePoint Websites, E-Mail-Nachrichten | Rollout |
+| | Insider-Risikomanagement-Aktivitäts-Explorer | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Geräteindikatoren für Aktivitäten auf Windows 10 Build 1809 und höher | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Indikatoren für Microsoft Defender für Endpoint-Warnungen | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Indikatoren für Sicherheitsrichtlinienverstöße | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Richtlinienvorlagen für Datenlecks von verärgerten Benutzern | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Richtlinienvorlagen für Datenlecks durch prioritäre Benutzer | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Richtlinienvorlagen für allgemeine Sicherheitsrichtlinienverletzungen | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Richtlinienvorlagen für Sicherheitsrichtlinienverletzungen nach prioritären Benutzern, abgehenden Benutzern, verärgerten Benutzern (Vorschau) | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Richtlinienanpassung | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Exportwarnungen | Auf Engineering-Rückstand |
+| | Insider Risk Management: Microsoft Teams Integration | Auf Engineering-Rückstand |
+| | Insider-Risikomanagement: Vorrangige Benutzergruppen | Auf Engineering-Rückstand |
+| | Communication Compliance: Erstellen von Kundenrichtlinien, 3 vorkonfigurierte | Available |
+| | Communication Compliance: Unterstützung für Teams, Exchange und entfernen Teams Nachricht | Available |
+| | Kommunikationskonformität: Zugriffswarnungen; Benachrichtigungsvorlagen; Kommunikationsrichtlinien-Dashboard | Available |
+| | Kommunikations-Compliance: Eskalation für Ermittlungen für Advanced eDiscovery | Available |
+| | Kommunikationskonformität: Erkennt wiederholte Verhaltensverletzungen im Zeitverlauf | Available |
+| | Communication Compliance: Unterstützung für detailliertere Berechtigungen | Available |
+| | Communication Compliance: Analysieren Teams Chatdaten von Benutzern mit On-Prem-Postfach | Available |
+| | Communication Compliance: Vorlage für Interessenkonflikte | Available |
+| | Kommunikationskonformität: Möglichkeit, E-Mail-Signatur oder Haftungsausschluss zu ignorieren | In Entwicklung |
+| | Communication Compliance: Möglichkeit, einen Aufbewahrungszeitraum für eine Communication Compliance-Richtlinie festzulegen | Auf Engineering-Rückstand |
+| | Kommunikationskonformität: Erkennen von Inhalten für Erwachsene | Auf Engineering-Rückstand |
+| | Communication Compliance: Insider-Risikomanagement-Hand-off | In Entwicklung |
+| | Communication Compliance: Richtlinien-Integritätsprüfung und Möglichkeit, Richtlinien anzuhalten | In Entwicklung |
+| | Communication Compliance: Unterstützung von 7 Sprachen für Bedrohungen, gezielte Belästigung und Definitionen von Profanitäten | In Entwicklung |
+| | Communication Compliance: Übersetzen von Gesundheitsinhalten während der Untersuchung | In Entwicklung |
+| | Informationsbarrieren | Rollout |
+| | Verwaltung des privilegierten Zugriffs | Auf Engineering-Rückstand |
+| **Entdecken Sie & reagieren** | Core eDiscovery: In-Place-Konservierung | Available |
+| | Core eDiscovery: Fallmanagement | Available |
+| | Core eDiscovery: Suche | Available |
+| | Core eDiscovery: Exportieren | Available |
+| | Core eDiscovery: RMS-Entschlüsselung | Available |
+| | Core eDiscovery: Nativer Export | Available |
+| | Core eDiscovery: Überwachung | Available |
+| | Core eDiscovery: Compliance-Grenzen für OneDrive for Business | Rollout |
+| | Advanced eDiscovery: Erweiterte Verarbeitung | Available |
+| | Advanced eDiscovery: CJK/Double Byte Unterstützung für Advanced eDiscovery | Available |
+| | Advanced eDiscovery: Custodian-to-Workload-Mapping | Available |
+| | Advanced eDiscovery: Custodian Communications | Available |
+| | Advanced eDiscovery: Dashboard | Available |
+| | Advanced eDiscovery: E-Mail-Threading | Available |
+| | Advanced eDiscovery: Exportieren (Herunterladen, Exportieren, Hinzufügen zu einem anderen Bewertungssatz) | Available |
+| | Advanced eDiscovery: Filtern | Available |
+| | Advanced eDiscovery: Nahezu doppelte Identifikation | Available |
+| | Advanced eDiscovery: Predictive Codierung | Available |
+| | Advanced eDiscovery: Verarbeiteter Export mit Ladedatei | Available |
+| | Advanced eDiscovery: Redaktionen | Available |
+| | Advanced eDiscovery: Überprüfungssätze | Available |
+| | Advanced eDiscovery: Rückblick und Kommentieren | Available |
+| | Advanced eDiscovery: Bericht "Suchbegriff" | Available |
+| | Advanced eDiscovery: Unterstützung verknüpfter Inhalte von OneDrive und SharePoint Online (moderne Anhänge) | Available |
+| | Advanced eDiscovery: Tagging | Available |
+| | Advanced eDiscovery: Teams Reaktionen unterstützen | Available |
+| | Advanced eDiscovery: Mieterberichte | Available |
+| | Advanced eDiscovery: Themen | Available |
+| | Advanced eDiscovery: Zuschauer | Available |
+| | Advanced eDiscovery: Yammer Advanced eDiscovery im Microsoft Compliance Center | Available |
+| | Advanced eDiscovery: Hold-Optimierungen | In Entwicklung |
+| | Advanced eDiscovery: Microsoft Compliance Center hat den Support für die Suche und den Export von Elementen in SharePoint, OneDrive for Business, Papierkorb im Kern und Advanced eDiscovery | In Entwicklung |
+| | Advanced eDiscovery: Rechtliche Sperre für Teams Nachrichten privater Kanäle | In Entwicklung |
+| | Advanced eDiscovery: Neues Prädiktives Codierungsmodul | In Entwicklung |
+| | Advanced eDiscovery: Nicht Office 365 Einnahme | Auf Engineering-Rückstand |
+| | Advanced eDiscovery: Mieterberichte | In Entwicklung |
+| | Grundlegende Überwachung | Available |
+| | Erweiterte Überwachung: Zugriff auf wichtige Ereignisse (z. B. Mailitemsaccess) | Available |
+| | Erweiterte Sobprüfung: Erhöhte Bandbreite für die Managementaktivitäts-API | Available |
+| | Erweiterte sobeine Prüfung: Protokollaufbewahrung (1 Jahr) | Available |
+| | Erweiterte Sobprüfung: E-Mail-Weiterleitungs- und E-Mail-Sendeereignisse | Available |
+| | Erweitertes Audit: Verfügbarkeit von Sicherheits- und Compliance Centern | Available |
+| | Erweitertes Audit: Längerfristige Aufbewahrung in Auditprotokollen (10 Jahre) | In Entwicklung |
+| | Erweitertes Audit: Suchbegriffe in Exchange Online und SharePoint Online | Auf Engineering-Rückstand |
+| **Verwaltung der Richtlinientreue** | Microsoft 365 Sicherheits- und Compliance-Center | Available |
+| | Microsoft Cloud App Security | In Entwicklung |
+| | Compliance-Manager | Available |
+| | Doppelte Byte-Zeichen-Unterstützung | Available |
+| **Ökosystem** | First-Party-Datenkonnektoren: HR | Available |
+| | First-Party-Datenkonnektoren: Instant Bloomberg, Bloomberg Mail, LinkedIn Business-Seiten, ICE Chat | Auf Engineering-Rückstand |
+| | Daten-Connectoren von Drittanbietern | Auf Engineering-Rückstand |
+| | Graph APIs für Advanced eDiscovery | In Entwicklung |
+| | Graph APIs für Teams Exportdaten | Auf Engineering-Rückstand |
 
-<sup>1</sup> Der identifizierte Status kann geändert werden, wenn Projektpläne und Prioritäten neu bewertet werden.<br/>
+<sup>1</sup> Der identifizierte Status kann sich ändern, wenn Projektpläne und Prioritäten neu bewertet werden.<br/>
 
-**Entscheidungspunkt:** *Entscheiden Sie, ob die Compliancefeatures den Anforderungen Ihrer Organisation entsprechen.*
+**Entscheidungspunkt**: *Entscheiden Sie, ob die Compliance-Features den Anforderungen Ihrer Organisation entsprechen.*
