@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Erfahren Sie, welche OneDrive-Features in welchen Plänen zur Verfügung stehen.
-ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264793"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625622"
 ---
 # <a name="onedrive-service-description"></a>OneDrive-Dienstbeschreibung
 
@@ -50,7 +50,6 @@ Informationen zu den Anforderungen an die OneDrive-Synchronisierungs-App und die
 - Microsoft 365 Apps for Business
 - Microsoft 365 Business Standard
 - Microsoft 365 Apps for Enterprise
-- Office 365 A1
 - Office 365 Enterprise E1
 - Office 365 Government G1
 - Microsoft 365 Business Basic für gemeinnützige Organisationen
@@ -62,10 +61,11 @@ Informationen zu den Anforderungen an die OneDrive-Synchronisierungs-App und die
 
 **Ab 1 TB, bis unbegrenzt**
  
-1 TB pro Benutzer für Abonnements mit weniger als fünf Benutzern. Für Abonnements ab fünf Benutzern (kann jede beliebige Kombination berechtigter Pläne sein) stellt Microsoft zunächst 1 TB pro Benutzer bereit, die von Administratoren auf bis zu 5 TB pro Benutzer erhöht werden können. (Weitere Informationen hierzu finden Sie unter [Festlegen des Standardspeicherplatzes für OneDrive-Benutzer](/onedrive/set-default-storage-space).) Wenn Sie zusätzlichen Speicher anfordern möchten, müssen Administratoren sich diesbezüglich an den Microsoft-Support wenden.
+1 TB pro Benutzer für Abonnements mit weniger als fünf Benutzern. Für Abonnements ab fünf Benutzern (kann jede beliebige Kombination berechtigter Pläne sein) stellt Microsoft zunächst 1 TB pro Benutzer bereit, die von Administratoren auf bis zu 5 TB pro Benutzer erhöht werden können. (Weitere Informationen hierzu finden Sie unter [Festlegen des Standardspeicherplatzes für OneDrive-Benutzer](/onedrive/set-default-storage-space).) Wenn Sie zusätzlichen Speicher anfordern möchten, müssen Administratoren sich diesbezüglich an den Microsoft-Support wenden.
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
+- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 US Government G3
@@ -86,7 +86,7 @@ Informationen zu den Anforderungen an die OneDrive-Synchronisierungs-App und die
 > [!NOTE]
 > Sie müssen einem Benutzer mindestens eine Lizenz zuweisen, bevor Sie den Standardspeicherplatz für OneDrive erhöhen können. 
   
-Wenn Sie über die anfänglichen 5 TB hinaus Cloud-Speicherplatz für einzelne Benutzer benötigen, können Administratoren [einen Fall mit dem technischen Support von Microsoft eröffnen](/microsoft-365/admin/contact-support-for-business-products), um ihn anzufordern. Weiterer Cloud-Speicherplatz wird wie folgt gewährt: 
+Wenn Sie über die anfänglichen 5 TB hinaus Cloudspeicherplatz für einzelne Benutzer benötigen, können Administratoren [einen Fall beim technischen Microsoft-Support öffnen](/microsoft-365/admin/contact-support-for-business-products), um diesen anzufordern. Weiterer Cloudspeicher wird wie folgt gewährt: 
   
 - Wenn ein Benutzer seine 5 TB OneDrive-Speicher zu mindestens 90 % ausgeschöpft hat, erhöht Microsoft Ihren Standardspeicherplatz in OneDrive auf bis zu 25 TB pro Benutzer (Administratoren können bei Bedarf eine niedrigere Grenze pro Benutzer festlegen). 
     

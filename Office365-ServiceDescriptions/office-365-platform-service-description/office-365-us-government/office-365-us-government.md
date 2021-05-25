@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich ständig entwickelnden Anforderungen des öffentlichen Us-Amerikanischen Office 365 US Government-Pläne (oder Office 365 Government). Dieser Artikel bietet eine Übersicht über features, die speziell für Office 365 Government US-Umgebungen sind.
-ms.openlocfilehash: a1c5ed6e166ec3a893c716e5de18e9bc81a3865f
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545936"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625642"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -151,7 +151,7 @@ Jeder Office 365-Plan umfasst eine Reihe von Einzeldiensten, wie Exchange Online
 |Skype for Business (Instant Messaging &amp; Anwesenheit)|Ja<sup>1</sup>|Ja|Ja|Ja<sup>1</sup>|
 |Voice – Telefonsystem, Audiokonferenzen|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Ja<sup>5</sup>|Nein|
 |Power BI Pro|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Ja|Nr.<sup>2</sup>|
-|Project Online|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|
+|Microsoft Project Online|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|
 |Visio für das Web|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|Nr.<sup>6</sup>|
 |Yammer Enterprise|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|Nr.<sup>4</sup>|
 
@@ -413,7 +413,9 @@ Die folgenden Office sind in den #A0 verfügbar. Einige cloudbasierte Funktionen
 |3D-Modelle und eingebettete 3D-Animationen|Nein|Nein|Nein|
 |Diagramme: Karten|Nein|Nein|Nein|
 |Intelligente digitale Freihandeingabe|Nein|Nein|Nein|
-|Livetitel und Untertitel in PowerPoint|Nein|Nein|Nein|
+|Livetitel und Untertitel in PowerPoint|Ja|Ja|Nein|
+|Livepräsentationen|Nein|Nein|Nein|
+|Plastischer Reader|Nein|Nein|Nein|
 |Presenter Coach|Nein|Nein|Nein|
 |Shared with Me|Nein|Nein|Nein|
 |Skype for Business Integration in die Freigabe|Nein|Nein|Nein|
@@ -444,7 +446,7 @@ Die folgenden Office sind in den #A0 verfügbar. Einige cloudbasierte Funktionen
 |Kartendiagramme|Nein|Nein|Nein|
 |Intelligente digitale Freihandeingabe|Nein|Nein|Nein|
 |Shared with Me|Nein|Nein|Nein|
-|Translation|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|
+|Übersetzung|Ja<sup>5</sup>|Ja<sup>5</sup>|Ja<sup>5</sup>|
 |Skype for Business Integration in die Freigabe|Nein|Nein|Nein|
 |Versionsverlauf|Nein|Nein|Nein|
 |Office 365-Gruppen|Nein|Nein|Nein|
