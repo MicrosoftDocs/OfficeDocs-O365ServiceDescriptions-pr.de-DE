@@ -17,9 +17,14 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": ["mor-oitac-eng@moravia.com"],
+  "notification_subscribers": [
+    "mor-oitac-eng@moravia.com"
+  ],
   "sync_notification_subscribers": [],
-  "branches_to_filter": ["live","master-sxs"],
+  "branches_to_filter": [
+    "live",
+    "master-sxs"
+  ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
@@ -32,12 +37,6 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "_themes.pdf",
-      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
-      "branch": "master",
-      "branch_mapping": {}
-    },
-    {
       "path_to_root": "_repo.en-us",
       "url": "https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr",
       "branch": "live",
@@ -45,6 +44,12 @@
         "live": "live",
         "master": "master"
       }
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ],
   "branch_target_mapping": {
