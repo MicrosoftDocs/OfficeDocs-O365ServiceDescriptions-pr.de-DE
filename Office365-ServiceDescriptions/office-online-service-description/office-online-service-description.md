@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office für das Web (früher Office Web Apps) öffnet Word-, Excel-, OneNote- und PowerPoint im Webbrowser. Office für das Web erleichtert das Arbeiten und freigeben Office dateien von überall mit einer Internetverbindung, von fast jedem Gerät aus. Microsoft 365 Kunden mit Word, Excel, OneNote oder PowerPoint können Dateien unterwegs anzeigen, erstellen und bearbeiten.
-ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: c4eaf4b2c482504ffa3e53f0177c1215b8c36da6
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652369"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699111"
 ---
 # <a name="office-for-the-web-service-description"></a>Office für das Web – Dienstbeschreibung
 
@@ -167,7 +167,7 @@ Benötigen Sie Hilfe, um herauszufinden, Office lösung am besten für Ihre Orga
 |[Drucken](excel-online.md#print) <br/> |Ja  <br/> |Ja  <br/> |
 |[Gemeinsame Dokumenterstellung in Echtzeit](excel-online.md#real-time-co-authoring) <br/> |Ja  <br/> |Ja  <br/> |
 |[Erstellen empfohlener Diagramme und Bearbeiten mit Formatierungssteuerelementen](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |Nein  <br/> |Ja  <br/> |
-|[Aktualisieren bestehender Datenverbindungen](excel-online.md#refresh-existing-data-connections) <br/> |Ja  <br/> |Ja  <br/> |
+|Refresh existing data connections <br/> |Nein  <br/> |Ja  <br/> |
 |[Entfernen doppelter Werte](excel-online.md#remove-duplicate-values) <br/> |Ja  <br/> |Ja  <br/> |
 |[Umbenennen und Hinzufügen von Blättern](excel-online.md#rename-and-add-sheets) <br/> |Ja  <br/> |Ja  <br/> |
 |[Umbenennen einer geöffneten Arbeitsmappe](excel-online.md#rename-file-while-workbook-is-open) <br/> |Ja  <br/> |Nein  <br/> |

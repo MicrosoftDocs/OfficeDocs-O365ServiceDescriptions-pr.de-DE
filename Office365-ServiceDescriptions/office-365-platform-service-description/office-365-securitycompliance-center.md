@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Das Security Compliance Center wurde entwickelt, um Sie bei der &amp; Verwaltung von Compliancefeatures Office 365 Organisation zu unterstützen. Links zu vorhandenen Compliance-Features von SharePoint und Exchange enthalten die gesamten Compliance-Features von Office 365.
-ms.openlocfilehash: 15f6ff5889644c0818f42666227fa36df88d065d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653477"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699101"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance-Center 
 
@@ -24,8 +24,8 @@ Das [Security &amp; Compliance Center](https://protection.office.com/) wurde ent
 > [!NOTE]
 > Derzeit sind viele der Compliancefeatures noch über dienstspezifische Verwaltungsschnittstellen erreichbar, z. B. das Exchange Admin Center (EAC). Dies wird jedoch künftig geändert, wenn weitere dienstunabhängige Compliancefeatures zum Security &amp; Compliance Center hinzugefügt werden.
 
-Um die Optionen für die Lizenzierung Ihrer Benutzer anzuzeigen, um von Microsoft 365 Compliancefeatures ab dem 1. April 2020 zu profitieren, laden Sie den Detaillierten Vergleich Microsoft 365 Compliance-Lizenzierung herunter. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-  
+Laden Sie die Tabelle Microsoft 365 Vergleich herunter Microsoft 365, um die Optionen für die Lizenzierung Ihrer Microsoft 365 [zu sehen.](https://go.microsoft.com/fwlink/?linkid=2139145)
+
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Verfügbarkeit &amp; des Security Compliance Centers für Geschäfts- und Unternehmenspläne
 
 | Feature | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
@@ -88,7 +88,7 @@ Um die Optionen für die Lizenzierung Ihrer Benutzer anzuzeigen, um von Microsof
 |[Grundlegende Überwachung](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|Ja|Ja|Ja|Ja|Ja|Ja<sup>10</sup>|Ja<sup>10</sup>|Nein|Nein|
 |Erweiterte Überwachung|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|Nein|
 |[Kommunikationskonformität (Aufsichtsrichtlinien)](/office365/securitycompliance/supervision-policies)  |Nein   |Nein   |Nein   |Nein   |Nein   |Nein   |Nein   |Nein   |Nein   |
-|[Office 365-Nachrichtenverschlüsselung (OME)](/microsoft-365/compliance/ome)  |Nein   |Ja   |Nein   |Nein   |Ja   |Nein   |Nein|Nein|Nein|
+|[Office 365-Nachrichtenverschlüsselung (OME)](/microsoft-365/compliance/ome)  |Nein   |Ja   |Nein   |Nein   |Ja   |Nein   |Nein|Nein|Nein|
 |[Erweiterte Office 365-Nachrichtenverschlüsselung](/microsoft-365/compliance/ome-advanced-message-encryption)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |Nein|Nein|Nein|
 |[Privileged Access Management](/microsoft-365/compliance/privileged-access-management-overview)  |Nein   |Nein   |Nein   |Nein   |Ja   |Nein   |Nein|Nein|Nein|
 
