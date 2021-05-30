@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Suchen Sie nach einem Funktionsvergleich von Abonnements, die Exchange Online? Dann benötigen Sie den Exchange Online-Dienstbeschreibungsartikel. Sie erfahren auch über Systemanforderungen sowie Speicher- und Empfängeranforderungen.
-ms.openlocfilehash: 15e991d261fe81edcfb1abba4caf376e54b23fb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 003d86033382e8ed15895c85cc36e5b15c19083a
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653357"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699091"
 ---
 # <a name="exchange-online-service-description"></a>Exchange Online-Dienstbeschreibung
 
@@ -91,14 +91,14 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |IRM mit Azure Information Protection|Nein|Ja|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Ja|Ja|Nr.<sup>2</sup>|
 |IRM mit Windows Server AD RMS|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|
 |Office 365-Nachrichtenverschlüsselung|Ja<sup>13</sup>|Ja<sup>13</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Nr.<sup>2</sup>|Ja|Ja|Nr.<sup>2</sup>|
-|Customer Key<sup>22</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein||
-|S/MIME|Ja<sup>15</sup>|Ja<sup>15</sup>|Ja|Ja|Ja|Ja|Ja|Ja||
+|Customer Key<sup>22</sup>|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
+|S/MIME|Ja<sup>15</sup>|Ja<sup>15</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
 |In-Situ-Speicher und Beweissicherungsverfahren|Ja|Ja|Nein|Nein|Nein|Ja|Ja|Nein|
 |Compliance-eDiscovery|Ja<sup>20</sup>|Ja<sup>20</sup>|Ja<sup>20</sup>|Ja<sup>20</sup>|Ja<sup>20</sup>|Ja<sup>20</sup>|Ja<sup>20</sup>|Ja|
 |Transport rules|Ja <sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|Ja<sup>4</sup>|
 |Verhinderung von Datenverlust|Ja<sup>5, 14</sup>|Ja<sup>5, 14</sup>|Nein|Nein|Nein|Ja|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Schutz vor Spam und Schadsoftware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Integrierter Antispamschutz|Ja <sup>6</sup>|Ja <sup>6</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>8</sup>|Ja <sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|Ja<sup>8</sup>|
@@ -106,7 +106,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>7</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Microsoft Defender für Office 365|Nein|Nein|Nein|Nein|Nein|Nein|Ja|Nein|
-|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Benutzerdefiniertes Routing ausgehender E-Mails|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -116,7 +116,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Kapazitätswarnungen|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Unwichtige Elemente|Ja|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |MailTips|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Stellvertretungszugriff|Ja|Ja|Ja|Ja|Ja|Ja|Ja|No<sup>24</sup>|
+|Stellvertretungszugriff|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |Posteingangsregeln|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Verbundene Konten|Ja|Ja|Ja|Ja|Ja<sup>17</sup>|Ja<sup>17</sup>|Ja<sup>17</sup>|Ja<sup>17</sup>|
 |Inaktive Postfächer|Nein|Nein|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|Ja|Ja|Nein <sup>9</sup>|
@@ -148,7 +148,7 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Outlook für Windows <sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja| Nein|
 |Outlook im Web<sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Outlook für Mac<sup>21</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja| Nein|
-|Outlook für iOS und Android<sup>21</sup>|Ja<sup>25</sup>|Ja<sup>25</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
+|Outlook für iOS und Android<sup>21</sup>|Ja<sup>24</sup>|Ja<sup>24</sup>|Ja|Ja|Ja|Ja|Ja|Ja|
 |Exchange ActiveSync|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Grundlegende Mobilität und Sicherheit für Microsoft 365|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |POP und IMAP|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja <sup>12</sup>|
@@ -163,11 +163,11 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Postfachreplikation in Rechenzentren|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
 |Wiederherstellung gelöschter Postfächer|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |Wiederherstellung gelöschter Elemente|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Wiederherstellung einzelner Elemente|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein||
+|Wiederherstellung einzelner Elemente|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Nein|
 |**[Interoperabilität, Konnektivität und Kompatibilität](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Skype for Business anwesenheit in OWA und Outlook|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |SharePoint Interoperabilität|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
-|Unterstützung der<sup>EWS-Konnektivität 26</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
+|Unterstützung der<sup>EWS-Konnektivität 25</sup>|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |SMTP-Relayunterstützung|Ja|Ja|Ja|Ja|Ja|Ja|Ja|Ja|
 |**[Einrichtung und Verwaltung in Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Zugriff auf das Microsoft Office 365-Portal|Nein|Nein|Ja|Ja|Ja|Ja|Ja|Ja|
@@ -202,9 +202,8 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 <sup>21</sup> Die Tabelle gibt an, ob der Client mit den zugeordneten Plänen arbeitet. Dies bedeutet nicht, dass die Clients notwendigerweise im Kauf dieser Pläne enthalten sind. <br/>
 <sup>22</sup> Weitere Informationen finden Sie unter [Dienstverschlüsselung mit Kundenschlüssel](/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> Exchange Online UM-Unterstützung für Nebenstellenanlagen von Drittanbietern über direkte Verbindungen von vom Kunden betriebenen SBCs endet im April 2019. Weitere Informationen finden Sie im Exchange Teamblog Abbruch der Unterstützung für Session [Border Controllers in Exchange Online Unified Messaging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853). <br/>
-<sup>24</sup> Ein F3-Benutzer kann keine Stellvertretung zu seinem eigenen Postfach hinzufügen, aber er kann auf ein anderes Postfach (einschließlich freigegebener Postfächer) zugreifen und aktionen ausführen, die an sie delegiert wurden.<br/>
-<sup>25</sup> Ein Abonnement für Microsoft 365 Apps for Enterprise ist auch für Exchange Server 2013 und Exchange Server 2016 erforderlich.<br/>
-<sup>26</sup> EWS-Anwendungsunterstützung, die auf den Identitätswechsel der EWS-Anwendung angewendet wurde.
+<sup>24</sup> Ein Abonnement für Microsoft 365 Apps for Enterprise ist auch für Exchange Server 2013 und Exchange Server 2016 erforderlich.<br/>
+<sup>25</sup> EWS-Anwendungsunterstützung, die auf den Identitätswechsel der EWS-Anwendung angewendet wurde.<br/>
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Verfügbarkeit von Features in eigenständigen Exchange Online-Plänen
 
@@ -234,14 +233,14 @@ Informationen zur Verfügbarkeit von Features in Microsoft 365 Business Premium 
 |Transportregeln|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|Ja <sup>1</sup>|
 |Verhinderung von Datenverlust|Ja<sup>10, 14</sup>|Ja<sup>10, 14</sup>|Nein|Ja|Nein|
 |Journale|Ja|Ja|Ja|Ja|Ja|
-|**[Antispam- und Antischadsoftwareschutz](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
+|**[Schutz vor Spam und Schadsoftware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
 |Integrierter Antispamschutz|Ja <sup>2</sup>|Ja <sup>2</sup>|Ja|Ja|Ja|
 |Customize anti-spam policies|Ja, aber nur über die PowerShell|Ja, aber nur über die PowerShell|Ja|Ja|Ja <sup>8</sup>|
 |Integrierter Antischadsoftwareschutz|Ja <sup>7</sup>|Ja <sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|Ja<sup>7</sup>|
 |Customize anti-malware policies|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja|Ja|Ja <sup>8</sup>|
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Nein|Nein|Ja|Ja|Ja|
-|**[Nachrichtenübermittlung](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
+|**[Nachrichtenfluss](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online-Kiosk**|
 |Benutzerdefiniertes Routing ausgehender E-Mails|Ja|Ja|Ja|Ja|Ja|
 |Secure messaging with a trusted partner|Ja|Ja|Ja|Ja|Ja|
 |Conditional mail routing|Nein|Nein|Ja|Ja|Ja|

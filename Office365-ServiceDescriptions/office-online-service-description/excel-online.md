@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel für das Web (früher Excel Web App) erweitert Ihre Microsoft Excel-Erfahrung auf den Webbrowser, in dem Sie mit Arbeitsmappen direkt auf der Website arbeiten können, auf der die Arbeitsmappe gespeichert ist. Alle Kunden können dateien mit Office web Office anzeigen und leicht bearbeiten.
-ms.openlocfilehash: aae8584e7b4296d917fda680d563c4d274b05771
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652359"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699071"
 ---
 # <a name="excel-for-the-web"></a>Excel für das Web
 
@@ -106,7 +106,7 @@ Sie können Text, Hyperlinks, Zahlen, Formeln, Formen, Diagramme und Bilder auss
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
-Sie können die Excel für das Web zum Anzeigen von Datenverbindungen verwenden, sie können jedoch keine externen Datenverbindungen mit Excel Web erstellen. Sie benötigen die Excel Desktop-App, um mit externen Daten zu arbeiten. Erfahren Sie mehr über das [Arbeiten mit externen Daten in Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=282330). 
+Sie können die Excel für das Web zum Anzeigen von Datenverbindungen verwenden, sie können jedoch keine externen Datenverbindungen mit Excel Web erstellen. Sie benötigen die Excel Desktop-App, um mit externen Daten zu arbeiten.
   
 ## <a name="create-tables"></a>Erstellen von Tabellen
 
@@ -259,10 +259,6 @@ Mehrere Personen können gleichzeitig an demselben Arbeitsblatt arbeiten, wenn s
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Erstellen empfohlener Diagramme und Bearbeiten mit Formatierungssteuerelementen
 
 Erweitere Diagramme werden nur in der Microsoft Excel-Desktop-App unterstützt. Excel für das Web unterstützt diese Features nicht. Erfahren Sie mehr über die [verfügbaren Diagrammtypen](https://go.microsoft.com/fwlink/p/?LinkId=271666).
-  
-## <a name="refresh-existing-data-connections"></a>Refresh existing data connections
-
-Wenn die Daten in Ihrer Arbeitsmappe mit externen Quellen wie Datenbanken, Webseiten oder Analysecubes verbunden sind, können Sie diese Daten mithilfe von Excel für das Web aktualisieren.
 
 ## <a name="remove-duplicate-values"></a>Entfernen doppelter Werte
 

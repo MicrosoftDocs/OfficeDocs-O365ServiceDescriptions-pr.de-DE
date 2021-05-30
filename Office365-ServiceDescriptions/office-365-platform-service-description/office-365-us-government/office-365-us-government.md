@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: Als Reaktion auf die einzigartigen und sich ständig entwickelnden Anforderungen des öffentlichen Us-Amerikanischen Office 365 US Government-Pläne (oder Office 365 Government). Dieser Artikel bietet eine Übersicht über features, die speziell für Office 365 Government US-Umgebungen sind.
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625642"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699081"
 ---
 # <a name="office-365-government"></a>Office 365 Government
 
@@ -105,7 +105,7 @@ Benutzer adoption services are composed of tasks that provide guidance for you t
 
 Spezifische Informationen zum FastTrack Center-Prozess finden Sie [hier](/FastTrack/us-gov-appendix-overview). Eine Aufschlüsselung der Engagementrollen und -verantwortlichkeiten finden Sie unter [FastTrack Responsibilities](/FastTrack/us-gov-appendix-fasttrack-responsibilities) sowie [Your Responsibilities](/FastTrack/us-gov-appendix-your-responsibilities).
 
-> <sup>1</sup> Sie müssen mindestens 50 Lizenzen aus der Liste der berechtigten Pläne für [den](/fasttrack/eligibility) Empfang von FastTrack-Diensten erwerben.
+> <sup>1</sup> Sie müssen mindestens 150 Lizenzen aus der Liste der berechtigten Pläne für [den](/fasttrack/eligibility) Empfang von FastTrack-Diensten erwerben.
 <br/><sup>2</sup> Datenmigrationsdienste stehen für Office 365 Mandanten mit 500 oder mehr Lizenzen zur Verfügung.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Von FastTrack durchgeführte Datenmigrationen
@@ -192,7 +192,7 @@ In der folgenden Tabelle sind die Plattformfeatures und Dienste aufgeführt, die
 |Cloudidentität|Ja|Ja|Ja|Ja|
 |Identitätsverbund (einmaliges Anmelden)|Ja|Ja|Ja|Ja|
 |Mehrstufige Authentifizierung|Ja|Ja|Ja|Ja|
-|Telefon-Faktor-Authentifizierung|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja|Ja<sup>9</sup>|
+|Telefonfaktorauthentifizierung|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja|Ja<sup>9</sup>|
 |Office 365-Desktopsetup|Ja|Ja|Ja|Ja|
 |Verwalten von Benutzern mit Office 365|Ja|Ja|Ja|Ja|
 |Massenupload mit CSV-Dateien|Ja<sup>9</sup>|Ja<sup>9</sup>|Ja|Ja<sup>9</sup>|
@@ -453,7 +453,7 @@ Die folgenden Office sind in den #A0 verfügbar. Einige cloudbasierte Funktionen
 |Kontextchat mit Mitautoren: Chat mit Mitautoren innerhalb des Dokuments|Nein|Nein|Nein|
 |Diktat|Ja|Ja|No<sup>1</sup>|
 
-Informationen zur Verfügbarkeit von Features für Microsoft Teams in GCC/GCC High/DoD finden Sie unter [Microsoft Teams Dienstbeschreibung](../../teams-service-description.md).
+Informationen zur Verfügbarkeit von Features Microsoft Teams GCC/GCC High/DoD finden Sie unter [Microsoft Teams Dienstbeschreibung](../../teams-service-description.md).
 > <sup>1</sup> Verfügbarkeit wird in Kürze verfügbar sein.
 <br/><sup>2</sup> Verfügbarkeit auf lokalen Surface Hub (nicht angemeldet).
 <br/><sup>3</sup> Externe Freigabe ist für die GCC verfügbar. Erfahren Sie mehr über das [Deaktivieren oder Aktivieren von Microsoft Forms für](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) Ihre Organisation. Die externe Freigabe ist für GCC High- und DOD-Umgebungen deaktiviert. Benutzer in Ihrer Organisation können folgendes tun: Ausfüllen eines Formulars und Übermitteln von [Antworten,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)Duplizieren und Freigeben eines Formulars als [Vorlage,](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)Mitautor oder Zusammenarbeit an einem Formular und Zugreifen auf [Formularergebnisse](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).

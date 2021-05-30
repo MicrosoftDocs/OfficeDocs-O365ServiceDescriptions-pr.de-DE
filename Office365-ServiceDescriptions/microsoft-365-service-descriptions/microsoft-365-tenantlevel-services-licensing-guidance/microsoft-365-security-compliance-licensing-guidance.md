@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält Lizenzierungsanleitungen für Microsoft 365 Compliance, um potenzielle Dienstunterbrechungen aufgrund des nicht lizenzierten Zugriffs zu vermeiden.
-ms.openlocfilehash: d4ddb9c492cccef13c86e450c64a2eb6efe61eaa
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546012"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699061"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 lizenzierungsanleitung für die &amp; Sicherheitskonformität
 
@@ -26,7 +26,7 @@ Für die Zwecke dieses Artikels ist ein Dienst auf Mandantenebene ein Onlinedien
 > [!NOTE]
 > Einige Mandantendienste sind derzeit nicht in der Lage, die Vorteile auf bestimmte Benutzer zu beschränken. Es sollten Anstrengungen unternommen werden, um die Dienstvorteile auf lizenzierte Benutzer zu beschränken. Dies hilft Ihnen, potenzielle Dienstunterbrechungen in Ihrer Organisation zu vermeiden, sobald Zielgruppenfunktionen verfügbar sind.
 
-Um die Optionen für die Lizenzierung Ihrer Benutzer anzuzeigen, um von den Microsoft 365 zu profitieren, laden Sie den Detaillierten Vergleich Microsoft 365 Compliance-Lizenzierung herunter. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
+Laden Sie die Tabelle Microsoft 365 Vergleich herunter Microsoft 365, um die Optionen für die Lizenzierung Ihrer Microsoft 365 [zu sehen.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -267,7 +267,7 @@ Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection und Governance, Office 365 E5, Enterprise Mobility + Security E5/A5/G5 und AIP Plan 2 bieten einem Benutzer die Rechte, von der automatischen Vertraulichkeitsbezeichnung zu profitieren.
 
-Informationen zu bestimmten Rechten nach Lizenz finden Sie im detaillierten Microsoft 365 Vergleich der Compliancelizenzierung. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) Enthält keine Rechte für die automatische Klassifizierung basierend auf Machine Learning (trainierbare Klassifizierungen).
+Information Protection umfasst keine Rechte auf automatische Klassifizierung basierend auf Machine Learning (trainierbare Klassifizierungen).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
