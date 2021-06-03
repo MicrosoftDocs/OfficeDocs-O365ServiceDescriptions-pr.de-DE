@@ -13,18 +13,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement bietet der Microsoft Support globalen technischen Support, Vorverkauf, Abrechnung und Abonnementsupport. Support ist sowohl online über das Microsoft365 Admin Center als auch telefonisch für kostenpflichtige Abonnements und Testabonnements verfügbar. Weitere Informationen finden Sie unter Microsoft Support Options.
-ms.openlocfilehash: c43658f47d2dc2644228d3b4cb87396757137428
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement bietet der Microsoft Support globalen technischen Support, Vorverkauf, Abrechnung und Abonnementsupport. Support ist sowohl online über das Microsoft 365 Admin Center als auch telefonisch für kostenpflichtige abonnements und Testabonnements verfügbar. Weitere Informationen finden Sie unter Microsoft Support Options.
+ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
+ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652429"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721199"
 ---
 # <a name="support"></a>Support
 
-Mit jedem Microsoft Office 365 Enterprise-, Business-, Education- und Government-Abonnement bietet der Microsoft Support globalen technischen Support, Vorverkauf, Abrechnung und Abonnementsupport. Support ist sowohl online über das Microsoft 365 Admin Center als auch telefonisch für kostenpflichtige abonnements und Testabonnements verfügbar. Weitere Informationen finden Sie unter [Microsoft Support Options](/Office365/Admin/contact-support-for-business-products).
-  
+Mit jedem Microsoft 365- und Office 365-Abonnement für Unternehmen, Unternehmen, Frontline, Bildungseinrichtungen und Behörden bietet der Microsoft Support globalen technischen Support, Vorverkauf, Abrechnung und Abonnementsupport. Support ist sowohl online über das Microsoft 365 Admin Center als auch telefonisch für kostenpflichtige abonnements und Testabonnements verfügbar. Weitere Informationen finden Sie unter [Microsoft Support Options](/Office365/Admin/contact-support-for-business-products).
+
 Autorisierte Administratoren können das Microsoft 365 Admin Center verwenden, um Dienstanfragen online zu übermitteln, auf Supporttelefonnummern zu zugreifen und alle geöffneten und kürzlich geschlossenen Dienstanforderungen anzeigen. Im Admin Center übermittelte Dienstanforderungen können bis zu 14 Tage nach dem Schließen der Anforderung erneut geöffnet werden. Anweisungen finden Sie unter [Contact Microsoft 365 for Business Support](/Office365/Admin/contact-support-for-business-products).
   
 Das Microsoft 365 technische Supportteam behebung nur die Probleme, die sich auf Microsoft 365 und Office 365. Probleme, die in Kundennetzwerken auftreten, fallen außerhalb der Supportgrenzen, und in diesen Fällen müssen Kunden entweder mit ihrem Netzwerkteam zusammenarbeiten oder das [Microsoft Networking-Team](https://support.microsoft.com/gp/contactus81?Audience=Commercial) um Unterstützung bitten.
@@ -61,7 +61,7 @@ Der technische Support für Microsoft 365 bietet Unterstützung bei der grundleg
   
 | Supportkategorie | Beispiele |
 |:-----|:-----|
-|Installation und Einrichtung  <br/> | Exchange Online:  <br/>  Postfachmigration  <br/>  Empfängerkonfiguration (Postfachberechtigungen, Konfigurieren der E-Mail-Weiterleitung, Konfigurieren des freigegebenen Postfachs)  <br/>  Konfiguration der AutoErmittlung  <br/>  SharePoint Online:  <br/>  Berechtigungen und Benutzergruppen  <br/>  Konfiguration externer Benutzer  <br/>  Skype for Business Online:  <br/>  Installation und Erstellen von Kontakten  <br/>  Microsoft 365 Apps for Enterprise: Installations- und Setupunterstützung  <br/> |
+|Installation und Einrichtung  <br/> | Exchange Online:  <br/>  Postfachmigration  <br/>  Empfängerkonfiguration (Postfachberechtigungen, Konfigurieren der E-Mail-Weiterleitung, Konfigurieren des freigegebenen Postfachs)  <br/>  Konfiguration der AutoErmittlung  <br/>  SharePoint Online:  <br/>  Berechtigungen und Benutzergruppen  <br/>  Konfiguration von Gästen  <br/>  Skype for Business Online:  <br/>  Installation und Erstellen von Kontakten  <br/>  Microsoft 365 Apps for Enterprise: Installations- und Setupunterstützung  <br/> |
 |Konfiguration  <br/> | Probleme durch fehlerhafte Dienstkonfiguration  <br/>  Bereitstellungsprobleme  <br/>  Domäneneinrichtung und Redelegierung  <br/>  Probleme bei der Dienstkonfiguration  <br/>  Einmaliges Anmelden (Single Sign-On, SSO)  <br/>  Active Directory-Synchronisierung  <br/> |
 
 > [!NOTE]
@@ -83,11 +83,11 @@ Microsoft weist einem Fall, sobald er geöffnet wird, auf Grundlage der Art von 
 
 Die anfängliche Antwortzeit basiert auf den oben beschriebenen Schweregraden und dem Abonnementtyp. In der folgenden Tabelle sind die angestrebten Antwortzeiten beschrieben.<br><br>
   
-| Schweregrad | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 Apps for Business<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup> | Office 365 E1<sup>2</sup><br> Office 365 E3<sup>2</sup><br> Office 365 Government G2<sup>2</sup><br> Office 365 US Government E3<sup>2</sup><br> Office 365 für<sup>Bildungseinrichtungen 2</sup> | Office 365 F1<sup>2</sup><br> Office 365 US Government K1<sup>2</sup> | Erweiterte Supportoptionen<sup>3</sup> |
-|:-----|:-----|:-----|:-----|:-----|
-| Schweregrad A (Kritisch)  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |
-|Schweregrad B (Hoch)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 2 Stunden  <br/> |
-|Schweregrad C (Mittel)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 4 Stunden  <br/> |
+| Schweregrad | Microsoft 365 Business Basic<sup>1</sup><br> Microsoft 365 Apps for Business<sup>1</sup><br> Microsoft 365 Business Standard<sup>1</sup><br> Microsoft 365 Business Premium<sup>1</sup> | Alle Microsoft 365 und Office 365 Enterprise (E),<br/> Frontline (F),<br/> Government (G) und<br/> Bildungspläne (A) | Erweiterte Supportoptionen<sup>3</sup> |
+|:-----|:-----|:-----|:-----|
+| Schweregrad A (Kritisch)  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: eine Stunde  <br/> |
+|Schweregrad B (Hoch)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: nächster Tag  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 2 Stunden  <br/> |
+|Schweregrad C (Mittel)  <br/> |Verfügbar: Geschäftszeiten  <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: ohne Verpflichtung  <br/> |Verfügbar: 24/7<sup>4</sup> <br/> Antwortzeit: 4 Stunden  <br/> |
 
 > [!NOTE]
 > <sup>1</sup> Geschäftspläne umfassen Unterstützung zu Geschäftszeiten für alle nicht kritischen Probleme und 24/7-Telefonsupport von Microsoft.<br/>

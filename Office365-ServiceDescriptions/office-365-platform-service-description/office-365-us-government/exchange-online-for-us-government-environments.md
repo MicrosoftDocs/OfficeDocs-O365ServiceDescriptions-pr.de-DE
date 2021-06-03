@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel bietet eine Übersicht über die Funktionsunterschiede zwischen der US Government Cloud und der kommerziellen Cloud, wie in der Exchange Online aufgeführt.
-ms.openlocfilehash: cf1b995f8497ff2249504b195ecaf1b2f7c6f62c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d8f5879a82fbe2d74746e48cb7ecafced8d8e8aa
+ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653287"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721209"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online für US-Regierungsumgebungen
 
@@ -67,7 +67,7 @@ In der folgenden Tabelle wird erläutert, ob Exchange Online angegebenen Feature
 |Nachrichtenflussregeln|Ja|Ja|Ja||
 |Data loss prevention|Ja|Ja|Ja|Erfordert G3- oder G5-Dienstplan.|
 |Journale|Ja|Ja|Ja||
-|**[Antispam- und Antischadsoftwareschutz](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
+|**[Schutz vor Spam und Schadsoftware](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Integrierter Antispamschutz|Ja|Ja|Ja||
 |Customize anti-spam policies|Ja|Ja|Ja||
 |Integrierter Antischadsoftwareschutz|Ja|Ja|Ja||
@@ -75,7 +75,7 @@ In der folgenden Tabelle wird erläutert, ob Exchange Online angegebenen Feature
 |Quarantäne - Verwaltung durch Administrator|Ja|Ja|Ja||
 |Quarantäne - Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja||
 |Microsoft Defender für Office 365|Ja|Ja|Ja|Erfordert G5 Service Plan (oder Kauf von Add-On).<br><br>Antiphishing für Identitätswechsel und Spoofintelligenz von Benutzern und Domänen sind in GCC Und DoD noch nicht verfügbar.|
-|**[Nachrichtenübermittlung](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
+|**[Nachrichtenfluss](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Wichtige Überlegungen**|
 |Benutzerdefiniertes Routing ausgehender E-Mails|Ja|Ja|Ja||
 |Secure messaging with a trusted partner|Ja|Ja|Ja||
 |Conditional mail routing|Ja|Ja|Ja||
@@ -191,17 +191,15 @@ Weitere Informationen und die neuesten Updates finden Sie unter [Vergleichen von
 
 ### <a name="freebusy-federation"></a>Frei/Gebucht-Verbund
 
-Die Verbundfreigabe, einschließlich Frei/Gebucht-Informationen, unterliegt derzeit mehreren wichtigen Einschränkungen in GCC High- und DoD-Umgebungen.
+Die Verbundfreigabe, einschließlich Frei/Gebucht-Informationen, unterliegt derzeit in den DoD-Umgebungen mehreren wichtigen Einschränkungen.
 
 In der GCC High-Umgebung:
 
-- Die Verbundvertrauensstellung (einschließlich bidirektionaler Frei/Gebucht-Freigabe) wird zwischen Mandanten innerhalb von GCC High und über hybride Koexistenz (Exchange 2013 oder höher) unterstützt.
-
-- Die Verbundfreigabe wird zwischen Mandanten in GCC High und GCC oder Office 365 nicht unterstützt. Ausgehende Verbindungen von der GCC High-Umgebung zu kommerziellen Clouds (einschließlich GCC und Office 365 kommerziellen) sind derzeit nicht zulässig. Dies hat zur Folge, dass GCC Benutzer nicht in der Lage sind, die erforderliche ausgehende Anforderung an GCC/kommerziellen Benutzer für den Zugriff auf freigegebene Kalenderinformationen zu stellen.
+- Die Verbundvertrauensstellung (einschließlich bidirektionaler Frei/Gebucht-Freigabe) wird zwischen Mandanten innerhalb von GCC High, Mandanten in GCC und kommerziellen Clouds und durch hybride Koexistenz (Exchange 2013 oder höher) unterstützt.
 
 In der DoD-Umgebung:
 
-  - Verbundvertrauensstellung (einschließlich Frei/Gebucht-Freigabe) wird derzeit nur zwischen Mandanten innerhalb der DoD-Umgebung unterstützt. Es wird nicht zwischen DoD-Mandanten und GCC oder kommerziellen Mandanten unterstützt.
+  - Verbundvertrauensstellung (einschließlich Frei/Gebucht-Freigabe) wird derzeit nur zwischen Mandanten innerhalb der DoD-Umgebung unterstützt. Es wird nicht zwischen DoD-Mandanten und GCC, GCC High- oder kommerziellen Mandanten unterstützt.
 
 ### <a name="client-configuration"></a>Clientkonfiguration
 
@@ -224,7 +222,7 @@ Nur einige OWA- und Outlook-Add-Ins sind in GCC Und DoD verfügbar. Meine Vorlag
 |Helpshift-Unterstützung|Verwenden der Helpshift-Schnittstelle zum Erstellen einer Supportanfrage|Ja|Nein|
 |My Day|Planen Ihres Tages|Ja|Ja|
 |Geplante Liste|Alle Vorgänge mit einem Fälligkeitsdatum sehen|Ja|Ja|
-|Ihnen zugewiesene Liste|Alle Aufgaben, die Ihnen in einer freigegebenen Liste, Planner oder WXP (zukunft) zugewiesen sind|Ja|Ja|
+|Ihnen zugewiesene Liste|Alle Aufgaben, die Ihnen in einer freigegebenen Liste, planner oder WXP (zukunft) zugewiesen sind|Ja|Ja|
 |Gekennzeichnete E-Mails|E-Mails in Outlook als Aufgaben gekennzeichnet sehen|Ja|Ja|
 |Unterstützung für mehrere Konten|Verwenden des Heim- und Officekontos in einem Bereich|Ja|Ja|
 |Auflisten der Freigabe|Freigeben von Listen für Kollegen in derselben Organisation|Ja|Ja|
