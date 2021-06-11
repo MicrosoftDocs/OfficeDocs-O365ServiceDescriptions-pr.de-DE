@@ -37,6 +37,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ocv-translation-feedback": true,
       "breadcrumb_path": "/Office365/ServiceDescriptions/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": ["Service Descriptions"],
