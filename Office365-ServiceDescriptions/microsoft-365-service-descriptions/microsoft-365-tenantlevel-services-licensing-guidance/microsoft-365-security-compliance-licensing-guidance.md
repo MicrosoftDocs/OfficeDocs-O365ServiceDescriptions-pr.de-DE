@@ -12,25 +12,25 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält Lizenzierungsleitfaden für Microsoft 365 Compliance, um potenzielle Dienstunterbrechungen aufgrund eines nicht lizenzierten Zugriffs zu vermeiden.
-ms.openlocfilehash: 2f1f048de8dd0de2416c87f2fbf985d8ee47b9b2
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: dc52a66990114f9c74ca815c9525f34175e7995b
+ms.sourcegitcommit: 0bf671ec5b5ba16bcdc730b88e2607d85a3d4497
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906751"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52950164"
 ---
-# <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 Lizenzierungsleitfaden für die &amp; Sicherheitscompliance
+# <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 Lizenzierungsleitfaden für &amp; die Sicherheitscompliance
 
-Für die Zwecke dieses Artikels ist ein Dienst auf Mandantenebene ein Onlinedienst, der &mdash; beim Kauf für einen beliebigen Benutzer im Mandanten (eigenständig oder als Teil von Office 365 oder Microsoft 365 Plänen) für alle Benutzer im Mandanten teilweise oder vollständig aktiviert &mdash; wird. Obwohl einige nicht lizenzierte Benutzer technisch gesehen auf den Dienst zugreifen können, ist für jeden Benutzer, der von dem Dienst profitieren möchte, eine Lizenz erforderlich.
+Für die Zwecke dieses Artikels ist ein Dienst auf Mandantenebene ein Onlinedienst, der &mdash; beim Kauf für einen beliebigen Benutzer im Mandanten (eigenständig oder als Teil von Office 365 oder Microsoft 365 Plänen) für alle Benutzer im Mandanten teilweise oder vollständig aktiviert &mdash; wird. Obwohl einige nicht lizenzierte Benutzer technisch möglicherweise auf den Dienst zugreifen können, ist für jeden Benutzer, der von dem Dienst profitieren möchte, eine Lizenz erforderlich.
 
 > [!NOTE]
 > Einige Mandantendienste sind derzeit nicht in der Lage, die Vorteile für bestimmte Benutzer einzuschränken. Es sollten Anstrengungen unternommen werden, um die Dienstvorteile auf lizenzierte Benutzer zu beschränken. Dies trägt dazu bei, potenzielle Dienstunterbrechungen für Ihre Organisation zu vermeiden, sobald Zielfunktionen verfügbar sind.
 
-Laden Sie die Microsoft 365 [Vergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145)herunter, um die Optionen für die Lizenzierung Ihrer Benutzer anzuzeigen, um von Microsoft 365 Compliancefeatures zu profitieren.
+Laden Sie die [Microsoft 365 Vergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145)herunter, um die Optionen für die Lizenzierung Ihrer Benutzer anzuzeigen, um von Microsoft 365 Compliancefeatures zu profitieren.
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
-Azure Active Directory Identitätsschutz ist ein Feature des Azure Active Directory Premium P2-Plans, mit dem Sie potenzielle Sicherheitsrisiken erkennen können, die sich auf die Identitäten Ihrer Organisation auswirken, automatisierte Antworten auf erkannte verdächtige Aktionen konfigurieren können, die mit den Identitäten Ihrer Organisation zusammenhängen, und verdächtige Vorfälle untersuchen und entsprechende Maßnahmen ergreifen können, um sie zu beheben.
+Azure Active Directory Identitätsschutz ist ein Feature des Azure Active Directory Premium P2 Plans, mit dem Sie potenzielle Sicherheitsrisiken erkennen können, die sich auf die Identitäten Ihrer Organisation auswirken, automatisierte Antworten auf erkannte verdächtige Aktionen konfigurieren können, die mit den Identitäten Ihrer Organisation zusammenhängen, und verdächtige Vorfälle untersuchen und entsprechende Maßnahmen ergreifen können, um sie zu beheben.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -46,7 +46,7 @@ Standardmäßig sind Azure AD Identity Protection-Features auf Mandantenebene f�
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren können azure AD Identity Protection einschränken, indem sie Risikorichtlinien zuweisen, die die Ebene für die Kennwortzurücksetzung definieren und nur lizenzierten Benutzern den Zugriff erlauben. Anweisungen zum Einschränken von Azure AD Identity Protection-Bereitstellungen finden Sie unter [Konfigurieren und Aktivieren von Risikorichtlinien.](/azure/active-directory/identity-protection/howto-sign-in-risk-policy)
+Administratoren können azure AD Identity Protection einschränken, indem sie Risikorichtlinien zuweisen, die die Ebene für kennwortzurücksetzungen definieren und nur lizenzierten Benutzern den Zugriff erlauben. Anweisungen zum Einschränken von Azure AD Identity Protection-Bereitstellungen finden Sie unter [Konfigurieren und Aktivieren von Risikorichtlinien.](/azure/active-directory/identity-protection/howto-sign-in-risk-policy)
 
 ## <a name="azure-active-directory-identity-governance"></a>Azure Active Directory Identitätsgovernance
 
@@ -102,19 +102,19 @@ Microsoft Defender für Office 365 schützt Benutzer vor komplexen Angriffen wie
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren? 
 
-Microsoft Defender for Office 365 Plans 1 and 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, und Microsoft 365 Business Premium einem Benutzer die Rechte gewähren, von Microsoft Defender für Office 365 zu profitieren.
+Microsoft Defender für Office 365 Pläne 1 und 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security und Microsoft 365 Business Premium einem Benutzer die Rechte gewähren, von Microsoft Defender für Office 365 zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind Microsoft Defender für Office 365 Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von Microsoft Defender für Office 365 Richtlinien für lizenzierte Benutzer finden Sie unter [Microsoft Defender für Office 365](/microsoft-365/security/office-365-security/office-365-atp).
+Standardmäßig sind Die Features von Microsoft Defender für Office 365 auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von Microsoft Defender für Office 365 Richtlinien für lizenzierte Benutzer finden Sie unter [Microsoft Defender für Office 365](/microsoft-365/security/office-365-security/office-365-atp).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Befolgen Sie zum Festlegen des Umfangs von Microsoft Defender für Office 365 die Bereitstellungsrichtlinien für sichere Links und sichere Anlagen:
+Um Microsoft Defender auf Office 365 zu beschränken, befolgen Sie die Bereitstellungsrichtlinien für Safe Links und Safe Anlagen:
 
-- Informationen zum Konfigurieren sicherer Links für lizenzierte Benutzer finden Sie unter ["Sichere Links" in Microsoft Defender für Office 365.](/microsoft-365/security/office-365-security/atp-safe-links)
+- Informationen zum Konfigurieren Safe Links für lizenzierte Benutzer finden Sie unter [Safe Links in Microsoft Defender für Office 365.](/microsoft-365/security/office-365-security/atp-safe-links)
 
-- Informationen zum Konfigurieren sicherer Anlagen für lizenzierte Benutzer finden Sie unter ["Sichere Anlagen" in Microsoft Defender für Office 365.](/microsoft-365/security/office-365-security/atp-safe-attachments)
+- Informationen zum Konfigurieren von Safe Anlagen für lizenzierte Benutzer finden Sie unter [Safe Anlagen in Microsoft Defender für Office 365.](/microsoft-365/security/office-365-security/atp-safe-attachments)
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -130,14 +130,14 @@ OCAS entdeckt Schatten-IT, bietet Bedrohungsschutz über Office 365 hinweg und k
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Office 365 E5/A3/A5/G5 bietet einem Benutzer die Rechte, von OCAS zu profitieren.
+Office 365 E5/A3/A5/G5 bieten einem Benutzer die Rechte, von OCAS zu profitieren.
 Weitere Informationen finden Sie im [Microsoft Cloud App Security Licensing Datasheet.](https://www.aka.ms/mcaslicensing)
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
 Standardmäßig sind OCAS-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert.
 
-Informationen zum Konfigurieren des Diensts finden Sie unter [Grundlegendes Setup für Cloud App Security.](/cloud-app-security/general-setup)
+Informationen zum Konfigurieren des Diensts finden Sie unter [Grundlegendes Setup für Cloud App Security](/cloud-app-security/general-setup).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -145,7 +145,7 @@ Administratoren können OCAS-Bereitstellungen einschränken, um zu erzwingen, wi
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) ist eine Cloud Access Security Broker (CASB)-Lösung, die Organisationen Einblicke in ihre Cloud-Apps und -Dienste bietet, komplexe Analysen bereitstellt, um Cyberbedrohungen zu erkennen und zu bekämpfen, und sie steuern kann, wie Daten &mdash; in jeder Cloud-App übertragen werden.
+Microsoft Cloud App Security (MCAS) ist eine Casb-Lösung (Cloud Access Security Broker), die Organisationen Einblicke in ihre Cloud-Apps und -Dienste bietet, komplexe Analysen zur Identifizierung und Bekämpfung von Cyberbedrohungen bietet und sie steuern kann, wie Daten &mdash; in jeder Cloud-App übertragen werden.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -186,13 +186,13 @@ Nachfolgend sind die Vorteile für die Benutzer vom Compliance-Manager-Dienst au
 
 - Übersetzt komplizierte Vorschriften, Standards, Unternehmensrichtlinien oder andere gewünschte Steuerungsframeworks in einfache Sprache.
 - Bietet Zugriff auf eine umfangreiche Bibliothek mit sofort einsatzbereiten Bewertungen und benutzerdefinierten Bewertungen, um die einzigartigen Complianceanforderungen zu erfüllen.
-- Karten regulatorischer Kontrollen zu empfohlenen Verbesserungsmaßnahmen
+- Ordnet regulatorische Kontrollen empfohlenen Verbesserungsmaßnahmen zu
 - Enthält schrittweise Anleitungen zur Implementierung der Lösungen zur Erfüllung behördlicher Anforderungen.
 - Hilft Benutzern bei der Priorisierung von Aktionen, die den größten Einfluss auf die Compliance ihrer Organisation haben, indem jeder Aktion eine Bewertung zugeordnet wird.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Kunden mit E1- und E3/G3-Lizenzen können nur auf die standardmäßige Bewertung der Datenschutzgrundwerte zugreifen. Kunden mit Office 365 E5/A5- und Microsoft 365 E5/A5-Lizenzen (Compliance, Info Protection & Governance sowie eDiscovery- und Audit-SKUs enthalten) können auf Die Datenschutzgrundwerte, DSGVO, NIST 800-53 und ISO 27001 zugreifen. Kunden mit Office 365 G5 und Microsoft 365 G5 können auf die Datenschutzgrundwerte DSGVO, NIST 800-53, ISO 27001 und CMMC (Cybersecurity Maturity Model Certification) der Stufen 1 bis 5 zugreifen. Die benutzerdefinierte Bewertungsfunktion und die Premiumbewertungen sind für Office 365 E5/A5/G5- und Microsoft 365 E5/A5/G5-Kunden reserviert. Premium Bewertungen, z. B. FedRAMP Moderate, FedRAMP High und andere, stehen Kunden mit E5/A5/G5-Lizenzen in der ersten Hälfte 2021 über VL, CSP und WebDirect zum Kauf zur Verfügung. Wenden Sie sich an Ihren Microsoft-Verkäufer oder Microsoft-Partner, um den Kauf über VL- oder CSP-Kanäle zu tätigen. Informationen zum Kauf über WebDirect finden Sie unter [WebDirect.](https://aka.ms/ComplianceManager/WebDirect)
+Kunden mit E1- und E3/G3-Lizenzen können nur auf die standardmäßige Bewertung der Datenschutzgrundwerte zugreifen. Kunden mit Office 365 E5/A5- und Microsoft 365 E5/A5-Lizenzen (Compliance, Info Protection & Governance sowie eDiscovery- und Audit-SKUs enthalten) können auf Die Datenschutzgrundwerte, DSGVO, NIST 800-53 und ISO 27001 zugreifen. Kunden mit Office 365 G5 und Microsoft 365 G5 können auf die Datenschutzgrundwerte DSGVO, NIST 800-53, ISO 27001 und CMMC (Cybersecurity Maturity Model Certification) der Stufen 1 bis 5 zugreifen. Die benutzerdefinierte Bewertungsfunktion und die Premiumbewertungen sind für Office 365 E5/A5/G5- und Microsoft 365 E5/A5/G5-Kunden reserviert. Premiumbewertungen, z. B. FedRAMP Moderate, FedRAMP High und andere, stehen Kunden mit E5/A5/G5-Lizenzen in der ersten Hälfte 2021 über VL, CSP und WebDirect zum Kauf zur Verfügung. Wenden Sie sich an Ihren Microsoft-Verkäufer oder Microsoft-Partner, um den Kauf über VL- oder CSP-Kanäle zu tätigen. Informationen zum Kauf über WebDirect finden Sie unter [WebDirect.](https://aka.ms/ComplianceManager/WebDirect)
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -200,7 +200,7 @@ Compliance-Manager wird standardmäßig für Ihren Mandanten bereitgestellt. Adm
 
 ## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender für Endpunkt
 
-Microsoft Defender für Endpunkt (früher Microsoft Defender ATP) ist eine Endpunktsicherheitslösung, die risikobasierte Sicherheitsrisikomanagement und Bewertung umfasst. Attack Surface Reduction-Funktionen; verhaltensbasierter und cloudgestützter Schutz der nächsten Generation; EDR (EDR); automatische Untersuchung und Behebung; und verwaltete Suchdienste. Weitere Informationen finden Sie auf der Microsoft [Defender für Endpunkt-Seite.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
+Microsoft Defender für Endpunkt (früher Microsoft Defender ATP) ist eine Endpunktsicherheitslösung, die das risikobasierte Verwalten und Bewerten von Sicherheitsrisiken umfasst. Attack Surface Reduction-Funktionen; verhaltensbasierter und cloudgestützter Schutz der nächsten Generation; Endpunkterkennung und -antwort (Endpoint Detection and Response, EDR); automatische Untersuchung und Behebung; und verwaltete Suchdienste. Weitere Informationen finden Sie auf der Microsoft [Defender für Endpunkt-Seite.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren von dem Dienst?
 
@@ -216,15 +216,15 @@ Standardmäßig sind Microsoft Defender für Endpunkt-Features auf Mandanteneben
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Microsoft Defender für Endpunktadministratoren können die rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC) verwenden, um Rollen und Gruppen innerhalb des Sicherheitsteams zu erstellen, um den Microsoft Defender Security Center entsprechenden Zugriff zu gewähren. Weitere Informationen finden Sie unter [Verwalten des Portalzugriffs mithilfe der rollenbasierten Zugriffssteuerung.](/windows/security/threat-protection/microsoft-defender-atp/rbac)
+Microsoft Defender für Endpunkt-Administratoren können die rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC) verwenden, um Rollen und Gruppen innerhalb des Sicherheitsteams zu erstellen, um den entsprechenden Zugriff auf das Microsoft Defender Security Center zu gewähren. Weitere Informationen finden Sie unter [Verwalten des Portalzugriffs mithilfe der rollenbasierten Zugriffssteuerung.](/windows/security/threat-protection/microsoft-defender-atp/rbac)
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365 Datenklassifizierungsanalyse: Übersicht über den &amp; Inhaltsaktivitäts-Explorer
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Microsoft 365-Datenklassifizierungsanalyse: Übersicht über den &amp; Inhaltsaktivitäts-Explorer
 
-Die Analysefunktionen der Datenklassifizierung sind in Microsoft 365 Compliance Center verfügbar. Die Übersicht zeigt die Speicherorte digitaler Inhalte und die gängigsten Typen und Bezeichnungen vertraulicher Informationen. Der Inhalts-Explorer bietet Einblicke in die Menge und typen vertraulicher Daten und ermöglicht Benutzern das Filtern nach Bezeichnung oder Vertraulichkeitstyp, um eine detaillierte Ansicht der Speicherorte der vertraulichen Daten zu erhalten. Der Aktivitäts-Explorer zeigt Aktivitäten im Zusammenhang mit vertraulichen Daten und Bezeichnungen an, z. B. Herabstufungen von Bezeichnungen oder externe Freigaben, die Ihre Inhalte einem Risiko aussetzen könnten.
+Analysefunktionen für die Datenklassifizierung sind in der Microsoft 365 Compliance Center-Umgebung verfügbar. Die Übersicht zeigt die Speicherorte digitaler Inhalte und die gängigsten Typen und Bezeichnungen vertraulicher Informationen. Der Inhalts-Explorer bietet Einblicke in die Menge und typen vertraulicher Daten und ermöglicht Benutzern das Filtern nach Bezeichnung oder Vertraulichkeitstyp, um eine detaillierte Ansicht der Speicherorte der vertraulichen Daten zu erhalten. Der Aktivitäts-Explorer zeigt Aktivitäten im Zusammenhang mit vertraulichen Daten und Bezeichnungen an, z. B. Herabstufungen von Bezeichnungen oder externe Freigaben, die Ihre Inhalte einem Risiko aussetzen könnten.
 
 Der Aktivitäts-Explorer bietet Administratoren einen einzigen Bereich, um Einblicke in Aktivitäten zu erhalten, die sich auf vertrauliche Informationen beziehen, die von Endbenutzern verwendet werden. Diese Daten umfassen Bezeichnungsaktivitäten, DLP-Protokolle (Data Loss Prevention, Verhinderung von Datenverlust), automatische Bezeichnungen, Endpunkt-DLP und vieles mehr.
 
-Der Inhalts-Explorer bietet Administratoren die Möglichkeit, die vertraulichen Dokumente zu indizieren, die in unterstützten Microsoft 365 Workloads gespeichert sind, und die vertraulichen Informationen zu identifizieren, die sie speichern. Darüber hinaus hilft der Inhalts-Explorer beim Identifizieren von Dokumenten, die mit Vertraulichkeits- und Aufbewahrungsbezeichnungen klassifiziert sind.
+Der Inhalts-Explorer bietet Administratoren die Möglichkeit, die vertraulichen Dokumente zu indizieren, die in unterstützten Microsoft 365-Workloads gespeichert sind, und die vertraulichen Informationen zu identifizieren, die sie speichern. Darüber hinaus hilft der Inhalts-Explorer beim Identifizieren von Dokumenten, die mit Vertraulichkeits- und Aufbewahrungsbezeichnungen klassifiziert sind.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -232,17 +232,17 @@ Administratoren von Informationsschutz und Compliance können auf den Dienst zug
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Lizenzierte Benutzer von Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection &amp; Governance und Office 365 E5 können von Microsoft 365 Datenklassifizierungsanalyse profitieren. 
+Lizenzierte Benutzer von Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection &amp; Governance und Office 365 E5 können von Microsoft 365-Datenklassifizierungsanalysen profitieren. 
 
-Microsoft 365 E3/A3/G3 und Office 365 E3/A3/G3 können Benutzer nur von der Inhalts-Explorer-Datenaggregation profitieren.
+Mit Microsoft 365 E3/A3/G3 und Office 365 E3/A3/G3 können Benutzer nur von der Inhalts-Explorer-Datenaggregation profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
 Standardmäßig sind die Features des Übersichtsinhalts- und Aktivitäts-Explorers auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von Datenklassifizierungsanalysen für lizenzierte Benutzer finden Sie unter:
 
-- **Inhalts-Explorer:** [Erste Schritte mit dem Inhalts-Explorer – Microsoft 365 Compliance-| Microsoft Docs](/microsoft-365/compliance/data-classification-content-explorer).
-- **Aktivitäten-Explorer:** [Erste Schritte mit dem Aktivitäten-Explorer – Microsoft 365 Compliance-| Microsoft Docs](/microsoft-365/compliance/data-classification-activity-explorer).
-- **Versionshinweise zur Datenklassifizierung:** [Versionshinweise zur Datenklassifizierung – Microsoft 365 Compliance-| Microsoft Docs](/microsoft-365/compliance/data-classification-pub-preview-relnotes).
+- **Inhalts-Explorer:** [Erste Schritte mit dem Inhalts-Explorer – Microsoft 365 Compliance | Microsoft Docs](/microsoft-365/compliance/data-classification-content-explorer).
+- **Aktivitäten-Explorer:** [Erste Schritte mit dem Aktivitäten-Explorer – Microsoft 365 Compliance | Microsoft Docs](/microsoft-365/compliance/data-classification-activity-explorer).
+- **Versionshinweise zur Datenklassifizierung:** [Versionshinweise zur Datenklassifizierung – Microsoft 365 Compliance | Microsoft Docs](/microsoft-365/compliance/data-classification-pub-preview-relnotes).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -258,12 +258,12 @@ Benutzer profitieren von der Möglichkeit, Vertraulichkeitsbezeichnungen manuell
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP Plan 1 und AIP Plan 2 bieten einem Benutzer das Recht, von manuellen Vertraulichkeitsbezeichnungen zu profitieren.
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP Plan 1 und AIP Plan 2 bieten einem Benutzer die Rechte, von manuellen Vertraulichkeitsbezeichnungen zu profitieren.
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 und AIP Plan 2 bieten benutzern das Recht, von der Anwendung und Anzeige von Vertraulichkeitsbezeichnungen in Power BI zu profitieren und Daten zu schützen, wenn sie aus Power BI in Excel, PowerPoint oder PDF exportiert werden. 
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 und AIP Plan 2 bieten einem Benutzer die Rechte, von der Anwendung und Anzeige von Vertraulichkeitsbezeichnungen in Power BI zu profitieren und Daten zu schützen, wenn sie aus Power BI nach Excel, PowerPoint oder PDF exportiert werden. 
 
 > [!NOTE]
-> Power BI ist in Microsoft 365 E5/A5/G5 enthalten; in allen anderen Plänen müssen Power BI separat lizenziert werden.
+> Power BI ist in Microsoft 365 E5/A5/G5 enthalten. in allen anderen Plänen muss Power BI separat lizenziert werden.
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection und Governance, Office 365 E5, Enterprise Mobility + Security E5/A5/G5 und AIP Plan 2 bieten einem Benutzer die Rechte, von der automatischen Vertraulichkeitsbezeichnung zu profitieren.
 
@@ -281,7 +281,7 @@ Für die AIP-Scannerfunktion verpflichtet sich Microsoft nicht, Benutzern, die n
 
 ## <a name="information-governance"></a>Informationsgovernance
 
-Informationsgovernance hilft Organisationen bei der Verwaltung ihres Risikos, indem sie ihre Daten ermitteln, klassifizieren, bezeichnen und verwalten. Mit der Informationsgovernance können Organisationen geschäftliche und behördliche Anforderungen erfüllen sowie ihre Angriffsfläche reduzieren, indem sie Aufbewahrungs- und Löschungsfunktionen für ihre Microsoft 365 und Daten von Drittanbietern bereitstellen.
+Informationsgovernance hilft Organisationen bei der Verwaltung ihres Risikos, indem sie ihre Daten ermitteln, klassifizieren, bezeichnen und verwalten. Informationsgovernance ermöglicht es Organisationen, geschäftliche und behördliche Anforderungen zu erfüllen sowie ihre Angriffsfläche zu reduzieren, indem sie Aufbewahrungs- und Löschungsfunktionen in ihren Microsoft 365- und Drittanbieterdaten bereitstellen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -289,17 +289,17 @@ Benutzer profitieren durch die Möglichkeit, Daten für Aufbewahrungszwecke zu k
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Microsoft 365 F3/Business-Premium, Office 365 E1/A1/F3 und eigenständige Exchange-Pläne bieten einem Benutzer die Rechte, von der manuellen Anwendung von Aufbewahrungsbezeichnungen ohne Datensätze auf Postfachdaten zu profitieren.
+Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 und eigenständige Exchange-Pläne bieten einem Benutzer die Rechte, von der manuellen Anwendung von Aufbewahrungsbezeichnungen ohne Datensatz auf Postfachdaten zu profitieren.
 
-Microsoft 365 F3/F1/Business-Premium, Office 365 E1/A1/F3 und eigenständige SharePoint-Pläne bieten einem Benutzer die Möglichkeit, manuell Aufbewahrungsbezeichnungen ohne Datensätze auf Dateien in SharePoint oder OneDrive anzuwenden. 
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 und eigenständige SharePoint-Pläne bieten einem Benutzer die Rechte, von der manuellen Anwendung von Aufbewahrungsbezeichnungen ohne Datensätze auf Dateien in SharePoint oder OneDrive zu profitieren. 
 
-Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3, Exchange Plan 2 und Exchange Online-Archivierung einem Benutzer das Recht gewähren, von einer grundlegenden organisationsweiten oder standortweiten Postfachaufbewahrungsrichtlinie zu profitieren und/oder eine Aufbewahrungsbezeichnung ohne Datensatz manuell auf Postfachdaten anzuwenden.
+Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3, Exchange Plan 2 und Exchange Online Archiving bieten einem Benutzer die Rechte, von einer grundlegenden organisationsweiten oder standortweiten Postfachaufbewahrungsrichtlinie zu profitieren und/oder eine Aufbewahrungsbezeichnung ohne Datensatz manuell auf Postfachdaten anzuwenden.
 
-Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 und SharePoint Plan 2 bieten einem Benutzer das Recht, von einer grundlegenden SharePoint oder OneDrive Aufbewahrungsrichtlinie zu profitieren und/oder eine Aufbewahrungsbezeichnung ohne Datensatz manuell auf Dateien in SharePoint oder OneDrive anzuwenden.
+Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 und SharePoint Plan 2 bieten einem Benutzer die Rechte, von einer grundlegenden Aufbewahrungsrichtlinie für SharePoint oder OneDrive zu profitieren und/oder manuell eine Aufbewahrungsbezeichnung ohne Datensatz auf Dateien in SharePoint oder OneDrive anzuwenden.
 
-Organisationen können Aufbewahrungsrichtlinien verwenden, um Teams Nachrichten gemäß ihren Richtlinien aufzubewahren oder zu löschen. Dies umfasst das Verwalten von Nachrichten in Teams Chats und Unterhaltungen.
+Organisationen können Aufbewahrungsrichtlinien verwenden, um Teams-Nachrichten gemäß ihren Richtlinien zu speichern oder zu löschen. Dies umfasst das Verwalten von Nachrichten in Teams-Chats und -Unterhaltungen.
 
-Die folgenden Lizenzen bieten einem Benutzer die Rechte, von einer Teams Aufbewahrungsrichtlinie zu profitieren:
+Die folgenden Lizenzen bieten einem Benutzer die Rechte, von einer Aufbewahrungsrichtlinie für Teams zu profitieren:
 
 - Microsoft 365 E5/G5/A5/E3/G3/A3
 - Office 365 E5/G5/A5/E3/G3/A3/F3/E1/G1
@@ -309,25 +309,25 @@ Beachten Sie, dass für Benutzer mit den folgenden Lizenzen der unterstützte Mi
 - Microsoft 365 F1/F3, Business Basic, Business Standard und Business Premium
 - Office 365 E1/G1 und F3
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance E5/A5/G5, und Office 365 E5/A5 die Rechte für einen Benutzer bereitstellt, automatisch Aufbewahrungsbezeichnungen oder -richtlinien anzuwenden, Standardaufbewahrungsbezeichnungen oder -richtlinien anzuwenden, den Aufbewahrungszeitraum einer Aufbewahrungsbezeichnung basierend auf einem benutzerdefinierten Ereignis zu starten, eine manuelle Löschungsprüfung am Ende des Aufbewahrungszeitraums der Bezeichnung auszulösen, Drittanbieterdaten über systemeigene Datenconnectors zu importieren, eine Datei als Datensatz zu deklarieren, gekennzeichnete Inhalte zu ermitteln und Bezeichnungsaktivitäten zu überwachen.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance E5/A5/G5, und Office 365 E5/A5 bieten einem Benutzer die Rechte, automatisch Aufbewahrungsbezeichnungen oder -richtlinien anzuwenden, Standardaufbewahrungsbezeichnungen oder -richtlinien anzuwenden, den Aufbewahrungszeitraum einer Aufbewahrungsbezeichnung basierend auf einem benutzerdefinierten Ereignis zu starten, eine manuelle Löschungsprüfung am Ende des Aufbewahrungszeitraums der Bezeichnung auszulösen, Drittanbieterdaten über systemeigene Datenconnectors zu importieren, eine Datei als Datensatz zu deklarieren, gekennzeichnete Inhalte zu ermitteln und Bezeichnungsaktivitäten zu überwachen.
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection und Governance bieten einem Benutzer die Rechte, von der automatischen Anwendung von Aufbewahrungsbezeichnungen basierend auf trainierbaren Klassifizierern zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind Information Governance-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren der Informationsgovernance zum Anwenden der automatischen Bezeichnung und richtlinien für lizenzierte Benutzer finden Sie [unter Microsoft Information Governance in Microsoft 365.](/microsoft-365/compliance/manage-information-governance)
+Standardmäßig sind Information Governance-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert. Informationen zum Konfigurieren von Information Governance zum Anwenden der automatischen Bezeichnung und Richtlinien für lizenzierte Benutzer finden Sie unter [Microsoft Information Governance in Microsoft 365.](/microsoft-365/compliance/manage-information-governance)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Features für die Informationsgovernance können auf lizenzierte Benutzer an bestimmten Orten (Teamwebsites, Gruppenwebsites usw.) angewendet werden. Informationen zum Konfigurieren der Informationsgovernance zum Anwenden der automatischen Bezeichnung und richtlinien für lizenzierte Benutzer finden Sie [unter Microsoft Information Governance in Microsoft 365.](/microsoft-365/compliance/manage-information-governance)
+Features für die Informationsgovernance können auf lizenzierte Benutzer an bestimmten Orten (Teamwebsites, Gruppenwebsites usw.) angewendet werden. Informationen zum Konfigurieren von Information Governance zum Anwenden der automatischen Bezeichnung und Richtlinien für lizenzierte Benutzer finden Sie unter [Microsoft Information Governance in Microsoft 365.](/microsoft-365/compliance/manage-information-governance)
 
 ## <a name="records-management"></a>Datensatzverwaltung
 
-Die Datensatzverwaltung hilft Organisationen bei der Erfüllung ihrer geschäftlichen und behördlichen Verpflichtungen zur Aufzeichnung von Datensätzen, indem sie ihre Microsoft 365- und Drittanbieterdaten ermitteln, klassifizieren, kennzeichnen, aufbewahren und verdecken.
+Die Datensatzverwaltung hilft Organisationen bei der Erfüllung ihrer geschäftlichen und behördlichen Verpflichtungen zur Datensatzführung durch Ermitteln, Klassifizieren, Bezeichnen, Aufbewahren und verdeckender Löschungsfunktionen in ihren Microsoft 365- und Drittanbieterdaten.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance E5/A5/G5 und Office 365 E5/A5/G5 bieten einem Benutzer das Recht, von der Datensatzverwaltung zu profitieren, einschließlich des Deklarierens von Elementen als Datensätze oder regulatorischer Datensätze, des automatischen Anwendens von Aufbewahrungs- oder Datensatzbezeichnungen und des Ausführens von Löschungsprüfungsprozessen (mit Ausnahme der automatischen Anwendung einer Aufbewahrungsbezeichnung basierend auf trainierbaren Klassifizierern).
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance E5/A5/G5 und Office 365 E5/A5/G5 bieten einem Benutzer die Rechte, von der Datensatzverwaltung zu profitieren, einschließlich des Deklarierens von Elementen als Datensätze oder regulatorischer Datensätze, des automatischen Anwendens von Aufbewahrungs- oder Datensatzbezeichnungen und des Ausführens von Löschungsüberprüfungsprozessen (mit Ausnahme der automatischen Anwendung einer Aufbewahrungsbezeichnung basierend auf trainierbaren Klassifizierern).
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance und Microsoft 365 Information Protection and Governance bieten einem Benutzer die Rechte, von der automatischen Anwendung von Aufbewahrungs- oder Datensatzbezeichnungen basierend auf trainierbaren Klassifizierern zu profitieren.
 
@@ -345,15 +345,15 @@ Die Datensatzverwaltungsfeatures können auf lizenzierte Benutzer an bestimmten 
 
 ## <a name="data-connectors"></a>Datenconnectors 
 
-Microsoft stellt Datenconnectors von Drittanbietern bereit, die im Microsoft 365 Compliance Center konfiguriert werden können. Eine Liste der von Microsoft bereitgestellten Datenconnectors finden Sie in der Tabelle der [Drittanbieter-Datenconnectors.](/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) Diese Tabelle enthält außerdem eine Zusammenfassung der Compliancelösungen, die Sie nach dem Importieren und Archivieren von Daten in Microsoft 365 auf Drittanbieterdaten anwenden können, sowie Links zu den schrittweisen Anweisungen für jeden Connector.
+Microsoft stellt Datenconnectors von Drittanbietern bereit, die im Microsoft 365 Compliance Center konfiguriert werden können. Eine Liste der von Microsoft bereitgestellten Datenkonnektoren finden Sie in der [Tabelle "Datenkonnektoren](/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) von Drittanbietern". Diese Tabelle enthält außerdem eine Zusammenfassung der Compliancelösungen, die Sie nach dem Importieren und Archivieren von Daten in Microsoft 365 auf Drittanbieterdaten anwenden können, sowie Links zu den schrittweisen Anweisungen für jeden Connector.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
-Der Hauptvorteil der Verwendung von Datenconnectors zum Importieren und Archivieren von Drittanbieterdaten in Microsoft 365 besteht darin, dass Sie verschiedene Microsoft 365 Compliancelösungen auf die Daten anwenden können, nachdem sie importiert wurden. Dadurch wird sichergestellt, dass die Nicht-Microsoft-Daten Ihrer Organisation den Vorschriften und Standards entsprechen, die sich auf Ihre Organisation auswirken.
+Der Hauptvorteil der Verwendung von Datenconnectors zum Importieren und Archivieren von Daten von Drittanbietern in Microsoft 365 besteht darin, dass Sie verschiedene Microsoft 365-Compliancelösungen auf die Daten anwenden können, nachdem sie importiert wurden. Dadurch wird sichergestellt, dass die Nicht-Microsoft-Daten Ihrer Organisation den Vorschriften und Standards entsprechen, die sich auf Ihre Organisation auswirken.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Die folgenden Lizenzen bieten einem Benutzer die Rechte, datenkonnektoren nutzen zu können:
+Die folgenden Lizenzen bieten einem Benutzer die Rechte, von Datenconnectors zu profitieren:
 
 - Microsoft 365 E5/A5/G5
 - Microsoft 365 E5/A5/G5 Info Protection &amp; Governance
@@ -372,17 +372,17 @@ Connectors werden mithilfe des Security &amp; Compliance Centers und des Connect
 
 Datenkonnektordienste sind ein Wert auf Mandantenebene. Jeder Benutzer, der von diesem Dienst profitieren möchte, muss lizenziert sein.
 
-## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>Microsoft Graph-APIs für Teams Verhinderung von Datenverlust (Data Loss Prevention, DLP)
+## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>Microsoft Graph-APIs für Die Verhinderung von Datenverlust in Teams (Data Loss Prevention, DLP)
 
-Anfang dieses Jahres haben wir [die öffentliche Vorschau der Microsoft Graph Änderungsbenachrichtigungs-API für Nachrichten in Teams angekündigt.](https://go.microsoft.com/fwlink/?linkid=2143888) Mit dieser API können Entwickler Apps erstellen, die nahezu in Echtzeit Microsoft Teams Nachrichten abhören und DLP-Szenarioimplementierungen für Kunden und ISVs aktivieren können. Darüber hinaus ermöglicht die Microsoft Graph Patch-API das Anwenden von DLP-Aktionen auf Teams Nachrichten.
+Anfang dieses Jahres haben wir [die öffentliche Vorschau der Microsoft Graph-Änderungsbenachrichtigungs-API für Nachrichten in Teams angekündigt.](https://go.microsoft.com/fwlink/?linkid=2143888) Mit dieser API können Entwickler Apps erstellen, die Microsoft Teams-Nachrichten nahezu in Echtzeit abhören und DLP-Szenarioimplementierungen für Kunden und ISVs aktivieren können. Darüber hinaus ermöglicht die Microsoft Graph-Patch-API das Anwenden von DLP-Aktionen auf Teams-Nachrichten.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
-[DLP-Funktionen (Data Loss Prevention, Verhinderung von Datenverlust)](/microsoft-365/compliance/dlp-microsoft-teams) werden in Microsoft Teams häufig verwendet, insbesondere, wenn Organisationen auf Remotearbeit umgestellt sind. Wenn Ihre Organisation über DLP verfügt, können Sie jetzt Richtlinien definieren, die verhindern, dass Personen vertrauliche Informationen in einer Microsoft Teams Kanal- oder Chatsitzung freigeben.
+[DLP-Funktionen (Data Loss Prevention, Verhinderung von Datenverlust)](/microsoft-365/compliance/dlp-microsoft-teams) werden in Microsoft Teams häufig verwendet, insbesondere, wenn Organisationen auf Remotearbeit umgestellt sind. Wenn Ihre Organisation über DLP verfügt, können Sie jetzt Richtlinien definieren, die verhindern, dass Personen vertrauliche Informationen in einem Microsoft Teams-Kanal oder einer Chatsitzung freigeben.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Sie benötigen eine der folgenden Lizenzen, um Unterstützung für den DLP-Schutz in Teams Chat zu erhalten:
+Sie benötigen eine der folgenden Lizenzen, um Unterstützung für den DLP-Schutz im Teams-Chat zu erhalten:
 
 - Microsoft 365 E5/A5/G5
 - Microsoft 365 E5/A5/G5 Compliance
@@ -395,11 +395,11 @@ Der API-Zugriff wird auf Mandantenebene konfiguriert.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Die Microsoft Graph-API für Teams DLP ist ein Wert auf Mandantenebene. Jeder Benutzer, der von diesem Dienst profitieren möchte, muss lizenziert sein.
+Die Microsoft Graph-API für Teams-DLP ist ein Wert auf Mandantenebene. Jeder Benutzer, der von diesem Dienst profitieren möchte, muss lizenziert sein.
 
 ## <a name="ediscovery"></a>eDiscovery
 
-eDiscovery bietet Untersuchungs- und eDiscovery-Lösungen für IT- und Rechtsabteilungen innerhalb von Unternehmen, um Inhalte im Zusammenhang mit einer Untersuchung oder einem Rechtsstreitigkeiten vor dem Export aus dem Microsoft 365 System zu identifizieren, zu sammeln, beizubehalten, zu reduzieren und zu überprüfen.
+eDiscovery bietet Untersuchungs- und eDiscovery-Lösungen für IT- und Rechtsabteilungen innerhalb von Unternehmen, um Inhalte im Zusammenhang mit einer Untersuchung oder einem Rechtsstreitigkeiten vor dem Export aus dem Microsoft 365-System zu identifizieren, zu sammeln, beizubehalten, zu reduzieren und zu überprüfen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -407,21 +407,21 @@ Ein Benutzer profitiert von Advanced eDiscovery, wenn der Benutzer als Datenverw
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3 bieten Office 365 E5/A5/G5/E3/A3/G3 die Rechte für einen Benutzer, von Core eDiscovery zu profitieren.
+Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 bieten einem Benutzer die Rechte, von Core eDiscovery zu profitieren.
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 eDiscovery and Audit und Office 365 E5/A5/G5 bieten einem Benutzer die Rechte, von Advanced eDiscovery zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind Advanced eDiscovery Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert, wenn Administratoren eDiscovery-Berechtigungen im Security &amp; Compliance Center zuweisen.
+Standardmäßig sind Advanced eDiscovery-Features auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert, wenn Administratoren eDiscovery-Berechtigungen im Security &amp; Compliance Center zuweisen.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-eDiscovery-Administratoren können bestimmte Benutzer als Datenverwahrer für einen Fall auswählen, indem sie das integrierte Verwaltungstool für Verwahrer in Advanced eDiscovery verwenden, wie unter Hinzufügen von [Verwahrern zu einem Advanced eDiscovery Fall](/microsoft-365/compliance/add-custodians-to-case)beschrieben.
+eDiscovery-Administratoren können bestimmte Benutzer als Datenverwahrer für einen Fall auswählen, indem sie das integrierte Verwaltungstool für Verwahrer in Advanced eDiscovery verwenden, wie unter Hinzufügen von [Verwahrern zu einem Advanced eDiscovery-Fall](/microsoft-365/compliance/add-custodians-to-case)beschrieben.
 
 ## <a name="customer-key-for-microsoft-365"></a>Kundenschlüssel für Microsoft 365
 
-Mit Customer Key steuern Sie die Verschlüsselungsschlüssel Ihrer Organisation und konfigurieren Microsoft 365, um ihre ruhenden Daten in Microsoft-Rechenzentren zu verschlüsseln. Mit anderen Worten: Mit Customer Key können Sie eine Verschlüsselungsebene hinzufügen, die Ihnen gehört, indem Sie Ihre eigenen Schlüssel verwenden. Ruhedaten umfassen Daten aus Exchange Online und Skype for Business, die in Postfächern und Dateien in SharePoint Online und OneDrive for Business gespeichert sind.
+Mit Customer Key steuern Sie die Verschlüsselungsschlüssel Ihrer Organisation und konfigurieren Microsoft 365 so, dass sie zum Verschlüsseln Ihrer ruhenden Daten in Microsoft-Rechenzentren verwendet werden. Mit anderen Worten: Mit Customer Key können Sie eine Verschlüsselungsebene hinzufügen, die Ihnen gehört, indem Sie Ihre eigenen Schlüssel verwenden. Ruhedaten umfassen Daten aus Exchange Online und Skype for Business, die in Postfächern und Dateien in SharePoint Online und OneDrive for Business gespeichert sind.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -433,7 +433,7 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Customer Key for Microsoft 365 encryption keys can be enabled for all data stored in Exchange Online and Skype for Business mailboxes, and SharePoint Online, OneDrive for Business, and Teams files. Weitere Informationen zu Customer Key, einschließlich der ersten Schritte, finden Sie unter [Dienstverschlüsselung mit Customer Key.](/microsoft-365/compliance/customer-key-overview)
+Kundenschlüssel für Microsoft 365-Verschlüsselungsschlüssel können für alle Daten aktiviert werden, die in Exchange Online- und Skype for Business-Postfächern sowie SharePoint Online-, OneDrive for Business- und Teams-Dateien gespeichert sind. Weitere Informationen zu Customer Key, einschließlich der ersten Schritte, finden Sie unter [Dienstverschlüsselung mit Customer Key.](/microsoft-365/compliance/customer-key-overview)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -453,11 +453,11 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance u
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren können den Kunden-Lockbox im Microsoft 365 Admin Center aktivieren. Weitere Informationen finden Sie unter [Kunden-Lockbox in Office 365](/microsoft-365/compliance/customer-lockbox-requests). Wenn die Kunden-Lockbox aktiviert ist, muss Microsoft die Genehmigung einer Organisation einholen, bevor auf einen ihrer Inhalte zugegriffen wird.
+Administratoren können den Kunden-Lockbox im Microsoft 365 Admin Center aktivieren. Weitere Informationen finden Sie unter [Kunden-Lockbox in Office 365.](/microsoft-365/compliance/customer-lockbox-requests) Wenn die Kunden-Lockbox aktiviert ist, muss Microsoft die Genehmigung einer Organisation einholen, bevor auf einen ihrer Inhalte zugegriffen wird.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Derzeit kann der Kunden-Lockbox-Dienst nicht auf bestimmte Benutzer beschränkt werden. Sie müssen jeden Benutzer, von dem Sie profitieren möchten, lizenzen.
+Derzeit kann der Kunden-Lockbox-Dienst nicht auf bestimmte Benutzer beschränkt werden. Obwohl die Mandantendienste derzeit nicht in der Lage sind, die Vorteile für bestimmte Benutzer einzuschränken, sollten Sie sich bemühen, die Dienstvorteile auf lizenzierte Benutzer zu beschränken. Dies trägt dazu bei, potenzielle Dienstunterbrechungen zu vermeiden, sobald Zielfunktionen verfügbar sind.
 
 ## <a name="privileged-access-management-in-office-365"></a>Privileged Access Management in Office 365
 
@@ -465,7 +465,7 @@ Derzeit kann der Kunden-Lockbox-Dienst nicht auf bestimmte Benutzer beschränkt 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
-Durch aktivieren von PAM können Organisationen mit zero standing-Berechtigungen arbeiten. Benutzer profitieren von der zusätzlichen Schutzebene gegen Sicherheitsrisiken, die sich aus dem ständigen administrativen Zugriff ergeben, der uneingeschränkten Zugriff auf ihre Daten ermöglicht.
+Durch die Aktivierung von PAM können Organisationen ohne ständige Berechtigungen arbeiten. Benutzer profitieren von der zusätzlichen Schutzebene gegen Sicherheitsrisiken, die sich aus dem ständigen administrativen Zugriff ergeben, der uneingeschränkten Zugriff auf ihre Daten ermöglicht.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren? 
 
@@ -477,11 +477,11 @@ Standardmäßig sind PAM-Features auf Mandantenebene für alle Benutzer innerhal
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Kunden können PAM pro Benutzer über Genehmigergruppen und Zugriffsrichtlinien verwalten, die auf lizenzierte Benutzer angewendet werden können. Weitere Informationen finden Sie unter [Privileged Access Management in Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751).
+Kunden können PAM pro Benutzer über Genehmigergruppen und Zugriffsrichtlinien verwalten, die auf lizenzierte Benutzer angewendet werden können. Weitere Informationen finden Sie unter [Privileged Access Management in Office 365.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751)
 
 ## <a name="double-key-encryption-for-microsoft-365"></a>Doppelschlüsselverschlüsselung für Microsoft 365 
 
-Mit der Doppelschlüsselverschlüsselung für Microsoft 365 können Sie Ihre streng vertraulichen Daten schützen, um spezielle Anforderungen zu erfüllen und die vollständige Kontrolle über Ihren Verschlüsselungsschlüssel zu behalten. Die Doppelschlüsselverschlüsselung verwendet zwei Schlüssel, um Ihre Daten zu schützen, mit einem Schlüssel in Ihrem Steuerelement und dem zweiten Schlüssel, der von Microsoft Azure sicher gespeichert wird. Um die Daten anzuzeigen, müssen Sie Zugriff auf beide Schlüssel haben. Da Microsoft nur auf einen Schlüssel zugreifen kann, sind Ihr Schlüssel und auch Ihre Daten für Microsoft nicht verfügbar, um sicherzustellen, dass Sie die vollständige Kontrolle über den Datenschutz und die Sicherheit Ihrer Daten haben.
+Mit der Doppelschlüsselverschlüsselung für Microsoft 365 können Sie Ihre streng vertraulichen Daten schützen, um spezielle Anforderungen zu erfüllen und die vollständige Kontrolle über Ihren Verschlüsselungsschlüssel zu behalten. Die Verschlüsselung mit Doppelschlüssel verwendet zwei Schlüssel zum Schutz Ihrer Daten, wobei ein Schlüssel in Ihrem Steuerelement und der zweite Schlüssel von Microsoft Azure sicher gespeichert werden. Um die Daten anzuzeigen, müssen Sie Zugriff auf beide Schlüssel haben. Da Microsoft nur auf einen Schlüssel zugreifen kann, sind Ihr Schlüssel und auch Ihre Daten für Microsoft nicht verfügbar, um sicherzustellen, dass Sie die vollständige Kontrolle über den Datenschutz und die Sicherheit Ihrer Daten haben.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -489,7 +489,7 @@ Benutzer profitieren von der Doppelschlüsselverschlüsselung, indem sie ihre ve
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance und Office 365 E5/A5/G5 bieten einem Benutzer die Rechte, von der Doppelschlüsselverschlüsselung zu profitieren.
+Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection and Governance und Office 365 E5/A5/G5 bieten einem Benutzer die Rechte, von der Verschlüsselung mit Doppelschlüssel zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
@@ -497,11 +497,11 @@ Double Key Encryption unterstützt die Desktopversion von Microsoft Office für 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Befolgen Sie zum Zuweisen von Verschlüsselungsschlüsseln zu Daten innerhalb einer Office 365 und/oder Microsoft 365 Organisation für lizenzierte Benutzer die Bereitstellungsanweisungen für die Doppelschlüsselverschlüsselung.
+Um Daten in einer Office 365- und/oder Microsoft 365-Organisation Verschlüsselungsschlüssel für lizenzierte Benutzer zuzuweisen, befolgen Sie die Bereitstellungsanweisungen für die Doppelschlüsselverschlüsselung.
 
-## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Office 365 Verhinderung von Datenverlust für Exchange Online, SharePoint Online und OneDrive for Business
+## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Verhinderung von Datenverlust in Office 365 für Exchange Online, SharePoint Online und OneDrive for Business
 
-Mit Office 365 Verhinderung von Datenverlust (Data Loss Prevention, DLP) für Exchange Online, SharePoint Online und OneDrive for Business können Organisationen vertrauliche Informationen über E-Mails und Dateien hinweg identifizieren, überwachen und automatisch schützen (einschließlich Dateien, die in Microsoft Teams Dateirepositorys gespeichert sind).
+Mit Office 365 Data Loss Prevention (DLP) für Exchange Online, SharePoint Online und OneDrive for Business können Organisationen vertrauliche Informationen über E-Mails und Dateien hinweg identifizieren, überwachen und automatisch schützen (einschließlich Dateien, die in Microsoft Teams-Dateirepositorys gespeichert sind).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -509,11 +509,11 @@ Benutzer profitieren von DLP für Exchange Online, SharePoint Online und OneDriv
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Microsoft 365 E3/A3/Business-Premium, Office 365 E3/A3 und Office 365 Verhinderung von Datenverlust bieten einem Benutzer die Rechte, von Office 365 DLP für Exchange Online, SharePoint Online und OneDrive for Business zu profitieren.
+Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 und Office 365 Data Loss Prevention bieten einem Benutzer die Rechte, von Office 365 DLP für Exchange Online, SharePoint Online und OneDrive for Business zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind Exchange Online E-Mails, SharePoint Websites und OneDrive Konten *aktivierte Speicherorte (Workloads)* für diese DLP-Features für alle Benutzer innerhalb des Mandanten. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter ["Übersicht über die Verhinderung von Datenverlust".](/microsoft-365/compliance/data-loss-prevention-policies)
+Standardmäßig sind Exchange Online-E-Mails, SharePoint-Websites und OneDrive-Konten *aktivierte Speicherorte (Workloads)* für diese DLP-Features für alle Benutzer innerhalb des Mandanten. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter ["Übersicht über die Verhinderung von Datenverlust".](/microsoft-365/compliance/data-loss-prevention-policies)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -521,7 +521,7 @@ Administratoren können Speicherorte (Workloads), eingeschlossene Benutzer und a
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Verhinderung von Kommunikationsdatenverlust für Teams
 
-Mit Kommunikations-DLP für Teams können Organisationen Chats und Kanalnachrichten blockieren, die vertrauliche Informationen enthalten, z. B. Finanzinformationen, personenbezogene Informationen, gesundheitsbezogene Informationen oder andere vertrauliche Informationen.
+Mit Kommunikations-DLP für Teams können Organisationen Chats und Kanalnachrichten blockieren, die vertrauliche Informationen enthalten, z. B. Finanzinformationen, persönlich identifizierende Informationen, gesundheitsbezogene Informationen oder andere vertrauliche Informationen.
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren von dem Dienst?
 
@@ -533,7 +533,7 @@ Absender profitieren davon, dass vertrauliche Informationen in ihren ausgehenden
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Standardmäßig sind Teams Chat- und Kanalnachrichten ein *aktivierter Speicherort (Workload)* für diese DLP-Features für alle Benutzer innerhalb des Mandanten. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter ["Übersicht über die Verhinderung von Datenverlust".](/office365/securitycompliance/data-loss-prevention-policies)
+Standardmäßig sind Teams-Chat- und -Kanalnachrichten ein *aktivierter Speicherort (Workload)* für diese DLP-Features für alle Benutzer innerhalb des Mandanten. Weitere Informationen zur Verwendung von DLP-Richtlinien finden Sie unter ["Übersicht über die Verhinderung von Datenverlust".](/office365/securitycompliance/data-loss-prevention-policies)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -547,7 +547,7 @@ Informationsbarrieren sind Richtlinien, die ein Administrator konfiguriert, um z
 
 Benutzer profitieren von den erweiterten Compliance-Funktionen von Informationsbarrieren, wenn sie nicht mit anderen kommunizieren können. Richtlinien für Informationsbarrieren können definiert werden, um zu verhindern, dass bestimmte Benutzersegmente mit jedem Segment kommunizieren, oder dass bestimmte Segmente nur mit bestimmten anderen Segmenten kommunizieren können. Weitere Informationen zum Definieren von Richtlinien für Informationsbarrieren finden Sie unter [Definieren von Richtlinien für Informationsbarrieren.](/microsoft-365/compliance/information-barriers-policies) Für Szenarien, in denen zwei Gruppen nicht miteinander kommunizieren können, benötigen Benutzer in beiden Gruppen eine Lizenz, um vom Dienst zu profitieren (siehe beispiel unten).<br><br>
 
-| Szenario | Wer erfordert eine Lizenz? |
+| Szenario | Wer benötigt eine Lizenz? |
 |:------|:------|
 | Zwei Gruppen (Gruppe &nbsp; 1 und Gruppe &nbsp; 2) können nicht miteinander kommunizieren (d. h. Benutzer der Gruppe &nbsp; 1 können nicht mit Benutzern der Gruppe &nbsp; 2 kommunizieren, und Benutzer der Gruppe &nbsp; 2 können nicht mit Benutzern der Gruppe &nbsp; 1 kommunizieren. | Benutzer in Gruppe &nbsp; 1 und Gruppe &nbsp; 2 |
 
@@ -557,7 +557,7 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren erstellen und verwalten Richtlinien für Informationsbarrieren mithilfe von PowerShell-Cmdlets im Security &amp; Compliance Center. Administratoren muss die Rolle Microsoft 365 Enterprise globalen Administrators, Office 365 globalen Administrators oder Complianceadministrators zugewiesen werden, um eine Richtlinie für Informationsbarrieren zu erstellen. Standardmäßig gelten diese Richtlinien für alle Benutzer im Mandanten. Weitere Informationen zu Informationsbarrieren finden Sie unter [Informationsbarrieren in Microsoft Teams](/MicrosoftTeams/information-barriers-in-teams).
+Administratoren erstellen und verwalten Richtlinien für Informationsbarrieren mithilfe von PowerShell-Cmdlets im Security &amp; Compliance Center. Administratoren muss die Rolle "Globaler Administrator von Microsoft 365 Enterprise", "Globaler Office 365-Administrator" oder "Complianceadministrator" zugewiesen werden, um eine Richtlinie für Informationsbarrieren zu erstellen. Standardmäßig gelten diese Richtlinien für alle Benutzer im Mandanten. Weitere Informationen zu Informationsbarrieren finden Sie unter ["Informationsbarrieren" in Microsoft Teams.](/MicrosoftTeams/information-barriers-in-teams)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -571,23 +571,23 @@ Zum Anzeigen verschlüsselter Nachrichten können Empfänger eine einmalige Kenn
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
-Nachrichtensender profitieren von der zusätzlichen Kontrolle über vertrauliche E-Mails, die von Office 365-Nachrichtenverschlüsselung bereitgestellt werden.
+Nachrichtensender profitieren von der zusätzlichen Kontrolle über vertrauliche E-Mails, die von der Office 365-Nachrichtenverschlüsselung bereitgestellt werden.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
-Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 und Azure Information Protection Plan 1 bieten einem Benutzer die Rechte, von Office 365-Nachrichtenverschlüsselung zu profitieren.
+Microsoft 365 E3/A3/G3, Office 365 E3/A3/G3 und Azure Information Protection Plan 1 bieten einem Benutzer die Rechte, von der Office 365-Nachrichtenverschlüsselung zu profitieren.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren erstellen und verwalten Office 365-Nachrichtenverschlüsselung Richtlinien im Exchange Admin Center unter **Nachrichtenflussregeln.**  >   Standardmäßig gelten diese Regeln für alle Benutzer im Mandanten. Weitere Informationen zum Einrichten neuer Office 365-Nachrichtenverschlüsselung-Funktionen finden Sie unter ["Einrichten neuer Nachrichtenverschlüsselungsfunktionen".](/office365/securitycompliance/set-up-new-message-encryption-capabilities)
+Administratoren erstellen und verwalten Office 365-Nachrichtenverschlüsselungsrichtlinien im Exchange Admin Center unter **"Nachrichtenflussregeln".**  >   Standardmäßig gelten diese Regeln für alle Benutzer im Mandanten. Weitere Informationen zum Einrichten neuer Office 365-Nachrichtenverschlüsselungsfunktionen finden Sie unter ["Einrichten neuer Nachrichtenverschlüsselungsfunktionen".](/office365/securitycompliance/set-up-new-message-encryption-capabilities)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Administratoren sollten Nachrichtenflussregeln für Office 365-Nachrichtenverschlüsselung nur auf lizenzierte Benutzer anwenden. Weitere Informationen zum Definieren von Nachrichtenflussregeln finden Sie unter [Definieren von Nachrichtenflussregeln zum Verschlüsseln von E-Mail-Nachrichten.](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
+Administratoren sollten Nachrichtenflussregeln für die Office 365-Nachrichtenverschlüsselung nur auf lizenzierte Benutzer anwenden. Weitere Informationen zum Definieren von Nachrichtenflussregeln finden Sie unter [Definieren von Nachrichtenflussregeln zum Verschlüsseln von E-Mail-Nachrichten.](/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
 
 ## <a name="office-365-advanced-message-encryption"></a>Erweiterte Office 365-Nachrichtenverschlüsselung
 
-Office 365 Advanced Message Encryption hilft Kunden, Compliance-Verpflichtungen zu erfüllen, die flexiblere Kontrollen über externe Empfänger und deren Zugriff auf verschlüsselte E-Mails erfordern. Mit der erweiterten Nachrichtenverschlüsselung können Administratoren vertrauliche E-Mails, die außerhalb der Organisation freigegeben werden, mithilfe automatischer Richtlinien steuern, die typen vertraulicher Informationen erkennen können (z. B. persönlich identifizierende Informationen oder Finanz- oder Gesundheits-IDs), oder sie können Schlüsselwörter verwenden, um den Schutz zu verbessern, indem sie benutzerdefinierte E-Mail-Vorlagen anwenden und den Zugriff auf verschlüsselte E-Mails über ein sicheres Webportal ablaufen lassen. Darüber hinaus können Administratoren verschlüsselte E-Mails, auf die extern über ein sicheres Webportal zugegriffen wird, weiter steuern, indem sie den Zugriff jederzeit widerrufen.
+Office 365 Advanced Message Encryption hilft Kunden bei der Einhaltung von Compliance-Verpflichtungen, die flexiblere Kontrollen über externe Empfänger und deren Zugriff auf verschlüsselte E-Mails erfordern. Mit der erweiterten Nachrichtenverschlüsselung können Administratoren vertrauliche E-Mails, die außerhalb der Organisation freigegeben wurden, mithilfe automatischer Richtlinien steuern, die typen vertraulicher Informationen erkennen können (z. B. persönliche Informationen oder Finanz- oder Gesundheits-IDs), oder sie können Schlüsselwörter verwenden, um den Schutz zu verbessern, indem sie benutzerdefinierte E-Mail-Vorlagen anwenden und den Zugriff auf verschlüsselte E-Mails über ein sicheres Webportal ablaufen lassen. Darüber hinaus können Administratoren verschlüsselte E-Mails, auf die extern über ein sicheres Webportal zugegriffen wird, weiter steuern, indem sie den Zugriff jederzeit widerrufen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -599,7 +599,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance u
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren erstellen und verwalten erweiterte Nachrichtenverschlüsselungsrichtlinien im Exchange Admin Center unter **Nachrichtenflussregeln.**  >   Standardmäßig gelten diese Regeln für alle Benutzer im Mandanten. Weitere Informationen zum Einrichten neuer Nachrichtenverschlüsselungsfunktionen finden Sie unter ["Einrichten neuer Office 365-Nachrichtenverschlüsselung Funktionen".](/office365/securitycompliance/set-up-new-message-encryption-capabilities)
+Administratoren erstellen und verwalten erweiterte Nachrichtenverschlüsselungsrichtlinien im Exchange Admin Center unter **Nachrichtenflussregeln.**  >   Standardmäßig gelten diese Regeln für alle Benutzer im Mandanten. Weitere Informationen zum Einrichten neuer Nachrichtenverschlüsselungsfunktionen finden Sie unter [Einrichten neuer Office 365-Nachrichtenverschlüsselung Funktionen.](/office365/securitycompliance/set-up-new-message-encryption-capabilities)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -607,7 +607,7 @@ Administratoren sollten Nachrichtenflussregeln für die erweiterte Nachrichtenve
 
 ## <a name="communication-compliance"></a>Kommunikationscompliance
 
-Die Kommunikationscompliance in Microsoft 365 trägt dazu bei, Kommunikationsrisiken zu minimieren, indem sie Ihnen hilft, unangemessene Nachrichten in Ihrer Organisation zu erkennen, zu erfassen und zu beheben. Sie können bestimmte Richtlinien definieren, die interne und externe E-Mails, Microsoft Teams oder Kommunikationen von Drittanbietern in Ihrer Organisation erfassen. Prüfer können geeignete Korrekturmaßnahmen ergreifen, um sicherzustellen, dass sie den Nachrichtenstandards Ihrer Organisation entsprechen.
+Die Kommunikationscompliance in Microsoft 365 trägt dazu bei, Kommunikationsrisiken zu minimieren, indem sie Ihnen dabei hilft, unangemessene Nachrichten in Ihrer Organisation zu erkennen, zu erfassen und zu beheben. Sie können bestimmte Richtlinien definieren, die interne und externe E-Mails, Microsoft Teams oder Kommunikationen von Drittanbietern in Ihrer Organisation erfassen. Prüfer können geeignete Korrekturmaßnahmen ergreifen, um sicherzustellen, dass sie den Nachrichtenstandards Ihrer Organisation entsprechen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
@@ -619,7 +619,7 @@ Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance u
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Wie wird der Dienst bereitgestellt/bereitgestellt?
 
-Administratoren und Compliance-Spezialisten erstellen Richtlinien für die Kommunikationscompliance im Microsoft 365 Compliance Center. Diese Richtlinien definieren, welche Kommunikationen und Benutzer in der Organisation überprüft werden, definieren benutzerdefinierte Bedingungen, die die Kommunikation erfüllen muss, und geben an, wer Überprüfungen durchführen soll.
+Administratoren und Compliance-Spezialisten erstellen Kommunikationscompliancerichtlinien im Microsoft 365 Compliance Center. Diese Richtlinien definieren, welche Kommunikationen und Benutzer in der Organisation überprüft werden, definieren benutzerdefinierte Bedingungen, die die Kommunikation erfüllen muss, und geben an, wer Überprüfungen durchführen soll.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
@@ -645,7 +645,7 @@ Richtlinien für das Insider-Risikomanagement müssen im Microsoft 365 Complianc
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Wenn Sie eine Richtlinie im Microsoft 365 Compliance Center erstellen, wählen Sie auf der Seite **"Benutzer und Gruppen** auswählen" die Option **"Benutzer oder Gruppen** auswählen" aus, um nur lizenzierte Benutzer auszuwählen. Wenn alle Ihre Benutzer lizenziert sind, können Sie das Kontrollkästchen **"Alle Benutzer und E-Mail-aktivierte Gruppen"** aktivieren. Weitere Informationen finden Sie unter ["Erste Schritte mit dem Insider-Risikomanagement".](/microsoft-365/compliance/insider-risk-management-configure)
+Wählen Sie beim Erstellen einer Richtlinie im Microsoft 365 Compliance Center auf der Seite **"Benutzer und Gruppen** auswählen" die Option **"Benutzer oder Gruppen** auswählen" aus, um nur lizenzierte Benutzer auszuwählen. Wenn alle Ihre Benutzer lizenziert sind, können Sie das Kontrollkästchen **"Alle Benutzer und E-Mail-aktivierte Gruppen"** aktivieren. Weitere Informationen finden Sie unter ["Erste Schritte mit dem Insider-Risikomanagement".](/microsoft-365/compliance/insider-risk-management-configure)
 
 ## <a name="conditional-access-policies"></a>Richtlinien für bedingten Zugriff
 
@@ -675,7 +675,7 @@ Sie können auch einen Aufbewahrungszeitraum von 10 Jahren mit einer Add-On-SKU 
 
 ### <a name="which-users-benefit-from-the-service"></a>Welche Benutzer profitieren von dem Dienst?
 
-Lizenzierte Benutzer von Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance und Microsoft 365 E5/A5/G5 eDiscovery and Audit können von der erweiterten Überwachung profitieren.
+Lizenzierte Benutzer von Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance und Microsoft 365 E5/A5/G5 eDiscovery und Überwachung können von der erweiterten Überwachung profitieren.
 
 Lizenzierte Benutzer mit erweiterter Überwachung und dem 10-Jahres-Add-On für die Aufbewahrung von Überwachungsprotokollen können von der 10-jahres-Aufbewahrung von Überwachungsprotokollen profitieren.
 
