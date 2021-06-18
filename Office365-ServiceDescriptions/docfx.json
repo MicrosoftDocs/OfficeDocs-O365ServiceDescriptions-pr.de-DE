@@ -46,7 +46,7 @@
         "Service Descriptions"
       ],
       "recommendations": true,
-      "feedback_system": "GitHub",
+      "feedback_system": "None",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-O365ServiceDescriptions",
       "feedback_product_url": "https://office365.uservoice.com/",
       "titleSuffix": "Service Descriptions",
