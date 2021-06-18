@@ -17,7 +17,7 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": ["v-mipop@microsoft.com","v-jijaku@microsoft.com"],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
     "live-sxs",
@@ -54,6 +54,10 @@
     "live": [
       "Publish",
       "Pdf"
+    ],
+    "dstrome-smb-voice-sd": [
+      "Publish",
+      "Pdf"
     ]
   },
   "need_generate_pdf_url_template": true,
@@ -61,5 +65,8 @@
     "pdf": {
       "template_folder": "_themes.pdf"
     }
+  },
+  "docs_build_engine": {
+    "name": "docfx_v3"
   }
 }
