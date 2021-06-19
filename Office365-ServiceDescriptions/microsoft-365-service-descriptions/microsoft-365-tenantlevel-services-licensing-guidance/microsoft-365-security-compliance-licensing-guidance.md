@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Dieser Artikel enthält Lizenzierungsleitfaden für Microsoft 365 Compliance, um potenzielle Dienstunterbrechungen aufgrund eines nicht lizenzierten Zugriffs zu vermeiden.
-ms.openlocfilehash: dc52a66990114f9c74ca815c9525f34175e7995b
-ms.sourcegitcommit: 0bf671ec5b5ba16bcdc730b88e2607d85a3d4497
+ms.openlocfilehash: 00124a252a0e14a4ac78854385817a6c949e9f67
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52950164"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021968"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 Lizenzierungsleitfaden für &amp; die Sicherheitscompliance
 
@@ -112,7 +112,7 @@ Standardmäßig sind Die Features von Microsoft Defender für Office 365 auf Man
 
 Um Microsoft Defender auf Office 365 zu beschränken, befolgen Sie die Bereitstellungsrichtlinien für Safe Links und Safe Anlagen:
 
-- Informationen zum Konfigurieren Safe Links für lizenzierte Benutzer finden Sie unter [Safe Links in Microsoft Defender für Office 365.](/microsoft-365/security/office-365-security/atp-safe-links)
+- Informationen zum Konfigurieren Safe Links für lizenzierte Benutzer finden Sie unter [Safe Links in Microsoft Defender für Office 365](/microsoft-365/security/office-365-security/atp-safe-links).
 
 - Informationen zum Konfigurieren von Safe Anlagen für lizenzierte Benutzer finden Sie unter [Safe Anlagen in Microsoft Defender für Office 365.](/microsoft-365/security/office-365-security/atp-safe-attachments)
 
@@ -126,7 +126,7 @@ Informationen zum Vergleichen von Features finden Sie unter [Unterschiede zwisch
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
-OCAS entdeckt Schatten-IT, bietet Bedrohungsschutz über Office 365 hinweg und kann steuern, welche Apps über die Berechtigung für den Zugriff auf Daten verfügen.
+OCAS entdeckt Schatten-IT, bietet Bedrohungsschutz über Office 365 hinweg und kann steuern, welche Apps über die Berechtigung zum Zugriff auf Daten verfügen.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Welche Lizenzen bieten einem Benutzer die Rechte, von dem Dienst zu profitieren?
 
@@ -260,7 +260,9 @@ Benutzer profitieren von der Möglichkeit, Vertraulichkeitsbezeichnungen manuell
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP Plan 1 und AIP Plan 2 bieten einem Benutzer die Rechte, von manuellen Vertraulichkeitsbezeichnungen zu profitieren.
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 und AIP Plan 2 bieten einem Benutzer die Rechte, von der Anwendung und Anzeige von Vertraulichkeitsbezeichnungen in Power BI zu profitieren und Daten zu schützen, wenn sie aus Power BI nach Excel, PowerPoint oder PDF exportiert werden. 
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 und AIP Plan 2 bieten einem Benutzer die Rechte, von der Anwendung und Anzeige von Vertraulichkeitsbezeichnungen in Power BI zu profitieren und Daten zu schützen, wenn sie aus Power BI nach Excel, PowerPoint oder PDF exportiert werden.
+
+Microsoft 365 Business Premium und Enterprise Mobility bieten die Rechte zur Verwendung des [AIPService](/powershell/azure/aip/overview#aipservice) PowerShell-Moduls zur Verwaltung des Azure Rights Management-Schutzdiensts für Azure Information Protection.
 
 > [!NOTE]
 > Power BI ist in Microsoft 365 E5/A5/G5 enthalten. in allen anderen Plänen muss Power BI separat lizenziert werden.
@@ -275,9 +277,11 @@ Standardmäßig sind Informationsschutzfeatures auf Mandantenebene für alle Ben
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Wie kann der Dienst nur auf Benutzer im Mandanten angewendet werden, die für den Dienst lizenziert sind?
 
-Mit Ausnahme der AIP-Scannerfunktion können Richtlinien auf bestimmte Gruppen oder Benutzer beschränkt werden, und Registrierungen können bearbeitet werden, um zu verhindern, dass nicht lizenzierte Benutzer Klassifizierungs- oder Bezeichnungsfunktionen ausführen. Anweisungen zum Einschränken von AIP-Bereitstellungen finden Sie unter [Konfigurieren der Azure Information Protection-Richtlinie.](/azure/information-protection/configure-policy)
+Mit Ausnahme der AIP-Scannerfunktion können Richtlinien auf bestimmte Gruppen oder Benutzer beschränkt werden, und Registrierungen können bearbeitet werden, um zu verhindern, dass nicht lizenzierte Benutzer Klassifizierungs- oder Bezeichnungsfunktionen ausführen.
 
 Für die AIP-Scannerfunktion verpflichtet sich Microsoft nicht, Benutzern, die nicht lizenziert sind, Dateiklassifizierungs-, Bezeichnungs- oder Schutzfunktionen bereitzustellen.
+
+Weitere Informationen finden Sie unter Erstellen und Veröffentlichen von [Vertraulichkeitsbezeichnungen](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy) und [Grundlegendes zum Azure Information Protection-Scanner für einheitliche Bezeichnungen.](/azure/information-protection/deploy-aip-scanner)
 
 ## <a name="information-governance"></a>Informationsgovernance
 
@@ -607,7 +611,7 @@ Administratoren sollten Nachrichtenflussregeln für die erweiterte Nachrichtenve
 
 ## <a name="communication-compliance"></a>Kommunikationscompliance
 
-Die Kommunikationscompliance in Microsoft 365 trägt dazu bei, Kommunikationsrisiken zu minimieren, indem sie Ihnen dabei hilft, unangemessene Nachrichten in Ihrer Organisation zu erkennen, zu erfassen und zu beheben. Sie können bestimmte Richtlinien definieren, die interne und externe E-Mails, Microsoft Teams oder Kommunikationen von Drittanbietern in Ihrer Organisation erfassen. Prüfer können geeignete Korrekturmaßnahmen ergreifen, um sicherzustellen, dass sie den Nachrichtenstandards Ihrer Organisation entsprechen.
+Die Kommunikationscompliance in Microsoft 365 trägt dazu bei, Kommunikationsrisiken zu minimieren, indem es Ihnen hilft, unangemessene Nachrichten in Ihrer Organisation zu erkennen, zu erfassen und Abhilfemaßnahmen zu ergreifen. Sie können bestimmte Richtlinien definieren, die interne und externe E-Mails, Microsoft Teams oder Kommunikationen von Drittanbietern in Ihrer Organisation erfassen. Prüfer können geeignete Korrekturmaßnahmen ergreifen, um sicherzustellen, dass sie den Nachrichtenstandards Ihrer Organisation entsprechen.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Wie profitieren Benutzer von dem Dienst?
 
