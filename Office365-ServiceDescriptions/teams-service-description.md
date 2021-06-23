@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Informieren Sie sich über die Verfügbarkeit von Microsoft Teams-Diensten und -Funktionen in allen Microsoft 365- und Office 365-Plänen.
-ms.openlocfilehash: 12aaf9320b3cb1fe62b784b8900f6cafcccb4025
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
-ms.translationtype: HT
+ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
+ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906771"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077519"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams – Dienstbeschreibung
 
@@ -29,16 +29,17 @@ In der folgenden Tabelle sind die wichtigsten Microsoft Teams-Funktionen aufgef�
 
 | Feature | Kleinunternehmen | Enterprise-Pläne | GCC | GCC – High | DoD | Ausbildung |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Chat  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Microsoft Teams  <br/> |Ja <br/> |Ja <br/> |Ja <br/> |Ja<sup>1</sup>  <br/> |Ja<sup>1</sup>  <br/> |Ja  <br/> |
-|Kanäle – Standard  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Kanäle – Privat  <br/> |Ja  <br/> |Ja<sup>2</sup>  <br/> |Ja <br/> |Nein  <br/> |Nein <br/> |Ja  <br/> |
-|Besprechungen  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Bildschirmfreigabe PowerPoint Audio/Video-Desktop <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |
-|Sprachanrufe  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
-|Audiokonferenz  <br/> |Ja  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>3</sup>  <br/> |Ja<sup>3</sup>  <br/> |Ja  <br/> |
-|Apps, Bots und Connectors  <br/> |Ja  <br/> |Ja  <br/> |Ja<sup>5</sup>  <br/> |Ja<sup>5</sup>  <br/> |Ja<sup>4,5</sup>  <br/> |Ja  <br/> |
-|Liveereignisse  <br/> |Nein  <br/> |Ja  <br/> |Ja  <br/> |No<sup>6</sup>  <br/> |No<sup>6</sup>  <br/> |Ja  <br/> |
+|Chat |Ja |Ja |Ja |Ja |Ja |Ja |
+|Microsoft Teams |Ja|Ja|Ja|Ja<sup>1</sup> |Ja<sup>1</sup> |Ja |
+|Kanäle – Standard |Ja |Ja |Ja |Ja |Ja |Ja |
+|Kanäle – Privat |Ja |Ja<sup>2</sup> |Ja|Nein |Nein|Ja |
+|Besprechungen |Ja |Ja |Ja |Ja |Ja |Ja |
+|Webinare |Ja |Ja |Nein |Nein |Nein |Ja |
+|Bildschirmfreigabe PowerPoint Audio/Video-Desktop|Ja |Ja |Ja |Ja |Ja |Ja |
+|Sprachanrufe |Ja |Ja |Ja |Ja<sup>3</sup> |Ja<sup>3</sup> |Ja |
+|Audiokonferenz |Ja |Ja |Ja |Ja<sup>3</sup> |Ja<sup>3</sup> |Ja |
+|Apps, Bots und Connectors |Ja |Ja |Ja<sup>5</sup> |Ja<sup>5</sup> |Ja<sup>4,5</sup> |Ja |
+|Liveereignisse |Nein |Ja |Ja |No<sup>6</sup> |No<sup>6</sup> |Ja |
 
 <sup>1</sup> Microsoft Teams in GCC-High und DoD unterstützt 2500 Mitglieder in einem individuellen Team.<br/>
 <sup>2</sup> Microsoft Planner ist derzeit für den Zugriff in privaten Kanälen nicht verfügbar.<br/>
