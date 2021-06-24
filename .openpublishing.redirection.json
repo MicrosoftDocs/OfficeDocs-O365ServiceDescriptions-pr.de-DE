@@ -80,6 +80,11 @@
       "redirect_url": "visio-online-service-description",
       "redirect_document_id": false
     },
+	{
+      "source_path": "Office365-ServiceDescriptions/visio-online-service-description/visio-online.md",
+      "redirect_url": "/office365/servicedescriptions/visio-online-service-description/visio-features",
+      "redirect_document_id": false
+    },
     {
       "source_path": "Office365-ServiceDescriptions/yammer-service-description/index.md",
       "redirect_url": "yammer-service-description",
