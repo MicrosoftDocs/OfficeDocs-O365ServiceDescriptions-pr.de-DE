@@ -27,7 +27,7 @@ Visio Web- und Desktop-Apps ermöglichen Es Benutzern, Diagramme im Browser oder
 
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>Anwenden umfangreicher Formatierung auf Text und Shapes
 
-Bearbeitungsfeatures, z. B. mehr Farben, Farbverläufe, Effekte und Formatvorlagen, sind sowohl in Visio für das Web als auch in der Desktopanwendung verfügbar. Sie können auch ein Textfeld hinzufügen oder aus einem Katalog von Formen auswählen und Formatvorlagen anwenden, die Füll-, Gliederungs- und Schatteneffekte definieren.
+Bearbeitungsfeatures, z. B. weitere Farben, Farbverläufe, Effekte und Formatvorlagen, sind in Visio für das Web sowie in der Desktopanwendung verfügbar. Sie können auch ein Textfeld hinzufügen oder aus einem Katalog von Formen auswählen und Formatvorlagen anwenden, die Füll-, Gliederungs- und Schatteneffekte definieren.
 
 ## <a name="arrange-objects"></a>Anordnen von Objekten
 
@@ -39,7 +39,7 @@ Mit der Visio JavaScript Mashup-API können Entwickler auf ein Visio Webdiagramm
 
 ## <a name="create-diagrams"></a>Erstellen von Diagrammen
 
-Diagramme können ganz einfach in Visio erstellt und in SharePoint oder OneDrive for Business gespeichert werden. Sie können sie dann für andere Personen freigeben.
+Diagramme können auf einfache Weise in Visio erstellt und in SharePoint oder OneDrive for Business gespeichert werden. Sie können sie dann für andere Personen freigeben.
 
 ## <a name="cut-copy-and-paste"></a>Ausschneiden, Kopieren und Einfügen
 
@@ -59,7 +59,7 @@ In Visio für das Web können Sie nach jedem Vorkommen eines Worts, einer Zahl o
 
 ## <a name="font-formatting"></a>Schriftartformatierung
 
-Sie können die Schriftart, den Schriftgrad und andere Schriftdarstellungsattribute (z. B. fett, kursiv, hochgestellt oder unterstreichen) in Visio für das Web ändern.
+Sie können die Schriftart, den Schriftgrad und andere Zeichendarstellungsattribute (z. B. fett, kursiv, hochgestellt oder unterstreichen) in Visio für das Web ändern.
 
 ## <a name="hyperlinks"></a>Hyperlinks
 
@@ -75,7 +75,7 @@ Office-Add-Ins sind in Visio für Desktop, aber noch nicht in Visio für das Web
 
 ## <a name="offline-viewing"></a>Offlineansichten
 
-In Visio für das Web nicht verfügbar. Office für das Web erfordert eine Internetverbindung und einen Internetbrowser. Sie müssen auf Ihrem Computer die Visio-Desktopanwendung installiert haben, um ein Diagramm anzeigen und bearbeiten zu können, wenn keine Verbindung mit dem Internet oder dem lokalen Office Web Apps Server Ihrer Organisation besteht. Wenn Sie die Visio Desktopanwendung installiert haben, können Sie die gesamte Funktionalität von Visio verwenden, um Das Diagramm offline anzuzeigen und zu bearbeiten. Beim Speichern wird das Onlinediagramm mit Ihren Änderungen aktualisiert. Sie können auch eine Offlinekopie des Diagramms herunterladen und speichern; diese wird aber nicht mit der Onlineversion synchronisiert sein. Weitere Informationen zu Office Web Apps Server finden Sie unter [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
+In Visio für das Web nicht verfügbar. Office für das Web erfordert eine Internetverbindung und einen Internetbrowser. Sie müssen auf Ihrem Computer die Visio-Desktopanwendung installiert haben, um ein Diagramm anzeigen und bearbeiten zu können, wenn keine Verbindung mit dem Internet oder dem lokalen Office Web Apps Server Ihrer Organisation besteht. Wenn Sie die Visio Desktopanwendung installiert haben, können Sie die vollständige Funktionalität von Visio verwenden, um Das Diagramm offline anzuzeigen und zu bearbeiten. Beim Speichern wird das Onlinediagramm mit Ihren Änderungen aktualisiert. Sie können auch eine Offlinekopie des Diagramms herunterladen und speichern; diese wird aber nicht mit der Onlineversion synchronisiert sein. Weitere Informationen zu Office Web Apps-Server finden Sie unter [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
 
 ## <a name="print-to-pdf"></a>Als PDF drucken
 
