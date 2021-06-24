@@ -1,5 +1,5 @@
 ---
-title: Visio für das Web – Dienstbeschreibung
+title: Visio Dienstbeschreibung
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -9,67 +9,87 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Vergleichen Sie funktionen in Visio für das Web mit der Visio Desktop-App.
-ms.openlocfilehash: c490e0fbb891c09cfa73706002d6f5b7b3b33452
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Vergleichen Sie die Funktionen in Visio für das Web mit der Visio-Desktop-App.
+ms.openlocfilehash: 85d46d55c1de4509330db78cb63d7352eb26376f
+ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653622"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095559"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio für das Web – Dienstbeschreibung
+# <a name="visio-service-description"></a>Visio Dienstbeschreibung
 
-Mit Visio für das Web können Sie Visio Im Web anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen zum Ausdruck zu bringen, z. B. das Darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und reichhaltigen Formsätzen zu erstellen. Visio für das Web können Benutzer Diagramme anzeigen und zusammenarbeiten, indem sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive for Business online hochgeladen wurden.
-  
-Weitere Informationen und erste Schritte finden Sie unter [Visio Plan 1](https://products.office.com/visio/visio-online).
-  
-Hilfe bei der Verwendung von Visio für das Web finden Sie [unter Visio hilfe & Lernen](https://support.office.com/visio).
-  
-## <a name="feature-availability-and-comparison"></a>Verfügbarkeit und Vergleich von Features
+Mit der Visio Desktop- und Webanwendungen können Sie Visio Diagramme im Web anzeigen, bearbeiten und freigeben. Beginnen Sie mit einem einfachen Diagramm, um allgemeine Ideen auszudrücken, z. B. das Darstellen eines Plans, das Erstellen eines Vorschlags oder das Beschreiben einer Abfolge von Schritten in einem Prozess. Es ist einfach und einfach, erstklassige Diagramme mit häufig verwendeten Diagrammtypen und umfangreichen Formsätzen zu erstellen. Visio Desktopbenutzer können Diagramme anzeigen und zusammenarbeiten, indem sie Diagramme freigeben und Kommentare in Dateien einfügen, die in SharePoint Online oder OneDrive for Business Online hochgeladen wurden.
 
-In der folgenden Tabelle werden Visio Webfeaturefunktionen mit der funktionsreichen Visio-Desktop-App verglichen. Verwenden Sie die Tabelle, um zu ermitteln, welche Features in Visio für das Web verfügbar sind, und wählen Sie dann den Featurenamen aus, um eine kurze Beschreibung der Funktionsweise dieses Features zu lesen. Sie können feststellen, dass einige Personen in Ihrer Organisation die erweiterten Funktionen der Visio-Desktop-App benötigen, während andere nur Visio Diagramme mit Visio für das Web anzeigen und leicht bearbeiten müssen.<br><br> 
+Hilfe bei der Verwendung von Visio finden Sie unter [Visio Hilfe & Lernens.](https://support.office.com/visio)
+
+## <a name="available-plans"></a>Verfügbare Pläne
+
+Weitere Informationen und erste Schritte finden Sie unter [Compare Visio Options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
   
-| Anwendungsfeature | Visio für das Web | Visio-Desktop-App |
+## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
+
+In der folgenden Tabelle sind die wichtigsten Visio Features aufgeführt, die in Web- und Desktop-Apps verfügbar sind. Einige Vorbehalte gelten. Lesen Sie die Fußnoten für weitere Informationen. Diese Tabelle kann ohne vorherige Ankündigung geändert werden. Eine aktuelle, vollständige Liste der Visio Features in allen Plänen finden Sie unter ["Vergleichen Visio Optionen".](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)<br><br> 
+
+| Anwendungsfeature | Visio für das Web | Visio Desktopanwendung |
 |:-----|:-----|:-----|
-|[Anwenden umfangreicher Formatierung auf Text und Shapes](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Ja  <br/> |Ja  <br/> |
-|[Anordnen von Objekten](visio-online.md#arrange-objects) <br/> |Ja  <br/> |Ja  <br/> |
-|[Erstellen von Mashup-Lösungen](visio-online.md#build-mashup-solutions) <br/> |Ja  <br/> |Ja  <br/> |
-|[Erstellen von Diagrammen](visio-online.md#create-diagrams) <br/> |Ja  <br/> |Ja  <br/> |
-|[Ausschneiden, Kopieren und Einfügen](visio-online.md#cut-copy-and-paste) <br/> |Ja  <br/> |Ja  <br/> |
-|[Bearbeiten von Diagrammen](visio-online.md#edit-diagrams) <br/> |Ja  <br/> |Ja  <br/> |
-|[Einbetten von Diagrammen in eine SharePoint-, Web- oder Blogseite](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Ja  <br/> |Nein  <br/> |
-|[Suchen](visio-online.md#find) <br/> |Ja  <br/> |Ja  <br/> |
-|[Schriftartformatierung](visio-online.md#font-formatting) <br/> |Ja  <br/> |Ja  <br/> |
-|[Links](visio-online.md#hyperlinks)<sup>1</sup> <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |
-|[Navigation](visio-online.md#navigation) <br/> |Ja  <br/> |Ja  <br/> |
-|[Office-Add-Ins](visio-online.md#office-add-ins) <br/> |Nein  <br/> |Ja  <br/> |
-|[Offlineansichten](visio-online.md#offline-viewing) <br/> |Nein  <br/> |Ja  <br/> |
-|[Als PDF drucken](visio-online.md#print-to-pdf) <br/> |Ja<sup>4</sup> <br/> |Ja  <br/> |
-|[Korrekturhilfen](visio-online.md#proofing-tools) <br/> |Nein  <br/> |Ja  <br/> |
-|[Gemeinsame Dokumenterstellung in Echtzeit](visio-online.md#real-time-co-authoring) <br/> |Nein  <br/> |Ja  <br/> |
-|["Speichern unter" oder "Kopie herunterladen"](visio-online.md#save-as-or-download-a-copy) <br/> |Ja  <br/> |Ja  <br/> |
-|[Freigeben eines Diagramms](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |Ja  <br/> |Ja  <br/> |
-|[SmartArt](visio-online.md#smartart) <br/> |Nein  <br/> |Ja  <br/> |
-|[Funktion "Was möchten Sie tun?"](visio-online.md#tell-me) <br/> |Nein  <br/> |Ja  <br/> |
-|["Rückgängig" und "Wiederholen"](visio-online.md#undo-and-redo) <br/> |Nein  <br/> |Ja  <br/> |
-|[Anzeigen und Hinzufügen von Kommentaren](visio-online.md#view-and-add-comments) <br/> |Ja<sup>5</sup> <br/> |Ja  <br/> |
-|[Anzeigen von Shapedaten](visio-online.md#view-shape-data) <br/> |Ja<sup>3</sup> <br/> |Ja  <br/> |
-|[Anzeigen von Visio-Dateien im Browser](visio-online.md#view-visio-files-in-the-browser) <br/> |Ja  <br/> |Ja  <br/> |
-|[Zoom](visio-online.md#zoom) <br/> |Ja<sup>6</sup> <br/> |Ja  <br/> |
-   
-> <sup>1</sup> Hyperlinks folgen (Einfügen oder Bearbeiten nicht möglich). 
-<br/><sup>2</sup> Freigeben über SharePoint oder One Drive for Business und Freigeben für Benutzer, die nicht über SharePoint oder OneDrive verfügen. 
-<br/> <sup>3</sup> Nicht verfügbar in Visio für den Web-Editor.
-<br/><sup>4</sup> Nicht verfügbar in Visio web Viewer. 
-<br/><sup>5</sup> Nicht verfügbar in Visio für den Web-Editor, Sie können jedoch in den Ansichtsmodus wechseln und Kommentare anzeigen. 
-<br/><sup>6</sup> Verfügbar in Visio für den Web-Editor. 
-  
-## <a name="supported-file-types-in-visio-for-the-web"></a>Unterstützte Dateitypen in Visio für das Web
+|[Anwenden umfangreicher Formatierung auf Text und Shapes](visio-features.md#apply-rich-formatting-to-text-and-shapes)|Ja |Ja |
+|[Anordnen von Objekten](visio-features.md#arrange-objects)|Ja |Ja |
+|[Erstellen von Mashup-Lösungen](visio-features.md#build-mashup-solutions)|Ja |Ja |
+|[Erstellen von Diagrammen](visio-features.md#create-diagrams)|Ja |Ja |
+|[Ausschneiden, Kopieren und Einfügen](visio-features.md#cut-copy-and-paste)|Ja |Ja |
+|[Bearbeiten von Diagrammen](visio-features.md#edit-diagrams)|Ja |Ja |
+|[Einbetten von Diagrammen in eine SharePoint-, Web- oder Blogseite](visio-features.md#embed-diagram-in-a-sharepoint-web-or-blog-page)|Ja |Nein |
+|[Suchen](visio-features.md#find)|Ja |Ja |
+|[Schriftartformatierung](visio-features.md#font-formatting)|Ja |Ja |
+|[Links](visio-features.md#hyperlinks)<sup>1</sup>|Ja<sup>3</sup>|Ja |
+|[Navigation](visio-features.md#navigation)|Ja |Ja |
+|[Office-Add-Ins](visio-features.md#office-add-ins)|Nein |Ja |
+|[Offlineansichten](visio-features.md#offline-viewing)|Nein |Ja |
+|[Als PDF drucken](visio-features.md#print-to-pdf)|Ja<sup>4</sup>|Ja |
+|[Korrekturhilfen](visio-features.md#proofing-tools)|Nein |Ja |
+|[Gemeinsame Dokumenterstellung in Echtzeit](visio-features.md#real-time-co-authoring)|Ja |Nein |
+|["Speichern unter" oder "Kopie herunterladen"](visio-features.md#save-as-or-download-a-copy)|Ja |Ja |
+|[Freigeben eines Diagramms](visio-features.md#share-a-diagram)<sup>2</sup>|Ja |Ja |
+|[Funktion "Was möchten Sie tun?"](visio-features.md#tell-me)|Nein |Ja |
+|["Rückgängig" und "Wiederholen"](visio-features.md#undo-and-redo)|Ja |Ja |
+|[Anzeigen und Hinzufügen von Kommentaren](visio-features.md#view-and-add-comments)|Ja |Ja |
+|[Anzeigen von Shapedaten](visio-features.md#view-shape-data)|Ja<sup>3</sup>|Ja |
+|[Anzeigen von Visio-Dateien im Browser](visio-features.md#view-visio-files-in-the-browser)|Ja |Ja |
+|[Zoom](visio-features.md#zoom)|Ja<sup>5</sup>|Ja |
 
-| Visio, das in Visio 2010 oder höher erstellt wurde | Ansichtsmodus | Bearbeitungsmodus |
+> <sup>1</sup> Hyperlinks folgen (Einfügen oder Bearbeiten nicht möglich).
+<br/><sup>2</sup> Freigeben über SharePoint oder One Drive for Business und Freigeben für Benutzer, die nicht über SharePoint oder OneDrive verfügen.
+<br/><sup>3</sup> In Visio für den Web-Editor nicht verfügbar.
+<br/><sup>4</sup> In Visio für web Viewer nicht verfügbar.
+<br/><sup>5</sup> Verfügbar in Visio für den Web-Editor.
+
+## <a name="learn-more"></a>Weitere Informationen
+
+### <a name="supported-file-types-in-visio-for-the-web"></a>Unterstützte Dateitypen in Visio für das Web
+
+| Visio Diagramm, das in Visio 2010 oder höher erstellt wurde | Ansichtsmodus | Bearbeitungsmodus |
 |:-----|:-----|:-----|
-|Open XML (.vsdx)  <br/> |Ja  <br/> |Nein  <br/> |
+|Open XML (.vsdx)  <br/> |Ja  <br/> |Ja  <br/> |
 |Binär (.vsd)  <br/> |Ja  <br/> |Nein  <br/> |
 |Makro (.vsdm)  <br/> |Ja  <br/> |Nein  <br/> |
-   
 
+Weitere Informationen zu Visio finden Sie in den folgenden Ressourcen:
+
+- [Pläne im Vergleich](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
+- [Visio Tech Community](https://techcommunity.microsoft.com/t5/microsoft-teams/ct-p/MicrosoftTeams)
+- [blog Visio](https://techcommunity.microsoft.com/t5/visio-blog/bg-p/VisioBlog)
+- [Empfohlene Visio Vorlagen und Diagramme](https://go.microsoft.com/fwlink/p/?linkid=2157372)
+- [Bereitstellungshandbuch für Visio](/deployoffice/deployment-guide-for-visio)
+
+### <a name="licensing-terms"></a>Lizenzierungsbedingungen
+
+Lizenzierungsbestimmungen für Produkte und Dienste, die Sie über kommerzielle Volumenlizenzierungsprogramme von Microsoft erworben haben, finden Sie auf der [Website für Produktbestimmungen](https://www.microsoft.com/licensing/terms/).
+
+### <a name="messaging"></a>Nachrichten
+
+Um über bevorstehende Änderungen, einschließlich neuer und geänderter Features, geplanter Wartung oder anderer wichtiger Ankündigungen, auf dem Laufenden zu bleiben, besuchen Sie das Nachrichtencenter. Weitere Informationen finden Sie unter [Nachrichtencenter](/microsoft-365/admin/manage/message-center).
+
+### <a name="accessibility"></a>Barrierefreiheit
+
+Microsoft bleibt der Sicherheit Ihrer Daten und der [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste verpflichtet. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und dem [Office-Barrierefreiheitscenter](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
