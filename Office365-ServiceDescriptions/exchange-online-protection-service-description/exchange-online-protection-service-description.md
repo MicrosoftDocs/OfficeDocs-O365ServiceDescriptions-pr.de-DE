@@ -11,119 +11,140 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
-description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Protection sowie einen Vergleich der Features in diesen Plänen bereitstellen.
-ms.openlocfilehash: 172e07db12590e51720c2446974418244f3234e4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Protection bereitstellen, sowie ein Vergleich der Features zwischen diesen Plänen.
+ms.openlocfilehash: fbfbe39931e6037b358bb76c124937904a408783
+ms.sourcegitcommit: 427dbb27426a12e8c5dba7d8b4cbaf2bedb3aaba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653037"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53222482"
 ---
 # <a name="exchange-online-protection-service-description"></a>Exchange Online Protection-Dienstbeschreibung
 
-Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Protection sowie einen Vergleich der Features in diesen Plänen bereitstellen.
+Abrufen von Informationen zu Features und Anforderungen für Exchange Online Protection. Enthalten ist eine Liste von Plänen, die Exchange Online Protection bereitstellen, sowie ein Vergleich der Features zwischen diesen Plänen.
 
-Microsoft Exchange Online Protection (EOP) ist ein cloudbasierter Dienst zum Filtern von E-Mails, mit dem Sie Ihre Organisation vor Spam und Schadsoftware schützen können. EOP kann die Verwaltung Ihrer Messagingumgebung und viele der beschwerlichen Aufgaben bei der Verwaltung lokaler Hardware und Software vereinfachen.
+Microsoft Exchange Online Der Schutz (EOP) ist ein cloudbasierter E-Mail-Filterdienst, der Ihre Organisation vor Spam und Schadsoftware schützt und Features zum Schutz Ihrer Organisation vor Verstößen gegen Nachrichtenrichtlinien enthält. EOP kann die Verwaltung Ihrer Messagingumgebung und viele der beschwerlichen Aufgaben bei der Verwaltung lokaler Hardware und Software vereinfachen.
 
-In der folgenden Liste werden die wichtigsten Möglichkeiten beschrieben, wie Sie EOP für den Messagingschutz verwenden können:
+In der folgenden Liste werden die primären Möglichkeiten beschrieben, wie Sie EOP für den Messagingschutz verwenden können:
 
 - **In einem eigenständigen Szenario:** EOP bietet cloudbasierten E-Mail-Schutz für Ihre lokale E-Mail-Umgebung (Exchange Server oder andere lokale SMTP-E-Mail-Lösungen).
 
-- **Im Rahmen von Microsoft Exchange Online**: Standardmäßig schützt EOP Exchange Online in der Cloud gehosteten Postfächer. Weitere Informationen zu Exchange Online finden Sie unter [Exchange Online Dienstbeschreibung](../exchange-online-service-description/exchange-online-service-description.md).
+- **Als Teil von Microsoft Exchange Online:** EOP schützt standardmäßig Exchange Online in der Cloud gehosteten Postfächer. Weitere Informationen zu Exchange Online finden Sie in der [Exchange Online Dienstbeschreibung.](../exchange-online-service-description/exchange-online-service-description.md)
 
-- **In einer Hybridbereitstellung:** EOP kann konfiguriert werden, um Ihre Messagingumgebung zu schützen und das E-Mail-Routing zu steuern, wenn Sie über eine Mischung aus lokalen und Cloudpostfächern verfügen.
+- **In einer Hybridbereitstellung:** EOP kann konfiguriert werden, um Ihre Messagingumgebung zu schützen und das E-Mail-Routing zu steuern, wenn Sie über eine Kombination aus lokalen und Cloudpostfächern verfügen.
 
 ## <a name="available-plans"></a>Verfügbare Pläne
 
-Ausführliche Planinformationen zu Abonnements, die Benutzern Exchange Online Protection, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
+In der folgenden Tabelle sind die Pläne aufgeführt, die Exchange Online Protection enthalten, damit Sie die Lösung auswählen können, die den Anforderungen Ihrer Organisation am besten entspricht. Ausführliche Informationen zum Plan finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
-Weitere Informationen zum Kauf von Exchange Online Protection finden Sie unter [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
-
-> [!NOTE]
-> EOP ersetzt Forefront Online Protection for Exchange (FOPE). Alle FOPE-Kunden wurden zu EOP übertragen.
-
-## <a name="whats-new-in-exchange-online-protection-eop"></a>Neues in Exchange Online Protection (EOP)
-
-Die [Microsoft 365 roadmap](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) ist eine gute Ressource, um Informationen zu bevorstehenden neuen Features zu finden.
-
-## <a name="exchange-online-protection-eop-plans"></a>Exchange Online Protection-Pläne (EOP)
-
-EOP ist über die folgenden Abonnementpläne verfügbar:<br><br>
-
-| Plan | Beschreibung |
-|:-----|:-----|
-|[EOP als eigenständige Lösung](https://products.office.com/exchange/exchange-email-security-spam-protection)|Ein separater cloudbasierter Dienst, der Ihre lokale E-Mail-Organisation schützt.|
-|[EOP-Funktionen in Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Der integrierte Schutz für Ihre Exchange Online in der Cloud gehosteten Postfächer.|
-|[Exchange Enterprise CAL mit Diensten](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Add-On-Lizenzen, die Sie für Ihre lokale Exchange erwerben, die EOP und andere cloudbasierte Features enthalten (weitere Informationen finden Sie im nächsten Abschnitt).|
+Ausführliche Informationen zu Abonnements, die Benutzern Exchange Online Protection ermöglichen, finden Sie in der [vollständigen Abonnementvergleichstabelle.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Exchange Enterprise CAL mit Diensten
 
-Microsoft Exchange Enterprise CAL with Services bietet die E-Mail-Schutzfunktionen von EOP und die folgenden zusätzlichen cloudbasierten Features:
+Microsoft Exchange Enterprise CAL mit Diensten bietet die E-Mail-Schutzfunktionen von EOP und die folgenden zusätzlichen cloudbasierten Features:
 
-- [Verhinderung von Datenverlusten (Data Loss Prevention, DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
+- [Verhinderung von Datenverlust](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
 - [Berichterstellung mit Webdiensten](reporting-and-message-trace.md#reporting-using-web-services)
 
-Weitere Informationen zum Exchange Enterprise cal with Services finden Sie [unter Exchange FaQs](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)zur Lizenzierung .
+Weitere Informationen zu Exchange Enterprise CAL mit Services-Lizenzierung finden Sie unter Exchange Häufig gestellte Fragen zur [Lizenzierung.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
 
-Wenn Sie über Exchange Enterprise Cal mit Services-Lizenzen verfügen und EOP bereitstellen möchten, befolgen Sie die Anweisungen unter [Einrichten Ihres EOP-Diensts.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Die Installationsschritte sind mit den Schritten für die Installation der eigenständigen EOP-Lösung identisch.
+Wenn Sie über Exchange Enterprise CAL mit Dienstlizenzen verfügen und EOP bereitstellen möchten, folgen Sie den Anweisungen unter [Einrichten Ihres EOP-Diensts.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Die Installationsschritte sind mit den Schritten für die Installation der eigenständigen EOP-Lösung identisch.
 
 > [!NOTE]
 > Neue Funktionen für Exchange Enterprise CAL mit Diensten werden gleichzeitig mit Exchange Online bereitgestellt, nicht mit der eigenständigen Installation von EOP. Beachten Sie, dass sich die Bereitstellungszeitpläne für EOP als eigenständige Installation und Exchange Online/Exchange Enterprise CAL mit Diensten geringfügig unterscheiden können.
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Anforderungen für Exchange Online Protection (EOP)
 
-EOP kann mit jedem SMTP-E-Mail-Übertragungs-Agent verwendet werden, z. B. Microsoft Exchange Server. Informationen zu den von EOP unterstützten Betriebssystemen, Webbrowsern und Sprachen finden Sie in den Abschnitten "Unterstützte Browser" und "Unterstützte Sprachen" im [Exchange Admin Center in Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
+EOP kann mit jedem SMTP-E-Mail-Übertragungs-Agent verwendet werden, z. B. Microsoft Exchange Server. Informationen zu den Betriebssystemen, Webbrowsern und Sprachen, die von EOP unterstützt werden, finden Sie in den Abschnitten "Unterstützte Browser" und "Unterstützte Sprachen" im [Exchange Admin Center in Exchange Online Protection.](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop)
 
 ## <a name="limits"></a>Einschränkungen
 
-Einschränkungen in EOP finden Sie [unter Exchange Online Protection Limits](exchange-online-protection-limits.md).
+Grenzwerte in EOP finden Sie unter [Exchange Online Protection Grenzwerten.](exchange-online-protection-limits.md)
 
-## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Verfügbarkeit von Features in EOP-Plänen (Exchange Online Protection)
+## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
-Jedes Funktion ist unten aufgeführt. Detailliertere Informationen zu EOP-Funktionen finden Sie unter den Links in der Tabelle. Wenn Exchange Online erwähnt wird, beziehen sich die Informationen üblicherweise auf die Office 365 Enterprise-Dienstfamilie.<br><br>
+In der folgenden Tabelle sind die wichtigsten Exchange Online Protection Features aufgeführt, die in allen Plänen verfügbar sind. Einige Vorbehalte gelten. Lesen Sie die Fußnoten für weitere Informationen. Diese Tabelle kann ohne vorherige Ankündigung geändert werden. Die aktuellste, vollständige Liste der Features finden Sie unter ["Leistungsstarke Tools zur Unterstützung Ihres Unternehmens".](https://products.office.com/business/compare-more-office-365-for-business-plans)
 
-| Feature | EOP als eigenständige Lösung | EOP-Funktionen in Exchange Online | Exchange Enterprise CAL mit Diensten|
+| Feature | Eigenständiger EOP | EOP in EE CAL mit Diensten | EOP-Funktionen in Exchange Online |
 |:-----|:-----|:-----|:-----|
-|[E-Mail-Empfänger](recipient-domain-and-company-management.md#mail-recipients)|Ja<sup>1</sup>|Ja<sup>1</sup>|Ja|
-|[Berechtigungen für Administratorrollengruppen](recipient-domain-and-company-management.md#admin-role-group-permissions)|Ja<sup>2</sup>|Ja|Ja|
-|[Domänenverwaltung](recipient-domain-and-company-management.md#domain-management)|Ja<sup>3</sup>|Ja<sup>3</sup>|Ja<sup>3</sup>|
-|[Untergeordnete Domänen abgleichen](recipient-domain-and-company-management.md#match-subdomains)|Ja|Ja|Nein|
-|[Verzeichnisbasierte Edge-Blockierung (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Ja|Ja|Ja|
-|[Nachrichtenflussregeln](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|Ja<sup>4</sup>|Ja<sup>4, 6</sup>|Ja|
-|[Überwachungsprotokollierung](messaging-policy-and-compliance-servicedesc.md#audit-logging)|Ja<sup>5</sup>|Ja|Ja|
-|[Verhinderung von Datenverlusten (Data Loss Prevention, DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|Nein|Ja|Ja<sup>6</sup>|
-|[Office 365-Nachrichtenverschlüsselung](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Ja<sup>12</sup>|Ja|Ja<sup>12</sup>|
-|[Antispamschutz](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (integriert)|Ja|Ja|Ja|
-|[Anpassung von Antispamrichtlinien](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|Ja<sup>7</sup>|Ja|Ja|
-|[Schutz vor Schadsoftware](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (integriert)|Ja<sup>13</sup>|Ja|Ja|
-|[Anpassung von Antischadsoftwarerichtlinien](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Ja|Ja|Ja|
-|[Quarantäne](anti-spam-and-anti-malware-protection-eop.md#quarantine): Verwaltung durch Administrator|Ja|Ja|Ja|
-|[Quarantäne](anti-spam-and-anti-malware-protection-eop.md#quarantine): Selbstverwaltung durch Endbenutzer|Ja|Ja|Ja|
-|[Übermittlung](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|Nein|Ja|Nein|
-|[Melden von Nachrichten-Add-Ins für Outlook](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Ja|Ja|Ja|
-|[Junk-E-Mail-Outlook im Web](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Ja|Ja|Ja|
-|[Weiterleiten von E-Mails zwischen Microsoft und Ihren eigenen E-Mail-Servern](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Ja|Ja|Ja|
-|[Sichere Nachrichten mit einem vertrauenswürdigen Partner](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Ja|Ja|Ja|
-|[Übernehmen der IP-Adresse eines Partners in die Liste für sichere Absender (Safe List)](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Ja|Ja|Ja|
-|[Bedingtes E-Mail-Routing](mail-flow-eop.md#conditional-mail-routing)|Ja|Ja|Ja|
-|[Hybrides E-Mail-Routing](mail-flow-eop.md#hybrid-mail-routing)|Ja|Ja|Ja|
-|[Microsoft 365 Admin Center-Berichte](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Ja<sup>9</sup>|Ja<sup>10</sup>|Ja <sup>9, 10</sup>|
-|[Berichterstellung mit Webdiensten](reporting-and-message-trace.md#reporting-using-web-services)|Nein|Ja|Ja|
-|[Nachrichtenablaufverfolgung](reporting-and-message-trace.md#message-trace)|Ja<sup>15</sup>|Ja<sup>15</sup>|Ja|
-|[Zugriff auf das Microsoft 365 Admin Center](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|Ja|Ja|Ja|
-|[Zugriff auf das Exchange Admin Center](administration-and-management-eop.md#access-to-the-exchange-admin-center (EAC))|Ja|Ja|Ja|
-|[Remote Windows PowerShell access](administration-and-management-eop.md#remote-windows-powershell-access)|Ja|Ja|Ja|
+|**Schutz**||||
+|Antischadsoftwarerichtlinien (integriert und benutzerdefinierte Richtlinien)|Ja|Ja|Ja|
+|Eingehende Antispamrichtlinien (integriert und benutzerdefinierte)|Ja|Ja|Ja|
+|Ausgehende Antispamrichtlinien (integriert und benutzerdefinierte)|Ja|Ja|Ja|
+|Verbindungsfilterung (IP-Zulassungsliste und LISTE blockierter IP-Adressen)|Ja|Ja|Ja|
+|Antiphishingrichtlinien (integriert und benutzerdefinierte Richtlinien)|Ja|Ja|Ja|
+|Antispoofingschutz (integriert und benutzerdefinierte)|Ja|Ja|Ja|
+|Zero-Hour Auto Purge (ZAP) für zugestellte Schadsoftware, Spam und Phishing-Nachrichten<sup>10</sup>|Nein|Nein|Ja|
+|Voreingestellte Sicherheitsrichtlinien|Ja|Ja|Ja|
+|Konfigurationsanalyse für Schutzrichtlinien|Ja|Ja|Ja|
+|Mandanten-Zulassungs-/Sperrliste|Ja|Ja|Ja|
+|Blockieren von Listen für Nachrichtensender|Ja|Ja|Ja|
+|Zulassungslisten für Nachrichtensender|Ja|Ja|Ja|
+|Blockieren von Edges|Ja|Ja|Ja|
+|Verzeichnisbasierte Edgeblockierung (Directory Based Edge Blocking, DBEB) für nicht vorhandene Empfänger|Ja|Ja|Ja|
+|**Quarantäne und Übermittlungen**||||
+|Administratorübermittlung<sup>10</sup>|Nein|Nein|Ja|
+|Benutzerübermittlung (benutzerdefiniertes Postfach)<sup>10</sup>|Nein|Nein|Ja|
+|Administratorquarantäne|Ja|Ja|Ja|
+|Quarantäne für Endbenutzer|Ja|Ja|Ja|
+|Add-In "Nachricht melden" und "Phishing melden" für Outlook|Ja|Ja|Ja|
+|**Nachrichtenfluss**||||
+|Nachrichtenflussregeln (Transportregeln)<sup>4</sup>|Ja|Ja<sup>6</sup>|Ja|
+|Akzeptierte Domänen<sup>3</sup> |Ja|Ja|Ja|
+|Connectors|Ja|Ja|Ja|
+|Erweiterte Filterung für Connectors (Auflistung überspringen)|Ja|Ja|Ja|
+|**Überwachen**||||
+|Message trace|Ja|Ja|Ja|
+|E-Mail- und Sicherheitsberichte im Microsoft 365 Admin Center|Ja<sup>7</sup>|Ja<sup>7,8</sup>|Ja<sup>8</sup>|
+|Sicherheitsberichte im Microsoft 365 Security Center|Ja<sup>7</sup>|Ja<sup>7,8</sup>|Ja<sup>8</sup>|
+|E-Mail-Berichte im EAC|Ja<sup>7</sup>|Ja<sup>7,8</sup>|Ja<sup>8</sup>|
+|Administratorüberwachungsprotokollierung<sup>5</sup>|Ja|Ja|Ja|
+|**Users**||||
+|E-Mail-Benutzer und E-Mail-Kontakte<sup>1</sup>|Ja|Ja|Ja|
+|Postfächer|Nein|Nein|Ja<sup>1a</sup>|
+|Rollenbasierte Zugriffssteuerung (RBAC)<sup>2</sup>|Ja|Ja|Ja|
+|**Compliance**||||
+|Verhinderung von Datenverlust für E-Mails|Nein|Ja|Ja|
+|Office 365-Nachrichtenverschlüsselung|No<sup>9</sup>|No<sup>9</sup>|Ja|
+|**Verwaltung**||||
+|Microsoft 365 Admin Center|Ja|Ja|Ja|
+|Exchange Admin-Center|Ja|Ja|Ja|
+|Microsoft 365 Security Center|Ja|Ja|Ja|
+|Eigenständige Exchange Online Protection PowerShell|Ja|Nein|Nein|
+|Exchange Online PowerShell|Nein|Ja|Ja|
 
-<sup>1</sup> E-Mail-Benutzer werden als „Postfächer" definiert und können zusammen mit externen E-Mail-Kontakten direkt in der Exchange-Verwaltungskonsole hinzugefügt, entfernt und anderweitig verwaltet werden. <br/>
-<sup>2</sup> Keine RBAC-Anpassung. Nur Administratorrollen. <br/>
-<sup>3</sup> In der Exchange-Verwaltungskonsole können verwaltete Domänen angezeigt und Domänentypen bearbeitet werden. Alle anderen Domänenverwaltungen müssen im Microsoft 365 durchgeführt werden.<br/>
-<sup>4</sup> Nachrichtenflussregeln (auch als Transportregeln bezeichnet) in EOP werden [unter Nachrichtenflussregeln (Transportregeln) in Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). Die verfügbaren Nachrichtenflussregelbedingungen, Ausnahmen und Aktionen unterscheiden sich geringfügig zwischen EOP und Exchange Online. Diese Unterschiede werden in Nachrichtenflussregelbedingungen und Ausnahmen [(Prädikate) in](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) Exchange Online und [Nachrichtenflussregelaktionen in](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)Exchange Online .<br/>
-<sup>5</sup> EOP-Überwachungsberichte sind eine Teilmenge der Exchange Online-Überwachungsberichte und enthalten keine Informationen zu Postfächern. <br/>
-<sup>6</sup> DLP-Richtlinientipps sind für Kunden von Exchange Enterprise CAL mit Diensten nicht verfügbar.  <br/>
-<sup>7</sup> Die standardmäßige Inhaltsfilteraktion besteht darin, Spamnachrichten in die Junk-E-Mail-Ordner der Empfänger zu verschieben. Damit dies mit lokalen Exchange funktioniert, müssen Sie auch zwei Transportregeln in Ihrer lokalen Exchange-Organisation konfigurieren, um von EOP hinzugefügte Spamheader zu erkennen. Weitere Informationen finden Sie unter [Configure standalone EOP to deliver spam to the Junk Email folder in hybrid environments](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
-<sup>9</sup> Die EOP-Berichte sind eine Teilmenge der Exchange Online-Berichte und enthalten keine Informationen zu Postfächern.<br/>
-<sup>10</sup> Enthält DLP-Berichte. <br/>
-<sup>12</sup> Wird für lokale Kunden unterstützt, die Azure Information Protection erwerben und Exchange Online Protection zum Routen von E-Mails über Exchange Online verwenden. <br/>
-<sup>13</sup> Scannt ein- und ausgehende Nachrichten, aber keine internen Nachrichten, die ein Absender in Ihrer Organisation an einen Empfänger in Ihrer Organisation gesendet hat. <br/>
-<sup>15</sup> Hybridsetup steht nicht über den Hybrid-Assistenten zur Verfügung, Sie können die Einrichtung jedoch manuell vornehmen, wenn Sie über Exchange SP1 verfügen.
+<sup>1</sup> Sie erstellen, entfernen und bearbeiten E-Mail-Benutzer und E-Mail-Kontakte im EAC. <br/>
+<sup>1a</sup> Sie erstellen und entfernen Postfächer im Microsoft 365 Admin Center. Sie können vorhandene Postfächer im EAC bearbeiten. <br/>
+<sup>2</sup> In eigenständigen EOP- und EE CAL mit Diensten gibt es keine Endbenutzerrollen oder Rollenzuweisungsrichtlinien.<br/>
+<sup>3</sup> Sie fügen Domänen im Microsoft 365 Admin Center hinzu und entfernen sie.  Im EAC konfigurieren Sie Domänen als autoritativ oder nicht autoritativ.<br/>
+<sup>4</sup> Einige Regelbedingungen, Ausnahmen und Aktionen sind in der eigenständigen EOP oder der EOP in EE CAL mit Diensten nicht verfügbar. Diese Unterschiede werden in Exchange Online Inhalt der Nachrichtenflussregel deutlich hervorgehoben. <br/>
+<sup>5</sup> In eigenständiger EOP und EE CAL mit Diensten:
+
+- Postfachüberwachungsberichte sind nicht verfügbar.
+- Der Administratorrollengruppenbericht und der Administratorüberwachungsprotokollbericht sind die einzigen Administratorüberwachungsberichte im EAC.
+- Überwachungsprotokollexport nur über PowerShell verfügbar. <br/>
+
+<sup>6</sup> DLP-Richtlinientipps sind in EE CAL mit Diensten nicht verfügbar. <br/>
+<sup>7</sup> Berichte in eigenständiger EOP und EE CAL mit Diensten sind eine Teilmenge der Exchange Online Berichte (Berichte, die sich auf Postfächer beziehen).<br/>
+<sup>8</sup> Umfasst DLP-Berichte. <br/>
+<sup>9</sup> Sie können Azure Information Protection als Add-On-Abonnement erwerben und OME verwenden, wenn Sie Ihre lokale E-Mail-Umgebung so konfigurieren, dass E-Mails über EOP an das und aus dem Internet weitergeleitet werden. <br/>
+<sup>10</sup> Dieses Feature erfordert Exchange Online Postfächer. <br/>
+
+## <a name="learn-more"></a>Weitere Informationen
+
+Technische Informationen zu Exchange Online Protection finden Sie in den folgenden Ressourcen:
+
+Die [Microsoft 365 Roadmap](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) ist eine gute Ressource, um Informationen zu bevorstehenden neuen Features zu finden.
+
+### <a name="licensing-terms"></a>Lizenzierungsbedingungen
+
+Lizenzierungsbestimmungen für Produkte und Dienste, die Sie über kommerzielle Volumenlizenzierungsprogramme von Microsoft erworben haben, finden Sie auf der [Website für Produktbestimmungen](https://www.microsoft.com/licensing/terms/).
+
+### <a name="messaging"></a>Nachrichten
+
+Um den Überblick über bevorstehende Änderungen zu behalten, einschließlich neuer und geänderter Funktionen, geplanter Wartungsarbeiten oder anderer wichtiger Ankündigungen, besuchen Sie das Nachrichtencenter. Weitere Informationen finden Sie unter [Nachrichtencenter](/microsoft-365/admin/manage/message-center).
+
+### <a name="accessibility"></a>Barrierefreiheit
+
+Microsoft bleibt der Sicherheit Ihrer Daten und der [Barrierefreiheit](https://www.microsoft.com/trust-center/compliance/accessibility) unserer Dienste verpflichtet. Weitere Informationen finden Sie im [Microsoft Trust Center](https://www.microsoft.com/trust-center) und dem [Office-Barrierefreiheitscenter](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
