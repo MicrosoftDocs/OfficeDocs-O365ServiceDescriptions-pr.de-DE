@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project Online ist eine flexible Onlinelösung für das Projektportfoliomanagement (PPM) und die tägliche Arbeit. Über Office 365 bereitgestellt, bietet Project Online leistungsstarke Projektverwaltungsfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolioinvestitionen – von fast überall auf fast jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+description: Project Online ist eine flexible Onlinelösung für das Projektportfoliomanagement (PPM) und die tägliche Arbeit. Über Office 365 bereitgestellt, bietet Project Online leistungsstarke Project Management-Funktionen zum Planen, Priorisieren und Verwalten von Projekten und Projektportfolioinvestitionen – von fast überall auf fast jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140827"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290855"
 ---
 # <a name="microsoft-project-service-description"></a>Microsoft Project – Dienstbeschreibung
 
@@ -43,7 +43,7 @@ Project für das Web ist über drei Abonnements verfügbar: Project Plan 1, Proj
 
 ### <a name="project-online"></a>Project Online
  
-Project Online ist eine flexible Onlinelösung für Project Portfoliomanagement (PPM) und die tägliche Arbeit. Project Online bietet leistungsstarke Projektverwaltungsfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolioinvestitionen &mdash; von fast überall auf fast jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
+Project Online ist eine flexible Onlinelösung für Project Portfoliomanagement (PPM) und tägliche Arbeit. Project Online bietet leistungsstarke Projektverwaltungsfunktionen für die Planung, Priorisierung und Verwaltung von Projekten und Projektportfolioinvestitionen &mdash; von fast überall auf fast jedem Gerät. Project Online kann von Administratoren, Portfoliomanagern, Portfoliobetrachtern, Projektmanagern, Ressourcenmanagern, Teamleitern und Teammitgliedern verwendet werden.
 
 Project Online basiert auf der SharePoint Plattform und speichert Daten im SharePoint Datenspeicher.
 
@@ -58,7 +58,7 @@ Teammitglieder mit Project Online Essentials oder Project Plan 1 Abonnements kö
 - Übermitteln von Arbeitszeittabellen
 - Freigeben von Dokumenten und Zusammenarbeit mit Microsoft Teams oder Skype for Business Benutzern
 
-Project Online Essentials enthält keine Project für das Web. Project Plan 1 umfasst sowohl Project für das Web als auch für Project Online Essentials.
+Project Online Essentials enthält keine Project für das Web. Project Plan 1 enthält sowohl Project für das Web als auch Project Online Essentials.
 
 ### <a name="project-online-desktop-client"></a>Project Online-Desktopclient
 
@@ -66,7 +66,7 @@ Microsoft Project Online Desktopclient ist ein Projektverwaltungsprogramm mit au
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Gemeinsames Verwenden von Project für das Web und Project Online
 
-Obwohl Project für das Web und Project Online separate Anwendungen sind, können Sie sie nebeneinander verwenden. Sie können alle Ihre Projekte aus beiden Anwendungen in Project Home anzeigen. Sie können die Project Roadmap-Funktion verwenden, um Roadmaps zu erstellen, die Projekte aus beiden Anwendungen enthalten. Und Sie können Power BI und die Project für das Web Power BI Content Pack verwenden, um Einblicke in Projekte und Ressourcen in den beiden Anwendungen zu erhalten. <sup>3</sup>
+Obwohl Project für das Web und Project Online separate Anwendungen sind, können Sie sie nebeneinander verwenden. Sie können alle Ihre Projekte aus beiden Anwendungen in Project Home anzeigen. Sie können die Project Roadmap-Funktion verwenden, um Roadmaps zu erstellen, die Projekte aus beiden Anwendungen enthalten. Und Sie können Power BI und die Project für das Web Power BI Inhaltspaket verwenden, um Einblicke in Projekte und Ressourcen in den beiden Anwendungen zu erhalten. <sup>3</sup>
 
 Dieses Diagramm zeigt, wie die Anwendungen nebeneinander zusammenarbeiten können.
 
@@ -92,7 +92,7 @@ In der obigen Tabelle gibt die Anzahl der Prüfungen (**x**) die allgemeine Eben
 
 Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Project für den Webdatenspeicher. Alle diese Features sind in allen Microsoft Project Abonnements verfügbar: Project Plan 1, Project Plan 3 und Project Plan 5.<br><br>
 
-| Feature | Beschreibung | Office 365 Lizenzen | Plan 1 | Plan 3 | Plan 5 |
+| Feature | Beschreibung | Office 365-Lizenzen | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
 |**Project-, Aufgaben- und Zeitverwaltung**||||||
 |Boardansicht | Verfolgen Sie Projektaufgaben visuell für eine verbesserte Workflow- und Statusüberwachung mithilfe von sofort einsatzbereiten und benutzerdefinierten Taskboards.| Nur Ansicht | Ja | Ja| Ja|
@@ -108,6 +108,10 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |Microsoft Teams Integration | Zusammenarbeit an Projekten in Microsoft Teams. <sup>1</sup> | Ja | Ja | Ja | Ja |
 |**Ressourcen- und Programmverwaltung** ||||||
 |Project Teameinrichtung | Verwalten Sie ein Projektteam, indem Sie Mitglieder hinzufügen und entfernen und den Arbeitskalender festlegen. | Nein | Ja | Ja | Ja |
+|Erstellen von Ressourcenanforderungen<sup>12</sup> |  | Nur anzeigen | Nur anzeigen | Ja | Ja |
+|Annehmen eines<sup>Buchungsangebots 12</sup> |  | Nur anzeigen | Nur anzeigen | Ja | Ja |
+|Erstellen und Aktualisieren von Buchungen zur Erfüllung der Ressourcenanforderungen<sup>12</sup> |  | Nur anzeigen | Nur anzeigen | Nur anzeigen | Ja |
+|Verwalten von Fähigkeiten/Fähigkeiten auf Ihren Ressourcen |  | Nur anzeigen | Nur anzeigen | Ja | Ja |
 |Roadmaps | Erstellen Sie visuelle, interaktive Roadmaps für verschiedene Projekte aus Microsoft Project Online, Microsoft Project für das Web und Azure Boards Projekten. <sup>2</sup> Mit Project Plan 1 erhalten Sie schreibgeschützten Zugriff auf Roadmaps. Mit Project Plan 3 oder Project Plan 5 können Sie auch Roadmaps erstellen. | Nur anzeigen | Nur anzeigen | Ja | Ja |
 |**Berichterstellung**<sup>3</sup> ||||||
 |Lesen von Berichten aus *Project für die Webdaten* | Sehen Sie sich sofort einsatzbereite oder benutzerdefinierte Berichte und Dashboards an, um Projekt-, Programm-, Portfolio- und Ressourcendaten zu verstehen. | Ja | Ja | Ja | Ja |
@@ -117,7 +121,7 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |Grafische Indikatoren | Grundlegendes zu Aufgabenstatus, Aufgaben und mehr mit grafischen Indikatoren.| Nur Ansicht | Ja | Ja | Ja |
 |**Anpassung und Integration**||||||
 |Verwenden der sofort einsatzbereiten Project Anwendung | Verwenden Sie die sofort einsatzbereite Project Anwendung, um ein Projekt anzuzeigen, ein neues Projekt zu erstellen, einem Projekt neue Daten hinzuzufügen oder vorhandene Projektdaten zu aktualisieren. | Nur anzeigen | Ja | Ja | Ja |
-|Anpassen von Ansichten und <sup>Formularen 4</sup> | Passen Sie nur Ansichten und Formulare in der sofort einsatzbereiten Project Anwendung an. | Nur anzeigen | Ja | Ja | Ja |
+|Anpassen von Ansichten und <sup>Formularen 4</sup> | Passen Sie nur Ansichten und Formulare in der vordefinierten Project Anwendung an. | Nur anzeigen | Ja | Ja | Ja |
 |Verwenden von benutzerdefinierten Spalten | Anzeigen, Hinzufügen, Aktualisieren oder Löschen von Daten in einer Spalte, die einer Tabelle hinzugefügt wurde. | Nur anzeigen | Ja | Ja | Ja |
 |Verwenden von benutzerdefinierten Tabellen <sup>5</sup> | Erstellen und definieren Sie benutzerdefinierte Tabellen, um zusätzliche Daten zu speichern, die Sie für Ihre Projekte, Portfolio usw. benötigen. | Nur anzeigen | Ja | Ja | Ja |
 |**Power Automate Workflows und Geschäftsprozessabläufe** <sup>7</sup> ||||||
@@ -127,7 +131,7 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |**Sicherheit und Benutzerverwaltung**||||||
 |Office Moderne Gruppen | Erstellen Sie ein Projektteam, um mit einer Sammlung von Ressourcen zusammenzuarbeiten und diese einfach einzurichten, die Teammitglieder freigeben können. | Ja | Ja | Ja | Ja |
 |**Drittanbieter-Apps**||||||
-|Verbinden Project *für das Web* mit Drittanbieter-Apps <sup>4</sup> | Verwenden Sie eine benutzerdefinierte oder Drittanbieteranwendung, um Project Daten in einer systemeigenen Project Tabelle anzuzeigen, zu erstellen, zu aktualisieren oder zu löschen. | Nur<sup>11</sup> anzeigen | Ja | Ja | Ja |
+|Verbinden für *Project für das Web* mit Drittanbieter-Apps <sup>4</sup> | Verwenden Sie eine benutzerdefinierte oder Drittanbieteranwendung, um Project Daten in einer systemeigenen Project Tabelle anzuzeigen, zu erstellen, zu aktualisieren oder zu löschen. | Nur<sup>11</sup> anzeigen | Ja | Ja | Ja |
 
 ### <a name="project-online-features"></a>Project Online-Features
 
@@ -142,17 +146,17 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |Kritischer Pfad | Verfolgen Sie die Aufgaben, die den längsten Pfad durch das Projekt darstellen, visuell mithilfe der Project Web App.| Ja | Ja |
 |Lieferumfangverwaltung | Nachverfolgen und Verwalten von Lieferumfangn mithilfe von Start- und Endterminen und automatisierter Planung.| Ja | Ja |
 |Abhängigkeiten | Festlegen und visuelles Nachverfolgen von Abhängigkeiten zwischen Aufgaben.| Ja | Ja |
-|Gantt-Ansicht | Visuelles Nachverfolgen und Verstehen von Projektdaten, Abhängigkeiten und Zuordnungen in einem hierarchischen Gantt-Diagramm mithilfe der Project Web App.| Ja | Ja |
+|Gantt-Ansicht | Visuelles Nachverfolgen und Verstehen von Projektdaten, Abhängigkeiten und Zuweisungen in einem hierarchischen Gantt-Diagramm mithilfe der Project Web App.| Ja | Ja |
 |Rasteransicht | Planen und Verwalten von Projekten mithilfe einer hierarchischen Rasteransicht von Aufgaben mithilfe der Project Web App.| Ja | Ja |
 |Problem- und Risikomanagement | Identifizieren und Nachverfolgen von Problemen und Risiken auf Projekt- und Aufgabenebene.| Ja | Ja |
 |Hauptprojekte | Gruppieren Sie kleinere verwandte Projekte unter einem einzigen Hauptprojekt mithilfe der Project Web App. | Ja | Ja |
 |Benachrichtigungen | Bleiben Sie über Aufgabenzuweisungen, Status und wichtige Projektereignisse mit Outlook und Teams Benachrichtigungen auf dem Laufenden. <sup>1</sup> | Ja | Ja |
 |Project Startseite | Erhalten Sie einen Überblick über Projekte, an denen Sie kürzlich gearbeitet haben, sowie über wichtige Projekte, die Sie genau überwachen müssen.| Ja | Ja |
-|Versionsverwaltung für Project | Vergleichen Sie verschiedene Versionen eines Projekts mit einem Bericht, der anzeigt, was sich zwischen den Versionen geändert hat. | Ja | Ja |
+|versionsverwaltung für Project | Vergleichen Sie verschiedene Versionen eines Projekts mit einem Bericht, der anzeigt, was sich zwischen den Versionen geändert hat. | Ja | Ja |
 |Sammelvorgänge | Planen, Verwalten und Nachverfolgen von Lieferumfangn und Phasen mithilfe von Sammelaufgaben in der Project Web App. | Ja | Ja |
-|Aufgabenplanung | Verwenden Sie Anfangs- und Endtermine, Aufwand, Arbeit, Lead- und Verzögerungszeiten und Abhängigkeiten von Aufgaben, um mithilfe der Project Web App einen genauen Zeitplan für Projektdaten zu erhalten. | Ja | Ja |
+|Aufgabenplanung | Verwenden Sie Anfangs- und Enddaten, Aufwand, Arbeit, Lead- und Verzögerungszeiten von Aufgaben sowie Abhängigkeiten, um mithilfe der Project Web App einen genauen Zeitplan für Projektdaten zu erhalten. | Ja | Ja |
 |Aufgabenupdates | Erfassen Sie Zeit und Status mit Kommentaren zu Projektaufgaben, nicht projektbezogenen und arbeitsfreien Zeiten. | Ja | Ja |
-|Zeitpläne | Visuelles Nachverfolgen und Verstehen von Projektdaten, Abhängigkeiten und Zuweisungen in einer Zeitachsenansicht mithilfe der Project Web App. | Ja | Ja |
+|Zeitpläne | Visuelles Nachverfolgen und Verstehen von Projektdaten, Abhängigkeiten und Zuordnungen in einer Zeitachsenansicht mithilfe der Project Web App. | Ja | Ja |
 |Arbeitszeittabellen | Teammitglieder können Zeit und Status für Vorgänge, Nicht-Projektarbeit und arbeitsfreie Zeit eingeben. | Ja | Ja |
 |Arbeitszeittabellengenehmigungen | Teammitglieder können Arbeitszeittabellen zur Genehmigung übermitteln. Ressourcenmanager und Vorgesetzte können übermittelte Arbeitszeittabellen überprüfen, genehmigen und ablehnen. | Ja | Ja |
 |Nicht-Arbeitszeiteinrichtung | Fügen Sie dem Projektzeitplan Urlaube, Feiertage, gesundheitsbedingte Abwesenheiten und andere arbeitsfreie Zeiten hinzu. | Nein | Ja |
@@ -160,7 +164,7 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |Anlagen | Fügen Sie Dokumente, Bilder und andere Dateien auf Team-, Projekt- oder Aufgabenebene an. Verwalten Sie diese Anlagen in einer zentralen Bibliothek auf Team- oder Projektebene. | Ja | Ja |
 |Externe Teammitglieder |Arbeiten Sie mit Personen von außerhalb Ihrer Organisation zusammen, indem Sie ihnen Zugriff gewähren, um Ihre Projekte, Aufgaben und Dokumente anzuzeigen und mit ihnen zu interagieren. <sup>6</sup> | Ja | Ja |
 |Projektwebsites | Erstellen und Anpassen eines Hubs für die Zusammenarbeit und Dokumente für ein Projekt. | Ja | Ja |
-|Microsoft Teams Integration | Zusammenarbeit an Projekten in Microsoft Teams. <sup>1</sup> | Ja | Ja |
+|integration von Microsoft Teams | Zusammenarbeit an Projekten in Microsoft Teams. <sup>1</sup> | Ja | Ja |
 |**Bedarfsmanagement** ||||
 |Project Anforderungsgenehmigungsworkflow einrichten | Erstellen Sie die Workflows, die Sie benötigen, um eingehende Anforderungen zu bewerten, zu priorisieren und zu genehmigen. | Nein | Ja |
 |Project Erstellen von Anforderungsformularen | Erfassen Sie wichtige Daten über eingehende Anforderungen, um neue Arbeit zu bewerten und zu priorisieren. | Nein | Ja |
@@ -170,7 +174,7 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |Project Teameinrichtung | Verwalten Sie ein Projektteam, indem Sie Mitglieder hinzufügen und entfernen, Zuweisungsebenen festlegen und externe Mitglieder hinzufügen. | Ja | Ja |
 |Ressourcenkapazitätsansichten | Nachverfolgen und Verwalten der Ressourcenkapazität auf Projekt-, Team- und Organisationsebene. | Ja | Ja |
 |Ressourcenkosten | Nachverfolgen und Verwalten der Ressourcenkosten Ihres Projekts. | Ja | Ja |
-|Ressourcenaktivierungen (Buchungen) | Project Vorgesetzte können Anforderungen für Ressourcen nach Rolle, Fähigkeiten oder Name übermitteln. Ressourcenmanager können Anforderungen überprüfen und die besten verfügbaren Ressourcen zuweisen. |Ja<sup>8</sup> | Ja<sup>9</sup> |
+|Ressourcenaktivierungen (Buchungen) | Project Vorgesetzte können Ressourcenanforderungen nach Rolle, Fähigkeiten oder Name übermitteln. Ressourcenmanager können Anforderungen überprüfen und die besten verfügbaren Ressourcen zuweisen. |Ja<sup>8</sup> | Ja<sup>9</sup> |
 |Ressourcenkapazitätsplanung | Nachverfolgen und Verwalten der Ressourcenkapazität auf Projekt-, Team- und Organisationsebene. | Nein | Ja |
 |Roadmaps | Erstellen Sie visuelle, interaktive Roadmaps für verschiedene Projekte aus Microsoft Project Online, Microsoft Project für das Web und Azure Boards Projekten. <sup>2</sup> | Ja | Ja |
 |Portfolioanalyse und Priorisierung | Identifizieren, auswählen und bereitstellen Sie Projektportfolios, die am besten mit der Geschäftsstrategie Ihrer Organisation übereinstimmen, und maximieren Sie Ihre Rendite (Return on Investment, ROI). | Nein | Ja |
@@ -181,13 +185,13 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 |Benutzerdefinierte Berichte | Verstehen Sie die für Ihre Organisation wichtigen Daten, indem Sie benutzerdefinierte Berichte erstellen, die auf out-of-box-Berichten oder von Grund auf neu erstellt werden. | Ja | Ja |
 |Dashboards und Portale | Erstellen Sie benutzerdefinierte Dashboards und Portale, um bestimmte organisatorische Anforderungen zu erfüllen. | Ja | Ja |
 |**Anpassung und Integration**||||
-|Benutzerdefiniertes Branding | Passen Sie Ihre Project Bereitstellung mit Ihrer eigenen Marke, Ihrem Logo und Ihren eigenen Farben an. | Nein | Ja |
+|Benutzerdefiniertes Branding | Passen Sie Ihre Project Bereitstellung mit Ihrer eigenen Marke, Ihrem Logo und Ihren Farben an. | Nein | Ja |
 |Custom fields | Fügen Sie benutzerdefinierte Felder auf Projekt-, Vorgangs- und Ressourcenebene hinzu, um Daten nachzuverfolgen, die für Ihre Organisation und Ihre Projekte wichtig sind. | Ja | Ja |
 |Formeln | Berechnen und erfassen Sie wichtige Daten mithilfe von Formeln für Vorgänge und Projekte. | Ja | Ja |
 |PowerApps | Erstellen und Nutzen von Lösungen für Web und Mobile (über OData) mit PowerApps. <sup>4</sup> | Ja | Ja |
 |Workflows | Automatisieren und Integrieren von Geschäftsprozessen (über OData) mit Power Automate. <sup>7</sup> | Ja | Ja |
 |Microsoft 365-Integration | Zusammenarbeiten, Verwalten von Dokumenten und vieles mehr mit vertrauten Microsoft-Tools und -Anwendungen. <sup>1</sup> | Ja | Ja |
-|Microsoft Planner-Integration | Verbinden Project Aufgaben zu einem Planner-Plan und nachverfolgen Detaillierte Arbeit in Planner. <sup>1</sup> | Ja | Ja |
+|Microsoft Planner-Integration | Verbinden Project Aufgaben an einen Planner-Plan und verfolgen Detaillierte Arbeit in Planner. <sup>1</sup> | Ja | Ja |
 |**Sicherheits-, Benutzer- und Dienstverwaltung**||||
 |Active Directory-Integration | Erstellen Sie Teams aus einem beliebigen Mitglied des Active Directory Ihrer Organisation. <sup>10</sup> | Ja | Ja |
 |Benutzerverwaltung | Verwalten von Benutzer- und Gruppenrollen und -berechtigungen auf Projekt-, Team- und Organisationsebene. | Nein | Ja |
@@ -195,24 +199,25 @@ Die in diesem Abschnitt aufgeführten Features interagieren nur mit Daten im Pro
 
 #### <a name="notes"></a>Anmerkungen
 
-<sup>1</sup> Erfordert ein Office oder Microsoft 365 kommerzielles Abonnement.</br>
-<sup>2</sup> Azure Boards separat erworben.</br>
-<sup>3</sup> Die Berichterstellung für Project für das Web und Project Online mit Power BI erfordert eine Power BI Lizenz.</br>
-<sup>4</sup> Für das Erstellen und Verwenden separater Power Apps über die sofort einsatzbereite Project Anwendung, die auf Project für das Web oder Project Online Kundendaten zugreift, ist ein separates Power Apps Abonnement erforderlich.</br>
-<sup>5</sup> Beschränkt auf 5 benutzerdefinierte Tabellen.</br>
-<sup>6</sup> Project Online Lizenzierung für externe Benutzer folgt derselben Richtlinie wie für interne Benutzer. Für jede Interaktion auf einer Project Online Website ist ein Project Plan 3 oder Project Plan 5 Abonnement erforderlich.</br>
-<sup>7</sup> Power Automate Verwendung in Project ist auf den Kontext der Project Anwendung beschränkt. Dies bedeutet, dass in Project enthaltene Flussberechtigungen für Trigger und Aktionen folgende Möglichkeiten haben:
+<sup>1</sup> Erfordert ein Office oder Microsoft 365 kommerzielles Abonnement.<br/>
+<sup>2</sup> Azure Boards separat erworben.<br/>
+<sup>3</sup> Die Berichterstellung für Project für das Web und Project Online mit Power BI erfordert eine Power BI Lizenz.<br/>
+<sup>4</sup> Das Erstellen und Verwenden separater Power Apps über die sofort einsatzbereite Project Anwendung hinaus, die auf Project für das Web oder Project Online Kundendaten zugreift, erfordert ein separates Power Apps Abonnement.<br/>
+<sup>5</sup> Beschränkt auf 5 benutzerdefinierte Tabellen.<br/>
+<sup>6</sup> Project Online Lizenzierung für externe Benutzer folgt derselben Richtlinie wie für interne Benutzer. Für jede Interaktion auf einer Project Online Website ist ein Project Plan 3 oder Project Plan 5 Abonnement erforderlich.<br/>
+<sup>7</sup> Power Automate Verwendung in Project ist auf den Kontext der Project Anwendung beschränkt. Dies bedeutet, dass in Project enthaltene Flussberechtigungen für Trigger und Aktionen folgende Aktionen ausführen können:
 
 - Verbinden zu einer beliebigen Datenquelle innerhalb der Nutzungsrechte der Project Anwendung:
   - Datenquellen, die über Standardconnectors verfügbar sind
   - Project von Daten über den Microsoft Dataverse-Connector
 - Direkt innerhalb der Project Anwendung ausgelöst werden (über integrierten Trigger/Aktion)
 
-Wenn der Fluss isoliert ist und nichts mit der Project Anwendung zu tun hat, muss eine Plattformlizenz erworben werden.</br>
-<sup>8</sup> Benutzer mit einem Project Plan 3 oder Project Plan 5 Abonnement können Ressourcen-Engagement-Anforderungen senden. Sie können Ressourceneinsatzanforderungen nicht überprüfen, erfüllen oder genehmigen.</br>
-<sup>9</sup> Benutzer mit einem Project Plan 5 Abonnement können Ressourcen-Engagement-Anforderungen überprüfen, erfüllen und genehmigen.</br>
-<sup>10</sup> Active Directory erfordert ein separates Abonnement. </br>
-<sup>11</sup> Nur Berechtigungen anzeigen werden nur innerhalb einer Power App gewährt. </br>
+Wenn der Fluss isoliert ist und nichts mit der Project Anwendung zu tun hat, muss eine Plattformlizenz erworben werden.<br/>
+<sup>8</sup> Benutzer mit einem Project Plan 3- oder Project Plan 5-Abonnement können Ressourcen-Engagement-Anforderungen senden. Sie können Ressourceneinsatzanforderungen nicht überprüfen, erfüllen oder genehmigen.<br/>
+<sup>9</sup> Benutzer mit einem Project Plan 5 Abonnement können Ressourcen-Engagement-Anforderungen überprüfen, erfüllen und genehmigen.<br/>
+<sup>10</sup> Active Directory erfordert ein separates Abonnement. <br/>
+<sup>11</sup> Nur Berechtigungen anzeigen werden nur innerhalb einer Power App gewährt. <br/>
+<sup>12</sup> Kunden mit einer Microsoft Project Plan 3/5-Lizenz(n) dürfen universal Resource Scheduling nur verwenden, um Project und Vorgangstabellen im Kontext eines Projekts zu planen. <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online Desktopclientfeatures
 
@@ -262,7 +267,7 @@ Wenn der Fluss isoliert ist und nichts mit der Project Anwendung zu tun hat, mus
 ## <a name="service-considerations"></a>Überlegungen zum Dienst
 
 > [!NOTE]
-> Project für das Web ist derzeit für GCC, GCC High und DoD nicht verfügbar. Wir arbeiten daran, Ihnen Project für das Web zu liefern, können aber derzeit keinen festen Zeitrahmen freigeben.
+> Project für das Web ist derzeit für GCC, GCC Hoch und DoD nicht verfügbar. Wir arbeiten an der Bereitstellung von Project für das Web für Sie, können aber derzeit keinen festen Zeitrahmen freigeben.
 
 ### <a name="licensing-considerations"></a>Hinweise zur Lizenzierung
 
@@ -274,7 +279,7 @@ Wenn der Fluss isoliert ist und nichts mit der Project Anwendung zu tun hat, mus
 
 ### <a name="use-of-sharepoint-online"></a>Verwenden von SharePoint Online
 
-Project Online erfordert die Verwendung von SharePoint Online, die als Teil von Project Online bereitgestellt wird. Die Rechte an den SharePoint Onlinefunktionen, die mit Project Plan 3 oder Project Plan 5 Abonnements bereitgestellt werden, sind auf das Speichern und Zugreifen auf Daten beschränkt, um Project Online zu unterstützen.
+Project Online erfordert die Verwendung von SharePoint Online, die im Rahmen Project Online bereitgestellt wird. Die Rechte auf die mit Project Plan 3 oder Project Plan 5 Abonnements bereitgestellten SharePoint Onlinefunktionen sind auf das Speichern und Zugreifen auf Daten zur Unterstützung von Project Online beschränkt.
 
 ### <a name="project-roadmap-and-power-automate"></a>Project Roadmap und Power Automate
 
@@ -282,7 +287,7 @@ Project Die Roadmap erfordert die Verwendung von Power Automate, die als Teil Ih
 
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project für das Web und Microsoft Dataverse
 
-Project für das Web erfordert die Verwendung von Microsoft Dataverse zum Speichern seiner Daten. Eine Microsoft Dataverse-Datenbank wird als Teil Ihres Project Abonnements bereitgestellt. Rechte an Microsoft Dataverse-Funktionen sind auf das Speichern und Zugreifen auf Daten beschränkt, um Project für das Web zu unterstützen. Microsoft Dataverse-Funktionen, die von Project benötigt werden, werden im Abschnitt **"Apps"** des Microsoft 365 Admin Center als **allgemeiner Datendienst für** Project Serviceplan angezeigt.
+Project für das Web erfordert die Verwendung von Microsoft Dataverse zum Speichern seiner Daten. Eine Microsoft Dataverse-Datenbank wird als Teil Ihres Project Abonnements bereitgestellt. Die Rechte an Microsoft Dataverse-Funktionen sind auf das Speichern und Zugreifen auf Daten beschränkt, um Project für das Web zu unterstützen. Microsoft Dataverse-Funktionen, die von Project benötigt werden, werden im Abschnitt **"Apps"** des Microsoft 365 Admin Center als **allgemeiner Datendienst für Project** Serviceplan angezeigt.
 
 Für Project Kunden mit fünf (5) oder mehr Project für die Weblizenzen können Project für das Web Kunden in Power Platform Production- und Sandbox-Umgebungen bereitstellen.
 
@@ -300,14 +305,14 @@ Project für das Web und Project Online verfügen über dieselbe Datensicherungs
 
 ### <a name="data-encryption"></a>Datenverschlüsselung
 
-- Weitere Informationen zur Datenverschlüsselung in Project Online finden Sie unter [Datenverschlüsselung in OneDrive for Business und SharePoint Online – Microsoft 365 Compliance-| Microsoft-Dokumente](/microsoft-365/compliance/data-encryption-in-odb-and-spo)
+- Weitere Informationen zur Datenverschlüsselung in Project Online finden Sie unter [Datenverschlüsselung in OneDrive for Business und SharePoint Online – Microsoft 365 Compliance | Microsoft-Dokumente](/microsoft-365/compliance/data-encryption-in-odb-and-spo)
 - Weitere Informationen zur Datenverschlüsselung in Project für das Web finden Sie unter ["Verschlüsselung in Microsoft Dynamics 365 – Microsoft 365 Compliance | Microsoft-Dokumente](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Project für die Webgrenzen und -beschränkungen
 
-Project für das Web hat einige Einschränkungen, die in der folgenden Tabelle beschrieben werden.<br><br>
+Project für das Web weist einige Einschränkungen auf, die in der folgenden Tabelle beschrieben werden.<br><br>
 
-| Entität/Feld | Grenzwert |
+| Entität/Feld | Grenze |
 |-------------|-------|
 |**Aufgabe** ||
 |Max. Hierarchieebene für Aufgabe | 10 Ebenen |
@@ -316,7 +321,7 @@ Project für das Web hat einige Einschränkungen, die in der folgenden Tabelle b
 |Max. Dauer des Sammelvorgangs | 3650 Tage (10 Jahre) |
 |Max. Ressourcen, die einem Vorgang zugewiesen werden können | 20 Ressourcen |
 |Unterstützter Datumsbereich für Vorgang | 1/1/2000 &ndash; 31.12.2149 |
-|**Projekt** ||
+|**Project** ||
 |Max. Gesamtanzahl der Vorgänge für das Projekt | 500 |
 |Max. Gesamtdauer des Projekts | 3650 Tage (10 Jahre) |
 |Max. Gesamtressourcen für das Projekt | 150 |
@@ -324,4 +329,4 @@ Project für das Web hat einige Einschränkungen, die in der folgenden Tabelle b
 
 ### <a name="project-online-boundaries-and-limitations"></a>Project Online Grenzen und Einschränkungen
 
-Project Online hat einige Einschränkungen. Ausführliche Informationen finden Sie unter [Project Online: Softwarebeschränkungen und -beschränkungen.](https://support.office.com/article/5A09DBCE-1E68-4A7B-B099-D5F1B21BA489)
+Project Online gelten einige Einschränkungen. Ausführliche Informationen finden Sie unter [Project Online: Softwarebeschränkungen und -beschränkungen.](https://support.office.com/article/5A09DBCE-1E68-4A7B-B099-D5F1B21BA489)
