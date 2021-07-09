@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Weitere Informieren zu den SharePoint-Beschränkungen für Microsoft 365- und eigenständige Pläne.
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767475"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338338"
 ---
 # <a name="sharepoint-limits"></a>SharePoint-Beschränkungen
 
@@ -30,7 +30,7 @@ Weitere Informationen zu Dienstbeschränkungen in SharePoint für Microsoft 365.
 |Websites (Websitesammlungen) pro Organisation  <br/> |2 Mio.<sup>6</sup> <br/> |2 Mio.<sup>6</sup> <br/> |2 Mio.<br/> |
 |Anzahl der Benutzer  <br/> |Bis zu 300  <br/> |1-500.000<sup>7</sup> <br/> |1-500.000<sup>7</sup> <br/> |
    
-<sup>1</sup> [Erfahren Sie, wie Sie den gesamten und verfügbaren Speicherplatz für Ihre Organisation finden können](/sharepoint/manage-site-collection-storage-limits). Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher kaufen. Weitere [Informationen finden Sie unter Hinzufügen von Speicherplatz für Ihr Abonnement.](/office365/admin/subscriptions-and-billing/add-storage-space) 
+<sup>1</sup> [Erfahren Sie, wie Sie den gesamten und verfügbaren Speicherplatz für Ihre Organisation finden können](/sharepoint/manage-site-collection-storage-limits). Sie können eine unbegrenzte Menge an zusätzlichem SharePoint-Speicher kaufen. Weitere Informationen finden Sie unter [Hinzufügen von Speicherplatz für Ihr Abonnement.](/office365/admin/subscriptions-and-billing/add-storage-space) 
 <br/><sup>2</sup> Es wird empfohlen, den Papierkorb zu überwachen und regelmäßig zu leeren. Der vom Papierkorb belegte Speicherplatz ist Teil des Limits des Gesamtspeicherplatzes der Organisation. 
 <br/> <sup>3</sup> Wenn Sie ein Microsoft 365-Abonnement und einen zusätzlichen Office 365-Dateispeicherplatz-Add-On haben, werden die Speichermengen hinzugefügt. 
 <br/> <sup>4</sup> dies ist das *Limit* des Speichers für eine einzelne Website (früher als „Websitesammlung“ bezeichnet), nicht die Größe des Speicherplatzes, der für jede Website *bereitgestellt* wird. Dieses Limit gilt für alle Typen von Websites, einschließlich Office 365-Teamwebsites, die mit einer Gruppe verbunden sind, und OneDrive. SharePoint-Administratoren können [manuell niedrigere Speicherlimits festlegen](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
@@ -50,7 +50,11 @@ Entwerfen Sie umfangreiche Listen so, dass sie über so wenig eindeutiger Berech
 
 ### <a name="file-size-and-file-path-length"></a>Dateigröße und Dateipfadlänge
 
-250 GB. Weitere Informationen zu den Einschränkungen und Limits bei der Verwendung der neuen OneDrive-Synchronisationsapp (OneDrive.exe) finden Sie unter [Ungültige Dateinamen und Dateitypen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **250 GB – Dateiuploadlimit.** Gilt für jede einzelne Datei, die auf Microsoft Teams Registerkarte "Dateien" hochgeladen wurde, SharePoint Dokumentbibliotheken, OneDrive Ordner und Yammer Unterhaltungen.
+
+- **250 MB – Datei, die an ein Listenelement angefügt ist.** Gilt für Microsoft-Listen und SharePoint Listen – beides basierend auf derselben Listenplattform.
+
+Weitere Informationen zu den Einschränkungen und Limits bei der Verwendung der neuen OneDrive-Synchronisationsapp (OneDrive.exe) finden Sie unter [Ungültige Dateinamen und Dateitypen](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 ### <a name="moving-and-copying-across-sites"></a>Websiteübergreifendes Verschieben und Kopieren
 
@@ -77,7 +81,7 @@ Ein Benutzer kann 5.000 Gruppen per Website (Websitesammlung) angehören, und je
 
 ### <a name="managed-metadata"></a>Verwaltete Metadaten
 
-1 Million Begriffe insgesamt mit insgesamt 2 Millionen Ausdrucksbezeichnungen und 1 Million Ausdruckseigenschaften (diese Beschränkungen gelten für globale & Begriffe auf Standortebene kombiniert). 1.000 globale Ausdruckssätze und 1.000 globale Gruppen.
+1 Million Begriffe insgesamt mit insgesamt 2 Millionen Begriffsbezeichnungen und 1 Million Begriffseigenschaften (diese Grenzwerte gelten für globale & Begriffe auf Websiteebene kombiniert). 1.000 globale Ausdruckssätze und 1.000 globale Gruppen.
 
 ### <a name="overall-site-metadata"></a>Metadaten der gesamten Website
 
