@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Informieren Sie sich über die Verfügbarkeit von Microsoft Teams-Diensten und -Funktionen in allen Microsoft 365- und Office 365-Plänen.
-ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
+ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077519"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409682"
 ---
 # <a name="microsoft-teams-service-description"></a>Microsoft Teams – Dienstbeschreibung
 
@@ -21,7 +21,7 @@ Microsoft Teams ist der Hub für die Zusammenarbeit in Microsoft 365. Der Teams-
 
 ## <a name="available-plans"></a>Verfügbare Pläne
 
-Detaillierte Planinformationen zu Abonnements, die Benutzern die Nutzung von Microsoft Bookings ermöglichen, finden Sie in der [vollständigen Abonnementvergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145).
+Ausführliche Informationen zum Plan zu Abonnements, die Benutzer für Microsoft Stream ermöglichen, finden Sie in der [vollständigen Vergleichstabelle](https://go.microsoft.com/fwlink/?linkid=2139145)für Abonnements.
 
 ## <a name="feature-availability"></a>Verfügbarkeit von Funktionen
 
@@ -78,7 +78,7 @@ Lizenzierungsbestimmungen für Produkte und Dienste, die Sie über kommerzielle 
 
 ### <a name="messaging"></a>Nachrichten
 
-Um den Überblick über bevorstehende Änderungen zu behalten, einschließlich neuer und geänderter Funktionen, geplanter Wartungsarbeiten oder anderer wichtiger Ankündigungen, besuchen Sie das Nachrichtencenter. Weitere Informationen finden Sie unter [Nachrichtencenter](/microsoft-365/admin/manage/message-center).
+Besuchen Sie die Nachrichtencenter, um anstehende Änderungen nachzuverfolgen, einschließlich neuer und geänderter Features, geplanter Wartung oder anderer wichtiger Ankündigungen. Weitere Informationen finden Sie unter [Nachrichtencenter](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Barrierefreiheit
 
